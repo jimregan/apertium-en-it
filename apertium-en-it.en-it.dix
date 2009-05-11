@@ -7,7 +7,7 @@
 	Sdefs: 93
       
       Patterns applied:
-      	default (686 times)
+      	default (676 times)
       	ND-0 (1564 times)
       	ND-1 (1548 times)
       	ND-2 (884 times)
@@ -59,6 +59,8 @@
       	ND-66 (6 times)
       	ND-67 (6 times)
       	ND-68 (7 times)
+      	ND-75 (6 times)
+      	ND-74 (4 times)
       	ND-390 (1 times)
 
 -->
@@ -15606,13 +15608,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-75
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>birthday<s n="n"/><s n="ND"/></l> 
-        <r>compleanno<s n="n"/></r> 
+        <r>compleanno<s n="n"/><s n="m"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -19731,13 +19733,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-75
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>chassis<s n="n"/><s n="ND"/></l> 
-        <r>telaio<s n="n"/></r> 
+        <r>telaio<s n="n"/><s n="m"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -35241,13 +35243,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-75
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>fetus<s n="n"/><s n="ND"/></l> 
-        <r>feto<s n="n"/></r> 
+        <r>feto<s n="n"/><s n="m"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -41555,13 +41557,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-74
     -->
-    <e c="MG: traducció per defecte ca-en és per ara 'his'">
+    <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'">
       <p>
         <l>hers<s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></l> 
-        <r>il<b/>suo<s n="prn"/></r> 
+        <r>il<b/>suo<s n="prn"/><s n="pos"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -41863,13 +41865,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-74
     -->
-    <e c="MG: traducció per defecte ca-en és per ara 'his'">
+    <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'">
       <p>
         <l>his<s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></l> 
-        <r>il<b/>suo<s n="prn"/></r> 
+        <r>il<b/>suo<s n="prn"/><s n="pos"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -53281,13 +53283,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-74
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>mine<s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></l> 
-        <r>il<b/>mio<s n="prn"/></r> 
+        <r>il<b/>mio<s n="prn"/><s n="pos"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -56867,13 +56869,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-75
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>oasis<s n="n"/><s n="ND"/></l> 
-        <r>oasi<s n="n"/></r> 
+        <r>oasi<s n="n"/><s n="m"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -72542,13 +72544,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-75
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>skyscraper<s n="n"/><s n="ND"/></l> 
-        <r>grattacielo<s n="n"/></r> 
+        <r>grattacielo<s n="n"/><s n="m"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -78592,13 +78594,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-74
     -->
-    <e c="MG: traducció per defecte ca-en és per ara 'his'">
+    <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'">
       <p>
         <l>theirs<s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></l> 
-        <r>il<b/>suo<s n="prn"/></r> 
+        <r>il<b/>suo<s n="prn"/><s n="pos"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -81650,13 +81652,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-75
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>umbrella<s n="n"/><s n="ND"/></l> 
-        <r>ombrello<s n="n"/></r> 
+        <r>ombrello<s n="n"/><s n="m"/><s n="sp"/></r> 
       </p>
     </e>
 
