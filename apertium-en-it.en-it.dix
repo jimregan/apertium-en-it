@@ -7,7 +7,7 @@
 	Sdefs: 93
       
       Patterns applied:
-      	default (622 times)
+      	default (615 times)
       	ND-0 (1549 times)
       	ND-1 (1542 times)
       	ND-2 (853 times)
@@ -73,6 +73,8 @@
       	ND-80 (1 times)
       	ND-81 (5 times)
       	ND-82 (5 times)
+      	ND-87 (4 times)
+      	ND-98 (3 times)
       	ND-390 (1 times)
 
 -->
@@ -3433,12 +3435,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-87
     -->
     <e>
       <p>
         <l>Linux<s n="np"/><s n="al"/></l> 
-        <r>Linux<s n="np"/></r> 
+        <r>Linux<s n="np"/><s n="al"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -3917,12 +3919,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-87
     -->
     <e>
       <p>
         <l>Microsoft<s n="np"/><s n="al"/></l> 
-        <r>Microsoft<s n="np"/></r> 
+        <r>Microsoft<s n="np"/><s n="al"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -4676,12 +4678,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-87
     -->
     <e>
       <p>
         <l>Repsol<s n="np"/><s n="al"/></l> 
-        <r>Repsol<s n="np"/></r> 
+        <r>Repsol<s n="np"/><s n="al"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -5490,12 +5492,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-87
     -->
     <e>
       <p>
         <l>Unix<s n="np"/><s n="al"/></l> 
-        <r>Unix<s n="np"/></r> 
+        <r>Unix<s n="np"/><s n="al"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -78013,7 +78015,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-98
     -->
     <e>
       <p>
@@ -84371,7 +84373,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-98
     -->
     <e>
       <p>
@@ -84503,7 +84505,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-98
     -->
     <e>
       <p>

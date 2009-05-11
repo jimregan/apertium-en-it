@@ -2409,6 +2409,65 @@
 </action-set>
 </cross-action>
 <!-- 9 entries like this -->
+<cross-action id="ND-87">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="np"/><s n="al"/></l> 
+        <r>$lemmaB<s n="np"/><s n="al"/><s n="m"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="np"/></l> 
+        <r>$lemmaC<s n="np"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="np"/><s n="al"/></l> 
+        <r>$lemmaC<s n="np"/><s n="al"/><s n="m"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<!-- 7 entries like this -->
+<cross-action id="ND-98">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="rel"/></l> 
+        <r>$lemmaB<s n="rel"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="rel"/></l> 
+        <r>$lemmaC<s n="rel"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="rel"/></l> 
+        <r>$lemmaC<s n="rel"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+
+</cross-action>
+<!-- 7 entries like this -->
 
 
 <!-- These can be considered 'lexicalised' crossings -->
