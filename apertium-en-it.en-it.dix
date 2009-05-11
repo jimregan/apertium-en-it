@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: en-it
 	Sections: 1
-	Entries: 7716
+	Entries: 7737
 	Sdefs: 93
       
       Patterns applied:
-      	default (1184 times)
+      	default (1158 times)
       	ND-0 (1571 times)
       	ND-1 (1548 times)
       	ND-2 (884 times)
@@ -20,6 +20,9 @@
       	ND-9 (151 times)
       	ND-10 (137 times)
       	ND-11 (95 times)
+      	ND-13 (20 times)
+      	ND-14 (20 times)
+      	ND-15 (7 times)
 
 -->
 <dictionary>
@@ -5798,23 +5801,45 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-13
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>ability<s n="n"/></l> 
+        <l>ability<s n="n"/><s n="sg"/></l> 
         <r>abilità<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-14
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>ability<s n="n"/></l> 
+        <l>ability<s n="n"/><s n="pl"/></l> 
+        <r>abilità<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-13
+    -->
+    <e r="LR">
+      <p>
+        <l>ability<s n="n"/><s n="sg"/></l> 
+        <r>capacità<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-14
+    -->
+    <e r="LR">
+      <p>
+        <l>ability<s n="n"/><s n="pl"/></l> 
         <r>capacità<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -5908,10 +5933,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-15
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>about<s n="pr"/></l> 
         <r>circa<s n="pr"/></r> 
@@ -6436,12 +6461,23 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-13
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>accountancy<s n="n"/></l> 
+        <l>accountancy<s n="n"/><s n="sg"/></l> 
+        <r>contabilità<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-14
+    -->
+    <e r="LR">
+      <p>
+        <l>accountancy<s n="n"/><s n="pl"/></l> 
         <r>contabilità<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -7426,12 +7462,23 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-13
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>advert<s n="n"/></l> 
+        <l>advert<s n="n"/><s n="sg"/></l> 
+        <r>pubblicità<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-14
+    -->
+    <e r="LR">
+      <p>
+        <l>advert<s n="n"/><s n="pl"/></l> 
         <r>pubblicità<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -9241,12 +9288,23 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-13
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>amount<s n="n"/></l> 
+        <l>amount<s n="n"/><s n="sg"/></l> 
+        <r>quantità<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-14
+    -->
+    <e r="LR">
+      <p>
+        <l>amount<s n="n"/><s n="pl"/></l> 
         <r>quantità<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -10055,12 +10113,23 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-13
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>antithesis<s n="n"/></l> 
+        <l>antithesis<s n="n"/><s n="sg"/></l> 
+        <r>antitesi<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-14
+    -->
+    <e r="LR">
+      <p>
+        <l>antithesis<s n="n"/><s n="pl"/></l> 
         <r>antitesi<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -17139,10 +17208,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-15
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>by<b/>means<b/>of<s n="pr"/></l> 
         <r>tramite<s n="pr"/></r> 
@@ -18932,12 +19001,23 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-13
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>chance<s n="n"/></l> 
+        <l>chance<s n="n"/><s n="sg"/></l> 
+        <r>possibilità<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-14
+    -->
+    <e r="LR">
+      <p>
+        <l>chance<s n="n"/><s n="pl"/></l> 
         <r>possibilità<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -20945,12 +21025,23 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-13
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>college<s n="n"/></l> 
+        <l>college<s n="n"/><s n="sg"/></l> 
+        <r>università<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-14
+    -->
+    <e r="LR">
+      <p>
+        <l>college<s n="n"/><s n="pl"/></l> 
         <r>università<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -22364,12 +22455,23 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-13
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>conformity<s n="n"/></l> 
+        <l>conformity<s n="n"/><s n="sg"/></l> 
+        <r>conformità<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-14
+    -->
+    <e r="LR">
+      <p>
+        <l>conformity<s n="n"/><s n="pl"/></l> 
         <r>conformità<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -24278,23 +24380,45 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-13
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>craft<s n="n"/></l> 
+        <l>craft<s n="n"/><s n="sg"/></l> 
         <r>abilità<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-14
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>craft<s n="n"/></l> 
+        <l>craft<s n="n"/><s n="pl"/></l> 
+        <r>abilità<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-13
+    -->
+    <e r="LR">
+      <p>
+        <l>craft<s n="n"/><s n="sg"/></l> 
+        <r>capacità<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-14
+    -->
+    <e r="LR">
+      <p>
+        <l>craft<s n="n"/><s n="pl"/></l> 
         <r>capacità<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -25389,12 +25513,23 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-13
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>dark<s n="n"/></l> 
+        <l>dark<s n="n"/><s n="sg"/></l> 
+        <r>oscurità<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-14
+    -->
+    <e r="LR">
+      <p>
+        <l>dark<s n="n"/><s n="pl"/></l> 
         <r>oscurità<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -43308,10 +43443,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-15
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>in<b/>front<b/>of<s n="pr"/></l> 
         <r>davanti<s n="pr"/></r> 
@@ -43319,10 +43454,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-15
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>in<b/>front<b/>of<s n="pr"/></l> 
         <r>davanti<b/>a<s n="pr"/></r> 
@@ -48654,12 +48789,23 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-13
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>liability<s n="n"/></l> 
+        <l>liability<s n="n"/><s n="sg"/></l> 
+        <r>responsabilità<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-14
+    -->
+    <e r="LR">
+      <p>
+        <l>liability<s n="n"/><s n="pl"/></l> 
         <r>responsabilità<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -56706,10 +56852,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-15
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>on<s n="pr"/></l> 
         <r>sopra<s n="pr"/></r> 
@@ -56717,10 +56863,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-15
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>on<s n="pr"/></l> 
         <r>su<s n="pr"/></r> 
@@ -59203,12 +59349,23 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-13
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>partnership<s n="n"/></l> 
+        <l>partnership<s n="n"/><s n="sg"/></l> 
+        <r>società<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-14
+    -->
+    <e r="LR">
+      <p>
+        <l>partnership<s n="n"/><s n="pl"/></l> 
         <r>società<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -64406,12 +64563,23 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-13
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>publicity<s n="n"/></l> 
+        <l>publicity<s n="n"/><s n="sg"/></l> 
+        <r>pubblicità<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-14
+    -->
+    <e r="LR">
+      <p>
+        <l>publicity<s n="n"/><s n="pl"/></l> 
         <r>pubblicità<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -77804,12 +77972,23 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-13
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>thesis<s n="n"/></l> 
+        <l>thesis<s n="n"/><s n="sg"/></l> 
+        <r>tesi<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-14
+    -->
+    <e r="LR">
+      <p>
+        <l>thesis<s n="n"/><s n="pl"/></l> 
         <r>tesi<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -78563,10 +78742,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-15
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>to<s n="pr"/></l> 
         <r>verso<s n="pr"/></r> 
@@ -79212,12 +79391,23 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-13
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>town<s n="n"/></l> 
+        <l>town<s n="n"/><s n="sg"/></l> 
+        <r>città<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-14
+    -->
+    <e r="LR">
+      <p>
+        <l>town<s n="n"/><s n="pl"/></l> 
         <r>città<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -80147,6 +80337,28 @@
     </e>
 
     <!-- 
+	forced 'LR' restriction
+      ND-13
+    -->
+    <e r="LR">
+      <p>
+        <l>truth<s n="n"/><s n="sg"/></l> 
+        <r>verità<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-14
+    -->
+    <e r="LR">
+      <p>
+        <l>truth<s n="n"/><s n="pl"/></l> 
+        <r>verità<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       ND-2
     -->
@@ -80939,12 +81151,23 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-13
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>unity<s n="n"/></l> 
+        <l>unity<s n="n"/><s n="sg"/></l> 
+        <r>unità<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-14
+    -->
+    <e r="LR">
+      <p>
+        <l>unity<s n="n"/><s n="pl"/></l> 
         <r>unità<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -81808,12 +82031,23 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-13
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>velocity<s n="n"/></l> 
+        <l>velocity<s n="n"/><s n="sg"/></l> 
+        <r>velocità<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-14
+    -->
+    <e r="LR">
+      <p>
+        <l>velocity<s n="n"/><s n="pl"/></l> 
         <r>velocità<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
