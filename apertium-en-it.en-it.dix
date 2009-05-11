@@ -3,12 +3,12 @@
 	Dictionary:
 	Bilingual dictionary: en-it
 	Sections: 1
-	Entries: 7820
+	Entries: 7814
 	Sdefs: 93
       
       Patterns applied:
       	default (741 times)
-      	ND-0 (1570 times)
+      	ND-0 (1564 times)
       	ND-1 (1548 times)
       	ND-2 (884 times)
       	ND-3 (731 times)
@@ -674,7 +674,7 @@
     <e>
       <p>
         <l>April<s n="n"/></l> 
-        <r>abril<s n="n"/><s n="m"/></r> 
+        <r>aprile<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -697,17 +697,6 @@
       <p>
         <l>April<s n="n"/><s n="sg"/></l> 
         <r>aprile<s n="n"/><s n="m"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-0
-    -->
-    <e>
-      <p>
-        <l>April<s n="n"/></l> 
-        <r>aprile<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -1653,7 +1642,7 @@
     <e>
       <p>
         <l>December<s n="n"/></l> 
-        <r>diciembre<s n="n"/><s n="m"/></r> 
+        <r>dicembre<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -1665,17 +1654,6 @@
       <p>
         <l>December<s n="n"/><s n="sg"/></l> 
         <r>dicembre<s n="n"/><s n="m"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-0
-    -->
-    <e>
-      <p>
-        <l>December<s n="n"/></l> 
-        <r>dicembre<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -2016,7 +1994,7 @@
     <e>
       <p>
         <l>February<s n="n"/></l> 
-        <r>febrero<s n="n"/><s n="m"/></r> 
+        <r>febbraio<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -2028,17 +2006,6 @@
       <p>
         <l>February<s n="n"/><s n="sg"/></l> 
         <r>febbraio<s n="n"/><s n="m"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-0
-    -->
-    <e>
-      <p>
-        <l>February<s n="n"/></l> 
-        <r>febbraio<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -2984,7 +2951,7 @@
     <e>
       <p>
         <l>January<s n="n"/></l> 
-        <r>enero<s n="n"/><s n="m"/></r> 
+        <r>gennaio<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -2996,17 +2963,6 @@
       <p>
         <l>January<s n="n"/><s n="sg"/></l> 
         <r>gennaio<s n="n"/><s n="m"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-0
-    -->
-    <e>
-      <p>
-        <l>January<s n="n"/></l> 
-        <r>gennaio<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -3215,7 +3171,7 @@
     <e>
       <p>
         <l>July<s n="n"/></l> 
-        <r>julio<s n="n"/><s n="m"/></r> 
+        <r>joule<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -3259,7 +3215,7 @@
     <e>
       <p>
         <l>June<s n="n"/></l> 
-        <r>junio<s n="n"/><s n="m"/></r> 
+        <r>giugno<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -3864,7 +3820,7 @@
     <e>
       <p>
         <l>May<s n="n"/></l> 
-        <r>mayo<s n="n"/><s n="m"/></r> 
+        <r>maggio<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -3876,17 +3832,6 @@
       <p>
         <l>May<s n="n"/><s n="sg"/></l> 
         <r>maggio<s n="n"/><s n="m"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-0
-    -->
-    <e>
-      <p>
-        <l>May<s n="n"/></l> 
-        <r>maggio<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -4337,7 +4282,7 @@
     <e>
       <p>
         <l>November<s n="n"/></l> 
-        <r>noviembre<s n="n"/><s n="m"/></r> 
+        <r>novembre<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -4370,7 +4315,7 @@
     <e>
       <p>
         <l>October<s n="n"/></l> 
-        <r>octubre<s n="n"/><s n="m"/></r> 
+        <r>ottobre<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -5019,7 +4964,7 @@
     <e>
       <p>
         <l>September<s n="n"/></l> 
-        <r>septiembre<s n="n"/><s n="m"/></r> 
+        <r>settembre<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -5031,17 +4976,6 @@
       <p>
         <l>September<s n="n"/><s n="sg"/></l> 
         <r>settembre<s n="n"/><s n="m"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-0
-    -->
-    <e>
-      <p>
-        <l>September<s n="n"/></l> 
-        <r>settembre<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -22520,7 +22454,7 @@
     <e>
       <p>
         <l>computer<s n="n"/></l> 
-        <r>ordenador<s n="n"/><s n="m"/></r> 
+        <r>computer<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
