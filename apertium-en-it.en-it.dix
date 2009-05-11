@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: en-it
 	Sections: 1
-	Entries: 7944
+	Entries: 7942
 	Sdefs: 93
       
       Patterns applied:
-      	default (319 times)
+      	default (315 times)
       	ND-0 (1549 times)
       	ND-1 (1542 times)
       	ND-2 (853 times)
@@ -88,6 +88,7 @@
       	NDNoLR4-8 (4 times)
       	ND4-8 (5 times)
       	ND4-9 (5 times)
+      	ND5-8 (2 times)
       	ND-390 (1 times)
 
 -->
@@ -79545,21 +79546,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND5-8
     -->
-    <e>
-      <p>
-        <l>that<s n="prn"/><s n="tn"/><s n="mf"/></l> 
-        <r>quello<s n="prn"/><s n="tn"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
+    <e r="RL">
       <p>
         <l>that<s n="prn"/><s n="tn"/><s n="mf"/></l> 
         <r>quello<s n="prn"/><s n="tn"/><s n="f"/></r> 
@@ -80315,21 +80305,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND5-8
     -->
-    <e>
-      <p>
-        <l>this<s n="prn"/><s n="tn"/><s n="mf"/></l> 
-        <r>questo<s n="prn"/><s n="tn"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
+    <e r="RL">
       <p>
         <l>this<s n="prn"/><s n="tn"/><s n="mf"/></l> 
         <r>questo<s n="prn"/><s n="tn"/><s n="f"/></r> 
