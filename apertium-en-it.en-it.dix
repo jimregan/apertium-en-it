@@ -7,7 +7,7 @@
 	Sdefs: 93
       
       Patterns applied:
-      	default (315 times)
+      	default (311 times)
       	ND-0 (1549 times)
       	ND-1 (1542 times)
       	ND-2 (853 times)
@@ -89,6 +89,7 @@
       	ND4-8 (5 times)
       	ND4-9 (5 times)
       	ND5-8 (2 times)
+      	ND6NoLR-8 (4 times)
       	ND-390 (1 times)
 
 -->
@@ -9883,12 +9884,12 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND6NoLR-8
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>analysis<s n="n"/></l> 
+        <l>analysis<s n="n"/><s n="pl"/></l> 
         <r>analisi<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -20014,12 +20015,12 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND6NoLR-8
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>chat<s n="n"/></l> 
+        <l>chat<s n="n"/><s n="pl"/></l> 
         <r>chat<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -28099,12 +28100,12 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND6NoLR-8
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>diagnostic<s n="n"/></l> 
+        <l>diagnostic<s n="n"/><s n="pl"/></l> 
         <r>diagnosi<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -28693,12 +28694,12 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND6NoLR-8
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>directory<s n="n"/></l> 
+        <l>directory<s n="n"/><s n="pl"/></l> 
         <r>directory<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
