@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: en-it
 	Sections: 1
-	Entries: 7941
+	Entries: 7944
 	Sdefs: 93
       
       Patterns applied:
-      	default (329 times)
+      	default (319 times)
       	ND-0 (1549 times)
       	ND-1 (1542 times)
       	ND-2 (853 times)
@@ -45,7 +45,6 @@
       	ND-39 (13 times)
       	ND-36 (16 times)
       	ND-34 (4 times)
-      	ND-52 (1 times)
       	ND-57 (5 times)
       	ND-58 (6 times)
       	ND-59 (8 times)
@@ -85,6 +84,10 @@
       	ND3-1 (22 times)
       	ND3-3 (11 times)
       	ND3-5 (10 times)
+      	ND4-8 (5 times)
+      	NDNoLR4-8 (4 times)
+      	ND4-8 (5 times)
+      	ND4-9 (5 times)
       	ND-390 (1 times)
 
 -->
@@ -7900,7 +7903,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-52
+      ND4-8
     -->
     <e>
       <p>
@@ -10452,7 +10455,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND4-8
     -->
     <e>
       <p>
@@ -13939,7 +13942,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND4-8
     -->
     <e>
       <p>
@@ -17646,7 +17649,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND4-9
     -->
     <e>
       <p>
@@ -19549,7 +19552,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND4-9
     -->
     <e>
       <p>
@@ -19571,7 +19574,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND4-9
     -->
     <e>
       <p>
@@ -20016,6 +20019,17 @@
     <e>
       <p>
         <l>chat<s n="n"/></l> 
+        <r>chat<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      NDNoLR4-8
+    -->
+    <e r="RL">
+      <p>
+        <l>chat<s n="n"/><s n="ND"/></l> 
         <r>chat<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -24070,7 +24084,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND4-8
     -->
     <e>
       <p>
@@ -28095,6 +28109,17 @@
     </e>
 
     <!-- 
+	forced 'RL' restriction
+      NDNoLR4-8
+    -->
+    <e r="RL">
+      <p>
+        <l>diagnostic<s n="n"/><s n="ND"/></l> 
+        <r>diagnosi<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       ND-0
     -->
@@ -28673,6 +28698,17 @@
     <e>
       <p>
         <l>directory<s n="n"/></l> 
+        <r>directory<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      NDNoLR4-8
+    -->
+    <e r="RL">
+      <p>
+        <l>directory<s n="n"/><s n="ND"/></l> 
         <r>directory<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -32188,7 +32224,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND4-8
     -->
     <e>
       <p>
@@ -43506,12 +43542,12 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      NDNoLR4-8
     -->
-    <e>
+    <e r="RL">
       <p>
-        <l>hundred<s n="n"/></l> 
+        <l>hundred<s n="n"/><s n="ND"/></l> 
         <r>centinaio<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
@@ -64726,7 +64762,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND4-9
     -->
     <e>
       <p>
@@ -66585,7 +66621,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND4-9
     -->
     <e>
       <p>
