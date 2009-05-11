@@ -50,7 +50,7 @@
             <action>
                 <e>
                     <p>
-                        <l>$lemmaA<s n="n"/><s n="m"/></l>
+                        <l>$lemmaA<s n="n"/></l>
                         <r>$lemmaC<s n="n"/><s n="m"/></r>
                     </p>
                 </e>
@@ -81,7 +81,7 @@
             <action>
                 <e>
                     <p>
-                        <l>$lemmaA<s n="n"/><s n="f"/></l>
+                        <l>$lemmaA<s n="n"/></l>
                         <r>$lemmaC<s n="n"/><s n="f"/></r>
                     </p>
                 </e>
