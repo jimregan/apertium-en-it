@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: en-it
 	Sections: 1
-	Entries: 7786
+	Entries: 7787
 	Sdefs: 93
       
       Patterns applied:
-      	default (631 times)
+      	default (622 times)
       	ND-0 (1549 times)
       	ND-1 (1542 times)
       	ND-2 (853 times)
@@ -71,6 +71,8 @@
       	ND-78 (6 times)
       	ND-79 (3 times)
       	ND-80 (1 times)
+      	ND-81 (5 times)
+      	ND-82 (5 times)
       	ND-390 (1 times)
 
 -->
@@ -41105,13 +41107,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-82
     -->
-    <e c="MG: traducció per defecte ca-en és per ara 'his'">
+    <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'">
       <p>
         <l>her<s n="det"/><s n="pos"/><s n="sp"/></l> 
-        <r>il<b/>suo<s n="det"/><s n="pos"/><s n="GD"/></r> 
+        <r>il<b/>suo<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -41545,13 +41547,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-82
     -->
-    <e c="MG: traducció per defecte ca-en és per ara 'his'">
+    <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'">
       <p>
         <l>his<s n="det"/><s n="pos"/><s n="sp"/></l> 
-        <r>il<b/>suo<s n="det"/><s n="pos"/><s n="GD"/></r> 
+        <r>il<b/>suo<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -46759,13 +46761,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-82
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>its<s n="det"/><s n="pos"/><s n="sp"/></l> 
-        <r>il<b/>suo<s n="det"/><s n="pos"/><s n="GD"/></r> 
+        <r>il<b/>suo<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -54745,13 +54747,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-82
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>my<s n="det"/><s n="pos"/><s n="sp"/></l> 
-        <r>il<b/>mio<s n="det"/><s n="pos"/><s n="GD"/></r> 
+        <r>il<b/>mio<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -60928,12 +60930,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-81
     -->
     <e>
       <p>
         <l>personnel<s n="n"/><s n="pl"/></l> 
-        <r>personale<s n="n"/></r> 
+        <r>personale<s n="n"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -74359,12 +74361,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-81
     -->
     <e>
       <p>
         <l>staff<s n="n"/><s n="pl"/></l> 
-        <r>personale<s n="n"/></r> 
+        <r>personale<s n="n"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -76295,12 +76297,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-81
     -->
     <e>
       <p>
         <l>surroundings<s n="n"/><s n="pl"/></l> 
-        <r>ambiente<s n="n"/></r> 
+        <r>ambiente<s n="n"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -78230,13 +78232,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-82
     -->
-    <e c="MG: traducció per defecte ca-en és per ara 'his'">
+    <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'">
       <p>
         <l>their<s n="det"/><s n="pos"/><s n="sp"/></l> 
-        <r>il<b/>suo<s n="det"/><s n="pos"/><s n="GD"/></r> 
+        <r>il<b/>suo<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -80800,6 +80802,17 @@
       <p>
         <l>trousers<s n="n"/><s n="pl"/></l> 
         <r>brache<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-81
+    -->
+    <e>
+      <p>
+        <l>trousers<s n="n"/><s n="pl"/></l> 
+        <r>brache<s n="n"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -85018,12 +85031,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-81
     -->
     <e>
       <p>
         <l>wood<s n="n"/><s n="pl"/></l> 
-        <r>bosco<s n="n"/></r> 
+        <r>bosco<s n="n"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
