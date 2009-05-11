@@ -3,6 +3,7 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
+/apertium-en-it.en-it.dix -text
 /apertium-en-it.en-it.t1x -text
 /apertium-en-it.en-it.t2x -text
 /apertium-en-it.en-it.t3x -text
@@ -18,6 +19,7 @@
 /apertium-en-it.post-it.dix -text
 /autogen.sh -text
 /buscaPar.xsl -text
+dev/cross-model-en-es-it.xml -text
 dev/cross.xml -text
 /modes.xml -text
 /principal.xsl -text
