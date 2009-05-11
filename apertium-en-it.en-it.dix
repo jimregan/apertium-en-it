@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: en-it
 	Sections: 1
-	Entries: 7818
+	Entries: 7834
 	Sdefs: 93
       
       Patterns applied:
-      	default (796 times)
+      	default (780 times)
       	ND-0 (1571 times)
       	ND-1 (1548 times)
       	ND-2 (884 times)
@@ -41,6 +41,10 @@
       	ND-30 (14 times)
       	ND-31 (15 times)
       	ND-33 (4 times)
+      	ND-28 (10 times)
+      	ND-35 (2 times)
+      	ND-41 (7 times)
+      	ND-40 (13 times)
       	ND-390 (1 times)
 
 -->
@@ -7372,6 +7376,17 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-41
+    -->
+    <e>
+      <p>
+        <l>adicto<s n="n"/></l> 
+        <r>dipendente<s n="n"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-4
     -->
     <e>
@@ -8526,6 +8541,17 @@
     </e>
 
     <!-- 
+	forced 'null' restriction
+      ND-41
+    -->
+    <e>
+      <p>
+        <l>albanés<s n="n"/></l> 
+        <r>albanese<s n="n"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'LR' restriction
       ND-21
     -->
@@ -9061,6 +9087,28 @@
       <p>
         <l>alms<s n="n"/><s n="pl"/></l> 
         <r>elemòsina<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND-28
+    -->
+    <e r="RL">
+      <p>
+        <l>alms<s n="n"/><s n="pl"/></l> 
+        <r>elemosina<s n="n"/><s n="f"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND-28
+    -->
+    <e r="RL">
+      <p>
+        <l>alms<s n="n"/><s n="pl"/></l> 
+        <r>elemòsina<s n="n"/><s n="f"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -9952,6 +10000,17 @@
       <p>
         <l>anglo-saxon<s n="adj"/></l> 
         <r>anglosassone<s n="adj"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-41
+    -->
+    <e>
+      <p>
+        <l>anglosajón<s n="n"/></l> 
+        <r>anglosassone<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -21012,6 +21071,17 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-41
+    -->
+    <e>
+      <p>
+        <l>cliente<s n="n"/></l> 
+        <r>cliente<s n="n"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-1
     -->
     <e>
@@ -25836,6 +25906,17 @@
       <p>
         <l>customs<s n="n"/><s n="pl"/></l> 
         <r>dogana<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND-28
+    -->
+    <e r="RL">
+      <p>
+        <l>customs<s n="n"/><s n="pl"/></l> 
+        <r>dogana<s n="n"/><s n="f"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -30835,12 +30916,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-40
     -->
     <e>
       <p>
         <l>eighteen<s n="num"/></l> 
-        <r>diciotto<s n="num"/></r> 
+        <r>diciotto<s n="num"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -31176,12 +31257,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-40
     -->
     <e>
       <p>
         <l>eleven<s n="num"/></l> 
-        <r>undici<s n="num"/></r> 
+        <r>undici<s n="num"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -35422,12 +35503,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-40
     -->
     <e>
       <p>
         <l>fifteen<s n="num"/></l> 
-        <r>quindici<s n="num"/></r> 
+        <r>quindici<s n="num"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -37127,12 +37208,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-40
     -->
     <e>
       <p>
         <l>fourteen<s n="num"/></l> 
-        <r>quattordici<s n="num"/></r> 
+        <r>quattordici<s n="num"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -54132,6 +54213,17 @@
     </e>
 
     <!-- 
+	forced 'RL' restriction
+      ND-28
+    -->
+    <e r="RL" c="check">
+      <p>
+        <l>moral<s n="n"/><s n="pl"/></l> 
+        <r>morale<s n="n"/><s n="f"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       default
     -->
@@ -55926,12 +56018,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-40
     -->
     <e>
       <p>
         <l>nineteen<s n="num"/></l> 
-        <r>diciannove<s n="num"/></r> 
+        <r>diciannove<s n="num"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -60611,13 +60703,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-28
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>penalty<s n="n"/><s n="pl"/></l> 
-        <r>pena<s n="n"/></r> 
+        <r>pena<s n="n"/><s n="f"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -61117,13 +61209,24 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-35
     -->
-    <e c="MG: Pensar en com diferenciar 'gent' de 'persones' en-ca">
+    <e r="RL" c="MG: Pensar en com diferenciar 'gent' de 'persones' en-ca">
       <p>
         <l>person<s n="n"/><s n="pl"/></l> 
-        <r>gente<s n="n"/></r> 
+        <r>gente<s n="n"/><s n="f"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND-28
+    -->
+    <e r="RL">
+      <p>
+        <l>person<s n="n"/><s n="pl"/></l> 
+        <r>gente<s n="n"/><s n="f"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -62576,6 +62679,17 @@
       <p>
         <l>police<s n="n"/><s n="pl"/></l> 
         <r>polizia<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND-28
+    -->
+    <e r="RL">
+      <p>
+        <l>police<s n="n"/><s n="pl"/></l> 
+        <r>polizia<s n="n"/><s n="f"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -69906,13 +70020,24 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-28
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>scale<s n="n"/><s n="pl"/></l> 
-        <r>scala<s n="n"/></r> 
+        <r>bilancia<s n="n"/><s n="f"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND-28
+    -->
+    <e r="RL">
+      <p>
+        <l>scale<s n="n"/><s n="pl"/></l> 
+        <r>scala<s n="n"/><s n="f"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -71128,12 +71253,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-40
     -->
     <e>
       <p>
         <l>seventeen<s n="num"/></l> 
-        <r>diciassette<s n="num"/></r> 
+        <r>diciassette<s n="num"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -72360,12 +72485,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-40
     -->
     <e>
       <p>
         <l>sixteen<s n="num"/></l> 
-        <r>sedici<s n="num"/></r> 
+        <r>sedici<s n="num"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -74779,6 +74904,28 @@
     </e>
 
     <!-- 
+	forced 'RL' restriction
+      ND-35
+    -->
+    <e r="RL">
+      <p>
+        <l>stair<s n="n"/><s n="pl"/></l> 
+        <r>scala<s n="n"/><s n="f"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND-28
+    -->
+    <e r="RL">
+      <p>
+        <l>stair<s n="n"/><s n="pl"/></l> 
+        <r>scala<s n="n"/><s n="f"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       default
     -->
@@ -77145,6 +77292,17 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-41
+    -->
+    <e>
+      <p>
+        <l>tailandés<s n="n"/></l> 
+        <r>tailandese<s n="n"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-2
     -->
     <e c="(walk, picture, break, test, exam, course, look, trip, photograph, photo)">
@@ -77860,23 +78018,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-40
     -->
     <e>
       <p>
         <l>ten<s n="num"/></l> 
-        <r>dieci<s n="num"/></r> 
+        <r>dieci<s n="num"/><s n="mf"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-40
     -->
     <e>
       <p>
         <l>ten<b/>hundred<s n="num"/></l> 
-        <r>mille<s n="num"/></r> 
+        <r>mille<s n="num"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -78949,12 +79107,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-40
     -->
     <e>
       <p>
         <l>thirteen<s n="num"/></l> 
-        <r>tredici<s n="num"/></r> 
+        <r>tredici<s n="num"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -79147,12 +79305,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-40
     -->
     <e>
       <p>
         <l>thousand<s n="num"/></l> 
-        <r>mille<s n="num"/></r> 
+        <r>mille<s n="num"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -80313,6 +80471,17 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-41
+    -->
+    <e>
+      <p>
+        <l>trabajador<s n="n"/></l> 
+        <r>lavorante<s n="n"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-10
     -->
     <e>
@@ -81424,12 +81593,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-40
     -->
     <e>
       <p>
         <l>twelve<s n="num"/></l> 
-        <r>dodici<s n="num"/></r> 
+        <r>dodici<s n="num"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -82607,6 +82776,17 @@
       <p>
         <l>usually<s n="adv"/></l> 
         <r>normalmente<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-41
+    -->
+    <e>
+      <p>
+        <l>usuario<s n="n"/></l> 
+        <r>utente<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -86066,12 +86246,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-40
     -->
     <e>
       <p>
         <l>zero<s n="num"/></l> 
-        <r>zero<s n="num"/></r> 
+        <r>zero<s n="num"/><s n="mf"/></r> 
       </p>
     </e>
 
