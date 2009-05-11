@@ -3,12 +3,12 @@
 	Dictionary:
 	Bilingual dictionary: en-it
 	Sections: 1
-	Entries: 7834
+	Entries: 7820
 	Sdefs: 93
       
       Patterns applied:
-      	default (780 times)
-      	ND-0 (1571 times)
+      	default (741 times)
+      	ND-0 (1570 times)
       	ND-1 (1548 times)
       	ND-2 (884 times)
       	ND-3 (731 times)
@@ -29,7 +29,7 @@
       	ND-19 (50 times)
       	ND-20 (38 times)
       	ND-21 (38 times)
-      	ND-22 (14 times)
+      	ND-22 (4 times)
       	ND-23 (26 times)
       	ND-24 (16 times)
       	ND-27 (18 times)
@@ -45,6 +45,9 @@
       	ND-35 (2 times)
       	ND-41 (7 times)
       	ND-40 (13 times)
+      	ND-44 (12 times)
+      	ND-39 (13 times)
+      	ND-36 (11 times)
       	ND-390 (1 times)
 
 -->
@@ -666,12 +669,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-44
     -->
     <e>
       <p>
         <l>April<s n="n"/></l> 
-        <r>aprile<s n="n"/><s n="m"/><s n="pl"/></r> 
+        <r>abril<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -1645,12 +1648,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-44
     -->
     <e>
       <p>
         <l>December<s n="n"/></l> 
-        <r>dicembre<s n="n"/><s n="m"/><s n="pl"/></r> 
+        <r>diciembre<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -2008,12 +2011,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-44
     -->
     <e>
       <p>
         <l>February<s n="n"/></l> 
-        <r>febbraio<s n="n"/><s n="m"/><s n="pl"/></r> 
+        <r>febrero<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -2976,12 +2979,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-44
     -->
     <e>
       <p>
         <l>January<s n="n"/></l> 
-        <r>gennaio<s n="n"/><s n="m"/><s n="pl"/></r> 
+        <r>enero<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -3207,12 +3210,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-44
     -->
     <e>
       <p>
         <l>July<s n="n"/></l> 
-        <r>joule<s n="n"/><s n="m"/><s n="pl"/></r> 
+        <r>julio<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -3251,12 +3254,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-44
     -->
     <e>
       <p>
         <l>June<s n="n"/></l> 
-        <r>giugno<s n="n"/><s n="m"/><s n="pl"/></r> 
+        <r>junio<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -3724,12 +3727,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-44
     -->
     <e>
       <p>
         <l>March<s n="n"/></l> 
-        <r>marzo<s n="n"/><s n="m"/><s n="pl"/></r> 
+        <r>marzo<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -3741,17 +3744,6 @@
       <p>
         <l>March<s n="n"/><s n="sg"/></l> 
         <r>marzo<s n="n"/><s n="m"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-0
-    -->
-    <e>
-      <p>
-        <l>March<s n="n"/></l> 
-        <r>marzo<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -3867,12 +3859,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-44
     -->
     <e>
       <p>
         <l>May<s n="n"/></l> 
-        <r>maggio<s n="n"/><s n="m"/><s n="pl"/></r> 
+        <r>mayo<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -4340,12 +4332,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-44
     -->
     <e>
       <p>
         <l>November<s n="n"/></l> 
-        <r>novembre<s n="n"/><s n="m"/><s n="pl"/></r> 
+        <r>noviembre<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -4373,12 +4365,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-44
     -->
     <e>
       <p>
         <l>October<s n="n"/></l> 
-        <r>ottobre<s n="n"/><s n="m"/><s n="pl"/></r> 
+        <r>octubre<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -5022,12 +5014,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-44
     -->
     <e>
       <p>
         <l>September<s n="n"/></l> 
-        <r>settembre<s n="n"/><s n="m"/><s n="pl"/></r> 
+        <r>septiembre<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -6914,18 +6906,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>acrobat<s n="n"/></l> 
-        <r>acrobata<s n="n"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-22
+      ND-36
     -->
     <e>
       <p>
@@ -7046,18 +7027,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>activist<s n="n"/></l> 
-        <r>attivista<s n="n"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-22
+      ND-36
     -->
     <e>
       <p>
@@ -9356,17 +9326,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>altruist<s n="n"/></l> 
-        <r>altruista<s n="n"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-4
     -->
     <e>
@@ -9780,17 +9739,6 @@
       <p>
         <l>analyst<s n="n"/></l> 
         <r>analista<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>analyst<s n="n"/></l> 
-        <r>analista<s n="n"/><s n="GD"/></r> 
       </p>
     </e>
 
@@ -11413,18 +11361,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>aristocrat<s n="n"/></l> 
-        <r>aristocratico<s n="n"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-22
+      ND-36
     -->
     <e>
       <p>
@@ -12425,18 +12362,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>astronaut<s n="n"/></l> 
-        <r>astronauta<s n="n"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-22
+      ND-36
     -->
     <e>
       <p>
@@ -12843,18 +12769,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>athlete<s n="n"/></l> 
-        <r>atleta<s n="n"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-22
+      ND-36
     -->
     <e>
       <p>
@@ -16880,7 +16795,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-39
     -->
     <e>
       <p>
@@ -16891,7 +16806,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-39
     -->
     <e>
       <p>
@@ -18211,18 +18126,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>capitalist<s n="n"/></l> 
-        <r>capitalista<s n="n"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-22
+      ND-36
     -->
     <e>
       <p>
@@ -22248,18 +22152,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>communist<s n="n"/></l> 
-        <r>comunista<s n="n"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-22
+      ND-36
     -->
     <e>
       <p>
@@ -22622,12 +22515,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-44
     -->
     <e>
       <p>
         <l>computer<s n="n"/></l> 
-        <r>computer<s n="n"/><s n="m"/><s n="pl"/></r> 
+        <r>ordenador<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -22655,18 +22548,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>comrade<s n="n"/></l> 
-        <r>camerata<s n="n"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-22
+      ND-36
     -->
     <e>
       <p>
@@ -35624,7 +35506,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-39
     -->
     <e>
       <p>
@@ -38990,7 +38872,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-39
     -->
     <e>
       <p>
@@ -39243,7 +39125,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-39
     -->
     <e>
       <p>
@@ -49946,7 +49828,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-39
     -->
     <e>
       <p>
@@ -51332,7 +51214,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-39
     -->
     <e>
       <p>
@@ -51343,7 +51225,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-39
     -->
     <e>
       <p>
@@ -56601,7 +56483,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-39
     -->
     <e>
       <p>
@@ -64565,18 +64447,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>professional<s n="n"/></l> 
-        <r>professionista<s n="n"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-22
+      ND-36
     -->
     <e>
       <p>
@@ -71198,7 +71069,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-39
     -->
     <e>
       <p>
@@ -71209,7 +71080,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-39
     -->
     <e>
       <p>
@@ -71220,7 +71091,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-39
     -->
     <e>
       <p>
@@ -71396,18 +71267,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>shareholder<s n="n"/></l> 
-        <r>azionista<s n="n"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-22
+      ND-36
     -->
     <e>
       <p>
@@ -75389,7 +75249,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-39
     -->
     <e>
       <p>
@@ -75411,12 +75271,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-36
     -->
     <e>
       <p>
         <l>stockholder<s n="n"/></l> 
-        <r>azionista<s n="n"/><s n="GD"/></r> 
+        <r>azionista<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -75868,17 +75728,6 @@
       <p>
         <l>student<s n="n"/></l> 
         <r>studente<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>student<s n="n"/></l> 
-        <r>studente<s n="n"/><s n="GD"/></r> 
       </p>
     </e>
 
