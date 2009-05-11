@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: en-it
 	Sections: 1
-	Entries: 7816
+	Entries: 7823
 	Sdefs: 93
       
       Patterns applied:
-      	default (738 times)
+      	default (686 times)
       	ND-0 (1564 times)
       	ND-1 (1548 times)
       	ND-2 (884 times)
@@ -50,6 +50,15 @@
       	ND-36 (11 times)
       	ND-34 (4 times)
       	ND-52 (1 times)
+      	ND-57 (5 times)
+      	ND-58 (6 times)
+      	ND-59 (8 times)
+      	ND-63 (7 times)
+      	ND-64 (7 times)
+      	ND-65 (7 times)
+      	ND-66 (6 times)
+      	ND-67 (6 times)
+      	ND-68 (7 times)
       	ND-390 (1 times)
 
 -->
@@ -429,7 +438,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-59
     -->
     <e>
       <p>
@@ -605,7 +614,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-59
     -->
     <e>
       <p>
@@ -715,23 +724,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-66
     -->
     <e>
       <p>
         <l>Arafat<s n="np"/><s n="cog"/><s n="sg"/></l> 
-        <r>Arafat<s n="np"/></r> 
+        <r>Arafat<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-67
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>Arafat<s n="np"/><s n="cog"/><s n="pl"/></l> 
-        <r>Arafat<s n="np"/></r> 
+        <r>Arafat<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -847,7 +856,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-57
     -->
     <e>
       <p>
@@ -1188,23 +1197,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-66
     -->
     <e>
       <p>
         <l>Bush<s n="np"/><s n="cog"/><s n="sg"/></l> 
-        <r>Bush<s n="np"/></r> 
+        <r>Bush<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-67
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>Bush<s n="np"/><s n="cog"/><s n="pl"/></l> 
-        <r>Bush<s n="np"/></r> 
+        <r>Bush<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -2277,23 +2286,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-66
     -->
     <e>
       <p>
         <l>Garcia<s n="np"/><s n="cog"/><s n="sg"/></l> 
-        <r>Garcia<s n="np"/></r> 
+        <r>Garcia<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-67
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>Garcia<s n="np"/><s n="cog"/><s n="pl"/></l> 
-        <r>Garcia<s n="np"/></r> 
+        <r>Garcia<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -2530,23 +2539,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-66
     -->
     <e>
       <p>
         <l>Hitler<s n="np"/><s n="cog"/><s n="sg"/></l> 
-        <r>Hitler<s n="np"/></r> 
+        <r>Hitler<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-67
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>Hitler<s n="np"/><s n="cog"/><s n="pl"/></l> 
-        <r>Hitler<s n="np"/></r> 
+        <r>Hitler<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -3938,23 +3947,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-66
     -->
     <e>
       <p>
         <l>Milosevic<s n="np"/><s n="cog"/><s n="sg"/></l> 
-        <r>Milošević<s n="np"/></r> 
+        <r>Milosevic<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-67
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>Milosevic<s n="np"/><s n="cog"/><s n="pl"/></l> 
-        <r>Milošević<s n="np"/></r> 
+        <r>Milošević<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -5291,7 +5300,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-59
     -->
     <e>
       <p>
@@ -5654,23 +5663,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-66
     -->
     <e>
       <p>
         <l>Zapatero<s n="np"/><s n="cog"/><s n="sg"/></l> 
-        <r>Zapatero<s n="np"/></r> 
+        <r>Zapatero<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-67
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>Zapatero<s n="np"/><s n="cog"/><s n="pl"/></l> 
-        <r>Zapatero<s n="np"/></r> 
+        <r>Zapatero<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -6919,7 +6928,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-58
     -->
     <e>
       <p>
@@ -7161,7 +7170,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-59
     -->
     <e>
       <p>
@@ -10350,24 +10359,35 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-63
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>anus<s n="n"/></l> 
-        <r>ano<s n="n"/></r> 
+        <r>ano<s n="n"/><s n="m"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-64
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>anus<s n="n"/><s n="ND"/></l> 
-        <r>ano<s n="n"/></r> 
+        <r>ano<s n="n"/><s n="m"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND-65
+    -->
+    <e r="RL">
+      <p>
+        <l>anus<s n="n"/><s n="ND"/></l> 
+        <r>ano<s n="n"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -18865,7 +18885,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-58
     -->
     <e>
       <p>
@@ -20592,7 +20612,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-57
     -->
     <e>
       <p>
@@ -20922,7 +20942,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-59
     -->
     <e>
       <p>
@@ -23606,7 +23626,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-57
     -->
     <e c="Transp.">
       <p>
@@ -24595,13 +24615,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-68
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>cough<s n="n"/><s n="ND"/></l> 
-        <r>tosse<s n="n"/></r> 
+        <r>tosse<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -25729,7 +25749,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-59
     -->
     <e>
       <p>
@@ -27983,13 +28003,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-68
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>diocese<s n="n"/><s n="ND"/></l> 
-        <r>diocesi<s n="n"/></r> 
+        <r>diocesi<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -29215,13 +29235,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-68
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>dose<s n="n"/><s n="ND"/></l> 
-        <r>dose<s n="n"/></r> 
+        <r>dose<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -36288,24 +36308,35 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-63
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>focus<s n="n"/></l> 
-        <r>fuoco<s n="n"/></r> 
+        <r>fuoco<s n="n"/><s n="m"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-64
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>focus<s n="n"/><s n="ND"/></l> 
-        <r>fuoco<s n="n"/></r> 
+        <r>fuoco<s n="n"/><s n="m"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND-65
+    -->
+    <e r="RL">
+      <p>
+        <l>focus<s n="n"/><s n="ND"/></l> 
+        <r>fuoco<s n="n"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -36321,24 +36352,35 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-63
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>foetus<s n="n"/></l> 
-        <r>feto<s n="n"/></r> 
+        <r>feto<s n="n"/><s n="m"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-64
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>foetus<s n="n"/><s n="ND"/></l> 
-        <r>feto<s n="n"/></r> 
+        <r>feto<s n="n"/><s n="m"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND-65
+    -->
+    <e r="RL">
+      <p>
+        <l>foetus<s n="n"/><s n="ND"/></l> 
+        <r>feto<s n="n"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -40821,7 +40863,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-58
     -->
     <e c="check">
       <p>
@@ -43439,7 +43481,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-58
     -->
     <e>
       <p>
@@ -45067,7 +45109,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-58
     -->
     <e>
       <p>
@@ -52832,13 +52874,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-68
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>metastasis<s n="n"/><s n="ND"/></l> 
-        <r>metastasi<s n="n"/></r> 
+        <r>metastasi<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -59718,13 +59760,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-68
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>paralysis<s n="n"/><s n="ND"/></l> 
-        <r>paralisi<s n="n"/></r> 
+        <r>paralisi<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -60565,24 +60607,35 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-63
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>pencil<s n="n"/></l> 
-        <r>matita<s n="n"/></r> 
+        <r>matita<s n="n"/><s n="m"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-64
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>pencil<s n="n"/><s n="ND"/></l> 
-        <r>matita<s n="n"/></r> 
+        <r>matita<s n="n"/><s n="m"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND-65
+    -->
+    <e r="RL">
+      <p>
+        <l>pencil<s n="n"/><s n="ND"/></l> 
+        <r>matita<s n="n"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -60664,24 +60717,35 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-63
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>penis<s n="n"/></l> 
-        <r>pene<s n="n"/></r> 
+        <r>pene<s n="n"/><s n="m"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-64
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>penis<s n="n"/><s n="ND"/></l> 
-        <r>pene<s n="n"/></r> 
+        <r>pene<s n="n"/><s n="m"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND-65
+    -->
+    <e r="RL">
+      <p>
+        <l>penis<s n="n"/><s n="ND"/></l> 
+        <r>pene<s n="n"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -63932,7 +63996,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-57
     -->
     <e>
       <p>
@@ -64141,7 +64205,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-58
     -->
     <e>
       <p>
@@ -64877,13 +64941,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-68
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>prosthesis<s n="n"/><s n="ND"/></l> 
-        <r>protesi<s n="n"/></r> 
+        <r>protesi<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -76087,7 +76151,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-57
     -->
     <e>
       <p>
@@ -79397,24 +79461,35 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-63
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>time<s n="n"/></l> 
-        <r>tempo<s n="n"/></r> 
+        <r>tempo<s n="n"/><s n="m"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-64
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>time<s n="n"/><s n="ND"/></l> 
-        <r>tempo<s n="n"/></r> 
+        <r>tempo<s n="n"/><s n="m"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND-65
+    -->
+    <e r="RL">
+      <p>
+        <l>time<s n="n"/><s n="ND"/></l> 
+        <r>tempo<s n="n"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -81245,13 +81320,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-68
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>tuberculosis<s n="n"/><s n="ND"/></l> 
-        <r>tubercolosi<s n="n"/></r> 
+        <r>tubercolosi<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -82533,7 +82608,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-59
     -->
     <e>
       <p>
@@ -84369,24 +84444,35 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-63
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>weather<s n="n"/></l> 
-        <r>tempo<s n="n"/></r> 
+        <r>tempo<s n="n"/><s n="m"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-64
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>weather<s n="n"/><s n="ND"/></l> 
-        <r>tempo<s n="n"/></r> 
+        <r>tempo<s n="n"/><s n="m"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND-65
+    -->
+    <e r="RL">
+      <p>
+        <l>weather<s n="n"/><s n="ND"/></l> 
+        <r>tempo<s n="n"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -85448,7 +85534,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-59
     -->
     <e>
       <p>
