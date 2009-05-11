@@ -516,6 +516,123 @@
 
 </cross-action>
 <!-- 197 entries like this -->
+<cross-action id="ND-16">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="n"/></l> 
+        <r>$lemmaB<s n="n"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="n"/></l> 
+        <r>$lemmaC<s n="n"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="n"/></l> 
+        <r>$lemmaC<s n="n"/><s n="mf"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<!-- 189 entries like this -->
+<cross-action id="ND-17">
+	<pattern>
+    <e r="RL">
+      <p>
+        <l>$lemmaA<s n="adj"/><s n="sint"/></l> 
+        <r>$lemmaB<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="adj"/></l> 
+        <r>$lemmaC<s n="adj"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="RL">
+      <p>
+        <l>$lemmaA<s n="adj"/><s n="sint"/></l> 
+        <r>$lemmaC<s n="adj"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<!-- 173 entries like this -->
+<cross-action id="ND-18">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="np"/><s n="loc"/></l> 
+        <r>$lemmaB<s n="np"/><s n="loc"/><s n="m"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="np"/></l> 
+        <r>$lemmaC<s n="np"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="np"/><s n="loc"/></l> 
+        <r>$lemmaC<s n="np"/><s n="loc"/><s n="m"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<!-- 145 entries like this -->
+<cross-action id="ND-19">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="np"/></l> 
+        <r>$lemmaB<s n="np"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="np"/></l> 
+        <r>$lemmaC<s n="np"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="np"/></l> 
+        <r>$lemmaC<s n="np"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+
+</cross-action>
+<!-- 101 entries like this -->
 
 </cross-model>
 
