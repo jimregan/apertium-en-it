@@ -1444,6 +1444,65 @@
 
 </cross-action>
 <!-- 27 entries like this -->
+<cross-action id="ND-34">
+	<pattern>
+    <e r="LR">
+      <p>
+        <l>$lemmaA<s n="cnjadv"/></l> 
+        <r>$lemmaB<s n="cnjadv"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="cnjadv"/></l> 
+        <r>$lemmaC<s n="cnjadv"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="LR">
+      <p>
+        <l>$lemmaA<s n="cnjadv"/></l> 
+        <r>$lemmaC<s n="cnjadv"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<!-- 29 entries like this -->
+<cross-action id="ND-52">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="n"/></l> 
+        <r>$lemmaB<s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l>$lemmaB<s n="n"/><s n="m"/></l> 
+        <r>$lemmaC<s n="n"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="n"/></l> 
+        <r>$lemmaC<s n="n"/><s n="mf"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+
+</cross-action>
+<!-- 17 entries like this -->
 
 
 <!-- These can be considered 'lexicalised' crossings -->

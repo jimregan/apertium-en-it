@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: en-it
 	Sections: 1
-	Entries: 7814
+	Entries: 7816
 	Sdefs: 93
       
       Patterns applied:
-      	default (741 times)
+      	default (738 times)
       	ND-0 (1564 times)
       	ND-1 (1548 times)
       	ND-2 (884 times)
@@ -48,6 +48,8 @@
       	ND-44 (12 times)
       	ND-39 (13 times)
       	ND-36 (11 times)
+      	ND-34 (4 times)
+      	ND-52 (1 times)
       	ND-390 (1 times)
 
 -->
@@ -7753,7 +7755,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-52
     -->
     <e>
       <p>
@@ -9204,10 +9206,21 @@
     </e>
 
     <!-- 
+	forced 'LR' restriction
+      ND-34
+    -->
+    <e r="LR">
+      <p>
+        <l>although<s n="cnjadv"/></l> 
+        <r>malgrado<s n="cnjadv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       default
     -->
-    <e>
+    <e c="tant això com allò">
       <p>
         <l>although<s n="cnjadv"/></l> 
         <r>malgrado<s n="cnjadv"/></r> 
@@ -14895,6 +14908,17 @@
       default
     -->
     <e>
+      <p>
+        <l>before<s n="cnjadv"/></l> 
+        <r>prima<b/>che<s n="cnjadv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-34
+    -->
+    <e r="LR" c="both David and his wife - tant David com la seva dona">
       <p>
         <l>before<s n="cnjadv"/></l> 
         <r>prima<b/>che<s n="cnjadv"/></r> 
@@ -65007,10 +65031,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-34
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>provided<s n="cnjadv"/></l> 
         <r>se<s n="cnjadv"/></r> 
@@ -84664,10 +84688,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-34
     -->
-    <e c="MG: Generalment després de verb o pronom personal (I doubt whether.../ Tell me whether...)">
+    <e r="LR" c="MG: Generalment després de verb o pronom personal (I doubt whether.../ Tell me whether...)">
       <p>
         <l>whether<s n="cnjadv"/></l> 
         <r>se<s n="cnjadv"/></r> 
