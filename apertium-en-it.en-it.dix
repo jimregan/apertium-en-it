@@ -3,43 +3,43 @@
 	Dictionary:
 	Bilingual dictionary: en-it
 	Sections: 1
-	Entries: 7823
+	Entries: 7798
 	Sdefs: 93
       
       Patterns applied:
-      	default (676 times)
-      	ND-0 (1564 times)
-      	ND-1 (1548 times)
-      	ND-2 (884 times)
+      	default (685 times)
+      	ND-0 (1549 times)
+      	ND-1 (1542 times)
+      	ND-2 (853 times)
       	ND-3 (731 times)
       	ND-4 (462 times)
       	ND-5 (402 times)
-      	ND-6 (213 times)
+      	ND-6 (210 times)
       	ND-7 (146 times)
-      	ND-8 (175 times)
-      	ND-9 (151 times)
-      	ND-10 (137 times)
+      	ND-8 (173 times)
+      	ND-9 (157 times)
+      	ND-10 (139 times)
       	ND-11 (95 times)
-      	ND-13 (20 times)
-      	ND-14 (20 times)
+      	ND-13 (21 times)
+      	ND-14 (21 times)
       	ND-15 (7 times)
-      	ND-16 (91 times)
+      	ND-16 (85 times)
       	ND-17 (9 times)
       	ND-18 (70 times)
       	ND-19 (50 times)
-      	ND-20 (38 times)
-      	ND-21 (38 times)
+      	ND-20 (41 times)
+      	ND-21 (40 times)
       	ND-22 (4 times)
-      	ND-23 (26 times)
+      	ND-23 (28 times)
       	ND-24 (16 times)
-      	ND-27 (18 times)
+      	ND-27 (20 times)
       	ND-46 (11 times)
       	ND-48 (9 times)
       	ND-49 (11 times)
       	ND-51 (7 times)
       	ND-29 (1 times)
-      	ND-30 (14 times)
-      	ND-31 (15 times)
+      	ND-30 (18 times)
+      	ND-31 (17 times)
       	ND-33 (4 times)
       	ND-28 (10 times)
       	ND-35 (2 times)
@@ -47,7 +47,7 @@
       	ND-40 (13 times)
       	ND-44 (12 times)
       	ND-39 (13 times)
-      	ND-36 (11 times)
+      	ND-36 (16 times)
       	ND-34 (4 times)
       	ND-52 (1 times)
       	ND-57 (5 times)
@@ -58,7 +58,7 @@
       	ND-65 (7 times)
       	ND-66 (6 times)
       	ND-67 (6 times)
-      	ND-68 (7 times)
+      	ND-68 (6 times)
       	ND-75 (6 times)
       	ND-74 (4 times)
       	ND-390 (1 times)
@@ -5170,12 +5170,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-0
+      ND-10
     -->
     <e>
       <p>
         <l>Sunday<s n="n"/></l> 
-        <r>domenica<s n="n"/><s n="m"/></r> 
+        <r>domenica<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -13618,17 +13618,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>await<s n="vblex"/></l> 
-        <r>sperare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-0
     -->
     <e>
@@ -14883,12 +14872,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-0
+      ND-10
     -->
     <e>
       <p>
         <l>bedroom<s n="n"/></l> 
-        <r>camera<s n="n"/><s n="m"/></r> 
+        <r>camera<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -18491,12 +18480,23 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-16
+      ND-36
     -->
     <e>
       <p>
         <l>cartoonist<s n="n"/></l> 
-        <r>disegnatore<s n="n"/><s n="mf"/></r> 
+        <r>disegnatore<s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-30
+    -->
+    <e>
+      <p>
+        <l>cartoonist<s n="n"/></l> 
+        <r>disegnatore<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -18849,17 +18849,6 @@
       <p>
         <l>cause<s n="vblex"/></l> 
         <r>causare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>cause<s n="vblex"/></l> 
-        <r>stuzzicare<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -21719,7 +21708,7 @@
     <e>
       <p>
         <l>coma<s n="n"/></l> 
-        <r>coma<s n="n"/><s n="m"/></r> 
+        <r>virgola<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -21742,17 +21731,6 @@
       <p>
         <l>come<s n="vblex"/></l> 
         <r>venire<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>come<g><b/>across</g><s n="vblex"/></l> 
-        <r>trovare<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -21851,7 +21829,7 @@
     <e>
       <p>
         <l>comma<s n="n"/></l> 
-        <r>coma<s n="n"/><s n="f"/></r> 
+        <r>virgola<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -26323,12 +26301,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-1
+      ND-9
     -->
     <e>
       <p>
         <l>decade<s n="n"/></l> 
-        <r>decennio<s n="n"/><s n="f"/></r> 
+        <r>decennio<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -26400,12 +26378,45 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-0
+      ND-1
     -->
     <e>
       <p>
-        <l>decibel<s n="n"/></l> 
-        <r>decibel<s n="n"/><s n="m"/></r> 
+        <l>decentralization<s n="n"/></l> 
+        <r>decentralizzazione<s n="n"/><s n="f"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-21
+    -->
+    <e r="LR">
+      <p>
+        <l>decibel<s n="n"/><s n="sg"/></l> 
+        <r>decibel<s n="n"/><s n="m"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-23
+    -->
+    <e r="LR">
+      <p>
+        <l>decibel<s n="n"/><s n="pl"/></l> 
+        <r>decibel<s n="n"/><s n="m"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND-20
+    -->
+    <e r="RL">
+      <p>
+        <l>decibel<s n="n"/><s n="ND"/></l> 
+        <r>decibel<s n="n"/><s n="m"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -26763,12 +26774,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-0
+      default
     -->
     <e>
       <p>
         <l>delta<s n="n"/></l> 
-        <r>delta<s n="n"/><s n="m"/></r> 
+        <r>delta<s n="n"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -26972,12 +26983,23 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-16
+      ND-36
     -->
     <e>
       <p>
         <l>dentist<s n="n"/></l> 
-        <r>dentista<s n="n"/><s n="mf"/></r> 
+        <r>dentista<s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-30
+    -->
+    <e>
+      <p>
+        <l>dentist<s n="n"/></l> 
+        <r>dentista<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -26988,7 +27010,7 @@
     <e>
       <p>
         <l>denture<s n="n"/></l> 
-        <r>dente<s n="n"/><s n="f"/></r> 
+        <r>dentatura<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -27159,12 +27181,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-0
+      ND-10
     -->
     <e>
       <p>
         <l>descent<s n="n"/></l> 
-        <r>recessione<s n="n"/><s n="m"/></r> 
+        <r>retrocessione<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -27401,12 +27423,23 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-16
+      ND-36
     -->
     <e>
       <p>
         <l>detective<s n="n"/></l> 
-        <r>investigatore<s n="n"/><s n="mf"/></r> 
+        <r>investigatore<s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-30
+    -->
+    <e>
+      <p>
+        <l>detective<s n="n"/></l> 
+        <r>investigatore<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -27577,12 +27610,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-0
+      default
     -->
     <e>
       <p>
         <l>diagnostic<s n="n"/></l> 
-        <r>diagnosi<s n="n"/><s n="m"/></r> 
+        <r>diagnosi<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -27703,29 +27736,7 @@
     <e r="LR">
       <p>
         <l>dictador<s n="n"/></l> 
-        <r>dittatura<s n="n"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'LR' restriction
-      ND-8
-    -->
-    <e r="LR">
-      <p>
-        <l>dictador<s n="n"/></l> 
         <r>dittatore<s n="n"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'RL' restriction
-      ND-6
-    -->
-    <e r="RL">
-      <p>
-        <l>dictator<s n="n"/></l> 
-        <r>dittatura<s n="n"/></r> 
       </p>
     </e>
 
@@ -27896,12 +27907,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-0
+      ND-10
     -->
     <e>
       <p>
         <l>digit<s n="n"/></l> 
-        <r>cifra<s n="n"/><s n="m"/></r> 
+        <r>cifra<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -27989,26 +28000,15 @@
     <e>
       <p>
         <l>dinosaur<s n="n"/></l> 
-        <r>dinosauri<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-0
-    -->
-    <e>
-      <p>
-        <l>dinosaur<s n="n"/></l> 
         <r>dinosauro<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'RL' restriction
-      ND-68
+	forced 'null' restriction
+      default
     -->
-    <e r="RL">
+    <e>
       <p>
         <l>diocese<s n="n"/><s n="ND"/></l> 
         <r>diocesi<s n="n"/><s n="f"/><s n="sp"/></r> 
@@ -28016,24 +28016,24 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      ND-1
+	forced 'LR' restriction
+      ND-13
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>diocese<s n="n"/></l> 
-        <r>diocesi<s n="n"/><s n="f"/></r> 
+        <l>diocese<s n="n"/><s n="sg"/></l> 
+        <r>diocesi<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'LR' restriction
-      ND-8
+      ND-14
     -->
     <e r="LR">
       <p>
-        <l>dios<s n="n"/></l> 
-        <r>dio<s n="n"/><s n="GD"/></r> 
+        <l>diocese<s n="n"/><s n="pl"/></l> 
+        <r>diocesi<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -28149,12 +28149,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-0
+      default
     -->
     <e>
       <p>
         <l>directory<s n="n"/></l> 
-        <r>directory<s n="n"/><s n="m"/></r> 
+        <r>directory<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -28188,17 +28188,6 @@
       <p>
         <l>disc<s n="n"/></l> 
         <r>disco<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>disc<s n="n"/></l> 
-        <r>disco<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -28248,17 +28237,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>disclose<s n="vblex"/></l> 
-        <r>sviluppare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-1
     -->
     <e>
@@ -28297,7 +28275,7 @@
     <e>
       <p>
         <l>discord<s n="n"/></l> 
-        <r>eris<s n="n"/><s n="f"/></r> 
+        <r>discordia<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -28485,17 +28463,6 @@
       <p>
         <l>disk<s n="n"/></l> 
         <r>disco<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>disk<s n="n"/></l> 
-        <r>disco<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -29128,12 +29095,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-0
+      ND-10
     -->
     <e>
       <p>
         <l>dome<s n="n"/></l> 
-        <r>cupola<s n="n"/><s n="m"/></r> 
+        <r>cupola<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -29210,7 +29177,18 @@
     <e>
       <p>
         <l>doping<s n="n"/></l> 
-        <r>doping<s n="n"/><s n="m"/></r> 
+        <r>dopaggio<s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND-20
+    -->
+    <e r="RL">
+      <p>
+        <l>doping<s n="n"/><s n="ND"/></l> 
+        <r>doping<s n="n"/><s n="m"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -29381,12 +29359,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-16
+      default
     -->
     <e>
       <p>
         <l>dowry<s n="n"/></l> 
-        <r>dote<s n="n"/><s n="mf"/></r> 
+        <r>dote<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -29777,12 +29755,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-1
+      ND-9
     -->
     <e>
       <p>
         <l>duality<s n="n"/></l> 
-        <r>dualismo<s n="n"/><s n="f"/></r> 
+        <r>dualismo<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -30002,7 +29980,7 @@
     <e>
       <p>
         <l>dynamism<s n="n"/></l> 
-        <r>adozionismo<s n="n"/><s n="m"/></r> 
+        <r>dinamismo<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -30926,17 +30904,6 @@
     <e>
       <p>
         <l>elect<s n="vblex"/></l> 
-        <r>eleggere<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>elect<s n="vblex"/></l> 
         <r>scegliere<s n="vblex"/></r> 
       </p>
     </e>
@@ -31553,17 +31520,6 @@
     <e>
       <p>
         <l>encounter<s n="vblex"/></l> 
-        <r>trovare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>encounter<s n="vblex"/></l> 
         <r>incontrare<s n="vblex"/></r> 
       </p>
     </e>
@@ -31790,12 +31746,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-1
+      ND-9
     -->
     <e>
       <p>
         <l>enjoyment<s n="n"/></l> 
-        <r>divertimento<s n="n"/><s n="f"/></r> 
+        <r>divertimento<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -31966,12 +31922,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-1
+      ND-9
     -->
     <e>
       <p>
         <l>entertainment<s n="n"/></l> 
-        <r>divertimento<s n="n"/><s n="f"/></r> 
+        <r>divertimento<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -32285,17 +32241,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>erect<s n="vblex"/></l> 
-        <r>sorgere<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-1
     -->
     <e>
@@ -32356,7 +32301,7 @@
     <e>
       <p>
         <l>escape<s n="vblex"/></l> 
-        <r>scappare<s n="vblex"/></r> 
+        <r>fuggire<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -32367,7 +32312,7 @@
     <e>
       <p>
         <l>escape<s n="vblex"/></l> 
-        <r>fuggire<s n="vblex"/></r> 
+        <r>scappare<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -33512,28 +33457,6 @@
       <p>
         <l>expect<s n="vblex"/></l> 
         <r>aspettare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>expect<s n="vblex"/></l> 
-        <r>auspicare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>expect<s n="vblex"/></l> 
-        <r>sperare<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -35673,23 +35596,23 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-0
+      default
     -->
     <e>
       <p>
         <l>finger<s n="n"/></l> 
-        <r>dito<s n="n"/><s n="m"/></r> 
+        <r>dito<s n="n"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      ND-10
+      default
     -->
     <e>
       <p>
         <l>finger<s n="n"/></l> 
-        <r>dito<s n="n"/><s n="f"/></r> 
+        <r>dito<s n="n"/><s n="f"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -35975,17 +35898,6 @@
     <e>
       <p>
         <l>flee<s n="vblex"/></l> 
-        <r>scappare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>flee<s n="vblex"/></l> 
         <r>fuggire<s n="vblex"/></r> 
       </p>
     </e>
@@ -36025,23 +35937,23 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-0
+      default
     -->
     <e>
       <p>
         <l>flip<s n="n"/></l> 
-        <r>dito<s n="n"/><s n="m"/></r> 
+        <r>dito<s n="n"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      ND-10
+      default
     -->
     <e>
       <p>
         <l>flip<s n="n"/></l> 
-        <r>dito<s n="n"/><s n="f"/></r> 
+        <r>dito<s n="n"/><s n="f"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -37829,12 +37741,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-1
+      ND-9
     -->
     <e>
       <p>
         <l>fun<s n="n"/></l> 
-        <r>divertimento<s n="n"/><s n="f"/></r> 
+        <r>divertimento<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -38863,17 +38775,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>get<s n="vblex"/></l> 
-        <r>giungere<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-39
     -->
     <e>
@@ -38978,17 +38879,6 @@
     <e>
       <p>
         <l>get<g><b/>worse</g><s n="vblex"/></l> 
-        <r>aggravare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>get<g><b/>worse</g><s n="vblex"/></l> 
         <r>peggiorare<s n="vblex"/></r> 
       </p>
     </e>
@@ -39011,7 +38901,7 @@
     <e>
       <p>
         <l>gift<s n="n"/></l> 
-        <r>don<s n="n"/><s n="m"/></r> 
+        <r>dono<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -39022,7 +38912,7 @@
     <e>
       <p>
         <l>gift<s n="n"/></l> 
-        <r>dono<s n="n"/><s n="m"/></r> 
+        <r>regalo<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -39445,24 +39335,46 @@
     </e>
 
     <!-- 
-	forced 'RL' restriction
-      ND-6
+	forced 'LR' restriction
+      ND-31
     -->
-    <e r="RL">
+    <e r="LR">
       <p>
         <l>god<s n="n"/></l> 
-        <r>dio<s n="n"/></r> 
+        <r>dio<s n="n"/><s n="GD"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'RL' restriction
-      ND-6
+      ND-27
+    -->
+    <e r="RL">
+      <p>
+        <l>god<s n="n"/></l> 
+        <r>dio<s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-31
+    -->
+    <e r="LR">
+      <p>
+        <l>goddess<s n="n"/></l> 
+        <r>dio<s n="n"/><s n="GD"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND-27
     -->
     <e r="RL">
       <p>
         <l>goddess<s n="n"/></l> 
-        <r>dio<s n="n"/></r> 
+        <r>dio<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -42356,28 +42268,6 @@
       <p>
         <l>hope<s n="vblex"/></l> 
         <r>aspettare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>hope<s n="vblex"/></l> 
-        <r>auspicare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>hope<s n="vblex"/></l> 
-        <r>sperare<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -45292,7 +45182,7 @@
     <e>
       <p>
         <l>initiate<s n="vblex"/></l> 
-        <r>iniziare<s n="vblex"/></r> 
+        <r>avviare<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -46574,12 +46464,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-16
+      ND-36
     -->
     <e>
       <p>
         <l>investigator<s n="n"/></l> 
-        <r>investigatore<s n="n"/><s n="mf"/></r> 
+        <r>investigatore<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -48763,17 +48653,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>lay<s n="vblex"/></l> 
-        <r>porre<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-1
     -->
     <e>
@@ -50661,17 +50540,6 @@
       <p>
         <l>love<s n="vblex"/></l> 
         <r>amare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>love<s n="vblex"/></l> 
-        <r>volere<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -52629,7 +52497,7 @@
     <e c="check">
       <p>
         <l>mentally<b/>handicapped<b/>person<s n="n"/></l> 
-        <r>disabile<s n="n"/><s n="mf"/></r> 
+        <r>deficiente<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -54494,12 +54362,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-1
+      ND-9
     -->
     <e>
       <p>
         <l>mouth<s n="n"/></l> 
-        <r>sbocco<s n="n"/><s n="f"/></r> 
+        <r>sbocco<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -61671,17 +61539,6 @@
     <e>
       <p>
         <l>pick<s n="vblex"/></l> 
-        <r>eleggere<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>pick<s n="vblex"/></l> 
         <r>scegliere<s n="vblex"/></r> 
       </p>
     </e>
@@ -61880,7 +61737,7 @@
     <e>
       <p>
         <l>pioneer<s n="vblex"/></l> 
-        <r>iniziare<s n="vblex"/></r> 
+        <r>avviare<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -64196,23 +64053,23 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-1
-    -->
-    <e>
-      <p>
-        <l>prison<s n="n"/></l> 
-        <r>prigione<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-58
     -->
     <e>
       <p>
         <l>prison<s n="n"/></l> 
         <r>carcere<s n="n"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-1
+    -->
+    <e>
+      <p>
+        <l>prison<s n="n"/></l> 
+        <r>prigione<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -64999,17 +64856,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>protect<s n="vblex"/></l> 
-        <r>difendere<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-49
     -->
     <e>
@@ -65148,17 +64994,6 @@
       <p>
         <l>provisionally<s n="adv"/></l> 
         <r>provvisoriamente<s n="adv"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>provoke<s n="vblex"/></l> 
-        <r>stuzzicare<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -65423,17 +65258,6 @@
       <p>
         <l>punch<s n="vblex"/></l> 
         <r>attaccare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>punch<s n="vblex"/></l> 
-        <r>incollare<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -66281,17 +66105,6 @@
       <p>
         <l>raise<s n="vblex"/></l> 
         <r>alzare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>raise<s n="vblex"/></l> 
-        <r>sorgere<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -68485,17 +68298,6 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>reward<s n="vblex"/></l> 
-        <r>ricompensare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
 	forced 'LR' restriction
       ND-8
     -->
@@ -70488,17 +70290,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>seat<s n="vblex"/></l> 
-        <r>preparare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-1
     -->
     <e>
@@ -71077,17 +70868,6 @@
       <p>
         <l>set<s n="vblex"/></l> 
         <r>mettere<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>set<s n="vblex"/></l> 
-        <r>porre<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -72318,30 +72098,8 @@
     -->
     <e>
       <p>
-        <l>sit<s n="vblex"/></l> 
-        <r>preparare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
         <l>sit<g><b/>down</g><s n="vblex"/></l> 
         <r>sedere<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>sit<g><b/>down</g><s n="vblex"/></l> 
-        <r>preparare<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -74469,13 +74227,35 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      ND-0
+	forced 'LR' restriction
+      ND-21
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>sport<s n="n"/></l> 
-        <r>sport<s n="n"/><s n="m"/></r> 
+        <l>sport<s n="n"/><s n="sg"/></l> 
+        <r>sport<s n="n"/><s n="m"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-23
+    -->
+    <e r="LR">
+      <p>
+        <l>sport<s n="n"/><s n="pl"/></l> 
+        <r>sport<s n="n"/><s n="m"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND-20
+    -->
+    <e r="RL">
+      <p>
+        <l>sport<s n="n"/><s n="ND"/></l> 
+        <r>sport<s n="n"/><s n="m"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -74503,12 +74283,23 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-16
+      ND-36
     -->
     <e>
       <p>
         <l>sportsman<s n="n"/></l> 
-        <r>sport<s n="n"/><s n="mf"/></r> 
+        <r>sportivo<s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-30
+    -->
+    <e>
+      <p>
+        <l>sportsman<s n="n"/></l> 
+        <r>sportivo<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -79838,23 +79629,23 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-0
+      default
     -->
     <e>
       <p>
         <l>toe<s n="n"/></l> 
-        <r>dito<s n="n"/><s n="m"/></r> 
+        <r>dito<s n="n"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      ND-10
+      default
     -->
     <e>
       <p>
         <l>toe<s n="n"/></l> 
-        <r>dito<s n="n"/><s n="f"/></r> 
+        <r>dito<s n="n"/><s n="f"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -80597,17 +80388,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>train<s n="vblex"/></l> 
-        <r>addestrare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-0
     -->
     <e c="Dep.">
@@ -81043,17 +80823,6 @@
       <p>
         <l>tribute<s n="n"/></l> 
         <r>tributo<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>trigger<s n="vblex"/></l> 
-        <r>stuzzicare<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -81890,17 +81659,6 @@
       <p>
         <l>undoubted<s n="adj"/></l> 
         <r>indubitabile<s n="adj"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-0
-    -->
-    <e>
-      <p>
-        <l>unemployment<s n="n"/></l> 
-        <r>disoccupazione<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -83852,28 +83610,6 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>wait<s n="vblex"/></l> 
-        <r>auspicare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>wait<s n="vblex"/></l> 
-        <r>sperare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
 	forced 'RL' restriction
       ND-6
     -->
@@ -83958,17 +83694,6 @@
       <p>
         <l>want<s n="vblex"/></l> 
         <r>amare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>want<s n="vblex"/></l> 
-        <r>volere<s n="vblex"/></r> 
       </p>
     </e>
 
