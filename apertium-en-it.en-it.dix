@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: en-it
 	Sections: 1
-	Entries: 7798
+	Entries: 7786
 	Sdefs: 93
       
       Patterns applied:
-      	default (685 times)
+      	default (631 times)
       	ND-0 (1549 times)
       	ND-1 (1542 times)
       	ND-2 (853 times)
@@ -36,7 +36,7 @@
       	ND-46 (11 times)
       	ND-48 (9 times)
       	ND-49 (11 times)
-      	ND-51 (7 times)
+      	ND-51 (1 times)
       	ND-29 (1 times)
       	ND-30 (18 times)
       	ND-31 (17 times)
@@ -61,6 +61,16 @@
       	ND-68 (6 times)
       	ND-75 (6 times)
       	ND-74 (4 times)
+      	ND-53 (9 times)
+      	ND-56 (4 times)
+      	ND-69 (7 times)
+      	ND-55 (2 times)
+      	ND-71 (6 times)
+      	ND-73 (6 times)
+      	ND-77 (4 times)
+      	ND-78 (6 times)
+      	ND-79 (3 times)
+      	ND-80 (1 times)
       	ND-390 (1 times)
 
 -->
@@ -8205,28 +8215,6 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>agricultural<s n="adj"/></l> 
-        <r>agricolo<s n="adj"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>agricultural<s n="adj"/></l> 
-        <r>agricolo<s n="adj"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
 	forced 'RL' restriction
       ND-6
     -->
@@ -9757,29 +9745,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e c="check">
-      <p>
-        <l>anarchist<s n="adj"/></l> 
-        <r>anarchico<s n="adj"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e c="check">
-      <p>
-        <l>anarchist<s n="adj"/></l> 
-        <r>anarchico<s n="adj"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-51
+      ND-71
     -->
     <e c="check">
       <p>
@@ -9845,7 +9811,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-73
     -->
     <e>
       <p>
@@ -10471,10 +10437,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-79
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>any<s n="preadv"/></l> 
         <r>molto<s n="preadv"/></r> 
@@ -10571,7 +10537,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-55
     -->
     <e c="any one i anyone/anybody tenen significats diferents, s'ha escollit 'any one' com a traducció">
       <p>
@@ -10582,7 +10548,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-55
     -->
     <e c="any one i anyone/anybody tenen significats diferents, s'ha escollit 'any one' com a traducció">
       <p>
@@ -11890,10 +11856,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-79
     -->
-    <e c="comparacions">
+    <e r="LR" c="comparacions">
       <p>
         <l>as<s n="preadv"/></l> 
         <r>tanto<s n="preadv"/></r> 
@@ -13101,34 +13067,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>audiovisual<s n="adj"/></l> 
-        <r>audiovisivo<s n="adj"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-51
+      ND-71
     -->
     <e>
       <p>
         <l>audiovisual<s n="adj"/></l> 
         <r>audiovisivo<s n="adj"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>audiovisual<s n="adj"/></l> 
-        <r>audiovisivo<s n="adj"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -13442,34 +13386,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>auxiliary<s n="adj"/></l> 
-        <r>ausiliario<s n="adj"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-51
+      ND-71
     -->
     <e>
       <p>
         <l>auxiliary<s n="adj"/></l> 
         <r>ausiliario<s n="adj"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>auxiliary<s n="adj"/></l> 
-        <r>ausiliario<s n="adj"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -14003,34 +13925,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>balearic<s n="adj"/></l> 
-        <r>balearico<s n="adj"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-51
+      ND-71
     -->
     <e>
       <p>
         <l>balearic<s n="adj"/></l> 
         <r>balearico<s n="adj"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>balearic<s n="adj"/></l> 
-        <r>balearico<s n="adj"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -15048,34 +14948,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>belgian<s n="adj"/></l> 
-        <r>belga<s n="adj"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-51
+      ND-71
     -->
     <e>
       <p>
         <l>belgian<s n="adj"/></l> 
         <r>belga<s n="adj"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>belgian<s n="adj"/></l> 
-        <r>belga<s n="adj"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -17336,7 +17214,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-73
     -->
     <e>
       <p>
@@ -21901,7 +21779,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-80
     -->
     <e>
       <p>
@@ -30019,12 +29897,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-77
     -->
     <e c="té polisèmia amb 'every', però no he posat marca de polisèmia">
       <p>
         <l>each<s n="det"/><s n="ind"/></l> 
-        <r>ogni<s n="det"/><s n="ind"/></r> 
+        <r>ogni<s n="det"/><s n="ind"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -30778,18 +30656,18 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-77
     -->
     <e>
       <p>
         <l>either<s n="det"/><s n="ind"/></l> 
-        <r>qualsiasi<s n="det"/><s n="ind"/></r> 
+        <r>qualsiasi<s n="det"/><s n="ind"/><s n="mf"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-73
     -->
     <e c="either... or... : o... o...">
       <p>
@@ -30843,10 +30721,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-56
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>either<s n="prn"/></l> 
         <r>nessuno<s n="prn"/></r> 
@@ -32758,12 +32636,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-77
     -->
     <e>
       <p>
         <l>every<s n="det"/><s n="ind"/></l> 
-        <r>ogni<s n="det"/><s n="ind"/></r> 
+        <r>ogni<s n="det"/><s n="ind"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -32834,10 +32712,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-56
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>everybody<s n="prn"/></l> 
         <r>tutti<b/>quanti<s n="prn"/></r> 
@@ -32852,6 +32730,17 @@
       <p>
         <l>everyday<s n="adj"/></l> 
         <r>quotidiano<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-56
+    -->
+    <e r="LR">
+      <p>
+        <l>everyone<s n="prn"/></l> 
+        <r>tutti<b/>quanti<s n="prn"/></r> 
       </p>
     </e>
 
@@ -35057,34 +34946,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e c="check">
-      <p>
-        <l>feminist<s n="adj"/></l> 
-        <r>feminista<s n="adj"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-51
+      ND-71
     -->
     <e c="check">
       <p>
         <l>feminist<s n="adj"/></l> 
         <r>feminista<s n="adj"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e c="check">
-      <p>
-        <l>feminist<s n="adj"/></l> 
-        <r>feminista<s n="adj"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -41459,12 +41326,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-78
     -->
     <e>
       <p>
         <l>hers<s n="adj"/></l> 
-        <r>suo<s n="adj"/><s n="pos"/></r> 
+        <r>suo<s n="adj"/></r> 
       </p>
     </e>
 
@@ -41689,13 +41556,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-69
     -->
-    <e c="MG: traducció per defecte ca-en és per ara 'his'">
+    <e r="RL" c="MG: traducció per defecte ca-en és per ara 'his'">
       <p>
         <l>his<s n="det"/></l> 
-        <r>il<b/>suo<s n="det"/><s n="pos"/><s n="m"/></r> 
+        <r>il<b/>suo<s n="det"/></r> 
       </p>
     </e>
 
@@ -41711,13 +41578,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-69
     -->
-    <e c="MG: traducció per defecte ca-en és per ara 'his'">
+    <e r="RL" c="MG: traducció per defecte ca-en és per ara 'his'">
       <p>
         <l>his<s n="det"/></l> 
-        <r>suo<s n="det"/><s n="pos"/><s n="m"/></r> 
+        <r>suo<s n="det"/></r> 
       </p>
     </e>
 
@@ -41733,13 +41600,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-69
     -->
-    <e c="MG: traducció per defecte ca-en és per ara 'his'">
+    <e r="RL" c="MG: traducció per defecte ca-en és per ara 'his'">
       <p>
         <l>his<s n="det"/></l> 
-        <r>il<b/>loro<s n="det"/><s n="pos"/><s n="m"/></r> 
+        <r>il<b/>loro<s n="det"/></r> 
       </p>
     </e>
 
@@ -41767,12 +41634,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-78
     -->
     <e c="traducció per defecte ca-en és per ara 'his'">
       <p>
         <l>his<s n="adj"/></l> 
-        <r>suo<s n="adj"/><s n="pos"/></r> 
+        <r>suo<s n="adj"/></r> 
       </p>
     </e>
 
@@ -42086,12 +41953,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-53
     -->
     <e>
       <p>
         <l>homework<s n="n"/><s n="sg"/></l> 
-        <r>dovere<s n="n"/></r> 
+        <r>dovere<s n="n"/><s n="m"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -44429,23 +44296,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-53
     -->
     <e>
       <p>
         <l>income<s n="n"/><s n="sg"/></l> 
-        <r>reddito<s n="n"/></r> 
+        <r>reddito<s n="n"/><s n="m"/><s n="pl"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-53
     -->
     <e>
       <p>
         <l>income<s n="n"/><s n="sg"/></l> 
-        <r>entrata<s n="n"/></r> 
+        <r>entrata<s n="n"/><s n="m"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -47541,10 +47408,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND-79
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>just<b/>as<s n="preadv"/></l> 
         <r>tanto<s n="preadv"/></r> 
@@ -53141,12 +53008,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-78
     -->
     <e>
       <p>
         <l>mine<s n="adj"/></l> 
-        <r>mio<s n="adj"/><s n="pos"/></r> 
+        <r>mio<s n="adj"/></r> 
       </p>
     </e>
 
@@ -54834,13 +54701,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-69
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>my<s n="det"/></l> 
-        <r>il<b/>mio<s n="det"/><s n="pos"/><s n="m"/></r> 
+        <r>il<b/>mio<s n="det"/></r> 
       </p>
     </e>
 
@@ -54856,13 +54723,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-69
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>my<s n="det"/></l> 
-        <r>mio<s n="det"/><s n="pos"/><s n="m"/></r> 
+        <r>mio<s n="det"/></r> 
       </p>
     </e>
 
@@ -55484,7 +55351,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-73
     -->
     <e c="MG: neither... nor; not... or :en el trànsfer">
       <p>
@@ -56089,7 +55956,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-73
     -->
     <e>
       <p>
@@ -58212,7 +58079,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-73
     -->
     <e>
       <p>
@@ -58740,12 +58607,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-78
     -->
     <e>
       <p>
         <l>ours<s n="adj"/></l> 
-        <r>nostro<s n="adj"/><s n="pos"/></r> 
+        <r>nostro<s n="adj"/></r> 
       </p>
     </e>
 
@@ -66880,12 +66747,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-53
     -->
     <e>
       <p>
         <l>refuse<s n="n"/><s n="sg"/></l> 
-        <r>rifiuti<s n="n"/></r> 
+        <r>rifiuti<s n="n"/><s n="m"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -68145,23 +68012,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-53
     -->
     <e>
       <p>
         <l>revenue<s n="n"/><s n="sg"/></l> 
-        <r>reddito<s n="n"/></r> 
+        <r>reddito<s n="n"/><s n="m"/><s n="pl"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-53
     -->
     <e>
       <p>
         <l>revenue<s n="n"/><s n="sg"/></l> 
-        <r>entrata<s n="n"/></r> 
+        <r>entrata<s n="n"/><s n="m"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -77253,23 +77120,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-53
     -->
     <e>
       <p>
         <l>taxation<s n="n"/><s n="sg"/></l> 
-        <r>imposta<s n="n"/></r> 
+        <r>imposta<s n="n"/><s n="m"/><s n="pl"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-53
     -->
     <e>
       <p>
         <l>taxation<s n="n"/><s n="sg"/></l> 
-        <r>tassa<s n="n"/></r> 
+        <r>tassa<s n="n"/><s n="m"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -78375,12 +78242,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-78
     -->
     <e>
       <p>
         <l>theirs<s n="adj"/></l> 
-        <r>suo<s n="adj"/><s n="pos"/></r> 
+        <r>suo<s n="adj"/></r> 
       </p>
     </e>
 
@@ -83864,12 +83731,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-53
     -->
     <e>
       <p>
         <l>waste<s n="n"/><s n="sg"/></l> 
-        <r>rifiuti<s n="n"/></r> 
+        <r>rifiuti<s n="n"/><s n="m"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -84425,12 +84292,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-77
     -->
     <e>
       <p>
         <l>whatever<s n="det"/><s n="ind"/></l> 
-        <r>qualsiasi<s n="det"/><s n="ind"/></r> 
+        <r>qualsiasi<s n="det"/><s n="ind"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -85700,13 +85567,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-69
     -->
-    <e c="per ara de en-ca es genera només 'el vostre'">
+    <e r="RL" c="per ara de en-ca es genera només 'el vostre'">
       <p>
         <l>your<s n="det"/></l> 
-        <r>il<b/>tuo<s n="det"/><s n="pos"/><s n="m"/></r> 
+        <r>il<b/>tuo<s n="det"/></r> 
       </p>
     </e>
 
@@ -85722,13 +85589,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND-69
     -->
-    <e c="per ara de en-ca es genera només 'el vostre'">
+    <e r="RL" c="per ara de en-ca es genera només 'el vostre'">
       <p>
         <l>your<s n="det"/></l> 
-        <r>tuo<s n="det"/><s n="pos"/><s n="m"/></r> 
+        <r>tuo<s n="det"/></r> 
       </p>
     </e>
 
@@ -85778,12 +85645,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-78
     -->
     <e>
       <p>
         <l>yours<s n="adj"/></l> 
-        <r>vostro<s n="adj"/><s n="pos"/></r> 
+        <r>vostro<s n="adj"/></r> 
       </p>
     </e>
 
@@ -85817,6 +85684,17 @@
       <p>
         <l>yours<s n="prn"/><s n="pos"/></l> 
         <r>il<b/>vostro<s n="prn"/><s n="tn"/><s n="pos"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-56
+    -->
+    <e r="LR">
+      <p>
+        <l>yours<s n="prn"/></l> 
+        <r>il<b/>tuo<s n="prn"/></r> 
       </p>
     </e>
 
