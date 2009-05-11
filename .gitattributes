@@ -1,0 +1,24 @@
+* text=auto !eol
+/AUTHORS -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-en-it.en-it.t1x -text
+/apertium-en-it.en-it.t2x -text
+/apertium-en-it.en-it.t3x -text
+/apertium-en-it.en.acx -text
+/apertium-en-it.en.metadix -text
+/apertium-en-it.en.tsx -text
+/apertium-en-it.it-en.t1x -text
+/apertium-en-it.it-en.t2x -text
+/apertium-en-it.it-en.t3x -text
+/apertium-en-it.it.dix -text
+/apertium-en-it.it.tsx -text
+/apertium-en-it.post-en.dix -text
+/apertium-en-it.post-it.dix -text
+/autogen.sh -text
+/buscaPar.xsl -text
+dev/cross.xml -text
+/modes.xml -text
+/principal.xsl -text
+/translate-to-default-equivalent.xsl -text
