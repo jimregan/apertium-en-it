@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: en-it
 	Sections: 1
-	Entries: 7942
+	Entries: 7943
 	Sdefs: 93
       
       Patterns applied:
-      	default (311 times)
+      	default (309 times)
       	ND-0 (1549 times)
       	ND-1 (1542 times)
       	ND-2 (853 times)
@@ -90,6 +90,9 @@
       	ND4-9 (5 times)
       	ND5-8 (2 times)
       	ND6NoLR-8 (4 times)
+      	NDall-82 (1 times)
+      	NDall-248 (1 times)
+      	NDall-249 (1 times)
       	ND-390 (1 times)
 
 -->
@@ -8861,13 +8864,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      NDall-248
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>all<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l> 
-        <r>tutto<s n="prn"/></r> 
+        <r>tutto<s n="prn"/><s n="tn"/><s n="m"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -10727,6 +10730,17 @@
       <p>
         <l>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l> 
         <r>nessuno<s n="prn"/><s n="tn"/><s n="f"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      NDall-82
+    -->
+    <e r="LR" c="preguntes, negatives. EN-CA: per trànsfer (fr negatives)">
+      <p>
+        <l>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l> 
+        <r>nessuno<s n="prn"/><s n="tn"/><s n="m"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -33590,12 +33604,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      NDall-249
     -->
     <e>
       <p>
         <l>everything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></l> 
-        <r>tutto<s n="prn"/></r> 
+        <r>tutto<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
