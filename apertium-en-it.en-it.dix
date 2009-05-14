@@ -3,12 +3,12 @@
 	Dictionary:
 	Bilingual dictionary: en-it
 	Sections: 1
-	Entries: 7974
+	Entries: 7975
 	Sdefs: 93
       
       Patterns applied:
       	default (311 times)
-      	ND-0 (1531 times)
+      	ND-0 (1532 times)
       	ND-1 (1532 times)
       	ND-2 (853 times)
       	ND-3 (731 times)
@@ -4965,7 +4965,7 @@
     <e>
       <p>
         <l>Protestant<s n="n"/></l> 
-        <r>protestantesimo<s n="n"/><s n="mf"/></r> 
+        <r>protestante<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -66247,6 +66247,17 @@
       <p>
         <l>protest<s n="vblex"/></l> 
         <r>protestare<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-0
+    -->
+    <e>
+      <p>
+        <l>protestantism<s n="n"/></l> 
+        <r>protestantesimo<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
