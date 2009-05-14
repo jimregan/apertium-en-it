@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 5398
+	Entries: 5412
 	Sdefs: 70
-	Paradigms: 544
+	Paradigms: 543
 
 -->
 <dictionary>
@@ -2249,6 +2249,36 @@
       <p>
         <l>e</l> 
         <r>e<s n="n"/><s n="mf"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    </pardef>
+    <pardef n="scolar/e__n">
+    <e>
+      <p>
+        <l>i</l> 
+        <r>e<s n="n"/><s n="m"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>e</l> 
+        <r>e<s n="n"/><s n="m"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>e</l> 
+        <r>e<s n="n"/><s n="f"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>a</l> 
+        <r>e<s n="n"/><s n="f"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -25728,7 +25758,7 @@
     </e>
 
     </pardef>
-    <pardef n="banal/e__n">
+    <pardef n="normal/e__n">
     <e>
       <p>
         <l>e</l> 
@@ -25739,7 +25769,7 @@
     <e>
       <p>
         <l>i</l> 
-        <r>e<s n="n"/><s n="f"/><s n="pl"/></r> 
+        <r>e<s n="n"/><s n="mf"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -65881,22 +65911,6 @@
     </e>
 
     </pardef>
-    <pardef n="speci/e__n">
-    <e>
-      <p>
-        <l>e</l> 
-        <r>e<s n="n"/><s n="f"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <e>
-      <p>
-        <l></l> 
-        <r>e<s n="n"/><s n="f"/><s n="pl"/></r> 
-      </p>
-    </e>
-
-    </pardef>
     <pardef n="spe/gnere__vblex">
     <e>
       <p>
@@ -66723,29 +66737,6 @@
       <p>
         <l>are</l> 
         <r>are<s n="vbser"/><s n="inf"/></r> 
-      </p>
-    </e>
-
-    </pardef>
-    <pardef n="studi/o__n">
-    <e>
-      <p>
-        <l></l> 
-        <r>o<s n="n"/><s n="m"/><s n="pl"/></r> 
-      </p>
-    </e>
-
-    <e>
-      <p>
-        <l>os</l> 
-        <r>o<s n="n"/><s n="m"/><s n="pl"/></r> 
-      </p>
-    </e>
-
-    <e>
-      <p>
-        <l>o</l> 
-        <r>o<s n="n"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -70680,11 +70671,6 @@
         <par n="abbreviazion/e__n" /> 
     </e>
 
-    <e lm="arto">
-        <i>art</i> 
-        <par n="abbain/o__n" /> 
-    </e>
-
     <e lm="arteria">
         <i>arteri</i> 
         <par n="cas/a__n" /> 
@@ -71332,7 +71318,7 @@
 
     <e lm="banale">
         <i>banal</i> 
-        <par n="banal/e__n" /> 
+        <par n="normal/e__n" /> 
     </e>
 
     <e lm="banana">
@@ -71732,7 +71718,7 @@
 
     <e lm="brasiliano">
         <i>brasilian</i> 
-        <par n="abbain/o__n" /> 
+        <par n="bambin/o__n" /> 
     </e>
 
     <e lm="brevetto">
@@ -71868,6 +71854,11 @@
     <e lm="calamaro">
         <i>calamar</i> 
         <par n="abbain/o__n" /> 
+    </e>
+
+    <e lm="calaverna">
+        <i>calavern</i> 
+        <par n="cas/a__n" /> 
     </e>
 
     <e lm="calcestruzzo">
@@ -74055,6 +74046,11 @@
         <par n="abbreviazion/e__n" /> 
     </e>
 
+    <e lm="decesso">
+        <i>decess</i> 
+        <par n="abbain/o__n" /> 
+    </e>
+
     <e lm="decibel">
         <i>decibel</i> 
         <par n="advisor__n" /> 
@@ -74875,6 +74871,11 @@
         <par n="abat/e__n" /> 
     </e>
 
+    <e lm="eccellenza">
+        <i>eccellenz</i> 
+        <par n="cas/a__n" /> 
+    </e>
+
     <e lm="eccentricità">
         <i>eccentricità</i> 
         <par n="abilità__n" /> 
@@ -74907,6 +74908,11 @@
 
     <e lm="ecosistema">
         <i>ecosistem</i> 
+        <par n="autom/a__n" /> 
+    </e>
+
+    <e lm="edema">
+        <i>edem</i> 
         <par n="autom/a__n" /> 
     </e>
 
@@ -75090,6 +75096,11 @@
         <par n="abbreviazion/e__n" /> 
     </e>
 
+    <e lm="empatia">
+        <i>empati</i> 
+        <par n="cas/a__n" /> 
+    </e>
+
     <e lm="energia">
         <i>energi</i> 
         <par n="cas/a__n" /> 
@@ -75145,6 +75156,11 @@
         <par n="acciug/a__n" /> 
     </e>
 
+    <e lm="equatore">
+        <i>equator</i> 
+        <par n="abat/e__n" /> 
+    </e>
+
     <e lm="equilibrio">
         <i>equilibri</i> 
         <par n="abbagli/o__n" /> 
@@ -75195,9 +75211,9 @@
         <par n="abat/e__n" /> 
     </e>
 
-    <e lm="erudizione">
-        <i>erudizion</i> 
-        <par n="abbreviazion/e__n" /> 
+    <e lm="erudito">
+        <i>erudit</i> 
+        <par n="bambin/o__n" /> 
     </e>
 
     <e lm="eruzione">
@@ -75213,6 +75229,16 @@
     <e lm="esclusione">
         <i>esclusion</i> 
         <par n="abbreviazion/e__n" /> 
+    </e>
+
+    <e lm="escremento">
+        <i>escrement</i> 
+        <par n="abbain/o__n" /> 
+    </e>
+
+    <e lm="esecutivo">
+        <i>esecutiv</i> 
+        <par n="bambin/o__n" /> 
     </e>
 
     <e lm="esecuzione">
@@ -75272,12 +75298,7 @@
 
     <e lm="esperto">
         <i>espert</i> 
-        <par n="abbain/o__n" /> 
-    </e>
-
-    <e lm="esperto">
-        <i>espert</i> 
-        <par n="abbain/o__n" /> 
+        <par n="bambin/o__n" /> 
     </e>
 
     <e lm="esplorazione">
@@ -75293,6 +75314,11 @@
     <e lm="esplosivo">
         <i>esplosiv</i> 
         <par n="abbain/o__n" /> 
+    </e>
+
+    <e lm="esponente">
+        <i>esponent</i> 
+        <par n="normal/e__n" /> 
     </e>
 
     <e lm="esportazione">
@@ -75313,11 +75339,6 @@
     <e lm="espressionismo">
         <i>espressionism</i> 
         <par n="abbain/o__n" /> 
-    </e>
-
-    <e lm="esproprio">
-        <i>espropri</i> 
-        <par n="abbagli/o__n" /> 
     </e>
 
     <e lm="espropriazione">
@@ -75365,9 +75386,24 @@
         <par n="abat/e__n" /> 
     </e>
 
+    <e lm="estrazione">
+        <i>estrazion</i> 
+        <par n="abbreviazion/e__n" /> 
+    </e>
+
     <e lm="estremista">
         <i>estremist</i> 
         <par n="autom/a__n" /> 
+    </e>
+
+    <e lm="estremità">
+        <i>estremità</i> 
+        <par n="abilità__n" /> 
+    </e>
+
+    <e lm="estremo">
+        <i>estrem</i> 
+        <par n="abbain/o__n" /> 
     </e>
 
     <e lm="eterno">
@@ -75400,6 +75436,11 @@
         <par n="abbain/o__n" /> 
     </e>
 
+    <e lm="euro">
+        <i>euro</i> 
+        <par n="advisor__n" /> 
+    </e>
+
     <e lm="europeo">
         <i>europe</i> 
         <par n="abbain/o__n" /> 
@@ -75410,13 +75451,13 @@
         <par n="cas/a__n" /> 
     </e>
 
-    <e lm="evacuamento">
-        <i>evacuament</i> 
-        <par n="abbain/o__n" /> 
-    </e>
-
     <e lm="evacuazione">
         <i>evacuazion</i> 
+        <par n="abbreviazion/e__n" /> 
+    </e>
+
+    <e lm="evaporazione">
+        <i>evaporazion</i> 
         <par n="abbreviazion/e__n" /> 
     </e>
 
@@ -75442,12 +75483,12 @@
 
     <e lm="extra">
         <i>extra</i> 
-        <par n="advisor__n" /> 
+        <par n="blogger__n" /> 
     </e>
 
     <e lm="extraterrestre">
         <i>extraterrestr</i> 
-        <par n="abat/e__n" /> 
+        <par n="normal/e__n" /> 
     </e>
 
     <e lm="fabbisogno">
@@ -75525,6 +75566,11 @@
         <par n="acciacc/o__n" /> 
     </e>
 
+    <e lm="fantasia">
+        <i>fantasi</i> 
+        <par n="cas/a__n" /> 
+    </e>
+
     <e lm="fantasma">
         <i>fantasm</i> 
         <par n="autom/a__n" /> 
@@ -75567,12 +75613,12 @@
 
     <e lm="fase">
         <i>fas</i> 
-        <par n="amor/e__n" /> 
+        <par n="abbreviazion/e__n" /> 
     </e>
 
-    <e lm="fascismo">
-        <i>fascism</i> 
-        <par n="abbain/o__n" /> 
+    <e lm="fascista">
+        <i>fascist</i> 
+        <par n="eremit/a__n" /> 
     </e>
 
     <e lm="fata">
@@ -76212,6 +76258,11 @@
 
     <e lm="galassia">
         <i>galassi</i> 
+        <par n="cas/a__n" /> 
+    </e>
+
+    <e lm="galaverna">
+        <i>galavern</i> 
         <par n="cas/a__n" /> 
     </e>
 
@@ -76926,7 +76977,7 @@
 
     <e lm="impiegato">
         <i>impiegat</i> 
-        <par n="abbain/o__n" /> 
+        <par n="bambin/o__n" /> 
     </e>
 
     <e lm="implicazione">
@@ -76950,8 +77001,8 @@
     </e>
 
     <e lm="imprenditore">
-        <i>imprenditor</i> 
-        <par n="abat/e__n" /> 
+        <i>imprendit</i> 
+        <par n="att/ore__n" /> 
     </e>
 
     <e lm="impresa">
@@ -76991,12 +77042,7 @@
 
     <e lm="incaricato">
         <i>incaricat</i> 
-        <par n="incaric/o__n" /> 
-    </e>
-
-    <e lm="incaricato">
-        <i>incaricat</i> 
-        <par n="asin/o__n" /> 
+        <par n="bambin/o__n" /> 
     </e>
 
     <e lm="incendiario">
@@ -78205,7 +78251,7 @@
     </e>
 
     <e lm="mancanza">
-        <i>mancanza</i> 
+        <i>mancanz</i> 
         <par n="cas/a__n" /> 
     </e>
 
@@ -79184,6 +79230,11 @@
         <par n="abbain/o__n" /> 
     </e>
 
+    <e lm="nascondino">
+        <i>nascondin</i> 
+        <par n="abbain/o__n" /> 
+    </e>
+
     <e lm="natale">
         <i>natal</i> 
         <par n="abat/e__n" /> 
@@ -79256,7 +79307,7 @@
 
     <e lm="nemico">
         <i>nemic</i> 
-        <par n="abbain/o__n" /> 
+        <par n="aristocratic/o__n" /> 
     </e>
 
     <e lm="neonato">
@@ -80954,11 +81005,6 @@
         <par n="cas/a__n" /> 
     </e>
 
-    <e lm="potenza">
-        <i>potenz</i> 
-        <par n="cas/a__n" /> 
-    </e>
-
     <e lm="potenziale">
         <i>potenzial</i> 
         <par n="abat/e__n" /> 
@@ -81037,11 +81083,6 @@
     <e lm="preistoria">
         <i>preistori</i> 
         <par n="cas/a__n" /> 
-    </e>
-
-    <e lm="prelievo">
-        <i>preliev</i> 
-        <par n="abbain/o__n" /> 
     </e>
 
     <e lm="preliminare">
@@ -82381,7 +82422,7 @@
 
     <e lm="schiavo">
         <i>schiav</i> 
-        <par n="abbain/o__n" /> 
+        <par n="bambin/o__n" /> 
     </e>
 
     <e lm="schiavismo">
@@ -82410,8 +82451,8 @@
     </e>
 
     <e lm="sciatore">
-        <i>sciator</i> 
-        <par n="abat/e__n" /> 
+        <i>sciat</i> 
+        <par n="att/ore__n" /> 
     </e>
 
     <e lm="scienza">
@@ -82427,6 +82468,11 @@
     <e lm="sciopero">
         <i>scioper</i> 
         <par n="abbain/o__n" /> 
+    </e>
+
+    <e lm="scolare">
+        <i>scolar</i> 
+        <par n="scolar/e__n" /> 
     </e>
 
     <e lm="scommessa">
@@ -82480,8 +82526,8 @@
     </e>
 
     <e lm="scultore">
-        <i>scultor</i> 
-        <par n="abat/e__n" /> 
+        <i>scult</i> 
+        <par n="att/ore__n" /> 
     </e>
 
     <e lm="scultura">
@@ -82839,6 +82885,11 @@
         <par n="abbain/o__n" /> 
     </e>
 
+    <e lm="smeraldo">
+        <i>smerald</i> 
+        <par n="abbain/o__n" /> 
+    </e>
+
     <e lm="smoking">
         <i>smoking</i> 
         <par n="advisor__n" /> 
@@ -83031,7 +83082,7 @@
 
     <e lm="spagnolo">
         <i>spagnol</i> 
-        <par n="abbain/o__n" /> 
+        <par n="bambin/o__n" /> 
     </e>
 
     <e lm="spazio">
@@ -83055,8 +83106,8 @@
     </e>
 
     <e lm="specie">
-        <i>speci</i> 
-        <par n="speci/e__n" /> 
+        <i>specie</i> 
+        <par n="chat__n" /> 
     </e>
 
     <e lm="specializzazione">
@@ -83095,8 +83146,8 @@
     </e>
 
     <e lm="spettatore">
-        <i>spettator</i> 
-        <par n="abat/e__n" /> 
+        <i>spettat</i> 
+        <par n="att/ore__n" /> 
     </e>
 
     <e lm="spettro">
@@ -83117,6 +83168,11 @@
     <e lm="spilla">
         <i>spill</i> 
         <par n="cas/a__n" /> 
+    </e>
+
+    <e lm="spinacio">
+        <i>spinaci</i> 
+        <par n="abbagli/o__n" /> 
     </e>
 
     <e lm="spionaggio">
@@ -83256,7 +83312,7 @@
 
     <e lm="stile">
         <i>stil</i> 
-        <par n="abbreviazion/e__n" /> 
+        <par n="amor/e__n" /> 
     </e>
 
     <e lm="stima">
@@ -83296,7 +83352,7 @@
 
     <e lm="straniero">
         <i>stranier</i> 
-        <par n="abbain/o__n" /> 
+        <par n="bambin/o__n" /> 
     </e>
 
     <e lm="strato">
@@ -83312,6 +83368,11 @@
     <e lm="stregone">
         <i>streg</i> 
         <par n="streg/one__n" /> 
+    </e>
+
+    <e lm="stress">
+        <i>stress</i> 
+        <par n="advisor__n" /> 
     </e>
 
     <e lm="strumento">
@@ -83341,7 +83402,7 @@
 
     <e lm="studio">
         <i>studi</i> 
-        <par n="studi/o__n" /> 
+        <par n="abbagli/o__n" /> 
     </e>
 
     <e lm="stufa">
@@ -83987,6 +84048,11 @@
     <e lm="tronco">
         <i>tronc</i> 
         <par n="acciacc/o__n" /> 
+    </e>
+
+    <e lm="truffa">
+        <i>truff</i> 
+        <par n="cas/a__n" /> 
     </e>
 
     <e lm="tubercolosi">
@@ -89517,7 +89583,7 @@
 
     <e lm="spia">
         <i>spia</i> 
-        <par n="online__adj" /> 
+        <par n="chat__n" /> 
     </e>
 
     <e lm="spinale">
@@ -90376,11 +90442,6 @@
     <e lm="accedere">
         <i>acced</i> 
         <par n="acced/ere__vblex" /> 
-    </e>
-
-    <e lm="accellerare">
-        <i>acceller</i> 
-        <par n="abbacin/are__vblex" /> 
     </e>
 
     <e lm="accettare">
