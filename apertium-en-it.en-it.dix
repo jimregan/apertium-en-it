@@ -8,7 +8,7 @@
       
       Patterns applied:
       	default (311 times)
-      	ND-0 (1530 times)
+      	ND-0 (1531 times)
       	ND-1 (1532 times)
       	ND-2 (853 times)
       	ND-3 (731 times)
@@ -21,7 +21,7 @@
       	ND-10 (143 times)
       	ND-11 (95 times)
       	ND-15 (7 times)
-      	ND-16 (81 times)
+      	ND-16 (79 times)
       	ND-18 (70 times)
       	ND-19 (50 times)
       	ND-20 (48 times)
@@ -35,7 +35,7 @@
       	ND-49 (11 times)
       	ND-51 (1 times)
       	ND-29 (2 times)
-      	ND-30 (20 times)
+      	ND-30 (21 times)
       	ND-31 (18 times)
       	ND-33 (4 times)
       	ND-28 (10 times)
@@ -43,7 +43,7 @@
       	ND-40 (13 times)
       	ND-44 (12 times)
       	ND-39 (13 times)
-      	ND-36 (17 times)
+      	ND-36 (18 times)
       	ND-34 (4 times)
       	ND-57 (6 times)
       	ND-58 (6 times)
@@ -81,7 +81,7 @@
       	ND2-5 (2 times)
       	ND2-17 (7 times)
       	ND3-0 (75 times)
-      	ND3-1 (22 times)
+      	ND3-1 (21 times)
       	ND3-3 (11 times)
       	ND3-5 (10 times)
       	ND4-8 (5 times)
@@ -26586,34 +26586,23 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-16
-    -->
-    <e>
-      <p>
-        <l>cyclist<s n="n"/></l> 
-        <r>ciclismo<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-16
-    -->
-    <e>
-      <p>
-        <l>cyclist<s n="n"/></l> 
-        <r>ciclista<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND3-1
+      ND-36
     -->
     <e>
       <p>
         <l>cyclist<s n="n"/></l> 
         <r>ciclista<s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-30
+    -->
+    <e>
+      <p>
+        <l>cyclist<s n="n"/></l> 
+        <r>ciclista<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -50263,7 +50252,18 @@
     <e>
       <p>
         <l>lesbian<s n="n"/></l> 
-        <r>lesbismo<s n="n"/><s n="f"/></r> 
+        <r>lesbica<s n="n"/><s n="f"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-0
+    -->
+    <e>
+      <p>
+        <l>lesbianism<s n="n"/></l> 
+        <r>lesbismo<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
