@@ -3,7 +3,7 @@
 	Dictionary:
 	Bilingual dictionary: en-it
 	Sections: 1
-	Entries: 7975
+	Entries: 7974
 	Sdefs: 93
       
       Patterns applied:
@@ -14,10 +14,10 @@
       	ND-3 (731 times)
       	ND-4 (462 times)
       	ND-5 (402 times)
-      	ND-6 (206 times)
+      	ND-6 (205 times)
       	ND-7 (146 times)
-      	ND-8 (194 times)
-      	ND-9 (162 times)
+      	ND-8 (193 times)
+      	ND-9 (163 times)
       	ND-10 (143 times)
       	ND-11 (95 times)
       	ND-15 (7 times)
@@ -74034,17 +74034,6 @@
     <e r="LR">
       <p>
         <l>slave<s n="n"/></l> 
-        <r>schiavismo<s n="n"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'LR' restriction
-      ND-8
-    -->
-    <e r="LR">
-      <p>
-        <l>slave<s n="n"/></l> 
         <r>schiavo<s n="n"/><s n="GD"/></r> 
       </p>
     </e>
@@ -74056,18 +74045,18 @@
     <e r="RL">
       <p>
         <l>slave<s n="n"/></l> 
-        <r>schiavismo<s n="n"/></r> 
+        <r>schiavo<s n="n"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'RL' restriction
-      ND-6
+	forced 'null' restriction
+      ND-9
     -->
-    <e r="RL">
+    <e>
       <p>
-        <l>slave<s n="n"/></l> 
-        <r>schiavo<s n="n"/></r> 
+        <l>slavery<s n="n"/></l> 
+        <r>schiavismo<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 

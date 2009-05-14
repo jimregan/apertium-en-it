@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 7094
+	Entries: 7095
 	Sdefs: 91
 	Paradigms: 273
 
@@ -26315,6 +26315,11 @@
     <e lm="slave">
         <i>slave</i> 
         <par n="house__n" /> 
+    </e>
+
+    <e lm="slavery">
+        <i>slaver</i> 
+        <par n="bab/y__n" /> 
     </e>
 
     <e lm="sleep">
