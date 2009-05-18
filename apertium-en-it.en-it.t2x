@@ -3797,7 +3797,7 @@ Your mother and you will come - La vostra mare i tu vindran
 	       </get-case-from>
 		<lit-tag v="PREP"/>
 		<lit v="{^"/>
-		  <lit v="de"/>
+		  <lit v="di"/>
 		<lit-tag v="pr"/>
 		<lit v="$}"/>
 	      </chunk>
@@ -4193,7 +4193,7 @@ Your mother and you will come - La vostra mare i tu vindran
 	    </get-case-from>
 	    <lit-tag v="PREP"/>
 	    <lit v="{^"/>
-	    <lit v="de"/>
+	    <lit v="di"/>
 	    <lit-tag v="pr"/>
 		<lit v="$}"/>
 	  </chunk>
@@ -4301,7 +4301,7 @@ Your mother and you will come - La vostra mare i tu vindran
 	       </get-case-from>
 		<lit-tag v="PREP"/>
 		<lit v="{^"/>
-		  <lit v="de"/>
+		  <lit v="di"/>
 		<lit-tag v="pr"/>
 		<lit v="$}"/>
 	      </chunk>
@@ -7775,7 +7775,7 @@ Your mother and you will come - La vostra mare i tu vindran
 	       </get-case-from>
 		<lit-tag v="PREP"/>
 		<lit v="{^"/>
-		  <lit v="de"/>
+		  <lit v="di"/>
 		<lit-tag v="pr"/>
 		<lit v="$}"/>
 	      </chunk>
