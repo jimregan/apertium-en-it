@@ -25,8 +25,8 @@
 dev/cross-model-en-es-it.xml -text
 dev/cross.xml -text
 dev/patterns-not-detected.xml -text
-/en-es-unsupervised.make -text
-/en-es.prob -text svneol=unset#unset
+/en-it-unsupervised.make -text
+/en-it.prob -text svneol=unset#unset
 /it-en.prob -text svneol=unset#unset
 /modes.xml -text
 /principal.xsl -text

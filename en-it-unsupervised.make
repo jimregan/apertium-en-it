@@ -1,7 +1,7 @@
-TAGGER_UNSUPERVISED_ITERATIONS=8
-BASENAME=apertium-en-es
+﻿TAGGER_UNSUPERVISED_ITERATIONS=8
+BASENAME=apertium-en-it
 LANG1=en
-LANG2=es
+LANG2=it
 TAGGER=$(LANG1)-tagger-data
 PREFIX=$(LANG1)-$(LANG2)
 
@@ -33,8 +33,8 @@ $(TAGGER)/$(LANG1).dic: $(BASENAME).$(LANG1).dixtmp1 $(PREFIX).automorf.bin
 	@echo "\\[" >>$(LANG1).dic.expanded
 	@echo ")" >>$(LANG1).dic.expanded
 	@echo "\\]" >>$(LANG1).dic.expanded
-	@echo "¿" >>$(LANG1).dic.expanded
-	@echo "¡" >>$(LANG1).dic.expanded
+	@echo "Â¿" >>$(LANG1).dic.expanded
+	@echo "Â¡" >>$(LANG1).dic.expanded
 	lt-proc -a $(PREFIX).automorf.bin <$(LANG1).dic.expanded | \
 	apertium-filter-ambiguity $(BASENAME).$(LANG1).tsx > $@
 	rm $(LANG1).dic.expanded;
