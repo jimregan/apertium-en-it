@@ -3613,8 +3613,8 @@
 		</not>
 	      </test>
 	      <append n="adjectiu1">
-		<lit v="más"/>
-		<lit-tag v="preadv"/>
+		<lit v="più"/>
+		<lit-tag v="adv"/>
 		<lit v="$ ^"/>
 	      </append>	  
 	    </when>
@@ -3665,8 +3665,8 @@
 		</not>
 	      </test>
 	      <append n="adjectiu2">
-		<lit v="más"/>
-		<lit-tag v="preadv"/>
+		<lit v="più"/>
+		<lit-tag v="adv"/>
 		<lit v="$ ^"/>
 	      </append>	  
 	    </when>
@@ -3753,7 +3753,7 @@
 	      </equal>
 	      <equal caseless="yes">
 		<clip pos="1" side="tl" part="lemh"/>
-		<lit v="encantar"/>
+		<lit v="piacere"/> <!-- CHECK -->
 	      </equal>
 	    </or>
 	  </test>
@@ -3807,7 +3807,7 @@
 	      </equal>
 	      <equal caseless="yes">
 		<clip pos="1" side="tl" part="lemh"/>
-		<lit v="encantar"/>
+		<lit v="piacere"/> <!-- CHECK -->
 	      </equal>
 	    </or>
 	  </test>
@@ -4582,7 +4582,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
       </let>
       <let>
 	<clip pos="1" side="tl" part="lemh"/>
-	<lit v="estar"/>
+	<lit v="essere"/>
       </let>
       <let>
 	<clip pos="1" side="tl" part="a_verb"/>
@@ -4610,7 +4610,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 
       <let>
 	<clip pos="1" side="tl" part="lemh"/>
-	<lit v="estar"/>
+	<lit v="essere"/>
       </let>
       <let>
 	<clip pos="1" side="tl" part="a_verb"/>
@@ -4667,7 +4667,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
       </let>
       <let>
 	<clip pos="1" side="tl" part="lemh"/>
-	<lit v="estar"/>
+	<lit v="essere"/>
       </let>
       <let>
 	<clip pos="1" side="tl" part="a_verb"/>
@@ -16994,7 +16994,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </test>
 	    <let>
 	      <clip pos="1" side="tl" part="lem"/>
-	      <lit v="estar"/>
+	      <lit v="essere"/>
 	    </let>
 	    <let>
 	      <var n="tipus_verb"/>
@@ -17003,7 +17003,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
             <let>
 	      <var n="verbfinal"/>
 	      <concat>
-	        <lit v="estar"/>
+	        <lit v="essere"/>
 	        <lit-tag v="vblex"/>
 	        <lit-tag v="3"/>
 	        <lit-tag v="4"/>
@@ -19459,7 +19459,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</equal>
 		<equal caseless="yes">
 		  <clip pos="1" side="tl" part="lemh"/>
-		  <lit v="estar"/><!--tb agafa multiparaules com 'estar d'acord' -->
+		  <lit v="essere"/><!--tb agafa multiparaules com 'essere d'accordo' -->
 		</equal>
 	      </or>
 	    </test>
