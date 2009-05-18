@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
+﻿<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
 <transfer default="chunk">
   <section-def-cats>
 
@@ -20661,7 +20661,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </test>
 	    <let>
 	      <clip pos="1" side="tl" part="lem"/>
-	      <lit v="intentar"/>
+	      <lit v="provare"/> <!-- CHECK -->
 	    </let>
 	  </when>
 	</choose>		
@@ -20849,7 +20849,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </test>
 	    <let>
 	      <clip pos="3" side="tl" part="lem"/>
-	      <lit v="intentar"/>
+	      <lit v="provare"/> <!-- CHECK -->
 	    </let>
 	  </when>
 	</choose>
@@ -20952,7 +20952,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </test>
 	    <let>
 	      <clip pos="2" side="tl" part="lem"/>
-	      <lit v="intentar"/>
+	      <lit v="provare"/> <!-- CHECK -->
 	    </let>
 	  </when>
 	</choose>
