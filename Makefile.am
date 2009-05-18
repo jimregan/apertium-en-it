@@ -36,8 +36,8 @@ TARGETS = $(TARGETS_COMMON)
 
 
 $(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).metadix $(BASENAME).$(LANG1).acx
-	@xsltproc buscaPar.xsl apertium-en-es.en.metadix | uniq > tmp1gen.xsl 	 
-	@xsltproc tmp1gen.xsl apertium-en-es.en.metadix >$(BASENAME).$(LANG1).dixtmp1 
+	@xsltproc buscaPar.xsl apertium-en-it.en.metadix | uniq > tmp1gen.xsl 	 
+	@xsltproc tmp1gen.xsl apertium-en-it.en.metadix >$(BASENAME).$(LANG1).dixtmp1 
 	@rm tmp1gen.xsl
 	apertium-validate-acx $(BASENAME).$(LANG1).acx
 	apertium-validate-dictionary $(BASENAME).$(LANG1).dixtmp1
@@ -73,8 +73,8 @@ $(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	rm tmp$(PREFIX2).autobil.dix
 
 $(PREFIX2).autogen.bin: $(BASENAME).$(LANG1).metadix
-	@xsltproc buscaPar.xsl apertium-en-es.en.metadix | uniq > tmp2gen.xsl 	 
-	@xsltproc tmp2gen.xsl apertium-en-es.en.metadix >$(BASENAME).$(LANG1).dixtmp2
+	@xsltproc buscaPar.xsl apertium-en-it.en.metadix | uniq > tmp2gen.xsl 	 
+	@xsltproc tmp2gen.xsl apertium-en-it.en.metadix >$(BASENAME).$(LANG1).dixtmp2
 	@rm tmp2gen.xsl
 	apertium-validate-dictionary $(BASENAME).$(LANG1).dixtmp2
 	lt-comp rl $(BASENAME).$(LANG1).dixtmp2 $@
