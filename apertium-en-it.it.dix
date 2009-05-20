@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 5416
+	Entries: 5434
 	Sdefs: 70
 	Paradigms: 543
 
@@ -70721,6 +70721,15 @@
         <par n="abbain/o__n" /> 
     </e>
 
+    <e lm="asilo nido">
+        <i>asil</i> 
+        <par n="abbain/o__n" /> 
+      <p>
+        <l><b/>nido</l> 
+        <r><g><b/>nido</g></r> 
+      </p>
+    </e>
+
     <e lm="asimmetria">
         <i>asimmetri</i> 
         <par n="cas/a__n" /> 
@@ -71866,6 +71875,11 @@
         <par n="abbain/o__n" /> 
     </e>
 
+    <e lm="calciatore">
+        <i>calciat</i> 
+        <par n="att/ore__n" /> 
+    </e>
+
     <e lm="calcio">
         <i>calci</i> 
         <par n="abbagli/o__n" /> 
@@ -72694,6 +72708,11 @@
     <e lm="chitarra">
         <i>chitarr</i> 
         <par n="cas/a__n" /> 
+    </e>
+
+    <e lm="chitarrista">
+        <i>chitarrist</i> 
+        <par n="eremit/a__n" /> 
     </e>
 
     <e lm="chiusura">
@@ -73801,9 +73820,9 @@
         <par n="cas/a__n" /> 
     </e>
 
-    <e lm="crepaccio">
-        <i>crepacci</i> 
-        <par n="abbagli/o__n" /> 
+    <e lm="crepa">
+        <i>crep</i> 
+        <par n="cas/a__n" /> 
     </e>
 
     <e lm="crepuscolo">
@@ -75826,6 +75845,16 @@
         <par n="cas/a__n" /> 
     </e>
 
+    <e lm="filosofo">
+        <i>filosof</i> 
+        <par n="bambin/o__n" /> 
+    </e>
+
+    <e lm="filtrazione">
+        <i>filtrazion</i> 
+        <par n="abbreviazion/e__n" /> 
+    </e>
+
     <e lm="filtro">
         <i>filtr</i> 
         <par n="abbain/o__n" /> 
@@ -75881,6 +75910,11 @@
         <par n="abbreviazion/e__n" /> 
     </e>
 
+    <e lm="fisica">
+        <i>fisic</i> 
+        <par n="acciug/a__n" /> 
+    </e>
+
     <e lm="fisico">
         <i>fisic</i> 
         <par n="abbain/o__n" /> 
@@ -75931,6 +75965,11 @@
         <par n="cas/a__n" /> 
     </e>
 
+    <e lm="foca">
+        <i>foc</i> 
+        <par n="cas/a__n" /> 
+    </e>
+
     <e lm="foglia">
         <i>fogli</i> 
         <par n="cas/a__n" /> 
@@ -75956,14 +75995,14 @@
         <par n="abbain/o__n" /> 
     </e>
 
-    <e lm="fondamentalismo">
-        <i>fondamentalism</i> 
-        <par n="abbain/o__n" /> 
+    <e lm="fondamentalista">
+        <i>fondamentalist</i> 
+        <par n="eremit/a__n" /> 
     </e>
 
     <e lm="fondatore">
-        <i>fondator</i> 
-        <par n="abat/e__n" /> 
+        <i>fondat</i> 
+        <par n="att/ore__n" /> 
     </e>
 
     <e lm="fondazione">
@@ -76006,9 +76045,9 @@
         <par n="abbagli/o__n" /> 
     </e>
 
-    <e lm="format">
+    <e lm="formato">
         <i>format</i> 
-        <par n="advisor__n" /> 
+        <par n="abbain/o__n" /> 
     </e>
 
     <e lm="formica">
@@ -76041,6 +76080,11 @@
         <par n="cas/a__n" /> 
     </e>
 
+    <e lm="fosfato">
+        <i>fosfat</i> 
+        <par n="abbain/o__n" /> 
+    </e>
+
     <e lm="fossile">
         <i>fossil</i> 
         <par n="abat/e__n" /> 
@@ -76059,6 +76103,11 @@
     <e lm="fotografia">
         <i>fotografi</i> 
         <par n="cas/a__n" /> 
+    </e>
+
+    <e lm="fotografo">
+        <i>fotograf</i> 
+        <par n="bambin/o__n" /> 
     </e>
 
     <e lm="fotone">
@@ -76218,7 +76267,7 @@
 
     <e lm="funzionario">
         <i>funzionari</i> 
-        <par n="abbagli/o__n" /> 
+        <par n="bambin/o__n" /> 
     </e>
 
     <e lm="fuoco">
@@ -76328,7 +76377,7 @@
 
     <e lm="gatto">
         <i>gatt</i> 
-        <par n="abbain/o__n" /> 
+        <par n="bambin/o__n" /> 
     </e>
 
     <e lm="gay">
@@ -76371,6 +76420,11 @@
         <par n="abbreviazion/e__n" /> 
     </e>
 
+    <e lm="genio">
+        <i>geni</i> 
+        <par n="abbagli/o__n" /> 
+    </e>
+
     <e lm="genitale">
         <i>genital</i> 
         <par n="abat/e__n" /> 
@@ -76404,6 +76458,11 @@
     <e lm="geometria">
         <i>geometri</i> 
         <par n="cas/a__n" /> 
+    </e>
+
+    <e lm="geranio">
+        <i>gerani</i> 
+        <par n="abbagli/o__n" /> 
     </e>
 
     <e lm="gerarchia">
@@ -76481,6 +76540,11 @@
         <par n="abat/e__n" /> 
     </e>
 
+    <e lm="ginecologia">
+        <i>ginecologi</i> 
+        <par n="cas/a__n" /> 
+    </e>
+
     <e lm="ginecologo">
         <i>ginecolog</i> 
         <par n="biolog/o__n" /> 
@@ -76556,6 +76620,11 @@
         <par n="cas/a__n" /> 
     </e>
 
+    <e lm="giro">
+        <i>gir</i> 
+        <par n="abbain/o__n" /> 
+    </e>
+
     <e lm="giugno">
         <i>giugn</i> 
         <par n="antifurt/o__n" /> 
@@ -76611,6 +76680,11 @@
         <par n="abbagli/o__n" /> 
     </e>
 
+    <e lm="glutine">
+        <i>glutin</i> 
+        <par n="amor/e__n" /> 
+    </e>
+
     <e lm="goccia">
         <i>gocc</i> 
         <par n="alzatacc/ia__n" /> 
@@ -76621,8 +76695,8 @@
         <par n="cas/a__n" /> 
     </e>
 
-    <e lm="gol">
-        <i>gol</i> 
+    <e lm="goal">
+        <i>goal</i> 
         <par n="advisor__n" /> 
     </e>
 
@@ -76655,9 +76729,14 @@
         <par n="abbain/o__n" /> 
     </e>
 
+    <e lm="governante">
+        <i>governant</i> 
+        <par n="albanes/e__n" /> 
+    </e>
+
     <e lm="governatore">
-        <i>governator</i> 
-        <par n="abat/e__n" /> 
+        <i>governat</i> 
+        <par n="att/ore__n" /> 
     </e>
 
     <e lm="grado">
@@ -76733,6 +76812,11 @@
     <e lm="grossista">
         <i>grossist</i> 
         <par n="autom/a__n" /> 
+    </e>
+
+    <e lm="gru">
+        <i>gru</i> 
+        <par n="chat__n" /> 
     </e>
 
     <e lm="gruppo">
@@ -78568,6 +78652,11 @@
     <e lm="melodramma">
         <i>melodramm</i> 
         <par n="autom/a__n" /> 
+    </e>
+
+    <e lm="melograno">
+        <i>melogran</i> 
+        <par n="abbain/o__n" /> 
     </e>
 
     <e lm="membro">
@@ -80805,11 +80894,6 @@
         <par n="abat/e__n" /> 
     </e>
 
-    <e lm="pm">
-        <i>pm</i> 
-        <par n="advisor__n" /> 
-    </e>
-
     <e lm="pneumatico">
         <i>pneumatic</i> 
         <par n="abbain/o__n" /> 
@@ -81473,6 +81557,20 @@
     <e lm="pubblico">
         <i>pubblic</i> 
         <par n="abbain/o__n" /> 
+    </e>
+
+    <e lm="pubblico ministero">
+      <p>
+        <l>pubblico<b/>ministero</l> 
+        <r>pubblico<b/>ministero<s n="n"/><s n="m"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <e lm="pubblico ministero">
+      <p>
+        <l>pubblici<b/>ministeri</l> 
+        <r>pubblico<b/>ministero<s n="n"/><s n="m"/><s n="pl"/></r> 
+      </p>
     </e>
 
     <e lm="pubblicità">
