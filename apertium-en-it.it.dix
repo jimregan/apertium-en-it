@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 5434
+	Entries: 5475
 	Sdefs: 70
-	Paradigms: 543
+	Paradigms: 552
 
 -->
 <dictionary>
@@ -13641,11 +13641,135 @@
     </e>
 
     </pardef>
-    <pardef n="il_quale__rel">
+    <pardef n="/il_quale__rel">
+    <e>
+      <p>
+        <l>il<b/>quale</l> 
+        <r>il<b/>quale<s n="rel"/><s n="an"/><s n="m"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>la<b/>quale</l> 
+        <r>il<b/>quale<s n="rel"/><s n="an"/><s n="f"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>i<b/>quali</l> 
+        <r>il<b/>quale<s n="rel"/><s n="an"/><s n="m"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>le<b/>quali</l> 
+        <r>il<b/>quale<s n="rel"/><s n="an"/><s n="f"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    </pardef>
+    <pardef n="/quello_che__rel">
+    <e>
+      <p>
+        <l>quello<b/>che</l> 
+        <r>quello<b/>che<s n="rel"/><s n="an"/><s n="m"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>quella<b/>che</l> 
+        <r>quello<b/>che<s n="rel"/><s n="an"/><s n="f"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>quelli<b/>che</l> 
+        <r>quello<b/>che<s n="rel"/><s n="an"/><s n="m"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>quelle<b/>che</l> 
+        <r>quello<b/>che<s n="rel"/><s n="an"/><s n="f"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    </pardef>
+    <pardef n="quant/o__rel">
+    <e>
+      <p>
+        <l>i</l> 
+        <r>o<s n="rel"/><s n="nn"/><s n="m"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>o</l> 
+        <r>o<s n="rel"/><s n="nn"/><s n="m"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>e</l> 
+        <r>o<s n="rel"/><s n="nn"/><s n="f"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>a</l> 
+        <r>o<s n="rel"/><s n="nn"/><s n="f"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    </pardef>
+    <pardef n="qual/e__rel">
+    <e>
+      <p>
+        <l>i</l> 
+        <r>e<s n="rel"/><s n="an"/><s n="mf"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>e</l> 
+        <r>e<s n="rel"/><s n="an"/><s n="mf"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    </pardef>
+    <pardef n="il_che__rel">
     <e>
       <p>
         <l></l> 
         <r><s n="rel"/><s n="an"/><s n="nt"/></r> 
+      </p>
+    </e>
+
+    </pardef>
+    <pardef n="dove__rel">
+    <e>
+      <p>
+        <l></l> 
+        <r><s n="rel"/><s n="adv"/></r> 
+      </p>
+    </e>
+
+    </pardef>
+    <pardef n="che__rel">
+    <e>
+      <p>
+        <l></l> 
+        <r><s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -50737,6 +50861,36 @@
     </e>
 
     </pardef>
+    <pardef n="mi/o__adj">
+    <e>
+      <p>
+        <l>ei</l> 
+        <r>o<s n="adj"/><s n="pos"/><s n="m"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>o</l> 
+        <r>o<s n="adj"/><s n="pos"/><s n="m"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>e</l> 
+        <r>o<s n="adj"/><s n="pos"/><s n="f"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>a</l> 
+        <r>o<s n="adj"/><s n="pos"/><s n="f"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    </pardef>
     <pardef n="mi/o__det">
     <e>
       <p>
@@ -51775,6 +51929,36 @@
       <p>
         <l></l> 
         <r><s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    </pardef>
+    <pardef n="nostr/o__adj">
+    <e>
+      <p>
+        <l>i</l> 
+        <r>o<s n="adj"/><s n="pos"/><s n="m"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>o</l> 
+        <r>o<s n="adj"/><s n="pos"/><s n="m"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>e</l> 
+        <r>o<s n="adj"/><s n="pos"/><s n="f"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>a</l> 
+        <r>o<s n="adj"/><s n="pos"/><s n="f"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -67336,22 +67520,29 @@
     <pardef n="tu/o__adj">
     <e>
       <p>
+        <l>oi</l> 
+        <r>o<s n="adj"/><s n="pos"/><s n="m"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
         <l>e</l> 
-        <r>o<s n="adj"/><s n="f"/><s n="pl"/></r> 
+        <r>o<s n="adj"/><s n="pos"/><s n="f"/><s n="pl"/></r> 
       </p>
     </e>
 
     <e>
       <p>
         <l>a</l> 
-        <r>o<s n="adj"/><s n="f"/><s n="sg"/></r> 
+        <r>o<s n="adj"/><s n="pos"/><s n="f"/><s n="sg"/></r> 
       </p>
     </e>
 
     <e>
       <p>
         <l>o</l> 
-        <r>o<s n="adj"/><s n="m"/><s n="sg"/></r> 
+        <r>o<s n="adj"/><s n="pos"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -68050,7 +68241,7 @@
       </p>
     </e>
 
-    <e r="LR">
+    <e r="RL">
       <p>
         <l><a/>un</l> 
         <r>un<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r> 
@@ -68623,6 +68814,36 @@
       <p>
         <l>olere</l> 
         <r>olere<s n="vbmod"/><s n="inf"/></r> 
+      </p>
+    </e>
+
+    </pardef>
+    <pardef n="vostr/o__adj">
+    <e>
+      <p>
+        <l>i</l> 
+        <r>o<s n="adj"/><s n="pos"/><s n="m"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>o</l> 
+        <r>o<s n="adj"/><s n="pos"/><s n="m"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>e</l> 
+        <r>o<s n="adj"/><s n="pos"/><s n="f"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>a</l> 
+        <r>o<s n="adj"/><s n="pos"/><s n="f"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -69247,38 +69468,56 @@
     </e>
 
     <e lm="come">
-        <i>dove</i> 
-        <par n="il_quale__rel" /> 
+        <i>come</i> 
+        <par n="dove__rel" /> 
     </e>
 
     <e lm="quale">
-        <i>dove</i> 
-        <par n="il_quale__rel" /> 
+        <i>qual</i> 
+        <par n="qual/e__rel" /> 
     </e>
 
     <e lm="quanto">
-        <i>dove</i> 
-        <par n="il_quale__rel" /> 
+        <i>quanto</i> 
+        <par n="dove__rel" /> 
+    </e>
+
+    <e lm="quanto">
+        <i>quant</i> 
+        <par n="quant/o__rel" /> 
     </e>
 
     <e lm="dove">
         <i>dove</i> 
-        <par n="il_quale__rel" /> 
+        <par n="dove__rel" /> 
+    </e>
+
+    <e lm="quando">
+        <i>quando</i> 
+        <par n="dove__rel" /> 
     </e>
 
     <e lm="il quale">
-        <i>il quale</i> 
-        <par n="il_quale__rel" /> 
+        <par n="/il_quale__rel" /> 
+    </e>
+
+    <e lm="quello che">
+        <par n="/quello_che__rel" /> 
     </e>
 
     <e lm="il che">
         <i>il che</i> 
-        <par n="il_quale__rel" /> 
+        <par n="il_che__rel" /> 
     </e>
 
     <e lm="il cui">
         <i>il cui</i> 
-        <par n="il_quale__rel" /> 
+        <par n="il_che__rel" /> 
+    </e>
+
+    <e lm="che">
+        <i>che</i> 
+        <par n="che__rel" /> 
     </e>
 
     <e lm="Albania">
@@ -69736,6 +69975,11 @@
         <par n="abat/e__n" /> 
     </e>
 
+    <e lm="affluenza">
+        <i>affluenz</i> 
+        <par n="cas/a__n" /> 
+    </e>
+
     <e lm="affondamento">
         <i>affondament</i> 
         <par n="abbain/o__n" /> 
@@ -69856,6 +70100,11 @@
         <par n="albanes/e__n" /> 
     </e>
 
+    <e lm="albatros">
+        <i>albatros</i> 
+        <par n="albatros__n" /> 
+    </e>
+
     <e lm="albero">
         <i>alber</i> 
         <par n="abbain/o__n" /> 
@@ -69889,6 +70138,11 @@
     <e lm="alcool">
         <i>alcool</i> 
         <par n="alcool__n" /> 
+    </e>
+
+    <e lm="alcova">
+        <i>alcov</i> 
+        <par n="cas/a__n" /> 
     </e>
 
     <e lm="alfabeto">
@@ -70486,6 +70740,16 @@
         <par n="amor/e__n" /> 
     </e>
 
+    <e lm="aragonese">
+        <i>aragones</i> 
+        <par n="amor/e__n" /> 
+    </e>
+
+    <e lm="araldo">
+        <i>arald</i> 
+        <par n="abbain/o__n" /> 
+    </e>
+
     <e lm="arancione">
         <i>arancion</i> 
         <par n="abat/e__n" /> 
@@ -70614,11 +70878,6 @@
     <e lm="armonia">
         <i>armoni</i> 
         <par n="cas/a__n" /> 
-    </e>
-
-    <e lm="arnese">
-        <i>arnes</i> 
-        <par n="abat/e__n" /> 
     </e>
 
     <e lm="aroma">
@@ -70843,6 +71102,11 @@
     <e lm="assoluzione">
         <i>assoluzion</i> 
         <par n="abbreviazion/e__n" /> 
+    </e>
+
+    <e lm="assorbente">
+        <i>assorbent</i> 
+        <par n="abat/e__n" /> 
     </e>
 
     <e lm="assurdo">
@@ -72078,6 +72342,11 @@
     <e lm="candidato">
         <i>candidat</i> 
         <par n="asin/o__n" /> 
+    </e>
+
+    <e lm="canino">
+        <i>canin</i> 
+        <par n="abbain/o__n" /> 
     </e>
 
     <e lm="canna">
@@ -75105,9 +75374,19 @@
         <par n="abbreviazion/e__n" /> 
     </e>
 
+    <e lm="emofilia">
+        <i>emofili</i> 
+        <par n="cas/a__n" /> 
+    </e>
+
     <e lm="emorragia">
         <i>emorragi</i> 
         <par n="cas/a__n" /> 
+    </e>
+
+    <e lm="emorroide">
+        <i>emorroid</i> 
+        <par n="abbreviazion/e__n" /> 
     </e>
 
     <e lm="emozione">
@@ -75198,6 +75477,11 @@
     <e lm="erba">
         <i>erb</i> 
         <par n="cas/a__n" /> 
+    </e>
+
+    <e lm="eredità">
+        <i>eredità</i> 
+        <par n="abilità__n" /> 
     </e>
 
     <e lm="erezione">
@@ -75745,14 +76029,14 @@
         <par n="cas/a__n" /> 
     </e>
 
+    <e lm="ferratura">
+        <i>ferratur</i> 
+        <par n="cas/a__n" /> 
+    </e>
+
     <e lm="ferro">
         <i>ferr</i> 
         <par n="abbain/o__n" /> 
-    </e>
-
-    <e lm="ferro-di-cavallo">
-        <i>ferr/-di-cavallo</i> 
-        <par n="ferr/o-di-cavallo__n" /> 
     </e>
 
     <e lm="ferrovia">
@@ -76879,9 +77163,19 @@
         <par n="advisor__n" /> 
     </e>
 
+    <e lm="herpes">
+        <i>herpes</i> 
+        <par n="chat__n" /> 
+    </e>
+
     <e lm="hotel">
         <i>hotel</i> 
         <par n="advisor__n" /> 
+    </e>
+
+    <e lm="ibridizzazione">
+        <i>ibridizzazion</i> 
+        <par n="abbreviazion/e__n" /> 
     </e>
 
     <e lm="iceberg">
@@ -76944,9 +77238,19 @@
         <par n="abbain/o__n" /> 
     </e>
 
+    <e lm="idrossido">
+        <i>idrossid</i> 
+        <par n="abbain/o__n" /> 
+    </e>
+
     <e lm="idrovolante">
         <i>idrovolant</i> 
         <par n="abat/e__n" /> 
+    </e>
+
+    <e lm="iena">
+        <i>ien</i> 
+        <par n="cas/a__n" /> 
     </e>
 
     <e lm="igiene">
@@ -76957,6 +77261,11 @@
     <e lm="ignoranza">
         <i>ignoranz</i> 
         <par n="cas/a__n" /> 
+    </e>
+
+    <e lm="igrometro">
+        <i>igrometr</i> 
+        <par n="abbain/o__n" /> 
     </e>
 
     <e lm="illuminismo">
@@ -77579,9 +77888,24 @@
         <par n="abbain/o__n" /> 
     </e>
 
+    <e lm="ipocondria">
+        <i>ipocondri</i> 
+        <par n="cas/a__n" /> 
+    </e>
+
     <e lm="ipoteca">
         <i>ipotec</i> 
         <par n="acciug/a__n" /> 
+    </e>
+
+    <e lm="ipotensione">
+        <i>ipotension</i> 
+        <par n="abbreviazion/e__n" /> 
+    </e>
+
+    <e lm="ipotermia">
+        <i>ipotermia</i> 
+        <par n="cas/a__n" /> 
     </e>
 
     <e lm="ippopotamo">
@@ -84963,9 +85287,24 @@
         <par n="abbagliant/e__adj" /> 
     </e>
 
+    <e lm="adriatico">
+        <i>adriatic</i> 
+        <par n="abortistic/o__adj" /> 
+    </e>
+
     <e lm="adulto">
         <i>adult</i> 
         <par n="abbandonat/o__adj" /> 
+    </e>
+
+    <e lm="adultero">
+        <i>adulter</i> 
+        <par n="abbandonat/o__adj" /> 
+    </e>
+
+    <e lm="aerobico">
+        <i>aerobic</i> 
+        <par n="abortistic/o__adj" /> 
     </e>
 
     <e lm="aerodinamico">
@@ -84998,6 +85337,11 @@
         <par n="abbandonat/o__adj" /> 
     </e>
 
+    <e lm="affilato">
+        <i>affilat</i> 
+        <par n="abbandonat/o__adj" /> 
+    </e>
+
     <e lm="afrodisiaco">
         <i>afrodisiac</i> 
         <par n="abortistic/o__adj" /> 
@@ -85018,6 +85362,11 @@
         <par n="accentrat/ore__adj" /> 
     </e>
 
+    <e lm="agroindustriale">
+        <i>agroindustrial</i> 
+        <par n="agroalimentar/e__adj" /> 
+    </e>
+
     <e lm="aiutante">
         <i>aiuta</i> 
         <par n="abbacchia/nte__adj" /> 
@@ -85031,6 +85380,11 @@
     <e lm="albanese">
         <i>albanes</i> 
         <par n="albanes/e__adj" /> 
+    </e>
+
+    <e lm="alcalino">
+        <i>alcalin</i> 
+        <par n="algerin/o__adj" /> 
     </e>
 
     <e lm="alcolico">
@@ -85238,6 +85592,11 @@
         <par n="adunc/o__adj" /> 
     </e>
 
+    <e lm="anticlericale">
+        <i>anticlerical</i> 
+        <par n="abbagliant/e__adj" /> 
+    </e>
+
     <e lm="antinaturale">
         <i>antinatural</i> 
         <par n="abbagliant/e__adj" /> 
@@ -85296,6 +85655,11 @@
     <e lm="arabo">
         <i>arab</i> 
         <par n="algerin/o__adj" /> 
+    </e>
+
+    <e lm="aragonese">
+        <i>aragones</i> 
+        <par n="abbagliant/e__adj" /> 
     </e>
 
     <e lm="arancione">
@@ -85386,6 +85750,11 @@
     <e lm="assoluto">
         <i>assolut</i> 
         <par n="abbandonat/o__adj" /> 
+    </e>
+
+    <e lm="assorbente">
+        <i>assorbe</i> 
+        <par n="abbacchia/nte__adj" /> 
     </e>
 
     <e lm="assortito">
@@ -85548,6 +85917,16 @@
         <par n="abbandonat/o__adj" /> 
     </e>
 
+    <e lm="bestiale">
+        <i>bestial</i> 
+        <par n="abbagliant/e__adj" /> 
+    </e>
+
+    <e lm="bilabiale">
+        <i>bilabial</i> 
+        <par n="abbagliant/e__adj" /> 
+    </e>
+
     <e lm="bianco">
         <i>bianc</i> 
         <par n="adunc/o__adj" /> 
@@ -85583,6 +85962,11 @@
         <par n="abortistic/o__adj" /> 
     </e>
 
+    <e lm="bovino">
+        <i>bovin</i> 
+        <par n="bambin/o__adj" /> 
+    </e>
+
     <e lm="brasiliano">
         <i>brasilian</i> 
         <par n="abbandonat/o__adj" /> 
@@ -85596,6 +85980,11 @@
     <e lm="bronchiale">
         <i>bronchial</i> 
         <par n="abbagliant/e__adj" /> 
+    </e>
+
+    <e lm="brusco">
+        <i>brusc</i> 
+        <par n="adunc/o__adj" /> 
     </e>
 
     <e lm="brutale">
@@ -85647,6 +86036,11 @@
         <par n="abbandonat/o__adj" /> 
     </e>
 
+    <e lm="canino">
+        <i>canin</i> 
+        <par n="abbandonat/o__adj" /> 
+    </e>
+
     <e lm="cantante">
         <i>canta</i> 
         <par n="abbacchia/nte__adj" /> 
@@ -85679,6 +86073,11 @@
 
     <e lm="cardinale">
         <i>cardinal</i> 
+        <par n="abbagliant/e__adj" /> 
+    </e>
+
+    <e lm="cardiovascolare">
+        <i>cardiovascolar</i> 
         <par n="abbagliant/e__adj" /> 
     </e>
 
@@ -85809,6 +86208,11 @@
     <e lm="cinese">
         <i>cinese</i> 
         <par n="abbagliant/e__adj" /> 
+    </e>
+
+    <e lm="cirillico">
+        <i>cirillic</i> 
+        <par n="abortistic/o__adj" /> 
     </e>
 
     <e lm="citrico">
@@ -90039,9 +90443,29 @@
         <par n="molt/o__adj" /> 
     </e>
 
+    <e lm="mio">
+        <i>mi</i> 
+        <par n="mi/o__adj" /> 
+    </e>
+
     <e lm="tuo">
         <i>tu</i> 
         <par n="tu/o__adj" /> 
+    </e>
+
+    <e lm="suo">
+        <i>su</i> 
+        <par n="tu/o__adj" /> 
+    </e>
+
+    <e lm="nostro">
+        <i>nostr</i> 
+        <par n="nostr/o__adj" /> 
+    </e>
+
+    <e lm="vostro">
+        <i>vostr</i> 
+        <par n="vostr/o__adj" /> 
     </e>
 
     <e lm="turco">
@@ -90422,6 +90846,11 @@
         <par n="affinché__cnjsub" /> 
     </e>
 
+    <e lm="affinché">
+        <i>affinché</i> 
+        <par n="affinché__cnjsub" /> 
+    </e>
+
     <e lm="nonostante">
         <i>nonostante</i> 
         <par n="affinché__cnjsub" /> 
@@ -90434,11 +90863,6 @@
 
     <e lm="poiché">
         <i>poiché</i> 
-        <par n="affinché__cnjsub" /> 
-    </e>
-
-    <e lm="se">
-        <i>se</i> 
         <par n="affinché__cnjsub" /> 
     </e>
 
@@ -90477,6 +90901,16 @@
         <par n="siccome__cnjadv" /> 
     </e>
 
+    <e lm="nel caso in cui">
+        <i>nel<b/>caso<b/>in<b/>cui</i> 
+        <par n="siccome__cnjadv" /> 
+    </e>
+
+    <e lm="altrimenti">
+        <i>altrimenti</i> 
+        <par n="siccome__cnjadv" /> 
+    </e>
+
     <e lm="giacché">
         <i>giacché</i> 
         <par n="siccome__cnjadv" /> 
@@ -90509,6 +90943,11 @@
 
     <e lm="secondo">
         <i>secondo</i> 
+        <par n="siccome__cnjadv" /> 
+    </e>
+
+    <e lm="se">
+        <i>se</i> 
         <par n="siccome__cnjadv" /> 
     </e>
 
@@ -94051,8 +94490,8 @@
 
     <e r="RL" lm="sotto">
       <p>
-        <l>sotto</l> 
-        <r><a/>sotto</r> 
+        <l><a/>sotto</l> 
+        <r>sotto</r> 
       </p>
         <par n="accanto__pr" /> 
     </e>
@@ -94207,13 +94646,8 @@
         <par n="accanto__pr" /> 
     </e>
 
-    <e lm="sotto">
-        <i>sotto</i> 
-        <par n="accanto__pr" /> 
-    </e>
-
-    <e lm="sotto">
-        <i>sotto</i> 
+    <e lm="tramite">
+        <i>tramite</i> 
         <par n="accanto__pr" /> 
     </e>
 
@@ -94419,11 +94853,6 @@
 
     <e lm="altamente">
         <i>altamente</i> 
-        <par n="ieri__adv" /> 
-    </e>
-
-    <e lm="altrimenti">
-        <i>altrimenti</i> 
         <par n="ieri__adv" /> 
     </e>
 
@@ -95389,11 +95818,6 @@
 
     <e lm="negativamente">
         <i>negativamente</i> 
-        <par n="ieri__adv" /> 
-    </e>
-
-    <e lm="nel caso in cui">
-        <i>nel<b/>caso<b/>in<b/>cui</i> 
         <par n="ieri__adv" /> 
     </e>
 

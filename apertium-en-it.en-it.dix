@@ -3,40 +3,40 @@
 	Dictionary:
 	Bilingual dictionary: en-it
 	Sections: 1
-	Entries: 7979
+	Entries: 8008
 	Sdefs: 93
       
       Patterns applied:
-      	default (314 times)
-      	ND-0 (1523 times)
-      	ND-1 (1517 times)
+      	default (320 times)
+      	ND-0 (1520 times)
+      	ND-1 (1515 times)
       	ND-2 (853 times)
       	ND-3 (731 times)
-      	ND-4 (462 times)
-      	ND-5 (402 times)
-      	ND-6 (200 times)
-      	ND-7 (146 times)
-      	ND-8 (188 times)
-      	ND-9 (171 times)
+      	ND-4 (469 times)
+      	ND-5 (412 times)
+      	ND-6 (197 times)
+      	ND-7 (145 times)
+      	ND-8 (185 times)
+      	ND-9 (173 times)
       	ND-10 (147 times)
       	ND-11 (95 times)
       	ND-15 (7 times)
       	ND-16 (76 times)
       	ND-18 (70 times)
       	ND-19 (50 times)
-      	ND-20 (51 times)
-      	ND-21 (50 times)
+      	ND-20 (52 times)
+      	ND-21 (52 times)
       	ND-22 (5 times)
-      	ND-23 (38 times)
+      	ND-23 (40 times)
       	ND-24 (16 times)
-      	ND-27 (24 times)
-      	ND-46 (11 times)
-      	ND-48 (9 times)
+      	ND-27 (27 times)
+      	ND-46 (12 times)
+      	ND-48 (8 times)
       	ND-49 (11 times)
       	ND-51 (1 times)
       	ND-29 (2 times)
       	ND-30 (22 times)
-      	ND-31 (19 times)
+      	ND-31 (22 times)
       	ND-33 (4 times)
       	ND-28 (10 times)
       	ND-41 (10 times)
@@ -74,10 +74,10 @@
       	ND-103 (2 times)
       	ND-104 (1 times)
       	ND-101 (1 times)
-      	ND2-1 (86 times)
-      	ND2-2 (104 times)
-      	ND2-3 (104 times)
-      	ND2-4 (77 times)
+      	ND2-1 (87 times)
+      	ND2-2 (105 times)
+      	ND2-3 (105 times)
+      	ND2-4 (78 times)
       	ND2-5 (2 times)
       	ND2-17 (7 times)
       	ND3-0 (75 times)
@@ -89,7 +89,7 @@
       	ND4-8 (5 times)
       	ND4-9 (5 times)
       	ND5-8 (2 times)
-      	ND6NoLR-8 (4 times)
+      	ND6NoLR-8 (5 times)
       	NDall-82 (1 times)
       	NDall-248 (1 times)
       	NDall-249 (1 times)
@@ -3464,23 +3464,23 @@
 
     <!-- 
 	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>Jupiter<s n="np"/><s n="ant"/></l> 
+        <r>Giove<s n="np"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-18
     -->
     <e>
       <p>
         <l>Jupiter<s n="np"/><s n="loc"/></l> 
         <r>Giove<s n="np"/><s n="loc"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-7
-    -->
-    <e>
-      <p>
-        <l>Júpiter<s n="np"/><s n="ant"/></l> 
-        <r>Giove<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -6566,6 +6566,17 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-4
+    -->
+    <e>
+      <p>
+        <l>absorbent<s n="adj"/></l> 
+        <r>assorbente<s n="adj"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-1
     -->
     <e>
@@ -7941,6 +7952,17 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>adriatic<s n="adj"/></l> 
+        <r>adriatico<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-1
     -->
     <e>
@@ -7958,6 +7980,17 @@
       <p>
         <l>adulteration<s n="n"/></l> 
         <r>adulterazione<s n="n"/><s n="f"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>adulterous<s n="adj"/></l> 
+        <r>adultero<s n="adj"/></r> 
       </p>
     </e>
 
@@ -8156,6 +8189,17 @@
       <p>
         <l>advocate<s n="vblex"/></l> 
         <r>difendere<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>aerobic<s n="adj"/></l> 
+        <r>aerobico<s n="adj"/></r> 
       </p>
     </e>
 
@@ -8678,6 +8722,17 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>agri-food<s n="adj"/></l> 
+        <r>agroalimentare<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-51
     -->
     <e>
@@ -8717,6 +8772,28 @@
       <p>
         <l>agriculture<s n="n"/></l> 
         <r>agricoltura<s n="n"/><s n="f"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>agrifood<s n="adj"/></l> 
+        <r>agroalimentare<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-4
+    -->
+    <e>
+      <p>
+        <l>agro-industrial<s n="adj"/></l> 
+        <r>agroindustriale<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -8946,6 +9023,39 @@
     -->
     <e r="LR">
       <p>
+        <l>albatross<s n="n"/><s n="sg"/></l> 
+        <r>albatros<s n="n"/><s n="m"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-23
+    -->
+    <e r="LR">
+      <p>
+        <l>albatross<s n="n"/><s n="pl"/></l> 
+        <r>albatros<s n="n"/><s n="m"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>albatross<s n="n"/></l> 
+        <r>albatros<s n="n"/><s n="m"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-21
+    -->
+    <e r="LR">
+      <p>
         <l>album<s n="n"/><s n="sg"/></l> 
         <r>album<s n="n"/><s n="m"/><s n="sp"/></r> 
       </p>
@@ -8970,6 +9080,17 @@
       <p>
         <l>album<s n="n"/><s n="ND"/></l> 
         <r>album<s n="n"/><s n="m"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>alcaline<s n="adj"/></l> 
+        <r>alcalino<s n="adj"/></r> 
       </p>
     </e>
 
@@ -9036,6 +9157,17 @@
       <p>
         <l>alcoholism<s n="n"/></l> 
         <r>alcolismo<s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-1
+    -->
+    <e>
+      <p>
+        <l>alcove<s n="n"/></l> 
+        <r>alcova<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -10779,6 +10911,17 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-4
+    -->
+    <e>
+      <p>
+        <l>anticlerical<s n="adj"/></l> 
+        <r>anticlericale<s n="adj"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-0
     -->
     <e>
@@ -11621,6 +11764,17 @@
       <p>
         <l>arab<s n="adj"/></l> 
         <r>arabo<s n="adj"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-46
+    -->
+    <e>
+      <p>
+        <l>aragonese<s n="adj"/></l> 
+        <r>aragonese<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -15806,6 +15960,17 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-4
+    -->
+    <e>
+      <p>
+        <l>bestial<s n="adj"/></l> 
+        <r>bestiale<s n="adj"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-1
     -->
     <e>
@@ -15922,6 +16087,17 @@
       <p>
         <l>bike<s n="n"/></l> 
         <r>bicicletta<s n="n"/><s n="f"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-4
+    -->
+    <e>
+      <p>
+        <l>bilabial<s n="adj"/></l> 
+        <r>bilabiale<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -16873,6 +17049,17 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>bovine<s n="adj"/></l> 
+        <r>bovino<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-0
     -->
     <e>
@@ -17473,6 +17660,17 @@
       <p>
         <l>brush<s n="n"/></l> 
         <r>pennello<s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>brusque<s n="adj"/></l> 
+        <r>brusco<s n="adj"/></r> 
       </p>
     </e>
 
@@ -18501,6 +18699,17 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>canine<s n="adj"/></l> 
+        <r>canino<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-0
     -->
     <e>
@@ -18782,6 +18991,17 @@
       <p>
         <l>cardinal<s n="adj"/></l> 
         <r>cardinale<s n="adj"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-4
+    -->
+    <e>
+      <p>
+        <l>cardiovascular<s n="adj"/></l> 
+        <r>cardiovascolare<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -26614,6 +26834,17 @@
       <p>
         <l>cypress<s n="n"/></l> 
         <r>cipresso<s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>cyrillic<s n="adj"/></l> 
+        <r>cirillico<s n="adj"/></r> 
       </p>
     </e>
 
@@ -41567,13 +41798,35 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      ND-0
+	forced 'LR' restriction
+      ND-21
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>hangar<s n="n"/></l> 
-        <r>hangar<s n="n"/><s n="m"/></r> 
+        <l>hangar<s n="n"/><s n="sg"/></l> 
+        <r>hangar<s n="n"/><s n="m"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND-23
+    -->
+    <e r="LR">
+      <p>
+        <l>hangar<s n="n"/><s n="pl"/></l> 
+        <r>hangar<s n="n"/><s n="m"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND-20
+    -->
+    <e r="RL">
+      <p>
+        <l>hangar<s n="n"/><s n="ND"/></l> 
+        <r>hangar<s n="n"/><s n="m"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -42239,12 +42492,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-1
+      default
     -->
     <e>
       <p>
         <l>hemorrhoid<s n="n"/></l> 
-        <r>emorroidi<s n="n"/><s n="f"/></r> 
+        <r>emorroide<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -42503,7 +42756,7 @@
 
     <!-- 
 	forced 'LR' restriction
-      ND-8
+      ND-31
     -->
     <e r="LR">
       <p>
@@ -42514,18 +42767,18 @@
 
     <!-- 
 	forced 'RL' restriction
-      ND-6
+      ND-27
     -->
     <e r="RL">
       <p>
         <l>hero<s n="n"/></l> 
-        <r>eroe<s n="n"/></r> 
+        <r>eroe<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'LR' restriction
-      ND-8
+      ND-31
     -->
     <e r="LR">
       <p>
@@ -42536,34 +42789,34 @@
 
     <!-- 
 	forced 'RL' restriction
-      ND-6
+      ND-27
     -->
     <e r="RL">
       <p>
         <l>heroine<s n="n"/></l> 
-        <r>eroe<s n="n"/></r> 
+        <r>eroe<s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND6NoLR-8
+    -->
+    <e r="LR">
+      <p>
+        <l>herpes<s n="n"/><s n="pl"/></l> 
+        <r>herpes<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      ND-0
+      default
     -->
     <e>
       <p>
-        <l>herpes<s n="n"/></l> 
-        <r>herpes<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'RL' restriction
-      ND-48
-    -->
-    <e r="RL">
-      <p>
         <l>herpes<s n="n"/><s n="ND"/></l> 
-        <r>herpes<s n="n"/><s n="m"/></r> 
+        <r>herpes<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -42602,12 +42855,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-1
+      ND-9
     -->
     <e>
       <p>
         <l>hibernation<s n="n"/></l> 
-        <r>letargo<s n="n"/><s n="f"/></r> 
+        <r>letargo<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -43487,7 +43740,7 @@
     <e>
       <p>
         <l>horseshoe<s n="n"/></l> 
-        <r>ferro-di-cavallo<s n="n"/><s n="f"/></r> 
+        <r>ferratura<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -44004,18 +44257,18 @@
     <e>
       <p>
         <l>hydrocarbon<s n="n"/></l> 
-        <r>idrocarburi<s n="n"/><s n="m"/></r> 
+        <r>idrocarburo<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      ND-0
+      ND-1
     -->
     <e>
       <p>
-        <l>hydrocarbon<s n="n"/></l> 
-        <r>idrocarburo<s n="n"/><s n="m"/></r> 
+        <l>hydrophobia<s n="n"/></l> 
+        <r>rabbia<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -44048,7 +44301,7 @@
     <e>
       <p>
         <l>hyena<s n="n"/></l> 
-        <r>hyaenidae<s n="n"/><s n="f"/></r> 
+        <r>iena<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -46188,6 +46441,17 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-1
+    -->
+    <e>
+      <p>
+        <l>influx<s n="n"/></l> 
+        <r>affluenza<s n="n"/><s n="f"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-2
     -->
     <e>
@@ -46319,13 +46583,35 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      ND-1
+	forced 'LR' restriction
+      ND2-2
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>inheritance<s n="n"/></l> 
-        <r>herencia<s n="n"/><s n="f"/></r> 
+        <l>inheritance<s n="n"/><s n="sg"/></l> 
+        <r>eredità<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      ND2-3
+    -->
+    <e r="LR">
+      <p>
+        <l>inheritance<s n="n"/><s n="pl"/></l> 
+        <r>eredità<s n="n"/><s n="f"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      ND2-1
+    -->
+    <e r="RL">
+      <p>
+        <l>inheritance<s n="n"/><s n="ND"/></l> 
+        <r>eredità<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -72709,6 +72995,17 @@
 
     <!-- 
 	forced 'null' restriction
+      ND2-4
+    -->
+    <e>
+      <p>
+        <l>sharp<s n="adj"/><s n="sint"/></l> 
+        <r>affilato<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-3
     -->
     <e>
@@ -74414,7 +74711,7 @@
 
     <!-- 
 	forced 'LR' restriction
-      ND-8
+      ND-31
     -->
     <e r="LR">
       <p>
@@ -74425,12 +74722,12 @@
 
     <!-- 
 	forced 'RL' restriction
-      ND-6
+      ND-27
     -->
     <e r="RL">
       <p>
         <l>smith<s n="n"/></l> 
-        <r>fabbro<s n="n"/></r> 
+        <r>fabbro<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -74541,6 +74838,17 @@
       <p>
         <l>so<b/>much<s n="adv"/></l> 
         <r>tanto<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>so<b/>that<s n="cnjadv"/></l> 
+        <r>nel<b/>caso<b/>in<b/>cui<s n="cnjadv"/></r> 
       </p>
     </e>
 
@@ -80051,7 +80359,7 @@
     <e>
       <p>
         <l>the<b/>one<b/>which<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l> 
-        <r>il<b/>quale<s n="rel"/></r> 
+        <r>quello<b/>che<s n="rel"/></r> 
       </p>
     </e>
 
@@ -80062,7 +80370,7 @@
     <e>
       <p>
         <l>the<b/>one<b/>who<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l> 
-        <r>il<b/>quale<s n="rel"/></r> 
+        <r>quello<b/>che<s n="rel"/></r> 
       </p>
     </e>
 
@@ -80073,7 +80381,7 @@
     <e>
       <p>
         <l>the<b/>ones<b/>that<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l> 
-        <r>il<b/>quale<s n="rel"/></r> 
+        <r>quello<b/>che<s n="rel"/></r> 
       </p>
     </e>
 
@@ -80084,7 +80392,7 @@
     <e>
       <p>
         <l>the<b/>ones<b/>who<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l> 
-        <r>il<b/>quale<s n="rel"/></r> 
+        <r>quello<b/>che<s n="rel"/></r> 
       </p>
     </e>
 
@@ -80414,6 +80722,17 @@
     <e>
       <p>
         <l>therefore<s n="cnjadv"/></l> 
+        <r>conseguentemente<s n="cnjadv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>therefore<s n="cnjadv"/></l> 
         <r>pertanto<s n="cnjadv"/></r> 
       </p>
     </e>
@@ -80711,7 +81030,7 @@
     <e>
       <p>
         <l>those<b/>that<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l> 
-        <r>il<b/>quale<s n="rel"/></r> 
+        <r>quello<b/>che<s n="rel"/></r> 
       </p>
     </e>
 
@@ -81586,23 +81905,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-1
+      ND-9
     -->
     <e>
       <p>
         <l>tool<s n="n"/></l> 
-        <r>utensile<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-1
-    -->
-    <e>
-      <p>
-        <l>tool<s n="n"/></l> 
-        <r>arnese<s n="n"/><s n="f"/></r> 
+        <r>utensile<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -83099,6 +83407,17 @@
       <p>
         <l>twist<s n="vblex"/></l> 
         <r>torcere<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-4
+    -->
+    <e>
+      <p>
+        <l>two-dimensional<s n="adj"/></l> 
+        <r>bidimensionale<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 

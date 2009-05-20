@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 7097
+	Entries: 7118
 	Sdefs: 91
 	Paradigms: 273
 
@@ -11119,8 +11119,8 @@
         <par n="Mark__np" /> 
     </e>
 
-    <e lm="Júpiter">
-        <i>Júpiter</i> 
+    <e lm="Jupiter">
+        <i>Jupiter</i> 
         <par n="Mark__np" /> 
     </e>
 
@@ -13546,6 +13546,11 @@
     <e lm="alarm">
         <i>alarm</i> 
         <par n="house__n" /> 
+    </e>
+
+    <e lm="albatross">
+        <i>albatross</i> 
+        <par n="bass__n" /> 
     </e>
 
     <e lm="album">
@@ -29768,6 +29773,96 @@
         <par n="expensive__adj" /> 
     </e>
 
+    <e lm="adulterous">
+        <i>adulterous</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="aerobic">
+        <i>aerobic</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="alcaline">
+        <i>alcaline</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="agrifood">
+        <i>agrifood</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="agri-food">
+        <i>agri-food</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="bovine">
+        <i>bovine</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="brusque">
+        <i>brusque</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="canine">
+        <i>canine</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="agro-industrial">
+        <i>agro-industrial</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="bestial">
+        <i>bestial</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="anticlerical">
+        <i>anticlerical</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="two-dimensional">
+        <i>two-dimensional</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="bilabial">
+        <i>bilabial</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="absorbent">
+        <i>absorbent</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="cardiovascular">
+        <i>cardiovascular</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="hydrophobia">
+        <i>hydrophobia</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="alcove">
+        <i>alcove</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="influx">
+        <i>influx</i> 
+        <par n="bass__n" /> 
+    </e>
+
     <e lm="abdominal">
         <i>abdominal</i> 
         <par n="expensive__adj" /> 
@@ -33275,6 +33370,11 @@
 
     <e lm="shallow">
         <i>shallow</i> 
+        <par n="long/__adj" /> 
+    </e>
+
+    <e lm="sharp">
+        <i>sharp</i> 
         <par n="long/__adj" /> 
     </e>
 
@@ -43408,6 +43508,11 @@
     <e lm="adulation">
         <i>adulation</i> 
         <par n="house__n" /> 
+    </e>
+
+    <e lm="aerobic">
+        <i>aerobic</i> 
+        <par n="expensive__adj" /> 
     </e>
 
     <e lm="agronomy">
