@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 7118
+	Entries: 7224
 	Sdefs: 91
-	Paradigms: 273
+	Paradigms: 276
 
 -->
 <dictionary>
@@ -2443,6 +2443,36 @@
     </e>
 
     </pardef>
+    <pardef n="cent/re__n">
+    <e r="LR" c="CP: en-US/en-GB dialect variation">
+      <p>
+        <l>er</l> 
+        <r>re</r> 
+      </p>
+        <par n="house__n" /> 
+    </e>
+
+    <e>
+        <i>re</i> 
+        <par n="house__n" /> 
+    </e>
+
+    </pardef>
+    <pardef n="col/our__n">
+    <e r="LR" c="CP: en-US/en-GB dialect variation">
+      <p>
+        <l>or</l> 
+        <r>our</r> 
+      </p>
+        <par n="house__n" /> 
+    </e>
+
+    <e>
+        <i>our</i> 
+        <par n="house__n" /> 
+    </e>
+
+    </pardef>
     <pardef n="Barcelona__np">
     <e>
       <p>
@@ -3716,6 +3746,64 @@
     <e>
       <p>
         <l>ted</l> 
+        <r><s n="vblex"/><sa/><s n="pp"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ting</l> 
+        <r><s n="vblex"/><sa/><s n="ger"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ting</l> 
+        <r><s n="vblex"/><sa/><s n="pprs"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ting</l> 
+        <r><s n="vblex"/><sa/><s n="subs"/></r> 
+      </p>
+    </e>
+
+    </pardef>
+    <pardef n="rot__vblex">
+    <e>
+      <p>
+        <l></l> 
+        <r><s n="vblex"/><sa/><s n="inf"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l></l> 
+        <r><s n="vblex"/><sa/><s n="pres"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>s</l> 
+        <r><s n="vblex"/><sa/><s n="pri"/><s n="p3"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ted</l> 
+        <r><s n="vblex"/><sa/><s n="past"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ten</l> 
         <r><s n="vblex"/><sa/><s n="pp"/></r> 
       </p>
     </e>
@@ -10574,6 +10662,66 @@
         <par n="second__det" /> 
     </e>
 
+    <e lm="eleventh">
+        <i>eleventh</i> 
+        <par n="second__det" /> 
+    </e>
+
+    <e lm="twelfth">
+        <i>twelfth</i> 
+        <par n="second__det" /> 
+    </e>
+
+    <e lm="thirteenth">
+        <i>thirteenth</i> 
+        <par n="second__det" /> 
+    </e>
+
+    <e lm="fourteenth">
+        <i>fourteenth</i> 
+        <par n="second__det" /> 
+    </e>
+
+    <e lm="fifteenth">
+        <i>fifteenth</i> 
+        <par n="second__det" /> 
+    </e>
+
+    <e lm="seventeenth">
+        <i>seventeenth</i> 
+        <par n="second__det" /> 
+    </e>
+
+    <e lm="eighteenth">
+        <i>eighteenth</i> 
+        <par n="second__det" /> 
+    </e>
+
+    <e lm="nineteenth">
+        <i>nineteenth</i> 
+        <par n="second__det" /> 
+    </e>
+
+    <e lm="twentieth">
+        <i>twentieth</i> 
+        <par n="second__det" /> 
+    </e>
+
+    <e lm="fiftieth">
+        <i>fiftieth</i> 
+        <par n="second__det" /> 
+    </e>
+
+    <e lm="sixtieth">
+        <i>sixtieth</i> 
+        <par n="second__det" /> 
+    </e>
+
+    <e lm="ninetieth">
+        <i>ninetieth</i> 
+        <par n="second__det" /> 
+    </e>
+
     <e lm="fewer">
         <i>fewer</i> 
         <par n="many__det" /> 
@@ -10661,6 +10809,11 @@
 
     <e lm="Dacia">
         <i>Dacia</i> 
+        <par n="Mary__np" /> 
+    </e>
+
+    <e lm="Francisca">
+        <i>Francisca</i> 
         <par n="Mary__np" /> 
     </e>
 
@@ -11779,6 +11932,16 @@
         <par n="Barcelona__np" /> 
     </e>
 
+    <e lm="Pyrenees">
+        <i>Pyrenees</i> 
+        <par n="United_States__np" /> 
+    </e>
+
+    <e lm="Vitoria">
+        <i>Vitoria</i> 
+        <par n="Barcelona__np" /> 
+    </e>
+
     <e lm="Africa">
         <i>Africa</i> 
         <par n="Barcelona__np" /> 
@@ -11969,6 +12132,16 @@
         <par n="Smith__np" /> 
     </e>
 
+    <e lm="Ferrari">
+        <i>Ferrari</i> 
+        <par n="Smith__np" /> 
+    </e>
+
+    <e lm="Gates">
+        <i>Gates</i> 
+        <par n="Smith__np" /> 
+    </e>
+
     <e lm="Milosevic">
         <i>Milosevic</i> 
         <par n="Smith__np" /> 
@@ -11989,8 +12162,8 @@
         <par n="Barcelona__np" /> 
     </e>
 
-    <e lm="Canary Islands">
-        <i>Canary<b/>Islands</i> 
+    <e lm="Canaries">
+        <i>Canaries</i> 
         <par n="United_States__np" /> 
     </e>
 
@@ -12216,6 +12389,11 @@
 
     <e lm="Google">
         <i>Google</i> 
+        <par n="Linux__np" /> 
+    </e>
+
+    <e lm="Greenpeace">
+        <i>Greenpeace</i> 
         <par n="Linux__np" /> 
     </e>
 
@@ -12636,7 +12814,7 @@
 
     <e lm="Philippines">
         <i>Philippines</i> 
-        <par n="Barcelona__np" /> 
+        <par n="United_States__np" /> 
     </e>
 
     <e lm="Poland">
@@ -12910,6 +13088,11 @@
 
     <e lm="Arab">
         <i>Arab</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="Aragonese">
+        <i>Aragonese</i> 
         <par n="house__n" /> 
     </e>
 
@@ -13343,6 +13526,11 @@
         <par n="access__n" /> 
     </e>
 
+    <e lm="devil">
+        <i>devil</i> 
+        <par n="house__n" /> 
+    </e>
+
     <e lm="adjective">
         <i>adjective</i> 
         <par n="house__n" /> 
@@ -13550,7 +13738,7 @@
 
     <e lm="albatross">
         <i>albatross</i> 
-        <par n="bass__n" /> 
+        <par n="access__n" /> 
     </e>
 
     <e lm="album">
@@ -14514,6 +14702,11 @@
 
     <e lm="banquet">
         <i>banquet</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="baptism">
+        <i>baptism</i> 
         <par n="house__n" /> 
     </e>
 
@@ -18023,6 +18216,11 @@
         <par n="bab/y__n" /> 
     </e>
 
+    <e lm="dye">
+        <i>dye</i> 
+        <par n="house__n" /> 
+    </e>
+
     <e lm="dynamism">
         <i>dynamism</i> 
         <par n="house__n" /> 
@@ -20900,6 +21098,26 @@
     <e lm="intention">
         <i>intention</i> 
         <par n="house__n" /> 
+    </e>
+
+    <e lm="intermediary">
+        <i>intermediar</i> 
+        <par n="bab/y__n" /> 
+    </e>
+
+    <e lm="intermediate">
+        <i>intermediate</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="pastoral">
+        <i>pastoral</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="peninsular">
+        <i>peninsular</i> 
+        <par n="expensive__adj" /> 
     </e>
 
     <e lm="interaction">
@@ -26192,6 +26410,11 @@
         <par n="house__n" /> 
     </e>
 
+    <e lm="significance" a="carmentano">
+        <i>significance</i> 
+        <par n="house__n" /> 
+    </e>
+
     <e lm="signpost">
         <i>signpost</i> 
         <par n="house__n" /> 
@@ -29421,6 +29644,14 @@
         <par n="expensive__adj" /> 
     </e>
 
+    <e lm="Brazilian">
+      <p>
+        <l>Brazilian</l> 
+        <r>brazilian</r> 
+      </p>
+        <par n="expensive__adj" /> 
+    </e>
+
     <e lm="British">
       <p>
         <l>British</l> 
@@ -29798,6 +30029,14 @@
         <par n="expensive__adj" /> 
     </e>
 
+    <e lm="Aragonese">
+      <p>
+        <l>Aragonese</l> 
+        <r>aragonese</r> 
+      </p>
+        <par n="expensive__adj" /> 
+    </e>
+
     <e lm="bovine">
         <i>bovine</i> 
         <par n="expensive__adj" /> 
@@ -29860,7 +30099,12 @@
 
     <e lm="influx">
         <i>influx</i> 
-        <par n="bass__n" /> 
+        <par n="access__n" /> 
+    </e>
+
+    <e lm="hurtful">
+        <i>hurtful</i> 
+        <par n="expensive__adj" /> 
     </e>
 
     <e lm="abdominal">
@@ -36342,6 +36586,11 @@
         <par n="plug__vblex" /> 
     </e>
 
+    <e lm="dye">
+        <i>dye</i> 
+        <par n="agree__vblex" /> 
+    </e>
+
     <e lm="earn">
         <i>earn</i> 
         <par n="accept__vblex" /> 
@@ -39192,6 +39441,11 @@
     <e lm="thaw">
         <i>thaw</i> 
         <par n="accept__vblex" /> 
+    </e>
+
+    <e lm="throw">
+        <i>thr</i> 
+        <par n="bl/ow__vblex" /> 
     </e>
 
     <e lm="thrill">
@@ -43240,6 +43494,36 @@
         <par n="at__pr" /> 
     </e>
 
+    <e lm="Mari">
+        <i>Mari</i> 
+        <par n="Mary__np" /> 
+    </e>
+
+    <e lm="Bilbao">
+        <i>Bilbao</i> 
+        <par n="Smith__np" /> 
+    </e>
+
+    <e lm="Castro">
+        <i>Castro</i> 
+        <par n="Smith__np" /> 
+    </e>
+
+    <e lm="Seville">
+        <i>Seville</i> 
+        <par n="Barcelona__np" /> 
+    </e>
+
+    <e lm="Malaga">
+        <i>Malaga</i> 
+        <par n="Barcelona__np" /> 
+    </e>
+
+    <e lm="Málaga">
+        <i>Málaga</i> 
+        <par n="Barcelona__np" /> 
+    </e>
+
     <e lm="stability">
         <i>stabilit</i> 
         <par n="bab/y__n" /> 
@@ -43432,6 +43716,11 @@
 
     <e lm="Iran">
         <i>Iran</i> 
+        <par n="Barcelona__np" /> 
+    </e>
+
+    <e lm="Iraq">
+        <i>Iraq</i> 
         <par n="Barcelona__np" /> 
     </e>
 
@@ -44910,6 +45199,11 @@
         <par n="house__n" /> 
     </e>
 
+    <e lm="leech">
+        <i>leech</i> 
+        <par n="access__n" /> 
+    </e>
+
     <e lm="lentil">
         <i>lentil</i> 
         <par n="house__n" /> 
@@ -45340,6 +45634,11 @@
         <par n="expensive__adj" /> 
     </e>
 
+    <e lm="pessimistic">
+        <i>pessimistic</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
     <e lm="puddle">
         <i>puddle</i> 
         <par n="house__n" /> 
@@ -45415,6 +45714,11 @@
         <par n="house__n" /> 
     </e>
 
+    <e lm="reign">
+        <i>reign</i> 
+        <par n="house__n" /> 
+    </e>
+
     <e lm="rennet">
         <i>rennet</i> 
         <par n="house__n" /> 
@@ -45442,6 +45746,11 @@
 
     <e lm="rheumatism">
         <i>rheumatism</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="rifle">
+        <i>rifle</i> 
         <par n="house__n" /> 
     </e>
 
@@ -46263,6 +46572,328 @@
     <e lm="alert">
         <i>alert</i> 
         <par n="accept__vblex" /> 
+    </e>
+
+    <e lm="antenna">
+        <i>antenna</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="piece of furniture">
+        <i>piece</i> 
+        <par n="house__n" /> 
+      <p>
+        <l><b/>of<b/>furniture</l> 
+        <r><g><b/>of<b/>furniture</g></r> 
+      </p>
+    </e>
+
+    <e lm="godmother">
+        <i>godmother</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="ire">
+        <i>ire</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="appetite">
+        <i>appetite</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="abstraction">
+        <i>abstraction</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="indicator">
+        <i>indicator</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="apparition">
+        <i>apparition</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="mandate">
+        <i>mandate</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="faculty">
+        <i>facult</i> 
+        <par n="bab/y__n" /> 
+    </e>
+
+    <e lm="confession">
+        <i>confession</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="defect">
+        <i>defect</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="illumination">
+        <i>illumination</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="pasture">
+        <i>pasture</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="charming">
+        <i>charming</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="circular">
+        <i>circular</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="suicidal">
+        <i>suicidal</i> 
+        <par n="expensive__adj" /> 
+    </e>
+
+    <e lm="adhesion">
+        <i>adhesion</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="fisherman">
+        <i>fisherm</i> 
+        <par n="m/an__n" /> 
+    </e>
+
+    <e lm="fisherwoman">
+        <i>fisherwom</i> 
+        <par n="m/an__n" /> 
+    </e>
+
+    <e lm="embargo">
+        <i>embargo</i> 
+        <par n="access__n" /> 
+    </e>
+
+    <e lm="absolve">
+        <i>absolv</i> 
+        <par n="liv/e__vblex" /> 
+    </e>
+
+    <e lm="dine">
+        <i>din</i> 
+        <par n="liv/e__vblex" /> 
+    </e>
+
+    <e lm="cease">
+        <i>ceas</i> 
+        <par n="liv/e__vblex" /> 
+    </e>
+
+    <e lm="ratify">
+        <i>ratif</i> 
+        <par n="appl/y__vblex" /> 
+    </e>
+
+    <e lm="embroider">
+        <i>embroider</i> 
+        <par n="accept__vblex" /> 
+    </e>
+
+    <e lm="box">
+        <i>box</i> 
+        <par n="approach__vblex" /> 
+    </e>
+
+    <e lm="bronze">
+        <i>bronz</i> 
+        <par n="liv/e__vblex" /> 
+    </e>
+
+    <e r="LR" lm="denationalize" c="en-US">
+      <p>
+        <l>denationaliz</l> 
+        <r>denationalis</r> 
+      </p>
+        <par n="liv/e__vblex" /> 
+    </e>
+
+    <e lm="dissemble">
+        <i>dissembl</i> 
+        <par n="liv/e__vblex" /> 
+    </e>
+
+    <e lm="dispense">
+        <i>dispens</i> 
+        <par n="liv/e__vblex" /> 
+    </e>
+
+    <e lm="endow">
+        <i>endow</i> 
+        <par n="accept__vblex" /> 
+    </e>
+
+    <e lm="seed">
+        <i>seed</i> 
+        <par n="accept__vblex" /> 
+    </e>
+
+    <e lm="clone">
+        <i>clon</i> 
+        <par n="liv/e__vblex" /> 
+    </e>
+
+    <e lm="square">
+        <i>squar</i> 
+        <par n="liv/e__vblex" /> 
+    </e>
+
+    <e lm="fuse">
+        <i>fus</i> 
+        <par n="liv/e__vblex" /> 
+    </e>
+
+    <e lm="fuse">
+        <i>fuse</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="grease">
+        <i>greas</i> 
+        <par n="liv/e__vblex" /> 
+    </e>
+
+    <e lm="grease">
+        <i>grease</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="conserve">
+        <i>conserv</i> 
+        <par n="liv/e__vblex" /> 
+    </e>
+
+    <e lm="reign">
+        <i>reign</i> 
+        <par n="accept__vblex" /> 
+    </e>
+
+    <e lm="remedy">
+        <i>remed</i> 
+        <par n="appl/y__vblex" /> 
+    </e>
+
+    <e lm="spy">
+        <i>sp</i> 
+        <par n="appl/y__vblex" /> 
+    </e>
+
+    <e lm="infancy">
+        <i>infanc</i> 
+        <par n="bab/y__n" /> 
+    </e>
+
+    <e lm="marijuana">
+        <i>marijuana</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="majordomo">
+        <i>majordomo</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="monastery">
+        <i>monaster</i> 
+        <par n="bab/y__n" /> 
+    </e>
+
+    <e lm="marquis">
+        <i>marquis</i> 
+        <par n="bass__n" /> 
+    </e>
+
+    <e lm="marquess">
+        <i>marquess</i> 
+        <par n="bass__n" /> 
+    </e>
+
+    <e lm="marchioness">
+        <i>marchioness</i> 
+        <par n="bass__n" /> 
+    </e>
+
+    <e lm="marquise">
+        <i>marquise</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="encyclopaedia">
+        <i>encyclopaedia</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="resurrection">
+        <i>resurrection</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="balcony">
+        <i>balcon</i> 
+        <par n="bab/y__n" /> 
+    </e>
+
+    <e lm="linguistics">
+        <i>linguistics</i> 
+        <par n="politics__n" /> 
+    </e>
+
+    <e lm="bamboo">
+        <i>bamboo</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="barrack">
+        <i>barrack</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="shortage">
+        <i>shortage</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="eyelash">
+        <i>eyelash</i> 
+        <par n="access__n" /> 
+    </e>
+
+    <e lm="vault">
+        <i>vault</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="Brazilian">
+        <i>Brazilian</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="diffusion">
+        <i>diffusion</i> 
+        <par n="house__n" /> 
+    </e>
+
+    <e lm="emperor">
+        <i>emperor</i> 
+        <par n="house__n" /> 
     </e>
 
   </section>
