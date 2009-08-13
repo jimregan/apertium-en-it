@@ -7252,7 +7252,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test><!--hauria de fer també una llista d'adverbis que van entre aux i verb (I've always liked it) -->
 	      <equal caseless="yes">
 		<clip pos="1" side="sl" part="lem"/>
-		<lit v="no"/>
+		<lit v="non"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -7342,7 +7342,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test><!--hauria de fer també una llista d'adverbis que van entre aux i verb (I've always liked it) -->
 	      <equal caseless="yes">
 		<clip pos="1" side="sl" part="lem"/>
-		<lit v="no"/>
+		<lit v="non"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -7417,7 +7417,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="1" side="sl" part="lem"/>
-		<lit v="no"/>
+		<lit v="non"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -8015,7 +8015,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="1" side="sl" part="lem"/>
-		<lit v="no"/>
+		<lit v="non"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -8120,7 +8120,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="1" side="sl" part="lem"/>
-		<lit v="no"/>
+		<lit v="non"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -9365,7 +9365,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test><!--hauria de fer també una llista d'adverbis que van entre aux i verb (I've always liked it) -->
 	      <equal caseless="yes">
 		<clip pos="1" side="sl" part="lem"/>
-		<lit v="no"/>
+		<lit v="non"/>
 	      </equal>
 	    </test>
 	    <let>

@@ -14517,6 +14517,12 @@
       </p>
     </e>
 
+    <e>
+      <p>
+        <l>live<s n="vblex"/></l> 
+        <r>abitare<s n="vblex"/></r> 
+      </p>
+    </e>
     <!-- 
 	forced 'null' restriction
       ND-2
@@ -14532,7 +14538,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>ask<g><b/>for</g><s n="vblex"/></l> 
         <r>chiedere<s n="vblex"/></r> 
@@ -20329,7 +20335,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>call<g><b/>for</g><s n="vblex"/></l> 
         <r>chiedere<s n="vblex"/></r> 
@@ -73459,7 +73465,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>request<s n="vblex"/></l> 
         <r>chiedere<s n="vblex"/></r> 
