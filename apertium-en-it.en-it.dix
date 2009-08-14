@@ -14384,7 +14384,7 @@
 	forced 'null' restriction
       ND3-0
     -->
-    <e c="as you - com tu">
+    <e c="as you - com tu" r="LR">
       <p>
         <l>as<s n="pr"/></l> 
         <r>come<s n="pr"/></r> 
@@ -14395,7 +14395,7 @@
 	forced 'null' restriction
       ND3-0
     -->
-    <e c="MG: 'Such thing as a computer' = 'com un' - arreglar si es pot">
+    <e r="LR" c="MG: 'Such thing as a computer' = 'com un' - arreglar si es pot">
       <p>
         <l>as<b/>a<s n="pr"/></l> 
         <r>come<s n="pr"/></r> 
@@ -46430,8 +46430,8 @@
     -->
     <e>
       <p>
-        <l>how<s n="adv"/></l> 
-        <r>come<s n="adv"/></r> 
+        <l>how<s n="adv"/><s n="itg"/></l> 
+        <r>come<s n="adv"/><s n="itg"/></r> 
       </p>
     </e>
 
@@ -84890,7 +84890,7 @@
 	forced 'null' restriction
       default
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>the<s n="det"/><s n="def"/><s n="sp"/></l> 
         <r>il<s n="det"/><s n="def"/></r> 
@@ -84901,21 +84901,10 @@
 	forced 'null' restriction
       default
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>the<s n="det"/></l> 
-        <r>il<s n="det"/><s n="def"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>the<s n="det"/></l> 
-        <r>il<s n="det"/><s n="def"/></r> 
+        <l>the<s n="det"/><s n="def"/></l> 
+        <r>il<s n="det"/><s n="def"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -91734,8 +91723,8 @@
     -->
     <e>
       <p>
-        <l>where<s n="adv"/></l> 
-        <r>dove<s n="adv"/></r> 
+        <l>where<s n="adv"/><s n="itg"/></l> 
+        <r>dove<s n="adv"/><s n="itg"/></r> 
       </p>
     </e>
 
@@ -91745,8 +91734,8 @@
     -->
     <e>
       <p>
-        <l>where<s n="rel"/></l> 
-        <r>dove<s n="rel"/></r> 
+        <l>where<s n="rel"/><s n="adv"/></l> 
+        <r>dove<s n="rel"/><s n="adv"/></r> 
       </p>
     </e>
 
@@ -92271,7 +92260,7 @@
 	forced 'null' restriction
       ND3-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>with<b/>no<s n="pr"/></l> 
         <r>senza<s n="pr"/></r> 
