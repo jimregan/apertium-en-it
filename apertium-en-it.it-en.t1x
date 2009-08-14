@@ -1356,7 +1356,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	      <test>
 		<equal caseless="yes">
 		  <clip pos="2" side="sl" part="lem"/> 
-		  <lit v="poder"/>
+		  <lit v="potere"/>
 		</equal>
 	      </test>
 	      <let>		     
@@ -1906,7 +1906,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		<not>
 		  <equal caseless="yes">
 		    <clip pos="1" side="sl" part="lem"/> 
-		    <lit v="poder"/>
+		    <lit v="potere"/>
 		  </equal>
 		</not>
 	      </and>
@@ -1945,7 +1945,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		    <not>
 		      <equal caseless="yes">
 			<clip pos="1" side="sl" part="lem"/> 
-			<lit v="poder"/>
+			<lit v="potere"/>
 		      </equal>
 		    </not>
 		  </and>
@@ -1992,7 +1992,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		    </equal>
 		    <equal caseless="yes">
 		      <clip pos="1" side="sl" part="lem"/> 
-		      <lit v="poder"/>
+		      <lit v="potere"/>
 		    </equal>
 		  </and>
 		</test>
@@ -2043,7 +2043,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		    <test>
 		      <equal caseless="yes">
 			<clip pos="1" side="sl" part="lem"/> 
-			<lit v="poder"/>
+			<lit v="potere"/>
 		      </equal>
 		    </test>
 		    <let>		     
@@ -4291,7 +4291,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="2" side="sl" part="lem"/> 
-		<lit v="poder"/>
+		<lit v="potere"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -4448,7 +4448,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		<test>
 		  <equal caseless="yes">
 		    <clip pos="3" side="sl" part="lem"/> 
-		    <lit v="poder"/>
+		    <lit v="potere"/>
 		  </equal>
 		</test>
 		<let>
@@ -4686,7 +4686,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		<test>
 		  <equal caseless="yes">
 		    <clip pos="4" side="sl" part="lem"/> 
-		    <lit v="poder"/>
+		    <lit v="potere"/>
 		  </equal>
 		</test>
 		<let>
@@ -5951,7 +5951,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="1" side="sl" part="lem"/>
-		<lit v="poder"/>
+		<lit v="potere"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -6075,7 +6075,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="1" side="sl" part="lem"/>
-		<lit v="poder"/>
+		<lit v="potere"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -6489,7 +6489,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="1" side="sl" part="lem"/>
-		<lit v="poder"/>
+		<lit v="potere"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -6558,7 +6558,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="1" side="sl" part="lem"/>
-		<lit v="poder"/>
+		<lit v="potere"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -6617,7 +6617,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="1" side="sl" part="lem"/> 
-		<lit v="poder"/>
+		<lit v="potere"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -6718,7 +6718,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="3" side="sl" part="lem"/> 
-		<lit v="poder"/>
+		<lit v="potere"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -6826,7 +6826,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal>
 		<clip pos="1" side="sl" part="lem"/> 
-		<lit v="poder"/>
+		<lit v="potere"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -6887,7 +6887,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="1" side="sl" part="lem"/> 
-		<lit v="poder"/>
+		<lit v="potere"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -6973,7 +6973,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="1" side="sl" part="lemh"/> 
-		<lit v="poder"/>
+		<lit v="potere"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -7030,7 +7030,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="2" side="sl" part="lemh"/> 
-		<lit v="poder"/>
+		<lit v="potere"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -7530,7 +7530,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="3" side="sl" part="lem"/> 
-		<lit v="poder"/>
+		<lit v="potere"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -7733,7 +7733,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		<test>
 		  <equal caseless="yes">
 		    <clip pos="4" side="sl" part="lem"/> 
-		    <lit v="poder"/>
+		    <lit v="potere"/>
 		  </equal>
 		</test>
 		<let>
@@ -8734,7 +8734,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="2" side="sl" part="lem"/>
-		<lit v="poder"/>
+		<lit v="potere"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -8863,7 +8863,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="2" side="sl" part="lem"/>
-		<lit v="poder"/>
+		<lit v="potere"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -9127,7 +9127,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="2" side="sl" part="lem"/>
-		<lit v="poder"/>
+		<lit v="potere"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -9194,7 +9194,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="2" side="sl" part="lem"/>
-		<lit v="poder"/>
+		<lit v="potere"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -9265,7 +9265,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="2" side="sl" part="lem"/> 
-		<lit v="poder"/>
+		<lit v="potere"/>
 	      </equal>
 	    </test>
 	    <let>
@@ -9320,7 +9320,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <test>
 	      <equal caseless="yes">
 		<clip pos="2" side="sl" part="lemh"/> 
-		<lit v="poder"/>
+		<lit v="potere"/>
 	      </equal>
 	    </test>
 	    <let>
