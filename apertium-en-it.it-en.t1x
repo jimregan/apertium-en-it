@@ -4233,7 +4233,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="2" side="sl" part="lem"/>		     
-		  <lit v="haber"/>
+		  <lit v="avere"/>
 		</equal>
 		<equal>
 		  <clip pos="1" side="sl" part="pers"/>		     
@@ -4377,7 +4377,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="3" side="sl" part="lem"/>		     
-		  <lit v="haber"/>
+		  <lit v="avere"/>
 		</equal>
 		<equal>
 		  <clip pos="2" side="sl" part="pers"/>		     
@@ -4608,7 +4608,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 			  </equal>
 			  <equal caseless="yes">
 			    <clip pos="1" side="sl" part="lem"/>
-			    <lit v="se"/><!--és 'sp' -->
+			    <lit v="si"/><!--és 'sp' -->
 			  </equal>
 			</or>
 		      </and>
@@ -4623,7 +4623,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 			<test>
 			  <equal caseless="yes">
 			    <clip pos="1" side="sl" part="lem"/>
-			    <lit v="se"/>
+			    <lit v="si"/>
 			  </equal>
 			</test>
 			<let>
@@ -4858,7 +4858,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 			      </equal>
 			      <equal caseless="yes">
 				<clip pos="1" side="sl" part="lem"/>
-				<lit v="se"/><!--és 'sp' -->
+				<lit v="si"/><!--és 'sp' -->
 			      </equal>
 			    </or>
 			  </and>  <!--o el primer enclític es tradueix per res ([se]) -->
@@ -4903,7 +4903,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 			    </not>
 			    <equal caseless="yes">
 			      <clip pos="1" side="sl" part="lem"/>
-			      <lit v="se"/>
+			      <lit v="si"/>
 			    </equal>
 			  </and>
 			</test>
@@ -5094,7 +5094,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		      </equal>
 		      <equal caseless="yes">
 			<clip pos="1" side="sl" part="lem"/>
-			<lit v="se"/><!--és 'sp' -->
+			<lit v="si"/><!--és 'sp' -->
 		      </equal>
 		    </or>
 		  </and>
@@ -5109,7 +5109,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 			<test>
 			  <equal caseless="yes">
 			    <clip pos="1" side="sl" part="lem"/>
-			    <lit v="se"/>
+			    <lit v="si"/>
 			  </equal>
 			</test>
 			<let>
@@ -5261,7 +5261,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		      </equal>
 		      <equal caseless="yes">
 			<clip pos="1" side="sl" part="lem"/>
-			<lit v="se"/><!--és 'sp' -->
+			<lit v="si"/><!--és 'sp' -->
 		      </equal>
 		    </or>
 		  </and><!--o el primer enclític es tradueix per res ([se]) -->
@@ -5308,7 +5308,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 			    </not>
 			    <equal caseless="yes">
 			      <clip pos="1" side="sl" part="lem"/>
-			      <lit v="se"/>
+			      <lit v="si"/>
 			    </equal>
 			  </and>
 			</test>
@@ -5445,7 +5445,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		  </equal>
 		  <equal caseless="yes">
 		    <clip pos="2" side="sl" part="lem"/>
-		    <lit v="se"/><!--és 'sp' -->
+		    <lit v="si"/><!--és 'sp' -->
 		  </equal>
 		</or>
 	      </and>
@@ -5732,7 +5732,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		  </equal>
 		  <equal caseless="yes">
 		    <clip pos="2" side="sl" part="lem"/>
-		    <lit v="se"/><!--és 'sp' -->
+		    <lit v="si"/><!--és 'sp' -->
 		  </equal>
 		</or>
 	      </and>
@@ -6400,7 +6400,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		      </equal>
 		      <equal caseless="yes">
 			<clip pos="1" side="sl" part="lem"/>
-			<lit v="se"/><!--és 'sp' -->
+			<lit v="si"/><!--és 'sp' -->
 		      </equal>
 		    </or>
 		  </and>
@@ -6415,7 +6415,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		    <test>
 		      <equal caseless="yes">
 			<clip pos="1" side="sl" part="lem"/>
-			<lit v="se"/>
+			<lit v="si"/>
 		      </equal>
 		    </test>
 		    <let>
@@ -7186,7 +7186,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		      </equal>
 		      <equal caseless="yes">
 			<clip pos="1" side="sl" part="lem"/>
-			<lit v="se"/><!--és 'sp' -->
+			<lit v="si"/><!--és 'sp' -->
 		      </equal>
 		    </or>
 		  </and>
@@ -7201,7 +7201,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		    <test>
 		      <equal caseless="yes">
 			<clip pos="1" side="sl" part="lem"/>
-			<lit v="se"/>
+			<lit v="si"/>
 		      </equal>
 		    </test>
 		    <let>
@@ -7472,7 +7472,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="3" side="sl" part="lem"/>		     
-		  <lit v="haber"/>
+		  <lit v="avere"/>
 		</equal>
 		<equal>
 		  <clip pos="2" side="sl" part="pers"/>		     
@@ -7662,7 +7662,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="4" side="sl" part="lem"/>		     
-		  <lit v="haber"/>
+		  <lit v="avere"/>
 		</equal>
 		<equal>
 		  <clip pos="3" side="sl" part="pers"/>		     
@@ -7895,7 +7895,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 			  </equal>
 			  <equal caseless="yes">
 			    <clip pos="2" side="sl" part="lem"/>
-			    <lit v="se"/><!--és 'sp' -->
+			    <lit v="si"/><!--és 'sp' -->
 			  </equal>
 			</or>
 		      </and>
@@ -7910,7 +7910,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 			<test>
 			  <equal caseless="yes">
 			    <clip pos="2" side="sl" part="lem"/>
-			    <lit v="se"/>
+			    <lit v="si"/>
 			  </equal>
 			</test>
 			<let>
@@ -8317,7 +8317,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		      </equal>
 		      <equal caseless="yes">
 			<clip pos="2" side="sl" part="lem"/>
-			<lit v="se"/><!--és 'sp' -->
+			<lit v="si"/><!--és 'sp' -->
 		      </equal>
 		    </or>
 		  </and>
@@ -8332,7 +8332,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 			<test>
 			  <equal caseless="yes">
 			    <clip pos="2" side="sl" part="lem"/>
-			    <lit v="se"/>
+			    <lit v="si"/>
 			  </equal>
 			</test>
 			<let>
