@@ -45561,8 +45561,8 @@
     -->
     <e r="RL" c="MG: traducció per defecte ca-en és per ara 'his'">
       <p>
-        <l>his<s n="det"/></l> 
-        <r>il<b/>suo<s n="det"/></r> 
+        <l>his<s n="det"/><s n="pos"/><s n="sp"/></l> 
+        <r>il<b/>suo<s n="det"/><s n="pos"/></r> 
       </p>
     </e>
 
@@ -93257,5 +93257,154 @@
       </p>
     </e>
 
+    <e r="RL"><p><l>anorak<s n="n"/><s n="GD"/></l><r>anorak<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>azimuth<s n="n"/><s n="GD"/></l><r>azimut<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>bidet<s n="n"/><s n="GD"/></l><r>bidet<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>bloc<s n="n"/><s n="GD"/></l><r>bloc<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>bluff<s n="n"/><s n="GD"/></l><r>bluff<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>camper<s n="n"/><s n="GD"/></l><r>camper<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>canapé<s n="n"/><s n="GD"/></l><r>canapé<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>chef<s n="n"/><s n="GD"/></l><r>chef<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>cliché<s n="n"/><s n="GD"/></l><r>cliché<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>cognac<s n="n"/><s n="GD"/></l><r>cognac<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>cross<s n="n"/><s n="GD"/></l><r>cross<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>dossier<s n="n"/><s n="GD"/></l><r>dossier<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>ego<s n="n"/><s n="GD"/></l><r>ego<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>esperanto<s n="n"/><s n="GD"/></l><r>esperanto<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>ficus<s n="n"/><s n="GD"/></l><r>ficus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>flamenco<s n="n"/><s n="GD"/></l><r>flamenco<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>gin<s n="n"/><s n="GD"/></l><r>gin<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>golf<s n="n"/><s n="GD"/></l><r>golf<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>gprs<s n="n"/><s n="GD"/></l><r>gprs<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>gps<s n="n"/><s n="GD"/></l><r>gps<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>stock<s n="n"/><s n="GD"/></l><r>stock<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>wardrobe<s n="n"/><s n="GD"/></l><r>guardaroba<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>handicap<s n="n"/><s n="GD"/></l><r>handicap<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>hashish<s n="n"/><s n="GD"/></l><r>hascisc<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>header<s n="n"/><s n="GD"/></l><r>header<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>kebab<s n="n"/><s n="GD"/></l><r>kebab<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>kilovolt<s n="n"/><s n="GD"/></l><r>kilovolt<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>lapsus<s n="n"/><s n="GD"/></l><r>lapsus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>leitmotif<s n="n"/><s n="GD"/></l><r>leitmotiv<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>min.<s n="n"/><s n="sg"/></l><r>min.<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>panda<s n="n"/><s n="GD"/></l><r>panda<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>parachute<s n="n"/><s n="GD"/></l><r>paracadute<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>cobblestone<s n="n"/><s n="GD"/></l><r>pavé<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>pc<s n="n"/><s n="GD"/></l><r>pc<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>porno<s n="n"/><s n="GD"/></l><r>porno<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>pudding<s n="n"/><s n="GD"/></l><r>pudding<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>pus<s n="n"/><s n="GD"/></l><r>pus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>rpm<s n="n"/><s n="GD"/></l><r>rpm<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>sandwich<s n="n"/><s n="GD"/></l><r>sandwich<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>show<s n="n"/><s n="GD"/></l><r>show<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>smog<s n="n"/><s n="GD"/></l><r>smog<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>stop<s n="n"/><s n="GD"/></l><r>stop<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>surplus<s n="n"/><s n="GD"/></l><r>surplus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>taboo<s n="n"/><s n="GD"/></l><r>tabù<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>tandem<s n="n"/><s n="GD"/></l><r>tandem<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>fax<s n="n"/><s n="GD"/></l><r>fax<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>ficus<s n="n"/><s n="GD"/></l><r>ficus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>football<b/>pool<s n="n"/><s n="GD"/></l><r>totocalcio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>ufo<s n="n"/><s n="GD"/></l><r>ufo<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>yacht<s n="n"/><s n="GD"/></l><r>yacht<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>bigné<s n="n"/><s n="GD"/></l><r>bigné<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>anorak<s n="n"/><s n="sg"/></l><r>anorak<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>azimuth<s n="n"/><s n="sg"/></l><r>azimut<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>bidet<s n="n"/><s n="sg"/></l><r>bidet<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>bloc<s n="n"/><s n="sg"/></l><r>bloc<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>bluff<s n="n"/><s n="sg"/></l><r>bluff<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>camper<s n="n"/><s n="sg"/></l><r>camper<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>canapé<s n="n"/><s n="sg"/></l><r>canapé<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>chef<s n="n"/><s n="sg"/></l><r>chef<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>cliché<s n="n"/><s n="sg"/></l><r>cliché<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>cognac<s n="n"/><s n="sg"/></l><r>cognac<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>dossier<s n="n"/><s n="sg"/></l><r>dossier<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>ego<s n="n"/><s n="sg"/></l><r>ego<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>esperanto<s n="n"/><s n="sg"/></l><r>esperanto<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>ficus<s n="n"/><s n="sg"/></l><r>ficus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>flamenco<s n="n"/><s n="sg"/></l><r>flamenco<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>gin<s n="n"/><s n="sg"/></l><r>gin<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>golf<s n="n"/><s n="sg"/></l><r>golf<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>gprs<s n="n"/><s n="sg"/></l><r>gprs<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>gps<s n="n"/><s n="sg"/></l><r>gps<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>stock<s n="n"/><s n="sg"/></l><r>stock<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>wardrobe<s n="n"/><s n="sg"/></l><r>guardaroba<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>handicap<s n="n"/><s n="sg"/></l><r>handicap<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>hashish<s n="n"/><s n="sg"/></l><r>hascisc<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>header<s n="n"/><s n="sg"/></l><r>header<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>kebab<s n="n"/><s n="sg"/></l><r>kebab<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>kilovolt<s n="n"/><s n="sg"/></l><r>kilovolt<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>lapsus<s n="n"/><s n="sg"/></l><r>lapsus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>leitmotif<s n="n"/><s n="sg"/></l><r>leitmotiv<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>panda<s n="n"/><s n="sg"/></l><r>panda<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>parachute<s n="n"/><s n="sg"/></l><r>paracadute<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>cobblestone<s n="n"/><s n="sg"/></l><r>pavé<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>pc<s n="n"/><s n="sg"/></l><r>pc<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>porno<s n="n"/><s n="sg"/></l><r>porno<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>pudding<s n="n"/><s n="sg"/></l><r>pudding<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>pus<s n="n"/><s n="sg"/></l><r>pus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>rpm<s n="n"/><s n="sg"/></l><r>rpm<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>sandwich<s n="n"/><s n="sg"/></l><r>sandwich<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>show<s n="n"/><s n="sg"/></l><r>show<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>smog<s n="n"/><s n="sg"/></l><r>smog<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>stop<s n="n"/><s n="sg"/></l><r>stop<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>surplus<s n="n"/><s n="sg"/></l><r>surplus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>taboo<s n="n"/><s n="sg"/></l><r>tabù<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>tandem<s n="n"/><s n="sg"/></l><r>tandem<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>fax<s n="n"/><s n="sg"/></l><r>fax<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>ficus<s n="n"/><s n="sg"/></l><r>ficus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>football<b/>pool<s n="n"/><s n="sg"/></l><r>totocalcio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>ufo<s n="n"/><s n="sg"/></l><r>ufo<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>yacht<s n="n"/><s n="sg"/></l><r>yacht<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>bigné<s n="n"/><s n="sg"/></l><r>bigné<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>anorak<s n="n"/><s n="pl"/></l><r>anorak<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>azimuth<s n="n"/><s n="pl"/></l><r>azimut<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>bidet<s n="n"/><s n="pl"/></l><r>bidet<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>bloc<s n="n"/><s n="pl"/></l><r>bloc<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>bluff<s n="n"/><s n="pl"/></l><r>bluff<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>camper<s n="n"/><s n="pl"/></l><r>camper<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>canapé<s n="n"/><s n="pl"/></l><r>canapé<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>chef<s n="n"/><s n="pl"/></l><r>chef<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>cliché<s n="n"/><s n="pl"/></l><r>cliché<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>cognac<s n="n"/><s n="pl"/></l><r>cognac<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>dossier<s n="n"/><s n="pl"/></l><r>dossier<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>ego<s n="n"/><s n="pl"/></l><r>ego<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>esperanto<s n="n"/><s n="pl"/></l><r>esperanto<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>ficus<s n="n"/><s n="pl"/></l><r>ficus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>flamenco<s n="n"/><s n="pl"/></l><r>flamenco<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>gin<s n="n"/><s n="pl"/></l><r>gin<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>golf<s n="n"/><s n="pl"/></l><r>golf<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>gprs<s n="n"/><s n="pl"/></l><r>gprs<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>gps<s n="n"/><s n="pl"/></l><r>gps<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>stock<s n="n"/><s n="pl"/></l><r>stock<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>wardrobe<s n="n"/><s n="pl"/></l><r>guardaroba<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>handicap<s n="n"/><s n="pl"/></l><r>handicap<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>hashish<s n="n"/><s n="pl"/></l><r>hascisc<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>header<s n="n"/><s n="pl"/></l><r>header<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>kebab<s n="n"/><s n="pl"/></l><r>kebab<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>kilovolt<s n="n"/><s n="pl"/></l><r>kilovolt<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>lapsus<s n="n"/><s n="pl"/></l><r>lapsus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>leitmotif<s n="n"/><s n="pl"/></l><r>leitmotiv<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>panda<s n="n"/><s n="pl"/></l><r>panda<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>parachute<s n="n"/><s n="pl"/></l><r>paracadute<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>cobblestone<s n="n"/><s n="pl"/></l><r>pavé<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>pc<s n="n"/><s n="pl"/></l><r>pc<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>porno<s n="n"/><s n="pl"/></l><r>porno<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>pudding<s n="n"/><s n="pl"/></l><r>pudding<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>pus<s n="n"/><s n="pl"/></l><r>pus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>rpm<s n="n"/><s n="pl"/></l><r>rpm<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>sandwich<s n="n"/><s n="pl"/></l><r>sandwich<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>show<s n="n"/><s n="pl"/></l><r>show<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>smog<s n="n"/><s n="pl"/></l><r>smog<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>stop<s n="n"/><s n="pl"/></l><r>stop<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>surplus<s n="n"/><s n="pl"/></l><r>surplus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>taboo<s n="n"/><s n="pl"/></l><r>tabù<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>tandem<s n="n"/><s n="pl"/></l><r>tandem<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>fax<s n="n"/><s n="pl"/></l><r>fax<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>ficus<s n="n"/><s n="pl"/></l><r>ficus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>football<b/>pool<s n="n"/><s n="pl"/></l><r>totocalcio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>ufo<s n="n"/><s n="pl"/></l><r>ufo<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>yacht<s n="n"/><s n="pl"/></l><r>yacht<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>bigné<s n="n"/><s n="pl"/></l><r>bigné<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
   </section>
 </dictionary>
