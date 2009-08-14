@@ -1531,6 +1531,44 @@
         </p>
       </e>
     </pardef>
+    <pardef n="necropol/is__n">
+      <e c="CP: nouns which remove -is and add -eis">
+        <p>
+          <l>is</l>
+          <r>is<s n="n"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eis</l>
+          <r>is<s n="n"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>es</l>
+          <r>is<s n="n"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>is'</l>
+          <r>is<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eis'</l>
+          <r>is<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>es'</l>
+          <r>is<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="maxim/um__n">
       <e c="CP: nouns which remove -um and add -a or directly add -s (LR)">
         <p>
