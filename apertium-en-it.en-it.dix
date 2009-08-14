@@ -41230,7 +41230,7 @@
 	forced 'null' restriction
       ND3-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>from<s n="pr"/></l> 
         <r>di<s n="pr"/></r> 
@@ -59411,45 +59411,18 @@
 
     <!-- 
 	forced 'RL' restriction
-      ND-69
-    -->
-    <e r="RL">
-      <p>
-        <l>my<s n="det"/></l> 
-        <r>il<b/>mio<s n="det"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'RL' restriction
       ND2-17
     -->
     <e r="RL">
       <p>
-        <l>my<s n="det"/><s n="pos"/><s n="mf"/></l> 
-        <r>il<b/>mio<s n="det"/><s n="pos"/><s n="f"/></r> 
+        <l>my<s n="det"/><s n="pos"/><s n="sp"/></l> 
+        <r>mio<s n="det"/><s n="pos"/></r> 
       </p>
     </e>
-
-    <!-- 
-	forced 'RL' restriction
-      ND-69
-    -->
     <e r="RL">
       <p>
-        <l>my<s n="det"/></l> 
-        <r>mio<s n="det"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'RL' restriction
-      ND2-17
-    -->
-    <e r="RL">
-      <p>
-        <l>my<s n="det"/><s n="pos"/><s n="mf"/></l> 
-        <r>mio<s n="det"/><s n="pos"/><s n="f"/></r> 
+        <l>my<s n="det"/><s n="pos"/><s n="sp"/></l> 
+        <r>il<b/>mio<s n="det"/><s n="pos"/></r> 
       </p>
     </e>
 
@@ -61877,7 +61850,7 @@
 	forced 'null' restriction
       ND3-0
     -->
-    <e c="MG: He fell off his chair">
+    <e c="MG: He fell off his chair" r="LR">
       <p>
         <l>off<s n="pr"/></l> 
         <r>di<s n="pr"/></r> 
