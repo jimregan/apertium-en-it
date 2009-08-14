@@ -1303,11 +1303,11 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    <or>
 	      <equal caseless="yes">	      
 		<clip pos="1" side="sl" part="lem"/>
-		<lit v="para"/>
+		<lit v="per"/>
 	      </equal>
 	      <equal caseless="yes">	      
 		<clip pos="1" side="sl" part="lem"/>
-		<lit v="de"/>
+		<lit v="di"/>
 	      </equal>	      
 	    </or>
 	  </test>
@@ -1389,7 +1389,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="1" side="sl" part="lem"/> 
-		  <lit v="más"/>
+		  <lit v="più"/>
 		</equal>
 		<equal>
 		  <clip pos="2" side="tl" part="a_adj"/> 
@@ -1411,7 +1411,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="1" side="sl" part="lem"/> 
-		  <lit v="mucho más"/>
+		  <lit v="molto più"/>
 		</equal>
 		<equal>
 		  <clip pos="2" side="tl" part="a_adj"/> 
@@ -1441,7 +1441,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="1" side="sl" part="lem"/>
-		  <lit v="bien"/>
+		  <lit v="bene"/>
 		</equal>
 		<not>
 		  <equal>
@@ -1490,7 +1490,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="2" side="sl" part="lem"/> 
-		  <lit v="más"/>
+		  <lit v="più"/>
 		</equal>
 		<equal>
 		  <clip pos="3" side="tl" part="a_adj"/> 
@@ -1533,7 +1533,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="2" side="sl" part="lem"/> 
-		  <lit v="mucho más"/>
+		  <lit v="molto più"/>
 		</equal>
 		<equal>
 		  <clip pos="3" side="tl" part="a_adj"/> 
@@ -1563,7 +1563,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="2" side="sl" part="lem"/> 
-		  <lit v="más"/>
+		  <lit v="più"/>
 		</equal>
 		<equal>
 		  <clip pos="1" side="sl" part="a_det"/>
@@ -1592,7 +1592,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="2" side="sl" part="lem"/>
-		  <lit v="bien"/>
+		  <lit v="bene"/>
 		</equal>
 		<not>
 		  <equal>
@@ -1649,11 +1649,11 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		<or>
 		  <equal caseless="yes">
 		    <clip pos="2" side="sl" part="lem"/>
-		    <lit v="mejor"/>
+		    <lit v="migliore"/>
 		  </equal>
 		  <equal caseless="yes">
 		    <clip pos="2" side="sl" part="lem"/>
-		    <lit v="peor"/>
+		    <lit v="peggiore"/>
 		  </equal>
 		</or>
 	      </and>
