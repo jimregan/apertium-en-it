@@ -11910,6 +11910,48 @@
         <r>annuncio<s n="n"/><s n="m"/></r> 
       </p>
     </e>
+    <e r="LR">
+      <p>
+        <l>subscriber<s n="n"/></l> 
+        <r>abbonato<s n="n"/><s n="GD"/></r> 
+      </p>
+    </e>
+    <e r="RL">
+      <p>
+        <l>subscriber<s n="n"/></l> 
+        <r>abbonato<s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+    <e r="RL">
+      <p>
+        <l>subscriber<s n="n"/></l> 
+        <r>abbonato<s n="n"/><s n="f"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>aborigine<s n="n"/></l> 
+        <r>aborigeno<s n="n"/><s n="GD"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>aboriginal<s n="n"/></l> 
+        <r>aborigeno<s n="n"/><s n="GD"/></r> 
+      </p>
+    </e>
+    <e r="RL">
+      <p>
+        <l>aborigine<s n="n"/></l> 
+        <r>aborigeno<s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+    <e r="RL">
+      <p>
+        <l>aborigine<s n="n"/></l> 
+        <r>aborigeno<s n="n"/><s n="f"/></r> 
+      </p>
+    </e>
 
     <!-- 
 	forced 'null' restriction
