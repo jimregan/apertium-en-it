@@ -13,8 +13,8 @@
 ^.<sent>$ ^il mio<det><pos><m><sg>$	. #My\<det\>\<pos\>\<sp\>
 ^.<sent>$ ^il mio<det><pos><f><pl>$	. #My\<det\>\<pos\>\<sp\>
 ^.<sent>$ ^il mio<det><pos><f><sg>$	. #My\<det\>\<pos\>\<sp\>
-^.<sent>$ ^il suo<det><pos><m><pl>$	. #His\<pl\>
-^.<sent>$ ^il suo<det><pos><m><sg>$	. #His\<sg\>
+^.<sent>$ ^il suo<det><pos><m><pl>$	. #His\<det\>\<pos\>\<sp\>
+^.<sent>$ ^il suo<det><pos><m><sg>$	. #His\<det\>\<pos\>\<sp\>
 ^.<sent>$ ^il tuo<det><pos><m><pl>$	. #Your\<pl\>
 ^.<sent>$ ^il tuo<det><pos><m><sg>$	. #Your\<sg\>
 ^.<sent>$ ^loro<det><pos><mf><sp>$	. #His
@@ -565,7 +565,6 @@
 ^.<sent>$ ^abbonato<n><m><sg>$	. \@Abbonato\<n\>\<sg\>
 ^.<sent>$ ^abbonato<n><f><sg>$	. \@Abbonato\<n\>\<sg\>
 ^.<sent>$ ^abbonato<n><f><pl>$	. \@Abbonato\<n\>\<pl\>
-^.<sent>$ ^abitabilità<n><f><sp>$	. \@Abitabilità\<n\>\<sp\>
 ^.<sent>$ ^abitacolo<n><m><pl>$	. \@Abitacolo\<n\>\<pl\>
 ^.<sent>$ ^abitacolo<n><m><sg>$	. \@Abitacolo\<n\>\<sg\>
 ^.<sent>$ ^abolizione<n><f><pl>$	. \@Abolizione\<n\>\<pl\>
@@ -602,7 +601,6 @@
 ^.<sent>$ ^aeromobile<n><m><sg>$	. \@Aeromobile\<n\>\<sg\>
 ^.<sent>$ ^aeroplano<n><m><pl>$	. \@Aeroplano\<n\>\<pl\>
 ^.<sent>$ ^aeroplano<n><m><sg>$	. \@Aeroplano\<n\>\<sg\>
-^.<sent>$ ^affabilità<n><f><sp>$	. \@Affabilità\<n\>\<sp\>
 ^.<sent>$ ^affezione<n><f><pl>$	. \@Affezione\<n\>\<pl\>
 ^.<sent>$ ^affezione<n><f><sg>$	. \@Affezione\<n\>\<sg\>
 ^.<sent>$ ^afflusso<n><m><pl>$	. \@Afflusso\<n\>\<pl\>
@@ -622,7 +620,6 @@
 ^.<sent>$ ^aggiornamento<n><m><sg>$	. \@Aggiornamento\<n\>\<sg\>
 ^.<sent>$ ^attore<n><f><pl>$	. \@Attore\<n\>\<pl\>
 ^.<sent>$ ^attore<n><f><sg>$	. \@Attore\<n\>\<sg\>
-^.<sent>$ ^agilità<n><f><sp>$	. \@Agilità\<n\>\<sp\>
 ^.<sent>$ ^aids<n><f><sp>$	. \@Aids\<n\>\<sp\>
 ^.<sent>$ ^alambicco<n><m><pl>$	. \@Alambicco\<n\>\<pl\>
 ^.<sent>$ ^alambicco<n><m><sg>$	. \@Alambicco\<n\>\<sg\>
@@ -631,7 +628,6 @@
 ^.<sent>$ ^albatros<n><m><sp>$	. #Albatross\<n\>
 ^.<sent>$ ^albergo<n><m><pl>$	. \@Albergo\<n\>\<pl\>
 ^.<sent>$ ^albergo<n><m><sg>$	. \@Albergo\<n\>\<sg\>
-^.<sent>$ ^alcalinità<n><f><sp>$	. \@Alcalinità\<n\>\<sp\>
 ^.<sent>$ ^algerino<n><m><pl>$	. \@Algerino\<n\>\<pl\>
 ^.<sent>$ ^algerino<n><m><sg>$	. \@Algerino\<n\>\<sg\>
 ^.<sent>$ ^algerino<n><f><sg>$	. \@Algerino\<n\>\<sg\>
@@ -698,7 +694,7 @@
 ^.<sent>$ ^anfora<n><f><sg>$	. \@Anfora\<n\>\<sg\>
 ^.<sent>$ ^anglosassone<n><mf><pl>$	. #Anglosajón\<n\>\<pl\>
 ^.<sent>$ ^anglosassone<n><mf><sg>$	. #Anglosajón\<n\>\<sg\>
-^.<sent>$ ^anorak<n><m><sp>$	. \@Anorak\<n\>\<sp\>
+^.<sent>$ ^anorak<n><m><sp>$	. #Anorak\<n\>\<sg\>
 ^.<sent>$ ^annale<n><m><pl>$	. \@Annale\<n\>\<pl\>
 ^.<sent>$ ^annale<n><m><sg>$	. \@Annale\<n\>\<sg\>
 ^.<sent>$ ^annegamento<n><m><pl>$	. \@Annegamento\<n\>\<pl\>
@@ -793,7 +789,6 @@
 ^.<sent>$ ^artigianato<n><m><sg>$	. \@Artigianato\<n\>\<sg\>
 ^.<sent>$ ^artista<n><f><sg>$	. \@Artista\<n\>\<sg\>
 ^.<sent>$ ^artista<n><f><pl>$	. \@Artista\<n\>\<pl\>
-^.<sent>$ ^artrosi<n><f><sp>$	. \@Artrosi\<n\>\<sp\>
 ^.<sent>$ ^ascesso<n><m><pl>$	. \@Ascesso\<n\>\<pl\>
 ^.<sent>$ ^ascesso<n><m><sg>$	. \@Ascesso\<n\>\<sg\>
 ^.<sent>$ ^asma<n><mf><sg>$	. #Asthma\<n\>
@@ -848,12 +843,10 @@
 ^.<sent>$ ^automobilismo<n><m><pl>$	. #Motoring\<n\>\<pl\>
 ^.<sent>$ ^avido<n><m><pl>$	. \@Avido\<n\>\<pl\>
 ^.<sent>$ ^avido<n><m><sg>$	. \@Avido\<n\>\<sg\>
-^.<sent>$ ^avidità<n><f><sp>$	. \@Avidità\<n\>\<sp\>
 ^.<sent>$ ^avvicinamento<n><m><pl>$	. \@Avvicinamento\<n\>\<pl\>
 ^.<sent>$ ^avvicinamento<n><m><sg>$	. \@Avvicinamento\<n\>\<sg\>
 ^.<sent>$ ^avvocatura<n><f><pl>$	. \@Avvocatura\<n\>\<pl\>
 ^.<sent>$ ^avvocatura<n><f><sg>$	. \@Avvocatura\<n\>\<sg\>
-^.<sent>$ ^azimut<n><m><sp>$	. \@Azimut\<n\>\<sp\>
 ^.<sent>$ ^bacetto<n><m><pl>$	. \@Bacetto\<n\>\<pl\>
 ^.<sent>$ ^bacetto<n><m><sg>$	. \@Bacetto\<n\>\<sg\>
 ^.<sent>$ ^bacino<n><m><pl>$	. \@Bacino\<n\>\<pl\>
@@ -870,7 +863,6 @@
 ^.<sent>$ ^banale<n><mf><sg>$	. \@Banale\<n\>\<sg\>
 ^.<sent>$ ^bancone<n><m><pl>$	. \@Bancone\<n\>\<pl\>
 ^.<sent>$ ^bancone<n><m><sg>$	. \@Bancone\<n\>\<sg\>
-^.<sent>$ ^barbarie<n><f><sp>$	. \@Barbarie\<n\>\<sp\>
 ^.<sent>$ ^barbiere<n><m><pl>$	. \@Barbiere\<n\>\<pl\>
 ^.<sent>$ ^barbiere<n><m><sg>$	. \@Barbiere\<n\>\<sg\>
 ^.<sent>$ ^barocco<n><m><pl>$	. \@Barocco\<n\>\<pl\>
@@ -900,7 +892,6 @@
 ^.<sent>$ ^beniamino<n><f><pl>$	. \@Beniamino\<n\>\<pl\>
 ^.<sent>$ ^bernoccolo<n><m><pl>$	. \@Bernoccolo\<n\>\<pl\>
 ^.<sent>$ ^bernoccolo<n><m><sg>$	. \@Bernoccolo\<n\>\<sg\>
-^.<sent>$ ^bidet<n><m><sp>$	. \@Bidet\<n\>\<sp\>
 ^.<sent>$ ^biglietteria<n><f><pl>$	. \@Biglietteria\<n\>\<pl\>
 ^.<sent>$ ^biglietteria<n><f><sg>$	. \@Biglietteria\<n\>\<sg\>
 ^.<sent>$ ^blandimento<n><m><pl>$	. \@Blandimento\<n\>\<pl\>
@@ -911,7 +902,6 @@
 ^.<sent>$ ^blatta<n><f><sg>$	. \@Blatta\<n\>\<sg\>
 ^.<sent>$ ^bloc notes<n><m><sp>$	. \@Bloc notes\<n\>\<sp\>
 ^.<sent>$ ^blogger<n><mf><sp>$	. \@Blogger\<n\>\<sp\>
-^.<sent>$ ^bluff<n><m><sp>$	. \@Bluff\<n\>\<sp\>
 ^.<sent>$ ^boiaro<n><m><pl>$	. \@Boiaro\<n\>\<pl\>
 ^.<sent>$ ^boiaro<n><m><sg>$	. \@Boiaro\<n\>\<sg\>
 ^.<sent>$ ^boliviano<n><m><pl>$	. \@Boliviano\<n\>\<pl\>
@@ -960,13 +950,10 @@
 ^.<sent>$ ^camorra<n><f><sg>$	. \@Camorra\<n\>\<sg\>
 ^.<sent>$ ^campanile<n><m><pl>$	. \@Campanile\<n\>\<pl\>
 ^.<sent>$ ^campanile<n><m><sg>$	. \@Campanile\<n\>\<sg\>
-^.<sent>$ ^camper<n><m><sp>$	. \@Camper\<n\>\<sp\>
 ^.<sent>$ ^camuffamento<n><m><pl>$	. \@Camuffamento\<n\>\<pl\>
 ^.<sent>$ ^camuffamento<n><m><sg>$	. \@Camuffamento\<n\>\<sg\>
-^.<sent>$ ^canapé<n><m><sp>$	. \@Canapé\<n\>\<sp\>
 ^.<sent>$ ^candeggina<n><f><pl>$	. \@Candeggina\<n\>\<pl\>
 ^.<sent>$ ^candeggina<n><f><sg>$	. \@Candeggina\<n\>\<sg\>
-^.<sent>$ ^cannabis<n><f><sp>$	. \@Cannabis\<n\>\<sp\>
 ^.<sent>$ ^caraffa<n><f><pl>$	. \@Caraffa\<n\>\<pl\>
 ^.<sent>$ ^caraffa<n><f><sg>$	. \@Caraffa\<n\>\<sg\>
 ^.<sent>$ ^carambola<n><f><pl>$	. \@Carambola\<n\>\<pl\>
@@ -997,7 +984,6 @@
 ^.<sent>$ ^castigliano<n><f><pl>$	. \@Castigliano\<n\>\<pl\>
 ^.<sent>$ ^castiglionese<n><mf><pl>$	. \@Castiglionese\<n\>\<pl\>
 ^.<sent>$ ^castiglionese<n><mf><sg>$	. \@Castiglionese\<n\>\<sg\>
-^.<sent>$ ^castità<n><f><sp>$	. \@Castità\<n\>\<sp\>
 ^.<sent>$ ^catamarano<n><m><pl>$	. \@Catamarano\<n\>\<pl\>
 ^.<sent>$ ^catamarano<n><m><sg>$	. \@Catamarano\<n\>\<sg\>
 ^.<sent>$ ^cataplasma<n><m><pl>$	. \@Cataplasma\<n\>\<pl\>
@@ -1043,7 +1029,6 @@
 ^.<sent>$ ^cervello<n><f><pl>$	. \@Cervello\<n\>\<pl\>
 ^.<sent>$ ^cesto<n><m><pl>$	. \@Cesto\<n\>\<pl\>
 ^.<sent>$ ^cesto<n><m><sg>$	. \@Cesto\<n\>\<sg\>
-^.<sent>$ ^chef<n><m><sp>$	. \@Chef\<n\>\<sp\>
 ^.<sent>$ ^cherubino<n><m><pl>$	. \@Cherubino\<n\>\<pl\>
 ^.<sent>$ ^cherubino<n><m><sg>$	. \@Cherubino\<n\>\<sg\>
 ^.<sent>$ ^chiaro<n><m><pl>$	. \@Chiaro\<n\>\<pl\>
@@ -1085,15 +1070,12 @@
 ^.<sent>$ ^circolazione<n><f><sg>$	. \@Circolazione\<n\>\<sg\>
 ^.<sent>$ ^cisterna<n><f><pl>$	. \@Cisterna\<n\>\<pl\>
 ^.<sent>$ ^cisterna<n><f><sg>$	. \@Cisterna\<n\>\<sg\>
-^.<sent>$ ^cisti<n><f><sp>$	. \@Cisti\<n\>\<sp\>
 ^.<sent>$ ^clausura<n><f><pl>$	. \@Clausura\<n\>\<pl\>
 ^.<sent>$ ^clausura<n><f><sg>$	. \@Clausura\<n\>\<sg\>
 ^.<sent>$ ^clero<n><m><pl>$	. \@Clero\<n\>\<pl\>
 ^.<sent>$ ^clero<n><m><sg>$	. \@Clero\<n\>\<sg\>
-^.<sent>$ ^cliché<n><m><sp>$	. \@Cliché\<n\>\<sp\>
 ^.<sent>$ ^cliente<n><mf><pl>$	. #Cliente\<n\>\<pl\>
 ^.<sent>$ ^cliente<n><mf><sg>$	. #Cliente\<n\>\<sg\>
-^.<sent>$ ^cognac<n><m><sp>$	. \@Cognac\<n\>\<sp\>
 ^.<sent>$ ^colazione<n><f><pl>$	. \@Colazione\<n\>\<pl\>
 ^.<sent>$ ^colazione<n><f><sg>$	. \@Colazione\<n\>\<sg\>
 ^.<sent>$ ^collana<n><f><pl>$	. \@Collana\<n\>\<pl\>
@@ -1211,15 +1193,12 @@
 ^.<sent>$ ^crampo<n><m><sg>$	. \@Crampo\<n\>\<sg\>
 ^.<sent>$ ^credenza<n><f><pl>$	. \@Credenza\<n\>\<pl\>
 ^.<sent>$ ^credenza<n><f><sg>$	. \@Credenza\<n\>\<sg\>
-^.<sent>$ ^crêpe<n><f><sp>$	. \@Crêpe\<n\>\<sp\>
 ^.<sent>$ ^cretino<n><m><pl>$	. \@Cretino\<n\>\<pl\>
 ^.<sent>$ ^cretino<n><m><sg>$	. \@Cretino\<n\>\<sg\>
 ^.<sent>$ ^cretino<n><f><sg>$	. \@Cretino\<n\>\<sg\>
 ^.<sent>$ ^cretino<n><f><pl>$	. \@Cretino\<n\>\<pl\>
-^.<sent>$ ^cristianità<n><f><sp>$	. \@Cristianità\<n\>\<sp\>
 ^.<sent>$ ^crociera<n><f><pl>$	. \@Crociera\<n\>\<pl\>
 ^.<sent>$ ^crociera<n><f><sg>$	. \@Crociera\<n\>\<sg\>
-^.<sent>$ ^cross<n><m><sp>$	. \@Cross\<n\>\<sp\>
 ^.<sent>$ ^crusca<n><f><sg>$	. \@Crusca\<n\>\<sg\>
 ^.<sent>$ ^crusca<n><f><pl>$	. \@Crusca\<n\>\<pl\>
 ^.<sent>$ ^cucciolo<n><m><pl>$	. \@Cucciolo\<n\>\<pl\>
@@ -1319,7 +1298,6 @@
 ^.<sent>$ ^docente<n><mf><pl>$	. \@Docente\<n\>\<pl\>
 ^.<sent>$ ^docente<n><mf><sg>$	. \@Docente\<n\>\<sg\>
 ^.<sent>$ ^domani<n><m><sp>$	. #Morning\<n\>
-^.<sent>$ ^domotica<n><f><sp>$	. \@Domotica\<n\>\<sp\>
 ^.<sent>$ ^donatore<n><m><pl>$	. \@Donatore\<n\>\<pl\>
 ^.<sent>$ ^donatore<n><m><sg>$	. \@Donatore\<n\>\<sg\>
 ^.<sent>$ ^donatore<n><f><pl>$	. \@Donatore\<n\>\<pl\>
@@ -1329,10 +1307,9 @@
 ^.<sent>$ ^doppio<n><m><sg>$	. \@Doppio\<n\>\<sg\>
 ^.<sent>$ ^dormitorio<n><m><pl>$	. \@Dormitorio\<n\>\<pl\>
 ^.<sent>$ ^dormitorio<n><m><sg>$	. \@Dormitorio\<n\>\<sg\>
-^.<sent>$ ^dossier<n><m><sp>$	. \@Dossier\<n\>\<sp\>
 ^.<sent>$ ^Dr<n><m><sg>$	. \@Dr\<n\>\<sg\>
 ^.<sent>$ ^Dr<n><f><sg>$	. \@Dr\<n\>\<sg\>
-^.<sent>$ ^e-mail<n><f><sp>$	. \@E-mail\<n\>\<sp\>
+^.<sent>$ ^e-mail<n><f><sp>$	. Email/E-mail
 ^.<sent>$ ^ebano<n><m><pl>$	. \@Ebano\<n\>\<pl\>
 ^.<sent>$ ^ebano<n><m><sg>$	. \@Ebano\<n\>\<sg\>
 ^.<sent>$ ^ecatombe<n><f><pl>$	. \@Ecatombe\<n\>\<pl\>
@@ -1355,14 +1332,12 @@
 ^.<sent>$ ^egizio<n><m><sg>$	. \@Egizio\<n\>\<sg\>
 ^.<sent>$ ^egizio<n><f><sg>$	. \@Egizio\<n\>\<sg\>
 ^.<sent>$ ^egizio<n><f><pl>$	. \@Egizio\<n\>\<pl\>
-^.<sent>$ ^ego<n><m><sp>$	. \@Ego\<n\>\<sp\>
 ^.<sent>$ ^egoista<n><m><pl>$	. \@Egoista\<n\>\<pl\>
 ^.<sent>$ ^egoista<n><m><sg>$	. \@Egoista\<n\>\<sg\>
 ^.<sent>$ ^egoista<n><f><sg>$	. \@Egoista\<n\>\<sg\>
 ^.<sent>$ ^egoista<n><f><pl>$	. \@Egoista\<n\>\<pl\>
 ^.<sent>$ ^elaborazione<n><f><pl>$	. \@Elaborazione\<n\>\<pl\>
 ^.<sent>$ ^elaborazione<n><f><sg>$	. \@Elaborazione\<n\>\<sg\>
-^.<sent>$ ^elasticità<n><f><sp>$	. \@Elasticità\<n\>\<sp\>
 ^.<sent>$ ^elettrocardiogramma<n><m><pl>$	. \@Elettrocardiogramma\<n\>\<pl\>
 ^.<sent>$ ^elettrocardiogramma<n><m><sg>$	. \@Elettrocardiogramma\<n\>\<sg\>
 ^.<sent>$ ^elevatore<n><m><pl>$	. \@Elevatore\<n\>\<pl\>
@@ -1393,7 +1368,6 @@
 ^.<sent>$ ^esiliato<n><m><sg>$	. \@Esiliato\<n\>\<sg\>
 ^.<sent>$ ^esiliato<n><f><sg>$	. \@Esiliato\<n\>\<sg\>
 ^.<sent>$ ^esiliato<n><f><pl>$	. \@Esiliato\<n\>\<pl\>
-^.<sent>$ ^esperanto<n><m><sp>$	. \@Esperanto\<n\>\<sp\>
 ^.<sent>$ ^estinzione<n><f><pl>$	. \@Estinzione\<n\>\<pl\>
 ^.<sent>$ ^estinzione<n><f><sg>$	. \@Estinzione\<n\>\<sg\>
 ^.<sent>$ ^eterosessuale<n><mf><pl>$	. \@Eterosessuale\<n\>\<pl\>
@@ -1425,7 +1399,6 @@
 ^.<sent>$ ^fava<n><f><sg>$	. \@Fava\<n\>\<sg\>
 ^.<sent>$ ^favore<n><m><pl>$	. #Favour\<n\>\<pl\>
 ^.<sent>$ ^favore<n><m><sg>$	. #Favour\<n\>\<sg\>
-^.<sent>$ ^faziosità<n><f><sp>$	. \@Faziosità\<n\>\<sp\>
 ^.<sent>$ ^fecola<n><f><pl>$	. \@Fecola\<n\>\<pl\>
 ^.<sent>$ ^fecola<n><f><sg>$	. \@Fecola\<n\>\<sg\>
 ^.<sent>$ ^fedele<n><mf><pl>$	. \@Fedele\<n\>\<pl\>
@@ -1444,7 +1417,6 @@
 ^.<sent>$ ^fiammifero<n><m><sg>$	. \@Fiammifero\<n\>\<sg\>
 ^.<sent>$ ^fibbia<n><f><pl>$	. \@Fibbia\<n\>\<pl\>
 ^.<sent>$ ^fibbia<n><f><sg>$	. \@Fibbia\<n\>\<sg\>
-^.<sent>$ ^ficus<n><m><sp>$	. \@Ficus\<n\>\<sp\>
 ^.<sent>$ ^fidanzato<n><f><pl>$	. #Bride\<n\>\<pl\>
 ^.<sent>$ ^fidanzato<n><f><sg>$	. #Bride\<n\>\<sg\>
 ^.<sent>$ ^filatelia<n><f><pl>$	. \@Filatelia\<n\>\<pl\>
@@ -1471,7 +1443,6 @@
 ^.<sent>$ ^fisarmonicista<n><f><pl>$	. \@Fisarmonicista\<n\>\<pl\>
 ^.<sent>$ ^fischio<n><m><pl>$	. \@Fischio\<n\>\<pl\>
 ^.<sent>$ ^fischio<n><m><sg>$	. \@Fischio\<n\>\<sg\>
-^.<sent>$ ^flamenco<n><m><sp>$	. \@Flamenco\<n\>\<sp\>
 ^.<sent>$ ^flagioletto<n><m><pl>$	. \@Flagioletto\<n\>\<pl\>
 ^.<sent>$ ^flagioletto<n><m><sg>$	. \@Flagioletto\<n\>\<sg\>
 ^.<sent>$ ^fomentatore<n><m><pl>$	. \@Fomentatore\<n\>\<pl\>
@@ -1492,7 +1463,6 @@
 ^.<sent>$ ^fosso<n><m><sg>$	. \@Fosso\<n\>\<sg\>
 ^.<sent>$ ^fotogramma<n><m><pl>$	. \@Fotogramma\<n\>\<pl\>
 ^.<sent>$ ^fotogramma<n><m><sg>$	. \@Fotogramma\<n\>\<sg\>
-^.<sent>$ ^fragilità<n><f><sp>$	. \@Fragilità\<n\>\<sp\>
 ^.<sent>$ ^fragola<n><f><pl>$	. \@Fragola\<n\>\<pl\>
 ^.<sent>$ ^fragola<n><f><sg>$	. \@Fragola\<n\>\<sg\>
 ^.<sent>$ ^francese<n><mf><pl>$	. #Francés\<n\>\<pl\>
@@ -1539,7 +1509,6 @@
 ^.<sent>$ ^ghiandola<n><f><sg>$	. \@Ghiandola\<n\>\<sg\>
 ^.<sent>$ ^giacimento<n><m><pl>$	. \@Giacimento\<n\>\<pl\>
 ^.<sent>$ ^giacimento<n><m><sg>$	. \@Giacimento\<n\>\<sg\>
-^.<sent>$ ^gin<n><m><sp>$	. \@Gin\<n\>\<sp\>
 ^.<sent>$ ^ginnasta<n><mf><pl>$	. \@Ginnasta\<n\>\<pl\>
 ^.<sent>$ ^ginnasta<n><mf><sg>$	. \@Ginnasta\<n\>\<sg\>
 ^.<sent>$ ^giornata<n><f><pl>$	. \@Giornata\<n\>\<pl\>
@@ -1564,16 +1533,12 @@
 ^.<sent>$ ^gocciolio<n><m><sg>$	. \@Gocciolio\<n\>\<sg\>
 ^.<sent>$ ^godimento<n><m><pl>$	. \@Godimento\<n\>\<pl\>
 ^.<sent>$ ^godimento<n><m><sg>$	. \@Godimento\<n\>\<sg\>
-^.<sent>$ ^golf<n><m><sp>$	. \@Golf\<n\>\<sp\>
 ^.<sent>$ ^golfo<n><m><pl>$	. \@Golfo\<n\>\<pl\>
 ^.<sent>$ ^golfo<n><m><sg>$	. \@Golfo\<n\>\<sg\>
 ^.<sent>$ ^golpista<n><mf><pl>$	. \@Golpista\<n\>\<pl\>
 ^.<sent>$ ^golpista<n><mf><sg>$	. \@Golpista\<n\>\<sg\>
 ^.<sent>$ ^governante<n><mf><pl>$	. #Gobernante\<n\>\<pl\>
 ^.<sent>$ ^governante<n><mf><sg>$	. #Gobernante\<n\>\<sg\>
-^.<sent>$ ^gprs<n><m><sp>$	. \@Gprs\<n\>\<sp\>
-^.<sent>$ ^gps<n><m><sp>$	. \@Gps\<n\>\<sp\>
-^.<sent>$ ^stock<n><m><sp>$	. \@Stock\<n\>\<sp\>
 ^.<sent>$ ^grafico<n><m><sg>$	. #Graphics\<n\>\<sg\>
 ^.<sent>$ ^grandine<n><f><pl>$	. \@Grandine\<n\>\<pl\>
 ^.<sent>$ ^grandine<n><f><sg>$	. \@Grandine\<n\>\<sg\>
@@ -1583,7 +1548,6 @@
 ^.<sent>$ ^grossolaneria<n><f><sg>$	. \@Grossolaneria\<n\>\<sg\>
 ^.<sent>$ ^grotta<n><f><pl>$	. \@Grotta\<n\>\<pl\>
 ^.<sent>$ ^grotta<n><f><sg>$	. \@Grotta\<n\>\<sg\>
-^.<sent>$ ^guardaroba<n><m><sp>$	. \@Guardaroba\<n\>\<sp\>
 ^.<sent>$ ^guardia<n><f><pl>$	. \@Guardia\<n\>\<pl\>
 ^.<sent>$ ^guardia<n><f><sg>$	. \@Guardia\<n\>\<sg\>
 ^.<sent>$ ^guarnigione<n><f><pl>$	. \@Guarnigione\<n\>\<pl\>
@@ -1597,17 +1561,12 @@
 ^.<sent>$ ^guerrigliero<n><f><sg>$	. \@Guerrigliero\<n\>\<sg\>
 ^.<sent>$ ^guerrigliero<n><f><pl>$	. \@Guerrigliero\<n\>\<pl\>
 ^.<sent>$ ^hacker<n><mf><sp>$	. \@Hacker\<n\>\<sp\>
-^.<sent>$ ^handicap<n><m><sp>$	. \@Handicap\<n\>\<sp\>
-^.<sent>$ ^hascisc<n><m><sp>$	. \@Hascisc\<n\>\<sp\>
-^.<sent>$ ^header<n><m><sp>$	. \@Header\<n\>\<sp\>
 ^.<sent>$ ^hit<n><m><pl>$	. \@Hit\<n\>\<pl\>
 ^.<sent>$ ^hit<n><m><sg>$	. \@Hit\<n\>\<sg\>
 ^.<sent>$ ^idraulico<n><m><pl>$	. \@Idraulico\<n\>\<pl\>
 ^.<sent>$ ^idraulico<n><m><sg>$	. \@Idraulico\<n\>\<sg\>
 ^.<sent>$ ^idrofobia<n><f><pl>$	. \@Idrofobia\<n\>\<pl\>
 ^.<sent>$ ^idrofobia<n><f><sg>$	. \@Idrofobia\<n\>\<sg\>
-^.<sent>$ ^idrolisi<n><f><sp>$	. \@Idrolisi\<n\>\<sp\>
-^.<sent>$ ^ilarità<n><f><sp>$	. \@Ilarità\<n\>\<sp\>
 ^.<sent>$ ^imboscata<n><f><pl>$	. \@Imboscata\<n\>\<pl\>
 ^.<sent>$ ^imboscata<n><f><sg>$	. \@Imboscata\<n\>\<sg\>
 ^.<sent>$ ^imene<n><m><pl>$	. \@Imene\<n\>\<pl\>
@@ -1679,8 +1638,6 @@
 ^.<sent>$ ^invitato<n><m><sg>$	. \@Invitato\<n\>\<sg\>
 ^.<sent>$ ^invitato<n><f><sg>$	. \@Invitato\<n\>\<sg\>
 ^.<sent>$ ^invitato<n><f><pl>$	. \@Invitato\<n\>\<pl\>
-^.<sent>$ ^iperattività<n><f><sp>$	. \@Iperattività\<n\>\<sp\>
-^.<sent>$ ^ipnosi<n><f><sp>$	. \@Ipnosi\<n\>\<sp\>
 ^.<sent>$ ^ipocrita<n><m><pl>$	. \@Ipocrita\<n\>\<pl\>
 ^.<sent>$ ^ipocrita<n><m><sg>$	. \@Ipocrita\<n\>\<sg\>
 ^.<sent>$ ^ipocrita<n><f><sg>$	. \@Ipocrita\<n\>\<sg\>
@@ -1705,8 +1662,6 @@
 ^.<sent>$ ^isolamento<n><m><sg>$	. \@Isolamento\<n\>\<sg\>
 ^.<sent>$ ^karate<n><m><sg>$	. \@Karate\<n\>\<sg\>
 ^.<sent>$ ^karateka<n><mf><sp>$	. \@Karateka\<n\>\<sp\>
-^.<sent>$ ^kebab<n><m><sp>$	. \@Kebab\<n\>\<sp\>
-^.<sent>$ ^kilovolt<n><m><sp>$	. \@Kilovolt\<n\>\<sp\>
 ^.<sent>$ ^kimono<n><m><pl>$	. \@Kimono\<n\>\<pl\>
 ^.<sent>$ ^kimono<n><m><sg>$	. \@Kimono\<n\>\<sg\>
 ^.<sent>$ ^labrador<n><mf><sp>$	. #Farmer\<n\>
@@ -1716,7 +1671,6 @@
 ^.<sent>$ ^lanciatore<n><m><sg>$	. \@Lanciatore\<n\>\<sg\>
 ^.<sent>$ ^lanciatore<n><f><pl>$	. \@Lanciatore\<n\>\<pl\>
 ^.<sent>$ ^lanciatore<n><f><sg>$	. \@Lanciatore\<n\>\<sg\>
-^.<sent>$ ^lapsus<n><m><sp>$	. \@Lapsus\<n\>\<sp\>
 ^.<sent>$ ^laurea<n><f><pl>$	. \@Laurea\<n\>\<pl\>
 ^.<sent>$ ^laurea<n><f><sg>$	. \@Laurea\<n\>\<sg\>
 ^.<sent>$ ^lavatrice<n><f><pl>$	. \@Lavatrice\<n\>\<pl\>
@@ -1728,7 +1682,6 @@
 ^.<sent>$ ^legislatura<n><f><pl>$	. #Legislature\<n\>\<pl\># of office
 ^.<sent>$ ^legislatura<n><f><sg>$	. #Legislature\<n\>\<sg\># of office
 ^.<sent>$ ^lehendakari<n><mf><sp>$	. \@Lehendakari\<n\>\<sp\>
-^.<sent>$ ^leitmotiv<n><m><sp>$	. \@Leitmotiv\<n\>\<sp\>
 ^.<sent>$ ^lemma<n><m><pl>$	. \@Lemma\<n\>\<pl\>
 ^.<sent>$ ^lemma<n><m><sg>$	. \@Lemma\<n\>\<sg\>
 ^.<sent>$ ^leninismo<n><m><pl>$	. \@Leninismo\<n\>\<pl\>
@@ -1761,8 +1714,6 @@
 ^.<sent>$ ^lucertola<n><f><sg>$	. \@Lucertola\<n\>\<sg\>
 ^.<sent>$ ^luccio<n><m><pl>$	. \@Luccio\<n\>\<pl\>
 ^.<sent>$ ^luccio<n><m><sg>$	. \@Luccio\<n\>\<sg\>
-^.<sent>$ ^luminosità<n><f><sp>$	. \@Luminosità\<n\>\<sp\>
-^.<sent>$ ^luminosità<n><f><sp>$	. \@Luminosità\<n\>\<sp\>
 ^.<sent>$ ^lungometraggio<n><m><pl>$	. \@Lungometraggio\<n\>\<pl\>
 ^.<sent>$ ^lungometraggio<n><m><sg>$	. \@Lungometraggio\<n\>\<sg\>
 ^.<sent>$ ^lustro<n><m><pl>$	. \@Lustro\<n\>\<pl\>
@@ -1838,7 +1789,6 @@
 ^.<sent>$ ^messa<n><f><sg>$	. \@Messa\<n\>\<sg\>
 ^.<sent>$ ^meta<n><f><pl>$	. \@Meta\<n\>\<pl\>
 ^.<sent>$ ^meta<n><f><sg>$	. \@Meta\<n\>\<sg\>
-^.<sent>$ ^metamorfosi<n><f><sp>$	. \@Metamorfosi\<n\>\<sp\>
 ^.<sent>$ ^metropolitano<n><m><pl>$	. \@Metropolitano\<n\>\<pl\>
 ^.<sent>$ ^metropolitano<n><m><sg>$	. \@Metropolitano\<n\>\<sg\>
 ^.<sent>$ ^microonde<n><m><sp>$	. #Microwave\<n\>
@@ -1846,7 +1796,6 @@
 ^.<sent>$ ^midollo<n><m><sg>$	. \@Midollo\<n\>\<sg\>
 ^.<sent>$ ^milza<n><f><pl>$	. \@Milza\<n\>\<pl\>
 ^.<sent>$ ^milza<n><f><sg>$	. \@Milza\<n\>\<sg\>
-^.<sent>$ ^min.<n><m><sp>$	. \@Min.\<n\>\<sp\>
 ^.<sent>$ ^minimo<n><m><pl>$	. \@Minimo\<n\>\<pl\>
 ^.<sent>$ ^minimo<n><m><sg>$	. \@Minimo\<n\>\<sg\>
 ^.<sent>$ ^minimo<n><f><sg>$	. \@Minimo\<n\>\<sg\>
@@ -1865,7 +1814,6 @@
 ^.<sent>$ ^missionario<n><m><sg>$	. \@Missionario\<n\>\<sg\>
 ^.<sent>$ ^missionario<n><f><sg>$	. \@Missionario\<n\>\<sg\>
 ^.<sent>$ ^missionario<n><f><pl>$	. \@Missionario\<n\>\<pl\>
-^.<sent>$ ^modernità<n><f><sp>$	. \@Modernità\<n\>\<sp\>
 ^.<sent>$ ^moldavo<n><m><pl>$	. \@Moldavo\<n\>\<pl\>
 ^.<sent>$ ^moldavo<n><m><sg>$	. \@Moldavo\<n\>\<sg\>
 ^.<sent>$ ^moldavo<n><f><sg>$	. \@Moldavo\<n\>\<sg\>
@@ -1923,7 +1871,6 @@
 ^.<sent>$ ^nafta<n><f><sg>$	. \@Nafta\<n\>\<sg\>
 ^.<sent>$ ^narciso<n><m><pl>$	. \@Narciso\<n\>\<pl\>
 ^.<sent>$ ^narciso<n><m><sg>$	. \@Narciso\<n\>\<sg\>
-^.<sent>$ ^nazionalità<n><f><sp>$	. \@Nazionalità\<n\>\<sp\>
 ^.<sent>$ ^nazionalista<n><f><sg>$	. \@Nazionalista\<n\>\<sg\>
 ^.<sent>$ ^nazionalista<n><f><pl>$	. \@Nazionalista\<n\>\<pl\>
 ^.<sent>$ ^nazista<n><m><pl>$	. \@Nazista\<n\>\<pl\>
@@ -1932,8 +1879,6 @@
 ^.<sent>$ ^nazista<n><f><pl>$	. \@Nazista\<n\>\<pl\>
 ^.<sent>$ ^neo<n><m><pl>$	. \@Neo\<n\>\<pl\>
 ^.<sent>$ ^neo<n><m><sg>$	. \@Neo\<n\>\<sg\>
-^.<sent>$ ^necropoli<n><f><sp>$	. \@Necropoli\<n\>\<sp\>
-^.<sent>$ ^necrosi<n><f><sp>$	. \@Necrosi\<n\>\<sp\>
 ^.<sent>$ ^neolitico<n><m><pl>$	. \@Neolitico\<n\>\<pl\>
 ^.<sent>$ ^neolitico<n><m><sg>$	. \@Neolitico\<n\>\<sg\>
 ^.<sent>$ ^neuropatia<n><f><pl>$	. \@Neuropatia\<n\>\<pl\>
@@ -1948,7 +1893,6 @@
 ^.<sent>$ ^noccioleto<n><m><sg>$	. \@Noccioleto\<n\>\<sg\>
 ^.<sent>$ ^nomade<n><mf><pl>$	. \@Nomade\<n\>\<pl\>
 ^.<sent>$ ^nomade<n><mf><sg>$	. \@Nomade\<n\>\<sg\>
-^.<sent>$ ^nomination<n><f><sp>$	. \@Nomination\<n\>\<sp\>
 ^.<sent>$ ^nord-est<n><m><sg>$	. \@Nord-est\<n\>\<sg\>
 ^.<sent>$ ^norvegese<n><mf><pl>$	. #Noruego\<n\>\<pl\>
 ^.<sent>$ ^norvegese<n><mf><sg>$	. #Noruego\<n\>\<sg\>
@@ -2003,7 +1947,6 @@
 ^.<sent>$ ^ortensia<n><f><sg>$	. \@Ortensia\<n\>\<sg\>
 ^.<sent>$ ^oscurantismo<n><m><pl>$	. \@Oscurantismo\<n\>\<pl\>
 ^.<sent>$ ^oscurantismo<n><m><sg>$	. \@Oscurantismo\<n\>\<sg\>
-^.<sent>$ ^osmosi<n><f><sp>$	. \@Osmosi\<n\>\<sp\>
 ^.<sent>$ ^osso<n><f><pl>$	. \@Osso\<n\>\<pl\>
 ^.<sent>$ ^ottagono<n><m><pl>$	. \@Ottagono\<n\>\<pl\>
 ^.<sent>$ ^ottagono<n><m><sg>$	. \@Ottagono\<n\>\<sg\>
@@ -2011,7 +1954,6 @@
 ^.<sent>$ ^ottenimento<n><m><sg>$	. \@Ottenimento\<n\>\<sg\>
 ^.<sent>$ ^pacificazione<n><f><pl>$	. \@Pacificazione\<n\>\<pl\>
 ^.<sent>$ ^pacificazione<n><f><sg>$	. \@Pacificazione\<n\>\<sg\>
-^.<sent>$ ^paella<n><f><sp>$	. \@Paella\<n\>\<sp\>
 ^.<sent>$ ^pagano<n><m><pl>$	. \@Pagano\<n\>\<pl\>
 ^.<sent>$ ^pagano<n><m><sg>$	. \@Pagano\<n\>\<sg\>
 ^.<sent>$ ^pagano<n><f><sg>$	. \@Pagano\<n\>\<sg\>
@@ -2025,14 +1967,12 @@
 ^.<sent>$ ^pallanuoto<n><f><sg>$	. \@Pallanuoto\<n\>\<sg\>
 ^.<sent>$ ^palmo<n><m><pl>$	. \@Palmo\<n\>\<pl\>
 ^.<sent>$ ^palmo<n><m><sg>$	. \@Palmo\<n\>\<sg\>
-^.<sent>$ ^panda<n><m><sp>$	. \@Panda\<n\>\<sp\>
 ^.<sent>$ ^pappagallino<n><f><sg>$	. \@Pappagallino\<n\>\<sg\>
 ^.<sent>$ ^pappagallino<n><f><pl>$	. \@Pappagallino\<n\>\<pl\>
 ^.<sent>$ ^paprica<n><f><sg>$	. \@Paprica\<n\>\<sg\>
 ^.<sent>$ ^paprica<n><f><pl>$	. \@Paprica\<n\>\<pl\>
 ^.<sent>$ ^parabola<n><f><pl>$	. \@Parabola\<n\>\<pl\>
 ^.<sent>$ ^parabola<n><f><sg>$	. \@Parabola\<n\>\<sg\>
-^.<sent>$ ^paracadute<n><m><sp>$	. \@Paracadute\<n\>\<sp\>
 ^.<sent>$ ^paracadutismo<n><m><pl>$	. \@Paracadutismo\<n\>\<pl\>
 ^.<sent>$ ^paracadutismo<n><m><sg>$	. \@Paracadutismo\<n\>\<sg\>
 ^.<sent>$ ^paradosso<n><m><pl>$	. \@Paradosso\<n\>\<pl\>
@@ -2041,7 +1981,6 @@
 ^.<sent>$ ^parafulmine<n><m><sg>$	. \@Parafulmine\<n\>\<sg\>
 ^.<sent>$ ^parassita<n><m><pl>$	. \@Parassita\<n\>\<pl\>
 ^.<sent>$ ^parassita<n><m><sg>$	. \@Parassita\<n\>\<sg\>
-^.<sent>$ ^parentesi<n><f><sp>$	. \@Parentesi\<n\>\<sp\>
 ^.<sent>$ ^parrocchia<n><f><pl>$	. \@Parrocchia\<n\>\<pl\>
 ^.<sent>$ ^parrocchia<n><f><sg>$	. \@Parrocchia\<n\>\<sg\>
 ^.<sent>$ ^parrucca<n><f><sg>$	. \@Parrucca\<n\>\<sg\>
@@ -2052,10 +1991,8 @@
 ^.<sent>$ ^pasta<n><f><sg>$	. \@Pasta\<n\>\<sg\>
 ^.<sent>$ ^pasticcio<n><m><pl>$	. \@Pasticcio\<n\>\<pl\>
 ^.<sent>$ ^pasticcio<n><m><sg>$	. \@Pasticcio\<n\>\<sg\>
-^.<sent>$ ^pavé<n><m><sp>$	. \@Pavé\<n\>\<sp\>
 ^.<sent>$ ^paziente<n><mf><pl>$	. \@Paziente\<n\>\<pl\>
 ^.<sent>$ ^paziente<n><mf><sg>$	. \@Paziente\<n\>\<sg\>
-^.<sent>$ ^pc<n><m><sp>$	. \@Pc\<n\>\<sp\>
 ^.<sent>$ ^pedalata<n><f><pl>$	. \@Pedalata\<n\>\<pl\>
 ^.<sent>$ ^pedalata<n><f><sg>$	. \@Pedalata\<n\>\<sg\>
 ^.<sent>$ ^pedone<n><m><pl>$	. \@Pedone\<n\>\<pl\>
@@ -2136,7 +2073,6 @@
 ^.<sent>$ ^polizza<n><f><sg>$	. \@Polizza\<n\>\<sg\>
 ^.<sent>$ ^porcile<n><m><pl>$	. \@Porcile\<n\>\<pl\>
 ^.<sent>$ ^porcile<n><m><sg>$	. \@Porcile\<n\>\<sg\>
-^.<sent>$ ^porno<n><m><sp>$	. \@Porno\<n\>\<sp\>
 ^.<sent>$ ^portatore<n><m><pl>$	. \@Portatore\<n\>\<pl\>
 ^.<sent>$ ^portatore<n><m><sg>$	. \@Portatore\<n\>\<sg\>
 ^.<sent>$ ^portatore<n><f><pl>$	. \@Portatore\<n\>\<pl\>
@@ -2188,7 +2124,6 @@
 ^.<sent>$ ^psichiatra<n><f><pl>$	. \@Psichiatra\<n\>\<pl\>
 ^.<sent>$ ^psichiatria<n><f><pl>$	. \@Psichiatria\<n\>\<pl\>
 ^.<sent>$ ^psichiatria<n><f><sg>$	. \@Psichiatria\<n\>\<sg\>
-^.<sent>$ ^psicosi<n><f><sp>$	. \@Psicosi\<n\>\<sp\>
 ^.<sent>$ ^pubblicista<n><m><pl>$	. \@Pubblicista\<n\>\<pl\>
 ^.<sent>$ ^pubblicista<n><m><sg>$	. \@Pubblicista\<n\>\<sg\>
 ^.<sent>$ ^pubblicista<n><f><sg>$	. \@Pubblicista\<n\>\<sg\>
@@ -2197,14 +2132,12 @@
 ^.<sent>$ ^pubblicitario<n><m><sg>$	. \@Pubblicitario\<n\>\<sg\>
 ^.<sent>$ ^pubblicitario<n><f><sg>$	. \@Pubblicitario\<n\>\<sg\>
 ^.<sent>$ ^pubblicitario<n><f><pl>$	. \@Pubblicitario\<n\>\<pl\>
-^.<sent>$ ^pudding<n><m><sp>$	. \@Pudding\<n\>\<sp\>
 ^.<sent>$ ^pugile<n><m><pl>$	. \@Pugile\<n\>\<pl\>
 ^.<sent>$ ^pugile<n><m><sg>$	. \@Pugile\<n\>\<sg\>
 ^.<sent>$ ^pupazzo<n><m><pl>$	. \@Pupazzo\<n\>\<pl\>
 ^.<sent>$ ^pupazzo<n><m><sg>$	. \@Pupazzo\<n\>\<sg\>
 ^.<sent>$ ^pupilla<n><f><pl>$	. \@Pupilla\<n\>\<pl\>
 ^.<sent>$ ^pupilla<n><f><sg>$	. \@Pupilla\<n\>\<sg\>
-^.<sent>$ ^pus<n><m><sp>$	. \@Pus\<n\>\<sp\>
 ^.<sent>$ ^puttana<n><f><pl>$	. \@Puttana\<n\>\<pl\>
 ^.<sent>$ ^puttana<n><f><sg>$	. \@Puttana\<n\>\<sg\>
 ^.<sent>$ ^quaresima<n><f><pl>$	. \@Quaresima\<n\>\<pl\>
@@ -2288,7 +2221,6 @@
 ^.<sent>$ ^ronda<n><f><sg>$	. \@Ronda\<n\>\<sg\>
 ^.<sent>$ ^rosmarino<n><m><pl>$	. \@Rosmarino\<n\>\<pl\>
 ^.<sent>$ ^rosmarino<n><m><sg>$	. \@Rosmarino\<n\>\<sg\>
-^.<sent>$ ^rpm<n><m><sp>$	. \@Rpm\<n\>\<sp\>
 ^.<sent>$ ^rubino<n><m><pl>$	. \@Rubino\<n\>\<pl\>
 ^.<sent>$ ^rubino<n><m><sg>$	. \@Rubino\<n\>\<sg\>
 ^.<sent>$ ^rumore<n><m><pl>$	. \@Rumore\<n\>\<pl\>
@@ -2313,9 +2245,6 @@
 ^.<sent>$ ^salvatore<n><m><sg>$	. \@Salvatore\<n\>\<sg\>
 ^.<sent>$ ^salvatore<n><f><pl>$	. \@Salvatore\<n\>\<pl\>
 ^.<sent>$ ^salvatore<n><f><sg>$	. \@Salvatore\<n\>\<sg\>
-^.<sent>$ ^sandwich<n><m><sp>$	. \@Sandwich\<n\>\<sp\>
-^.<sent>$ ^sanità<n><f><sp>$	. \@Sanità\<n\>\<sp\>
-^.<sent>$ ^santità<n><f><sp>$	. \@Santità\<n\>\<sp\>
 ^.<sent>$ ^scacchi<n><m><pl>$	. \@Scacchi\<n\>\<pl\>
 ^.<sent>$ ^scaloppa<n><f><pl>$	. \@Scaloppa\<n\>\<pl\>
 ^.<sent>$ ^scaloppa<n><f><sg>$	. \@Scaloppa\<n\>\<sg\>
@@ -2371,8 +2300,6 @@
 ^.<sent>$ ^sfera<n><f><sg>$	. \@Sfera\<n\>\<sg\>
 ^.<sent>$ ^sfruttamento<n><m><pl>$	. \@Sfruttamento\<n\>\<pl\>
 ^.<sent>$ ^sfruttamento<n><m><sg>$	. \@Sfruttamento\<n\>\<sg\>
-^.<sent>$ ^show<n><m><sp>$	. \@Show\<n\>\<sp\>
-^.<sent>$ ^simbiosi<n><f><sp>$	. \@Simbiosi\<n\>\<sp\>
 ^.<sent>$ ^simpatizzante<n><mf><pl>$	. \@Simpatizzante\<n\>\<pl\>
 ^.<sent>$ ^simpatizzante<n><mf><sg>$	. \@Simpatizzante\<n\>\<sg\>
 ^.<sent>$ ^sincope<n><f><pl>$	. \@Sincope\<n\>\<pl\>
@@ -2383,14 +2310,12 @@
 ^.<sent>$ ^singhiozzo<n><m><sg>$	. \@Singhiozzo\<n\>\<sg\>
 ^.<sent>$ ^sinonimo<n><m><pl>$	. \@Sinonimo\<n\>\<pl\>
 ^.<sent>$ ^sinonimo<n><m><sg>$	. \@Sinonimo\<n\>\<sg\>
-^.<sent>$ ^sintassi<n><f><sp>$	. \@Sintassi\<n\>\<sp\>
 ^.<sent>$ ^sipario<n><m><pl>$	. \@Sipario\<n\>\<pl\>
 ^.<sent>$ ^sipario<n><m><sg>$	. \@Sipario\<n\>\<sg\>
 ^.<sent>$ ^sirena<n><f><pl>$	. \@Sirena\<n\>\<pl\>
 ^.<sent>$ ^sirena<n><f><sg>$	. \@Sirena\<n\>\<sg\>
 ^.<sent>$ ^sisma<n><m><pl>$	. \@Sisma\<n\>\<pl\>
 ^.<sent>$ ^sisma<n><m><sg>$	. \@Sisma\<n\>\<sg\>
-^.<sent>$ ^smog<n><m><sp>$	. \@Smog\<n\>\<sp\>
 ^.<sent>$ ^sodomia<n><f><pl>$	. \@Sodomia\<n\>\<pl\>
 ^.<sent>$ ^sodomia<n><f><sg>$	. \@Sodomia\<n\>\<sg\>
 ^.<sent>$ ^soggiorno<n><m><pl>$	. \@Soggiorno\<n\>\<pl\>
@@ -2444,10 +2369,8 @@
 ^.<sent>$ ^stenografia<n><f><sg>$	. \@Stenografia\<n\>\<sg\>
 ^.<sent>$ ^stereofonia<n><f><pl>$	. \@Stereofonia\<n\>\<pl\>
 ^.<sent>$ ^stereofonia<n><f><sg>$	. \@Stereofonia\<n\>\<sg\>
-^.<sent>$ ^sterilità<n><f><sp>$	. \@Sterilità\<n\>\<sp\>
 ^.<sent>$ ^stipendio<n><m><pl>$	. \@Stipendio\<n\>\<pl\>
 ^.<sent>$ ^stipendio<n><m><sg>$	. \@Stipendio\<n\>\<sg\>
-^.<sent>$ ^stop<n><m><sp>$	. \@Stop\<n\>\<sp\>
 ^.<sent>$ ^storico<n><m><pl>$	. \@Storico\<n\>\<pl\>
 ^.<sent>$ ^storico<n><m><sg>$	. \@Storico\<n\>\<sg\>
 ^.<sent>$ ^storico<n><f><pl>$	. \@Storico\<n\>\<pl\>
@@ -2473,7 +2396,6 @@
 ^.<sent>$ ^superstrada<n><f><sg>$	. \@Superstrada\<n\>\<sg\>
 ^.<sent>$ ^supplente<n><m><pl>$	. \@Supplente\<n\>\<pl\>
 ^.<sent>$ ^supplente<n><m><sg>$	. \@Supplente\<n\>\<sg\>
-^.<sent>$ ^surplus<n><m><sp>$	. \@Surplus\<n\>\<sp\>
 ^.<sent>$ ^surrealismo<n><m><pl>$	. \@Surrealismo\<n\>\<pl\>
 ^.<sent>$ ^surrealismo<n><m><sg>$	. \@Surrealismo\<n\>\<sg\>
 ^.<sent>$ ^sussidio<n><m><pl>$	. \@Sussidio\<n\>\<pl\>
@@ -2484,12 +2406,10 @@
 ^.<sent>$ ^sveglia<n><f><sg>$	. \@Sveglia\<n\>\<sg\>
 ^.<sent>$ ^tabagismo<n><m><pl>$	. \@Tabagismo\<n\>\<pl\>
 ^.<sent>$ ^tabagismo<n><m><sg>$	. \@Tabagismo\<n\>\<sg\>
-^.<sent>$ ^tabù<n><m><sp>$	. \@Tabù\<n\>\<sp\>
 ^.<sent>$ ^tagliola<n><f><pl>$	. \@Tagliola\<n\>\<pl\>
 ^.<sent>$ ^tagliola<n><f><sg>$	. \@Tagliola\<n\>\<sg\>
 ^.<sent>$ ^tailandese<n><mf><pl>$	. #Tailandés\<n\>\<pl\>
 ^.<sent>$ ^tailandese<n><mf><sg>$	. #Tailandés\<n\>\<sg\>
-^.<sent>$ ^tandem<n><m><sp>$	. \@Tandem\<n\>\<sp\>
 ^.<sent>$ ^tangente<n><f><pl>$	. \@Tangente\<n\>\<pl\>
 ^.<sent>$ ^tangente<n><f><sg>$	. \@Tangente\<n\>\<sg\>
 ^.<sent>$ ^tanto<n><m><pl>$	. \@Tanto\<n\>\<pl\>
@@ -2506,9 +2426,6 @@
 ^.<sent>$ ^tattico<n><f><sg>$	. \@Tattico\<n\>\<sg\>
 ^.<sent>$ ^taverna<n><f><pl>$	. \@Taverna\<n\>\<pl\>
 ^.<sent>$ ^taverna<n><f><sg>$	. \@Taverna\<n\>\<sg\>
-^.<sent>$ ^tenacità<n><f><sp>$	. \@Tenacità\<n\>\<sp\>
-^.<sent>$ ^fax<n><m><sp>$	. \@Fax\<n\>\<sp\>
-^.<sent>$ ^ficus<n><m><sp>$	. \@Ficus\<n\>\<sp\>
 ^.<sent>$ ^televisore<n><m><pl>$	. \@Televisore\<n\>\<pl\>
 ^.<sent>$ ^televisore<n><m><sg>$	. \@Televisore\<n\>\<sg\>
 ^.<sent>$ ^temperino<n><m><pl>$	. \@Temperino\<n\>\<pl\>
@@ -2543,8 +2460,6 @@
 ^.<sent>$ ^tossicodipendenza<n><f><sg>$	. \@Tossicodipendenza\<n\>\<sg\>
 ^.<sent>$ ^tossicomane<n><mf><pl>$	. \@Tossicomane\<n\>\<pl\>
 ^.<sent>$ ^tossicomane<n><mf><sg>$	. \@Tossicomane\<n\>\<sg\>
-^.<sent>$ ^totalità<n><f><sp>$	. \@Totalità\<n\>\<sp\>
-^.<sent>$ ^totocalcio<n><m><sp>$	. \@Totocalcio\<n\>\<sp\>
 ^.<sent>$ ^traghetto<n><m><pl>$	. \@Traghetto\<n\>\<pl\>
 ^.<sent>$ ^traghetto<n><m><sg>$	. \@Traghetto\<n\>\<sg\>
 ^.<sent>$ ^tramite<n><m><pl>$	. \@Tramite\<n\>\<pl\>
@@ -2564,7 +2479,6 @@
 ^.<sent>$ ^ubicazione<n><f><sg>$	. \@Ubicazione\<n\>\<sg\>
 ^.<sent>$ ^ufficiale<n><m><pl>$	. \@Ufficiale\<n\>\<pl\>
 ^.<sent>$ ^ufficiale<n><m><sg>$	. \@Ufficiale\<n\>\<sg\>
-^.<sent>$ ^ufo<n><m><sp>$	. \@Ufo\<n\>\<sp\>
 ^.<sent>$ ^ulivo<n><m><pl>$	. \@Ulivo\<n\>\<pl\>
 ^.<sent>$ ^ulivo<n><m><sg>$	. \@Ulivo\<n\>\<sg\>
 ^.<sent>$ ^urbanistica<n><f><sg>$	. \@Urbanistica\<n\>\<sg\>
@@ -2601,7 +2515,6 @@
 ^.<sent>$ ^ventilatore<n><m><sg>$	. \@Ventilatore\<n\>\<sg\>
 ^.<sent>$ ^verbale<n><m><pl>$	. \@Verbale\<n\>\<pl\>
 ^.<sent>$ ^verbale<n><m><sg>$	. \@Verbale\<n\>\<sg\>
-^.<sent>$ ^verginità<n><f><sp>$	. \@Verginità\<n\>\<sp\>
 ^.<sent>$ ^vescica<n><f><sg>$	. \@Vescica\<n\>\<sg\>
 ^.<sent>$ ^vescica<n><f><pl>$	. \@Vescica\<n\>\<pl\>
 ^.<sent>$ ^vespa<n><f><pl>$	. \@Vespa\<n\>\<pl\>
@@ -2624,7 +2537,6 @@
 ^.<sent>$ ^viaggiatore<n><f><sg>$	. \@Viaggiatore\<n\>\<sg\>
 ^.<sent>$ ^vicinato<n><m><pl>$	. \@Vicinato\<n\>\<pl\>
 ^.<sent>$ ^vicinato<n><m><sg>$	. \@Vicinato\<n\>\<sg\>
-^.<sent>$ ^videoconsole<n><f><sp>$	. \@Videoconsole\<n\>\<sp\>
 ^.<sent>$ ^videogioco<n><m><pl>$	. \@Videogioco\<n\>\<pl\>
 ^.<sent>$ ^videogioco<n><m><sg>$	. \@Videogioco\<n\>\<sg\>
 ^.<sent>$ ^vigneto<n><m><pl>$	. \@Vigneto\<n\>\<pl\>
@@ -2638,7 +2550,6 @@
 ^.<sent>$ ^vipera<n><f><pl>$	. \@Vipera\<n\>\<pl\>
 ^.<sent>$ ^vipera<n><f><sg>$	. \@Vipera\<n\>\<sg\>
 ^.<sent>$ ^virgolette<n><f><pl>$	. \@Virgolette\<n\>\<pl\>
-^.<sent>$ ^viscosità<n><f><sp>$	. \@Viscosità\<n\>\<sp\>
 ^.<sent>$ ^viso<n><m><pl>$	. \@Viso\<n\>\<pl\>
 ^.<sent>$ ^viso<n><m><sg>$	. \@Viso\<n\>\<sg\>
 ^.<sent>$ ^visuale<n><f><pl>$	. \@Visuale\<n\>\<pl\>
@@ -2657,7 +2568,6 @@
 ^.<sent>$ ^volto<n><m><sg>$	. \@Volto\<n\>\<sg\>
 ^.<sent>$ ^xenofobia<n><f><pl>$	. \@Xenofobia\<n\>\<pl\>
 ^.<sent>$ ^xenofobia<n><f><sg>$	. \@Xenofobia\<n\>\<sg\>
-^.<sent>$ ^yacht<n><m><sp>$	. \@Yacht\<n\>\<sp\>
 ^.<sent>$ ^yogurt<n><m><sp>$	. #Yoghourt\<n\>
 ^.<sent>$ ^zafferano<n><m><pl>$	. \@Zafferano\<n\>\<pl\>
 ^.<sent>$ ^zafferano<n><m><sg>$	. \@Zafferano\<n\>\<sg\>
@@ -2674,7 +2584,6 @@
 ^.<sent>$ ^allergologia<n><f><sg>$	. \@Allergologia\<n\>\<sg\>
 ^.<sent>$ ^basilico<n><m><pl>$	. \@Basilico\<n\>\<pl\>
 ^.<sent>$ ^basilico<n><m><sg>$	. \@Basilico\<n\>\<sg\>
-^.<sent>$ ^bestialità<n><f><sp>$	. \@Bestialità\<n\>\<sp\>
 ^.<sent>$ ^oculista<n><m><pl>$	. \@Oculista\<n\>\<pl\>
 ^.<sent>$ ^oculista<n><m><sg>$	. \@Oculista\<n\>\<sg\>
 ^.<sent>$ ^oculista<n><f><sg>$	. \@Oculista\<n\>\<sg\>
@@ -2685,11 +2594,9 @@
 ^.<sent>$ ^apprendista<n><m><sg>$	. \@Apprendista\<n\>\<sg\>
 ^.<sent>$ ^apprendista<n><f><sg>$	. \@Apprendista\<n\>\<sg\>
 ^.<sent>$ ^apprendista<n><f><pl>$	. \@Apprendista\<n\>\<pl\>
-^.<sent>$ ^autenticità<n><f><sp>$	. \@Autenticità\<n\>\<sp\>
 ^.<sent>$ ^terme<n><f><sp>$	. \@Terme\<n\>\<sp\>
 ^.<sent>$ ^buono<n><m><pl>$	. \@Buono\<n\>\<pl\>
 ^.<sent>$ ^buono<n><m><sg>$	. \@Buono\<n\>\<sg\>
-^.<sent>$ ^bigné<n><m><sp>$	. \@Bigné\<n\>\<sp\>
 ^.<sent>$ ^sopracciglio<n><m><pl>$	. #Eyebrow\<n\>
 ^.<sent>$ ^sopracciglio<n><m><sg>$	. #Eyebrow\<n\>
 ^.<sent>$ ^collettivo<n><m><pl>$	. \@Collettivo\<n\>\<pl\>
@@ -3732,134 +3639,13 @@
 ^.<sent>$ ^visualizzazione<n><f><sg>$	. \@Visualizzazione\<n\>\<sg\>
 ^.<sent>$ ^votazione<n><f><pl>$	. \@Votazione\<n\>\<pl\>
 ^.<sent>$ ^votazione<n><f><sg>$	. \@Votazione\<n\>\<sg\>
-^.<sent>$ ^accessibilità<n><f><sp>$	. \@Accessibilità\<n\>\<sp\>
-^.<sent>$ ^affidabilità<n><f><sp>$	. \@Affidabilità\<n\>\<sp\>
-^.<sent>$ ^antichità<n><f><sp>$	. \@Antichità\<n\>\<sp\>
-^.<sent>$ ^applicabilità<n><f><sp>$	. \@Applicabilità\<n\>\<sp\>
-^.<sent>$ ^atrocità<n><f><sp>$	. \@Atrocità\<n\>\<sp\>
-^.<sent>$ ^biodiversità<n><f><sp>$	. \@Biodiversità\<n\>\<sp\>
-^.<sent>$ ^brutalità<n><f><sp>$	. \@Brutalità\<n\>\<sp\>
-^.<sent>$ ^cardinalità<n><f><sp>$	. \@Cardinalità\<n\>\<sp\>
-^.<sent>$ ^cattività<n><f><sp>$	. \@Cattività\<n\>\<sp\>
-^.<sent>$ ^causalità<n><f><sp>$	. \@Causalità\<n\>\<sp\>
-^.<sent>$ ^centralità<n><f><sp>$	. \@Centralità\<n\>\<sp\>
-^.<sent>$ ^collettività<n><f><sp>$	. \@Collettività\<n\>\<sp\>
-^.<sent>$ ^comicità<n><f><sp>$	. \@Comicità\<n\>\<sp\>
-^.<sent>$ ^comodità<n><f><sp>$	. \@Comodità\<n\>\<sp\>
-^.<sent>$ ^compatibilità<n><f><sp>$	. \@Compatibilità\<n\>\<sp\>
-^.<sent>$ ^complessità<n><f><sp>$	. \@Complessità\<n\>\<sp\>
-^.<sent>$ ^complicità<n><f><sp>$	. \@Complicità\<n\>\<sp\>
-^.<sent>$ ^conducibilità<n><f><sp>$	. \@Conducibilità\<n\>\<sp\>
+^.<sent>$ ^antichità<n><f><sp>$	. #Antique\<n\>\<sg\>
 ^.<sent>$ ^conflittualità<n><f><sp>$	. \@Conflittualità\<n\>\<sp\>
-^.<sent>$ ^continuità<n><f><sp>$	. \@Continuità\<n\>\<sp\>
-^.<sent>$ ^convertibilità<n><f><sp>$	. \@Convertibilità\<n\>\<sp\>
-^.<sent>$ ^credibilità<n><f><sp>$	. \@Credibilità\<n\>\<sp\>
-^.<sent>$ ^criminalità<n><f><sp>$	. \@Criminalità\<n\>\<sp\>
-^.<sent>$ ^curiosità<n><f><sp>$	. \@Curiosità\<n\>\<sp\>
-^.<sent>$ ^disabilità<n><f><sp>$	. \@Disabilità\<n\>\<sp\>
-^.<sent>$ ^discontinuità<n><f><sp>$	. \@Discontinuità\<n\>\<sp\>
-^.<sent>$ ^disparità<n><f><sp>$	. \@Disparità\<n\>\<sp\>
-^.<sent>$ ^economicità<n><f><sp>$	. \@Economicità\<n\>\<sp\>
-^.<sent>$ ^esiguità<n><f><sp>$	. \@Esiguità\<n\>\<sp\>
-^.<sent>$ ^eventualità<n><f><sp>$	. \@Eventualità\<n\>\<sp\>
-^.<sent>$ ^fattibilità<n><f><sp>$	. \@Fattibilità\<n\>\<sp\>
-^.<sent>$ ^fertilità<n><f><sp>$	. \@Fertilità\<n\>\<sp\>
-^.<sent>$ ^festività<n><f><sp>$	. \@Festività\<n\>\<sp\>
-^.<sent>$ ^feudalità<n><f><sp>$	. \@Feudalità\<n\>\<sp\>
-^.<sent>$ ^finalità<n><f><sp>$	. \@Finalità\<n\>\<sp\>
-^.<sent>$ ^flessibilità<n><f><sp>$	. \@Flessibilità\<n\>\<sp\>
-^.<sent>$ ^funzionalità<n><f><sp>$	. \@Funzionalità\<n\>\<sp\>
-^.<sent>$ ^generalità<n><f><sp>$	. \@Generalità\<n\>\<sp\>
-^.<sent>$ ^gratuità<n><f><sp>$	. \@Gratuità\<n\>\<sp\>
-^.<sent>$ ^imparzialità<n><f><sp>$	. \@Imparzialità\<n\>\<sp\>
-^.<sent>$ ^impossibilità<n><f><sp>$	. \@Impossibilità\<n\>\<sp\>
-^.<sent>$ ^impurità<n><f><sp>$	. \@Impurità\<n\>\<sp\>
-^.<sent>$ ^incapacità<n><f><sp>$	. \@Incapacità\<n\>\<sp\>
-^.<sent>$ ^incompatibilità<n><f><sp>$	. \@Incompatibilità\<n\>\<sp\>
-^.<sent>$ ^individualità<n><f><sp>$	. \@Individualità\<n\>\<sp\>
-^.<sent>$ ^instabilità<n><f><sp>$	. \@Instabilità\<n\>\<sp\>
-^.<sent>$ ^integrità<n><f><sp>$	. \@Integrità\<n\>\<sp\>
-^.<sent>$ ^intimità<n><f><sp>$	. \@Intimità\<n\>\<sp\>
-^.<sent>$ ^irregolarità<n><f><sp>$	. \@Irregolarità\<n\>\<sp\>
-^.<sent>$ ^legalità<n><f><sp>$	. \@Legalità\<n\>\<sp\>
-^.<sent>$ ^legittimità<n><f><sp>$	. \@Legittimità\<n\>\<sp\>
-^.<sent>$ ^lucidità<n><f><sp>$	. \@Lucidità\<n\>\<sp\>
-^.<sent>$ ^mentalità<n><f><sp>$	. \@Mentalità\<n\>\<sp\>
-^.<sent>$ ^mobilità<n><f><sp>$	. \@Mobilità\<n\>\<sp\>
-^.<sent>$ ^modalità<n><f><sp>$	. \@Modalità\<n\>\<sp\>
-^.<sent>$ ^molteplicità<n><f><sp>$	. \@Molteplicità\<n\>\<sp\>
-^.<sent>$ ^mondanità<n><f><sp>$	. \@Mondanità\<n\>\<sp\>
-^.<sent>$ ^municipalità<n><f><sp>$	. \@Municipalità\<n\>\<sp\>
-^.<sent>$ ^natalità<n><f><sp>$	. \@Natalità\<n\>\<sp\>
-^.<sent>$ ^nazionalità<n><f><sp>$	. \@Nazionalità\<n\>\<sp\>
-^.<sent>$ ^nebulosità<n><f><sp>$	. \@Nebulosità\<n\>\<sp\>
-^.<sent>$ ^neutralità<n><f><sp>$	. \@Neutralità\<n\>\<sp\>
-^.<sent>$ ^novità<n><f><sp>$	. \@Novità\<n\>\<sp\>
-^.<sent>$ ^omogeneità<n><f><sp>$	. \@Omogeneità\<n\>\<sp\>
-^.<sent>$ ^operatività<n><f><sp>$	. \@Operatività\<n\>\<sp\>
-^.<sent>$ ^opportunità<n><f><sp>$	. \@Opportunità\<n\>\<sp\>
-^.<sent>$ ^originalità<n><f><sp>$	. \@Originalità\<n\>\<sp\>
-^.<sent>$ ^ospitalità<n><f><sp>$	. \@Ospitalità\<n\>\<sp\>
-^.<sent>$ ^ostilità<n><f><sp>$	. \@Ostilità\<n\>\<sp\>
-^.<sent>$ ^parità<n><f><sp>$	. \@Parità\<n\>\<sp\>
-^.<sent>$ ^particolarità<n><f><sp>$	. \@Particolarità\<n\>\<sp\>
-^.<sent>$ ^paternità<n><f><sp>$	. \@Paternità\<n\>\<sp\>
-^.<sent>$ ^peculiarità<n><f><sp>$	. \@Peculiarità\<n\>\<sp\>
-^.<sent>$ ^penalità<n><f><sp>$	. \@Penalità\<n\>\<sp\>
 ^.<sent>$ ^penitenziario<n><m><pl>$	. \@Penitenziario\<n\>\<pl\>
 ^.<sent>$ ^penitenziario<n><m><sg>$	. \@Penitenziario\<n\>\<sg\>
-^.<sent>$ ^pericolosità<n><f><sp>$	. \@Pericolosità\<n\>\<sp\>
-^.<sent>$ ^periodicità<n><f><sp>$	. \@Periodicità\<n\>\<sp\>
-^.<sent>$ ^permeabilità<n><f><sp>$	. \@Permeabilità\<n\>\<sp\>
-^.<sent>$ ^perplessità<n><f><sp>$	. \@Perplessità\<n\>\<sp\>
-^.<sent>$ ^piovosità<n><f><sp>$	. \@Piovosità\<n\>\<sp\>
-^.<sent>$ ^pluralità<n><f><sp>$	. \@Pluralità\<n\>\<sp\>
-^.<sent>$ ^polarità<n><f><sp>$	. \@Polarità\<n\>\<sp\>
-^.<sent>$ ^potenzialità<n><f><sp>$	. \@Potenzialità\<n\>\<sp\>
-^.<sent>$ ^praticità<n><f><sp>$	. \@Praticità\<n\>\<sp\>
-^.<sent>$ ^profondità<n><f><sp>$	. \@Profondità\<n\>\<sp\>
-^.<sent>$ ^proporzionalità<n><f><sp>$	. \@Proporzionalità\<n\>\<sp\>
-^.<sent>$ ^prossimità<n><f><sp>$	. \@Prossimità\<n\>\<sp\>
-^.<sent>$ ^radioattività<n><f><sp>$	. \@Radioattività\<n\>\<sp\>
-^.<sent>$ ^rapidità<n><f><sp>$	. \@Rapidità\<n\>\<sp\>
-^.<sent>$ ^reattività<n><f><sp>$	. \@Reattività\<n\>\<sp\>
-^.<sent>$ ^regolarità<n><f><sp>$	. \@Regolarità\<n\>\<sp\>
-^.<sent>$ ^relatività<n><f><sp>$	. \@Relatività\<n\>\<sp\>
-^.<sent>$ ^religiosità<n><f><sp>$	. \@Religiosità\<n\>\<sp\>
-^.<sent>$ ^ricettività<n><f><sp>$	. \@Ricettività\<n\>\<sp\>
-^.<sent>$ ^rigidità<n><f><sp>$	. \@Rigidità\<n\>\<sp\>
-^.<sent>$ ^rivalità<n><f><sp>$	. \@Rivalità\<n\>\<sp\>
-^.<sent>$ ^salinità<n><f><sp>$	. \@Salinità\<n\>\<sp\>
 ^.<sent>$ ^scientificità<n><f><sp>$	. \@Scientificità\<n\>\<sp\>
-^.<sent>$ ^semplicità<n><f><sp>$	. \@Semplicità\<n\>\<sp\>
-^.<sent>$ ^sensibilità<n><f><sp>$	. \@Sensibilità\<n\>\<sp\>
-^.<sent>$ ^sensualità<n><f><sp>$	. \@Sensualità\<n\>\<sp\>
-^.<sent>$ ^sessualità<n><f><sp>$	. \@Sessualità\<n\>\<sp\>
-^.<sent>$ ^soggettività<n><f><sp>$	. \@Soggettività\<n\>\<sp\>
-^.<sent>$ ^solennità<n><f><sp>$	. \@Solennità\<n\>\<sp\>
-^.<sent>$ ^sommità<n><f><sp>$	. \@Sommità\<n\>\<sp\>
-^.<sent>$ ^sonorità<n><f><sp>$	. \@Sonorità\<n\>\<sp\>
-^.<sent>$ ^specialità<n><f><sp>$	. \@Specialità\<n\>\<sp\>
-^.<sent>$ ^specificità<n><f><sp>$	. \@Specificità\<n\>\<sp\>
-^.<sent>$ ^spettacolarità<n><f><sp>$	. \@Spettacolarità\<n\>\<sp\>
-^.<sent>$ ^superiorità<n><f><sp>$	. \@Superiorità\<n\>\<sp\>
-^.<sent>$ ^tonalità<n><f><sp>$	. \@Tonalità\<n\>\<sp\>
-^.<sent>$ ^tossicità<n><f><sp>$	. \@Tossicità\<n\>\<sp\>
-^.<sent>$ ^tranquillità<n><f><sp>$	. \@Tranquillità\<n\>\<sp\>
-^.<sent>$ ^unanimità<n><f><sp>$	. \@Unanimità\<n\>\<sp\>
-^.<sent>$ ^unicità<n><f><sp>$	. \@Unicità\<n\>\<sp\>
-^.<sent>$ ^uniformità<n><f><sp>$	. \@Uniformità\<n\>\<sp\>
-^.<sent>$ ^utilità<n><f><sp>$	. \@Utilità\<n\>\<sp\>
-^.<sent>$ ^vacuità<n><f><sp>$	. \@Vacuità\<n\>\<sp\>
-^.<sent>$ ^validità<n><f><sp>$	. \@Validità\<n\>\<sp\>
-^.<sent>$ ^vastità<n><f><sp>$	. \@Vastità\<n\>\<sp\>
+^.<sent>$ ^spettacolarità<n><f><sp>$	. #Spectacular\<n\>\<sg\>
 ^.<sent>$ ^velleità<n><f><sp>$	. \@Velleità\<n\>\<sp\>
-^.<sent>$ ^veridicità<n><f><sp>$	. \@Veridicità\<n\>\<sp\>
-^.<sent>$ ^versatilità<n><f><sp>$	. \@Versatilità\<n\>\<sp\>
-^.<sent>$ ^viabilità<n><f><sp>$	. \@Viabilità\<n\>\<sp\>
-^.<sent>$ ^vitalità<n><f><sp>$	. \@Vitalità\<n\>\<sp\>
-^.<sent>$ ^vivacità<n><f><sp>$	. \@Vivacità\<n\>\<sp\>
-^.<sent>$ ^vulnerabilità<n><f><sp>$	. \@Vulnerabilità\<n\>\<sp\>
 ^.<sent>$ ^accoglienza<n><f><pl>$	. \@Accoglienza\<n\>\<pl\>
 ^.<sent>$ ^accoglienza<n><f><sg>$	. \@Accoglienza\<n\>\<sg\>
 ^.<sent>$ ^assistenza<n><f><pl>$	. \@Assistenza\<n\>\<pl\>
@@ -5421,32 +5207,22 @@
 ^.<sent>$ ^potere<vbmod><pii><p2><sg>$	. You \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><ifi><p2><sg>$	. You \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><ifi><p3><pl>$	. They \@potere\<vbmod\>\<past\>
-^.<sent>$ ^potere<vbmod><cni><p1><pl>$	. We would \@potere\<vbmod\>\<inf\>
+^.<sent>$ ^potere<vbmod><cni><p1><pl>$	. We \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><ifi><p3><sg>$	. It \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><prs><p3><pl>$	. They \@potere\<vbmod\>\<pres\>
-^.<sent>$ ^potere<vbmod><cni><p1><sg>$	. I would \@potere\<vbmod\>\<inf\>
+^.<sent>$ ^potere<vbmod><cni><p1><sg>$	. I \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><imp><p1><pl>$	. \@Potere\<vbmod\>\<pres\>
 ^.<sent>$ ^potere<vbmod><prs><p3><sg>$	. It \@potere\<vbmod\>\<pres\>
-^.<sent>$ ^potere<vbmod><cni><p2><pl>$	. You would \@potere\<vbmod\>\<inf\>
-^.<sent>$ ^potere<vbmod><cni><p2><sg>$	. You would \@potere\<vbmod\>\<inf\>
+^.<sent>$ ^potere<vbmod><cni><p2><pl>$	. You \@potere\<vbmod\>\<past\>
+^.<sent>$ ^potere<vbmod><cni><p2><sg>$	. You \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><pri><p3><pl>$	. They \@potere\<vbmod\>\<pres\>
-^.<sent>$ ^potere<vbmod><cni><p3><pl>$	. They would \@potere\<vbmod\>\<inf\>
-^.<sent>$ ^potere<vbmod><pp><f><pl>$	. \@Potere\<vbmod\>\<pp\>
-^.<sent>$ ^potere<vbmod><cni><p3><sg>$	. It would \@potere\<vbmod\>\<inf\>
-^.<sent>$ ^potere<vbmod><pri><p3><sg>$	. It \@potere\<vbmod\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^potere<vbmod><fti><p1><pl>$	. We will \@potere\<vbmod\>\<inf\>
-^.<sent>$ ^potere<vbmod><pp><m><pl>$	. \@Potere\<vbmod\>\<pp\>
-^.<sent>$ ^potere<vbmod><pp><f><sg>$	. \@Potere\<vbmod\>\<pp\>
-^.<sent>$ ^potere<vbmod><pp><m><sg>$	. \@Potere\<vbmod\>\<pp\>
+^.<sent>$ ^potere<vbmod><cni><p3><pl>$	. They \@potere\<vbmod\>\<past\>
+^.<sent>$ ^potere<vbmod><cni><p3><sg>$	. It \@potere\<vbmod\>\<past\>
+^.<sent>$ ^potere<vbmod><pri><p3><sg>$	. It \@potere\<vbmod\>\<pres\>
 ^.<sent>$ ^potere<vbmod><pis><p1><pl>$	. We \@potere\<vbmod\>\<past\>
-^.<sent>$ ^potere<vbmod><fti><p1><sg>$	. I will \@potere\<vbmod\>\<inf\>
 ^.<sent>$ ^potere<vbmod><pis><p1><sg>$	. I \@potere\<vbmod\>\<past\>
-^.<sent>$ ^potere<vbmod><fti><p2><pl>$	. You will \@potere\<vbmod\>\<inf\>
 ^.<sent>$ ^potere<vbmod><pis><p2><pl>$	. You \@potere\<vbmod\>\<past\>
-^.<sent>$ ^potere<vbmod><fti><p2><sg>$	. You will \@potere\<vbmod\>\<inf\>
 ^.<sent>$ ^potere<vbmod><pis><p2><sg>$	. You \@potere\<vbmod\>\<past\>
-^.<sent>$ ^potere<vbmod><fti><p3><pl>$	. They will \@potere\<vbmod\>\<inf\>
-^.<sent>$ ^potere<vbmod><fti><p3><sg>$	. It will \@potere\<vbmod\>\<inf\>
 ^.<sent>$ ^potere<vbmod><pii><p1><pl>$	. We \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><ifi><p1><pl>$	. We \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><pii><p1><sg>$	. I \@potere\<vbmod\>\<past\>
@@ -5459,7 +5235,6 @@
 ^.<sent>$ ^potere<vbmod><prs><p2><pl>$	. You \@potere\<vbmod\>\<pres\>
 ^.<sent>$ ^potere<vbmod><prs><p2><sg>$	. You \@potere\<vbmod\>\<pres\>
 ^.<sent>$ ^potere<vbmod><pii><p3><pl>$	. They \@potere\<vbmod\>\<past\>
-^.<sent>$ ^potere<vbmod><ger>$	. \@Potere\<vbmod\>\<ger\>
 ^.<sent>$ ^potere<vbmod><pii><p3><sg>$	. It \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><pri><p1><pl>$	. We \@potere\<vbmod\>\<pres\>
 ^.<sent>$ ^potere<vbmod><pri><p1><sg>$	. I \@potere\<vbmod\>\<pres\>
@@ -5468,8 +5243,7 @@
 ^.<sent>$ ^potere<vbmod><inf>$	. \@Potere\<vbmod\>\<inf\>
 ^.<sent>$ ^potere<vbmod><ifi><p3><pl>$	. They \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><pis><p3><pl>$	. They \@potere\<vbmod\>\<past\>
-^.<sent>$ ^potere<vbmod><cni><p3><pl>$	. They would \@potere\<vbmod\>\<inf\>
-^.<sent>$ ^potere<vbmod><fti><p3><pl>$	. They will \@potere\<vbmod\>\<inf\>
+^.<sent>$ ^potere<vbmod><cni><p3><pl>$	. They \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><pii><p3><pl>$	. They \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><prs><p3><pl>$	. They \@potere\<vbmod\>\<pres\>
 ^.<sent>$ ^potere<vbmod><inf>$	. \@Potere\<vbmod\>\<inf\>
@@ -5480,32 +5254,22 @@
 ^.<sent>$ ^potere<vbmod><pii><p2><sg>$	. You \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><ifi><p2><sg>$	. You \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><ifi><p3><pl>$	. They \@potere\<vbmod\>\<past\>
-^.<sent>$ ^potere<vbmod><cni><p1><pl>$	. We would \@potere\<vbmod\>\<inf\>
+^.<sent>$ ^potere<vbmod><cni><p1><pl>$	. We \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><ifi><p3><sg>$	. It \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><prs><p3><pl>$	. They \@potere\<vbmod\>\<pres\>
-^.<sent>$ ^potere<vbmod><cni><p1><sg>$	. I would \@potere\<vbmod\>\<inf\>
+^.<sent>$ ^potere<vbmod><cni><p1><sg>$	. I \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><imp><p1><pl>$	. \@Potere\<vbmod\>\<pres\>
 ^.<sent>$ ^potere<vbmod><prs><p3><sg>$	. It \@potere\<vbmod\>\<pres\>
-^.<sent>$ ^potere<vbmod><cni><p2><pl>$	. You would \@potere\<vbmod\>\<inf\>
-^.<sent>$ ^potere<vbmod><cni><p2><sg>$	. You would \@potere\<vbmod\>\<inf\>
+^.<sent>$ ^potere<vbmod><cni><p2><pl>$	. You \@potere\<vbmod\>\<past\>
+^.<sent>$ ^potere<vbmod><cni><p2><sg>$	. You \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><pri><p3><pl>$	. They \@potere\<vbmod\>\<pres\>
-^.<sent>$ ^potere<vbmod><cni><p3><pl>$	. They would \@potere\<vbmod\>\<inf\>
-^.<sent>$ ^potere<vbmod><pp><f><pl>$	. \@Potere\<vbmod\>\<pp\>
-^.<sent>$ ^potere<vbmod><cni><p3><sg>$	. It would \@potere\<vbmod\>\<inf\>
-^.<sent>$ ^potere<vbmod><pri><p3><sg>$	. It \@potere\<vbmod\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^potere<vbmod><fti><p1><pl>$	. We will \@potere\<vbmod\>\<inf\>
-^.<sent>$ ^potere<vbmod><pp><m><pl>$	. \@Potere\<vbmod\>\<pp\>
-^.<sent>$ ^potere<vbmod><pp><f><sg>$	. \@Potere\<vbmod\>\<pp\>
-^.<sent>$ ^potere<vbmod><pp><m><sg>$	. \@Potere\<vbmod\>\<pp\>
+^.<sent>$ ^potere<vbmod><cni><p3><pl>$	. They \@potere\<vbmod\>\<past\>
+^.<sent>$ ^potere<vbmod><cni><p3><sg>$	. It \@potere\<vbmod\>\<past\>
+^.<sent>$ ^potere<vbmod><pri><p3><sg>$	. It \@potere\<vbmod\>\<pres\>
 ^.<sent>$ ^potere<vbmod><pis><p1><pl>$	. We \@potere\<vbmod\>\<past\>
-^.<sent>$ ^potere<vbmod><fti><p1><sg>$	. I will \@potere\<vbmod\>\<inf\>
 ^.<sent>$ ^potere<vbmod><pis><p1><sg>$	. I \@potere\<vbmod\>\<past\>
-^.<sent>$ ^potere<vbmod><fti><p2><pl>$	. You will \@potere\<vbmod\>\<inf\>
 ^.<sent>$ ^potere<vbmod><pis><p2><pl>$	. You \@potere\<vbmod\>\<past\>
-^.<sent>$ ^potere<vbmod><fti><p2><sg>$	. You will \@potere\<vbmod\>\<inf\>
 ^.<sent>$ ^potere<vbmod><pis><p2><sg>$	. You \@potere\<vbmod\>\<past\>
-^.<sent>$ ^potere<vbmod><fti><p3><pl>$	. They will \@potere\<vbmod\>\<inf\>
-^.<sent>$ ^potere<vbmod><fti><p3><sg>$	. It will \@potere\<vbmod\>\<inf\>
 ^.<sent>$ ^potere<vbmod><pii><p1><pl>$	. We \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><ifi><p1><pl>$	. We \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><pii><p1><sg>$	. I \@potere\<vbmod\>\<past\>
@@ -5518,7 +5282,6 @@
 ^.<sent>$ ^potere<vbmod><prs><p2><pl>$	. You \@potere\<vbmod\>\<pres\>
 ^.<sent>$ ^potere<vbmod><prs><p2><sg>$	. You \@potere\<vbmod\>\<pres\>
 ^.<sent>$ ^potere<vbmod><pii><p3><pl>$	. They \@potere\<vbmod\>\<past\>
-^.<sent>$ ^potere<vbmod><ger>$	. \@Potere\<vbmod\>\<ger\>
 ^.<sent>$ ^potere<vbmod><pii><p3><sg>$	. It \@potere\<vbmod\>\<past\>
 ^.<sent>$ ^potere<vbmod><pri><p1><pl>$	. We \@potere\<vbmod\>\<pres\>
 ^.<sent>$ ^potere<vbmod><pri><p1><sg>$	. I \@potere\<vbmod\>\<pres\>
@@ -36158,7 +35921,7 @@
 ^.<sent>$ ^prima di<pr>$ ^il<det><def><m><sg>$	. \@Prima di\<pr\> the
 ^.<sent>$ ^prima di<pr>$ ^il<det><def><m><sg>$	. \@Prima di\<pr\> the
 ^.<sent>$ ^circa<pr>$	. \@Circa\<pr\>
-^.<sent>$ ^come<pr>$	. #As a\<pr\>\/as\<pr\>\/like\<pr\>\/such as\<pr\>
+^.<sent>$ ^come<pr>$	. #Like\<pr\>\/such as\<pr\>
 ^.<sent>$ ^dentro<pr>$	. #Inside\<pr\>\/within\<pr\>
 ^.<sent>$ ^durante<pr>$	. #During\<pr\>\/over\<pr\>\/for\<pr\>\/throughout\<pr\>
 ^.<sent>$ ^eccetto<pr>$	. \@Eccetto\<pr\>
@@ -36194,7 +35957,6 @@
 ^.<sent>$ ^per altri<pr>$	. \@Per altri\<pr\>
 ^.<sent>$ ^presso<pr>$	. \@Presso\<pr\>
 ^.<sent>$ ^secondo<pr>$	. #According\<pr\>\/according to\<pr\>
-^.<sent>$ ^senza<pr>$	. #Without\<pr\>\/with no\<pr\>
 ^.<sent>$ ^sopra<pr>$	. #About\<pr\>\/on\<pr\>\/over\<pr\>\/at about\<pr\>
 ^.<sent>$ ^tra<pr>$	. #Amid\<pr\>\/among\<pr\>\/amongst\<pr\>\/between\<pr\>
 ^.<sent>$ ^tranne<pr>$	. #Except\<pr\>\/but\<pr\>\/except for\<pr\>
@@ -36263,7 +36025,6 @@
 ^.<sent>$ ^bonariamente<adv>$	. \@Bonariamente\<adv\>
 ^.<sent>$ ^casualmente<adv>$	. \@Casualmente\<adv\>
 ^.<sent>$ ^chiaro<adv>$	. \@Chiaro\<adv\>
-^.<sent>$ ^come<adv>$	. #How\<adv\>
 ^.<sent>$ ^come conseguenza<adv>$	. \@Come conseguenza\<adv\>
 ^.<sent>$ ^come di consueto<adv>$	. \@Come di consueto\<adv\>
 ^.<sent>$ ^come finora<adv>$	. \@Come finora\<adv\>
@@ -36630,22 +36391,15 @@
 ^.<sent>$ ^vivamente<adv>$	. \@Vivamente\<adv\>
 ^.<sent>$ ^volutamente<adv>$	. \@Volutamente\<adv\>
 ^.<sent>$ ^intenzionalmente<adv>$	. \@Intenzionalmente\<adv\>
-^.<sent>$ ^a<pr>$ ^il<det><def><mf><sg>$	. #At\<pr\>\/to\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\> #the\<sg\>
-^.<sent>$ ^con<pr>$ ^il<det><def><mf><sg>$	. With #the\<sg\>
+^.<sent>$ ^a<pr>$ ^il<det><def><mf><sg>$	. #At\<pr\>\/to\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\> the
 ^.<sent>$ ^da<pr>$	. #From\<pr\>\/since\<pr\>
-^.<sent>$ ^da<pr>$ ^il<det><def><mf><sg>$	. #From\<pr\>\/since\<pr\> #the\<sg\>
-^.<sent>$ ^di<pr>$ ^il<det><def><mf><sg>$	. Of #the\<sg\>
-^.<sent>$ ^il<det><def><mf><sg>$	. #The\<sg\>
+^.<sent>$ ^da<pr>$ ^il<det><def><mf><sg>$	. #From\<pr\>\/since\<pr\> the
 ^.<sent>$ ^ne<prn><pro><adv>$	. \@ne\<prn\>\<pro\>\<adv\>
-^.<sent>$ ^in<pr>$ ^il<det><def><mf><sg>$	. #In\<pr\>\/at\<pr\>\/on\<pr\> #the\<sg\>
+^.<sent>$ ^in<pr>$ ^il<det><def><mf><sg>$	. #In\<pr\>\/at\<pr\>\/on\<pr\> the
 ^.<sent>$ ^quello<det><dem><mf><sg>$	. #That\<sg\>
 ^.<sent>$ ^questo<det><dem><mf><sg>$	. #This\<sg\>
-^.<sent>$ ^senza<pr>$	. #Without\<pr\>\/with no\<pr\>
 ^.<sent>$ ^sotto<pr>$	. #Under\<pr\>\/below\<pr\>
-^.<sent>$ ^su<pr>$ ^il<det><def><mf><sg>$	. On #the\<sg\>
 ^.<sent>$ ^cento<num><mf><sp>$	. \@Cento\<num\>\<mf\>\<sp\>
-^.<sent>$ ^come<adv>$	. #How\<adv\>
-^.<sent>$ ^dove<adv>$	. #Where\<adv\>
 ^.<sent>$ ^!]<sent>$	. \@!\]\<sent\>
 ==========================
 ALTRES ERRADES DE BILING�E
