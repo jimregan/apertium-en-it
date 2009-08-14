@@ -10830,9 +10830,9 @@
 	forced 'null' restriction
       default
     -->
-    <e>
+    <e r="RL">
       <p>
-        <l>albatross<s n="n"/></l> 
+        <l>albatross<s n="n"/><s n="ND"/></l> 
         <r>albatros<s n="n"/><s n="m"/><s n="sp"/></r> 
       </p>
     </e>
@@ -84907,6 +84907,14 @@
         <r>il<s n="det"/><s n="def"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
+
+    <e lm="LR"><p><l>diverse<s n="adj"/></l><r>diverso<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e lm="LR"><p><l>different<s n="adj"/></l><r>diverso<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e lm="RL"><p><l>different<s n="adj"/></l><r>diverso<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="RL"><p><l>different<s n="adj"/></l><r>diverso<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="LR"><p><l>several<s n="adj"/></l><r>diverso<s n="det"/><s n="ind"/><s n="GD"/><s n="GD"/></r></p></e>
+    <e lm="RL"><p><l>several<s n="adj"/></l><r>diverso<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="RL"><p><l>several<s n="adj"/></l><r>diverso<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
 
     <!-- 
 	forced 'null' restriction
