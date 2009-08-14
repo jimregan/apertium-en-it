@@ -156,16 +156,28 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
       <cat-item lemma="hay" tags="vblex.*"/>
     </def-cat>
 
-  <def-cat n="estar">
-      <cat-item lemma="estar" tags="vblex.cni.*"/>
-      <cat-item lemma="estar" tags="vblex.fti.*"/>
-      <cat-item lemma="estar" tags="vblex.ifi.*"/>
-      <cat-item lemma="estar" tags="vblex.imp.*"/>
-      <cat-item lemma="estar" tags="vblex.pii.*"/>
-      <cat-item lemma="estar" tags="vblex.pis.*"/>
-      <cat-item lemma="estar" tags="vblex.fts.*"/>
-      <cat-item lemma="estar" tags="vblex.pri.*"/>
-      <cat-item lemma="estar" tags="vblex.prs.*"/>
+  <def-cat n="essere">
+      <cat-item lemma="essere" tags="vblex.cni.*"/>
+      <cat-item lemma="essere" tags="vblex.fti.*"/>
+      <cat-item lemma="essere" tags="vblex.ifi.*"/>
+      <cat-item lemma="essere" tags="vblex.imp.*"/>
+      <cat-item lemma="essere" tags="vblex.pii.*"/>
+      <cat-item lemma="essere" tags="vblex.pis.*"/>
+      <cat-item lemma="essere" tags="vblex.fts.*"/>
+      <cat-item lemma="essere" tags="vblex.pri.*"/>
+      <cat-item lemma="essere" tags="vblex.prs.*"/>
+  </def-cat>
+
+  <def-cat n="stare">
+      <cat-item lemma="stare" tags="vbser.cni.*"/>
+      <cat-item lemma="stare" tags="vbser.fti.*"/>
+      <cat-item lemma="stare" tags="vbser.ifi.*"/>
+      <cat-item lemma="stare" tags="vbser.imp.*"/>
+      <cat-item lemma="stare" tags="vbser.pii.*"/>
+      <cat-item lemma="stare" tags="vbser.pis.*"/>
+      <cat-item lemma="stare" tags="vbser.fts.*"/>
+      <cat-item lemma="stare" tags="vbser.pri.*"/>
+      <cat-item lemma="stare" tags="vbser.prs.*"/>
   </def-cat>
 
     <def-cat n="verbcj">
@@ -6998,9 +7010,9 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 
 
 
-  <rule comment="REGLA: ESTAR + GER (estan estudiant)">
+  <rule comment="REGLA: STARE + GER (sto leggendo)">
       <pattern>
-	<pattern-item n="estar"/>
+	<pattern-item n="stare"/>
 	<pattern-item n="ger"/>
       </pattern>
       <action>    	
@@ -7066,7 +7078,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
  <rule comment="REGLA: PROCLÍTIC ESTAR GER (els estan buscant) mireia falta els negatius i amb dos proclítics">
       <pattern>
 	<pattern-item n="pro"/>
-	<pattern-item n="estar"/>
+	<pattern-item n="stare"/>
 	<pattern-item n="ger"/>
       </pattern>
       <action>
