@@ -831,6 +831,12 @@
         <r>statunitense<s n="adj"/></r> 
       </p>
     </e>
+    <e><p><l>full<s n="adj"/><s n="sint"/></l><r>pieno<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>hovercraft<s n="n"/><s n="ND"/></l><r>hovercraft<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>hovercraft<s n="n"/><s n="sg"/></l><r>hovercraft<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>hovercraft<s n="n"/><s n="pl"/></l><r>hovercraft<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>hovercraft<s n="n"/></l><r>aeroscivolante<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>eel<s n="n"/></l><r>anguilla<s n="n"/><s n="f"/></r></p></e>
 
     <!-- 
 	forced 'null' restriction
@@ -41235,7 +41241,7 @@
 	forced 'null' restriction
       ND3-0
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>from<s n="pr"/></l> 
         <r>da<s n="pr"/></r> 
@@ -61820,17 +61826,6 @@
       <p>
         <l>of<s n="pr"/></l> 
         <r>di<s n="pr"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND3-0
-    -->
-    <e>
-      <p>
-        <l>of<s n="pr"/></l> 
-        <r>da<s n="pr"/></r> 
       </p>
     </e>
 
