@@ -296,21 +296,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Adam<s n="np"/></l> 
-        <r>Adam<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-66
-    -->
     <e>
       <p>
         <l>Adams<s n="np"/><s n="cog"/><s n="sg"/></l> 
@@ -483,21 +468,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Albert<s n="np"/></l> 
-        <r>Albert<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-7
-    -->
     <e>
       <p>
         <l>Alberto<s n="np"/><s n="ant"/></l> 
@@ -505,21 +475,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Alberto<s n="np"/></l> 
-        <r>Alberto<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-66
-    -->
     <e>
       <p>
         <l>Albiol<s n="np"/><s n="cog"/><s n="sg"/></l> 
@@ -797,21 +752,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Andrea<s n="np"/></l> 
-        <r>Andrea<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-7
-    -->
     <e>
       <p>
         <l>Andrés<s n="np"/><s n="ant"/></l> 
@@ -843,17 +783,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Anna<s n="np"/></l> 
-        <r>Anna<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-7
     -->
     <e>
@@ -863,24 +792,9 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
     <e>
       <p>
-        <l>Antonio<s n="np"/></l> 
-        <r>Antonio<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-7
-    -->
-    <e>
-      <p>
-        <l>Apolo<s n="np"/><s n="ant"/></l> 
+        <l>Apollo<s n="np"/><s n="ant"/></l> 
         <r>Apollo<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -2117,21 +2031,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Diego<s n="np"/></l> 
-        <r>Diego<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-66
-    -->
     <e>
       <p>
         <l>Disney<s n="np"/><s n="cog"/><s n="sg"/></l> 
@@ -2238,21 +2137,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Elena<s n="np"/></l> 
-        <r>Elena<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-7
-    -->
     <e>
       <p>
         <l>Elia<s n="np"/><s n="ant"/></l> 
@@ -2293,21 +2177,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Elizabeth<s n="np"/></l> 
-        <r>Elizabeth<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-7
-    -->
     <e>
       <p>
         <l>Elías<s n="np"/><s n="ant"/></l> 
@@ -2392,21 +2261,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Enrique<s n="np"/></l> 
-        <r>Enrique<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-7
-    -->
     <e>
       <p>
         <l>Ernesto<s n="np"/><s n="ant"/></l> 
@@ -2491,21 +2345,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Eva<s n="np"/></l> 
-        <r>Eva<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
     <e>
       <p>
         <l>Extremadura<s n="np"/><s n="loc"/></l> 
@@ -2528,10 +2367,10 @@
 	forced 'null' restriction
       ND-44
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>February<s n="n"/></l> 
-        <r>febbraio<s n="n"/><s n="m"/></r> 
+        <l>February<s n="n"/><s n="pl"/></l> 
+        <r>febbraio<s n="n"/><s n="m"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -2601,25 +2440,10 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Fernando<s n="np"/></l> 
-        <r>Fernando<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
     <e>
       <p>
         <l>Fernández<s n="np"/><s n="cog"/><s n="sg"/></l> 
-        <r>Fernández<s n="np"/><s n="ant"/></r> 
+        <r>Fernández<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2627,10 +2451,10 @@
 	forced 'null' restriction
       default
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>Fernández<s n="np"/><s n="cog"/><s n="pl"/></l> 
-        <r>Fernández<s n="np"/><s n="ant"/></r> 
+        <r>Fernández<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -5135,28 +4959,19 @@
 	forced 'null' restriction
       ND-44
     -->
-    <e>
-      <p>
-        <l>May<s n="n"/></l> 
-        <r>maggio<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'LR' restriction
-      ND-21
-    -->
     <e r="LR">
       <p>
         <l>May<s n="n"/><s n="sg"/></l> 
         <r>maggio<s n="n"/><s n="m"/><s n="sp"/></r> 
       </p>
     </e>
+    <e r="LR">
+      <p>
+        <l>May<s n="n"/><s n="pl"/></l> 
+        <r>maggio<s n="n"/><s n="m"/><s n="sp"/></r> 
+      </p>
+    </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-7
-    -->
     <e>
       <p>
         <l>Maya<s n="np"/><s n="ant"/></l> 
@@ -5219,21 +5034,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Michael<s n="np"/></l> 
-        <r>Michael<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-7
-    -->
     <e>
       <p>
         <l>Michele<s n="np"/><s n="ant"/></l> 
@@ -5271,17 +5071,6 @@
       <p>
         <l>Miguel<s n="np"/><s n="ant"/></l> 
         <r>Miguel<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Miguel<s n="np"/></l> 
-        <r>Miguel<s n="np"/></r> 
       </p>
     </e>
 
@@ -5927,9 +5716,9 @@
 	forced 'null' restriction
       ND-7
     -->
-    <e>
+    <e r="RL">
       <p>
-        <l>París<s n="np"/><s n="ant"/></l> 
+        <l>Paris<s n="np"/><s n="ant"/></l> 
         <r>Parigi<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -5964,17 +5753,6 @@
       <p>
         <l>Paula<s n="np"/><s n="ant"/></l> 
         <r>Paula<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Paula<s n="np"/></l> 
-        <r>Paula<s n="np"/></r> 
       </p>
     </e>
 
@@ -6077,21 +5855,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Peter<s n="np"/></l> 
-        <r>Peter<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-7
-    -->
     <e>
       <p>
         <l>Petra<s n="np"/><s n="ant"/></l> 
@@ -6314,17 +6077,6 @@
     -->
     <e>
       <p>
-        <l>Rafael<s n="np"/></l> 
-        <r>Rafael<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
         <l>Ramón<s n="np"/><s n="ant"/></l> 
         <r>Ramón<s n="np"/><s n="ant"/></r> 
       </p>
@@ -6338,17 +6090,6 @@
       <p>
         <l>Raquel<s n="np"/><s n="ant"/></l> 
         <r>Raquel<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Raquel<s n="np"/></l> 
-        <r>Raquel<s n="np"/></r> 
       </p>
     </e>
 
@@ -6398,17 +6139,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Richard<s n="np"/></l> 
-        <r>Richard<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-7
     -->
     <e>
@@ -6420,34 +6150,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Robert<s n="np"/></l> 
-        <r>Robert<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-7
     -->
     <e>
       <p>
         <l>Roberto<s n="np"/><s n="ant"/></l> 
         <r>Roberto<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Roberto<s n="np"/></l> 
-        <r>Roberto<s n="np"/></r> 
       </p>
     </e>
 
@@ -6596,17 +6304,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Salvador<s n="np"/></l> 
-        <r>Salvador<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-7
     -->
     <e>
@@ -6616,21 +6313,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Samuel<s n="np"/></l> 
-        <r>Samuel<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-7
-    -->
     <e>
       <p>
         <l>Samuele<s n="np"/><s n="ant"/></l> 
@@ -6649,21 +6331,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Santiago<s n="np"/></l> 
-        <r>Santiago<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-7
-    -->
     <e>
       <p>
         <l>Sara<s n="np"/><s n="ant"/></l> 
@@ -6671,21 +6338,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Sara<s n="np"/></l> 
-        <r>Sara<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-0
-    -->
     <e>
       <p>
         <l>Saturday<s n="n"/></l> 
@@ -7155,21 +6807,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Thomas<s n="np"/></l> 
-        <r>Thomas<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'LR' restriction
-      ND-21
-    -->
     <e r="LR">
       <p>
         <l>Thursday<s n="n"/><s n="sg"/></l> 
@@ -7188,11 +6825,7 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
+    <e r="RL">
       <p>
         <l>Thursday<s n="n"/><s n="ND"/></l> 
         <r>giovedì<s n="n"/><s n="m"/><s n="sp"/></r> 
@@ -7595,21 +7228,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>William<s n="np"/></l> 
-        <r>William<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
     <e>
       <p>
         <l>York<s n="np"/><s n="loc"/></l> 
@@ -12202,17 +11820,6 @@
       <p>
         <l>anglo-saxon<s n="adj"/></l> 
         <r>anglosassone<s n="adj"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-41
-    -->
-    <e>
-      <p>
-        <l>anglosajón<s n="n"/></l> 
-        <r>anglosassone<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
