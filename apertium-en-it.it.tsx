@@ -1,43 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tagger name="italian">
 <tagset>
-  <def-label name="PARAPR" closed="true">
-    <tags-item lemma="para" tags="pr"/>
-  </def-label>
-  <def-label name="PARAVBPRI" closed="true">
-    <tags-item lemma="parar" tags="vblex.pri.p3.sg"/>
-  </def-label>
-  <def-label name="PARAVBIMP" closed="true">
-    <tags-item lemma="parar" tags="vblex.imp.p2.sg"/>
-  </def-label>
   <def-label name="QUECNJ" closed="true">
     <tags-item lemma="che" tags="cnjsub"/>
   </def-label>
   <def-label name="QUEREL" closed="true">
     <tags-item lemma="che" tags="rel.*"/>
-  </def-label>
-  <def-label name="COMOPR" closed="true">
-    <tags-item lemma="como" tags="pr"/>
-  </def-label>
-  <def-label name="COMOREL" closed="true">
-    <tags-item lemma="como" tags="rel.adv"/>
-  </def-label>
-  <def-label name="COMOVB" closed="true">
-    <tags-item lemma="comer" tags="vblex.pri.p1.sg"/>
-  </def-label>
-  <def-label name="MASADV" closed="true">
-    <tags-item lemma="más" tags="adv"/>
-    <tags-item lemma="menos" tags="adv"/>
-  </def-label>
-  <def-label name="MASADJ" closed="true">
-    <tags-item lemma="más" tags="adj.*"/>
-    <tags-item lemma="menos" tags="adj.*"/>
-  </def-label>
-  <def-label name="MASNP" closed="true">
-    <tags-item lemma="Más" tags="np.ant"/>
-  </def-label>
-  <def-label name="ALGOADV" closed="true">
-    <tags-item lemma="algo" tags="adv"/>
   </def-label>
   <def-label name="ACRONIMOM">
     <tags-item tags="n.acr.m.*"/>
@@ -97,13 +65,14 @@
     <tags-item tags="ij"/>
   </def-label> 
   <def-label name="ANTROPONIM">
-    <tags-item tags="np.ant"/>
+    <tags-item tags="np.ant.*"/>
+    <tags-item tags="np.cog.*"/>
   </def-label>
   <def-label name="TOPONIM">
-    <tags-item tags="np.loc"/>
+    <tags-item tags="np.loc.*"/>
   </def-label>
   <def-label name="NPALTRES">
-    <tags-item tags="np.al"/>
+    <tags-item tags="np.al.*"/>
   </def-label>
   <def-label name="NUM" closed="true">
     <tags-item tags="num.*"/>
@@ -142,8 +111,11 @@
   <def-label name="VLEXGER">
     <tags-item tags="vblex.ger"/>
   </def-label>
-  <def-label name="VLEXPARTPI">
-    <tags-item tags="vblex.pp.*"/>
+  <def-label name="VLEXPARTPI_SG">
+    <tags-item tags="vblex.pp.*.sg"/>
+  </def-label>
+  <def-label name="VLEXPARTPI_PL">
+    <tags-item tags="vblex.pp.*.pl"/>
   </def-label>
   <def-label name="VLEXPFCI">
     <tags-item tags="vblex.pri.*"/>
@@ -171,10 +143,15 @@
   <def-label name="VSERPARTPI" closed="true">
     <tags-item tags="vbser.pp.*"/>
   </def-label>
-  <def-label name="VSERPFCI" closed="true">
-    <tags-item tags="vbser.pri.*"/>
-    <tags-item tags="vbser.fti.*"/>
-    <tags-item tags="vbser.cni.*"/>
+  <def-label name="VSERPFCI_SG" closed="true">
+    <tags-item tags="vbser.pri.*.sg"/>
+    <tags-item tags="vbser.fti.*.sg"/>
+    <tags-item tags="vbser.cni.*.sg"/>
+  </def-label>
+  <def-label name="VSERPFCI_PL" closed="true">
+    <tags-item tags="vbser.pri.*.pl"/>
+    <tags-item tags="vbser.fti.*.pl"/>
+    <tags-item tags="vbser.cni.*.pl"/>
   </def-label>
   <def-label name="VSERIPI" closed="true">
     <tags-item tags="vbser.pii.*"/>
@@ -425,18 +402,6 @@
 </tagset>
 
   <forbid>
-    <label-sequence>
-      <label-item label="ALGOADV"/>
-      <label-item label="QUECNJ"/>
-    </label-sequence>
-    <label-sequence>
-      <label-item label="ALGOADV"/>
-      <label-item label="PREADV"/>
-    </label-sequence>
-    <label-sequence>
-      <label-item label="ALGOADV"/>
-      <label-item label="ADV"/>
-    </label-sequence>
     <label-sequence>
       <label-item label="PREP"/>
       <label-item label="PREP"/>
@@ -1499,7 +1464,11 @@
       <label-item label="PRREL"/>
     </label-sequence>
     <label-sequence>
-      <label-item label="VLEXPARTPI"/>
+      <label-item label="VLEXPARTPI_SG"/>
+      <label-item label="PRREL"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="VLEXPARTPI_PL"/>
       <label-item label="PRREL"/>
     </label-sequence>
     <label-sequence>
@@ -1546,10 +1515,6 @@
       <label-item label="VMODALINF"/>
       <label-item label="NOMMF"/>
     </label-sequence>
-    <label-sequence>
-      <label-item label="VMODALINF"/>
-      <label-item label="MASADJ"/>
-    </label-sequence>
      <label-sequence>
       <label-item label="VMODALINF"/>
       <label-item label="ADJM"/>
@@ -1594,10 +1559,6 @@
       <label-item label="VMODALGER"/>
       <label-item label="NOMMF"/>
     </label-sequence>
-    <label-sequence>
-      <label-item label="VMODALGER"/>
-      <label-item label="MASADJ"/>
-    </label-sequence>
      <label-sequence>
       <label-item label="VMODALGER"/>
       <label-item label="ADJM"/>
@@ -1641,10 +1602,6 @@
     <label-sequence>
       <label-item label="VMODALPARTPI"/>
       <label-item label="NOMMF"/>
-    </label-sequence>
-    <label-sequence>
-      <label-item label="VMODALPARTPI"/>
-      <label-item label="MASADJ"/>
     </label-sequence>
      <label-sequence>
       <label-item label="VMODALPARTPI"/>
@@ -1690,10 +1647,6 @@
       <label-item label="VMODALPFCI"/>
       <label-item label="NOMMF"/>
     </label-sequence>
-    <label-sequence>
-      <label-item label="VMODALPFCI"/>
-      <label-item label="MASADJ"/>
-    </label-sequence>
      <label-sequence>
       <label-item label="VMODALPFCI"/>
       <label-item label="ADJM"/>
@@ -1737,10 +1690,6 @@
     <label-sequence>
       <label-item label="VMODALIPI"/>
       <label-item label="NOMMF"/>
-    </label-sequence>
-    <label-sequence>
-      <label-item label="VMODALIPI"/>
-      <label-item label="MASADJ"/>
     </label-sequence>
      <label-sequence>
       <label-item label="VMODALIPI"/>
@@ -1786,10 +1735,6 @@
       <label-item label="VMODALSUBJ"/>
       <label-item label="NOMMF"/>
     </label-sequence>
-    <label-sequence>
-      <label-item label="VMODALSUBJ"/>
-      <label-item label="MASADJ"/>
-    </label-sequence>
      <label-sequence>
       <label-item label="VMODALSUBJ"/>
       <label-item label="ADJM"/>
@@ -1834,10 +1779,6 @@
       <label-item label="VMODALIMP"/>
       <label-item label="NOMMF"/>
     </label-sequence>
-    <label-sequence>
-      <label-item label="VMODALIMP"/>
-      <label-item label="MASADJ"/>
-    </label-sequence>
      <label-sequence>
       <label-item label="VMODALIMP"/>
       <label-item label="ADJM"/>
@@ -1853,6 +1794,14 @@
     <label-sequence>
       <label-item label="VMODALIMP"/>
       <label-item label="ADJPOS"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="VSERPFCI_PL"/>
+      <label-item label="VLEXPARTPI_SG"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="VSERPFCI_SG"/>
+      <label-item label="VLEXPARTPI_PL"/>
     </label-sequence>
 
   </forbid>
