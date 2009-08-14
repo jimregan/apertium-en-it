@@ -26,6 +26,7 @@
 /configure.ac -text
 dev/cross-model-en-es-it.xml -text
 dev/cross.xml -text
+dev/errors-it-en.superficial -text
 dev/patterns-not-detected.xml -text
 /en-it-unsupervised.make -text
 /en-it.prob -text svneol=unset#unset
