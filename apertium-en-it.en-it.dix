@@ -776,8 +776,8 @@
     -->
     <e>
       <p>
-        <l>Anna<s n="np"/><s n="ant"/></l> 
-        <r>Anna<s n="np"/><s n="ant"/></r> 
+        <l>Anna<s n="np"/></l> 
+        <r>Anna<s n="np"/></r> 
       </p>
     </e>
 
@@ -794,8 +794,8 @@
 
     <e>
       <p>
-        <l>Apollo<s n="np"/><s n="ant"/></l> 
-        <r>Apollo<s n="np"/><s n="ant"/></r> 
+        <l>Apollo<s n="np"/></l> 
+        <r>Apollo<s n="np"/></r> 
       </p>
     </e>
 
@@ -3646,21 +3646,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Jack<s n="np"/></l> 
-        <r>Jack<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-7
-    -->
     <e>
       <p>
         <l>Jackson<s n="np"/><s n="ant"/></l> 
@@ -3734,21 +3719,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>James<s n="np"/></l> 
-        <r>James<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'RL' restriction
-      ND-20
-    -->
     <e r="RL">
       <p>
         <l>January<s n="n"/><s n="ND"/></l> 
@@ -3899,21 +3869,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>John<s n="np"/></l> 
-        <r>John<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
     <e>
       <p>
         <l>Jordan<s n="np"/><s n="loc"/></l> 
@@ -4735,21 +4690,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Maria<s n="np"/></l> 
-        <r>Maria<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
     <e>
       <p>
         <l>Maria<s n="np"/></l> 
@@ -4779,21 +4719,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Mario<s n="np"/></l> 
-        <r>Mario<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-18
-    -->
     <e>
       <p>
         <l>Mars<s n="np"/><s n="loc"/></l> 
@@ -6326,8 +6251,26 @@
     -->
     <e>
       <p>
-        <l>Santiago<s n="np"/><s n="ant"/></l> 
-        <r>Santiago<s n="np"/><s n="ant"/></r> 
+        <l>Santiago<s n="np"/></l> 
+        <r>Santiago<s n="np"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>Saturn<s n="np"/></l> 
+        <r>Saturno<s n="np"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>Satan<s n="np"/></l> 
+        <r>Satana<s n="np"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>Sarajevo<s n="np"/><s n="loc"/></l> 
+        <r>Sarajevo<s n="np"/><s n="loc"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -10312,17 +10255,6 @@
       <p>
         <l>albanian<s n="adj"/></l> 
         <r>albanese<s n="adj"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-41
-    -->
-    <e>
-      <p>
-        <l>albanés<s n="n"/></l> 
-        <r>albanese<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -84465,9 +84397,9 @@
     <e lm="LR"><p><l>different<s n="adj"/></l><r>diverso<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
     <e lm="RL"><p><l>different<s n="adj"/></l><r>diverso<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="RL"><p><l>different<s n="adj"/></l><r>diverso<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="LR"><p><l>several<s n="adj"/></l><r>diverso<s n="det"/><s n="ind"/><s n="GD"/><s n="GD"/></r></p></e>
-    <e lm="RL"><p><l>several<s n="adj"/></l><r>diverso<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
-    <e lm="RL"><p><l>several<s n="adj"/></l><r>diverso<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="LR"><p><l>several<s n="det"/><s n="ind"/><s n="pl"/></l><r>diverso<s n="det"/><s n="ind"/><s n="GD"/><s n="GD"/></r></p></e>
+    <e lm="RL"><p><l>several<s n="det"/><s n="ind"/><s n="pl"/></l><r>diverso<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="RL"><p><l>several<s n="det"/><s n="ind"/><s n="pl"/></l><r>diverso<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
 
     <!-- 
 	forced 'null' restriction
