@@ -262,9 +262,9 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
       <cat-item tags="preadv"/>
     </def-cat>
     <def-cat n="más">
-      <cat-item lemma="más" tags="adv"/>
-      <cat-item lemma="más" tags="preadv"/>
-      <cat-item lemma="más" tags="det.*"/>
+      <cat-item lemma="più" tags="adv"/>
+      <cat-item lemma="più" tags="preadv"/>
+      <cat-item lemma="più" tags="det.*"/>
     </def-cat>
 
     <def-cat n="adv">
@@ -280,9 +280,9 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
     </def-cat>
 
     <def-cat n="cnjcoo">
-      <cat-item lemma="y" tags="cnjcoo"/>
+      <cat-item lemma="e" tags="cnjcoo"/>
       <cat-item lemma="o" tags="cnjcoo"/>
-      <cat-item lemma="pero" tags="cnjcoo"/>
+      <cat-item lemma="ma" tags="cnjcoo"/>
     </def-cat>
 
      <def-cat n="cnj">
@@ -293,11 +293,11 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 
 
     <def-cat n="para">
-      <cat-item lemma="para" tags="pr"/>
+      <cat-item lemma="per" tags="pr"/>
     </def-cat>
 
     <def-cat n="de">
-      <cat-item lemma="de" tags="pr"/>
+      <cat-item lemma="di" tags="pr"/>
     </def-cat>
 
     <def-cat n="rel">
@@ -305,11 +305,11 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
     </def-cat>
 
     <def-cat n="el_que">
-      <cat-item lemma="el que" tags="rel.nn.*"/>
+      <cat-item lemma="quello che" tags="rel.nn.*"/>
     </def-cat>
 
     <def-cat n="haber_que">
-      <cat-item lemma="haber que" tags="vbmod.*"/>
+      <cat-item lemma="avere que" tags="vbmod.*"/>
     </def-cat>
 
     <def-cat n="sent">
