@@ -22177,8 +22177,8 @@
     -->
     <e>
       <p>
-        <l>chess<s n="n"/></l> 
-        <r>scacchi<s n="n"/><s n="sp"/></r> 
+        <l>chess<s n="n"/><s n="sg"/></l> 
+        <r>scacchi<s n="n"/><s n="m"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -58382,6 +58382,12 @@
         <r>automobilismo<s n="n"/><s n="m"/></r> 
       </p>
     </e>
+    <e r="RL">
+      <p>
+        <l>motoring<s n="n"/><s n="sg"/></l> 
+        <r>automobilismo<s n="n"/><s n="m"/><s n="pl"/></r> 
+      </p>
+    </e>
 
     <!-- 
 	forced 'null' restriction
@@ -61147,6 +61153,12 @@
       <p>
         <l>occident<s n="n"/></l> 
         <r>occidente<s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+    <e r="RL">
+      <p>
+        <l>occident<s n="n"/><s n="sg"/></l> 
+        <r>occidente<s n="n"/><s n="m"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -78965,6 +78977,18 @@
     -->
     <e>
       <p>
+        <l>solfège<s n="n"/></l> 
+        <r>solfeggio<s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+    <e r="RL">
+      <p>
+        <l>solfège<s n="n"/><s n="sg"/></l> 
+        <r>solfeggio<s n="n"/><s n="m"/><s n="pl"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
         <l>sol-fa<s n="n"/></l> 
         <r>solfeggio<s n="n"/><s n="m"/></r> 
       </p>
@@ -82762,6 +82786,12 @@
       <p>
         <l>swimming<s n="n"/></l> 
         <r>nuoto<s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+    <e r="RL">
+      <p>
+        <l>swimming<s n="n"/><s n="sg"/></l> 
+        <r>nuoto<s n="n"/><s n="m"/><s n="pl"/></r> 
       </p>
     </e>
 
