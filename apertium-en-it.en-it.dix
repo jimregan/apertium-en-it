@@ -13812,28 +13812,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-16
-    -->
-    <e>
-      <p>
-        <l>artist<s n="n"/></l> 
-        <r>artista<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND3-1
-    -->
-    <e>
-      <p>
-        <l>artist<s n="n"/></l> 
-        <r>artista<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-5
     -->
     <e>
@@ -76401,7 +76379,7 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>server<s n="n"/></l> 
         <r>servo<s n="n"/><s n="m"/></r> 
@@ -93687,5 +93665,62 @@
     <e><p><l>universally<s n="adv"/></l><r>universalmente<s n="adv"/></r></p></e>
     <e><p><l>usually<s n="adv"/></l><r>usualmente<s n="adv"/></r></p></e>
     <e><p><l>quickly<s n="adv"/></l><r>velocemente<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>anaemic<s n="n"/></l><r>anemico<s n="n"/></r></p></e>
+    <e r="LR"><p><l>anaemic<s n="n"/></l><r>anemico<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Asturian<s n="n"/></l><r>asturiano<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Asturian<s n="n"/></l><r>asturiano<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>bastard<s n="n"/></l><r>bastardo<s n="n"/></r></p></e>
+    <e r="LR"><p><l>bastard<s n="n"/></l><r>bastardo<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>beneficiary<s n="n"/></l><r>beneficiario<s n="n"/></r></p></e>
+    <e r="LR"><p><l>beneficiary<s n="n"/></l><r>beneficiario<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>benefactor<s n="n"/></l><r>benefattore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>benefactor<s n="n"/></l><r>benefattore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Bolivian<s n="n"/></l><r>boliviano<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Bolivian<s n="n"/></l><r>boliviano<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Castilian<s n="n"/></l><r>castigliano<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Castilian<s n="n"/></l><r>castigliano<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Celt<s n="n"/></l><r>celtico<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Celt<s n="n"/></l><r>celtico<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Dr.<s n="n"/></l><r>Dr<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Dr.<s n="n"/></l><r>Dr<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Iraqi<s n="n"/></l><r>iracheno<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Iraqi<s n="n"/></l><r>iracheno<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Iranian<s n="n"/></l><r>iraniano<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Iranian<s n="n"/></l><r>iraniano<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>warrior<s n="n"/></l><r>guerriero<s n="n"/></r></p></e>
+    <e r="LR"><p><l>warrior<s n="n"/></l><r>guerriero<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>guerrilla<s n="n"/></l><r>guerrigliero<s n="n"/></r></p></e>
+    <e r="LR"><p><l>guerrilla<s n="n"/></l><r>guerrigliero<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>sweetheart<s n="n"/></l><r>innamorato<s n="n"/></r></p></e>
+    <e r="LR"><p><l>sweetheart<s n="n"/></l><r>innamorato<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Martian<s n="n"/></l><r>marziano<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Martian<s n="n"/></l><r>marziano<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>misanthropy<s n="n"/></l><r>misantropia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>misanthropic<s n="n"/></l><r>misantropo<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>misanthrope<s n="n"/></l><r>misantropo<s n="n"/></r></p></e>
+    <e r="LR"><p><l>misanthrope<s n="n"/></l><r>misantropo<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>missionary<s n="n"/></l><r>missionario<s n="n"/></r></p></e>
+    <e r="LR"><p><l>missionary<s n="n"/></l><r>missionario<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Moldavian<s n="n"/></l><r>moldavo<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Moldavian<s n="n"/></l><r>moldavo<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>omnivorous<s n="adj"/></l><r>onnivoro<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>omnivore<s n="n"/></l><r>onnivoro<s n="n"/></r></p></e>
+    <e r="LR"><p><l>omnivore<s n="n"/></l><r>onnivoro<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>opponent<s n="n"/></l><r>oppositore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>opponent<s n="n"/></l><r>oppositore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>pagan<s n="n"/></l><r>pagano<s n="n"/></r></p></e>
+    <e r="LR"><p><l>pagan<s n="n"/></l><r>pagano<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Pakistani<s n="n"/></l><r>pakistano<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Pakistani<s n="n"/></l><r>pakistano<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>bearer<s n="n"/></l><r>portatore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>bearer<s n="n"/></l><r>portatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>servant<s n="n"/></l><r>servo<s n="n"/></r></p></e>
+    <e r="LR"><p><l>servant<s n="n"/></l><r>servo<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>spouse<s n="n"/></l><r>sposo<s n="n"/></r></p></e>
+    <e r="LR"><p><l>spouse<s n="n"/></l><r>sposo<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>vagabond<s n="n"/></l><r>vagabondo<s n="n"/></r></p></e>
+    <e r="LR"><p><l>vagabond<s n="n"/></l><r>vagabondo<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>artist<s n="n"/></l><r>artista<s n="n"/></r></p></e>
+    <e r="LR"><p><l>artist<s n="n"/></l><r>artista<s n="n"/><s n="GD"/></r></p></e>
   </section>
 </dictionary>
