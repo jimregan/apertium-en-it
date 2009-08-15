@@ -25067,6 +25067,23 @@
     <e lm="shit"><i>shit</i><par n="admit__vblex"/>    </e>
     <e lm="wet"><i>wet</i><par n="admit__vblex"/>    </e>
     <e lm="assault"><i>assault</i><par n="accept__vblex"/>    </e>
+    <e lm="anticipate"><i>anticipat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="annihilate"><i>annihilat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="adulterate"><i>adulterat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="allude"><i>allud</i><par n="liv/e__vblex"/>    </e>
+    <e lm="align"><i>align</i><par n="accept__vblex"/>    </e>
+    <e lm="adorn"><i>adorn</i><par n="accept__vblex"/>    </e>
+    <e lm="debit"><i>debit</i><par n="accept__vblex"/>    </e>
+    <e lm="conform"><i>conform</i><par n="accept__vblex"/>    </e>
+    <e lm="consent"><i>consent</i><par n="accept__vblex"/>    </e>
+    <e lm="converse"><i>convers</i><par n="liv/e__vblex"/>    </e>
+    <e lm="culminate"><i>culminat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="decongest"><i>decongest</i><par n="accept__vblex"/>    </e>
+    <e lm="demolish"><i>demolish</i><par n="accept__vblex"/>    </e>
+    <e lm="desist"><i>desist</i><par n="accept__vblex"/>    </e>
+    <e lm="extinguish"><i>extinguish</i><par n="accept__vblex"/>    </e>
+    <e lm="glorify"><i>glorif</i><par n="appl/y__vblex"/>    </e>
+    <e lm="gratify"><i>gratif</i><par n="appl/y__vblex"/>    </e>
     <e lm="bring together"><i>br</i><par n="br/ing__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>together</l><r><g><b/>together</g></r></p></e>
     <e lm="throw off balance"><i>thr</i><par n="bl/ow__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>off<b/>balance</l><r><g><b/>off<b/>balance</g></r></p></e>
     <e lm="knock down"><i>knock</i><par n="accept__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>down</l><r><g><b/>down</g></r></p></e>
@@ -26489,6 +26506,8 @@
     <e lm="annoy" a="ebenimeli"><i>annoy</i><par n="enjoy__vblex"/>    </e>
     <e lm="breach" a="ebenimeli"><i>breach</i><par n="approach__vblex"/>    </e>
     <e lm="be hungry"><par n="/be__vblex"/>      <p>        <l><b/>hungry</l><r><g><b/>hungry</g></r></p></e>
+    <e lm="be dying"><par n="/be__vblex"/>      <p>        <l><b/>dying</l><r><g><b/>dying</g></r></p></e>
+    <e lm="be in decline"><par n="/be__vblex"/>      <p>        <l><b/>in<b/>decline</l><r><g><b/>in<b/>decline</g></r></p></e>
     <e lm="drink like a fish"><i>dr</i><par n="dr/ink__vblex"/>      <p>        <l><b/>like<b/>a<b/>fish</l><r><g><b/>like<b/>a<b/>fish</g></r></p></e>
     <e lm="pay cash"><i>pa</i><par n="pa/y__vblex"/>      <p>        <l><b/>cash</l><r><g><b/>cash</g></r></p></e>
     <e lm="go Dutch">      <i/>      <par n="/go__vblex"/>      <p>        <l><b/>Dutch</l><r><g><b/>Dutch</g></r></p></e>
