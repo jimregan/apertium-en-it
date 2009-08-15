@@ -33760,6 +33760,7 @@
     <e lm="emptiness"><i>emptiness</i><par n="access__n"/></e>
     <e lm="vastness"><i>vastness</i><par n="access__n"/></e>
     <e lm="crêpe"><i>crêpe</i><par n="house__n"/></e>
+    <e lm="crêpe" r="LR"><p><l>crepe</l><r>crêpe</r></p><par n="house__n"/></e>
     <e lm="paella"><i>paella</i><par n="house__n"/></e>
     <e lm="syntax"><i>syntax</i><par n="access__n"/></e>
     <e lm="videoconsole"><i>videoconsole</i><par n="house__n"/></e>
@@ -33794,6 +33795,72 @@
     <e lm="typography"><i>typograph</i><par n="bab/y__n"/></e>
     <e lm="radiography"><i>radiograph</i><par n="bab/y__n"/></e>
     <e lm="narration"><i>narration</i><par n="house__n"/></e>
+    <e lm="Egyptian"><p><l>Egyptian</l><r>egyptian</r></p><par n="house__n"/></e>
+    <e lm="Ecuadorian"><p><l>Ecuadorian</l><r>ecuadorian</r></p><par n="house__n"/></e>
+    <e lm="conservative"><i>conservative</i><par n="house__n"/></e>
+    <e lm="cosmonaut"><i>cosmonaut</i><par n="house__n"/></e>
+    <e lm="cretin"><i>cretin</i><par n="house__n"/></e>
+    <e lm="dementia"><i>dementia</i><par n="house__n"/></e>
+    <e lm="egoist"><i>egoist</i><par n="house__n"/></e>
+    <e lm="epistemology"><i>epistemolog</i><par n="bab/y__n"/></e>
+    <e lm="encephalitis"><i>encephalitis</i><par n="access__n"/></e>
+    <e lm="eucharist"><i>eucharist</i><par n="house__n"/></e>
+    <e lm="evasion"><i>evasion</i><par n="house__n"/></e>
+    <e lm="hunger"><i>hunger</i><par n="house__n"/></e>
+    <e lm="bride"><i>bride</i><par n="house__n"/></e>
+    <e lm="philately"><i>philatel</i><par n="bab/y__n"/></e>
+    <e lm="enchanter"><i>enchanter</i><par n="house__n"/></e>
+    <e lm="interference"><i>interference</i><par n="house__n"/></e>
+    <e lm="hypocrite"><i>hypocrite</i><par n="house__n"/></e>
+    <e lm="Iraqi"><p><l>Iraqi</l><r>iraqi</r></p><par n="house__n"/></e>
+    <e lm="islamist"><i>islamist</i><par n="house__n"/></e>
+    <e lm="lagoon"><i>lagoon</i><par n="house__n"/></e>
+    <e lm="washing machine"><i>washing<b/>machine</i><par n="house__n"/></e>
+    <e lm="magnolia"><i>magnolia</i><par n="house__n"/></e>
+    <e lm="miller"><i>miller</i><par n="house__n"/></e>
+    <e lm="mulatto"><i>mulatto</i><par n="house__n"/></e>
+    <e lm="ammunition"><i>ammunition</i><par n="house__n"/></e>
+    <e lm="mute"><i>mute</i><par n="house__n"/></e>
+    <e lm="nazi"><i>nazi</i><par n="house__n"/></e>
+    <e lm="daughter-in-law"><p><l>daughter-in-law</l><r>daughter-in-law<s n="n"/><s n="sg"/></r></p></e>
+    <e lm="daughter-in-law"><p><l>daughters-in-law</l><r>daughter-in-law<s n="n"/><s n="pl"/></r></p></e>
+    <e lm="omnivore"><i>omnivore</i><par n="house__n"/></e>
+    <e lm="parish"><i>parish</i><par n="access__n"/></e>
+    <e lm="pianist"><i>pianist</i><par n="house__n"/></e>
+    <e lm="proletarian"><i>proletarian</i><par n="house__n"/></e>
+    <e lm="psychiatry"><i>psychiatr</i><par n="bab/y__n"/></e>
+    <e lm="whore"><i>whore</i><par n="house__n"/></e>
+    <e lm="relic"><i>relic</i><par n="house__n"/></e>
+    <e lm="remuneration"><i>remuneration</i><par n="house__n"/></e>
+    <e lm="excommunication"><i>excommunication</i><par n="house__n"/></e>
+    <e lm="sodomy"><i>sodom</i><par n="bab/y__n"/></e>
+    <e lm="tangent"><i>tangent</i><par n="house__n"/></e>
+    <e lm="tavern"><i>tavern</i><par n="house__n"/></e>
+    <e lm="circumnavigation"><i>circumnavigation</i><par n="house__n"/></e>
+    <e lm="coercion"><i>coercion</i><par n="house__n"/></e>
+    <e lm="conscription"><i>conscription</i><par n="house__n"/></e>
+    <e lm="christianisation"><i>christiani</i><par n="globali/sation__n"/></e>
+    <e lm="colourisation"><i>col</i><par n="o_ou"/><i>ri</i><par n="globali/sation__n"/></e>
+    <e lm="decolourisation"><i>decol</i><par n="o_ou"/><i>ri</i><par n="globali/sation__n"/></e>
+    <e lm="demonisation"><i>demoni</i><par n="globali/sation__n"/></e>
+    <e lm="dedication"><i>dedication</i><par n="house__n"/></e>
+    <e lm="demystification"><i>demystification</i><par n="house__n"/></e>
+    <e lm="deprivation"><i>deprivation</i><par n="house__n"/></e>
+    <e lm="deposition"><i>deposition</i><par n="house__n"/></e>
+    <e lm="desalination"><i>desalination</i><par n="house__n"/></e>
+    <e lm="disambiguation"><i>disambiguation</i><par n="house__n"/></e>
+    <e lm="desensitisation"><i>desensiti</i><par n="globali/sation__n"/></e>
+    <e lm="disinformation"><i>disinformation</i><par n="house__n"/></e>
+    <e lm="erudition"><i>erudition</i><par n="house__n"/></e>
+    <e lm="hesitation"><i>hesitation</i><par n="house__n"/></e>
+    <e lm="exhortation"><i>exhortation</i><par n="house__n"/></e>
+    <e lm="evangelisation"><i>evangeli</i><par n="globali/sation__n"/></e>
+    <e lm="fertilisation"><i>fertili</i><par n="globali/sation__n"/></e>
+    <e lm="pregnant woman"><i>pregnant<b/>wom</i><par n="m/an__n"/>    </e>
+    <e lm="decimalisation"><i>decimali</i><par n="globali/sation__n"/></e>
+    <e lm="defragmentation"><i>defragmentation</i><par n="house__n"/></e>
+    <e lm="fortification"><i>fortification</i><par n="house__n"/></e>
+    <e lm="formalisation"><i>formali</i><par n="globali/sation__n"/></e>
   </section>
 
   <section id="apostrophes" type="preblank">

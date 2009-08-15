@@ -8977,7 +8977,7 @@
     -->
     <e>
       <p>
-        <l>adicto<s n="n"/></l> 
+        <l>addict<s n="n"/></l> 
         <r>dipendente<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
@@ -29402,9 +29402,21 @@
 	forced 'null' restriction
       default
     -->
-    <e>
+    <e r="RL">
       <p>
-        <l>delta<s n="n"/></l> 
+        <l>delta<s n="n"/><s n="ND"/></l> 
+        <r>delta<s n="n"/><s n="mf"/><s n="sp"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>delta<s n="n"/><s n="sg"/></l> 
+        <r>delta<s n="n"/><s n="mf"/><s n="sp"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>delta<s n="n"/><s n="pl"/></l> 
         <r>delta<s n="n"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
@@ -37615,13 +37627,21 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
+    <e r="RL">
       <p>
-        <l>farmer<s n="n"/></l> 
+        <l>farmer<s n="n"/><s n="ND"/></l> 
+        <r>labrador<s n="n"/><s n="mf"/><s n="sp"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>farmer<s n="n"/><s n="sg"/></l> 
+        <r>labrador<s n="n"/><s n="mf"/><s n="sp"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>farmer<s n="n"/><s n="pl"/></l> 
         <r>labrador<s n="n"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
@@ -50166,21 +50186,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-41
-    -->
-    <e>
-      <p>
-        <l>irlandés<s n="n"/></l> 
-        <r>irlandese<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-0
-    -->
     <e>
       <p>
         <l>iron<s n="n"/></l> 
@@ -57712,21 +57717,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-1
-    -->
-    <e>
-      <p>
-        <l>mom<s n="n"/></l> 
-        <r>mamma<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-0
-    -->
     <e>
       <p>
         <l>moment<s n="n"/></l> 
@@ -60254,21 +60244,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-41
-    -->
-    <e>
-      <p>
-        <l>noruego<s n="n"/></l> 
-        <r>norvegese<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-50
-    -->
     <e>
       <p>
         <l>norwegian<s n="adj"/></l> 
@@ -83114,21 +83089,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-41
-    -->
-    <e>
-      <p>
-        <l>tailandés<s n="n"/></l> 
-        <r>tailandese<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
     <e c="(walk, picture, break, test, exam, course, look, trip, photograph, photo)">
       <p>
         <l>take<s n="vblex"/></l> 
@@ -86296,21 +86256,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-41
-    -->
-    <e>
-      <p>
-        <l>trabajador<s n="n"/></l> 
-        <r>lavorante<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-10
-    -->
     <e>
       <p>
         <l>trace<s n="n"/></l> 
@@ -93752,7 +93697,8 @@
     <e><p><l>condensation<s n="n"/></l><r>condensazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>conduction<s n="n"/></l><r>conduzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>decolonisation<s n="n"/></l><r>decolonizzazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>decolorisation<s n="n"/></l><r>decolorazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>decolourisation<s n="n"/></l><r>decolorazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>colourisation<s n="n"/></l><r>colorazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>decoration<s n="n"/></l><r>decorazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>deportation<s n="n"/></l><r>deportazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>deposition<s n="n"/></l><r>deposizione<s n="n"/><s n="f"/></r></p></e>
@@ -93856,7 +93802,7 @@
     <e><p><l>fuselage<s n="n"/></l><r>fusoliera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>injustice<s n="n"/></l><r>ingiustizia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hydrophobia<s n="n"/></l><r>idrofobia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>pregnant<s n="n"/></l><r>incinta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pregnant<b/>woman<s n="n"/></l><r>incinta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>interference<s n="n"/></l><r>interferenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lagoon<s n="n"/></l><r>laguna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mum<s n="n"/></l><r>mamma<s n="n"/><s n="f"/></r></p></e>
