@@ -85804,19 +85804,14 @@
     -->
     <e>
       <p>
-        <l>toe<s n="n"/></l> 
-        <r>dito<s n="n"/><s n="m"/><s n="sg"/></r> 
+        <l>toe<s n="n"/><s n="sg"/></l> 
+        <r>dito<g><b/>del<b/>piede</g><s n="n"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
     <e>
       <p>
-        <l>toe<s n="n"/></l> 
-        <r>dito<s n="n"/><s n="f"/><s n="pl"/></r> 
+        <l>toe<s n="n"/><s n="pl"/></l> 
+        <r>dito<g><b/>del<b/>piede</g><s n="n"/><s n="f"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -93392,9 +93387,10 @@
 <e><p><l>brain<s n="n"/></l><r>cervello<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>brain<s n="n"/><s n="pl"/></l><r>cervello<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e><p><l>cybernetics<s n="n"/><s n="sg"/></l><r>cibernetica<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>finger<s n="n"/></l><r>dito<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>finger<s n="n"/><s n="sg"/></l><r>dito<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e><p><l>finger<s n="n"/><s n="pl"/></l><r>dito<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-<e r="LR"><p><l>digit<s n="n"/></l><r>dito<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>digit<s n="n"/><s n="sg"/></l><r>dito<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>digit<s n="n"/><s n="pl"/></l><r>dito<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e><p><l>wall<s n="n"/></l><r>muro<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>wall<s n="n"/><s n="pl"/></l><r>muro<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>wedding<s n="n"/><s n="ND"/></l><r>nozze<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -93423,5 +93419,8 @@
 <e><p><l>hundred<s n="n"/><s n="pl"/></l><r>centinaio<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e><p><l>pair<s n="n"/><s n="sg"/></l><r>paio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e><p><l>pair<s n="n"/><s n="pl"/></l><r>paio<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>index<b/>finger<s n="n"/></l><r>dito<b/>indice<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>little<b/>finger<s n="n"/></l><r>dito<b/>mignolo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>middle<b/>finger<s n="n"/></l><r>dito<b/>medio<s n="n"/><s n="m"/></r></p></e>
   </section>
 </dictionary>
