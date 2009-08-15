@@ -25058,8 +25058,19 @@
     <e lm="bottle"><i>bottl</i><par n="liv/e__vblex"/>    </e>
     <e lm="bounce"><i>bounc</i><par n="liv/e__vblex"/>    </e>
     <e lm="boycott"><i>boycott</i><par n="accept__vblex"/>    </e>
+    <e lm="water"><i>water</i><par n="accept__vblex"/>    </e>
+    <e lm="abound"><i>abound</i><par n="accept__vblex"/>    </e>
+    <e lm="encircle"><i>encircl</i><par n="liv/e__vblex"/>    </e>
+    <e lm="calibrate"><i>calibrat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="tread"><i>tread</i><par n="accept__vblex"/>    </e>
+    <e lm="crap"><i>crap</i><par n="step__vblex"/>    </e>
+    <e lm="shit"><i>shit</i><par n="admit__vblex"/>    </e>
+    <e lm="wet"><i>wet</i><par n="admit__vblex"/>    </e>
+    <e lm="assault"><i>assault</i><par n="accept__vblex"/>    </e>
     <e lm="bring together"><i>br</i><par n="br/ing__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>together</l><r><g><b/>together</g></r></p></e>
     <e lm="throw off balance"><i>thr</i><par n="bl/ow__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>off<b/>balance</l><r><g><b/>off<b/>balance</g></r></p></e>
+    <e lm="knock down"><i>knock</i><par n="accept__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>down</l><r><g><b/>down</g></r></p></e>
+    <e lm="pull down"><i>knock</i><par n="accept__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>down</l><r><g><b/>down</g></r></p></e>
     <e lm="break"><i>br</i><par n="br/eak__vblex"/>    </e>
     <e lm="bring"><i>br</i><par n="br/ing__vblex"/>    </e>
     <e lm="brake"><i>brak</i><par n="liv/e__vblex"/>    </e>
