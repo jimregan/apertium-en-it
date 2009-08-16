@@ -12879,7 +12879,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>apply<g><b/>for</g><s n="vblex"/></l> 
         <r>sollecitare<s n="vblex"/></r> 
@@ -16719,7 +16719,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>bear<s n="vblex"/></l> 
         <r>sopportare<s n="vblex"/></r> 
@@ -24056,7 +24056,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>come<g><b/>across</g><s n="vblex"/></l> 
         <r>trovare<s n="vblex"/></r> 
@@ -24089,7 +24089,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>come<g><b/>out</g><s n="vblex"/></l> 
         <r>uscire<s n="vblex"/></r> 
@@ -26630,7 +26630,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>cope<s n="vblex"/></l> 
         <r>sopportare<s n="vblex"/></r> 
@@ -26641,7 +26641,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>cope<g><b/>with</g><s n="vblex"/></l> 
         <r>sopportare<s n="vblex"/></r> 
@@ -34584,7 +34584,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>encounter<s n="vblex"/></l> 
         <r>trovare<s n="vblex"/></r> 
@@ -36410,7 +36410,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>exit<s n="vblex"/></l> 
         <r>uscire<s n="vblex"/></r> 
@@ -41984,7 +41984,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>get<g><b/>out</g><s n="vblex"/></l> 
         <r>uscire<s n="vblex"/></r> 
@@ -54091,7 +54091,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>look<g><b/>after</g><s n="vblex"/></l> 
         <r>vigilare<s n="vblex"/></r> 
@@ -72900,7 +72900,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>request<s n="vblex"/></l> 
         <r>sollecitare<s n="vblex"/></r> 
@@ -91954,7 +91954,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>work<g><b/>out</g><s n="vblex"/></l> 
         <r>uscire<s n="vblex"/></r> 
@@ -94306,10 +94306,8 @@
     <e><p><l>deal<s n="vblex"/></l><r>trattare<s n="vblex"/></r></p></e>
     <e><p><l>triumph<s n="vblex"/></l><r>trionfare<s n="vblex"/></r></p></e>
     <e><p><l>triple<s n="vblex"/></l><r>triplicare<s n="vblex"/></r></p></e>
-    <e><p><l>find<s n="vblex"/></l><r>trovare<s n="vblex"/></r></p></e>
     <e><p><l>protect<s n="vblex"/></l><r>tutelare<s n="vblex"/></r></p></e>
     <e><p><l>humiliate<s n="vblex"/></l><r>umiliare<s n="vblex"/></r></p></e>
-    <e><p><l>exit<s n="vblex"/></l><r>uscire<s n="vblex"/></r></p></e>
     <e><p><l>venerate<s n="vblex"/></l><r>venerare<s n="vblex"/></r></p></e>
     <e><p><l>ventilate<s n="vblex"/></l><r>ventilare<s n="vblex"/></r></p></e>
     <e><p><l>verify<s n="vblex"/></l><r>verificare<s n="vblex"/></r></p></e>
@@ -94323,7 +94321,7 @@
     <e><p><l>approve<s n="vblex"/></l><r>vistare<s n="vblex"/></r></p></e>
     <e><p><l>examine<s n="vblex"/></l><r>visionare<s n="vblex"/></r></p></e>
     <e><p><l>turn<s n="vblex"/></l><r>virare<s n="vblex"/></r></p></e>
-    <e><p><l>keep<g><b/>watch</g><s n="vblex"/></l><r>vigilare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>keep<g><b/>watch</g><s n="vblex"/></l><r>vigilare<s n="vblex"/></r></p></e>
     <e><p><l>pour<s n="vblex"/></l><r>versare<s n="vblex"/></r></p></e>
     <e><p><l>vaporise<s n="vblex"/></l><r>vaporizzare<s n="vblex"/></r></p></e>
     <e><p><l>be<g><b/>worth</g><s n="vblex"/></l><r>valere<s n="vblex"/></r></p></e>
@@ -94625,7 +94623,7 @@
 <e><p><l>Villafranca<b/>del<b/>Cid<s n="np"/><s n="loc"/></l><r>Villafranca<b/>del<b/>Cid<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><p><l>happen<s n="vblex"/></l><r>sopravvenire<s n="vblex"/></r></p></e>
     <e><p><l>support<s n="vblex"/></l><r>sopportare<s n="vblex"/></r></p></e>
-    <e><p><l>speed<g><b/>up</g><s n="vblex"/></l><r>sollecitare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>speed<g><b/>up</g><s n="vblex"/></l><r>sollecitare<s n="vblex"/></r></p></e>
 
   </section>
 </dictionary>
