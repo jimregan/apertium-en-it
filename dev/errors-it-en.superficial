@@ -2579,10 +2579,6 @@
 ^.<sent>$ ^accessorio<adj><m><sg>$	. \@Accessorio\<adj\>
 ^.<sent>$ ^accessorio<adj><f><pl>$	. \@Accessorio\<adj\>
 ^.<sent>$ ^accessorio<adj><f><sg>$	. \@Accessorio\<adj\>
-^.<sent>$ ^acclamante<adj><mf><pl>$	. \@Acclamante\<adj\>
-^.<sent>$ ^acclamante<adj><mf><sg>$	. \@Acclamante\<adj\>
-^.<sent>$ ^aconfessionale<adj><mf><pl>$	. \@Aconfessionale\<adj\>
-^.<sent>$ ^aconfessionale<adj><mf><sg>$	. \@Aconfessionale\<adj\>
 ^.<sent>$ ^acquoso<adj><m><pl>$	. \@Acquoso\<adj\>
 ^.<sent>$ ^acquoso<adj><m><sg>$	. \@Acquoso\<adj\>
 ^.<sent>$ ^acquoso<adj><f><pl>$	. \@Acquoso\<adj\>
@@ -2591,10 +2587,6 @@
 ^.<sent>$ ^acrilico<adj><m><pl>$	. \@Acrilico\<adj\>
 ^.<sent>$ ^acrilico<adj><f><sg>$	. \@Acrilico\<adj\>
 ^.<sent>$ ^acrilico<adj><f><pl>$	. \@Acrilico\<adj\>
-^.<sent>$ ^adolescente<adj><mf><pl>$	. \@Adolescente\<adj\>
-^.<sent>$ ^adolescente<adj><mf><sg>$	. \@Adolescente\<adj\>
-^.<sent>$ ^adorabile<adj><mf><pl>$	. \@Adorabile\<adj\>
-^.<sent>$ ^adorabile<adj><mf><sg>$	. \@Adorabile\<adj\>
 ^.<sent>$ ^adottato<adj><m><pl>$	. \@Adottato\<adj\>
 ^.<sent>$ ^adottato<adj><m><sg>$	. \@Adottato\<adj\>
 ^.<sent>$ ^adottato<adj><f><pl>$	. \@Adottato\<adj\>
@@ -2611,12 +2603,6 @@
 ^.<sent>$ ^affamato<adj><m><sg>$	. \@Affamato\<adj\>
 ^.<sent>$ ^affamato<adj><f><pl>$	. \@Affamato\<adj\>
 ^.<sent>$ ^affamato<adj><f><sg>$	. \@Affamato\<adj\>
-^.<sent>$ ^affascinante<adj><mf><pl>$	. \@Affascinante\<adj\>
-^.<sent>$ ^affascinante<adj><mf><sg>$	. \@Affascinante\<adj\>
-^.<sent>$ ^affascinante<adj><mf><pl>$	. \@Affascinante\<adj\>
-^.<sent>$ ^affascinante<adj><mf><sg>$	. \@Affascinante\<adj\>
-^.<sent>$ ^affascinante<adj><mf><pl>$	. \@Affascinante\<adj\>
-^.<sent>$ ^affascinante<adj><mf><sg>$	. \@Affascinante\<adj\>
 ^.<sent>$ ^algerino<adj><m><pl>$	. \@Algerino\<adj\>
 ^.<sent>$ ^algerino<adj><m><sg>$	. \@Algerino\<adj\>
 ^.<sent>$ ^algerino<adj><f><pl>$	. \@Algerino\<adj\>
@@ -2637,18 +2623,6 @@
 ^.<sent>$ ^altro<adj><ind><m><sg>$	. \@Altro\<adj\>
 ^.<sent>$ ^altro<adj><ind><f><pl>$	. \@Altro\<adj\>
 ^.<sent>$ ^altro<adj><ind><f><sg>$	. \@Altro\<adj\>
-^.<sent>$ ^amante<adj><mf><pl>$	. \@Amante\<adj\>
-^.<sent>$ ^amante<adj><mf><sg>$	. \@Amante\<adj\>
-^.<sent>$ ^amante<adj><mf><pl>$	. \@Amante\<adj\>
-^.<sent>$ ^amante<adj><mf><sg>$	. \@Amante\<adj\>
-^.<sent>$ ^amante<adj><mf><pl>$	. \@Amante\<adj\>
-^.<sent>$ ^amante<adj><mf><sg>$	. \@Amante\<adj\>
-^.<sent>$ ^ambiente<adj><mf><pl>$	. \@Ambiente\<adj\>
-^.<sent>$ ^ambiente<adj><mf><sg>$	. \@Ambiente\<adj\>
-^.<sent>$ ^amorale<adj><mf><pl>$	. \@Amorale\<adj\>
-^.<sent>$ ^amorale<adj><mf><sg>$	. \@Amorale\<adj\>
-^.<sent>$ ^ancestrale<adj><mf><pl>$	. \@Ancestrale\<adj\>
-^.<sent>$ ^ancestrale<adj><mf><sg>$	. \@Ancestrale\<adj\>
 ^.<sent>$ ^anemico<adj><m><sg>$	. \@Anemico\<adj\>
 ^.<sent>$ ^anemico<adj><m><pl>$	. \@Anemico\<adj\>
 ^.<sent>$ ^anemico<adj><f><sg>$	. \@Anemico\<adj\>
@@ -2661,12 +2635,6 @@
 ^.<sent>$ ^annesso<adj><m><sg>$	. \@Annesso\<adj\>
 ^.<sent>$ ^annesso<adj><f><pl>$	. \@Annesso\<adj\>
 ^.<sent>$ ^annesso<adj><f><sg>$	. \@Annesso\<adj\>
-^.<sent>$ ^antecedente<adj><mf><pl>$	. \@Antecedente\<adj\>
-^.<sent>$ ^antecedente<adj><mf><sg>$	. \@Antecedente\<adj\>
-^.<sent>$ ^antipode<adj><mf><pl>$	. \@Antipode\<adj\>
-^.<sent>$ ^antipode<adj><mf><sg>$	. \@Antipode\<adj\>
-^.<sent>$ ^anulare<adj><mf><pl>$	. \@Anulare\<adj\>
-^.<sent>$ ^anulare<adj><mf><sg>$	. \@Anulare\<adj\>
 ^.<sent>$ ^apoteosico<adj><m><sg>$	. \@Apoteosico\<adj\>
 ^.<sent>$ ^apoteosico<adj><m><pl>$	. \@Apoteosico\<adj\>
 ^.<sent>$ ^apoteosico<adj><f><sg>$	. \@Apoteosico\<adj\>
@@ -2675,20 +2643,10 @@
 ^.<sent>$ ^appetitoso<adj><m><sg>$	. \@Appetitoso\<adj\>
 ^.<sent>$ ^appetitoso<adj><f><pl>$	. \@Appetitoso\<adj\>
 ^.<sent>$ ^appetitoso<adj><f><sg>$	. \@Appetitoso\<adj\>
-^.<sent>$ ^applaudente<adj><mf><pl>$	. \@Applaudente\<adj\>
-^.<sent>$ ^applaudente<adj><mf><sg>$	. \@Applaudente\<adj\>
-^.<sent>$ ^arbitrale<adj><mf><pl>$	. \@Arbitrale\<adj\>
-^.<sent>$ ^arbitrale<adj><mf><sg>$	. \@Arbitrale\<adj\>
-^.<sent>$ ^artigianale<adj><mf><pl>$	. \@Artigianale\<adj\>
-^.<sent>$ ^artigianale<adj><mf><sg>$	. \@Artigianale\<adj\>
-^.<sent>$ ^aspiratore<adj><mf><pl>$	. \@Aspiratore\<adj\>
-^.<sent>$ ^aspiratore<adj><mf><sg>$	. \@Aspiratore\<adj\>
 ^.<sent>$ ^assiduo<adj><m><pl>$	. \@Assiduo\<adj\>
 ^.<sent>$ ^assiduo<adj><m><sg>$	. \@Assiduo\<adj\>
 ^.<sent>$ ^assiduo<adj><f><pl>$	. \@Assiduo\<adj\>
 ^.<sent>$ ^assiduo<adj><f><sg>$	. \@Assiduo\<adj\>
-^.<sent>$ ^assistenziale<adj><mf><pl>$	. \@Assistenziale\<adj\>
-^.<sent>$ ^assistenziale<adj><mf><sg>$	. \@Assistenziale\<adj\>
 ^.<sent>$ ^assorto<adj><m><pl>$	. \@Assorto\<adj\>
 ^.<sent>$ ^assorto<adj><m><sg>$	. \@Assorto\<adj\>
 ^.<sent>$ ^assorto<adj><f><pl>$	. \@Assorto\<adj\>
@@ -2701,16 +2659,6 @@
 ^.<sent>$ ^asturiano<adj><m><sg>$	. \@Asturiano\<adj\>
 ^.<sent>$ ^asturiano<adj><f><pl>$	. \@Asturiano\<adj\>
 ^.<sent>$ ^asturiano<adj><f><sg>$	. \@Asturiano\<adj\>
-^.<sent>$ ^atemporale<adj><mf><pl>$	. \@Atemporale\<adj\>
-^.<sent>$ ^atemporale<adj><mf><sg>$	. \@Atemporale\<adj\>
-^.<sent>$ ^attribuente<adj><mf><pl>$	. \@Attribuente\<adj\>
-^.<sent>$ ^attribuente<adj><mf><sg>$	. \@Attribuente\<adj\>
-^.<sent>$ ^automobile<adj><mf><pl>$	. \@Automobile\<adj\>
-^.<sent>$ ^automobile<adj><mf><sg>$	. \@Automobile\<adj\>
-^.<sent>$ ^autosufficiente<adj><mf><pl>$	. \@Autosufficiente\<adj\>
-^.<sent>$ ^autosufficiente<adj><mf><sg>$	. \@Autosufficiente\<adj\>
-^.<sent>$ ^autunnale<adj><mf><pl>$	. \@Autunnale\<adj\>
-^.<sent>$ ^autunnale<adj><mf><sg>$	. \@Autunnale\<adj\>
 ^.<sent>$ ^avanzato<adj><m><pl>$	. \@Avanzato\<adj\>
 ^.<sent>$ ^avanzato<adj><m><sg>$	. \@Avanzato\<adj\>
 ^.<sent>$ ^avanzato<adj><f><pl>$	. \@Avanzato\<adj\>
@@ -2747,10 +2695,6 @@
 ^.<sent>$ ^benvenuto<adj><m><sg>$	. \@Benvenuto\<adj\>
 ^.<sent>$ ^benvenuto<adj><f><pl>$	. \@Benvenuto\<adj\>
 ^.<sent>$ ^benvenuto<adj><f><sg>$	. \@Benvenuto\<adj\>
-^.<sent>$ ^bimensile<adj><mf><pl>$	. \@Bimensile\<adj\>
-^.<sent>$ ^bimensile<adj><mf><sg>$	. \@Bimensile\<adj\>
-^.<sent>$ ^bimestrale<adj><mf><pl>$	. \@Bimestrale\<adj\>
-^.<sent>$ ^bimestrale<adj><mf><sg>$	. \@Bimestrale\<adj\>
 ^.<sent>$ ^biancazzurro<adj><m><pl>$	. \@Biancazzurro\<adj\>
 ^.<sent>$ ^biancazzurro<adj><m><sg>$	. \@Biancazzurro\<adj\>
 ^.<sent>$ ^biancazzurro<adj><f><pl>$	. \@Biancazzurro\<adj\>
@@ -2763,8 +2707,6 @@
 ^.<sent>$ ^bluastro<adj><m><sg>$	. \@Bluastro\<adj\>
 ^.<sent>$ ^bluastro<adj><f><pl>$	. \@Bluastro\<adj\>
 ^.<sent>$ ^bluastro<adj><f><sg>$	. \@Bluastro\<adj\>
-^.<sent>$ ^borghese<adj><mf><pl>$	. \@Borghese\<adj\>
-^.<sent>$ ^borghese<adj><mf><sg>$	. \@Borghese\<adj\>
 ^.<sent>$ ^bravo<adj><m><pl>$	. \@Bravo\<adj\>
 ^.<sent>$ ^bravo<adj><m><sg>$	. \@Bravo\<adj\>
 ^.<sent>$ ^bravo<adj><f><pl>$	. \@Bravo\<adj\>
@@ -2789,26 +2731,10 @@
 ^.<sent>$ ^candido<adj><m><sg>$	. \@Candido\<adj\>
 ^.<sent>$ ^candido<adj><f><pl>$	. \@Candido\<adj\>
 ^.<sent>$ ^candido<adj><f><sg>$	. \@Candido\<adj\>
-^.<sent>$ ^cantante<adj><mf><pl>$	. \@Cantante\<adj\>
-^.<sent>$ ^cantante<adj><mf><sg>$	. \@Cantante\<adj\>
-^.<sent>$ ^cantante<adj><mf><pl>$	. \@Cantante\<adj\>
-^.<sent>$ ^cantante<adj><mf><sg>$	. \@Cantante\<adj\>
-^.<sent>$ ^capiente<adj><mf><pl>$	. \@Capiente\<adj\>
-^.<sent>$ ^capiente<adj><mf><sg>$	. \@Capiente\<adj\>
-^.<sent>$ ^capillare<adj><mf><pl>$	. \@Capillare\<adj\>
-^.<sent>$ ^capillare<adj><mf><sg>$	. \@Capillare\<adj\>
-^.<sent>$ ^carente<adj><mf><pl>$	. \@Carente\<adj\>
-^.<sent>$ ^carente<adj><mf><sg>$	. \@Carente\<adj\>
-^.<sent>$ ^carnale<adj><mf><pl>$	. \@Carnale\<adj\>
-^.<sent>$ ^carnale<adj><mf><sg>$	. \@Carnale\<adj\>
-^.<sent>$ ^castiglionese<adj><mf><pl>$	. \@Castiglionese\<adj\>
-^.<sent>$ ^castiglionese<adj><mf><sg>$	. \@Castiglionese\<adj\>
 ^.<sent>$ ^catastrofico<adj><m><sg>$	. \@Catastrofico\<adj\>
 ^.<sent>$ ^catastrofico<adj><m><pl>$	. \@Catastrofico\<adj\>
 ^.<sent>$ ^catastrofico<adj><f><sg>$	. \@Catastrofico\<adj\>
 ^.<sent>$ ^catastrofico<adj><f><pl>$	. \@Catastrofico\<adj\>
-^.<sent>$ ^cautelare<adj><mf><pl>$	. \@Cautelare\<adj\>
-^.<sent>$ ^cautelare<adj><mf><sg>$	. \@Cautelare\<adj\>
 ^.<sent>$ ^centigrado<adj><m><pl>$	. \@Centigrado\<adj\>
 ^.<sent>$ ^centigrado<adj><m><sg>$	. \@Centigrado\<adj\>
 ^.<sent>$ ^centigrado<adj><f><pl>$	. \@Centigrado\<adj\>
@@ -2829,10 +2755,6 @@
 ^.<sent>$ ^classico<adj><m><pl>$	. \@Classico\<adj\>
 ^.<sent>$ ^classico<adj><f><sg>$	. \@Classico\<adj\>
 ^.<sent>$ ^classico<adj><f><pl>$	. \@Classico\<adj\>
-^.<sent>$ ^clemente<adj><mf><pl>$	. \@Clemente\<adj\>
-^.<sent>$ ^clemente<adj><mf><sg>$	. \@Clemente\<adj\>
-^.<sent>$ ^collegiale<adj><mf><pl>$	. \@Collegiale\<adj\>
-^.<sent>$ ^collegiale<adj><mf><sg>$	. \@Collegiale\<adj\>
 ^.<sent>$ ^collettivo<adj><m><pl>$	. \@Collettivo\<adj\>
 ^.<sent>$ ^collettivo<adj><m><sg>$	. \@Collettivo\<adj\>
 ^.<sent>$ ^collettivo<adj><f><pl>$	. \@Collettivo\<adj\>
@@ -18776,24 +18698,15 @@
 ^.<sent>$ ^a continuazione<adv>$	. \@A continuazione\<adv\>
 ^.<sent>$ ^a contropelo<adv>$	. \@A contropelo\<adv\>
 ^.<sent>$ ^a cosa<adv>$	. \@A cosa\<adv\>
-^.<sent>$ ^a determinate condizioni<adv>$	. #Under certain conditions\<adv\>
-^.<sent>$ ^a galla<adv>$	. #Afloat\<adv\>
-^.<sent>$ ^a meno che<adv>$	. #Unless\<adv\>
-^.<sent>$ ^a morte<adv>$	. #To death\<adv\>
+^.<sent>$ ^a meno che<adv>$	. #Unless
 ^.<sent>$ ^a partire dalle<adv>$	. \@A partire dalle\<adv\>
 ^.<sent>$ ^a posta<adv>$	. \@A posta\<adv\>
 ^.<sent>$ ^a proposito<adv>$	. \@A proposito\<adv\>
 ^.<sent>$ ^a rate<adv>$	. \@A rate\<adv\>
-^.<sent>$ ^a tal proposito<adv>$	. #In this regard\<adv\>
-^.<sent>$ ^a tal riguardo<adv>$	. #In this regard\<adv\>
 ^.<sent>$ ^accanto<adv>$	. \@Accanto\<adv\>
-^.<sent>$ ^acusticamente<adv>$	. #Acoustically\<adv\>
-^.<sent>$ ^ad-hoc<adv>$	. #Ad-hoc\<adv\>
-^.<sent>$ ^ad hoc<adv>$	. #Ad hoc\<adv\>
 ^.<sent>$ ^ad litteram<adv>$	. \@Ad litteram\<adv\>
 ^.<sent>$ ^ad un'altra parte<adv>$	. \@Ad un'altra parte\<adv\>
 ^.<sent>$ ^al massimo<adv>$	. \@Al massimo\<adv\>
-^.<sent>$ ^al mese<adv>$	. #Per month\<adv\>
 ^.<sent>$ ^al mio turno<adv>$	. \@Al mio turno\<adv\>
 ^.<sent>$ ^al nostro turno<adv>$	. \@Al nostro turno\<adv\>
 ^.<sent>$ ^al suo posto<adv>$	. \@Al suo posto\<adv\>
@@ -18803,47 +18716,27 @@
 ^.<sent>$ ^all'alba<adv>$	. \@All'alba\<adv\>
 ^.<sent>$ ^all'anno<adv>$	. \@All'anno\<adv\>
 ^.<sent>$ ^all'estero<adv>$	. \@All'estero\<adv\>
-^.<sent>$ ^all'inglese<adv>$	. #To English\<adv\>
-^.<sent>$ ^all'italiana<adv>$	. #To Italian\<adv\>
-^.<sent>$ ^alla francese<adv>$	. #To French\<adv\>
 ^.<sent>$ ^alla leggera<adv>$	. \@Alla leggera\<adv\>
 ^.<sent>$ ^alla schiena<adv>$	. \@Alla schiena\<adv\>
 ^.<sent>$ ^alla settimana<adv>$	. \@Alla settimana\<adv\>
 ^.<sent>$ ^alle spalle<adv>$	. \@Alle spalle\<adv\>
 ^.<sent>$ ^alti e bassi<adv>$	. \@Alti e bassi\<adv\>
-^.<sent>$ ^altre volte<adv>$	. #Other times\<adv\>
 ^.<sent>$ ^altrove<adv>$	. \@Altrove\<adv\>
-^.<sent>$ ^ancor di più<adv>$	. #Even more\<adv\>
-^.<sent>$ ^ancora una volta<adv>$	. #Once again\<adv\>
 ^.<sent>$ ^ancora più<adv>$	. \@Ancora più\<adv\>
-^.<sent>$ ^anti<adv>$	. #Anti\<adv\>
-^.<sent>$ ^artificialmente<adv>$	. #Artificially\<adv\>
-^.<sent>$ ^autenticamente<adv>$	. #Authentically\<adv\>
-^.<sent>$ ^avidamente<adv>$	. #Greedily\<adv\>
 ^.<sent>$ ^avvisatamente<adv>$	. \@Avvisatamente\<adv\>
-^.<sent>$ ^bonariamente<adv>$	. #Good-naturedly\<adv\>
 ^.<sent>$ ^casualmente<adv>$	. \@Casualmente\<adv\>
-^.<sent>$ ^chiaro<adv>$	. #Clear\<adv\>
 ^.<sent>$ ^come conseguenza<adv>$	. \@Come conseguenza\<adv\>
 ^.<sent>$ ^come di consueto<adv>$	. \@Come di consueto\<adv\>
 ^.<sent>$ ^come finora<adv>$	. \@Come finora\<adv\>
-^.<sent>$ ^come in qualsiasi posto del mondo<adv>$	. #As in any place in the world\<adv\>
 ^.<sent>$ ^come nessuno<adv>$	. \@Come nessuno\<adv\>
 ^.<sent>$ ^come per esempio<adv>$	. \@Come per esempio\<adv\>
-^.<sent>$ ^come se<adv>$	. #As if\<adv\>
+^.<sent>$ ^come se<adv>$	. #As if
 ^.<sent>$ ^rotondamente<adv>$	. \@Rotondamente\<adv\>
-^.<sent>$ ^con molta attenzione<adv>$	. #Very carefully\<adv\>
-^.<sent>$ ^con molta cura<adv>$	. #Very carefully\<adv\>
 ^.<sent>$ ^con molto entusiasmo<adv>$	. \@Con molto entusiasmo\<adv\>
 ^.<sent>$ ^con tutta la certezza<adv>$	. \@Con tutta la certezza\<adv\>
-^.<sent>$ ^con un poco di aiuto<adv>$	. #With a bit of help\<adv\>
 ^.<sent>$ ^con virilità<adv>$	. \@Con virilità\<adv\>
-^.<sent>$ ^contro ogni logica<adv>$	. #Against all logic\<adv\>
 ^.<sent>$ ^così come<adv>$	. \@Così come\<adv\>
 ^.<sent>$ ^d'ogni modo<adv>$	. \@D'ogni modo\<adv\>
-^.<sent>$ ^fino ad allora<adv>$	. #Until then\<adv\>
-^.<sent>$ ^da circa<adv>$	. #From about\<adv\>
-^.<sent>$ ^da molto tempo<adv>$	. #For a long time\<adv\>
 ^.<sent>$ ^da poco<adv>$	. \@Da poco\<adv\>
 ^.<sent>$ ^da questo lato<adv>$	. \@Da questo lato\<adv\>
 ^.<sent>$ ^da tempo<adv>$	. \@Da tempo\<adv\>
@@ -18855,38 +18748,23 @@
 ^.<sent>$ ^di che si tratta<adv>$	. \@Di che si tratta\<adv\>
 ^.<sent>$ ^di consueto<adv>$	. \@Di consueto\<adv\>
 ^.<sent>$ ^di forza<adv>$	. \@Di forza\<adv\>
-^.<sent>$ ^questa mattina<adv>$	. #This morning\<adv\>
 ^.<sent>$ ^di prima classe<adv>$	. \@Di prima classe\<adv\>
 ^.<sent>$ ^di prima qualità<adv>$	. \@Di prima qualità\<adv\>
 ^.<sent>$ ^di seguito<adv>$	. \@Di seguito\<adv\>
-^.<sent>$ ^difficile da credere<adv>$	. #Hard to believe\<adv\>
 ^.<sent>$ ^dolcemente<adv>$	. \@Dolcemente\<adv\>
 ^.<sent>$ ^dopo di ché<adv>$	. \@Dopo di ché\<adv\>
 ^.<sent>$ ^dopodiché<adv>$	. \@Dopodiché\<adv\>
 ^.<sent>$ ^duramente<adv>$	. \@Duramente\<adv\>
-^.<sent>$ ^durante l'autunno<adv>$	. #During the autumn\<adv\>
-^.<sent>$ ^durante l'estate<adv>$	. #During the summer\<adv\>
-^.<sent>$ ^durante l'inverno<adv>$	. #During the winter\<adv\>
-^.<sent>$ ^durante la primavera<adv>$	. #During the spring\<adv\>
 ^.<sent>$ ^etc<adv>$	. #Etc\<adv\>
 ^.<sent>$ ^eccetera<adv>$	. \@Eccetera\<adv\>
-^.<sent>$ ^eccezionalmente<adv>$	. #Exceptionally\<adv\>
-^.<sent>$ ^esteticamente<adv>$	. #Aesthetically\<adv\>
 ^.<sent>$ ^eventualmente<adv>$	. \@Eventualmente\<adv\>
 ^.<sent>$ ^favorevolmente<adv>$	. \@Favorevolmente\<adv\>
-^.<sent>$ ^fino a<adv>$	. #Until\<adv\>
-^.<sent>$ ^forte<adv>$	. #Strong\<adv\>
 ^.<sent>$ ^forzosamente<adv>$	. \@Forzosamente\<adv\>
-^.<sent>$ ^fra la spada e la parete<adv>$	. #Between a rock and a hard place\<adv\>
-^.<sent>$ ^freddamente<adv>$	. #Coldly\<adv\>
 ^.<sent>$ ^frontalmente<adv>$	. \@Frontalmente\<adv\>
 ^.<sent>$ ^giuridicamente<adv>$	. \@Giuridicamente\<adv\>
 ^.<sent>$ ^giusto<adv>$	. \@Giusto\<adv\>
-^.<sent>$ ^esatto<adv>$	. #Exact\<adv\>
 ^.<sent>$ ^gratamente<adv>$	. \@Gratamente\<adv\>
 ^.<sent>$ ^gratuitamente<adv>$	. \@Gratuitamente\<adv\>
-^.<sent>$ ^in altri tempi<adv>$	. #In other times\<adv\>
-^.<sent>$ ^in altro modo<adv>$	. #Otherwise\<adv\>
 ^.<sent>$ ^a digiuno<adv>$	. \@A digiuno\<adv\>
 ^.<sent>$ ^in certa misura<adv>$	. \@In certa misura\<adv\>
 ^.<sent>$ ^in conseguenza<adv>$	. \@In conseguenza\<adv\>
@@ -18894,72 +18772,33 @@
 ^.<sent>$ ^in difficoltà<adv>$	. \@In difficoltà\<adv\>
 ^.<sent>$ ^in esclusiva<adv>$	. \@In esclusiva\<adv\>
 ^.<sent>$ ^in filiera<adv>$	. \@In filiera\<adv\>
-^.<sent>$ ^in guerra<adv>$	. #At war\<adv\>
 ^.<sent>$ ^in interdizione<adv>$	. \@In interdizione\<adv\>
 ^.<sent>$ ^in Internet<adv>$	. \@In Internet\<adv\>
 ^.<sent>$ ^in maniera chiara<adv>$	. \@In maniera chiara\<adv\>
 ^.<sent>$ ^in massa<adv>$	. \@In massa\<adv\>
-^.<sent>$ ^in molte occasioni<adv>$	. #On many occasions\<adv\>
 ^.<sent>$ ^nell'ultima parte<adv>$	. \@Nell'ultima parte\<adv\>
-^.<sent>$ ^in nessun modo<adv>$	. #In no way\<adv\>
-^.<sent>$ ^in pace<adv>$	. #In peace\<adv\>
 ^.<sent>$ ^in croce<adv>$	. \@In croce\<adv\>
-^.<sent>$ ^in qualche luogo<adv>$	. #Somewhere\<adv\>
 ^.<sent>$ ^in quarto luogo<adv>$	. \@In quarto luogo\<adv\>
-^.<sent>$ ^in questione<adv>$	. #In question\<adv\>
 ^.<sent>$ ^in terzo luogo<adv>$	. \@In terzo luogo\<adv\>
-^.<sent>$ ^in tutti i modi<adv>$	. #In all ways\<adv\>
-^.<sent>$ ^in ultimo luogo<adv>$	. #In last place\<adv\>
-^.<sent>$ ^infinitamente<adv>$	. #Infinitely\<adv\>
 ^.<sent>$ ^ininterrottamente<adv>$	. \@Ininterrottamente\<adv\>
 ^.<sent>$ ^insieme<adv>$	. \@Insieme\<adv\>
 ^.<sent>$ ^intanto<adv>$	. \@Intanto\<adv\>
-^.<sent>$ ^intensamente<adv>$	. #Intensely\<adv\>
 ^.<sent>$ ^integralmente<adv>$	. \@Integralmente\<adv\>
-^.<sent>$ ^irrimediabilmente<adv>$	. #Irremediably\<adv\>
-^.<sent>$ ^l'altra notte<adv>$	. #The other night\<adv\>
-^.<sent>$ ^l'altro giorno<adv>$	. #The other day\<adv\>
-^.<sent>$ ^l'anno prossimo<adv>$	. #The next year\<adv\>
-^.<sent>$ ^il mese prossimo<adv>$	. #Next month\<adv\>
-^.<sent>$ ^la maggior parte delle volte<adv>$	. #Most of the time\<adv\>
-^.<sent>$ ^la prima volta<adv>$	. #The first time\<adv\>
-^.<sent>$ ^la prossima volta<adv>$	. #Next time\<adv\>
-^.<sent>$ ^la settimana prossima<adv>$	. #The next week\<adv\>
 ^.<sent>$ ^lamentabilmente<adv>$	. \@Lamentabilmente\<adv\>
 ^.<sent>$ ^lievemente<adv>$	. \@Lievemente\<adv\>
-^.<sent>$ ^magistralmente<adv>$	. #Magisterially\<adv\>
 ^.<sent>$ ^maggiormente<adv>$	. \@Maggiormente\<adv\>
 ^.<sent>$ ^mediamente<adv>$	. \@Mediamente\<adv\>
-^.<sent>$ ^mensilmente<adv>$	. #Monthly\<adv\>
-^.<sent>$ ^mentre<adv>$	. #While\<adv\>
-^.<sent>$ ^mezza notte<adv>$	. #Midnight\<adv\>
-^.<sent>$ ^molte volte<adv>$	. #Many times\<adv\>
-^.<sent>$ ^molto dopo<adv>$	. #Much later\<adv\>
 ^.<sent>$ ^migliore<adv>$	. #Good
-^.<sent>$ ^molto peggio<adv>$	. #Much worse\<adv\>
-^.<sent>$ ^molto prima<adv>$	. #Long before\<adv\>
 ^.<sent>$ ^momento in cui<adv>$	. \@Momento in cui\<adv\>
-^.<sent>$ ^musicalmente<adv>$	. #Musically\<adv\>
-^.<sent>$ ^mutuamente<adv>$	. #Mutually\<adv\>
 ^.<sent>$ ^nel mercato<adv>$	. \@Nel mercato\<adv\>
 ^.<sent>$ ^nella scala evolutiva<adv>$	. \@Nella scala evolutiva\<adv\>
-^.<sent>$ ^nello stesso periodo<adv>$	. #In the same period\<adv\>
 ^.<sent>$ ^non poche volte<adv>$	. \@Non poche volte\<adv\>
 ^.<sent>$ ^obbligatoriamente<adv>$	. \@Obbligatoriamente\<adv\>
 ^.<sent>$ ^occhio vigile<adv>$	. \@Occhio vigile\<adv\>
-^.<sent>$ ^ogni anno<adv>$	. #Every year\<adv\>
-^.<sent>$ ^ogni autunno<adv>$	. #Every autumn\<adv\>
-^.<sent>$ ^ogni estate<adv>$	. #Every summer\<adv\>
-^.<sent>$ ^ogni giorno<adv>$	. #Every day\<adv\>
-^.<sent>$ ^ogni inverno<adv>$	. #Every winter\<adv\>
-^.<sent>$ ^ogni mattina<adv>$	. #Every morning\<adv\>
-^.<sent>$ ^ogni mese<adv>$	. #Every month\<adv\>
-^.<sent>$ ^ogni notte<adv>$	. #Every night\<adv\>
 ^.<sent>$ ^ogni primavera<adv>$	. \@Ogni primavera\<adv\>
 ^.<sent>$ ^on line<adv>$	. \@On line\<adv\>
 ^.<sent>$ ^onoratamente<adv>$	. \@Onoratamente\<adv\>
 ^.<sent>$ ^ovunque<adv>$	. \@Ovunque\<adv\>
-^.<sent>$ ^parecchi mesi<adv>$	. #Several months\<adv\>
 ^.<sent>$ ^passeggiando<adv>$	. \@Passeggiando\<adv\>
 ^.<sent>$ ^pazzamente<adv>$	. \@Pazzamente\<adv\>
 ^.<sent>$ ^per conto proprio<adv>$	. \@Per conto proprio\<adv\>
@@ -18973,133 +18812,76 @@
 ^.<sent>$ ^per sentito dire<adv>$	. \@Per sentito dire\<adv\>
 ^.<sent>$ ^più di<adv>$	. \@Più di\<adv\>
 ^.<sent>$ ^più esattamente<adv>$	. \@Più esattamente\<adv\>
-^.<sent>$ ^più o meno<adv>$	. #More or less\<adv\>
 ^.<sent>$ ^poco a poco<adv>$	. \@Poco a poco\<adv\>
 ^.<sent>$ ^poveramente<adv>$	. \@Poveramente\<adv\>
 ^.<sent>$ ^precedentemente<adv>$	. \@Precedentemente\<adv\>
 ^.<sent>$ ^umanamente<adv>$	. \@Umanamente\<adv\>
 ^.<sent>$ ^giudiziariamente<adv>$	. \@Giudiziariamente\<adv\>
-^.<sent>$ ^ideologicamente<adv>$	. #Ideologically\<adv\>
 ^.<sent>$ ^paulatinamente<adv>$	. \@Paulatinamente\<adv\>
-^.<sent>$ ^visivamente<adv>$	. #Visually\<adv\>
-^.<sent>$ ^proprio adesso<adv>$	. #Right now\<adv\>
-^.<sent>$ ^proprio ora<adv>$	. #Right now\<adv\>
 ^.<sent>$ ^prossimamente<adv>$	. \@Prossimamente\<adv\>
-^.<sent>$ ^puramente e semplicemente<adv>$	. #Purely and simply\<adv\>
 ^.<sent>$ ^purtroppo<adv>$	. \@Purtroppo\<adv\>
 ^.<sent>$ ^può darsi<adv>$	. \@Può darsi\<adv\>
 ^.<sent>$ ^può essere<adv>$	. #Can be\<adv\>
 ^.<sent>$ ^quando desidera<adv>$	. \@Quando desidera\<adv\>
-^.<sent>$ ^questa volta<adv>$	. #This time\<adv\>
 ^.<sent>$ ^quindi<adv>$	. \@Quindi\<adv\>
 ^.<sent>$ ^mediamente<adv>$	. \@Mediamente\<adv\>
-^.<sent>$ ^riccamente<adv>$	. #Richly\<adv\>
 ^.<sent>$ ^rare volte<adv>$	. \@Rare volte\<adv\>
 ^.<sent>$ ^reciprocamente<adv>$	. \@Reciprocamente\<adv\>
-^.<sent>$ ^religiosamente<adv>$	. #Religiously\<adv\>
 ^.<sent>$ ^rispetto a<adv>$	. \@Rispetto a\<adv\>
-^.<sent>$ ^senza bisogno<adv>$	. #Without\<adv\>
 ^.<sent>$ ^senza diritto d'appello<adv>$	. \@Senza diritto d'appello\<adv\>
 ^.<sent>$ ^senza fretta<adv>$	. \@Senza fretta\<adv\>
 ^.<sent>$ ^senza nessuna fretta<adv>$	. \@Senza nessuna fretta\<adv\>
-^.<sent>$ ^senza piedi né testa<adv>$	. #Without head or feet\<adv\>
 ^.<sent>$ ^sgradevolmente<adv>$	. \@Sgradevolmente\<adv\>
 ^.<sent>$ ^sommamente<adv>$	. \@Sommamente\<adv\>
-^.<sent>$ ^squisitamente<adv>$	. #Exquisitely\<adv\>
 ^.<sent>$ ^stamane<adv>$	. \@Stamane\<adv\>
 ^.<sent>$ ^stamattina<adv>$	. \@Stamattina\<adv\>
-^.<sent>$ ^statisticamente<adv>$	. #Statistically\<adv\>
 ^.<sent>$ ^stoicamente<adv>$	. \@Stoicamente\<adv\>
 ^.<sent>$ ^stupendamente<adv>$	. \@Stupendamente\<adv\>
 ^.<sent>$ ^su Internet<adv>$	. \@Su Internet\<adv\>
 ^.<sent>$ ^telefonicamente<adv>$	. \@Telefonicamente\<adv\>
-^.<sent>$ ^tra l'altro<adv>$	. #Among other\<adv\>
-^.<sent>$ ^tra gli altri<adv>$	. #Among others\<adv\>
 ^.<sent>$ ^tranquillamente<adv>$	. \@Tranquillamente\<adv\>
-^.<sent>$ ^transitoriamente<adv>$	. #Transiently\<adv\>
-^.<sent>$ ^un'altra cosa<adv>$	. #Another thing\<adv\>
-^.<sent>$ ^urbanisticamente<adv>$	. #Urbanistically\<adv\>
 ^.<sent>$ ^verace<adv>$	. \@Verace\<adv\>
-^.<sent>$ ^verbalmente<adv>$	. #Verbally\<adv\>
-^.<sent>$ ^violentemente<adv>$	. #Violently\<adv\>
 ^.<sent>$ ^oltre<adv>$	. \@Oltre\<adv\>
-^.<sent>$ ^abilmente<adv>$	. #Ably\<adv\>
-^.<sent>$ ^amministrativamente<adv>$	. #Administratively\<adv\>
 ^.<sent>$ ^analogamente<adv>$	. \@Analogamente\<adv\>
 ^.<sent>$ ^appositamente<adv>$	. \@Appositamente\<adv\>
-^.<sent>$ ^arbitrariamente<adv>$	. #Arbitrarily\<adv\>
-^.<sent>$ ^artisticamente<adv>$	. #Artistically\<adv\>
 ^.<sent>$ ^aspramente<adv>$	. \@Aspramente\<adv\>
-^.<sent>$ ^assiduamente<adv>$	. #Assiduously\<adv\>
 ^.<sent>$ ^autonomamente<adv>$	. \@Autonomamente\<adv\>
 ^.<sent>$ ^certosinamente<adv>$	. \@Certosinamente\<adv\>
-^.<sent>$ ^clandestinamente<adv>$	. #Clandestinely\<adv\>
-^.<sent>$ ^collettivamente<adv>$	. #Collectively\<adv\>
 ^.<sent>$ ^compiutamente<adv>$	. \@Compiutamente\<adv\>
 ^.<sent>$ ^complessivamente<adv>$	. \@Complessivamente\<adv\>
-^.<sent>$ ^concettualmente<adv>$	. #Conceptually\<adv\>
-^.<sent>$ ^contestualmente<adv>$	. #Contextually\<adv\>
-^.<sent>$ ^contrariamente<adv>$	. #Contrary\<adv\>
 ^.<sent>$ ^correntemente<adv>$	. \@Correntemente\<adv\>
-^.<sent>$ ^culturalmente<adv>$	. #Culturally\<adv\>
 ^.<sent>$ ^debolmente<adv>$	. \@Debolmente\<adv\>
 ^.<sent>$ ^decisamente<adv>$	. \@Decisamente\<adv\>
 ^.<sent>$ ^dettagliatamente<adv>$	. \@Dettagliatamente\<adv\>
-^.<sent>$ ^dichiaratamente<adv>$	. #Declaredly\<adv\>
-^.<sent>$ ^diffusamente<adv>$	. #Diffusely\<adv\>
 ^.<sent>$ ^diversamente<adv>$	. \@Diversamente\<adv\>
 ^.<sent>$ ^equamente <adv>$	. \@Equamente \<adv\>
-^.<sent>$ ^esternamente<adv>$	. #Externally\<adv\>
-^.<sent>$ ^etimologicamente<adv>$	. #Etymologically\<adv\>
 ^.<sent>$ ^fermamente<adv>$	. \@Fermamente\<adv\>
 ^.<sent>$ ^finemente<adv>$	. \@Finemente\<adv\>
 ^.<sent>$ ^genericamente<adv>$	. \@Genericamente\<adv\>
 ^.<sent>$ ^grandemente<adv>$	. \@Grandemente\<adv\>
 ^.<sent>$ ^gravitazionalmente<adv>$	. \@Gravitazionalmente\<adv\>
-^.<sent>$ ^implicitamente<adv>$	. #Implicitly\<adv\>
-^.<sent>$ ^indifferentemente<adv>$	. #Indifferently\<adv\>
-^.<sent>$ ^industrialmente<adv>$	. #Industrially\<adv\>
-^.<sent>$ ^intensivamente<adv>$	. #Intensively\<adv\>
 ^.<sent>$ ^interamente<adv>$	. \@Interamente\<adv\>
-^.<sent>$ ^intuitivamente<adv>$	. #Intuitively\<adv\>
 ^.<sent>$ ^inutilmente<adv>$	. \@Inutilmente\<adv\>
-^.<sent>$ ^inversamente<adv>$	. #Inversely\<adv\>
 ^.<sent>$ ^largamente<adv>$	. \@Largamente\<adv\>
-^.<sent>$ ^lateralmente<adv>$	. #Laterally\<adv\>
 ^.<sent>$ ^lungamente<adv>$	. \@Lungamente\<adv\>
 ^.<sent>$ ^manualmente<adv>$	. \@Manualmente\<adv\>
 ^.<sent>$ ^marcatamente<adv>$	. \@Marcatamente\<adv\>
-^.<sent>$ ^matematicamente<adv>$	. #Mathematically\<adv\>
 ^.<sent>$ ^meramente<adv>$	. \@Meramente\<adv\>
-^.<sent>$ ^momentaneamente<adv>$	. #Momentarily\<adv\>
 ^.<sent>$ ^nettamente<adv>$	. \@Nettamente\<adv\>
 ^.<sent>$ ^opportunamente<adv>$	. \@Opportunamente\<adv\>
 ^.<sent>$ ^palesemente<adv>$	. \@Palesemente\<adv\>
 ^.<sent>$ ^parallelamente<adv>$	. \@Parallelamente\<adv\>
-^.<sent>$ ^passivamente<adv>$	. #Passively\<adv\>
-^.<sent>$ ^perennemente<adv>$	. #Perennially\<adv\>
 ^.<sent>$ ^precocemente<adv>$	. \@Precocemente\<adv\>
 ^.<sent>$ ^preferenzialmente<adv>$	. \@Preferenzialmente\<adv\>
 ^.<sent>$ ^prevalentemente<adv>$	. \@Prevalentemente\<adv\>
 ^.<sent>$ ^preventivamente<adv>$	. \@Preventivamente\<adv\>
 ^.<sent>$ ^prontamente<adv>$	. \@Prontamente\<adv\>
-^.<sent>$ ^qualitativamente<adv>$	. #Qualitatively\<adv\>
-^.<sent>$ ^quantitativamente<adv>$	. #Quantitatively\<adv\>
-^.<sent>$ ^ricorsivamente<adv>$	. #Recursively\<adv\>
-^.<sent>$ ^rigidamente<adv>$	. #Rigidly\<adv\>
 ^.<sent>$ ^saldamente<adv>$	. \@Saldamente\<adv\>
-^.<sent>$ ^stabilmente<adv>$	. #Stably\<adv\>
 ^.<sent>$ ^saltuariamente<adv>$	. \@Saltuariamente\<adv\>
 ^.<sent>$ ^scarsamente<adv>$	. \@Scarsamente\<adv\>
-^.<sent>$ ^scientificamente<adv>$	. #Scientifically\<adv\>
 ^.<sent>$ ^singolarmente<adv>$	. \@Singolarmente\<adv\>
-^.<sent>$ ^sinteticamente<adv>$	. #Synthetically\<adv\>
 ^.<sent>$ ^spiccatamente<adv>$	. \@Spiccatamente\<adv\>
-^.<sent>$ ^stilisticamente<adv>$	. #Stylistically\<adv\>
-^.<sent>$ ^strenuamente<adv>$	. #Strenuously\<adv\>
-^.<sent>$ ^strutturalmente<adv>$	. #Structurally\<adv\>
 ^.<sent>$ ^tendenzialmente<adv>$	. \@Tendenzialmente\<adv\>
-^.<sent>$ ^trasversalmente<adv>$	. #Transversely\<adv\>
 ^.<sent>$ ^unitamente<adv>$	. \@Unitamente\<adv\>
 ^.<sent>$ ^unitariamente<adv>$	. \@Unitariamente\<adv\>
 ^.<sent>$ ^univocamente<adv>$	. \@Univocamente\<adv\>
