@@ -10119,7 +10119,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>aim<s n="vblex"/></l> 
         <r>puntare<s n="vblex"/></r> 
@@ -14095,7 +14095,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>assemble<s n="vblex"/></l> 
         <r>riunire<s n="vblex"/></r> 
@@ -18809,7 +18809,7 @@
 	forced 'null' restriction
       ND-39
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>bring<g><b/>together</g><s n="vblex"/><s n="sep"/></l> 
         <r>riunire<s n="vblex"/></r> 
@@ -38698,17 +38698,6 @@
     <e>
       <p>
         <l>finish<s n="vblex"/></l> 
-        <r>terminare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>finish<s n="vblex"/></l> 
         <r>finire<s n="vblex"/></r> 
       </p>
     </e>
@@ -41500,7 +41489,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>gather<s n="vblex"/></l> 
         <r>riunire<s n="vblex"/></r> 
@@ -41896,7 +41885,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>get<g><b/>better</g><s n="vblex"/></l> 
         <r>migliorare<s n="vblex"/></r> 
@@ -60376,7 +60365,7 @@
 	forced 'null' restriction
       ND-39
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>note<g><b/>down</g><s n="vblex"/><s n="sep"/></l> 
         <r>puntare<s n="vblex"/></r> 
@@ -69127,7 +69116,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e c="en el teatro">
+    <e c="en el teatro" r="LR">
       <p>
         <l>prompt<s n="vblex"/></l> 
         <r>puntare<s n="vblex"/></r> 
@@ -72383,7 +72372,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>remain<s n="vblex"/></l> 
         <r>rimanere<s n="vblex"/></r> 
@@ -74297,7 +74286,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>round<g><b/>off</g><s n="vblex"/></l> 
         <r>terminare<s n="vblex"/></r> 
@@ -80810,7 +80799,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>stay<s n="vblex"/></l> 
         <r>rimanere<s n="vblex"/></r> 
@@ -83287,7 +83276,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>target<s n="vblex"/></l> 
         <r>puntare<s n="vblex"/></r> 
@@ -86872,7 +86861,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>travel<g><b/>across</g><s n="vblex"/></l> 
         <r>ricorrere<s n="vblex"/></r> 
@@ -87510,7 +87499,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>turn<g><b/>out</g><s n="vblex"/></l> 
         <r>risultare<s n="vblex"/></r> 
@@ -89908,7 +89897,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>visit<s n="vblex"/></l> 
         <r>ricorrere<s n="vblex"/></r> 
@@ -94216,7 +94205,6 @@
     <e><p><l>embezzle<s n="vblex"/></l><r>malversare<s n="vblex"/></r></p></e>
     <e><p><l>lack<s n="vblex"/></l><r>mancare<s n="vblex"/></r></p></e>
     <e><p><l>lie<s n="vblex"/></l><r>mentire<s n="vblex"/></r></p></e>
-    <e><p><l>improve<s n="vblex"/></l><r>migliorare<s n="vblex"/></r></p></e>
     <e><p><l>modernise<s n="vblex"/></l><r>modernizzare<s n="vblex"/></r></p></e>
     <e><p><l>mount<s n="vblex"/></l><r>montare<s n="vblex"/></r></p></e>
     <e><p><l>narrate<s n="vblex"/></l><r>narrare<s n="vblex"/></r></p></e>
@@ -94236,10 +94224,8 @@
     <e><p><l>remain<s n="vblex"/></l><r>restare<s n="vblex"/></r></p></e>
     <e><p><l>reduce<s n="vblex"/></l><r>ridurre<s n="vblex"/></r></p></e>
     <e><p><l>refuse<s n="vblex"/></l><r>rifiutare<s n="vblex"/></r></p></e>
-    <e><p><l>resort<s n="vblex"/></l><r>ricorrere<s n="vblex"/></r></p></e>
     <e><p><l>reconstitute<s n="vblex"/></l><r>ricostituire<s n="vblex"/></r></p></e>
     <e><p><l>resupply<s n="vblex"/></l><r>rifornire<s n="vblex"/></r></p></e>
-    <e><p><l>remain<s n="vblex"/></l><r>rimanere<s n="vblex"/></r></p></e>
     <e><p><l>repatriate<s n="vblex"/></l><r>rimpatriare<s n="vblex"/></r></p></e>
     <e><p><l>renegotiate<s n="vblex"/></l><r>rinegoziare<s n="vblex"/></r></p></e>
     <e><p><l>revitalise<s n="vblex"/></l><r>rivitalizzare<s n="vblex"/></r></p></e>
@@ -94291,8 +94277,6 @@
     <e><p><l>pass<s n="vblex"/></l><r>transitare<s n="vblex"/></r></p></e>
     <e><p><l>weave<s n="vblex"/></l><r>tramare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>terminate<s n="vblex"/></l><r>terminare<s n="vblex"/></r></p></e>
-    <e><p><l>end<s n="vblex"/></l><r>terminare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>finish<s n="vblex"/></l><r>terminare<s n="vblex"/></r></p></e>
     <e><p><l>sublimate<s n="vblex"/></l><r>sublimare<s n="vblex"/></r></p></e>
     <e><p><l>twist<s n="vblex"/></l><r>storcere<s n="vblex"/></r></p></e>
     <e><p><l>temper<s n="vblex"/></l><r>temperare<s n="vblex"/></r></p></e>

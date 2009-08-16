@@ -25096,6 +25096,7 @@
     <e lm="toast"><i>toast</i><par n="accept__vblex"/>    </e>
     <e lm="enchant"><i>enchant</i><par n="accept__vblex"/>    </e>
     <e lm="polish"><i>polish</i><par n="approach__vblex"/>    </e>
+    <e lm="bewitch"><i>bewitch</i><par n="approach__vblex"/>    </e>
     <e lm="treat"><i>treat</i><par n="accept__vblex"/>    </e>
     <e lm="humiliate"><i>humiliat</i><par n="liv/e__vblex"/>    </e>
     <e lm="cost" r="LR"><i>cost</i><par n="accept__vblex"/>    </e>
@@ -25108,6 +25109,8 @@
     <e lm="ignite"><i>ignit</i><par n="liv/e__vblex"/>    </e>
     <e lm="intimidate"><i>intimidat</i><par n="liv/e__vblex"/>    </e>
     <e lm="infiltrate"><i>infiltrat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="transliterate"><i>transliterat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="triumph"><i>triumph</i><par n="accept__vblex"/>    </e>
     <e lm="start"><i>start</i><par n="accept__vblex"/>    </e>
     <e lm="install"><i>install</i><par n="accept__vblex"/>    </e>
     <e lm="inscribe"><i>inscrib</i><par n="liv/e__vblex"/>    </e>
@@ -26540,6 +26543,7 @@
     <e lm="be hungry"><par n="/be__vblex"/>      <p>        <l><b/>hungry</l><r><g><b/>hungry</g></r></p></e>
     <e lm="be dying"><par n="/be__vblex"/>      <p>        <l><b/>dying</l><r><g><b/>dying</g></r></p></e>
     <e lm="be in decline"><par n="/be__vblex"/>      <p>        <l><b/>in<b/>decline</l><r><g><b/>in<b/>decline</g></r></p></e>
+    <e lm="be shipwrecked"><par n="/be__vblex"/>      <p>        <l><b/>shipwrecked</l><r><g><b/>shipwrecked</g></r></p></e>
     <e lm="drink like a fish"><i>dr</i><par n="dr/ink__vblex"/>      <p>        <l><b/>like<b/>a<b/>fish</l><r><g><b/>like<b/>a<b/>fish</g></r></p></e>
     <e lm="pay cash"><i>pa</i><par n="pa/y__vblex"/>      <p>        <l><b/>cash</l><r><g><b/>cash</g></r></p></e>
     <e lm="go Dutch">      <i/>      <par n="/go__vblex"/>      <p>        <l><b/>Dutch</l><r><g><b/>Dutch</g></r></p></e>
