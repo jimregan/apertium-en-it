@@ -8348,7 +8348,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>achieve<s n="vblex"/></l> 
         <r>conseguire<s n="vblex"/></r> 
@@ -41866,28 +41866,6 @@
     <e>
       <p>
         <l>get<s n="vblex"/></l> 
-        <r>conseguire<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>get<s n="vblex"/></l> 
-        <r>arrivare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>get<s n="vblex"/></l> 
         <r>ricevere<s n="vblex"/></r> 
       </p>
     </e>
@@ -41896,7 +41874,7 @@
 	forced 'null' restriction
       ND-39
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>get<g><b/>across</g><s n="vblex"/><s n="sep"/></l> 
         <r>comunicare<s n="vblex"/></r> 
@@ -41929,7 +41907,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>get<g><b/>bigger</g><s n="vblex"/></l> 
         <r>crescere<s n="vblex"/></r> 
@@ -41951,7 +41929,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>get<g><b/>hold<b/>of</g><s n="vblex"/></l> 
         <r>conseguire<s n="vblex"/></r> 
@@ -42391,7 +42369,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>go<g><b/>on</g><s n="vblex"/></l> 
         <r>continuare<s n="vblex"/></r> 
@@ -51088,7 +51066,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e c="keep + ger (keep doing...) -> transfer?. En direcció ca-en tb s'hauria de detectar la construcció amb gerundi">
+    <e c="keep + ger (keep doing...) -> transfer?. En direcció ca-en tb s'hauria de detectar la construcció amb gerundi" r="LR">
       <p>
         <l>keep<s n="vblex"/></l> 
         <r>continuare<s n="vblex"/></r> 
@@ -51110,7 +51088,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>keep<g><b/>on</g><s n="vblex"/></l> 
         <r>continuare<s n="vblex"/></r> 
@@ -53354,7 +53332,7 @@
 	forced 'null' restriction
       ND-39
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>line<g><b/>up</g><s n="vblex"/><s n="sep"/></l> 
         <r>allineare<s n="vblex"/></r> 
@@ -54916,7 +54894,7 @@
 	forced 'null' restriction
       ND-39
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>make<g><b/>up</g><s n="vblex"/><s n="sep"/></l> 
         <r>fare<s n="vblex"/></r> 
@@ -70986,7 +70964,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e c="alinear o colocar">
+    <e c="alinear o colocar" r="LR">
       <p>
         <l>range<s n="vblex"/></l> 
         <r>allineare<s n="vblex"/></r> 
@@ -77201,7 +77179,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>show<g><b/>up</g><s n="vblex"/></l> 
         <r>apparire<s n="vblex"/></r> 
@@ -83089,18 +83067,7 @@
       </p>
     </e>
 
-    <e c="(walk, picture, break, test, exam, course, look, trip, photograph, photo)">
-      <p>
-        <l>take<s n="vblex"/></l> 
-        <r>fare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e c="(I took him home)">
+    <e c="(I took him home) slr!" i="yes">
       <p>
         <l>take<s n="vblex"/></l> 
         <r>portare<s n="vblex"/></r> 
@@ -83122,7 +83089,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e i="yes">
       <p>
         <l>take<s n="vblex"/></l> 
         <r>tardare<s n="vblex"/></r> 
@@ -87554,7 +87521,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>turn<g><b/>up</g><s n="vblex"/></l> 
         <r>apparire<s n="vblex"/></r> 
@@ -94183,15 +94150,12 @@
     <e><p><l>align<s n="vblex"/></l><r>allineare<s n="vblex"/></r></p></e>
     <e><p><l>allude<s n="vblex"/></l><r>alludere<s n="vblex"/></r></p></e>
     <e><p><l>anticipate<s n="vblex"/></l><r>anticipare<s n="vblex"/></r></p></e>
-    <e><p><l>appear<s n="vblex"/></l><r>apparire<s n="vblex"/></r></p></e>
     <e><p><l>assault<s n="vblex"/></l><r>assaltare<s n="vblex"/></r></p></e>
     <e><p><l>anticipate<s n="vblex"/></l><r>anticipare<s n="vblex"/></r></p></e>
-    <e><p><l>appear<s n="vblex"/></l><r>apparire<s n="vblex"/></r></p></e>
     <e><p><l>assault<s n="vblex"/></l><r>assaltare<s n="vblex"/></r></p></e>
     <e><p><l>have<s n="vbhaver"/></l><r>avere<s n="vbhaver"/></r></p></e>
     <e><p><l>annihilate<s n="vblex"/></l><r>annientare<s n="vblex"/></r></p></e>
     <e><p><l>hope<s n="vblex"/></l><r>auspicare<s n="vblex"/></r></p></e>
-    <e><p><l>communicate<s n="vblex"/></l><r>comunicare<s n="vblex"/></r></p></e>
     <e><p><l>benefit<s n="vblex"/></l><r>avvantaggiare<s n="vblex"/></r></p></e>
     <e><p><l>shit<s n="vblex"/></l><r>cacare<s n="vblex"/></r></p></e>
     <e><p><l>fall<s n="vblex"/></l><r>calare<s n="vblex"/></r></p></e>
@@ -94204,10 +94168,7 @@
     <e><p><l>wet<s n="vblex"/></l><r>bagnare<s n="vblex"/></r></p></e>
     <e><p><l>crap<s n="vblex"/></l><r>cagare<s n="vblex"/></r></p></e>
     <e><p><l>lead<s n="vblex"/></l><r>condurre<s n="vblex"/></r></p></e>
-    <e><p><l>continue<s n="vblex"/></l><r>continuare<s n="vblex"/></r></p></e>
-    <e><p><l>grow<s n="vblex"/></l><r>crescere<s n="vblex"/></r></p></e>
     <e><p><l>culminate<s n="vblex"/></l><r>culminare<s n="vblex"/></r></p></e>
-    <e><p><l>achieve<s n="vblex"/></l><r>conseguire<s n="vblex"/></r></p></e>
     <e><p><l>gather<s n="vblex"/></l><r>congregare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>congregate<s n="vblex"/></l><r>congregare<s n="vblex"/></r></p></e>
     <e><p><l>compare<s n="vblex"/></l><r>confrontare<s n="vblex"/></r></p></e>
@@ -94341,7 +94302,7 @@
     <e><p><l>underestimate<s n="vblex"/></l><r>sottovalutare<s n="vblex"/></r></p></e>
     <e><p><l>acclimatise<s n="vblex"/></l><r>ambientare<s n="vblex"/></r></p></e>
     <e><p><l>assume<s n="vblex"/></l><r>assumere<s n="vblex"/></r></p></e>
-    <e><p><l>pick<g><b/>up</g><s n="vblex"/></l><r>captare<s n="vblex"/></r></p></e>
+    <e><p><l>pick<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>captare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>drip<s n="vblex"/></l><r>colare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>drain<s n="vblex"/></l><r>colare<s n="vblex"/></r></p></e>
     <e><p><l>leak<s n="vblex"/></l><r>colare<s n="vblex"/></r></p></e>
