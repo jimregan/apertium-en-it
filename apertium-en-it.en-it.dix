@@ -923,17 +923,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Aristotle<s n="np"/><s n="ant"/></l> 
-        <r>Aristotele<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-7
     -->
     <e>
@@ -1974,17 +1963,6 @@
       <p>
         <l>David<s n="np"/><s n="ant"/></l> 
         <r>David<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>David<s n="np"/></l> 
-        <r>David<s n="np"/></r> 
       </p>
     </e>
 
@@ -3192,7 +3170,7 @@
     <e>
       <p>
         <l>Hercules<s n="np"/><s n="ant"/></l> 
-        <r>Ercole<s n="np"/></r> 
+        <r>Ercole<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -3258,7 +3236,7 @@
     <e>
       <p>
         <l>Horace<s n="np"/><s n="ant"/></l> 
-        <r>Orazio<s n="np"/></r> 
+        <r>Orazio<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -3832,19 +3810,8 @@
     -->
     <e>
       <p>
-        <l>Jesús<s n="np"/><s n="ant"/></l> 
+        <l>Jesus<s n="np"/><s n="ant"/></l> 
         <r>Gesù<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Jesús<s n="np"/></l> 
-        <r>Gesù<s n="np"/></r> 
       </p>
     </e>
 
@@ -4017,17 +3984,6 @@
       <p>
         <l>June<s n="n"/></l> 
         <r>giugno<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Jupiter<s n="np"/><s n="ant"/></l> 
-        <r>Giove<s n="np"/></r> 
       </p>
     </e>
 
@@ -5277,17 +5233,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Napoleon<s n="np"/><s n="ant"/></l> 
-        <r>Napoleone<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-7
     -->
     <e>
@@ -5927,29 +5872,7 @@
     <e>
       <p>
         <l>Pyrenees<s n="np"/><s n="loc"/><s n="pl"/></l> 
-        <r>Pirenei<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Pérez<s n="np"/><s n="cog"/><s n="sg"/></l> 
-        <r>Pérez<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Pérez<s n="np"/><s n="cog"/><s n="pl"/></l> 
-        <r>Pérez<s n="np"/><s n="ant"/></r> 
+        <r>Pirenei<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -6092,7 +6015,7 @@
     <e>
       <p>
         <l>Rodríguez<s n="np"/><s n="cog"/><s n="sg"/></l> 
-        <r>Rodríguez<s n="np"/><s n="ant"/></r> 
+        <r>Rodríguez<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -6100,10 +6023,10 @@
 	forced 'null' restriction
       default
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>Rodríguez<s n="np"/><s n="cog"/><s n="pl"/></l> 
-        <r>Rodríguez<s n="np"/><s n="ant"/></r> 
+        <r>Rodríguez<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -6169,7 +6092,7 @@
     <e r="RL">
       <p>
         <l>Russian<s n="n"/></l> 
-        <r>russo<s n="n"/><s n="m"/></r> 
+        <r>russo<s n="n"/></r> 
       </p>
     </e>
 
@@ -6871,7 +6794,7 @@
     <e>
       <p>
         <l>U.S.<s n="np"/><s n="loc"/><s n="sg"/></l> 
-        <r>USA<s n="np"/></r> 
+        <r>USA<s n="np"/><s n="loc"/><s n="m"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -6882,7 +6805,7 @@
     <e c="United Nations ">
       <p>
         <l>UN<s n="n"/><s n="acr"/></l> 
-        <r>ONU<s n="n"/></r> 
+        <r>ONU<s n="n"/><s n="acr"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -94806,5 +94729,9 @@
 <e><p><l>Virgil<s n="np"/><s n="ant"/></l><r>Virgilio<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Phaedra<s n="np"/><s n="ant"/></l><r>Phaedra<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Iphigenia<s n="np"/><s n="ant"/></l><r>Ifigenia<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Xerxes<s n="np"/><s n="ant"/></l><r>Serse<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Scipion<s n="np"/><s n="ant"/></l><r>Scipione<s n="np"/><s n="ant"/></r></p></e>
+<e r="RL"><p><l>Theophorus<s n="np"/><s n="ant"/></l><r>Ignazio<b/>di<b/>Antiochia<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Ignatius<b/>of<b/>Antioch<s n="np"/><s n="ant"/></l><r>Ignazio<b/>di<b/>Antiochia<s n="np"/><s n="ant"/></r></p></e>
   </section>
 </dictionary>
