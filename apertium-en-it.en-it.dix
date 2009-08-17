@@ -4099,17 +4099,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Lancelot<s n="np"/><s n="ant"/></l> 
-        <r>Lanzarote<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-7
     -->
     <e>
@@ -94615,6 +94604,7 @@
 <e><p><l>Albert<b/>Camus<s n="np"/><s n="ant"/></l><r>Albert<b/>Camus<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Albert<b/>II<b/>of<b/>Monaco<s n="np"/><s n="ant"/></l><r>Alberto<b/>II<b/>di<b/>Monaco<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Albert<b/>I<b/>of<b/>Monaco<s n="np"/><s n="ant"/></l><r>Alberto<b/>I<b/>di<b/>Monaco<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Albert<b/>of<b/>Monaco<s n="np"/><s n="ant"/></l><r>Alberto<b/>di<b/>Monaco<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Albrecht<b/>Dürer<s n="np"/><s n="ant"/></l><r>Albrecht<b/>Dürer<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Alexander<b/>the<b/>Great<s n="np"/><s n="ant"/></l><r>Alessandro<b/>Magno<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Alexandre<b/>Dumas<s n="np"/><s n="ant"/></l><r>Alexandre<b/>Dumas<s n="np"/><s n="ant"/></r></p></e>
@@ -94689,6 +94679,7 @@
 <e><p><l>John<b/>VI<s n="np"/><s n="ant"/></l><r>Giovanni<b/>VI<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>John<b/>VII<s n="np"/><s n="ant"/></l><r>Giovanni<b/>VII<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>John<b/>VIII<s n="np"/><s n="ant"/></l><r>Giovanni<b/>VIII<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>John<b/>IX<s n="np"/><s n="ant"/></l><r>Giovanni<b/>IX<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>John<b/>X<s n="np"/><s n="ant"/></l><r>Giovanni<b/>X<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>John<b/>XI<s n="np"/><s n="ant"/></l><r>Giovanni<b/>XI<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>John<b/>XII<s n="np"/><s n="ant"/></l><r>Giovanni<b/>XII<s n="np"/><s n="ant"/></r></p></e>
@@ -94718,12 +94709,19 @@
 <e><p><l>Kim<b/>Jong-il<s n="np"/><s n="ant"/></l><r>Kim<b/>Jong-il<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>King<b/>Solomon<s n="np"/><s n="ant"/></l><r>Re<b/>Salomone<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Lancelot<b/>du<b/>Lac<s n="np"/><s n="ant"/></l><r>Lancillotto<b/>del<b/>Lago<s n="np"/><s n="ant"/></r></p></e>
-<e r="RL"><p><l>Lancelot<b/>of<b/>the<b/>Lake<s n="np"/><s n="ant"/></l><r>Lancillotto<b/>del<b/>Lago<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Lancelot<s n="np"/><s n="ant"/></l><r>Lancillotto<s n="np"/><s n="ant"/></r></p></e>
+<e r="LR"><p><l>Launcelot<s n="np"/><s n="ant"/></l><r>Lancillotto<s n="np"/><s n="ant"/></r></p></e>
+<e r="LR"><p><l>Lancelot<b/>of<b/>the<b/>Lake<s n="np"/><s n="ant"/></l><r>Lancillotto<b/>del<b/>Lago<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Lech<b/>Kaczynski<s n="np"/><s n="ant"/></l><r>Lech<b/>Kaczyński<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Leo<b/>I<s n="np"/><s n="ant"/></l><r>Leone<b/>I<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Leo<b/>II<s n="np"/><s n="ant"/></l><r>Leone<b/>II<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Leo<b/>III<s n="np"/><s n="ant"/></l><r>Leone<b/>III<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Leo<b/>IX<s n="np"/><s n="ant"/></l><r>Leone<b/>IX<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Leo<b/>IV<s n="np"/><s n="ant"/></l><r>Leone<b/>IV<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Leo<b/>V<s n="np"/><s n="ant"/></l><r>Leone<b/>V<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Leo<b/>VI<s n="np"/><s n="ant"/></l><r>Leone<b/>VI<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Leo<b/>VII<s n="np"/><s n="ant"/></l><r>Leone<b/>VII<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Leo<b/>VIII<s n="np"/><s n="ant"/></l><r>Leone<b/>VIII<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Leo<b/>IX<s n="np"/><s n="ant"/></l><r>Leone<b/>IX<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Leo<b/>X<s n="np"/><s n="ant"/></l><r>Leone<b/>X<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Leo<b/>XI<s n="np"/><s n="ant"/></l><r>Leone<b/>XI<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Leo<b/>XII<s n="np"/><s n="ant"/></l><r>Leone<b/>XII<s n="np"/><s n="ant"/></r></p></e>
@@ -94756,5 +94754,12 @@
 <e><p><l>Vicente<b/>Aleixandre<s n="np"/><s n="ant"/></l><r>Vicente<b/>Aleixandre<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Victor<b/>Hugo<s n="np"/><s n="ant"/></l><r>Victor<b/>Hugo<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>W.<b/>B.<b/>Yeats<s n="np"/><s n="ant"/></l><r>W.<b/>B.<b/>Yeats<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Vlad<b/>III<b/>the<b/>Impaler<s n="np"/><s n="ant"/></l><r>Vlad<b/>III<b/>l'Impalatore<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Vlad<b/>the<b/>Impaler<s n="np"/><s n="ant"/></l><r>Vlad<b/>l'Impalatore<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Vlad<b/>Dracula<s n="np"/><s n="ant"/></l><r>Vlad<b/>Dracul<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Vlad<b/>Dracula<b/>Tepes<s n="np"/><s n="ant"/></l><r>Vlad<b/>Dracul<b/>Tepes<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Vlad<b/>III<b/>Dracula<s n="np"/><s n="ant"/></l><r>Vlad<b/>III<b/>Dracul<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Vyacheslav<b/>Molotov<s n="np"/><s n="ant"/></l><r>Vjačeslav<b/>Molotov<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Vyacheslav<b/>Mikhailovich<b/>Molotov<s n="np"/><s n="ant"/></l><r>Vjačeslav<b/>Michajlovič<b/>Molotov<s n="np"/><s n="ant"/></r></p></e>
   </section>
 </dictionary>
