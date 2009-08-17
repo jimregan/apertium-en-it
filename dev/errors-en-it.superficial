@@ -530,7 +530,6 @@
 ^.<sent>$ ^Federica<np><ant><f><sg>$	. \@Federica\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Federika<np><ant><f><sg>$	. \@Federika\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Fedora<np><ant><f><sg>$	. \@Fedora\<np\>\<ant\>\<f\>\<sg\>
-^.<sent>$ ^Phaedra<np><ant><f><sg>$	. \@Phaedra\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Feladelfa<np><ant><f><sg>$	. \@Feladelfa\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Felicia<np><ant><f><sg>$	. \@Felicia\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Feliciana<np><ant><f><sg>$	. \@Feliciana\<np\>\<ant\>\<f\>\<sg\>
@@ -726,7 +725,6 @@
 ^.<sent>$ ^Ideimar<np><ant><f><sg>$	. \@Ideimar\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Idelfonsa<np><ant><f><sg>$	. \@Idelfonsa\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Idoia<np><ant><f><sg>$	. \@Idoia\<np\>\<ant\>\<f\>\<sg\>
-^.<sent>$ ^Iphigenia<np><ant><f><sg>$	. \@Iphigenia\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Ignacia<np><ant><f><sg>$	. \@Ignacia\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Ignolinda<np><ant><f><sg>$	. \@Ignolinda\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Ildara<np><ant><f><sg>$	. \@Ildara\<np\>\<ant\>\<f\>\<sg\>
@@ -2372,7 +2370,6 @@
 ^.<sent>$ ^Zarita<np><ant><f><sg>$	. \@Zarita\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Abraám<np><ant><m><sg>$	. \@Abraám\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Bronislaw<np><ant><m><sg>$	. \@Bronislaw\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Bugs Bunny<np><ant><m><sg>$	. \@Bugs Bunny\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Dariusz<np><ant><m><sg>$	. \@Dariusz\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Etienne<np><ant><m><sg>$	. \@Etienne\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Estrabón<np><ant><m><sg>$	. \@Estrabón\<np\>\<ant\>\<m\>\<sg\>
@@ -2385,18 +2382,11 @@
 ^.<sent>$ ^Carlos Casares<np><ant><m><sg>$	. \@Carlos Casares\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Carlos Casares<np><ant><m><sg>$ ^'s<gen>$	. \@Carlos Casares\<np\>\<ant\>\<m\>\<sg\> 
 ^.<sent>$ ^Carlos Casares<np><ant><m><sg>$	. \@Carlos Casares\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Óscar Pereiro<np><ant><m><sg>$	. \@Óscar Pereiro\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Casares Quiroga<np><ant><m><sg>$	. \@Casares Quiroga\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Albert Camus<np><ant><m><sg>$	. \@Albert Camus\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Albert Camus<np><ant><m><sg>$ ^'s<gen>$	. \@Albert Camus\<np\>\<ant\>\<m\>\<sg\> 
-^.<sent>$ ^Albert Camus<np><ant><m><sg>$	. \@Albert Camus\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Rafael Nadal<np><ant><m><sg>$	. \@Rafael Nadal\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Musharraf<np><ant><m><sg>$	. \@Musharraf\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Percy<np><ant><m><sg>$	. \@Percy\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Kaká<np><ant><m><sg>$	. \@Kaká\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Robinho<np><ant><m><sg>$	. \@Robinho\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Bob<np><ant><m><sg>$	. \@Bob\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Bob Hope<np><ant><m><sg>$	. \@Bob Hope\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Xan<np><ant><m><sg>$	. \@Xan\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Xoán<np><ant><m><sg>$	. \@Xoán\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Xavi<np><ant><m><sg>$	. \@Xavi\<np\>\<ant\>\<m\>\<sg\>
@@ -2432,15 +2422,12 @@
 ^.<sent>$ ^Marcos da Portela<np><ant><m><sg>$	. \@Marcos da Portela\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Evo<np><ant><m><sg>$	. \@Evo\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Dave Brown<np><ant><m><sg>$	. \@Dave Brown\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Sandor Marai<np><ant><m><sg>$	. \@Sandor Marai\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Rob<np><ant><m><sg>$	. \@Rob\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Woody<np><ant><m><sg>$	. \@Woody\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Mao<np><ant><m><sg>$	. \@Mao\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Cesc<np><ant><m><sg>$	. \@Cesc\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Sigmund<np><ant><m><sg>$	. \@Sigmund\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Rio Ferdinand<np><ant><m><sg>$	. \@Rio Ferdinand\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Frederic<np><ant><m><sg>$	. \@Frederic\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Juande Ramos<np><ant><m><sg>$	. \@Juande Ramos\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Jensen<np><ant><m><sg>$	. \@Jensen\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Ron<np><ant><m><sg>$	. \@Ron\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Charlton<np><ant><m><sg>$	. \@Charlton\<np\>\<ant\>\<m\>\<sg\>
@@ -2556,7 +2543,6 @@
 ^.<sent>$ ^Célestin<np><ant><m><sg>$	. \@Célestin\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Cerf<np><ant><m><sg>$	. \@Cerf\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Cesaire<np><ant><m><sg>$	. \@Cesaire\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Charlemagne<np><ant><m><sg>$	. \@Charlemagne\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Chrestien<np><ant><m><sg>$	. \@Chrestien\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Chrétien<np><ant><m><sg>$	. \@Chrétien\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Clément<np><ant><m><sg>$	. \@Clément\<np\>\<ant\>\<m\>\<sg\>
@@ -2655,7 +2641,6 @@
 ^.<sent>$ ^Herluin<np><ant><m><sg>$	. \@Herluin\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Hervé<np><ant><m><sg>$	. \@Hervé\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Hilaire<np><ant><m><sg>$	. \@Hilaire\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Horace<np><ant><m><sg>$	. #Orazio\<m\>\<sg\>
 ^.<sent>$ ^Hrodger<np><ant><m><sg>$	. \@Hrodger\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Hubert<np><ant><m><sg>$	. \@Hubert\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Hugon<np><ant><m><sg>$	. \@Hugon\<np\>\<ant\>\<m\>\<sg\>
@@ -2672,11 +2657,9 @@
 ^.<sent>$ ^Jourdain<np><ant><m><sg>$	. \@Jourdain\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Juste<np><ant><m><sg>$	. \@Juste\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Lammert<np><ant><m><sg>$	. \@Lammert\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Lancelot<np><ant><m><sg>$	. #Lanzarote\<m\>\<sg\>
-^.<sent>$ ^Lancelot du Lac<np><ant><m><sg>$	. \@Lancelot du Lac\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Lancelot of the Lake<np><ant><m><sg>$	. \@Lancelot of the Lake\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Lancelot<np><ant><m><sg>$	. #Lancillotto\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Launce<np><ant><m><sg>$	. \@Launce\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Launcelot<np><ant><m><sg>$	. \@Launcelot\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Launcelot<np><ant><m><sg>$	. #Lancillotto\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Laurentin<np><ant><m><sg>$	. \@Laurentin\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Lazare<np><ant><m><sg>$	. \@Lazare\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Léandre<np><ant><m><sg>$	. \@Léandre\<np\>\<ant\>\<m\>\<sg\>
@@ -3033,10 +3016,6 @@
 ^.<sent>$ ^Donatello<np><ant><m><sg>$	. \@Donatello\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Henri Donnedieu de Vabres<np><ant><m><sg>$	. \@Henri Donnedieu de Vabres\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Renaud Donnedieu de Vabres<np><ant><m><sg>$	. \@Renaud Donnedieu de Vabres\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Philippe Douste-Blazy<np><ant><m><sg>$	. \@Philippe Douste-Blazy\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Josh Duhamel<np><ant><m><sg>$	. \@Josh Duhamel\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Georges Duhamel<np><ant><m><sg>$	. \@Georges Duhamel\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Mohamed ElBaradei<np><ant><m><sg>$	. \@Mohamed ElBaradei\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Émile<np><ant><m><sg>$	. \@Émile\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Éric<np><ant><m><sg>$	. \@Éric\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Ernst<np><ant><m><sg>$	. \@Ernst\<np\>\<ant\>\<m\>\<sg\>
@@ -3052,14 +3031,12 @@
 ^.<sent>$ ^Iván<np><ant><m><sg>$	. \@Iván\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Jacky<np><ant><m><sg>$	. \@Jacky\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Jaroslaw<np><ant><m><sg>$	. \@Jaroslaw\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Kim Jong-il<np><ant><m><sg>$	. \@Kim Jong-il\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Massimo<np><ant><m><sg>$	. \@Massimo\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Mel<np><ant><m><sg>$	. \@Mel\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Montgomery<np><ant><m><sg>$	. \@Montgomery\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Moustapha<np><ant><m><sg>$	. \@Moustapha\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Piter<np><ant><m><sg>$	. \@Piter\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Raphaël<np><ant><m><sg>$	. \@Raphaël\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Rasputin<np><ant><m><sg>$	. \@Rasputin\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^René<np><ant><m><sg>$	. \@René\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Ricard<np><ant><m><sg>$	. \@Ricard\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Román<np><ant><m><sg>$	. \@Román\<np\>\<ant\>\<m\>\<sg\>
@@ -3121,7 +3098,6 @@
 ^.<sent>$ ^Adonis<np><ant><m><sg>$	. \@Adonis\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Adrián<np><ant><m><sg>$	. \@Adrián\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Aelohim<np><ant><m><sg>$	. \@Aelohim\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Agamenón<np><ant><m><sg>$	. \@Agamenón\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Agapio<np><ant><m><sg>$	. \@Agapio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Agapito<np><ant><m><sg>$	. \@Agapito\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Agatón<np><ant><m><sg>$	. \@Agatón\<np\>\<ant\>\<m\>\<sg\>
@@ -3243,7 +3219,6 @@
 ^.<sent>$ ^Itziar<np><ant><f><sg>$	. \@Itziar\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Ainhoa Arteta<np><ant><f><sg>$	. \@Ainhoa Arteta\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Aniano<np><ant><m><sg>$	. \@Aniano\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Hannibal<np><ant><m><sg>$	. \@Hannibal\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Anícar<np><ant><m><sg>$	. \@Anícar\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Aniceto<np><ant><m><sg>$	. \@Aniceto\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Anís<np><ant><m><sg>$	. \@Anís\<np\>\<ant\>\<m\>\<sg\>
@@ -3268,7 +3243,6 @@
 ^.<sent>$ ^Apolo<np><ant><m><sg>$	. \@Apolo\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Apolodoro<np><ant><m><sg>$	. \@Apolodoro\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Apolonio<np><ant><m><sg>$	. \@Apolonio\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Achilles<np><ant><m><sg>$	. \@Achilles\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Aquilino<np><ant><m><sg>$	. \@Aquilino\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Arador<np><ant><m><sg>$	. \@Arador\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Aram<np><ant><m><sg>$	. \@Aram\<np\>\<ant\>\<m\>\<sg\>
@@ -3299,7 +3273,6 @@
 ^.<sent>$ ^Aristófanes<np><ant><m><sg>$	. \@Aristófanes\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Aristófanis<np><ant><m><sg>$	. \@Aristófanis\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Aristón<np><ant><m><sg>$	. \@Aristón\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Aristotle<np><ant><m><sg>$	. #Aristotele\<m\>\<sg\>
 ^.<sent>$ ^Arjan<np><ant><m><sg>$	. \@Arjan\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Armando<np><ant><m><sg>$	. \@Armando\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Armelio<np><ant><m><sg>$	. \@Armelio\<np\>\<ant\>\<m\>\<sg\>
@@ -3495,7 +3468,6 @@
 ^.<sent>$ ^Christian<np><ant><m><sg>$	. \@Christian\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Christopher<np><ant><m><sg>$	. \@Christopher\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Cicelo<np><ant><m><sg>$	. \@Cicelo\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Cicero<np><ant><m><sg>$	. \@Cicero\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Cimoteo<np><ant><m><sg>$	. \@Cimoteo\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Cintio<np><ant><m><sg>$	. \@Cintio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Cipriano<np><ant><m><sg>$	. \@Cipriano\<np\>\<ant\>\<m\>\<sg\>
@@ -3600,8 +3572,6 @@
 ^.<sent>$ ^Demian<np><ant><m><sg>$	. \@Demian\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Demían<np><ant><m><sg>$	. \@Demían\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Demócles<np><ant><m><sg>$	. \@Demócles\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Democritus<np><ant><m><sg>$	. \@Democritus\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Demosthenes<np><ant><m><sg>$	. \@Demosthenes\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Denel<np><ant><m><sg>$	. \@Denel\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Denis<np><ant><m><sg>$	. \@Denis\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Dennies<np><ant><m><sg>$	. \@Dennies\<np\>\<ant\>\<m\>\<sg\>
@@ -3730,10 +3700,8 @@
 ^.<sent>$ ^Emli<np><ant><m><sg>$	. \@Emli\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Emmanuel<np><ant><m><sg>$	. \@Emmanuel\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Emmanuelle<np><ant><m><sg>$	. \@Emmanuelle\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Aeneas<np><ant><m><sg>$	. \@Aeneas\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Enedín<np><ant><m><sg>$	. \@Enedín\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Enio<np><ant><m><sg>$	. \@Enio\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Ennius<np><ant><m><sg>$	. \@Ennius\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Enoc<np><ant><m><sg>$	. \@Enoc\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Enoch<np><ant><m><sg>$	. \@Enoch\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Enodio<np><ant><m><sg>$	. \@Enodio\<np\>\<ant\>\<m\>\<sg\>
@@ -3746,7 +3714,6 @@
 ^.<sent>$ ^Eranio<np><ant><m><sg>$	. \@Eranio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Erardo<np><ant><m><sg>$	. \@Erardo\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Erasio<np><ant><m><sg>$	. \@Erasio\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Erasmus<np><ant><m><sg>$	. \@Erasmus\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Erasto<np><ant><m><sg>$	. \@Erasto\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Erberto<np><ant><m><sg>$	. \@Erberto\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Ercilio<np><ant><m><sg>$	. \@Ercilio\<np\>\<ant\>\<m\>\<sg\>
@@ -3785,7 +3752,6 @@
 ^.<sent>$ ^Estefano<np><ant><m><sg>$	. \@Estefano\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Etelvino<np><ant><m><sg>$	. \@Etelvino\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Ethan<np><ant><m><sg>$	. \@Ethan\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Euclid<np><ant><m><sg>$	. \@Euclid\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Eudebio<np><ant><m><sg>$	. \@Eudebio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Eudoro<np><ant><m><sg>$	. \@Eudoro\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Eudosio<np><ant><m><sg>$	. \@Eudosio\<np\>\<ant\>\<m\>\<sg\>
@@ -3983,12 +3949,10 @@
 ^.<sent>$ ^Helvio<np><ant><m><sg>$	. \@Helvio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Henry<np><ant><m><sg>$	. \@Henry\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Heraclio<np><ant><m><sg>$	. \@Heraclio\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Heraclitus<np><ant><m><sg>$	. \@Heraclitus\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Heradio<np><ant><m><sg>$	. \@Heradio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Heraldo<np><ant><m><sg>$	. \@Heraldo\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Herberto<np><ant><m><sg>$	. \@Herberto\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Herculano<np><ant><m><sg>$	. \@Herculano\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Hercules<np><ant><m><sg>$	. #Ercole\<m\>\<sg\>
 ^.<sent>$ ^Heriberto<np><ant><m><sg>$	. \@Heriberto\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Heriberto<np><ant><m><sg>$	. \@Heriberto\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Hermán<np><ant><m><sg>$	. \@Hermán\<np\>\<ant\>\<m\>\<sg\>
@@ -4132,10 +4096,9 @@
 ^.<sent>$ ^Joviano<np><ant><m><sg>$	. \@Joviano\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Jovino<np><ant><m><sg>$	. \@Jovino\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Jovito<np><ant><m><sg>$	. \@Jovito\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Juan Carlos<np><ant><m><sg>$	. \@Juan Carlos\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Juan Cruz<np><ant><m><sg>$	. \@Juan Cruz\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Juan de Dios<np><ant><m><sg>$	. \@Juan de Dios\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Juan de Mata<np><ant><m><sg>$	. \@Juan de Mata\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^John of God<np><ant><m><sg>$	. \@John of God\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^John of Matha<np><ant><m><sg>$	. \@John of Matha\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Juan Diego de Guadalupe<np><ant><m><sg>$	. \@Juan Diego de Guadalupe\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Juan María<np><ant><m><sg>$	. \@Juan María\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Juanse<np><ant><m><sg>$	. \@Juanse\<np\>\<ant\>\<m\>\<sg\>
@@ -4147,7 +4110,6 @@
 ^.<sent>$ ^Julio<np><ant><m><sg>$	. \@Julio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Julius<np><ant><m><sg>$	. \@Julius\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Junior<np><ant><m><sg>$	. \@Junior\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Jupiter<np><ant><m><sg>$	. #Giove\<m\>\<sg\>
 ^.<sent>$ ^Jurgen<np><ant><m><sg>$	. \@Jurgen\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Justiniano<np><ant><m><sg>$	. \@Justiniano\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Justino<np><ant><m><sg>$	. \@Justino\<np\>\<ant\>\<m\>\<sg\>
@@ -4279,8 +4241,6 @@
 ^.<sent>$ ^Marciel<np><ant><m><sg>$	. \@Marciel\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Marcio<np><ant><m><sg>$	. \@Marcio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Marco<np><ant><m><sg>$	. \@Marco\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Marco Antonio<np><ant><m><sg>$	. \@Marco Antonio\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Marco Polo<np><ant><m><sg>$	. \@Marco Polo\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Marcolino<np><ant><m><sg>$	. \@Marcolino\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Marcos<np><ant><m><sg>$	. \@Marcos\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Mardo<np><ant><m><sg>$	. \@Mardo\<np\>\<ant\>\<m\>\<sg\>
@@ -4326,7 +4286,6 @@
 ^.<sent>$ ^Melquiades<np><ant><m><sg>$	. \@Melquiades\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Melquíades<np><ant><m><sg>$	. \@Melquíades\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Menelao<np><ant><m><sg>$	. \@Menelao\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Mercury<np><ant><m><sg>$	. \@Mercury\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Merlín<np><ant><m><sg>$	. \@Merlín\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Meyer<np><ant><m><sg>$	. \@Meyer\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Micael<np><ant><m><sg>$	. \@Micael\<np\>\<ant\>\<m\>\<sg\>
@@ -4335,7 +4294,6 @@
 ^.<sent>$ ^Miguel de los Santos<np><ant><m><sg>$	. \@Miguel de los Santos\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Mikhail<np><ant><m><sg>$	. \@Mikhail\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Milad<np><ant><m><sg>$	. \@Milad\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Miltiades<np><ant><m><sg>$	. \@Miltiades\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Miles<np><ant><m><sg>$	. \@Miles\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Milet<np><ant><m><sg>$	. \@Milet\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Milian<np><ant><m><sg>$	. \@Milian\<np\>\<ant\>\<m\>\<sg\>
@@ -4347,11 +4305,9 @@
 ^.<sent>$ ^Miyén<np><ant><m><sg>$	. \@Miyén\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Modesto<np><ant><m><sg>$	. \@Modesto\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Mohamed<np><ant><m><sg>$	. \@Mohamed\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Moses<np><ant><m><sg>$	. \@Moses\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Monitor<np><ant><m><sg>$	. \@Monitor\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Mustafá<np><ant><m><sg>$	. \@Mustafá\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Nabil<np><ant><m><sg>$	. \@Nabil\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Nebuchadnezzar<np><ant><m><sg>$	. \@Nebuchadnezzar\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Nader<np><ant><m><sg>$	. \@Nader\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Nadin<np><ant><m><sg>$	. \@Nadin\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Nador<np><ant><m><sg>$	. \@Nador\<np\>\<ant\>\<m\>\<sg\>
@@ -4462,7 +4418,6 @@
 ^.<sent>$ ^Orencio<np><ant><m><sg>$	. \@Orencio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Oreste<np><ant><m><sg>$	. \@Oreste\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Orestes<np><ant><m><sg>$	. \@Orestes\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Orpheus<np><ant><m><sg>$	. \@Orpheus\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Orfilio<np><ant><m><sg>$	. \@Orfilio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Oriel<np><ant><m><sg>$	. \@Oriel\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Orion<np><ant><m><sg>$	. \@Orion\<np\>\<ant\>\<m\>\<sg\>
@@ -4533,11 +4488,6 @@
 ^.<sent>$ ^Pirro<np><ant><m><sg>$	. \@Pirro\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Pitias<np><ant><m><sg>$	. \@Pitias\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Plácido<np><ant><m><sg>$	. \@Plácido\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Plato<np><ant><m><sg>$	. \@Plato\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Pliny<np><ant><m><sg>$	. \@Pliny\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Plutarch<np><ant><m><sg>$	. \@Plutarch\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Polycarp<np><ant><m><sg>$	. \@Polycarp\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Polydorus<np><ant><m><sg>$	. \@Polydorus\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Polo<np><ant><m><sg>$	. \@Polo\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Polonio<np><ant><m><sg>$	. \@Polonio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Pompeo<np><ant><m><sg>$	. \@Pompeo\<np\>\<ant\>\<m\>\<sg\>
@@ -4555,7 +4505,6 @@
 ^.<sent>$ ^Primo<np><ant><m><sg>$	. \@Primo\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Prisciano<np><ant><m><sg>$	. \@Prisciano\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Procopio<np><ant><m><sg>$	. \@Procopio\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Prometheus<np><ant><m><sg>$	. \@Prometheus\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Próscoro<np><ant><m><sg>$	. \@Próscoro\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Próspero<np><ant><m><sg>$	. \@Próspero\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Protasio<np><ant><m><sg>$	. \@Protasio\<np\>\<ant\>\<m\>\<sg\>
@@ -4661,7 +4610,6 @@
 ^.<sent>$ ^Sixto<np><ant><m><sg>$	. \@Sixto\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Sofanor<np><ant><m><sg>$	. \@Sofanor\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Sofiel<np><ant><m><sg>$	. \@Sofiel\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Sophocles<np><ant><m><sg>$	. \@Sophocles\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Sofronio<np><ant><m><sg>$	. \@Sofronio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Solano<np><ant><m><sg>$	. \@Solano\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Soleno<np><ant><m><sg>$	. \@Soleno\<np\>\<ant\>\<m\>\<sg\>
@@ -4687,7 +4635,6 @@
 ^.<sent>$ ^Tarcisio<np><ant><m><sg>$	. \@Tarcisio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Tatiano<np><ant><m><sg>$	. \@Tatiano\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Teinad<np><ant><m><sg>$	. \@Teinad\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Telemachus<np><ant><m><sg>$	. \@Telemachus\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Telesco<np><ant><m><sg>$	. \@Telesco\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Telesphorus<np><ant><m><sg>$	. \@Telesphorus\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Telmo<np><ant><m><sg>$	. \@Telmo\<np\>\<ant\>\<m\>\<sg\>
@@ -4723,7 +4670,6 @@
 ^.<sent>$ ^Tito<np><ant><m><sg>$	. #Tito\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Tiziano<np><ant><m><sg>$	. \@Tiziano\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Tobías<np><ant><m><sg>$	. \@Tobías\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Ptolemy<np><ant><m><sg>$	. \@Ptolemy\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Ptolemey<np><ant><m><sg>$	. \@Ptolemey\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Tomás<np><ant><m><sg>$	. \@Tomás\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Tomé<np><ant><m><sg>$	. \@Tomé\<np\>\<ant\>\<m\>\<sg\>
@@ -4788,7 +4734,6 @@
 ^.<sent>$ ^Vincent<np><ant><m><sg>$	. \@Vincent\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Vinicio<np><ant><m><sg>$	. \@Vinicio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Vinko<np><ant><m><sg>$	. \@Vinko\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Virgil<np><ant><m><sg>$	. \@Virgil\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Virginio<np><ant><m><sg>$	. \@Virginio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Vital<np><ant><m><sg>$	. \@Vital\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Vito<np><ant><m><sg>$	. \@Vito\<np\>\<ant\>\<m\>\<sg\>
@@ -5192,7 +5137,6 @@
 ^.<sent>$ ^Ezra<np><ant><m><sg>$	. \@Ezra\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Fabian<np><ant><m><sg>$	. \@Fabian\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Felix<np><ant><m><sg>$	. #Felix\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Fidel Castro<np><ant><m><sg>$	. \@Fidel Castro\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Finlay<np><ant><m><sg>$	. \@Finlay\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Finley<np><ant><m><sg>$	. \@Finley\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Finn<np><ant><m><sg>$	. \@Finn\<np\>\<ant\>\<m\>\<sg\>
@@ -5542,12 +5486,10 @@
 ^.<sent>$ ^Mohammed<np><ant><m><sg>$	. \@Mohammed\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Moises<np><ant><m><sg>$	. \@Moises\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Morgan<np><ant><m><sg>$	. \@Morgan\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Moses<np><ant><m><sg>$	. \@Moses\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Moshe<np><ant><m><sg>$	. \@Moshe\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Muhammad<np><ant><m><sg>$	. \@Muhammad\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Mustafa<np><ant><m><sg>$	. \@Mustafa\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Myles<np><ant><m><sg>$	. \@Myles\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Napoleon<np><ant><m><sg>$	. #Napoleone\<m\>\<sg\>
 ^.<sent>$ ^Nash<np><ant><m><sg>$	. \@Nash\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Nasir<np><ant><m><sg>$	. \@Nasir\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Nathan<np><ant><m><sg>$	. \@Nathan\<np\>\<ant\>\<m\>\<sg\>
@@ -5568,7 +5510,6 @@
 ^.<sent>$ ^Nigel<np><ant><m><sg>$	. \@Nigel\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Nikhil<np><ant><m><sg>$	. \@Nikhil\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Nikolas<np><ant><m><sg>$	. \@Nikolas\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Noah<np><ant><m><sg>$	. \@Noah\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Noe<np><ant><m><sg>$	. \@Noe\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Noel<np><ant><m><sg>$	. \@Noel\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Nolan<np><ant><m><sg>$	. \@Nolan\<np\>\<ant\>\<m\>\<sg\>
@@ -5674,7 +5615,6 @@
 ^.<sent>$ ^Sam<np><ant><m><sg>$	. \@Sam\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Samir<np><ant><m><sg>$	. \@Samir\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Sammy<np><ant><m><sg>$	. \@Sammy\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Samson<np><ant><m><sg>$	. \@Samson\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Santiago<np><ant><m><sg>$	. #Santiago\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Santino<np><ant><m><sg>$	. \@Santino\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Santos<np><ant><m><sg>$	. \@Santos\<np\>\<ant\>\<m\>\<sg\>
@@ -8361,20 +8301,11 @@
 ^.<sent>$ ^Thibaut<np><ant><m><sg>$	. \@Thibaut\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Timothée<np><ant><m><sg>$	. \@Timothée\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Zacharie<np><ant><m><sg>$	. \@Zacharie\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Vicente Aleixandre<np><ant><m><sg>$	. \@Vicente Aleixandre\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Raul Albiol<np><ant><m><sg>$	. \@Raul Albiol\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Pedro Almodóvar<np><ant><m><sg>$	. \@Pedro Almodóvar\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Manuel Almunia<np><ant><m><sg>$	. \@Manuel Almunia\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Joaquín Almunia<np><ant><m><sg>$	. \@Joaquín Almunia\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Joaquín Almunia Amann<np><ant><m><sg>$	. \@Joaquín Almunia Amann\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Felip<np><ant><m><sg>$	. \@Felip\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Abdul Hamid II<np><ant><m><sg>$	. \@Abdul Hamid II\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Abdullah Ahmad Badawi<np><ant><m><sg>$	. \@Abdullah Ahmad Badawi\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Abdullah Gül<np><ant><m><sg>$	. \@Abdullah Gül\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Abu Dahdah<np><ant><m><sg>$	. \@Abu Dahdah\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Aga Khan<np><ant><m><sg>$	. \@Aga Khan\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Alan García Pérez<np><ant><m><sg>$	. \@Alan García Pérez\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Ayman al-Zawahiri<np><ant><m><sg>$	. \@Ayman al-Zawahiri\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Alasdair<np><ant><m><sg>$	. \@Alasdair\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Alain<np><ant><m><sg>$	. \@Alain\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Elvira<np><ant><f><sg>$	. \@Elvira\<np\>\<ant\>\<f\>\<sg\>
@@ -8436,7 +8367,6 @@
 ^.<sent>$ ^Mathieu<np><ant><m><sg>$	. \@Mathieu\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Matthias<np><ant><m><sg>$	. \@Matthias\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Mathias<np><ant><m><sg>$	. \@Mathias\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Osama bin Laden<np><ant><m><sg>$	. \@Osama bin Laden\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Rick<np><ant><m><sg>$	. \@Rick\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Stanislas<np><ant><m><sg>$	. \@Stanislas\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Tim<np><ant><m><sg>$	. \@Tim\<np\>\<ant\>\<m\>\<sg\>
@@ -8444,40 +8374,22 @@
 ^.<sent>$ ^Walt<np><ant><m><sg>$	. \@Walt\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Yves<np><ant><m><sg>$	. \@Yves\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Youssouf<np><ant><m><sg>$	. \@Youssouf\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Ang Lee<np><ant><m><sg>$	. \@Ang Lee\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Archibald<np><ant><m><sg>$	. \@Archibald\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Bram Stoker<np><ant><m><sg>$	. \@Bram Stoker\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Bram<np><ant><m><sg>$	. \@Bram\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Bono<np><ant><m><sg>$	. \@Bono\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Chiang Kai-shek<np><ant><m><sg>$	. \@Chiang Kai-shek\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Daniel Ortega<np><ant><m><sg>$	. \@Daniel Ortega\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Gerry Adams<np><ant><m><sg>$	. \@Gerry Adams\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Gerry<np><ant><m><sg>$	. \@Gerry\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Gordon Brown<np><ant><m><sg>$	. \@Gordon Brown\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^José Luis Rodríguez Zapatero<np><ant><m><sg>$	. \@José Luis Rodríguez Zapatero\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^José María Aznar<np><ant><m><sg>$	. \@José María Aznar\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^José María Barreda<np><ant><m><sg>$	. \@José María Barreda\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^José Montilla Aguilera<np><ant><m><sg>$	. \@José Montilla Aguilera\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^José Sócrates<np><ant><m><sg>$	. \@José Sócrates\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John Cabot<np><ant><m><sg>$	. \@John Cabot\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John Calvin<np><ant><m><sg>$	. \@John Calvin\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Juan Carlos I<np><ant><m><sg>$	. \@Juan Carlos I\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Juan Jesús Vivas Lara<np><ant><m><sg>$	. \@Juan Jesús Vivas Lara\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Juan José Ibarretxe Markuartu<np><ant><m><sg>$	. \@Juan José Ibarretxe Markuartu\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Juan José Ibarretxe<np><ant><m><sg>$	. \@Juan José Ibarretxe\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Juan José<np><ant><m><sg>$	. \@Juan José\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Juan Jesús<np><ant><m><sg>$	. \@Juan Jesús\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Lewis Hamilton<np><ant><m><sg>$	. \@Lewis Hamilton\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Lluis<np><ant><m><sg>$	. \@Lluis\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Nicolas Sarkozy<np><ant><m><sg>$	. \@Nicolas Sarkozy\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Robbie<np><ant><m><sg>$	. \@Robbie\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Robbie Williams<np><ant><m><sg>$	. \@Robbie Williams\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Sylvester<np><ant><m><sg>$	. \@Sylvester\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Sylvester Stallone<np><ant><m><sg>$	. \@Sylvester Stallone\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Sylwester<np><ant><m><sg>$	. \@Sylwester\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Sylwester Szymd<np><ant><m><sg>$	. \@Sylwester Szymd\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Tony Blair<np><ant><m><sg>$	. \@Tony Blair\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Victor Hugo<np><ant><m><sg>$	. \@Victor Hugo\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Alexandr<np><ant><m><sg>$	. \@Alexandr\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Alexei<np><ant><m><sg>$	. \@Alexei\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Alexey<np><ant><m><sg>$	. \@Alexey\<np\>\<ant\>\<m\>\<sg\>
@@ -8486,28 +8398,16 @@
 ^.<sent>$ ^Aleksandr<np><ant><m><sg>$	. \@Aleksandr\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Allah<np><ant><m><sg>$	. \@Allah\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Amadeus<np><ant><m><sg>$	. \@Amadeus\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Andre Agassi<np><ant><m><sg>$	. \@Andre Agassi\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Edgar Allan Poe<np><ant><m><sg>$	. \@Edgar Allan Poe\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Francis Bacon<np><ant><m><sg>$	. \@Francis Bacon\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Homer<np><ant><m><sg>$	. \@Homer\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Pavel<np><ant><m><sg>$	. \@Pavel\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Roger Bacon<np><ant><m><sg>$	. \@Roger Bacon\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Lou<np><ant><m><sg>$	. \@Lou\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Lou Reed<np><ant><m><sg>$	. \@Lou Reed\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Paddy<np><ant><m><sg>$	. \@Paddy\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Barack<np><ant><m><sg>$	. \@Barack\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Dalai Lama<np><ant><m><sg>$	. \@Dalai Lama\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Bruce Springsteen<np><ant><m><sg>$	. \@Bruce Springsteen\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Gustav<np><ant><m><sg>$	. \@Gustav\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Quincy Jones<np><ant><m><sg>$	. \@Quincy Jones\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Hatem Ben Arfa<np><ant><m><sg>$	. \@Hatem Ben Arfa\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Rod<np><ant><m><sg>$	. \@Rod\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Michelangelo<np><ant><m><sg>$	. \@Michelangelo\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Al Gore<np><ant><m><sg>$	. \@Al Gore\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Al<np><ant><m><sg>$	. \@Al\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Stan<np><ant><m><sg>$	. \@Stan\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Lech<np><ant><m><sg>$	. \@Lech\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Lech Kaczynski<np><ant><m><sg>$	. \@Lech Kaczynski\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Carlos Martel<np><ant><m><sg>$	. \@Carlos Martel\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Vlad Tepes<np><ant><m><sg>$	. \@Vlad Tepes\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Vlad<np><ant><m><sg>$	. \@Vlad\<np\>\<ant\>\<m\>\<sg\>
@@ -29848,125 +29748,28 @@
 ^.<sent>$ ^Zabaleta<np><cog><pl>$ ^'s<gen>$	. \@Zabaleta\<np\>\<cog\> 
 ^.<sent>$ ^Zabaleta<np><cog><sg>$	. \@Zabaleta\<np\>\<cog\>
 ^.<sent>$ ^Zabaleta<np><cog><pl>$	. \@Zabaleta\<np\>\<cog\>
-^.<sent>$ ^James I<np><ant><m><sg>$	. \@James I\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^James II<np><ant><m><sg>$	. \@James II\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Benedict I<np><ant><m><sg>$	. \@Benedict I\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Benedict II<np><ant><m><sg>$	. \@Benedict II\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Benedict III<np><ant><m><sg>$	. \@Benedict III\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Benedict IV<np><ant><m><sg>$	. \@Benedict IV\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Benedict V<np><ant><m><sg>$	. \@Benedict V\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Benedict VI<np><ant><m><sg>$	. \@Benedict VI\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Benedict VII<np><ant><m><sg>$	. \@Benedict VII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Benedict VIII<np><ant><m><sg>$	. \@Benedict VIII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Benedict IX<np><ant><m><sg>$	. \@Benedict IX\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Benedict X<np><ant><m><sg>$	. \@Benedict X\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Benedict XI<np><ant><m><sg>$	. \@Benedict XI\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Benedict XII<np><ant><m><sg>$	. \@Benedict XII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Benedict XIII<np><ant><m><sg>$	. \@Benedict XIII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Benedict XIV<np><ant><m><sg>$	. \@Benedict XIV\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Benedict XV<np><ant><m><sg>$	. \@Benedict XV\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Benedict XVI<np><ant><m><sg>$	. \@Benedict XVI\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John I<np><ant><m><sg>$	. \@John I\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John II<np><ant><m><sg>$	. \@John II\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John III<np><ant><m><sg>$	. \@John III\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John IV<np><ant><m><sg>$	. \@John IV\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John V<np><ant><m><sg>$	. \@John V\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John VI<np><ant><m><sg>$	. \@John VI\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John VII<np><ant><m><sg>$	. \@John VII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John VIII<np><ant><m><sg>$	. \@John VIII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John IX<np><ant><m><sg>$	. \@John IX\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John X<np><ant><m><sg>$	. \@John X\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John XI<np><ant><m><sg>$	. \@John XI\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John XII<np><ant><m><sg>$	. \@John XII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John XIII<np><ant><m><sg>$	. \@John XIII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John XIV<np><ant><m><sg>$	. \@John XIV\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John XV<np><ant><m><sg>$	. \@John XV\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John XVI<np><ant><m><sg>$	. \@John XVI\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John XVII<np><ant><m><sg>$	. \@John XVII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John XVIII<np><ant><m><sg>$	. \@John XVIII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John XIX<np><ant><m><sg>$	. \@John XIX\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John XX<np><ant><m><sg>$	. \@John XX\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John XXI<np><ant><m><sg>$	. \@John XXI\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John XXII<np><ant><m><sg>$	. \@John XXII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John XXIII<np><ant><m><sg>$	. \@John XXIII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Clement I<np><ant><m><sg>$	. \@Clement I\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Clement II<np><ant><m><sg>$	. \@Clement II\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Clement III<np><ant><m><sg>$	. \@Clement III\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Clement IV<np><ant><m><sg>$	. \@Clement IV\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Clement V<np><ant><m><sg>$	. \@Clement V\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Clement VI<np><ant><m><sg>$	. \@Clement VI\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Clement VII<np><ant><m><sg>$	. \@Clement VII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Clement VIII<np><ant><m><sg>$	. \@Clement VIII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Clement IX<np><ant><m><sg>$	. \@Clement IX\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Clement X<np><ant><m><sg>$	. \@Clement X\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Clement XI<np><ant><m><sg>$	. \@Clement XI\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Clement XII<np><ant><m><sg>$	. \@Clement XII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Clement XIII<np><ant><m><sg>$	. \@Clement XIII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Clement XIV<np><ant><m><sg>$	. \@Clement XIV\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Leo I<np><ant><m><sg>$	. \@Leo I\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Leo II<np><ant><m><sg>$	. \@Leo II\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Leo III<np><ant><m><sg>$	. \@Leo III\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Leo IV<np><ant><m><sg>$	. \@Leo IV\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Leo V<np><ant><m><sg>$	. \@Leo V\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Leo VI<np><ant><m><sg>$	. \@Leo VI\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Leo VII<np><ant><m><sg>$	. \@Leo VII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Leo VIII<np><ant><m><sg>$	. \@Leo VIII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Leo IX<np><ant><m><sg>$	. \@Leo IX\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Leo X<np><ant><m><sg>$	. \@Leo X\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Leo XI<np><ant><m><sg>$	. \@Leo XI\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Leo XII<np><ant><m><sg>$	. \@Leo XII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Leo XIII<np><ant><m><sg>$	. \@Leo XIII\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John Paul I<np><ant><m><sg>$	. \@John Paul I\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^John Paul II<np><ant><m><sg>$	. \@John Paul II\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Ignatius of Antioch<np><ant><m><sg>$	. \@Ignatius of Antioch\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Theophorus<np><ant><m><sg>$	. \@Theophorus\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Saint Irenaeus<np><ant><m><sg>$	. \@Saint Irenaeus\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Elizabeth I<np><ant><f><sg>$	. \@Elizabeth I\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Elizabeth II<np><ant><f><sg>$	. \@Elizabeth II\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Isabella I of Castile<np><ant><f><sg>$	. \@Isabella I of Castile\<np\>\<ant\>\<f\>\<sg\>
-^.<sent>$ ^Xenocrates<np><ant><m><sg>$	. \@Xenocrates\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Count Dracula<np><ant><m><sg>$	. \@Count Dracula\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Xerxes<np><ant><m><sg>$	. \@Xerxes\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Dracula<np><ant><m><sg>$	. \@Dracula\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Vlad III the Impaler<np><ant><m><sg>$	. \@Vlad III the Impaler\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Vlad the Impaler<np><ant><m><sg>$	. \@Vlad the Impaler\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Vlad III Dracula<np><ant><m><sg>$	. \@Vlad III Dracula\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Vlad Dracula<np><ant><m><sg>$	. \@Vlad Dracula\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Vlad Dracula Tepes<np><ant><m><sg>$	. \@Vlad Dracula Tepes\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Albrecht Dürer<np><ant><m><sg>$	. \@Albrecht Dürer\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Alexander the Great<np><ant><m><sg>$	. \@Alexander the Great\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Alexandre Dumas<np><ant><m><sg>$	. \@Alexandre Dumas\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Albert of Monaco<np><ant><m><sg>$	. \@Albert of Monaco\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Albert I of Monaco<np><ant><m><sg>$	. \@Albert I of Monaco\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Albert II of Monaco<np><ant><m><sg>$	. \@Albert II of Monaco\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Stéphanie of Monaco<np><ant><f><sg>$	. \@Stéphanie of Monaco\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Stéphanie of Monaco<np><ant><f><sg>$	. \@Stéphanie of Monaco\<np\>\<ant\>\<f\>\<sg\>
-^.<sent>$ ^Jehovah<np><ant><m><sg>$	. \@Jehovah\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Isocrates<np><ant><m><sg>$	. \@Isocrates\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Socrates<np><ant><m><sg>$	. \@Socrates\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^King Solomon<np><ant><m><sg>$	. \@King Solomon\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^George W. Bush<np><ant><m><sg>$	. \@George W. Bush\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^George H. W. Bush<np><ant><m><sg>$	. \@George H. W. Bush\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^J. M. Bischoff<np><ant><m><sg>$	. \@J. M. Bischoff\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Hashimoto Tetsuya<np><ant><m><sg>$	. \@Hashimoto Tetsuya\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Amano Hiroshi<np><ant><m><sg>$	. \@Amano Hiroshi\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Jürgen Trumpf<np><ant><m><sg>$	. \@Jürgen Trumpf\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Jürgen Trumpf<np><ant><m><sg>$	. \@Jürgen Trumpf\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Jürgen Trumpf<np><ant><m><sg>$	. \@Jürgen Trumpf\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Jürgen<np><ant><m><sg>$	. \@Jürgen\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Jürgen<np><ant><m><sg>$	. \@Jürgen\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Jürgen<np><ant><m><sg>$	. \@Jürgen\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Th. C. Hijzen<np><ant><m><sg>$	. \@Th. C. Hijzen\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Ken Saro-Wiwa<np><ant><m><sg>$	. \@Ken Saro-Wiwa\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Javier Solana Madariaga<np><ant><m><sg>$	. \@Javier Solana Madariaga\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Pierre De Boissieu<np><ant><m><sg>$	. \@Pierre De Boissieu\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Jørgen Mohr<np><ant><m><sg>$	. \@Jørgen Mohr\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Juan Manuel Fabra Valles<np><ant><m><sg>$	. \@Juan Manuel Fabra Valles\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Máire Geoghegan-Quinn<np><ant><f><sg>$	. \@Máire Geoghegan-Quinn\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Laure Batut<np><ant><f><sg>$	. \@Laure Batut\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Armindo de Jesus de Sousa Ribeiro<np><ant><m><sg>$	. \@Armindo de Jesus de Sousa Ribeiro\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Jan O. Karlsson<np><ant><m><sg>$	. \@Jan O. Karlsson\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^José Manuel Durão Barroso<np><ant><m><sg>$	. \@José Manuel Durão Barroso\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Vítor Manuel da Silva Caldeira<np><ant><m><sg>$	. \@Vítor Manuel da Silva Caldeira\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Väino<np><ant><m><sg>$	. \@Väino\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Tönis<np><ant><m><sg>$	. \@Tönis\<np\>\<ant\>\<m\>\<sg\>
@@ -29994,12 +29797,6 @@
 ^.<sent>$ ^Dragomir<np><ant><m><sg>$	. \@Dragomir\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^László<np><ant><m><sg>$	. \@László\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Slobodan<np><ant><m><sg>$	. \@Slobodan\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Richard Stallman<np><ant><m><sg>$	. \@Richard Stallman\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Richard M. Stallman<np><ant><m><sg>$	. \@Richard M. Stallman\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Eric Raymond<np><ant><m><sg>$	. \@Eric Raymond\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Eric S. Raymond<np><ant><m><sg>$	. \@Eric S. Raymond\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Philip K. Dick<np><ant><m><sg>$	. \@Philip K. Dick\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^W. B. Yeats<np><ant><m><sg>$	. \@W. B. Yeats\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Austro-Hungarian Empire<np><loc><sg>$	. \@Austro-Hungarian Empire\<np\>\<loc\>
 ^.<sent>$ ^Malaga<np><loc><sg>$	. #Málaga\<np\>\<loc\>\<f\>\<sg\>
 ^.<sent>$ ^Bretton Woods<np><loc><sg>$	. \@Bretton Woods\<np\>\<loc\>
@@ -30152,10 +29949,6 @@
 ^.<sent>$ ^North Atlantic Treaty Organization<np><al><sg>$	. \@North Atlantic Treaty Organization\<np\>\<al\>
 ^.<sent>$ ^International Monetary Fund<np><al><sg>$	. \@International Monetary Fund\<np\>\<al\>
 ^.<sent>$ ^Treaty of Friendship, Cooperation and Mutual Assistance<np><al><sg>$	. \@Treaty of Friendship, Cooperation and Mutual Assistance\<np\>\<al\>
-^.<sent>$ ^Mikhail Gorbachev<np><ant><m><sg>$	. \@Mikhail Gorbachev\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Mikhail Sergeyevich Gorbachev<np><ant><m><sg>$	. \@Mikhail Sergeyevich Gorbachev\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Vyacheslav Molotov<np><ant><m><sg>$	. \@Vyacheslav Molotov\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Vyacheslav Mikhailovich Molotov<np><ant><m><sg>$	. \@Vyacheslav Mikhailovich Molotov\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^qualify<vblex><inf>$	. \@Qualify\<vblex\>\<inf\>
 ^.<sent>$ ^qualify<vblex><pres>$	. \@Qualify\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^qualify<vblex><pri><p3><sg>$	. \@Qualify\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -50583,9 +50376,6 @@
 ^.<sent>$ ^Euler<np><cog><pl>$ ^'s<gen>$	. \@Euler\<np\>\<cog\> 
 ^.<sent>$ ^Euler<np><cog><sg>$	. \@Euler\<np\>\<cog\>
 ^.<sent>$ ^Euler<np><cog><pl>$	. \@Euler\<np\>\<cog\>
-^.<sent>$ ^Archimedes<np><ant><m><sg>$	. \@Archimedes\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Archimedes<np><ant><m><sg>$ ^'s<gen>$	. \@Archimedes\<np\>\<ant\>\<m\>\<sg\> 
-^.<sent>$ ^Archimedes<np><ant><m><sg>$	. \@Archimedes\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Cauchy<np><cog><sg>$	. \@Cauchy\<np\>\<cog\>
 ^.<sent>$ ^Cauchy<np><cog><pl>$	. \@Cauchy\<np\>\<cog\>
 ^.<sent>$ ^Cauchy<np><cog><pl>$ ^'s<gen>$	. \@Cauchy\<np\>\<cog\> 
@@ -50929,9 +50719,6 @@
 ^.<sent>$ ^deprivation<n><sg>$	. \@Deprivation\<n\>
 ^.<sent>$ ^deprivation<n><pl>$	. \@Deprivation\<n\>
 ^.<sent>$ ^in this regard<adv>$	. #A tal riguardo\<adv\>\/a tal proposito\<adv\>
-^.<sent>$ ^to english<adv>$	. \@To english\<adv\>
-^.<sent>$ ^to italian<adv>$	. \@To italian\<adv\>
-^.<sent>$ ^to french<adv>$	. \@To french\<adv\>
 ^.<sent>$ ^very carefully<adv>$	. #Con molta cura\<adv\>\/con molta attenzione\<adv\>
 ^.<sent>$ ^right now<adv>$	. #Proprio ora\<adv\>
 ^.<sent>$ ^right now<adv>$	. #Proprio ora\<adv\>
@@ -50950,6 +50737,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> Amsterdam<np><loc><m>/Amsterdam<np><loc><f>$
 #\^.\<sent\> Andorra<np><loc><m>/Andorra<np><loc><f>$
 #\^.\<sent\> Arabia<np><loc><m>/Arabia<np><loc><f>$
+#\^.\<sent\> Aristotele<np>/Aristotele<np><ant>$
 #\^.\<sent\> Asturie<np><loc><f>/Asturie<np><loc><m>$
 #\^.\<sent\> Atene<np><loc><f>/Atene<np><loc><m>$
 #\^.\<sent\> Barcellona<np><loc><m>/Barcellona<np><loc><f>$
@@ -50973,9 +50761,12 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> Girona<np><loc><m>/Girona<np><loc><f>$
 #\^.\<sent\> Guatemala<np><loc><m>/Guatemala<np><loc><f>$
 #\^.\<sent\> Guinea<np><loc><m>/Guinea<np><loc><f>$
+#\^.\<sent\> Ercole<np>/Ercole<np><ant>$
+#\^.\<sent\> Orazio<np><ant>/Orazio<np>$
 #\^.\<sent\> Ibiza<np><loc><m>/Ibiza<np><loc><f>$
 #\^.\<sent\> Indonesia<np><loc><m>/Indonesia<np><loc><f>$
 #\^.\<sent\> Giamaica<np><loc><m>/Giamaica<np><loc><f>$
+#\^.\<sent\> Giove<np>/Giove<np><ant>$
 #\^.\<sent\> latino<n><m>/latino<n><GD>$
 #\^.\<sent\> latino<n><m>/latino<n><GD>$
 #\^.\<sent\> America latina<np><loc><m>/America latina<np><loc><f>$
@@ -50992,6 +50783,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> marocchino<n><m>/marocchino<n><f>$
 #\^.\<sent\> Mosca<np><loc><f>/Mosca<np><loc><m>$
 #\^.\<sent\> Málaga<np><loc><m>/Málaga<np><loc><f>$
+#\^.\<sent\> Napoleone<np>/Napoleone<np><ant>$
 #\^.\<sent\> New York<np><loc><m>/New York<np><loc><f>$
 #\^.\<sent\> Nizza<np><loc><m>/Nizza<np><loc><f>$
 #\^.\<sent\> Nigeria<np><loc><m>/Nigeria<np><loc><f>$
@@ -52884,3 +52676,9 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> sostenere<vblex>/sopportare<vblex>/appoggiare<vblex>$
 #\^.\<sent\> acclamante<adj><mf>/applaudente<adj><mf>$
 #\^.\<sent\> acclamante<adj><mf>/applaudente<adj><mf>$
+#\^.\<sent\> Orazio<np><ant>/Orazio<np>$
+#\^.\<sent\> Aristotele<np>/Aristotele<np><ant>$
+#\^.\<sent\> Ercole<np>/Ercole<np><ant>$
+#\^.\<sent\> Orazio<np><ant>/Orazio<np>$
+#\^.\<sent\> Giove<np>/Giove<np><ant>$
+#\^.\<sent\> Napoleone<np>/Napoleone<np><ant>$

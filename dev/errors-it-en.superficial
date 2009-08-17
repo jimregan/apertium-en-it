@@ -116,7 +116,6 @@
 ^.<sent>$ ^Apollo<np><ant><m><sg>$	. #Apollo\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Aranda<np><cog><mf><sp>$	. \@Aranda\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Arce<np><cog><mf><sp>$	. \@Arce\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Aristotele<np><ant><m><sg>$	. #Aristotle\<np\>\<ant\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Arjona<np><cog><mf><sp>$	. \@Arjona\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Artigas<np><cog><mf><sp>$	. \@Artigas\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Arévalo<np><cog><mf><sp>$	. \@Arévalo\<np\>\<cog\>\<mf\>\<sp\>
@@ -167,7 +166,7 @@
 ^.<sent>$ ^Grau<np><loc><m><sg>$	. \@Grau\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^Ermes<np><al><m><sg>$	. \@Ermes\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Herrero<np><al><m><sg>$	. \@Herrero\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Ercole<np><ant><m><sg>$	. #Hercules\<np\>\<ant\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Orazio<np><ant><m><sg>$	. #Horace\<np\>\<ant\>\<m\>\<sg\>\/Horacio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^IU<np><al><m><sg>$	. \@IU\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Indiana<np><ant><m><sg>$	. #Indiana\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Indurain<np><cog><mf><sp>$	. \@Indurain\<np\>\<cog\>\<mf\>\<sp\>
@@ -199,7 +198,6 @@
 ^.<sent>$ ^Murillo<np><cog><mf><sp>$	. \@Murillo\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Muñoz<np><cog><mf><sp>$	. \@Muñoz\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Nadal<np><al><m><sg>$	. \@Nadal\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Napoleone<np><ant><m><sg>$	. #Napoleon\<np\>\<ant\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Napster<np><al><m><sg>$	. \@Napster\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Nature<np><al><m><sg>$	. \@Nature\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^ONG<np><al><m><sg>$	. \@ONG\<np\>\<al\>\<m\>\<sg\>
@@ -18890,6 +18888,11 @@
 ^.<sent>$ ^vivamente<adv>$	. \@Vivamente\<adv\>
 ^.<sent>$ ^volutamente<adv>$	. \@Volutamente\<adv\>
 ^.<sent>$ ^intenzionalmente<adv>$	. \@Intenzionalmente\<adv\>
+^.<sent>$ ^Abdul-Hamid<np><ant><m><sg>$	. #Abdul Hamid\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Orazio<np><ant><m><sg>$	. #Horace\<np\>\<ant\>\<m\>\<sg\>\/Horacio\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Orazio<np><ant><m><sg>$	. #Horace\<np\>\<ant\>\<m\>\<sg\>\/Horacio\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Serse<np><ant><m><sg>$	. \@Serse\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Scipione<np><ant><m><sg>$	. \@Scipione\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^a<pr>$ ^il<det><def><mf><sg>$	. #At\<pr\>\/to\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\> the
 ^.<sent>$ ^da<pr>$	. #From\<pr\>\/since\<pr\>
 ^.<sent>$ ^da<pr>$ ^il<det><def><mf><sg>$	. #From\<pr\>\/since\<pr\> the
