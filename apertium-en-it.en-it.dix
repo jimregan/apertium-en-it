@@ -6549,18 +6549,7 @@
     <e>
       <p>
         <l>TV<s n="n"/><s n="acr"/></l> 
-        <r>televisione<s n="n"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>TV<s n="n"/><s n="acr"/></l> 
-        <r>TV<s n="n"/><s n="acr"/></r> 
+        <r>TV<s n="n"/><s n="acr"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -6761,7 +6750,7 @@
     <e>
       <p>
         <l>U.N.<s n="n"/><s n="acr"/></l> 
-        <r>ONU<s n="n"/></r> 
+        <r>ONU<s n="n"/><s n="acr"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -20113,7 +20102,7 @@
     <e r="LR">
       <p>
         <l>capitalist<s n="n"/></l> 
-        <r>capitalista<s n="n"/><s n="ND"/></r> 
+        <r>capitalista<s n="n"/><s n="GD"/></r> 
       </p>
     </e>
 
@@ -93382,6 +93371,7 @@
     <e><p><l>universally<s n="adv"/></l><r>universalmente<s n="adv"/></r></p></e>
     <e><p><l>usually<s n="adv"/></l><r>usualmente<s n="adv"/></r></p></e>
     <e><p><l>quickly<s n="adv"/></l><r>velocemente<s n="adv"/></r></p></e>
+    <e><p><l>against<b/>my<b/>will<s n="adv"/></l><r>contro<b/>la<b/>mia<b/>volontà<s n="adv"/></r></p></e>
     <e r="RL"><p><l>anaemic<s n="n"/></l><r>anemico<s n="n"/></r></p></e>
     <e r="LR"><p><l>anaemic<s n="n"/></l><r>anemico<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Asturian<s n="n"/></l><r>asturiano<s n="n"/></r></p></e>
@@ -93502,7 +93492,7 @@
     <e><p><l>'ndrangheta<s n="n"/></l><r>'ndrangheta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>UA<s n="n"/><s n="acr"/></l><r>UA<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>EU<s n="n"/><s n="acr"/></l><r>UE<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>UEFA<s n="n"/><s n="acr"/></l><r>UEFA<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>UEFA<s n="n"/><s n="acr"/></l><r>UEFA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>UGT<s n="n"/><s n="acr"/></l><r>UGT<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Annunciation<s n="n"/></l><r>annunciazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aerodynamic<s n="n"/></l><r>aerodinamica<s n="n"/><s n="f"/></r></p></e>
@@ -94716,5 +94706,41 @@
     <e><p><l>telephone<b/>exchange<s n="n"/></l><r>centralina<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>phone<b/>exchange<s n="n"/></l><r>centralina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>district<s n="n"/></l><r>circoscrizione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>spread<s n="vblex"/></l><r>diffondere<s n="vblex"/></r></p></e>
+    <e><p><l>dilate<s n="vblex"/></l><r>dilatare<s n="vblex"/></r></p></e>
+    <e><p><l>be<g><b/>distant</g><s n="vblex"/></l><r>distare<s n="vblex"/></r></p></e>
+    <e><p><l>devour<s n="vblex"/></l><r>divorare<s n="vblex"/></r></p></e>
+    <e><p><l>duplicate<s n="vblex"/></l><r>duplicare<s n="vblex"/></r></p></e>
+    <e><p><l>be<g><b/>equivalent</g><s n="vblex"/></l><r>equivalere<s n="vblex"/></r></p></e>
+    <e><p><l>misunderstand<s n="vblex"/></l><r>equivocare<s n="vblex"/></r></p></e>
+    <e><p><l>highlight<s n="vblex"/></l><r>evidenziare<s n="vblex"/></r></p></e>
+    <e><p><l>appear<s n="vblex"/></l><r>figurare<s n="vblex"/></r></p></e>
+    <e><p><l>rule<s n="vblex"/></l><r>imperare<s n="vblex"/></r></p></e>
+    <e><p><l>use<s n="vblex"/></l><r>impiegare<s n="vblex"/></r></p></e>
+    <e><p><l>plagiarise<s n="vblex"/></l><r>plagiare<s n="vblex"/></r></p></e>
+    <e><p><l>shape<s n="vblex"/></l><r>plasmare<s n="vblex"/></r></p></e>
+    <e><p><l>procreate<s n="vblex"/></l><r>procreare<s n="vblex"/></r></p></e>
+    <e><p><l>fight<s n="vblex"/></l><r>pugnare<s n="vblex"/></r></p></e>
+    <e><p><l>regulate<s n="vblex"/></l><r>regolamentare<s n="vblex"/></r></p></e>
+    <e><p><l>reinvest<s n="vblex"/></l><r>reinvestire<s n="vblex"/></r></p></e>
+    <e><p><l>return<s n="vblex"/></l><r>restituire<s n="vblex"/></r></p></e>
+    <e><p><l>reopen<s n="vblex"/></l><r>riaprire<s n="vblex"/></r></p></e>
+    <e><p><l>summarise<s n="vblex"/></l><r>riassumere<s n="vblex"/></r></p></e>
+    <e><p><l>reward<s n="vblex"/></l><r>ricompensare<s n="vblex"/></r></p></e>
+    <e><p><l>reconcile<s n="vblex"/></l><r>riconciliare<s n="vblex"/></r></p></e>
+    <e><p><l>reorganise<s n="vblex"/></l><r>ridimensionare<s n="vblex"/></r></p></e>
+    <e><p><l>bring<g><b/>back</g><s n="vblex"/></l><r>riportare<s n="vblex"/></r></p></e>
+    <e><p><l>salivate<s n="vblex"/></l><r>salivare<s n="vblex"/></r></p></e>
+    <e><p><l>sanctify<s n="vblex"/></l><r>santificare<s n="vblex"/></r></p></e>
+    <e><p><l>be<g><b/>used<b/>to</g><s n="vblex"/></l><r>solere<s n="vblex"/></r></p></e>
+    <e><p><l>go<g><b/>down</g><s n="vblex"/></l><r>scendere<s n="vblex"/></r></p></e>
+    <e><p><l>blackmail<s n="vblex"/></l><r>ricattare<s n="vblex"/></r></p></e>
+    <e><p><l>reorient<s n="vblex"/></l><r>riorientare<s n="vblex"/></r></p></e>
+    <e><p><l>stagnate<s n="vblex"/></l><r>ristagnare<s n="vblex"/></r></p></e>
+    <e><p><l>favour<s n="vblex"/></l><r>privilegiare<s n="vblex"/></r></p></e>
+    <e><p><l>prevent<s n="vblex"/></l><r>prevenire<s n="vblex"/></r></p></e>
+    <e><p><l>ponder<s n="vblex"/></l><r>ponderare<s n="vblex"/></r></p></e>
+    <e><p><l>dismiss<s n="vblex"/></l><r>licenziare<s n="vblex"/></r></p></e>
+    <e><p><l>like<s n="vblex"/></l><r>gustare<s n="vblex"/></r></p></e>
   </section>
 </dictionary>
