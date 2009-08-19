@@ -12244,25 +12244,10 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'LR' restriction
-      NDall-82
-    -->
-    <e r="LR" c="preguntes, negatives. EN-CA: per trànsfer (fr negatives)">
+    <e c="preguntes, negatives. EN-CA: per trànsfer (fr negatives)" r="RL">
       <p>
         <l>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l> 
-        <r>nessuno<s n="prn"/><s n="tn"/><s n="m"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e c="preguntes, negatives. EN-CA: per trànsfer (fr negatives)">
-      <p>
-        <l>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l> 
-        <r>nessuno<s n="prn"/></r> 
+        <r>nessuno<s n="prn"/><s n="tn"/></r> 
       </p>
     </e>
 
@@ -12281,21 +12266,10 @@
 	forced 'null' restriction
       default
     -->
-    <e c="frases interrogatives">
+    <e c="frases interrogatives" r="LR">
       <p>
         <l>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l> 
-        <r>alcuno<s n="prn"/><s n="tn"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e c="frases interrogatives">
-      <p>
-        <l>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l> 
-        <r>alcuno<s n="prn"/><s n="tn"/><s n="f"/></r> 
+        <r>alcuno<s n="prn"/><s n="tn"/></r> 
       </p>
     </e>
 
@@ -12307,17 +12281,6 @@
       <p>
         <l>any<b/>more<s n="adv"/></l> 
         <r>più<s n="adv"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e c="any one i anyone/anybody tenen significats diferents, s'ha escollit 'any one' com a traducció">
-      <p>
-        <l>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></l> 
-        <r>qualunque<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -18571,6 +18534,12 @@
       </p>
     </e>
 
+    <e>
+      <p>
+        <l>throw<g><b/>off<b/>balance</g><s n="vblex"/><s n="sep"/></l> 
+        <r>sbilanciare<s n="vblex"/></r> 
+      </p>
+    </e>
     <!-- 
 	forced 'null' restriction
       ND-39
