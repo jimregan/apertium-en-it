@@ -81083,7 +81083,8 @@
     <e lm="carriera"><i>carrier</i><par n="cas/a__n"/></e>
     <e lm="carrucola"><i>carrucol</i><par n="cas/a__n"/></e>
     <e lm="carta"><i>cart</i><par n="cas/a__n"/></e>
-    <e lm="carta intestata"><i>cart</i><par n="cas/a__n"/><p><l><b/>intestata</l><r><g><b/>intestata</g></r></p></e>
+    <e lm="carta intestata"><p><l>carta<b/>intestata</l><r>carta<b/>intestata<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="carta intestata"><p><l>carte<b/>intestate</l><r>carta<b/>intestata<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="cartello"><i>cartell</i><par n="abbain/o__n"/></e>
     <e lm="cartilagine"><i>cartilagin</i><par n="abbreviazion/e__n"/></e>
     <e lm="cartina"><i>cartin</i><par n="cas/a__n"/></e>
