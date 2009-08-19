@@ -87670,19 +87670,19 @@
     <e lm="il tuo"><par n="/il_tuo__prn"/></e>
     <e lm="il vostro"><par n="/il_vostro__prn"/></e>
     <e lm="il resto"><i>il<b/>resto</i><par n="qualcosa__prn"/></e>
-    <e lm="io"><i>io</i><par n="io__prn"/></e>
-    <e lm="le"><i>le</i><par n="le__prn"/></e>
-    <e lm="me"><i>me</i><par n="io__prn"/></e>
-    <e lm="me"><i>me</i><par n="io__prn"/></e>
+    <e lm="io"><p><l>io</l><r>prpers</r></p><par n="io__prn"/></e>
+    <e lm="le"><p><l>le</l><r>prpers</r></p><par n="le__prn"/></e>
+    <e lm="me"><p><l>me</l><r>prpers</r></p><par n="io__prn"/></e>
+    <e lm="me"><p><l>me</l><r>prpers</r></p><par n="io__prn"/></e>
     <e r="LR" lm="meco"><i>meco</i><par n="io__prn"/></e>
-    <e r="LR" lm="mi"><i>mi</i><par n="mi__prn"/></e>
-    <e r="RL" lm="mi"><p><l><a/>mi</l><r>mi</r></p><par n="mi__prn"/></e>
-    <e r="LR" lm="ti"><i>ti</i><par n="ti__prn"/></e>
-    <e r="RL" lm="ti"><p><l><a/>ti</l><r>ti</r></p><par n="ti__prn"/></e>
-    <e r="LR" lm="si"><i>si</i><par n="si__prn"/></e>
-    <e r="RL" lm="si"><p><l><a/>si</l><r>si</r></p><par n="si__prn"/></e>
-    <e r="LR" lm="vi"><i>vi</i><par n="vi__prn"/></e>
-    <e r="RL" lm="vi"><p><l><a/>vi</l><r>vi</r></p><par n="vi__prn"/></e>
+    <e r="LR" lm="mi"><p><l>mi</l><r>prpers</r></p><par n="mi__prn"/></e>
+    <e r="RL" lm="mi"><p><l><a/>mi</l><r>prpers</r></p><par n="mi__prn"/></e>
+    <e r="LR" lm="ti"><p><l>ti</l><r>prpers</r></p><par n="ti__prn"/></e>
+    <e r="RL" lm="ti"><p><l><a/>ti</l><r>prpers</r></p><par n="ti__prn"/></e>
+    <e r="LR" lm="si"><p><l>si</l><r>prpers</r></p><par n="si__prn"/></e>
+    <e r="RL" lm="si"><p><l><a/>si</l><r>prpers</r></p><par n="si__prn"/></e>
+    <e r="LR" lm="vi"><p><l>vi</l><r>prpers</r></p><par n="vi__prn"/></e>
+    <e r="RL" lm="vi"><p><l><a/>vi</l><r>prpers</r></p><par n="vi__prn"/></e>
     <e lm="gli"><par n="/gli__prn"/></e>
     <e lm="ne"><i>ne</i><par n="ne__prn"/></e>
     <e lm="nessuno"><i>nessun</i><par n="qualcun/o__prn"/></e>
