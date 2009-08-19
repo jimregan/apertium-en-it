@@ -4099,17 +4099,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-0
-    -->
-    <e>
-      <p>
-        <l>Latin<s n="n"/></l> 
-        <r>latino<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-11
     -->
     <e>
@@ -4138,17 +4127,6 @@
       <p>
         <l>Laura<s n="np"/><s n="ant"/></l> 
         <r>Laura<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-19
-    -->
-    <e>
-      <p>
-        <l>Laura<s n="np"/></l> 
-        <r>Laura<s n="np"/></r> 
       </p>
     </e>
 
@@ -9606,17 +9584,6 @@
     <e>
       <p>
         <l>again<s n="adv"/></l> 
-        <r>nuovamente<s n="adv"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-3
-    -->
-    <e>
-      <p>
-        <l>again<s n="adv"/></l> 
         <r>di<b/>nuovo<s n="adv"/></r> 
       </p>
     </e>
@@ -13265,89 +13232,13 @@
 	forced 'null' restriction
       default
     -->
-    <e>
-      <p>
-        <l>arm<s n="n"/><s n="sg"/></l> 
-        <r>braccio<s n="n"/><s n="m"/><s n="pl"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>arm<s n="n"/><s n="sg"/></l> 
-        <r>braccio<s n="n"/><s n="f"/><s n="pl"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>arm<s n="n"/><s n="sg"/></l> 
-        <r>braccio<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>arm<s n="n"/><s n="pl"/></l> 
-        <r>braccio<s n="n"/><s n="GD"/><s n="pl"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>arm<s n="n"/><s n="pl"/></l> 
-        <r>braccio<s n="n"/><s n="m"/><s n="sg"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
+    <e r="RL">
       <p>
         <l>arm<s n="n"/><s n="pl"/></l> 
         <r>braccio<s n="n"/><s n="m"/><s n="pl"/></r> 
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>arm<s n="n"/><s n="pl"/></l> 
-        <r>braccio<s n="n"/><s n="f"/><s n="pl"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>arm<s n="n"/><s n="pl"/></l> 
-        <r>braccio<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
 
     <!-- 
 	forced 'null' restriction
@@ -19789,9 +19680,21 @@
 	forced 'null' restriction
       default
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>camera<s n="n"/></l> 
+        <l>cameraman<s n="n"/><s n="sg"/></l> 
+        <r>cameraman<s n="n"/><s n="m"/><s n="sp"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>cameraman<s n="n"/><s n="pl"/></l> 
+        <r>cameraman<s n="n"/><s n="m"/><s n="sp"/></r> 
+      </p>
+    </e>
+    <e r="RL">
+      <p>
+        <l>cameraman<s n="n"/><s n="ND"/></l> 
         <r>cameraman<s n="n"/><s n="m"/><s n="sp"/></r> 
       </p>
     </e>
@@ -20196,10 +20099,10 @@
 	forced 'null' restriction
       ND-36
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>capitalist<s n="n"/></l> 
-        <r>capitalista<s n="n"/><s n="m"/></r> 
+        <r>capitalista<s n="n"/></r> 
       </p>
     </e>
 
@@ -20207,10 +20110,10 @@
 	forced 'null' restriction
       ND-30
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>capitalist<s n="n"/></l> 
-        <r>capitalista<s n="n"/><s n="f"/></r> 
+        <r>capitalista<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -20243,7 +20146,7 @@
     <e r="RL">
       <p>
         <l>captain<s n="n"/></l> 
-        <r>capitano<s n="n"/><s n="m"/></r> 
+        <r>capitano<s n="n"/></r> 
       </p>
     </e>
 
@@ -94358,7 +94261,6 @@
 <e><p><l>Kenya<s n="np"/><s n="loc"/></l><r>Kenya<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Kiev<s n="np"/><s n="loc"/></l><r>Kiev<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Lanzarote<s n="np"/><s n="loc"/></l><r>Lanzarote<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
-<e><p><l>Latin<b/>America<s n="np"/><s n="loc"/></l><r>America<b/>latina<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Lisbon<s n="np"/><s n="loc"/></l><r>Lisbona<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Llobregat<s n="np"/><s n="loc"/></l><r>Llobregat<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Llíria<s n="np"/><s n="loc"/></l><r>Llíria<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
