@@ -14608,26 +14608,16 @@
 ^.<sent>$ ^Lei<prn><tn><p3><mf><sg>$	. \@Lei\<prn\>\<tn\>\<p3\>\<mf\>\<sg\>
 ^.<sent>$ ^Lei<prn><tn><p3><mf><pl>$	. \@Lei\<prn\>\<tn\>\<p3\>\<mf\>\<pl\>
 ^.<sent>$ ^ci<adv>$ ^essere<vblex><pri><p3><sg>$	. \@Ci\<adv\> it \@essere\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^gli<prn><pro><p3><mf><sp>$ ^lo<prn><pro><p3><f><sg>$	. \@gli\<prn\>\<pro\>\<p3\>\<mf\>\<sp\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<f\>\<sg\>
-^.<sent>$ ^gli<prn><pro><p3><mf><sp>$ ^lo<prn><pro><p3><f><sg>$	. \@gli\<prn\>\<pro\>\<p3\>\<mf\>\<sp\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<f\>\<sg\>
-^.<sent>$ ^gli<prn><pro><p3><mf><sp>$ ^lo<prn><pro><p3><f><pl>$	. \@gli\<prn\>\<pro\>\<p3\>\<mf\>\<sp\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<f\>\<pl\>
-^.<sent>$ ^gli<prn><pro><p3><mf><sp>$ ^lo<prn><pro><p3><f><pl>$	. \@gli\<prn\>\<pro\>\<p3\>\<mf\>\<sp\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<f\>\<pl\>
-^.<sent>$ ^gli<prn><pro><p3><mf><sp>$ ^lo<prn><pro><p3><m><pl>$	. \@gli\<prn\>\<pro\>\<p3\>\<mf\>\<sp\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<m\>\<pl\>
-^.<sent>$ ^gli<prn><pro><p3><mf><sp>$ ^lo<prn><pro><p3><m><pl>$	. \@gli\<prn\>\<pro\>\<p3\>\<mf\>\<sp\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<m\>\<pl\>
-^.<sent>$ ^gli<prn><pro><p3><mf><sp>$ ^lo<prn><pro><p3><m><sg>$	. \@gli\<prn\>\<pro\>\<p3\>\<mf\>\<sp\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<m\>\<sg\>
-^.<sent>$ ^gli<prn><pro><p3><mf><sp>$ ^lo<prn><pro><p3><m><sg>$	. \@gli\<prn\>\<pro\>\<p3\>\<mf\>\<sp\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<m\>\<sg\>
-^.<sent>$ ^gli<prn><pro><p3><mf><sp>$ ^ne<prn><pro><adv>$	. \@gli\<prn\>\<pro\>\<p3\>\<mf\>\<sp\> \@ne\<prn\>\<pro\>\<adv\>
-^.<sent>$ ^mi<prn><pro><p1><mf><sg>$ ^lo<prn><pro><p3><f><sg>$	. \@mi\<prn\>\<pro\>\<p1\>\<mf\>\<sg\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<f\>\<sg\>
-^.<sent>$ ^mi<prn><pro><p1><mf><sg>$ ^lo<prn><pro><p3><f><pl>$	. \@mi\<prn\>\<pro\>\<p1\>\<mf\>\<sg\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<f\>\<pl\>
-^.<sent>$ ^mi<prn><pro><p1><mf><sg>$ ^lo<prn><pro><p3><m><pl>$	. \@mi\<prn\>\<pro\>\<p1\>\<mf\>\<sg\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<m\>\<pl\>
-^.<sent>$ ^mi<prn><pro><p1><mf><sg>$ ^lo<prn><pro><p3><m><sg>$	. \@mi\<prn\>\<pro\>\<p1\>\<mf\>\<sg\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<m\>\<sg\>
+^.<sent>$ ^prpers<prn><pro><p3><mf><sp>$ ^prpers<prn><pro><p3><m><sg>$	. Him \@prpers\<prn\>\<p3\>\<m\>\<sg\>
+^.<sent>$ ^prpers<prn><pro><p3><mf><sp>$ ^prpers<prn><pro><p3><m><sg>$	. Him \@prpers\<prn\>\<p3\>\<m\>\<sg\>
+^.<sent>$ ^prpers<prn><pro><p3><mf><sp>$ ^ne<prn><pro><adv>$	. Him \@ne\<prn\>\<pro\>\<adv\>
+^.<sent>$ ^mi<prn><pro><p1><mf><sg>$ ^prpers<prn><pro><p3><f><sg>$	. \@mi\<prn\>\<pro\>\<p1\>\<mf\>\<sg\> It
+^.<sent>$ ^mi<prn><pro><p1><mf><sg>$ ^prpers<prn><pro><p3><f><pl>$	. \@mi\<prn\>\<pro\>\<p1\>\<mf\>\<sg\> Them
+^.<sent>$ ^mi<prn><pro><p1><mf><sg>$ ^prpers<prn><pro><p3><m><pl>$	. \@mi\<prn\>\<pro\>\<p1\>\<mf\>\<sg\> Them
+^.<sent>$ ^mi<prn><pro><p1><mf><sg>$ ^prpers<prn><pro><p3><m><sg>$	. \@mi\<prn\>\<pro\>\<p1\>\<mf\>\<sg\> \@Prpers\<prn\>\<p3\>\<m\>\<sg\>
 ^.<sent>$ ^mi<prn><pro><p1><mf><sg>$ ^ne<prn><pro><adv>$	. \@mi\<prn\>\<pro\>\<p1\>\<mf\>\<sg\> \@ne\<prn\>\<pro\>\<adv\>
-^.<sent>$ ^si<prn><pro><ref><p3><mf><sp>$ ^lo<prn><pro><p3><f><sg>$	. \@si\<prn\>\<pro\>\<ref\>\<p3\>\<mf\>\<sp\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<f\>\<sg\>
-^.<sent>$ ^si<prn><pro><ref><p3><mf><sp>$ ^lo<prn><pro><p3><f><sg>$	. \@si\<prn\>\<pro\>\<ref\>\<p3\>\<mf\>\<sp\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<f\>\<sg\>
-^.<sent>$ ^si<prn><pro><ref><p3><mf><sp>$ ^lo<prn><pro><p3><f><pl>$	. \@si\<prn\>\<pro\>\<ref\>\<p3\>\<mf\>\<sp\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<f\>\<pl\>
-^.<sent>$ ^si<prn><pro><ref><p3><mf><sp>$ ^lo<prn><pro><p3><m><pl>$	. \@si\<prn\>\<pro\>\<ref\>\<p3\>\<mf\>\<sp\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<m\>\<pl\>
-^.<sent>$ ^si<prn><pro><ref><p3><mf><sp>$ ^lo<prn><pro><p3><m><sg>$	. \@si\<prn\>\<pro\>\<ref\>\<p3\>\<mf\>\<sp\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<m\>\<sg\>
-^.<sent>$ ^si<prn><pro><ref><p3><mf><sp>$ ^ne<prn><pro><adv>$	. \@si\<prn\>\<pro\>\<ref\>\<p3\>\<mf\>\<sp\> \@ne\<prn\>\<pro\>\<adv\>
+^.<sent>$ ^si<prn><pro><ref><p3><mf><sp>$ ^prpers<prn><pro><p3><m><sg>$	.  \@Prpers\<prn\>\<p3\>\<m\>\<sg\>
+^.<sent>$ ^si<prn><pro><ref><p3><mf><sp>$ ^ne<prn><pro><adv>$	.  \@ne\<prn\>\<pro\>\<adv\>
 ^.<sent>$ ^sé<prn><tn><ref><p3><mf><sp>$	. #himself\<prn\>\<ref\>\<p3\>\<m\>\<sg\>\<ref\>\<p3\>\<mf\>\<sp\>
 ^.<sent>$ ^tanti altri<prn><tn><f><pl>$	. \@Tanti altri\<prn\>\<tn\>\<f\>\<pl\>
 ^.<sent>$ ^tanti altri<det><ind><f><pl>$	. \@Tanti altri\<det\>\<ind\>\<pl\>
@@ -14641,21 +14631,17 @@
 ^.<sent>$ ^tanti altri<det><ind><m><pl>$	. \@Tanti altri\<det\>\<ind\>\<pl\>
 ^.<sent>$ ^tanti altri<prn><tn><m><pl>$	. \@Tanti altri\<prn\>\<tn\>\<m\>\<pl\>
 ^.<sent>$ ^tanti altri<det><ind><m><pl>$	. \@Tanti altri\<det\>\<ind\>\<pl\>
-^.<sent>$ ^ti<prn><pro><p2><mf><sg>$ ^lo<prn><pro><p3><f><sg>$	. \@ti\<prn\>\<pro\>\<p2\>\<mf\>\<sg\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<f\>\<sg\>
-^.<sent>$ ^ti<prn><pro><p2><mf><sg>$ ^lo<prn><pro><p3><f><pl>$	. \@ti\<prn\>\<pro\>\<p2\>\<mf\>\<sg\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<f\>\<pl\>
-^.<sent>$ ^ti<prn><pro><p2><mf><sg>$ ^lo<prn><pro><p3><m><pl>$	. \@ti\<prn\>\<pro\>\<p2\>\<mf\>\<sg\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<m\>\<pl\>
-^.<sent>$ ^ti<prn><pro><p2><mf><sg>$ ^lo<prn><pro><p3><m><sg>$	. \@ti\<prn\>\<pro\>\<p2\>\<mf\>\<sg\> #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<m\>\<sg\>
+^.<sent>$ ^ti<prn><pro><p2><mf><sg>$ ^prpers<prn><pro><p3><f><sg>$	. \@ti\<prn\>\<pro\>\<p2\>\<mf\>\<sg\> It
+^.<sent>$ ^ti<prn><pro><p2><mf><sg>$ ^prpers<prn><pro><p3><f><pl>$	. \@ti\<prn\>\<pro\>\<p2\>\<mf\>\<sg\> Them
+^.<sent>$ ^ti<prn><pro><p2><mf><sg>$ ^prpers<prn><pro><p3><m><pl>$	. \@ti\<prn\>\<pro\>\<p2\>\<mf\>\<sg\> Them
+^.<sent>$ ^ti<prn><pro><p2><mf><sg>$ ^prpers<prn><pro><p3><m><sg>$	. \@ti\<prn\>\<pro\>\<p2\>\<mf\>\<sg\> \@Prpers\<prn\>\<p3\>\<m\>\<sg\>
 ^.<sent>$ ^ti<prn><pro><p2><mf><sg>$ ^ne<prn><pro><adv>$	. \@ti\<prn\>\<pro\>\<p2\>\<mf\>\<sg\> \@ne\<prn\>\<pro\>\<adv\>
 ^.<sent>$ ^lui<prn><tn><p3><m><sg>$	. \@lui\<prn\>\<tn\>\<p3\>\<m\>\<sg\>
 ^.<sent>$ ^lui<prn><tn><p3><f><sg>$	. \@lui\<prn\>\<tn\>\<p3\>\<f\>\<sg\>
 ^.<sent>$ ^lui<prn><tn><p3><mf><pl>$	. \@lui\<prn\>\<tn\>\<p3\>\<mf\>\<pl\>
 ^.<sent>$ ^egli<prn><tn><p3><m><sg>$	. \@egli\<prn\>\<tn\>\<p3\>\<m\>\<sg\>
 ^.<sent>$ ^egli<prn><tn><p3><f><sg>$	. \@egli\<prn\>\<tn\>\<p3\>\<f\>\<sg\>
-^.<sent>$ ^lo<prn><pro><p3><m><sg>$	. #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<m\>\<sg\>
-^.<sent>$ ^lo<prn><pro><p3><nt>$	. #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<nt\>
-^.<sent>$ ^lo<prn><pro><p3><f><sg>$	. #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<f\>\<sg\>
-^.<sent>$ ^lo<prn><pro><p3><m><pl>$	. #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<m\>\<pl\>
-^.<sent>$ ^lo<prn><pro><p3><f><pl>$	. #prpers\<prn\>\<obj\>\<p3\>\<nt\>\<sg\>\<p3\>\<f\>\<pl\>
+^.<sent>$ ^prpers<prn><pro><p3><m><sg>$	. \@Prpers\<prn\>\<p3\>\<m\>\<sg\>
 ^.<sent>$ ^alcuno<prn><tn><m><pl>$	. #One\<prn\>\<tn\>\<mf\>
 ^.<sent>$ ^alcuno<prn><tn><f><pl>$	. #One\<prn\>\<tn\>\<mf\>
 ^.<sent>$ ^alcunché<prn><tn><nt><sg>$	. #something\<prn\>\<tn\>\<nt\>\<tn\>\<nt\>\<sg\>
@@ -14697,16 +14683,8 @@
 ^.<sent>$ ^il vostro<prn><tn><pos><f><pl>$	. #yours\<prn\>\<pos\>\<f\>\<pl\>\/yours\<prn\>\<pos\>\<mf\>\<sp\>\<f\>\<pl\>
 ^.<sent>$ ^il vostro<prn><tn><pos><f><sg>$	. #yours\<prn\>\<pos\>\<f\>\<sg\>\/yours\<prn\>\<pos\>\<mf\>\<sp\>\<f\>\<sg\>
 ^.<sent>$ ^il resto<prn><tn><nt><sg>$	. \@il resto\<prn\>\<tn\>\<nt\>\<sg\>
-^.<sent>$ ^io<prn><tn><p1><mf><sg>$	. \@io\<prn\>\<tn\>\<p1\>\<mf\>\<sg\>
-^.<sent>$ ^le<prn><pro><p3><f><sg>$	. \@le\<prn\>\<pro\>\<p3\>\<f\>\<sg\>
-^.<sent>$ ^me<prn><tn><p1><mf><sg>$	. #prpers\<prn\>\<obj\>\<p1\>\<mf\>\<sg\>\<p1\>\<mf\>\<sg\>
-^.<sent>$ ^me<prn><tn><p1><mf><sg>$	. #prpers\<prn\>\<obj\>\<p1\>\<mf\>\<sg\>\<p1\>\<mf\>\<sg\>
 ^.<sent>$ ^meco<prn><tn><p1><mf><sg>$	. \@meco\<prn\>\<tn\>\<p1\>\<mf\>\<sg\>
-^.<sent>$ ^mi<prn><pro><p1><mf><sg>$	. \@mi\<prn\>\<pro\>\<p1\>\<mf\>\<sg\>
-^.<sent>$ ^ti<prn><pro><p2><mf><sg>$	. \@ti\<prn\>\<pro\>\<p2\>\<mf\>\<sg\>
-^.<sent>$ ^si<prn><pro><ref><p3><mf><sp>$	. \@si\<prn\>\<pro\>\<ref\>\<p3\>\<mf\>\<sp\>
-^.<sent>$ ^vi<prn><pro><p2><mf><pl>$	. \@vi\<prn\>\<pro\>\<p2\>\<mf\>\<pl\>
-^.<sent>$ ^gli<prn><pro><p3><m><sg>$	. \@gli\<prn\>\<pro\>\<p3\>\<m\>\<sg\>
+^.<sent>$ ^prpers<prn><pro><p3><m><sg>$	. \@Prpers\<prn\>\<p3\>\<m\>\<sg\>
 ^.<sent>$ ^ne<prn><pro><adv>$	. \@ne\<prn\>\<pro\>\<adv\>
 ^.<sent>$ ^nessuno<prn><tn><m><sg>$	. #Nobody\<prn\>\<tn\>\<nt\>\<sg\>
 ^.<sent>$ ^niente<prn><tn><nt><sg>$	. #nothing\<prn\>\<tn\>\<nt\>\<sg\>\/anything\<prn\>\<tn\>\<tn\>\<nt\>\<sg\>
@@ -14726,10 +14704,7 @@
 ^.<sent>$ ^sé<prn><tn><ref><p3><mf><sp>$	. #himself\<prn\>\<ref\>\<p3\>\<m\>\<sg\>\<ref\>\<p3\>\<mf\>\<sp\>
 ^.<sent>$ ^tale<prn><tn><mf><pl>$	. \@Tale\<prn\>\<tn\>\<mf\>\<pl\>
 ^.<sent>$ ^tale<prn><tn><mf><sg>$	. \@Tale\<prn\>\<tn\>\<mf\>\<sg\>
-^.<sent>$ ^te<prn><tn><p2><mf><sg>$	. #prpers\<prn\>\<obj\>\<p2\>\<mf\>\<sp\>\<p2\>\<mf\>\<sg\>
-^.<sent>$ ^te<prn><tn><p2><mf><sg>$	. #prpers\<prn\>\<obj\>\<p2\>\<mf\>\<sp\>\<p2\>\<mf\>\<sg\>
 ^.<sent>$ ^teco<prn><tn><p2><mf><sg>$	. \@teco\<prn\>\<tn\>\<p2\>\<mf\>\<sg\>
-^.<sent>$ ^tu<prn><tn><p2><mf><sg>$	. \@tu\<prn\>\<tn\>\<p2\>\<mf\>\<sg\>
 ^.<sent>$ ^tutti quanti<prn><tn><mf><sp>$	. #Everyone\<prn\>\<tn\>\<mf\>\<sp\>
 ^.<sent>$ ^tutto<prn><tn><f><sg>$	. \@Tutto\<prn\>\<tn\>\<f\>\<sg\>
 ^.<sent>$ ^tutto<prn><tn><m><pl>$	. \@Tutto\<prn\>\<tn\>\<m\>\<pl\>
