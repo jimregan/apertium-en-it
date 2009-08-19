@@ -48180,7 +48180,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>inflict<s n="vblex"/></l> 
         <r>causare<s n="vblex"/></r> 
@@ -74221,17 +74221,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>rule<s n="vblex"/></l> 
-        <r>governare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-59
     -->
     <e>
@@ -80034,19 +80023,8 @@
     -->
     <e>
       <p>
-        <l>spread<s n="vblex"/></l> 
+        <l>divulge<s n="vblex"/></l> 
         <r>divulgare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>spread<s n="vblex"/></l> 
-        <r>estendere<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -88560,7 +88538,7 @@
     -->
     <e>
       <p>
-        <l>use<s n="vblex"/></l> 
+        <l>utilise<s n="vblex"/></l> 
         <r>utilizzare<s n="vblex"/></r> 
       </p>
     </e>
@@ -94716,7 +94694,7 @@
     <e><p><l>highlight<s n="vblex"/></l><r>evidenziare<s n="vblex"/></r></p></e>
     <e><p><l>appear<s n="vblex"/></l><r>figurare<s n="vblex"/></r></p></e>
     <e><p><l>rule<s n="vblex"/></l><r>imperare<s n="vblex"/></r></p></e>
-    <e><p><l>use<s n="vblex"/></l><r>impiegare<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>use<s n="vblex"/></l><r>impiegare<s n="vblex"/></r></p></e>
     <e><p><l>plagiarise<s n="vblex"/></l><r>plagiare<s n="vblex"/></r></p></e>
     <e><p><l>shape<s n="vblex"/></l><r>plasmare<s n="vblex"/></r></p></e>
     <e><p><l>procreate<s n="vblex"/></l><r>procreare<s n="vblex"/></r></p></e>
