@@ -84747,32 +84747,22 @@
 	forced 'null' restriction
       default
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>those<b/>that<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l> 
-        <r>quello<b/>che<s n="rel"/></r> 
+        <r>quello<b/>che<s n="rel"/><s n="nn"/><s n="GD"/><s n="pl"/></r> 
       </p>
     </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
+    <e r="LR">
       <p>
         <l>those<b/>that<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l> 
-        <r>quanto<s n="rel"/></r> 
+        <r>quello<b/>che<s n="rel"/><s n="nn"/><s n="m"/><s n="pl"/></r> 
       </p>
     </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
+    <e r="LR">
       <p>
-        <l>thousand<s n="n"/></l> 
-        <r>migliaio<s n="n"/><s n="m"/><s n="sg"/></r> 
+        <l>those<b/>that<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l> 
+        <r>quello<b/>che<s n="rel"/><s n="nn"/><s n="f"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -84780,31 +84770,22 @@
 	forced 'null' restriction
       default
     -->
-    <e>
+    <e r="LR">
       <p>
-        <l>thousand<s n="n"/></l> 
-        <r>migliaio<s n="n"/><s n="f"/><s n="pl"/></r> 
+        <l>those<b/>that<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l> 
+        <r>quanto<s n="rel"/><s n="nn"/><s n="GD"/><s n="pl"/></r> 
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
     <e>
       <p>
         <l>thousand<s n="n"/><s n="sg"/></l> 
         <r>migliaio<s n="n"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
     <e>
       <p>
-        <l>thousand<s n="n"/><s n="sg"/></l> 
+        <l>thousand<s n="n"/><s n="pl"/></l> 
         <r>migliaio<s n="n"/><s n="f"/><s n="pl"/></r> 
       </p>
     </e>
@@ -90801,8 +90782,20 @@
     -->
     <e>
       <p>
-        <l>when<s n="adv"/></l> 
-        <r>quando<s n="adv"/></r> 
+        <l>when<s n="adv"/><s n="itg"/></l> 
+        <r>quando<s n="adv"/><s n="itg"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>when<s n="cnjadv"/></l> 
+        <r>quando<s n="rel"/><s n="adv"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>until<s n="pr"/></l> 
+        <r>fino<b/>a<s n="pr"/></r> 
       </p>
     </e>
 
@@ -90891,6 +90884,12 @@
       <p>
         <l>while<s n="cnjadv"/></l> 
         <r>nella<b/>misura<b/>in<b/>cui<s n="cnjadv"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>though<s n="cnjadv"/></l> 
+        <r>nonostante<s n="cnjsub"/></r> 
       </p>
     </e>
 
@@ -94645,8 +94644,8 @@
     <e r="RL"><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
     <e c="em, et, li, etc"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
     <e>  <p><l>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-    <e r="LR"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
-    <e r="LR"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
     <e>  <p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="nt"/></r></p></e>
     <e r="RL" c="he posat com a traducció per defecte de 'li' him, també pot ser 'her' o 'it'- revisar"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
     <e>  <p><l>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
