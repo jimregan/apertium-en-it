@@ -57127,7 +57127,7 @@
       <e>
 	<p>
 	  <l>gli</l>
-	  <r>gli<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="sg"/></r>
+	  <r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="sg"/></r>
 	</p>
       </e>
 
@@ -57135,7 +57135,7 @@
       <e r="RL">
 	<p>
 	  <l><a/>gli</l>
-	  <r>gli<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sp"/></r>
+	  <r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sp"/></r>
 	</p>
       </e>
 
@@ -57143,7 +57143,7 @@
       <e r="RL">
 	<p>
 	  <l>le</l>
-	  <r>gli<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r>
+	  <r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r>
 	</p>
       </e>
 
@@ -87704,8 +87704,8 @@
     <e lm="sè"><i>sè</i><par n="sè__prn"/></e>
     <e lm="sé"><i>sé</i><par n="sè__prn"/></e>
     <e lm="tale"><i>tal</i><par n="tal/e__prn"/></e>
-    <e lm="te"><i>te</i><par n="te__prn"/></e>
-    <e lm="te"><i>te</i><par n="te__prn"/></e>
+    <e lm="te"><p><l>te</l><r>prpers</r></p><par n="te__prn"/></e>
+    <e lm="te"><p><l>te</l><r>prpers</r></p><par n="te__prn"/></e>
     <e r="LR" lm="teco"><i>teco</i><par n="te__prn"/></e>
     <e lm="tu"><i>tu</i><par n="te__prn"/></e>
     <e lm="tutti quanti"><i>tutti<b/>quanti</i><par n="qualsivoglia__prn"/></e>
