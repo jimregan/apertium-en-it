@@ -1,4 +1,4 @@
-^.<sent>$ ^the<det><def><sp>$ ^most<preadv>$	. #Il\<det\>\<def\>\<m\>\<sg\>\<sp\> \@most\<preadv\>
+^.<sent>$ ^the<det><def><sp>$ ^most<preadv>$	. ~Il \@most\<preadv\>
 ^.<sent>$ ^a<det><ind><sg>$	. #Un\<det\>\<ind\>\<m\>\<mf\>
 ^.<sent>$ ^a<det><ind><sg>$	. #Un\<det\>\<ind\>\<m\>\<mf\>
 ^.<sent>$ ^another<det><ind><sg>$	. #Un altro\<det\>\<ind\>
@@ -26,7 +26,6 @@
 ^.<sent>$ ^this<det><dem><pl>$	. #Questo\<det\>\<dem\>
 ^.<sent>$ ^that<det><dem><sg>$	. #Quello\<det\>\<dem\>
 ^.<sent>$ ^that<det><dem><pl>$	. #Quello\<det\>\<dem\>
-^.<sent>$ ^the<det><def><sp>$	. #Il\<det\>\<def\>\<m\>\<sg\>\<sp\>
 ^.<sent>$ ^the same<det><ind><sp>$	. \@The same\<det\>\<ind\>\<sp\>
 ^.<sent>$ ^third<det><ord><sp>$	. \@Third\<det\>\<sp\>
 ^.<sent>$ ^too much<det><qnt><sg>$	. \@Too much\<det\>
@@ -1327,6 +1326,7 @@
 ^.<sent>$ ^Roquelina<np><ant><f><sg>$	. \@Roquelina\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Rosa<np><ant><f><sg>$	. \@Rosa\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Rosa de Lima<np><ant><f><sg>$	. \@Rosa de Lima\<np\>\<ant\>\<f\>\<sg\>
+^.<sent>$ ^Rose of Lima<np><ant><f><sg>$	. \@Rose of Lima\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Rosalba<np><ant><f><sg>$	. \@Rosalba\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Rosalí<np><ant><f><sg>$	. \@Rosalí\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Rosalía<np><ant><f><sg>$	. \@Rosalía\<np\>\<ant\>\<f\>\<sg\>
@@ -3240,7 +3240,6 @@
 ^.<sent>$ ^Aparicio<np><ant><m><sg>$	. \@Aparicio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Apeles<np><ant><m><sg>$	. \@Apeles\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Apolinar<np><ant><m><sg>$	. \@Apolinar\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Apolo<np><ant><m><sg>$	. \@Apolo\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Apolodoro<np><ant><m><sg>$	. \@Apolodoro\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Apolonio<np><ant><m><sg>$	. \@Apolonio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Aquilino<np><ant><m><sg>$	. \@Aquilino\<np\>\<ant\>\<m\>\<sg\>
@@ -3734,7 +3733,6 @@
 ^.<sent>$ ^Erwin<np><ant><m><sg>$	. \@Erwin\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Esaú<np><ant><m><sg>$	. \@Esaú\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Escandar<np><ant><m><sg>$	. \@Escandar\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Scipion<np><ant><m><sg>$	. \@Scipion\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Escolástico<np><ant><m><sg>$	. \@Escolástico\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Esdras<np><ant><m><sg>$	. \@Esdras\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Esdrás<np><ant><m><sg>$	. \@Esdrás\<np\>\<ant\>\<m\>\<sg\>
@@ -3830,7 +3828,7 @@
 ^.<sent>$ ^Fram<np><ant><m><sg>$	. \@Fram\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Francesco<np><ant><m><sg>$	. #Francesco\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Francis<np><ant><m><sg>$	. \@Francis\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Francisco de Borja<np><ant><m><sg>$	. \@Francisco de Borja\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Francis Borgia<np><ant><m><sg>$	. \@Francis Borgia\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Francisco de Paula<np><ant><m><sg>$	. \@Francisco de Paula\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Franco<np><ant><m><sg>$	. \@Franco\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Frank<np><ant><m><sg>$	. \@Frank\<np\>\<ant\>\<m\>\<sg\>
@@ -4063,6 +4061,7 @@
 ^.<sent>$ ^Jenaro<np><ant><m><sg>$	. \@Jenaro\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Jeremías<np><ant><m><sg>$	. \@Jeremías\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Jeshua<np><ant><m><sg>$	. \@Jeshua\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Jesús<np><ant><m><sg>$	. \@Jesús\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Jhesua<np><ant><m><sg>$	. \@Jhesua\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Jimeno<np><ant><m><sg>$	. \@Jimeno\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Jimy<np><ant><m><sg>$	. \@Jimy\<np\>\<ant\>\<m\>\<sg\>
@@ -6748,9 +6747,6 @@
 ^.<sent>$ ^Adriana<np><ant><f><sg>$	. \@Adriana\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Adrià<np><ant><m><sg>$	. \@Adrià\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Basauri<np><loc><sg>$	. \@Basauri\<np\>\<loc\>
-^.<sent>$ ^Pyrenees<np><loc><pl>$	. #Pirenei
-^.<sent>$ ^Pyrenees<np><loc><pl>$ ^'s<gen>$	. #Pirenei 
-^.<sent>$ ^Pyrenees<np><loc><pl>$	. #Pirenei
 ^.<sent>$ ^Vitoria-Gasteiz<np><loc><sg>$	. \@Vitoria-Gasteiz\<np\>\<loc\>
 ^.<sent>$ ^Ainhoa<np><ant><f><sg>$	. \@Ainhoa\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Aitor<np><ant><m><sg>$	. \@Aitor\<np\>\<ant\>\<m\>\<sg\>
@@ -8978,6 +8974,9 @@
 ^.<sent>$ ^Jan<np><ant><f><sg>$	. \@Jan\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Jane<np><ant><f><sg>$	. \@Jane\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Jaume<np><ant><m><sg>$	. \@Jaume\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Jesús<np><ant><m><sg>$	. \@Jesús\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Jesús<np><ant><m><sg>$ ^'s<gen>$	. \@Jesús\<np\>\<ant\>\<m\>\<sg\> 
+^.<sent>$ ^Jesús<np><ant><m><sg>$	. \@Jesús\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Joan<np><ant><m><sg>$	. \@Joan\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Joan<np><ant><f><sg>$	. \@Joan\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Joaquim<np><ant><m><sg>$	. \@Joaquim\<np\>\<ant\>\<m\>\<sg\>
@@ -9000,6 +8999,7 @@
 ^.<sent>$ ^Kennedy<np><cog><sg>$	. \@Kennedy\<np\>\<cog\>
 ^.<sent>$ ^Kennedy<np><cog><pl>$	. \@Kennedy\<np\>\<cog\>
 ^.<sent>$ ^Lara<np><ant><f><sg>$	. #Lara\<np\>\<ant\>\<f\>\<sg\>
+^.<sent>$ ^Latin America<np><loc><sg>$	. #America latina\<np\>\<loc\>\<f\>\<sg\>
 ^.<sent>$ ^Lewis<np><ant><m><sg>$	. \@Lewis\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Lewis<np><ant><m><sg>$ ^'s<gen>$	. \@Lewis\<np\>\<ant\>\<m\>\<sg\> 
 ^.<sent>$ ^Lewis<np><ant><m><sg>$	. \@Lewis\<np\>\<ant\>\<m\>\<sg\>
@@ -9140,11 +9140,11 @@
 ^.<sent>$ ^Pujol<np><cog><pl>$ ^'s<gen>$	. \@Pujol\<np\>\<cog\> 
 ^.<sent>$ ^Pujol<np><cog><sg>$	. \@Pujol\<np\>\<cog\>
 ^.<sent>$ ^Pujol<np><cog><pl>$	. \@Pujol\<np\>\<cog\>
-^.<sent>$ ^Pérez<np><cog><sg>$	. #Pérez\<np\>\<ant\>
-^.<sent>$ ^Pérez<np><cog><pl>$	. #Pérez\<np\>\<ant\>
-^.<sent>$ ^Pérez<np><cog><pl>$ ^'s<gen>$	. #Pérez\<np\>\<ant\> 
-^.<sent>$ ^Pérez<np><cog><sg>$	. #Pérez\<np\>\<ant\>
-^.<sent>$ ^Pérez<np><cog><pl>$	. #Pérez\<np\>\<ant\>
+^.<sent>$ ^Pérez<np><cog><sg>$	. \@Pérez\<np\>\<cog\>
+^.<sent>$ ^Pérez<np><cog><pl>$	. \@Pérez\<np\>\<cog\>
+^.<sent>$ ^Pérez<np><cog><pl>$ ^'s<gen>$	. \@Pérez\<np\>\<cog\> 
+^.<sent>$ ^Pérez<np><cog><sg>$	. \@Pérez\<np\>\<cog\>
+^.<sent>$ ^Pérez<np><cog><pl>$	. \@Pérez\<np\>\<cog\>
 ^.<sent>$ ^Queensland<np><loc><sg>$	. \@Queensland\<np\>\<loc\>
 ^.<sent>$ ^Rabat<np><loc><sg>$	. \@Rabat\<np\>\<loc\>
 ^.<sent>$ ^Ramon<np><ant><m><sg>$	. \@Ramon\<np\>\<ant\>\<m\>\<sg\>
@@ -9154,11 +9154,6 @@
 ^.<sent>$ ^Reagan<np><cog><pl>$ ^'s<gen>$	. \@Reagan\<np\>\<cog\> 
 ^.<sent>$ ^Reagan<np><cog><sg>$	. \@Reagan\<np\>\<cog\>
 ^.<sent>$ ^Reagan<np><cog><pl>$	. \@Reagan\<np\>\<cog\>
-^.<sent>$ ^Rodríguez<np><cog><sg>$	. #Rodríguez\<np\>\<ant\>
-^.<sent>$ ^Rodríguez<np><cog><pl>$	. #Rodríguez\<np\>\<ant\>
-^.<sent>$ ^Rodríguez<np><cog><pl>$ ^'s<gen>$	. #Rodríguez\<np\>\<ant\> 
-^.<sent>$ ^Rodríguez<np><cog><sg>$	. #Rodríguez\<np\>\<ant\>
-^.<sent>$ ^Rodríguez<np><cog><pl>$	. #Rodríguez\<np\>\<ant\>
 ^.<sent>$ ^Roger<np><ant><m><sg>$	. \@Roger\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Rosa<np><ant><f><sg>$	. \@Rosa\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Ruiz<np><cog><sg>$	. \@Ruiz\<np\>\<cog\>
@@ -9188,7 +9183,6 @@
 ^.<sent>$ ^Treaty establishing a Constitution for Europe<np><al><sg>$	. \@Treaty establishing a Constitution for Europe\<np\>\<al\>
 ^.<sent>$ ^European Defence Agency<np><al><sg>$	. \@European Defence Agency\<np\>\<al\>
 ^.<sent>$ ^Tripoli<np><loc><sg>$	. \@Tripoli\<np\>\<loc\>
-^.<sent>$ ^U.S.<np><loc><sg>$	. #USA
 ^.<sent>$ ^US<np><loc><sg>$	. \@US\<np\>\<loc\>
 ^.<sent>$ ^USA<np><loc><sg>$	. \@USA\<np\>\<loc\>
 ^.<sent>$ ^United Nations<np><al><pl>$	. \@United Nations\<np\>\<al\>
@@ -9682,8 +9676,9 @@
 ^.<sent>$ ^ark<n><pl>$ ^'s<gen>$	. \@Ark\<n\> 
 ^.<sent>$ ^ark<n><sg>$	. \@Ark\<n\>
 ^.<sent>$ ^ark<n><pl>$	. \@Ark\<n\>
-^.<sent>$ ^arm<n><sg>$	. #Braccio\<n\>\<f\>\<sg\>
-^.<sent>$ ^arm<n><sg>$	. #Braccio\<n\>\<f\>\<sg\>
+^.<sent>$ ^arm<n><pl>$	. #Arma\<n\>
+^.<sent>$ ^arm<n><pl>$ ^'s<gen>$	. #Arma\<n\> 
+^.<sent>$ ^arm<n><pl>$	. #Arma\<n\>
 ^.<sent>$ ^armchair<n><sg>$	. \@Armchair\<n\>
 ^.<sent>$ ^armchair<n><pl>$	. \@Armchair\<n\>
 ^.<sent>$ ^armchair<n><pl>$ ^'s<gen>$	. \@Armchair\<n\> 
@@ -9963,11 +9958,6 @@
 ^.<sent>$ ^human race<n><pl>$ ^'s<gen>$	. \@Human race\<n\> 
 ^.<sent>$ ^human race<n><sg>$	. \@Human race\<n\>
 ^.<sent>$ ^human race<n><pl>$	. \@Human race\<n\>
-^.<sent>$ ^belief<n><sg>$	. \@Belief\<n\>
-^.<sent>$ ^belief<n><pl>$	. \@Belief\<n\>
-^.<sent>$ ^belief<n><pl>$ ^'s<gen>$	. \@Belief\<n\> 
-^.<sent>$ ^belief<n><sg>$	. \@Belief\<n\>
-^.<sent>$ ^belief<n><pl>$	. \@Belief\<n\>
 ^.<sent>$ ^believer<n><sg>$	. \@Believer\<n\>
 ^.<sent>$ ^believer<n><pl>$	. \@Believer\<n\>
 ^.<sent>$ ^believer<n><pl>$ ^'s<gen>$	. \@Believer\<n\> 
@@ -10666,11 +10656,6 @@
 ^.<sent>$ ^cicada<n><pl>$ ^'s<gen>$	. \@Cicada\<n\> 
 ^.<sent>$ ^cicada<n><sg>$	. \@Cicada\<n\>
 ^.<sent>$ ^cicada<n><pl>$	. \@Cicada\<n\>
-^.<sent>$ ^circumcision<n><sg>$	. \@Circumcision\<n\>
-^.<sent>$ ^circumcision<n><pl>$	. \@Circumcision\<n\>
-^.<sent>$ ^circumcision<n><pl>$ ^'s<gen>$	. \@Circumcision\<n\> 
-^.<sent>$ ^circumcision<n><sg>$	. \@Circumcision\<n\>
-^.<sent>$ ^circumcision<n><pl>$	. \@Circumcision\<n\>
 ^.<sent>$ ^circumstance<n><sg>$	. \@Circumstance\<n\>
 ^.<sent>$ ^circumstance<n><pl>$	. \@Circumstance\<n\>
 ^.<sent>$ ^circumstance<n><pl>$ ^'s<gen>$	. \@Circumstance\<n\> 
@@ -11594,11 +11579,6 @@
 ^.<sent>$ ^defeatist<n><pl>$ ^'s<gen>$	. \@Defeatist\<n\> 
 ^.<sent>$ ^defeatist<n><sg>$	. \@Defeatist\<n\>
 ^.<sent>$ ^defeatist<n><pl>$	. \@Defeatist\<n\>
-^.<sent>$ ^defence<n><sg>$	. #Difesa\<n\>\<mf\>\<sg\>
-^.<sent>$ ^defence<n><pl>$	. #Difesa\<n\>\<mf\>\<pl\>
-^.<sent>$ ^defence<n><pl>$ ^'s<gen>$	. #Difesa\<n\>\<mf\>\<pl\> 
-^.<sent>$ ^defence<n><sg>$	. #Difesa\<n\>\<mf\>\<sg\>
-^.<sent>$ ^defence<n><pl>$	. #Difesa\<n\>\<mf\>\<pl\>
 ^.<sent>$ ^deficit<n><sg>$	. \@Deficit\<n\>
 ^.<sent>$ ^deficit<n><pl>$	. \@Deficit\<n\>
 ^.<sent>$ ^deficit<n><pl>$ ^'s<gen>$	. \@Deficit\<n\> 
@@ -11995,11 +11975,6 @@
 ^.<sent>$ ^distributor<n><pl>$ ^'s<gen>$	. \@Distributor\<n\> 
 ^.<sent>$ ^distributor<n><sg>$	. \@Distributor\<n\>
 ^.<sent>$ ^distributor<n><pl>$	. \@Distributor\<n\>
-^.<sent>$ ^distrust<n><sg>$	. \@Distrust\<n\>
-^.<sent>$ ^distrust<n><pl>$	. \@Distrust\<n\>
-^.<sent>$ ^distrust<n><pl>$ ^'s<gen>$	. \@Distrust\<n\> 
-^.<sent>$ ^distrust<n><sg>$	. \@Distrust\<n\>
-^.<sent>$ ^distrust<n><pl>$	. \@Distrust\<n\>
 ^.<sent>$ ^disuse<n><sg>$	. \@Disuse\<n\>
 ^.<sent>$ ^disuse<n><pl>$	. \@Disuse\<n\>
 ^.<sent>$ ^disuse<n><pl>$ ^'s<gen>$	. \@Disuse\<n\> 
@@ -15212,11 +15187,6 @@
 ^.<sent>$ ^opacity<n><pl>$ ^'s<gen>$	. \@Opacity\<n\> 
 ^.<sent>$ ^opacity<n><sg>$	. \@Opacity\<n\>
 ^.<sent>$ ^opacity<n><pl>$	. \@Opacity\<n\>
-^.<sent>$ ^opening<n><sg>$	. \@Opening\<n\>
-^.<sent>$ ^opening<n><pl>$	. \@Opening\<n\>
-^.<sent>$ ^opening<n><pl>$ ^'s<gen>$	. \@Opening\<n\> 
-^.<sent>$ ^opening<n><sg>$	. \@Opening\<n\>
-^.<sent>$ ^opening<n><pl>$	. \@Opening\<n\>
 ^.<sent>$ ^opium<n><sg>$	. \@Opium\<n\>
 ^.<sent>$ ^opium<n><pl>$	. \@Opium\<n\>
 ^.<sent>$ ^opium<n><pl>$ ^'s<gen>$	. \@Opium\<n\> 
@@ -16264,11 +16234,6 @@
 ^.<sent>$ ^purge<n><pl>$ ^'s<gen>$	. \@Purge\<n\> 
 ^.<sent>$ ^purge<n><sg>$	. \@Purge\<n\>
 ^.<sent>$ ^purge<n><pl>$	. \@Purge\<n\>
-^.<sent>$ ^purification<n><sg>$	. \@Purification\<n\>
-^.<sent>$ ^purification<n><pl>$	. \@Purification\<n\>
-^.<sent>$ ^purification<n><pl>$ ^'s<gen>$	. \@Purification\<n\> 
-^.<sent>$ ^purification<n><sg>$	. \@Purification\<n\>
-^.<sent>$ ^purification<n><pl>$	. \@Purification\<n\>
 ^.<sent>$ ^purist<n><sg>$	. \@Purist\<n\>
 ^.<sent>$ ^purist<n><pl>$	. \@Purist\<n\>
 ^.<sent>$ ^purist<n><pl>$ ^'s<gen>$	. \@Purist\<n\> 
@@ -18686,13 +18651,6 @@
 ^.<sent>$ ^vice president<n><pl>$ ^'s<gen>$	. \@Vice president\<n\> 
 ^.<sent>$ ^vice president<n><sg>$	. \@Vice president\<n\>
 ^.<sent>$ ^vice president<n><pl>$	. \@Vice president\<n\>
-^.<sent>$ ^vicinity<n><sg>$	. \@Vicinity\<n\>
-^.<sent>$ ^vicinity<n><pl>$	. \@Vicinity\<n\>
-^.<sent>$ ^vicinity<n><pl>$	. \@Vicinity\<n\>
-^.<sent>$ ^vicinity<n><pl>$ ^'s<gen>$	. \@Vicinity\<n\> 
-^.<sent>$ ^vicinity<n><pl>$ ^'s<gen>$	. \@Vicinity\<n\> 
-^.<sent>$ ^vicinity<n><sg>$	. \@Vicinity\<n\>
-^.<sent>$ ^vicinity<n><pl>$	. \@Vicinity\<n\>
 ^.<sent>$ ^victimisation<n><pl>$ ^'s<gen>$	. \@Victimisation\<n\> 
 ^.<sent>$ ^victimisation<n><sg>$	. \@Victimisation\<n\>
 ^.<sent>$ ^victimisation<n><pl>$	. \@Victimisation\<n\>
@@ -19388,10 +19346,6 @@
 ^.<sent>$ ^PP<n><acr><sg>$	. \@PP\<n\>\<acr\>
 ^.<sent>$ ^PSC<n><acr><sg>$	. \@PSC\<n\>\<acr\>
 ^.<sent>$ ^PSOE<n><acr><sg>$	. \@PSOE\<n\>\<acr\>
-^.<sent>$ ^TV<n><acr><sg>$	. #TV\<n\>\<acr\>
-^.<sent>$ ^U.N.<n><acr><sg>$	. #ONU\<n\>
-^.<sent>$ ^UEFA<n><acr><sg>$	. #UEFA\<n\>\<f\>\<sg\>
-^.<sent>$ ^UN<n><acr><sg>$	. #ONU\<n\>
 ^.<sent>$ ^VAT<n><acr><sg>$	. \@VAT\<n\>\<acr\>
 ^.<sent>$ ^good morning<ij>$	. \@good morning\<ij\>
 ^.<sent>$ ^hello<ij>$	. \@hello\<ij\>
@@ -22998,14 +22952,6 @@
 ^.<sent>$ ^dislike<vblex><ger>$	. \@Dislike\<vblex\>\<ger\>
 ^.<sent>$ ^dislike<vblex><pprs>$	. \@Dislike\<vblex\>\<ger\>
 ^.<sent>$ ^dislike<vblex><subs>$	. \@Dislike\<vblex\>\<inf\>
-^.<sent>$ ^dismiss<vblex><inf>$	. \@Dismiss\<vblex\>\<inf\>
-^.<sent>$ ^dismiss<vblex><pres>$	. \@Dismiss\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^dismiss<vblex><pri><p3><sg>$	. \@Dismiss\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^dismiss<vblex><past>$	. \@Dismiss\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^dismiss<vblex><pp>$	. \@Dismiss\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^dismiss<vblex><ger>$	. \@Dismiss\<vblex\>\<ger\>
-^.<sent>$ ^dismiss<vblex><pprs>$	. \@Dismiss\<vblex\>\<ger\>
-^.<sent>$ ^dismiss<vblex><subs>$	. \@Dismiss\<vblex\>\<inf\>
 ^.<sent>$ ^dispel<vblex><inf>$	. \@Dispel\<vblex\>\<inf\>
 ^.<sent>$ ^dispel<vblex><pres>$	. \@Dispel\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^dispel<vblex><pri><p3><sg>$	. \@Dispel\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -25746,14 +25692,6 @@
 ^.<sent>$ ^presuppose<vblex><ger>$	. \@Presuppose\<vblex\>\<ger\>
 ^.<sent>$ ^presuppose<vblex><pprs>$	. \@Presuppose\<vblex\>\<ger\>
 ^.<sent>$ ^presuppose<vblex><subs>$	. \@Presuppose\<vblex\>\<inf\>
-^.<sent>$ ^prevent<vblex><inf>$	. \@Prevent\<vblex\>\<inf\>
-^.<sent>$ ^prevent<vblex><pres>$	. \@Prevent\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^prevent<vblex><pri><p3><sg>$	. \@Prevent\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^prevent<vblex><past>$	. \@Prevent\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^prevent<vblex><pp>$	. \@Prevent\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^prevent<vblex><ger>$	. \@Prevent\<vblex\>\<ger\>
-^.<sent>$ ^prevent<vblex><pprs>$	. \@Prevent\<vblex\>\<ger\>
-^.<sent>$ ^prevent<vblex><subs>$	. \@Prevent\<vblex\>\<inf\>
 ^.<sent>$ ^price<vblex><inf>$	. \@Price\<vblex\>\<inf\>
 ^.<sent>$ ^price<vblex><pres>$	. \@Price\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^price<vblex><pri><p3><sg>$	. \@Price\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -28800,9 +28738,8 @@
 ^.<sent>$ ^shortly after<adv>$	. \@Shortly after\<adv\>
 ^.<sent>$ ^after all<adv>$	. \@After all\<adv\>
 ^.<sent>$ ^after this manner<adv>$	. \@After this manner\<adv\>
-^.<sent>$ ^again<adv>$	. #Di nuovo\<adv\>\/nuovamente\<adv\>
 ^.<sent>$ ^against<adv>$	. \@Against\<adv\>
-^.<sent>$ ^against my will<adv>$	. \@Against my will\<adv\>
+^.<sent>$ ^against my will<adv>$	. #Contro la mia volontà\<adv\>
 ^.<sent>$ ^alike<adv>$	. \@Alike\<adv\>
 ^.<sent>$ ^all in one breath<adv>$	. \@All in one breath\<adv\>
 ^.<sent>$ ^amid a lot of hype<adv>$	. \@Amid a lot of hype\<adv\>
@@ -29125,8 +29062,8 @@
 ^.<sent>$ ^by judicial mandate<adv>$	. \@By judicial mandate\<adv\>
 ^.<sent>$ ^by the present<adv>$	. \@By the present\<adv\>
 ^.<sent>$ ^where appropriate<adv>$	. \@Where appropriate\<adv\>
-^.<sent>$ ^the<det><def><sp>$ ^undersigned<n><sg>$	. #Il\<det\>\<def\>\<m\>\<sg\>\<sp\> \@undersigned\<n\>\<sg\>
-^.<sent>$ ^the<det><def><sp>$ ^undersigned<n><pl>$	. #Il\<det\>\<def\>\<m\>\<pl\>\<sp\> \@undersigned\<n\>\<pl\>
+^.<sent>$ ^the<det><def><sp>$ ^undersigned<n><sg>$	. ~Il \@undersigned\<n\>\<sg\>
+^.<sent>$ ^the<det><def><sp>$ ^undersigned<n><pl>$	. ~I \@undersigned\<n\>\<pl\>
 ^.<sent>$ ^undersigned<n><sg>$	. \@Undersigned\<n\>
 ^.<sent>$ ^undersigned<n><pl>$	. \@Undersigned\<n\>
 ^.<sent>$ ^one<num><sg>$	. \@One\<num\>
@@ -29753,7 +29690,6 @@
 ^.<sent>$ ^Elizabeth I<np><ant><f><sg>$	. \@Elizabeth I\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Elizabeth II<np><ant><f><sg>$	. \@Elizabeth II\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Isabella I of Castile<np><ant><f><sg>$	. \@Isabella I of Castile\<np\>\<ant\>\<f\>\<sg\>
-^.<sent>$ ^Xerxes<np><ant><m><sg>$	. \@Xerxes\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Dracula<np><ant><m><sg>$	. \@Dracula\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Stéphanie of Monaco<np><ant><f><sg>$	. \@Stéphanie of Monaco\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Stéphanie of Monaco<np><ant><f><sg>$	. \@Stéphanie of Monaco\<np\>\<ant\>\<f\>\<sg\>
@@ -31312,11 +31248,6 @@
 ^.<sent>$ ^anoxia<n><pl>$ ^'s<gen>$	. \@Anoxia\<n\> 
 ^.<sent>$ ^anoxia<n><sg>$	. \@Anoxia\<n\>
 ^.<sent>$ ^anoxia<n><pl>$	. \@Anoxia\<n\>
-^.<sent>$ ^antechamber<n><sg>$	. \@Antechamber\<n\>
-^.<sent>$ ^antechamber<n><pl>$	. \@Antechamber\<n\>
-^.<sent>$ ^antechamber<n><pl>$ ^'s<gen>$	. \@Antechamber\<n\> 
-^.<sent>$ ^antechamber<n><sg>$	. \@Antechamber\<n\>
-^.<sent>$ ^antechamber<n><pl>$	. \@Antechamber\<n\>
 ^.<sent>$ ^anther<n><sg>$	. \@Anther\<n\>
 ^.<sent>$ ^anther<n><pl>$	. \@Anther\<n\>
 ^.<sent>$ ^anther<n><pl>$ ^'s<gen>$	. \@Anther\<n\> 
@@ -35246,11 +35177,6 @@
 ^.<sent>$ ^dressing<n><pl>$ ^'s<gen>$	. \@Dressing\<n\> 
 ^.<sent>$ ^dressing<n><sg>$	. \@Dressing\<n\>
 ^.<sent>$ ^dressing<n><pl>$	. \@Dressing\<n\>
-^.<sent>$ ^dribble<n><sg>$	. \@Dribble\<n\>
-^.<sent>$ ^dribble<n><pl>$	. \@Dribble\<n\>
-^.<sent>$ ^dribble<n><pl>$ ^'s<gen>$	. \@Dribble\<n\> 
-^.<sent>$ ^dribble<n><sg>$	. \@Dribble\<n\>
-^.<sent>$ ^dribble<n><pl>$	. \@Dribble\<n\>
 ^.<sent>$ ^drift<n><sg>$	. \@Drift\<n\>
 ^.<sent>$ ^drift<n><pl>$	. \@Drift\<n\>
 ^.<sent>$ ^drift<n><pl>$ ^'s<gen>$	. \@Drift\<n\> 
@@ -39531,11 +39457,6 @@
 ^.<sent>$ ^marcasite<n><pl>$ ^'s<gen>$	. \@Marcasite\<n\> 
 ^.<sent>$ ^marcasite<n><sg>$	. \@Marcasite\<n\>
 ^.<sent>$ ^marcasite<n><pl>$	. \@Marcasite\<n\>
-^.<sent>$ ^mare<n><sg>$	. \@Mare\<n\>
-^.<sent>$ ^mare<n><pl>$	. \@Mare\<n\>
-^.<sent>$ ^mare<n><pl>$ ^'s<gen>$	. \@Mare\<n\> 
-^.<sent>$ ^mare<n><sg>$	. \@Mare\<n\>
-^.<sent>$ ^mare<n><pl>$	. \@Mare\<n\>
 ^.<sent>$ ^marquee<n><sg>$	. \@Marquee\<n\>
 ^.<sent>$ ^marquee<n><pl>$	. \@Marquee\<n\>
 ^.<sent>$ ^marquee<n><pl>$ ^'s<gen>$	. \@Marquee\<n\> 
@@ -47691,14 +47612,6 @@
 ^.<sent>$ ^be# very sorry<vblex><ger>$	. ~lo \@be\<vblex\>\<ger\># very sorry
 ^.<sent>$ ^be# very sorry<vblex><pprs>$	. ~lo \@be\<vblex\>\<ger\># very sorry
 ^.<sent>$ ^be# very sorry<vblex><subs>$	. ~lo \@be\<vblex\>\<ger\># very sorry
-^.<sent>$ ^misunderstand<vblex><inf>$	. \@misunderstand\<vblex\>\<inf\>
-^.<sent>$ ^misunderstand<vblex><pres>$	. \@Misunderstand\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^misunderstand<vblex><pri><p3><sg>$	. \@Misunderstand\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^misunderstand<vblex><past>$	. \@Misunderstand\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^misunderstand<vblex><pp>$	. \@Misunderstand\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^misunderstand<vblex><ger>$	. \@Misunderstand\<vblex\>\<ger\>
-^.<sent>$ ^misunderstand<vblex><pprs>$	. \@Misunderstand\<vblex\>\<ger\>
-^.<sent>$ ^misunderstand<vblex><subs>$	. \@Misunderstand\<vblex\>\<inf\>
 ^.<sent>$ ^jealousy<n><sg>$	. \@Jealousy\<n\>
 ^.<sent>$ ^jealousy<n><pl>$	. \@Jealousy\<n\>
 ^.<sent>$ ^jealousy<n><pl>$	. \@Jealousy\<n\>
@@ -49909,13 +49822,6 @@
 ^.<sent>$ ^cowgirl<n><pl>$ ^'s<gen>$	. \@Cowgirl\<n\> 
 ^.<sent>$ ^cowgirl<n><sg>$	. \@Cowgirl\<n\>
 ^.<sent>$ ^cowgirl<n><pl>$	. \@Cowgirl\<n\>
-^.<sent>$ ^nanny<n><sg>$	. \@Nanny\<n\>
-^.<sent>$ ^nanny<n><pl>$	. \@Nanny\<n\>
-^.<sent>$ ^nanny<n><pl>$	. \@Nanny\<n\>
-^.<sent>$ ^nanny<n><pl>$ ^'s<gen>$	. \@Nanny\<n\> 
-^.<sent>$ ^nanny<n><pl>$ ^'s<gen>$	. \@Nanny\<n\> 
-^.<sent>$ ^nanny<n><sg>$	. \@Nanny\<n\>
-^.<sent>$ ^nanny<n><pl>$	. \@Nanny\<n\>
 ^.<sent>$ ^briefcase<n><sg>$	. \@Briefcase\<n\>
 ^.<sent>$ ^briefcase<n><pl>$	. \@Briefcase\<n\>
 ^.<sent>$ ^briefcase<n><pl>$ ^'s<gen>$	. \@Briefcase\<n\> 
@@ -50737,7 +50643,6 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> Amsterdam<np><loc><m>/Amsterdam<np><loc><f>$
 #\^.\<sent\> Andorra<np><loc><m>/Andorra<np><loc><f>$
 #\^.\<sent\> Arabia<np><loc><m>/Arabia<np><loc><f>$
-#\^.\<sent\> Aristotele<np>/Aristotele<np><ant>$
 #\^.\<sent\> Asturie<np><loc><f>/Asturie<np><loc><m>$
 #\^.\<sent\> Atene<np><loc><f>/Atene<np><loc><m>$
 #\^.\<sent\> Barcellona<np><loc><m>/Barcellona<np><loc><f>$
@@ -50761,15 +50666,9 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> Girona<np><loc><m>/Girona<np><loc><f>$
 #\^.\<sent\> Guatemala<np><loc><m>/Guatemala<np><loc><f>$
 #\^.\<sent\> Guinea<np><loc><m>/Guinea<np><loc><f>$
-#\^.\<sent\> Ercole<np>/Ercole<np><ant>$
-#\^.\<sent\> Orazio<np><ant>/Orazio<np>$
 #\^.\<sent\> Ibiza<np><loc><m>/Ibiza<np><loc><f>$
 #\^.\<sent\> Indonesia<np><loc><m>/Indonesia<np><loc><f>$
 #\^.\<sent\> Giamaica<np><loc><m>/Giamaica<np><loc><f>$
-#\^.\<sent\> Giove<np>/Giove<np><ant>$
-#\^.\<sent\> latino<n><m>/latino<n><GD>$
-#\^.\<sent\> latino<n><m>/latino<n><GD>$
-#\^.\<sent\> America latina<np><loc><m>/America latina<np><loc><f>$
 #\^.\<sent\> Lisbona<np><loc><m>/Lisbona<np><loc><f>$
 #\^.\<sent\> Lleida<np><loc><m>/Lleida<np><loc><f>$
 #\^.\<sent\> Malaysia<np><loc><m>/Malaysia<np><loc><f>$
@@ -50783,7 +50682,6 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> marocchino<n><m>/marocchino<n><f>$
 #\^.\<sent\> Mosca<np><loc><f>/Mosca<np><loc><m>$
 #\^.\<sent\> Málaga<np><loc><m>/Málaga<np><loc><f>$
-#\^.\<sent\> Napoleone<np>/Napoleone<np><ant>$
 #\^.\<sent\> New York<np><loc><m>/New York<np><loc><f>$
 #\^.\<sent\> Nizza<np><loc><m>/Nizza<np><loc><f>$
 #\^.\<sent\> Nigeria<np><loc><m>/Nigeria<np><loc><f>$
@@ -50794,8 +50692,6 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> Siviglia<np><loc><m>/Siviglia<np><loc><f>$
 #\^.\<sent\> Sudafrica<np><loc><f>/Sudafrica<np><loc><m>$
 #\^.\<sent\> Siria<np><loc><m>/Siria<np><loc><f>$
-#\^.\<sent\> TV<n><acr>/televisione<n>$
-#\^.\<sent\> TV<n><acr>/televisione<n>$
 #\^.\<sent\> Tarragona<np><loc><m>/Tarragona<np><loc><f>$
 #\^.\<sent\> Thailandia<np><loc><m>/Thailandia<np><loc><f>$
 #\^.\<sent\> Venezuela<np><loc><m>/Venezuela<np><loc><f>$
@@ -50821,6 +50717,8 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> abisso<n><m>/baratro<n><m>$
 #\^.\<sent\> abisso<n><m>/baratro<n><m>$
 #\^.\<sent\> accelerazione<n><f>/velocizzazione<n><f>$
+#\^.\<sent\> assunzione<n><f>/accettazione<n><f>$
+#\^.\<sent\> alloggio<n><m>/accomodazione<n><f>$
 #\^.\<sent\> conto<n><m>/relazione<n><f>$
 #\^.\<sent\> conto<n><m>/relazione<n><f>$
 #\^.\<sent\> cumulo<n><m>/accumulazione<n><f>$
@@ -50846,10 +50744,9 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> adattamento<n><f>/adeguamento<n><m>$
 #\^.\<sent\> indirizzo<n><m>/direzione<n><f>$
 #\^.\<sent\> indirizzo<n><m>/direzione<n><f>$
+#\^.\<sent\> consiglio<n><m>/consulenza<n><f>$
 #\^.\<sent\> affetto<n><m>/fine<n><mf>/affezione<n><f>$
 #\^.\<sent\> affetto<n><m>/fine<n><mf>/affezione<n><f>$
-#\^.\<sent\> di nuovo<adv>/nuovamente<adv>$
-#\^.\<sent\> di nuovo<adv>/nuovamente<adv>$
 #\^.\<sent\> agile<adj>/agile<adj><mf>$
 #\^.\<sent\> agile<adj>/agile<adj><mf>$
 #\^.\<sent\> accordare<vblex>/ricordare<vblex>/concordare<vblex>$
@@ -50908,25 +50805,18 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> niente<prn>/qualcosa<prn>$
 #\^.\<sent\> appello<n><m>/attrazione<n><f>$
 #\^.\<sent\> appello<n><m>/attrazione<n><f>$
-#\^.\<sent\> apparire<vblex>/sembrare<vblex>$
-#\^.\<sent\> apparire<vblex>/sembrare<vblex>$
+#\^.\<sent\> apparire<vblex>/sembrare<vblex>/figurare<vblex>$
+#\^.\<sent\> apparire<vblex>/sembrare<vblex>/figurare<vblex>$
+#\^.\<sent\> apparenza<n><f>/aspetto<n><m>$
 #\^.\<sent\> accesso<n><m>/ravvicinamento<n><m>$
 #\^.\<sent\> accesso<n><m>/ravvicinamento<n><m>$
 #\^.\<sent\> albicocca<n><m>/albicocca<n><f>$
 #\^.\<sent\> albicocca<n><m>/albicocca<n><f>$
 #\^.\<sent\> aristocratico<n><m>/aristocratico<n><f>$
 #\^.\<sent\> aristocratico<n><m>/aristocratico<n><f>$
-#\^.\<sent\> arma<n>/braccio<n><f>/braccio<n><m><sg>/braccio<n><m><pl>/braccio<n><f><pl>/braccio<n><GD><pl>$
-#\^.\<sent\> braccio<n><f>/braccio<n><m><sg>/braccio<n><m><pl>/braccio<n><f><pl>/braccio<n><GD><pl>$
-#\^.\<sent\> braccio<n><f>/braccio<n><m><sg>/braccio<n><m><pl>/braccio<n><f><pl>/braccio<n><GD><pl>$
-#\^.\<sent\> braccio<n><f>/braccio<n><m><sg>/braccio<n><m><pl>/braccio<n><f><pl>/braccio<n><GD><pl>$
-#\^.\<sent\> braccio<n><f>/braccio<n><m><sg>/braccio<n><m><pl>/braccio<n><f><pl>/braccio<n><GD><pl>$
-#\^.\<sent\> braccio<n><f>/braccio<n><m><sg>/braccio<n><m><pl>/braccio<n><f><pl>/braccio<n><GD><pl>$
-#\^.\<sent\> arma<n>/braccio<n><f>/braccio<n><m><sg>/braccio<n><m><pl>/braccio<n><f><pl>/braccio<n><GD><pl>$
-#\^.\<sent\> arma<n>/braccio<n><f>/braccio<n><m><sg>/braccio<n><m><pl>/braccio<n><f><pl>/braccio<n><GD><pl>$
-#\^.\<sent\> arma<n>/braccio<n><f>/braccio<n><m><sg>/braccio<n><m><pl>/braccio<n><f><pl>/braccio<n><GD><pl>$
-#\^.\<sent\> arma<n>/braccio<n><f>/braccio<n><m><sg>/braccio<n><m><pl>/braccio<n><f><pl>/braccio<n><GD><pl>$
-#\^.\<sent\> arma<n>/braccio<n><f>/braccio<n><m><sg>/braccio<n><m><pl>/braccio<n><f><pl>/braccio<n><GD><pl>$
+#\^.\<sent\> braccio<n><m><sg>/braccio<n><GD><pl>$
+#\^.\<sent\> braccio<n><m><sg>/braccio<n><GD><pl>$
+#\^.\<sent\> armata<n><f>/esercito<n><m>$
 #\^.\<sent\> circa<adv>/attorno<adv>/intorno<adv>$
 #\^.\<sent\> circa<adv>/attorno<adv>/intorno<adv>$
 #\^.\<sent\> circa<adv>/attorno<adv>/intorno<adv>$
@@ -51035,6 +50925,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> bambino<n><m>/ragazzo<n><m>$
 #\^.\<sent\> marca<n><f>/marchio<n><m>$
 #\^.\<sent\> marca<n><f>/marchio<n><m>$
+#\^.\<sent\> spuntino<n><m>/colazione<n><f>$
 #\^.\<sent\> petto<n><m>/seno<n><m>$
 #\^.\<sent\> petto<n><m>/seno<n><m>$
 #\^.\<sent\> muratore<n><m>/paletta<n><f>$
@@ -51059,10 +50950,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> cavolo<n><m>/cavolo<n><f>$
 #\^.\<sent\> armadio<n><m>/gabinetto<n><m>$
 #\^.\<sent\> armadio<n><m>/gabinetto<n><m>$
-#\^.\<sent\> camera<n><f>/cameraman<n><m><sp>$
-#\^.\<sent\> camera<n><f>/cameraman<n><m><sp>$
-#\^.\<sent\> capitalista<n><m>/capitalista<n><f>$
-#\^.\<sent\> capitalista<n><m>/capitalista<n><f>$
+#\^.\<sent\> calotta<n><f>/berretto<n><m>$
 #\^.\<sent\> macchina<n><f>/automobile<n><f>/autoveicolo<n><m>/autovettura<n><m>$
 #\^.\<sent\> macchina<n><f>/automobile<n><f>/autoveicolo<n><m>/autovettura<n><m>$
 #\^.\<sent\> macchina<n><f>/automobile<n><f>/autoveicolo<n><m>/autovettura<n><m>$
@@ -51080,6 +50968,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> completamente<adv>/categoricamente<adv>$
 #\^.\<sent\> causare<vblex>/provocare<vblex>$
 #\^.\<sent\> causare<vblex>/provocare<vblex>$
+#\^.\<sent\> locale<n><mf>/caverna<n><f>$
 #\^.\<sent\> cessione<n><f>/trasferimento<n><m>$
 #\^.\<sent\> cessione<n><f>/trasferimento<n><m>$
 #\^.\<sent\> sedia<n><f>/cattedra<n><f>/presidenza<n><f>$
@@ -51181,6 +51070,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> corso<n><m>/marcia<n><f>$
 #\^.\<sent\> taglio<n><f>/tribunale<n><m>$
 #\^.\<sent\> taglio<n><f>/tribunale<n><m>$
+#\^.\<sent\> coperta<n><f>/copertina<n><f>$
 #\^.\<sent\> abilità<n><f><sp>/capacità<n><f><sp>$
 #\^.\<sent\> abilità<n><f><sp>/capacità<n><f><sp>$
 #\^.\<sent\> abilità<n><f><sp>/capacità<n><f><sp>$
@@ -51212,6 +51102,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> devoluzione<n><f>/decentralizzazione<n><f>$
 #\^.\<sent\> devoluzione<n><f>/decentralizzazione<n><f>$
 #\^.\<sent\> scomposizione<n><f>/decomposizione<n><f>$
+#\^.\<sent\> difesa<n><f>/difesa<n><mf>$
 #\^.\<sent\> grado<n><m>/titolo<n><m>$
 #\^.\<sent\> grado<n><m>/titolo<n><m>$
 #\^.\<sent\> morte<n><f>/decesso<n><m>$
@@ -51243,12 +51134,14 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> senso<n><m>/direzione<n><f>/indirizzo<n><m>$
 #\^.\<sent\> disanimare<vblex>/scoraggiare<vblex>$
 #\^.\<sent\> disanimare<vblex>/scoraggiare<vblex>$
+#\^.\<sent\> destituzione<n><f>/licenziamento<n><m>$
 #\^.\<sent\> disordine<n><m>/trastorno<n><m>$
 #\^.\<sent\> disordine<n><m>/trastorno<n><m>$
 #\^.\<sent\> disposizione<n><f>/eliminazione<n><f>$
 #\^.\<sent\> disposizione<n><f>/eliminazione<n><f>$
 #\^.\<sent\> disposizione<n><f>/distribuzione<n><f>$
 #\^.\<sent\> disposizione<n><f>/distribuzione<n><f>$
+#\^.\<sent\> distretto<n><m>/circoscrizione<n><f>$
 #\^.\<sent\> polso<n><m>/bambola<n><f>$
 #\^.\<sent\> polso<n><m>/bambola<n><f>$
 #\^.\<sent\> donare<vblex>/dare<vblex>$
@@ -51362,6 +51255,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> destino<n><m>/destinazione<n><m>/destinazione<n><f>$
 #\^.\<sent\> destino<n><m>/destinazione<n><m>/destinazione<n><f>$
 #\^.\<sent\> colpa<n><f>/mancanza<n><f>$
+#\^.\<sent\> favorire<vblex>/privilegiare<vblex>$
 #\^.\<sent\> paura<n><m>/paura<n><f>$
 #\^.\<sent\> paura<n><m>/paura<n><f>$
 #\^.\<sent\> constare<vblex>/presentare<vblex>$
@@ -51377,6 +51271,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> campo<n><m>/ambito<n><m>$
 #\^.\<sent\> lotta<n><f>/combattimento<n><m>$
 #\^.\<sent\> lotta<n><f>/combattimento<n><m>$
+#\^.\<sent\> pugnare<vblex>/combattere<vblex>$
 #\^.\<sent\> lima<n><f>/archivio<n><m>$
 #\^.\<sent\> lima<n><f>/archivio<n><m>$
 #\^.\<sent\> film<n><f>/pellicola<n><f>$
@@ -51499,6 +51394,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> canapa<n><m>/canapa<n><f>$
 #\^.\<sent\> lì<adv>/qui<adv>$
 #\^.\<sent\> lì<adv>/qui<adv>$
+#\^.\<sent\> distaccare<vblex>/evidenziare<vblex>$
 #\^.\<sent\> strada<n><f>/autostrada<n><f>$
 #\^.\<sent\> strada<n><f>/autostrada<n><f>$
 #\^.\<sent\> sé<prn><tn>/sè<prn><tn>$
@@ -51654,6 +51550,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> impulso<n><m>/ascensore<n><m>$
 #\^.\<sent\> chiaro<adj>/leggero<adj>$
 #\^.\<sent\> chiaro<adj>/leggero<adj>$
+#\^.\<sent\> gustare<vblex>/piacere<vblex>$
 #\^.\<sent\> labbro<n><m><sg>/labbro<n><f><pl>$
 #\^.\<sent\> labbro<n><m><sg>/labbro<n><f><pl>$
 #\^.\<sent\> lista<n><f>/elenco<n><m>$
@@ -52020,8 +51917,8 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> variare<vblex>/allineare<vblex>$
 #\^.\<sent\> variare<vblex>/allineare<vblex>$
 #\^.\<sent\> stupro<n><m>/violazione<n><f>$
-#\^.\<sent\> ritmo<n><m>/indice<n><m>$
-#\^.\<sent\> ritmo<n><m>/indice<n><m>$
+#\^.\<sent\> ritmo<n><m>/indice<n><m>/aliquota<n><f>$
+#\^.\<sent\> ritmo<n><m>/indice<n><m>/aliquota<n><f>$
 #\^.\<sent\> motivo<n><m>/ragione<n><f>$
 #\^.\<sent\> motivo<n><m>/ragione<n><f>$
 #\^.\<sent\> rivolta<n><f>/ribellione<n><f>$
@@ -52044,6 +51941,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> frigorifero<n><m>/frigorifero<n><f>$
 #\^.\<sent\> in generale<adv>/regolarmente<adv>$
 #\^.\<sent\> in generale<adv>/regolarmente<adv>$
+#\^.\<sent\> regolare<vblex>/regolamentare<vblex>$
 #\^.\<sent\> controllo<n><m>/regolamento<n><m>/disposizione<n><f>$
 #\^.\<sent\> controllo<n><m>/regolamento<n><m>/disposizione<n><f>$
 #\^.\<sent\> controllo<n><m>/regolamento<n><m>/disposizione<n><f>$
@@ -52066,6 +51964,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> estrazione<n><f>/trasferimento<n><m>$
 #\^.\<sent\> ritirare<vblex>/togliere<vblex>$
 #\^.\<sent\> ritirare<vblex>/togliere<vblex>$
+#\^.\<sent\> riorganizzare<vblex>/ridimensionare<vblex>$
 #\^.\<sent\> informare<vblex>/denunciare<vblex>$
 #\^.\<sent\> informare<vblex>/denunciare<vblex>$
 #\^.\<sent\> chiedere<vblex>/sollecitare<vblex>$
@@ -52075,11 +51974,13 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> riservare<vblex>/prenotare<vblex>$
 #\^.\<sent\> riservare<vblex>/prenotare<vblex>$
 #\^.\<sent\> resurrezione<n><f>/risurrezione<n><f>$
+#\^.\<sent\> ritornare<vblex>/restituire<vblex>$
 #\^.\<sent\> rivelare<vblex>/sviluppare<vblex>$
 #\^.\<sent\> rivelare<vblex>/sviluppare<vblex>$
 #\^.\<sent\> invertire<vblex>/investire<vblex>$
 #\^.\<sent\> invertire<vblex>/investire<vblex>$
 #\^.\<sent\> rilancio<n><m>/rivitalizzazione<n><f>$
+#\^.\<sent\> premiare<vblex>/ricompensare<vblex>$
 #\^.\<sent\> destra<n><f>/diritto<n><m>$
 #\^.\<sent\> destra<n><f>/diritto<n><m>$
 #\^.\<sent\> diritto<adj>/corretto<adj>$
@@ -52103,6 +52004,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> rifiuti<n>/immondizia<n>/spazzatura<n>$
 #\^.\<sent\> regola<n><f>/principio<n><m>$
 #\^.\<sent\> regola<n><f>/principio<n><m>$
+#\^.\<sent\> imperare<vblex>/governare<vblex>$
 #\^.\<sent\> colmare<vblex>/soddisfare<vblex>$
 #\^.\<sent\> colmare<vblex>/soddisfare<vblex>$
 #\^.\<sent\> palco<n><m>/palcoscenico<n><m>$
@@ -52222,8 +52124,8 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> sportivo<n><m>/sportivo<n><f>$
 #\^.\<sent\> posto<n><m>/granito<n><m>$
 #\^.\<sent\> posto<n><m>/granito<n><m>$
-#\^.\<sent\> estendere<vblex>/divulgare<vblex>$
-#\^.\<sent\> estendere<vblex>/divulgare<vblex>$
+#\^.\<sent\> estendere<vblex>/divulgare<vblex>/diffondere<vblex>$
+#\^.\<sent\> estendere<vblex>/divulgare<vblex>/diffondere<vblex>$
 #\^.\<sent\> fonte<n><f>/primavera<n><f>$
 #\^.\<sent\> fonte<n><f>/primavera<n><f>$
 #\^.\<sent\> tappa<n><f>/palco<n><m>/palcoscenico<n><m>$
@@ -52245,6 +52147,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> borsistico<adj><m>/borsistico<adj><f>$
 #\^.\<sent\> osso<n><m>/pietra<n><f>$
 #\^.\<sent\> osso<n><m>/pietra<n><f>$
+#\^.\<sent\> bufera<n><f>/tormenta<n><f>$
 #\^.\<sent\> stufa<n><f>/cucina<n><f>$
 #\^.\<sent\> stufa<n><f>/cucina<n><f>$
 #\^.\<sent\> sciopero<n><m>/sciopero<n><f>$
@@ -52406,8 +52309,8 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> inusuale<adj><mf>/insolito<adj><mf>$
 #\^.\<sent\> urina<n><f>/orina<n><f>$
 #\^.\<sent\> urina<n><f>/orina<n><f>$
-#\^.\<sent\> usare<vblex>/utilizzare<vblex>$
-#\^.\<sent\> usare<vblex>/utilizzare<vblex>$
+#\^.\<sent\> usare<vblex>/impiegare<vblex>/utilizzare<vblex>$
+#\^.\<sent\> usare<vblex>/impiegare<vblex>/utilizzare<vblex>$
 #\^.\<sent\> usuale<adj><mf>/abituale<adj><mf>$
 #\^.\<sent\> usuale<adj><mf>/abituale<adj><mf>$
 #\^.\<sent\> usualmente<adv>/solitamente<adv>/normalmente<adv>/abitualmente<adv>$
@@ -52650,7 +52553,6 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> Ibiza<np><loc><m>/Ibiza<np><loc><f>$
 #\^.\<sent\> Indonesia<np><loc><m>/Indonesia<np><loc><f>$
 #\^.\<sent\> Giamaica<np><loc><m>/Giamaica<np><loc><f>$
-#\^.\<sent\> America latina<np><loc><m>/America latina<np><loc><f>$
 #\^.\<sent\> Lisbona<np><loc><m>/Lisbona<np><loc><f>$
 #\^.\<sent\> Lleida<np><loc><m>/Lleida<np><loc><f>$
 #\^.\<sent\> Malaysia<np><loc><m>/Malaysia<np><loc><f>$
@@ -52676,9 +52578,30 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> sostenere<vblex>/sopportare<vblex>/appoggiare<vblex>$
 #\^.\<sent\> acclamante<adj><mf>/applaudente<adj><mf>$
 #\^.\<sent\> acclamante<adj><mf>/applaudente<adj><mf>$
-#\^.\<sent\> Orazio<np><ant>/Orazio<np>$
-#\^.\<sent\> Aristotele<np>/Aristotele<np><ant>$
-#\^.\<sent\> Ercole<np>/Ercole<np><ant>$
-#\^.\<sent\> Orazio<np><ant>/Orazio<np>$
-#\^.\<sent\> Giove<np>/Giove<np><ant>$
-#\^.\<sent\> Napoleone<np>/Napoleone<np><ant>$
+#\^.\<sent\> apparenza<n><f>/aspetto<n><m>$
+#\^.\<sent\> armata<n><f>/esercito<n><m>$
+#\^.\<sent\> assunzione<n><f>/accettazione<n><f>$
+#\^.\<sent\> ritmo<n><m>/indice<n><m>/aliquota<n><f>$
+#\^.\<sent\> alloggio<n><m>/accomodazione<n><f>$
+#\^.\<sent\> bufera<n><f>/tormenta<n><f>$
+#\^.\<sent\> calotta<n><f>/berretto<n><m>$
+#\^.\<sent\> locale<n><mf>/caverna<n><f>$
+#\^.\<sent\> spuntino<n><m>/colazione<n><f>$
+#\^.\<sent\> consiglio<n><m>/consulenza<n><f>$
+#\^.\<sent\> coperta<n><f>/copertina<n><f>$
+#\^.\<sent\> destituzione<n><f>/licenziamento<n><m>$
+#\^.\<sent\> difesa<n><f>/difesa<n><mf>$
+#\^.\<sent\> distretto<n><m>/circoscrizione<n><f>$
+#\^.\<sent\> estendere<vblex>/divulgare<vblex>/diffondere<vblex>$
+#\^.\<sent\> distaccare<vblex>/evidenziare<vblex>$
+#\^.\<sent\> apparire<vblex>/sembrare<vblex>/figurare<vblex>$
+#\^.\<sent\> imperare<vblex>/governare<vblex>$
+#\^.\<sent\> usare<vblex>/impiegare<vblex>/utilizzare<vblex>$
+#\^.\<sent\> pugnare<vblex>/combattere<vblex>$
+#\^.\<sent\> regolare<vblex>/regolamentare<vblex>$
+#\^.\<sent\> ritornare<vblex>/restituire<vblex>$
+#\^.\<sent\> premiare<vblex>/ricompensare<vblex>$
+#\^.\<sent\> riorganizzare<vblex>/ridimensionare<vblex>$
+#\^.\<sent\> scendere<vblex>/abbassare<vblex>$
+#\^.\<sent\> favorire<vblex>/privilegiare<vblex>$
+#\^.\<sent\> gustare<vblex>/piacere<vblex>$
