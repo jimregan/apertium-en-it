@@ -10596,17 +10596,6 @@
     <e>
       <p>
         <l>allow<s n="vblex"/></l> 
-        <r>lasciare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>allow<s n="vblex"/></l> 
         <r>permettere<s n="vblex"/></r> 
       </p>
     </e>
@@ -10949,28 +10938,6 @@
       <p>
         <l>altruism<s n="n"/></l> 
         <r>altruismo<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-22
-    -->
-    <e>
-      <p>
-        <l>altruist<s n="n"/></l> 
-        <r>altruista<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
-    -->
-    <e>
-      <p>
-        <l>altruist<s n="n"/></l> 
-        <r>altruista<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -11323,6 +11290,12 @@
       <p>
         <l>amuse<s n="vblex"/></l> 
         <r>divertire<s n="vblex"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>make<g><b/>possible</g><s n="vblex"/></l> 
+        <r>fare<g><b/>possibile</g><s n="vblex"/></r> 
       </p>
     </e>
 
@@ -16424,7 +16397,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>be<g><b/>missing</g><s n="vblex"/></l> 
         <r>mancare<s n="vblex"/></r> 
@@ -16732,7 +16705,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>begin<s n="vblex"/></l> 
         <r>iniziare<s n="vblex"/></r> 
@@ -41767,7 +41740,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>get<g><b/>started</g><s n="vblex"/></l> 
         <r>iniziare<s n="vblex"/></r> 
@@ -41943,7 +41916,7 @@
 	forced 'null' restriction
       ND-39
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>give<g><b/>up</g><s n="vblex"/><s n="sep"/></l> 
         <r>lasciare<s n="vblex"/></r> 
@@ -52301,7 +52274,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>leave<s n="vblex"/></l> 
         <r>lasciare<s n="vblex"/></r> 
@@ -52488,7 +52461,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>lend<s n="vblex"/></l> 
         <r>lasciare<s n="vblex"/></r> 
@@ -57130,7 +57103,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>miss<s n="vblex"/></l> 
         <r>mancare<s n="vblex"/></r> 
@@ -93977,7 +93950,6 @@
     <e><p><l>increase<s n="vblex"/></l><r>incrementare<s n="vblex"/></r></p></e>
     <e><p><l>investigate<s n="vblex"/></l><r>indagare<s n="vblex"/></r></p></e>
     <e><p><l>infiltrate<s n="vblex"/></l><r>infiltrare<s n="vblex"/></r></p></e>
-    <e><p><l>begin<s n="vblex"/></l><r>iniziare<s n="vblex"/></r></p></e>
     <e><p><l>install<s n="vblex"/></l><r>installare<s n="vblex"/></r></p></e>
     <e><p><l>establish<s n="vblex"/></l><r>instaurare<s n="vblex"/></r></p></e>
     <e><p><l>interview<s n="vblex"/></l><r>intervistare<s n="vblex"/></r></p></e>
