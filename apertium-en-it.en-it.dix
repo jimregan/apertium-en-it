@@ -2780,28 +2780,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>García<s n="np"/><s n="cog"/><s n="sg"/></l> 
-        <r>García<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>García<s n="np"/><s n="cog"/><s n="pl"/></l> 
-        <r>García<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-7
     -->
     <e>
@@ -3028,28 +3006,6 @@
       <p>
         <l>Girona<s n="np"/><s n="loc"/></l> 
         <r>Girona<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>González<s n="np"/><s n="cog"/><s n="sg"/></l> 
-        <r>González<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>González<s n="np"/><s n="cog"/><s n="pl"/></l> 
-        <r>González<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -4363,28 +4319,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>López<s n="np"/><s n="cog"/><s n="sg"/></l> 
-        <r>López<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>López<s n="np"/><s n="cog"/><s n="pl"/></l> 
-        <r>López<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-7
     -->
     <e>
@@ -4945,21 +4879,12 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-66
-    -->
     <e>
       <p>
         <l>Milosevic<s n="np"/><s n="cog"/><s n="sg"/></l> 
-        <r>Milosevic<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r> 
+        <r>Milošević<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
-
-    <!-- 
-	forced 'LR' restriction
-      ND-67
-    -->
     <e r="LR">
       <p>
         <l>Milosevic<s n="np"/><s n="cog"/><s n="pl"/></l> 
@@ -95347,8 +95272,7 @@
     <e r="LR"><p><l>Meroi<s n="np"/><s n="cog"/><s n="pl"/></l><r>Meroi<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>Michel<s n="np"/><s n="cog"/><s n="sg"/></l><r>Michel<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>Michel<s n="np"/><s n="cog"/><s n="pl"/></l><r>Michel<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><p><l>Milosevic<s n="np"/><s n="cog"/><s n="sg"/></l><r>Milosevic<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>Milosevic<s n="np"/><s n="cog"/><s n="pl"/></l><r>Milosevic<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>Milosevic<s n="np"/><s n="cog"/><s n="sg"/></l><r>Milosevic<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>Mutsch<s n="np"/><s n="cog"/><s n="sg"/></l><r>Mutsch<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>Mutsch<s n="np"/><s n="cog"/><s n="pl"/></l><r>Mutsch<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>Nejstgaard<s n="np"/><s n="cog"/><s n="sg"/></l><r>Nejstgaard<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
