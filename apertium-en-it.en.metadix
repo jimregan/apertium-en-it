@@ -1521,13 +1521,13 @@
       <e>
         <p>
           <l>is'</l>
-          <r>is<s n="n"/><s n="sg"/><s n="gen"/></r>
+          <r>is<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>es'</l>
-          <r>is<s n="n"/><s n="pl"/><s n="gen"/></r>
+          <r>is<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r>
         </p>
       </e>
     </pardef>
@@ -25122,7 +25122,7 @@
     <e lm="bring together"><i>br</i><par n="br/ing__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>together</l><r><g><b/>together</g></r></p></e>
     <e lm="throw off balance"><i>thr</i><par n="bl/ow__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>off<b/>balance</l><r><g><b/>off<b/>balance</g></r></p></e>
     <e lm="knock down"><i>knock</i><par n="accept__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>down</l><r><g><b/>down</g></r></p></e>
-    <e lm="pull down"><i>knock</i><par n="accept__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>down</l><r><g><b/>down</g></r></p></e>
+    <e lm="pull down"><i>pull</i><par n="accept__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>down</l><r><g><b/>down</g></r></p></e>
     <e lm="break"><i>br</i><par n="br/eak__vblex"/>    </e>
     <e lm="bring"><i>br</i><par n="br/ing__vblex"/>    </e>
     <e lm="brake"><i>brak</i><par n="liv/e__vblex"/>    </e>
@@ -27969,7 +27969,7 @@
     <e lm="collaborate" a="prompsit2cdl"><i>collaborat</i><par n="liv/e__vblex"/></e>
     <e lm="discriminate" a="prompsit2cdl"><i>discriminat</i><par n="liv/e__vblex"/></e>
     <e lm="fill up" a="prompsit2cdl"><i>fill</i><par n="accept__vblex" sa="sep"/><par n="probj_dem__prn"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
-    <e lm="terminate" a="prompsit2cdl"><i>terminate</i><par n="accept__vblex"/></e>
+    <e lm="terminate" a="prompsit2cdl"><i>terminat</i><par n="liv/e__vblex"/></e>
     <e lm="visualize" a="prompsit2cdl"><i>visuali</i><par n="organi/ze__vblex"/></e>
     <e lm="on-line" a="prompsit2cdl"><i>on-line</i><par n="expensive__adj"/></e>
     <e lm="orientative" a="prompsit2cdl"><i>orientative</i><par n="expensive__adj"/></e>
