@@ -56,20 +56,19 @@
 ^.<sent>$ ^quale<rel><an><mf><pl>$	. \@Quale\<rel\>\<an\>\<mf\>\<pl\>
 ^.<sent>$ ^quale<rel><an><mf><sg>$	. \@Quale\<rel\>\<an\>\<mf\>\<sg\>
 ^.<sent>$ ^quale<rel><adv>$	. \@Quale\<rel\>\<adv\>
-^.<sent>$ ^quanto<rel><adv>$	. #What\<rel\>\<nn\>\<mf\>\<sg\>\<adv\>\/those that\<rel\>\<nn\>\<mf\>\<pl\>\<adv\>
-^.<sent>$ ^quanto<rel><nn><m><pl>$	. #What\<rel\>\<nn\>\<mf\>\<sg\>\<nn\>\<m\>\<pl\>\/those that\<rel\>\<nn\>\<mf\>\<pl\>\<nn\>\<m\>\<pl\>
-^.<sent>$ ^quanto<rel><nn><m><sg>$	. #What\<rel\>\<nn\>\<mf\>\<sg\>\<nn\>\<m\>\<sg\>\/those that\<rel\>\<nn\>\<mf\>\<pl\>\<nn\>\<m\>\<sg\>
-^.<sent>$ ^quanto<rel><nn><f><pl>$	. #What\<rel\>\<nn\>\<mf\>\<sg\>\<nn\>\<f\>\<pl\>\/those that\<rel\>\<nn\>\<mf\>\<pl\>\<nn\>\<f\>\<pl\>
-^.<sent>$ ^quanto<rel><nn><f><sg>$	. #What\<rel\>\<nn\>\<mf\>\<sg\>\<nn\>\<f\>\<sg\>\/those that\<rel\>\<nn\>\<mf\>\<pl\>\<nn\>\<f\>\<sg\>
-^.<sent>$ ^quando<rel><adv>$	. \@Quando\<rel\>\<adv\>
+^.<sent>$ ^quanto<rel><adv>$	. #What\<rel\>\<nn\>\<mf\>\<sg\>\<adv\>
+^.<sent>$ ^quanto<rel><nn><m><pl>$	. #What\<rel\>\<nn\>\<mf\>\<sg\>\<nn\>\<m\>\<pl\>
+^.<sent>$ ^quanto<rel><nn><m><sg>$	. #What\<rel\>\<nn\>\<mf\>\<sg\>\<nn\>\<m\>\<sg\>
+^.<sent>$ ^quanto<rel><nn><f><pl>$	. #What\<rel\>\<nn\>\<mf\>\<sg\>\<nn\>\<f\>\<pl\>
+^.<sent>$ ^quanto<rel><nn><f><sg>$	. #What\<rel\>\<nn\>\<mf\>\<sg\>\<nn\>\<f\>\<sg\>
 ^.<sent>$ ^il quale<rel><an><m><sg>$	. #Which\<rel\>\<nn\>\<mf\>\<sp\>\<an\>\<m\>\<sg\>
 ^.<sent>$ ^il quale<rel><an><f><sg>$	. #Which\<rel\>\<nn\>\<mf\>\<sp\>\<an\>\<f\>\<sg\>
 ^.<sent>$ ^il quale<rel><an><m><pl>$	. #Which\<rel\>\<nn\>\<mf\>\<sp\>\<an\>\<m\>\<pl\>
 ^.<sent>$ ^il quale<rel><an><f><pl>$	. #Which\<rel\>\<nn\>\<mf\>\<sp\>\<an\>\<f\>\<pl\>
-^.<sent>$ ^quello che<rel><an><m><sg>$	. #Those that\<rel\>\<nn\>\<mf\>\<pl\>\<m\>\<sg\>\/the one who\<rel\>\<nn\>\<mf\>\<sg\>\<m\>\<sg\>\/the ones who\<rel\>\<nn\>\<mf\>\<pl\>\<m\>\<sg\>\/the one which\<rel\>\<nn\>\<mf\>\<sg\>\<m\>\<sg\>\/the ones that\<rel\>\<nn\>\<mf\>\<pl\>\<m\>\<sg\>
-^.<sent>$ ^quello che<rel><an><f><sg>$	. #Those that\<rel\>\<nn\>\<mf\>\<pl\>\<f\>\<sg\>\/the one who\<rel\>\<nn\>\<mf\>\<sg\>\<f\>\<sg\>\/the ones who\<rel\>\<nn\>\<mf\>\<pl\>\<f\>\<sg\>\/the one which\<rel\>\<nn\>\<mf\>\<sg\>\<f\>\<sg\>\/the ones that\<rel\>\<nn\>\<mf\>\<pl\>\<f\>\<sg\>
-^.<sent>$ ^quello che<rel><an><m><pl>$	. #Those that\<rel\>\<nn\>\<mf\>\<pl\>\<m\>\<pl\>\/the one who\<rel\>\<nn\>\<mf\>\<sg\>\<m\>\<pl\>\/the ones who\<rel\>\<nn\>\<mf\>\<pl\>\<m\>\<pl\>\/the one which\<rel\>\<nn\>\<mf\>\<sg\>\<m\>\<pl\>\/the ones that\<rel\>\<nn\>\<mf\>\<pl\>\<m\>\<pl\>
-^.<sent>$ ^quello che<rel><an><f><pl>$	. #Those that\<rel\>\<nn\>\<mf\>\<pl\>\<f\>\<pl\>\/the one who\<rel\>\<nn\>\<mf\>\<sg\>\<f\>\<pl\>\/the ones who\<rel\>\<nn\>\<mf\>\<pl\>\<f\>\<pl\>\/the one which\<rel\>\<nn\>\<mf\>\<sg\>\<f\>\<pl\>\/the ones that\<rel\>\<nn\>\<mf\>\<pl\>\<f\>\<pl\>
+^.<sent>$ ^quello che<rel><an><m><sg>$	. #The one who\<rel\>\<nn\>\<mf\>\<sg\>\<m\>\<sg\>
+^.<sent>$ ^quello che<rel><an><f><sg>$	. #The one who\<rel\>\<nn\>\<mf\>\<sg\>\<f\>\<sg\>
+^.<sent>$ ^quello che<rel><an><m><pl>$	. #The one who\<rel\>\<nn\>\<mf\>\<sg\>\<m\>\<pl\>
+^.<sent>$ ^quello che<rel><an><f><pl>$	. #The one who\<rel\>\<nn\>\<mf\>\<sg\>\<f\>\<pl\>
 ^.<sent>$ ^il che<rel><an><nt>$	. \@Il che\<rel\>\<an\>\<nt\>
 ^.<sent>$ ^il cui<rel><aa><m><sg>$	. #Whose\<rel\>\<aa\>\<mf\>\<sp\>\<aa\>\<m\>\<sg\>
 ^.<sent>$ ^il cui<rel><aa><f><sg>$	. #Whose\<rel\>\<aa\>\<mf\>\<sp\>\<aa\>\<f\>\<sg\>
@@ -4078,7 +4077,6 @@
 ^.<sent>$ ^anche se<cnjsub>$	. \@Anche se\<cnjsub\>
 ^.<sent>$ ^finché<cnjsub>$	. \@Finché\<cnjsub\>
 ^.<sent>$ ^affinché<cnjsub>$	. \@Affinché\<cnjsub\>
-^.<sent>$ ^nonostante<cnjsub>$	. \@Nonostante\<cnjsub\>
 ^.<sent>$ ^poiché<cnjsub>$	. \@Poiché\<cnjsub\>
 ^.<sent>$ ^sennonché<cnjsub>$	. \@Sennonché\<cnjsub\>
 ^.<sent>$ ^sicché<cnjsub>$	. \@Sicché\<cnjsub\>
