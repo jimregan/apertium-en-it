@@ -617,17 +617,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Algeria<s n="np"/><s n="loc"/></l> 
-        <r>Algeria<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-18
     -->
     <e>
@@ -700,17 +689,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Amsterdam<s n="np"/><s n="loc"/></l> 
-        <r>Amsterdam<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-7
     -->
     <e>
@@ -728,17 +706,6 @@
       <p>
         <l>Andalucia<s n="np"/><s n="loc"/></l> 
         <r>Andalusia<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Andorra<s n="np"/><s n="loc"/></l> 
-        <r>Andorra<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -808,17 +775,6 @@
       <p>
         <l>April<s n="n"/></l> 
         <r>aprile<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Arabia<s n="np"/><s n="loc"/></l> 
-        <r>Arabia<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -956,28 +912,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Asturias<s n="np"/><s n="loc"/></l> 
-        <r>Asturie<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Athens<s n="np"/><s n="loc"/></l> 
-        <r>Atene<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-57
     -->
     <e>
@@ -1105,17 +1039,6 @@
       <p>
         <l>Bangkok<s n="np"/><s n="loc"/></l> 
         <r>Bangkok<s n="np"/><s n="loc"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Barcelona<s n="np"/><s n="loc"/></l> 
-        <r>Barcellona<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -1297,17 +1220,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Bolivia<s n="np"/><s n="loc"/></l> 
-        <r>Bolivia<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-0
     -->
     <e>
@@ -1330,17 +1242,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Bosnia<s n="np"/><s n="loc"/></l> 
-        <r>Bosnia<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-18
     -->
     <e>
@@ -1358,28 +1259,6 @@
       <p>
         <l>Bruno<s n="np"/><s n="ant"/></l> 
         <r>Bruno<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Brussels<s n="np"/><s n="loc"/></l> 
-        <r>Bruxelles<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Bucharest<s n="np"/><s n="loc"/></l> 
-        <r>Bucarest<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -1424,17 +1303,6 @@
       <p>
         <l>Bush<s n="np"/><s n="cog"/><s n="pl"/></l> 
         <r>Bush<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>California<s n="np"/><s n="loc"/></l> 
-        <r>California<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -1501,28 +1369,6 @@
       <p>
         <l>Canaries<s n="np"/><s n="loc"/></l> 
         <r>Canarie<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Cantabria<s n="np"/><s n="loc"/></l> 
-        <r>Cantabria<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Caracas<s n="np"/><s n="loc"/></l> 
-        <r>Caracas<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -1671,17 +1517,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Catalonia<s n="np"/><s n="loc"/></l> 
-        <r>Catalogna<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-7
     -->
     <e>
@@ -1699,17 +1534,6 @@
       <p>
         <l>Catherine<s n="np"/><s n="ant"/></l> 
         <r>Catherine<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Ceuta<s n="np"/><s n="loc"/></l> 
-        <r>Ceuta<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -1814,17 +1638,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Colombia<s n="np"/><s n="loc"/></l> 
-        <r>Colombia<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-18
     -->
     <e>
@@ -1853,17 +1666,6 @@
       <p>
         <l>Croatia<s n="np"/><s n="loc"/></l> 
         <r>Croazia<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Cuba<s n="np"/><s n="loc"/></l> 
-        <r>Cuba<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -2324,13 +2126,6 @@
       </p>
     </e>
 
-    <e>
-      <p>
-        <l>Extremadura<s n="np"/><s n="loc"/></l> 
-        <r>Estremadura<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
     <!-- 
 	forced 'RL' restriction
       ND-20
@@ -2500,17 +2295,6 @@
       <p>
         <l>Finn<s n="n"/></l> 
         <r>finlandese<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Florida<s n="np"/><s n="loc"/></l> 
-        <r>Florida<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -2714,17 +2498,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Galicia<s n="np"/><s n="loc"/></l> 
-        <r>Galizia<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-0
     -->
     <e r="RL">
@@ -2841,17 +2614,6 @@
       <p>
         <l>Georgia<s n="np"/><s n="ant"/></l> 
         <r>Georgia<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Georgia<s n="np"/><s n="loc"/></l> 
-        <r>Georgia<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -3000,17 +2762,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Girona<s n="np"/><s n="loc"/></l> 
-        <r>Girona<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-7
     -->
     <e>
@@ -3066,34 +2817,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Guatemala<s n="np"/><s n="loc"/></l> 
-        <r>Guatemala<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       default
     -->
     <e>
       <p>
         <l>Guillermo<s n="np"/><s n="ant"/></l> 
         <r>Guillermo<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Guinea<s n="np"/><s n="loc"/></l> 
-        <r>Guinea<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -3257,17 +2986,6 @@
     -->
     <e>
       <p>
-        <l>Ibiza<s n="np"/><s n="loc"/></l> 
-        <r>Ibiza<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
         <l>Iceland<s n="np"/><s n="loc"/></l> 
         <r>Islanda<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
@@ -3347,17 +3065,6 @@
       <p>
         <l>Indiana<s n="np"/><s n="loc"/></l> 
         <r>Indiana<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Indonesia<s n="np"/><s n="loc"/></l> 
-        <r>Indonesia<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -3607,17 +3314,6 @@
       <p>
         <l>Jaime<s n="np"/></l> 
         <r>Jaime<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Jamaica<s n="np"/><s n="loc"/></l> 
-        <r>Giamaica<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -4147,17 +3843,6 @@
     -->
     <e>
       <p>
-        <l>Lisbon<s n="np"/><s n="loc"/></l> 
-        <r>Lisbona<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
         <l>Lithuania<s n="np"/><s n="loc"/></l> 
         <r>Lituania<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
@@ -4182,17 +3867,6 @@
       <p>
         <l>Lithuanian<s n="n"/></l> 
         <r>lituano<s n="n"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Lleida<s n="np"/><s n="loc"/></l> 
-        <r>Lleida<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -4422,30 +4096,8 @@
     -->
     <e>
       <p>
-        <l>Malaysia<s n="np"/><s n="loc"/></l> 
-        <r>Malaysia<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
         <l>Mallorca<s n="np"/><s n="loc"/></l> 
         <r>Maiorca<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Malta<s n="np"/><s n="loc"/></l> 
-        <r>Malta<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -4775,34 +4427,12 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Melilla<s n="np"/><s n="loc"/></l> 
-        <r>Melilla<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-18
     -->
     <e>
       <p>
         <l>Mexico<s n="np"/><s n="loc"/></l> 
         <r>Messico<s n="np"/><s n="loc"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Miami<s n="np"/><s n="loc"/></l> 
-        <r>Miami<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -5037,17 +4667,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-18
-    -->
-    <e>
-      <p>
-        <l>Moscow<s n="np"/><s n="loc"/></l> 
-        <r>Mosca<s n="np"/><s n="loc"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-11
     -->
     <e>
@@ -5087,17 +4706,6 @@
       <p>
         <l>Muslim<s n="n"/></l> 
         <r>musulmano<s n="n"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Málaga<s n="np"/><s n="loc"/></l> 
-        <r>Málaga<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -5175,28 +4783,6 @@
       <p>
         <l>Nepal<s n="np"/><s n="loc"/></l> 
         <r>Nepal<s n="np"/><s n="loc"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>New<b/>York<s n="np"/><s n="loc"/></l> 
-        <r>New<b/>York<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Nice<s n="np"/><s n="loc"/></l> 
-        <r>Nizza<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -5726,17 +5312,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Prague<s n="np"/><s n="loc"/></l> 
-        <r>Praga<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-16
     -->
     <e>
@@ -6001,17 +5576,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Rwanda<s n="np"/><s n="loc"/></l> 
-        <r>Ruanda<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-18
     -->
     <e>
@@ -6172,17 +5736,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Seville<s n="np"/><s n="loc"/></l> 
-        <r>Siviglia<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-7
     -->
     <e>
@@ -6277,17 +5830,6 @@
       <p>
         <l>Sofía<s n="np"/><s n="ant"/></l> 
         <r>Sofia<s n="np"/><s n="loc"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>South<b/>Africa<s n="np"/><s n="loc"/></l> 
-        <r>Sudafrica<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -6458,17 +6000,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Syria<s n="np"/><s n="loc"/></l> 
-        <r>Siria<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       default
     -->
     <e>
@@ -6486,17 +6017,6 @@
       <p>
         <l>Tania<s n="np"/><s n="ant"/></l> 
         <r>Tania<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Tarragona<s n="np"/><s n="loc"/></l> 
-        <r>Tarragona<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -6530,17 +6050,6 @@
       <p>
         <l>Thai<s n="n"/></l> 
         <r>tailandese<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Thailand<s n="np"/><s n="loc"/></l> 
-        <r>Thailandia<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -6769,17 +6278,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Venezuela<s n="np"/><s n="loc"/></l> 
-        <r>Venezuela<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-7
     -->
     <e>
@@ -6813,17 +6311,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Vienna<s n="np"/><s n="loc"/></l> 
-        <r>Vienna<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-18
     -->
     <e>
@@ -6852,17 +6339,6 @@
       <p>
         <l>Virginia<s n="np"/><s n="ant"/></l> 
         <r>Virginia<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Vitoria<s n="np"/><s n="loc"/></l> 
-        <r>Vitoria<s n="np"/><s n="loc"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -93885,6 +93361,7 @@
     <e><p><l>urinate<s n="vblex"/></l><r>orinare<s n="vblex"/></r></p></e>
 <e><p><l>Huesca<s n="np"/><s n="loc"/></l><r>Huesca<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Valencia<s n="np"/><s n="loc"/></l><r>Valenzia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>Valencia<s n="np"/><s n="loc"/></l><r>Valenzia<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Brittany<s n="np"/><s n="loc"/></l><r>Bretagna<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Chechnya<s n="np"/><s n="loc"/></l><r>Cecenia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Czech<b/>Republic<s n="np"/><s n="loc"/></l><r>Repubblica<b/>Ceca<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
@@ -94118,7 +93595,6 @@
 <e><p><l>Turin<s n="np"/><s n="loc"/></l><r>Torino<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Tàrrega<s n="np"/><s n="loc"/></l><r>Tàrrega<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Tangier<s n="np"/><s n="loc"/></l><r>Tangeri<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
-<e><p><l>Valencia<s n="np"/><s n="loc"/></l><r>Valenzia<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Valladolid<s n="np"/><s n="loc"/></l><r>Valladolid<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Valls<s n="np"/><s n="loc"/></l><r>Valls<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Venice<s n="np"/><s n="loc"/></l><r>Venezia<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
