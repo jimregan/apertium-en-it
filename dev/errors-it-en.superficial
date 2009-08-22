@@ -13,8 +13,10 @@
 ^.<sent>$ ^il mio<det><pos><f><sg>$	. #My\<det\>\<pos\>\<sp\>
 ^.<sent>$ ^il suo<det><pos><m><pl>$	. #His\<det\>\<pos\>\<sp\>
 ^.<sent>$ ^il suo<det><pos><m><sg>$	. #His\<det\>\<pos\>\<sp\>
-^.<sent>$ ^il tuo<det><pos><m><pl>$	. #Your\<pl\>
-^.<sent>$ ^il tuo<det><pos><m><sg>$	. #Your\<sg\>
+^.<sent>$ ^il vostro<det><pos><m><pl>$	. #Your\<det\>\<pos\>\<sp\>
+^.<sent>$ ^il vostro<det><pos><m><sg>$	. #Your\<det\>\<pos\>\<sp\>
+^.<sent>$ ^il vostro<det><pos><f><pl>$	. #Your\<det\>\<pos\>\<sp\>
+^.<sent>$ ^il vostro<det><pos><f><sg>$	. #Your\<det\>\<pos\>\<sp\>
 ^.<sent>$ ^loro<det><pos><mf><sp>$	. #His
 ^.<sent>$ ^mio<det><pos><m><pl>$	. #My\<det\>\<pos\>\<sp\>
 ^.<sent>$ ^mio<det><pos><m><sg>$	. #My\<det\>\<pos\>\<sp\>
@@ -36,22 +38,18 @@
 ^.<sent>$ ^tale<det><dem><mf><sg>$	. #Such\<det\>\<dem\>\<sg\>
 ^.<sent>$ ^tale<det><dem><mf><pl>$	. #Such\<det\>\<dem\>\<pl\>
 ^.<sent>$ ^tale<det><dem><mf><sg>$	. #Such\<det\>\<dem\>\<sg\>
-^.<sent>$ ^tuo<det><pos><m><pl>$	. #Your\<pl\>
-^.<sent>$ ^tuo<det><pos><m><sg>$	. #Your\<sg\>
+^.<sent>$ ^tuo<det><pos><m><pl>$	. \@Tuo\<det\>\<pos\>\<pl\>
+^.<sent>$ ^tuo<det><pos><m><sg>$	. \@Tuo\<det\>\<pos\>\<sg\>
 ^.<sent>$ ^tutto<det><ind><m><pl>$	. \@Tutto\<det\>\<ind\>\<pl\>
 ^.<sent>$ ^tutto<det><ind><m><sg>$	. \@Tutto\<det\>\<ind\>\<sg\>
 ^.<sent>$ ^tutto<det><ind><f><pl>$	. \@Tutto\<det\>\<ind\>\<pl\>
 ^.<sent>$ ^tutto<det><ind><f><sg>$	. \@Tutto\<det\>\<ind\>\<sg\>
-^.<sent>$ ^un<det><ind><f><pl>$	. #A\<det\>\<ind\>\<pl\>
-^.<sent>$ ^un<det><ind><m><pl>$	. #A\<det\>\<ind\>\<pl\>
-^.<sent>$ ^un<det><ind><m><pl>$	. #A\<det\>\<ind\>\<pl\>
-^.<sent>$ ^un<det><ind><f><pl>$	. #A\<det\>\<ind\>\<pl\>
 ^.<sent>$ ^vario<det><ind><m><pl>$	. \@Vario\<det\>\<ind\>\<pl\>
 ^.<sent>$ ^vario<det><ind><f><pl>$	. \@Vario\<det\>\<ind\>\<pl\>
-^.<sent>$ ^vostro<det><pos><m><pl>$	. #Your\<pl\>
-^.<sent>$ ^vostro<det><pos><m><sg>$	. #Your\<sg\>
-^.<sent>$ ^vostro<det><pos><f><pl>$	. #Your\<pl\>
-^.<sent>$ ^vostro<det><pos><f><sg>$	. #Your\<sg\>
+^.<sent>$ ^vostro<det><pos><m><pl>$	. #Your\<det\>\<pos\>\<sp\>
+^.<sent>$ ^vostro<det><pos><m><sg>$	. #Your\<det\>\<pos\>\<sp\>
+^.<sent>$ ^vostro<det><pos><f><pl>$	. #Your\<det\>\<pos\>\<sp\>
+^.<sent>$ ^vostro<det><pos><f><sg>$	. #Your\<det\>\<pos\>\<sp\>
 ^.<sent>$ ^come<rel><adv>$	. \@Come\<rel\>\<adv\>
 ^.<sent>$ ^quale<rel><an><mf><pl>$	. \@Quale\<rel\>\<an\>\<mf\>\<pl\>
 ^.<sent>$ ^quale<rel><an><mf><sg>$	. \@Quale\<rel\>\<an\>\<mf\>\<sg\>
@@ -2204,9 +2202,9 @@
 ^.<sent>$ ^alternato<adj><m><sg>$	. \@Alternato\<adj\>
 ^.<sent>$ ^alternato<adj><f><pl>$	. \@Alternato\<adj\>
 ^.<sent>$ ^alternato<adj><f><sg>$	. \@Alternato\<adj\>
-^.<sent>$ ^altro<adj><ind><m><pl>$	. \@Altro\<adj\>
+^.<sent>$ ^altro<adj><ind><m><pl>$	. #Other
 ^.<sent>$ ^altro<adj><ind><m><sg>$	. \@Altro\<adj\>
-^.<sent>$ ^altro<adj><ind><f><pl>$	. \@Altro\<adj\>
+^.<sent>$ ^altro<adj><ind><f><pl>$	. #Other
 ^.<sent>$ ^altro<adj><ind><f><sg>$	. \@Altro\<adj\>
 ^.<sent>$ ^anemico<adj><m><sg>$	. \@Anemico\<adj\>
 ^.<sent>$ ^anemico<adj><m><pl>$	. \@Anemico\<adj\>
@@ -14776,6 +14774,7 @@
 ^.<sent>$ ^quello<det><dem><mf><sg>$	. #That\<sg\>
 ^.<sent>$ ^questo<det><dem><mf><sg>$	. #This\<sg\>
 ^.<sent>$ ^sotto<pr>$	. #Under\<pr\>\/below\<pr\>
+^.<sent>$ ^un<det><ind><mf><sg>$	. \@Un\<det\>\<ind\>\<sg\>
 ^.<sent>$ ^cento<num><mf><sp>$	. \@Cento\<num\>\<mf\>\<sp\>
 ^.<sent>$ ^!]<sent>$	. \@!\]\<sent\>
 ==========================

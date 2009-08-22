@@ -1,6 +1,4 @@
 ^.<sent>$ ^the<det><def><sp>$ ^most<preadv>$	. ~Il \@most\<preadv\>
-^.<sent>$ ^a<det><ind><sg>$	. #Un\<det\>\<ind\>\<m\>\<mf\>
-^.<sent>$ ^a<det><ind><sg>$	. #Un\<det\>\<ind\>\<m\>\<mf\>
 ^.<sent>$ ^another<det><ind><sg>$	. #Un altro\<det\>\<ind\>
 ^.<sent>$ ^any<det><ind><sp>$	. #Qualsiasi\<det\>\<ind\>
 ^.<sent>$ ^both<det><ind><pl>$	. #Entrambi i\<det\>\<ind\>
@@ -33,7 +31,7 @@
 ^.<sent>$ ^what<det><itg><sp>$	. \@What\<det\>\<itg\>\<sp\>
 ^.<sent>$ ^which<det><itg><sp>$	. #Quale\<mf\>\<sg\>
 ^.<sent>$ ^whose<det><itg><sp>$	. \@Whose\<det\>\<itg\>\<sp\>
-^.<sent>$ ^your<det><pos><sp>$	. #Il vostro\<det\>\<pos\>
+^.<sent>$ ^your<det><pos><sp>$	. \@Your\<det\>\<pos\>\<sp\>
 ^.<sent>$ ^last<det><ord><sp>$	. \@Last\<det\>\<sp\>
 ^.<sent>$ ^all<predet><sp>$	. \@All\<predet\>\<sp\>
 ^.<sent>$ ^fourth<det><ord><sp>$	. \@Fourth\<det\>\<sp\>
@@ -27277,7 +27275,6 @@
 ^.<sent>$ ^that<prn><tn><mf><sg>$	. #Quello\<prn\>\<tn\>\<nt\>
 ^.<sent>$ ^that<prn><tn><mf><pl>$	. #Quello\<prn\>\<tn\>\<m\>
 ^.<sent>$ ^theirs<prn><pos><mf><sp>$	. #Il suo\<prn\>\<pos\>\<m\>\<sg\>
-^.<sent>$ ^what<prn><itg><m><sp>$	. #Che\<prn\>
 ^.<sent>$ ^whatever<prn><tn><m><sg>$	. \@Whatever\<prn\>\<tn\>\<m\>\<sg\>
 ^.<sent>$ ^which<prn><itg><m><sp>$	. #Quale\<prn\>\<itg\>
 ^.<sent>$ ^which one<prn><itg><m><sg>$	. #Quale\<prn\>\<itg\>
@@ -48117,11 +48114,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> marzo<n><m>/Marcia<n><f>$
 #\^.\<sent\> Mar√≠a<np>/Mar√≠a<np><ant>$
 #\^.\<sent\> Mar√≠a<np>/Mar√≠a<np><ant>$
-#\^.\<sent\> un<det><ind><m>/un<det><ind><f>$
-#\^.\<sent\> un<det><ind><m>/un<det><ind><f>$
-#\^.\<sent\> un<det><ind><m>/un<det><ind><f>/un<det><ind><mf>$
-#\^.\<sent\> un<det><ind><m>/un<det><ind><f>/un<det><ind><mf>$
-#\^.\<sent\> un<det><ind><m>/un<det><ind><f>/un<det><ind><mf>$
+#\^.\<sent\> un altro<det><ind>/un altro<det><ind><GD>$
 #\^.\<sent\> lasciare<vblex>/abbandonare<vblex>$
 #\^.\<sent\> addome<n><m>/pancia<n><f>$
 #\^.\<sent\> addome<n><m>/pancia<n><f>$
@@ -48195,6 +48188,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> but<cnjcoo>/ma<cnjcoo>$
 #\^.\<sent\> annuncio<n><m>/invito<n><m>$
 #\^.\<sent\> annuncio<n><m>/invito<n><m>$
+#\^.\<sent\> un altro<det><ind>/un altro<det><ind><GD>$
 #\^.\<sent\> rispondere<vblex>/contestare<vblex>$
 #\^.\<sent\> rispondere<vblex>/contestare<vblex>$
 #\^.\<sent\> alcun<det><ind>/qualche<det><ind><mf>$
@@ -48783,7 +48777,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> garanzia<n><f>/avallo<n><m>$
 #\^.\<sent\> garanzia<n><f>/avallo<n><m>$
 #\^.\<sent\> guerriglia<n><f>/guerrigliero<n><GD>$
-#\^.\<sent\> grafia<n><f>/lettera<n><f>$
+#\^.\<sent\> lettera<n><f>/grafia<n><f>$
 #\^.\<sent\> passare<vblex>/succedere<vblex>/sopravvenire<vblex>$
 #\^.\<sent\> felicemente<adv>/fortunatamente<adv>$
 #\^.\<sent\> tenere<vblex>/disporre<vblex>$
@@ -49501,9 +49495,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> suolo<n><m>/terra<n><f>$
 #\^.\<sent\> soldato<n><mf>/militare<n><m>$
 #\^.\<sent\> soldato<n><mf>/militare<n><m>$
-#\^.\<sent\> un<det><ind><m>/un<det><ind><f>/un<det><ind><mf>$
-#\^.\<sent\> un<det><ind><m>/un<det><ind><f>/un<det><ind><mf>$
-#\^.\<sent\> un<det><ind><m>/un<det><ind><f>/un<det><ind><mf>$
 #\^.\<sent\> alcun<det><ind>/qualche<det><ind><mf>$
 #\^.\<sent\> alcun<det><ind>/qualche<det><ind><mf>$
 #\^.\<sent\> certo<det><ind>/taluno<det><ind>$
@@ -49740,12 +49731,10 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> indebolire<vblex>/debilitare<vblex>$
 #\^.\<sent\> web<n><m>/ragnatela<n><f>$
 #\^.\<sent\> web<n><m>/ragnatela<n><f>$
-#\^.\<sent\> che<prn>/cosa<prn>$
-#\^.\<sent\> che<prn>/cosa<prn>$
+#\^.\<sent\> che<prn><itg><mf><sg>/cosa<prn>$
+#\^.\<sent\> che<prn><itg><mf><sg>/cosa<prn>$
 #\^.\<sent\> quanto<rel>/quello che<rel><an><nt>$
 #\^.\<sent\> quanto<rel>/quello che<rel><an><nt>$
-#\^.\<sent\> ruota<n><f>/volante<n><m>$
-#\^.\<sent\> ruota<n><f>/volante<n><m>$
 #\^.\<sent\> fino<pr>/fino a<pr>$
 #\^.\<sent\> chi<prn><itg><mf><sp>/cui<prn><itg><mf><sp>$
 #\^.\<sent\> chi<prn><itg><mf><sp>/cui<prn><itg><mf><sp>$
@@ -49771,8 +49760,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> panfilo<n><m>/imbarcazione<n><f>$
 #\^.\<sent\> lievito<n><m>/lievito<n><f>$
 #\^.\<sent\> lievito<n><m>/lievito<n><f>$
-#\^.\<sent\> vostro<det><pos>/il vostro<det><pos>$
-#\^.\<sent\> vostro<det><pos>/il vostro<det><pos>$
 #\^.\<sent\> tuo<adj>/vostro<adj>$
 #\^.\<sent\> tuo<adj>/vostro<adj>$
 #\^.\<sent\> affidabilit√†<n><f><sp>/attendibilit√†<n><f><sp>$
@@ -49826,7 +49813,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> arte<n><f>/arte<n><mf>/attrezzo<n><m>$
 #\^.\<sent\> competenza<n><f>/concorrenza<n><f>/competizione<n><f>$
 #\^.\<sent\> competenza<n><f>/concorrenza<n><f>/competizione<n><f>$
-#\^.\<sent\> grafia<n><f>/lettera<n><f>$
+#\^.\<sent\> lettera<n><f>/grafia<n><f>$
 #\^.\<sent\> affetto<n><m>/fine<n><mf>/affezione<n><f>$
 #\^.\<sent\> mappa<n><f>/cartina<n><m>/cartina<n><f>$
 #\^.\<sent\> chimica<n><f>/chimico<n><GD>$
