@@ -5131,10 +5131,10 @@
 	forced 'null' restriction
       ND-36
     -->
-    <e c="check">
+    <e r="RL">
       <p>
-        <l>Persian<s n="n"/></l> 
-        <r>persiano<s n="n"/><s n="m"/></r> 
+        <l>persian<s n="n"/></l> 
+        <r>persiano<s n="n"/></r> 
       </p>
     </e>
 
@@ -5142,10 +5142,10 @@
 	forced 'null' restriction
       ND-30
     -->
-    <e c="check">
+    <e r="LR">
       <p>
-        <l>Persian<s n="n"/></l> 
-        <r>persiano<s n="n"/><s n="f"/></r> 
+        <l>persian<s n="n"/></l> 
+        <r>persiano<s n="n"/><s n="GD"/></r> 
       </p>
     </e>
 
@@ -11949,17 +11949,6 @@
       <p>
         <l>appear<s n="vblex"/></l> 
         <r>apparire<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>appear<s n="vblex"/></l> 
-        <r>sembrare<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -51492,17 +51481,6 @@
     <e>
       <p>
         <l>lean<s n="vblex"/></l> 
-        <r>sostenere<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>lean<s n="vblex"/></l> 
         <r>appoggiare<s n="vblex"/></r> 
       </p>
     </e>
@@ -53154,17 +53132,6 @@
       <p>
         <l>look<s n="vblex"/></l> 
         <r>parere<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e c="(he looks tired)">
-      <p>
-        <l>look<s n="vblex"/></l> 
-        <r>sembrare<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -81324,17 +81291,6 @@
     <e>
       <p>
         <l>support<s n="vblex"/></l> 
-        <r>sostenere<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>support<s n="vblex"/></l> 
         <r>appoggiare<s n="vblex"/></r> 
       </p>
     </e>
@@ -92760,11 +92716,11 @@
     <e r="LR"><p><l>blind<s n="n"/></l><r>cieco<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>conservative<s n="n"/></l><r>conservatore<s n="n"/></r></p></e>
     <e r="LR"><p><l>conservative<s n="n"/></l><r>conservatore<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>Ecuadorian<s n="n"/></l><r>ecuadoriano<s n="n"/></r></p></e>
-    <e r="LR"><p><l>Ecuadorian<s n="n"/></l><r>ecuadoriano<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>Egyptian<s n="n"/></l><r>egiziano<s n="n"/></r></p></e>
-    <e r="LR"><p><l>Egyptian<s n="n"/></l><r>egiziano<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>Egyptian<s n="n"/></l><r>egizio<s n="n"/></r></p></e>
+    <e r="RL"><p><l>ecuadorian<s n="n"/></l><r>ecuadoriano<s n="n"/></r></p></e>
+    <e r="LR"><p><l>ecuadorian<s n="n"/></l><r>ecuadoriano<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>egyptian<s n="n"/></l><r>egiziano<s n="n"/></r></p></e>
+    <e r="LR"><p><l>egyptian<s n="n"/></l><r>egiziano<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>egyptian<s n="n"/></l><r>egizio<s n="n"/></r></p></e>
     <e r="RL"><p><l>exile<s n="n"/></l><r>esiliato<s n="n"/></r></p></e>
     <e r="LR"><p><l>exile<s n="n"/></l><r>esiliato<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>injured<s n="n"/></l><r>ferito<s n="n"/></r></p></e>
@@ -93604,7 +93560,7 @@
     <e><p><l>support<s n="vblex"/></l><r>sopportare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>speed<g><b/>up</g><s n="vblex"/></l><r>sollecitare<s n="vblex"/></r></p></e>
 
-    <e><p><l>applauding<s n="adj"/></l><r>acclamante<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>applauding<s n="adj"/></l><r>acclamante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>nondenominational<s n="adj"/></l><r>aconfessionale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>adolescent<s n="adj"/></l><r>adolescente<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>teenage<s n="adj"/></l><r>adolescente<s n="adj"/><s n="mf"/></r></p></e>
