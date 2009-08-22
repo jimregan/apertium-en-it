@@ -75,19 +75,14 @@
 ^.<sent>$ ^che<rel><an><mf><sp>$	. #Who\<rel\>\<an\>\<mf\>\<sp\>\/that\<rel\>\<an\>\<mf\>\<sp\>\/which\<rel\>\<an\>\<an\>\<mf\>\<sp\>
 ^.<sent>$ ^Betis<np><ant><m><sg>$	. \@Betis\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Gómez<np><ant><m><sg>$	. \@Gómez\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Oscar<np><ant><m><sg>$	. \@Oscar\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^BBVA<n><acr><m><sg>$	. \@BBVA\<n\>\<acr\>\<sg\>
-^.<sent>$ ^Paco<np><ant><m><sg>$	. \@Paco\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Espanyol<np><ant><m><sg>$	. \@Espanyol\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Raúl<np><ant><m><sg>$	. \@Raúl\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Expo<np><ant><f><sg>$	. \@Expo\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^DGA<np><ant><f><sg>$	. \@DGA\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Pamesa<np><ant><m><sg>$	. \@Pamesa\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Joan<np><ant><m><sg>$	. \@Joan\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^ETA<n><acr><m><sg>$	. \@ETA\<n\>\<acr\>\<sg\>
 ^.<sent>$ ^Etosa<np><ant><m><sg>$	. \@Etosa\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Ibarretxe<np><ant><m><sg>$	. \@Ibarretxe\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Rubén<np><ant><m><sg>$	. \@Rubén\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Hernández<np><ant><m><sg>$	. \@Hernández\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Navarro<np><ant><m><sg>$	. \@Navarro\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Athletic<np><ant><m><sg>$	. \@Athletic\<np\>\<ant\>\<m\>\<sg\>
@@ -98,9 +93,7 @@
 ^.<sent>$ ^Martín<np><ant><m><sg>$	. #Martín\<np\>\<ant\>\<m\>\<sg\>\/Martín\<np\>\<m\>\<sg\>
 ^.<sent>$ ^Wikipedia<np><ant><f><sg>$	. \@Wikipedia\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^María<np><ant><f><sg>$	. #María\<np\>\<ant\>\<f\>\<sg\>\/María\<np\>\<f\>\<sg\>
-^.<sent>$ ^Cristina<np><ant><f><sg>$	. \@Cristina\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^ABC<np><al><m><sg>$	. \@ABC\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Allah<np><ant><m><sg>$	. \@Allah\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Anna<np><loc><m><sg>$	. #Anna\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^Barça<np><al><m><sg>$	. \@Barça\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^BSCH<np><al><m><sg>$	. \@BSCH\<np\>\<al\>\<m\>\<sg\>
@@ -123,7 +116,8 @@
 ^.<sent>$ ^Grau<np><loc><m><sg>$	. \@Grau\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^Ermes<np><al><m><sg>$	. \@Ermes\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Herrero<np><al><m><sg>$	. \@Herrero\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Orazio<np><ant><m><sg>$	. #Horace\<np\>\<ant\>\<m\>\<sg\>\/Horacio\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Orazio<np><ant><m><sg>$	. #Orazio\<np\>\<ant\>\<m\>\<sg\>\/Horace\<np\>\<ant\>\<m\>\<sg\>\/Horacio\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Ercole<np><ant><m><sg>$	. #Ercole\<np\>\<ant\>\<m\>\<sg\>\/Hercules\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^IU<np><al><m><sg>$	. \@IU\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Indiana<np><ant><m><sg>$	. #Indiana\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Iniesta<np><loc><m><sg>$	. \@Iniesta\<np\>\<loc\>\<sg\>
@@ -141,11 +135,13 @@
 ^.<sent>$ ^Montero<np><al><m><sg>$	. \@Montero\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Montiel<np><al><m><sg>$	. \@Montiel\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Nadal<np><al><m><sg>$	. \@Nadal\<np\>\<al\>\<m\>\<sg\>
+^.<sent>$ ^Napoleone<np><ant><m><sg>$	. #Napoleone\<np\>\<ant\>\<m\>\<sg\>\/Napoleon\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Napster<np><al><m><sg>$	. \@Napster\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Nature<np><al><m><sg>$	. \@Nature\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^ONG<np><al><m><sg>$	. \@ONG\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Osasuna<np><al><m><sg>$	. \@Osasuna\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Pegaso<np><al><m><sg>$	. \@Pegaso\<np\>\<al\>\<m\>\<sg\>
+^.<sent>$ ^Penelope<np><ant><f><sg>$	. #Penelope\<np\>\<ant\>\<f\>\<sg\>\/Penélope\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Perales<np><al><m><sg>$	. \@Perales\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Polizia<np><al><f><sg>$	. \@Polizia\<np\>\<al\>\<f\>\<sg\>
 ^.<sent>$ ^Chisciotte<np><al><m><sg>$	. \@Chisciotte\<np\>\<al\>\<m\>\<sg\>
@@ -155,7 +151,6 @@
 ^.<sent>$ ^Rivera<np><al><m><sg>$	. \@Rivera\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Rolling<np><al><m><sg>$	. \@Rolling\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Roque<np><ant><m><sg>$	. \@Roque\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Saddam<np><ant><m><sg>$	. \@Saddam\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Sagra<np><loc><m><sg>$	. \@Sagra\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^San<np><al><m><sg>$	. \@San\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Santiago<np><loc><m><sg>$	. #Santiago\<np\>\<loc\>\<sg\>
@@ -178,6 +173,16 @@
 ^.<sent>$ ^Zeta<np><al><m><sg>$	. \@Zeta\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^html<np><al><m><sg>$	. \@Html\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^El Greco<np><ant><m><sg>$	. \@El Greco\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Ifigenia<np><ant><f><sg>$	. #Ifigenia\<np\>\<ant\>\<f\>\<sg\>\/Iphigenia\<np\>\<ant\>\<f\>\<sg\>
+^.<sent>$ ^Kenya<np><ant><f><sg>$	. #Kenya\<np\>\<ant\>\<f\>\<sg\>\/Kenia\<np\>\<ant\>\<f\>\<sg\>
+^.<sent>$ ^Penelope<np><ant><f><sg>$	. #Penelope\<np\>\<ant\>\<f\>\<sg\>\/Penélope\<np\>\<ant\>\<f\>\<sg\>
+^.<sent>$ ^Achille<np><ant><m><sg>$	. #Achille\<np\>\<ant\>\<m\>\<sg\>\/Achilles\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Ercole<np><ant><m><sg>$	. #Ercole\<np\>\<ant\>\<m\>\<sg\>\/Hercules\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Mosè<np><ant><m><sg>$	. #Mosè\<np\>\<ant\>\<m\>\<sg\>\/Moses\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Napoleone<np><ant><m><sg>$	. #Napoleone\<np\>\<ant\>\<m\>\<sg\>\/Napoleon\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Orazio<np><ant><m><sg>$	. #Orazio\<np\>\<ant\>\<m\>\<sg\>\/Horace\<np\>\<ant\>\<m\>\<sg\>\/Horacio\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Plinio<np><ant><m><sg>$	. #Plinio\<np\>\<ant\>\<m\>\<sg\>\/Pliny\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Sansone<np><ant><m><sg>$	. #Sansone\<np\>\<ant\>\<m\>\<sg\>\/Samson\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^BBVA<n><acr><m><sg>$	. \@BBVA\<n\>\<acr\>\<sg\>
 ^.<sent>$ ^FMI<n><acr><m><sg>$	. \@FMI\<n\>\<acr\>\<sg\>
 ^.<sent>$ ^PP<n><acr><m><sg>$	. \@PP\<n\>\<acr\>\<sg\>
@@ -3686,116 +3691,6 @@
 ^.<sent>$ ^tutto ciò<cnjadv>$	. \@Tutto ciò\<cnjadv\>
 ^.<sent>$ ^c'è<vblex><pri><p3><sg>$	. #Prpers\<prn\>\<subj\>\<mf\> #there is\<vblex\>
 ^.<sent>$ ^c'è<vblex><pri><p3><pl>$	. #Prpers\<prn\>\<subj\>\<mf\> #there is\<vblex\>
-^.<sent>$ ^avere<vblex><ifi><p1><sg>$	. I \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><pii><p2><pl>$	. You \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><ifi><p2><pl>$	. You \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><pii><p2><sg>$	. You \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><ifi><p2><sg>$	. You \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><ifi><p3><pl>$	. They \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><cni><p1><pl>$	. We would \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><ifi><p3><sg>$	. It \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><prs><p3><pl>$	. They \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><cni><p1><sg>$	. I would \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><imp><p1><pl>$	. \@Avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><prs><p3><sg>$	. It \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><cni><p2><pl>$	. You would \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><cni><p2><sg>$	. You would \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><pri><p3><pl>$	. They \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><cni><p3><pl>$	. They would \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><pp><f><pl>$	. \@Avere\<vblex\>\<pp\>
-^.<sent>$ ^avere<vblex><cni><p3><sg>$	. It would \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><pri><p3><sg>$	. It \@avere\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^avere<vblex><fti><p1><pl>$	. We will \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><pp><m><pl>$	. \@Avere\<vblex\>\<pp\>
-^.<sent>$ ^avere<vblex><pp><f><sg>$	. \@Avere\<vblex\>\<pp\>
-^.<sent>$ ^avere<vblex><pp><m><sg>$	. \@Avere\<vblex\>\<pp\>
-^.<sent>$ ^avere<vblex><pis><p1><pl>$	. We \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><fti><p1><sg>$	. I will \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><pis><p1><sg>$	. I \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><fti><p2><pl>$	. You will \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><pis><p2><pl>$	. You \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><fti><p2><sg>$	. You will \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><pis><p2><sg>$	. You \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><fti><p3><pl>$	. They will \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><fti><p3><sg>$	. It will \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><pii><p1><pl>$	. We \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><ifi><p1><pl>$	. We \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><pii><p1><sg>$	. I \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><pis><p3><pl>$	. They \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><imp><p2><pl>$	. \@Avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><pis><p3><sg>$	. It \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><imp><p2><sg>$	. \@Avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><prs><p1><pl>$	. We \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><prs><p1><sg>$	. I \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><prs><p2><pl>$	. You \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><prs><p2><sg>$	. You \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><pii><p3><pl>$	. They \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><ger>$	. \@Avere\<vblex\>\<ger\>
-^.<sent>$ ^avere<vblex><pii><p3><sg>$	. It \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><pri><p1><pl>$	. We \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><pri><p1><sg>$	. I \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><pri><p2><pl>$	. You \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><pri><p2><sg>$	. You \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><inf>$	. \@Avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><ifi><p3><pl>$	. They \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><pis><p3><pl>$	. They \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><cni><p3><pl>$	. They would \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><fti><p3><pl>$	. They will \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><pii><p3><pl>$	. They \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><prs><p3><pl>$	. They \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><inf>$	. \@Avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><pri><p3><pl>$	. They \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><ifi><p1><sg>$	. I \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><pii><p2><pl>$	. You \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><ifi><p2><pl>$	. You \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><pii><p2><sg>$	. You \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><ifi><p2><sg>$	. You \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><ifi><p3><pl>$	. They \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><cni><p1><pl>$	. We would \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><ifi><p3><sg>$	. It \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><prs><p3><pl>$	. They \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><cni><p1><sg>$	. I would \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><imp><p1><pl>$	. \@Avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><prs><p3><sg>$	. It \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><cni><p2><pl>$	. You would \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><cni><p2><sg>$	. You would \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><pri><p3><pl>$	. They \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><cni><p3><pl>$	. They would \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><pp><f><pl>$	. \@Avere\<vblex\>\<pp\>
-^.<sent>$ ^avere<vblex><cni><p3><sg>$	. It would \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><pri><p3><sg>$	. It \@avere\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^avere<vblex><fti><p1><pl>$	. We will \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><pp><m><pl>$	. \@Avere\<vblex\>\<pp\>
-^.<sent>$ ^avere<vblex><pp><f><sg>$	. \@Avere\<vblex\>\<pp\>
-^.<sent>$ ^avere<vblex><pp><m><sg>$	. \@Avere\<vblex\>\<pp\>
-^.<sent>$ ^avere<vblex><pis><p1><pl>$	. We \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><fti><p1><sg>$	. I will \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><pis><p1><sg>$	. I \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><fti><p2><pl>$	. You will \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><pis><p2><pl>$	. You \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><fti><p2><sg>$	. You will \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><pis><p2><sg>$	. You \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><fti><p3><pl>$	. They will \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><fti><p3><sg>$	. It will \@avere\<vblex\>\<inf\>
-^.<sent>$ ^avere<vblex><pii><p1><pl>$	. We \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><ifi><p1><pl>$	. We \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><pii><p1><sg>$	. I \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><pis><p3><pl>$	. They \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><imp><p2><pl>$	. \@Avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><pis><p3><sg>$	. It \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><imp><p2><sg>$	. \@Avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><prs><p1><pl>$	. We \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><prs><p1><sg>$	. I \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><prs><p2><pl>$	. You \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><prs><p2><sg>$	. You \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><pii><p3><pl>$	. They \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><ger>$	. \@Avere\<vblex\>\<ger\>
-^.<sent>$ ^avere<vblex><pii><p3><sg>$	. It \@avere\<vblex\>\<past\>
-^.<sent>$ ^avere<vblex><pri><p1><pl>$	. We \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><pri><p1><sg>$	. I \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><pri><p2><pl>$	. You \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><pri><p2><sg>$	. You \@avere\<vblex\>\<pres\>
-^.<sent>$ ^avere<vblex><inf>$	. \@Avere\<vblex\>\<inf\>
 ^.<sent>$ ^candidare<vblex><ifi><p1><sg>$	. I \@candidare\<vblex\>\<past\>
 ^.<sent>$ ^candidare<vblex><pii><p2><pl>$	. You \@candidare\<vblex\>\<past\>
 ^.<sent>$ ^candidare<vblex><ifi><p2><pl>$	. You \@candidare\<vblex\>\<past\>
@@ -3910,120 +3805,6 @@
 ^.<sent>$ ^candidare<vblex><pri><p2><pl>$	. You \@candidare\<vblex\>\<pres\>
 ^.<sent>$ ^candidare<vblex><pri><p2><sg>$	. You \@candidare\<vblex\>\<pres\>
 ^.<sent>$ ^candidare<vblex><inf>$	. \@Candidare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><ifi><p1><sg>$	. I \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><pii><p2><pl>$	. You \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><ifi><p2><pl>$	. You \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><pii><p2><sg>$	. You \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><ifi><p2><sg>$	. You \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><ifi><p3><pl>$	. They \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><cni><p1><pl>$	. We would \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><ifi><p3><sg>$	. It \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><prs><p3><pl>$	. They \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><cni><p1><sg>$	. I would \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><imp><p1><pl>$	. \@Concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><prs><p3><sg>$	. It \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><cni><p2><pl>$	. You would \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><cni><p2><sg>$	. You would \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><pri><p3><pl>$	. They \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><cni><p3><pl>$	. They would \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><pp><f><pl>$	. \@Concertare\<vblex\>\<pp\>
-^.<sent>$ ^concertare<vblex><cni><p3><sg>$	. It would \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><pri><p3><sg>$	. It \@concertare\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^concertare<vblex><fti><p1><pl>$	. We will \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><pp><m><pl>$	. \@Concertare\<vblex\>\<pp\>
-^.<sent>$ ^concertare<vblex><pp><f><sg>$	. \@Concertare\<vblex\>\<pp\>
-^.<sent>$ ^concertare<vblex><pp><m><sg>$	. \@Concertare\<vblex\>\<pp\>
-^.<sent>$ ^concertare<vblex><pis><p1><pl>$	. We \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><fti><p1><sg>$	. I will \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><pis><p1><sg>$	. I \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><fti><p2><pl>$	. You will \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><pis><p2><pl>$	. You \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><fti><p2><sg>$	. You will \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><pis><p2><sg>$	. You \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><fti><p3><pl>$	. They will \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><fti><p3><sg>$	. It will \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><pii><p1><pl>$	. We \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><ifi><p1><pl>$	. We \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><pii><p1><sg>$	. I \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><pis><p3><pl>$	. They \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><imp><p2><pl>$	. \@Concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><pis><p3><sg>$	. It \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><imp><p3><pl>$	. \@Concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><imp><p3><sg>$	. \@Concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><imp><p2><sg>$	. \@Concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><prs><p1><pl>$	. We \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><prs><p1><sg>$	. I \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><prs><p2><pl>$	. You \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><prs><p2><sg>$	. You \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><pii><p3><pl>$	. They \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><ger>$	. \@Concertare\<vblex\>\<ger\>
-^.<sent>$ ^concertare<vblex><pii><p3><sg>$	. It \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><pri><p1><pl>$	. We \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><pri><p1><sg>$	. I \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><pri><p2><pl>$	. You \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><pri><p2><sg>$	. You \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><inf>$	. \@Concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><ifi><p3><pl>$	. They \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><pis><p3><pl>$	. They \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><cni><p3><pl>$	. They would \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><pri><p3><pl>$	. They \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><fti><p3><pl>$	. They will \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><pii><p3><pl>$	. They \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><prs><p3><pl>$	. They \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><inf>$	. \@Concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><ifi><p1><sg>$	. I \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><pii><p2><pl>$	. You \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><ifi><p2><pl>$	. You \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><pii><p2><sg>$	. You \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><ifi><p2><sg>$	. You \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><ifi><p3><pl>$	. They \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><cni><p1><pl>$	. We would \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><ifi><p3><sg>$	. It \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><prs><p3><pl>$	. They \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><cni><p1><sg>$	. I would \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><imp><p1><pl>$	. \@Concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><prs><p3><sg>$	. It \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><cni><p2><pl>$	. You would \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><cni><p2><sg>$	. You would \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><pri><p3><pl>$	. They \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><cni><p3><pl>$	. They would \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><pp><f><pl>$	. \@Concertare\<vblex\>\<pp\>
-^.<sent>$ ^concertare<vblex><cni><p3><sg>$	. It would \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><pri><p3><sg>$	. It \@concertare\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^concertare<vblex><fti><p1><pl>$	. We will \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><pp><m><pl>$	. \@Concertare\<vblex\>\<pp\>
-^.<sent>$ ^concertare<vblex><pp><f><sg>$	. \@Concertare\<vblex\>\<pp\>
-^.<sent>$ ^concertare<vblex><pp><m><sg>$	. \@Concertare\<vblex\>\<pp\>
-^.<sent>$ ^concertare<vblex><pis><p1><pl>$	. We \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><fti><p1><sg>$	. I will \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><pis><p1><sg>$	. I \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><fti><p2><pl>$	. You will \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><pis><p2><pl>$	. You \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><fti><p2><sg>$	. You will \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><pis><p2><sg>$	. You \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><fti><p3><pl>$	. They will \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><fti><p3><sg>$	. It will \@concertare\<vblex\>\<inf\>
-^.<sent>$ ^concertare<vblex><pii><p1><pl>$	. We \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><ifi><p1><pl>$	. We \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><pii><p1><sg>$	. I \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><pis><p3><pl>$	. They \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><imp><p2><pl>$	. \@Concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><pis><p3><sg>$	. It \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><imp><p3><pl>$	. \@Concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><imp><p3><sg>$	. \@Concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><imp><p2><sg>$	. \@Concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><prs><p1><pl>$	. We \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><prs><p1><sg>$	. I \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><prs><p2><pl>$	. You \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><prs><p2><sg>$	. You \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><pii><p3><pl>$	. They \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><ger>$	. \@Concertare\<vblex\>\<ger\>
-^.<sent>$ ^concertare<vblex><pii><p3><sg>$	. It \@concertare\<vblex\>\<past\>
-^.<sent>$ ^concertare<vblex><pri><p1><pl>$	. We \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><pri><p1><sg>$	. I \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><pri><p2><pl>$	. You \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><pri><p2><sg>$	. You \@concertare\<vblex\>\<pres\>
-^.<sent>$ ^concertare<vblex><inf>$	. \@Concertare\<vblex\>\<inf\>
 ^.<sent>$ ^confluire<vblex><ifi><p1><sg>$	. I \@confluire\<vblex\>\<past\>
 ^.<sent>$ ^confluire<vblex><pii><p2><pl>$	. You \@confluire\<vblex\>\<past\>
 ^.<sent>$ ^confluire<vblex><ifi><p2><pl>$	. You \@confluire\<vblex\>\<past\>
@@ -4134,116 +3915,6 @@
 ^.<sent>$ ^confluire<vblex><pri><p2><pl>$	. You \@confluire\<vblex\>\<pres\>
 ^.<sent>$ ^confluire<vblex><pri><p2><sg>$	. You \@confluire\<vblex\>\<pres\>
 ^.<sent>$ ^confluire<vblex><inf>$	. \@Confluire\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><ifi><p1><sg>$	. I \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><pii><p2><pl>$	. You \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><ifi><p2><pl>$	. You \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><pii><p2><sg>$	. You \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><ifi><p2><sg>$	. You \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><ifi><p3><pl>$	. They \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><cni><p1><pl>$	. We would \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><ifi><p3><sg>$	. It \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><prs><p3><pl>$	. They \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><cni><p1><sg>$	. I would \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><imp><p1><pl>$	. \@Contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><prs><p3><sg>$	. It \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><cni><p2><pl>$	. You would \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><cni><p2><sg>$	. You would \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><pri><p3><pl>$	. They \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><cni><p3><pl>$	. They would \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><pp><f><pl>$	. \@Contendere\<vblex\>\<pp\>
-^.<sent>$ ^contendere<vblex><cni><p3><sg>$	. It would \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><pri><p3><sg>$	. It \@contendere\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^contendere<vblex><fti><p1><pl>$	. We will \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><pp><m><pl>$	. \@Contendere\<vblex\>\<pp\>
-^.<sent>$ ^contendere<vblex><pp><f><sg>$	. \@Contendere\<vblex\>\<pp\>
-^.<sent>$ ^contendere<vblex><pp><m><sg>$	. \@Contendere\<vblex\>\<pp\>
-^.<sent>$ ^contendere<vblex><pis><p1><pl>$	. We \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><fti><p1><sg>$	. I will \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><pis><p1><sg>$	. I \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><fti><p2><pl>$	. You will \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><pis><p2><pl>$	. You \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><fti><p2><sg>$	. You will \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><pis><p2><sg>$	. You \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><fti><p3><pl>$	. They will \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><fti><p3><sg>$	. It will \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><pii><p1><pl>$	. We \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><ifi><p1><pl>$	. We \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><pii><p1><sg>$	. I \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><pis><p3><pl>$	. They \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><imp><p2><pl>$	. \@Contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><pis><p3><sg>$	. It \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><imp><p2><sg>$	. \@Contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><prs><p1><pl>$	. We \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><prs><p1><sg>$	. I \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><prs><p2><pl>$	. You \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><prs><p2><sg>$	. You \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><pii><p3><pl>$	. They \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><ger>$	. \@Contendere\<vblex\>\<ger\>
-^.<sent>$ ^contendere<vblex><pii><p3><sg>$	. It \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><pri><p1><pl>$	. We \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><pri><p1><sg>$	. I \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><pri><p2><pl>$	. You \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><pri><p2><sg>$	. You \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><inf>$	. \@Contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><ifi><p3><pl>$	. They \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><pis><p3><pl>$	. They \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><cni><p3><pl>$	. They would \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><fti><p3><pl>$	. They will \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><pii><p3><pl>$	. They \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><prs><p3><pl>$	. They \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><inf>$	. \@Contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><pri><p3><pl>$	. They \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><ifi><p1><sg>$	. I \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><pii><p2><pl>$	. You \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><ifi><p2><pl>$	. You \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><pii><p2><sg>$	. You \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><ifi><p2><sg>$	. You \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><ifi><p3><pl>$	. They \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><cni><p1><pl>$	. We would \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><ifi><p3><sg>$	. It \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><prs><p3><pl>$	. They \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><cni><p1><sg>$	. I would \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><imp><p1><pl>$	. \@Contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><prs><p3><sg>$	. It \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><cni><p2><pl>$	. You would \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><cni><p2><sg>$	. You would \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><pri><p3><pl>$	. They \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><cni><p3><pl>$	. They would \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><pp><f><pl>$	. \@Contendere\<vblex\>\<pp\>
-^.<sent>$ ^contendere<vblex><cni><p3><sg>$	. It would \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><pri><p3><sg>$	. It \@contendere\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^contendere<vblex><fti><p1><pl>$	. We will \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><pp><m><pl>$	. \@Contendere\<vblex\>\<pp\>
-^.<sent>$ ^contendere<vblex><pp><f><sg>$	. \@Contendere\<vblex\>\<pp\>
-^.<sent>$ ^contendere<vblex><pp><m><sg>$	. \@Contendere\<vblex\>\<pp\>
-^.<sent>$ ^contendere<vblex><pis><p1><pl>$	. We \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><fti><p1><sg>$	. I will \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><pis><p1><sg>$	. I \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><fti><p2><pl>$	. You will \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><pis><p2><pl>$	. You \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><fti><p2><sg>$	. You will \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><pis><p2><sg>$	. You \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><fti><p3><pl>$	. They will \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><fti><p3><sg>$	. It will \@contendere\<vblex\>\<inf\>
-^.<sent>$ ^contendere<vblex><pii><p1><pl>$	. We \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><ifi><p1><pl>$	. We \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><pii><p1><sg>$	. I \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><pis><p3><pl>$	. They \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><imp><p2><pl>$	. \@Contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><pis><p3><sg>$	. It \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><imp><p2><sg>$	. \@Contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><prs><p1><pl>$	. We \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><prs><p1><sg>$	. I \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><prs><p2><pl>$	. You \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><prs><p2><sg>$	. You \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><pii><p3><pl>$	. They \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><ger>$	. \@Contendere\<vblex\>\<ger\>
-^.<sent>$ ^contendere<vblex><pii><p3><sg>$	. It \@contendere\<vblex\>\<past\>
-^.<sent>$ ^contendere<vblex><pri><p1><pl>$	. We \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><pri><p1><sg>$	. I \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><pri><p2><pl>$	. You \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><pri><p2><sg>$	. You \@contendere\<vblex\>\<pres\>
-^.<sent>$ ^contendere<vblex><inf>$	. \@Contendere\<vblex\>\<inf\>
 ^.<sent>$ ^deporre<vblex><ifi><p1><sg>$	. I \@deporre\<vblex\>\<past\>
 ^.<sent>$ ^deporre<vblex><pii><p2><pl>$	. You \@deporre\<vblex\>\<past\>
 ^.<sent>$ ^deporre<vblex><ifi><p2><pl>$	. You \@deporre\<vblex\>\<past\>
@@ -10240,116 +9911,6 @@
 ^.<sent>$ ^scamiciare<vblex><pri><p3><pl>$	. They \@scamiciare\<vblex\>\<pres\>
 ^.<sent>$ ^scamiciare<vblex><pp><m><sg>$	. \@Scamiciare\<vblex\>\<pp\>
 ^.<sent>$ ^scamiciare<vblex><pri><p3><sg>$	. It \@scamiciare\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^scendere<vblex><ifi><p1><sg>$	. I #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><pii><p2><pl>$	. You #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><ifi><p2><pl>$	. You #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><pii><p2><sg>$	. You #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><ifi><p2><sg>$	. You #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><ifi><p3><pl>$	. They #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><cni><p1><pl>$	. We would #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><ifi><p3><sg>$	. It #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><prs><p3><pl>$	. They #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><cni><p1><sg>$	. I would #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><imp><p1><pl>$	. #Drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><prs><p3><sg>$	. It #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><cni><p2><pl>$	. You would #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><cni><p2><sg>$	. You would #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><pri><p3><pl>$	. They #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><cni><p3><pl>$	. They would #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><pp><f><pl>$	. #Drop\<vblex\>\<pp\># down
-^.<sent>$ ^scendere<vblex><cni><p3><sg>$	. It would #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><pri><p3><sg>$	. It #drop\<vblex\>\<sep\>\<pri\>\<p3\>\<sg\># down
-^.<sent>$ ^scendere<vblex><fti><p1><pl>$	. We will #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><pp><m><pl>$	. #Drop\<vblex\>\<pp\># down
-^.<sent>$ ^scendere<vblex><pp><f><sg>$	. #Drop\<vblex\>\<pp\># down
-^.<sent>$ ^scendere<vblex><pp><m><sg>$	. #Drop\<vblex\>\<pp\># down
-^.<sent>$ ^scendere<vblex><pis><p1><pl>$	. We #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><fti><p1><sg>$	. I will #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><pis><p1><sg>$	. I #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><fti><p2><pl>$	. You will #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><pis><p2><pl>$	. You #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><fti><p2><sg>$	. You will #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><pis><p2><sg>$	. You #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><fti><p3><pl>$	. They will #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><fti><p3><sg>$	. It will #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><pii><p1><pl>$	. We #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><ifi><p1><pl>$	. We #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><pii><p1><sg>$	. I #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><pis><p3><pl>$	. They #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><imp><p2><pl>$	. #Drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><pis><p3><sg>$	. It #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><imp><p2><sg>$	. #Drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><prs><p1><pl>$	. We #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><prs><p1><sg>$	. I #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><prs><p2><pl>$	. You #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><prs><p2><sg>$	. You #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><pii><p3><pl>$	. They #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><ger>$	. #Drop\<vblex\>\<sep\>\<ger\># down
-^.<sent>$ ^scendere<vblex><pii><p3><sg>$	. It #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><pri><p1><pl>$	. We #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><pri><p1><sg>$	. I #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><pri><p2><pl>$	. You #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><pri><p2><sg>$	. You #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><inf>$	. #Drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><ifi><p3><pl>$	. They #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><pis><p3><pl>$	. They #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><cni><p3><pl>$	. They would #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><fti><p3><pl>$	. They will #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><pii><p3><pl>$	. They #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><prs><p3><pl>$	. They #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><inf>$	. #Drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><pri><p3><pl>$	. They #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><ifi><p1><sg>$	. I #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><pii><p2><pl>$	. You #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><ifi><p2><pl>$	. You #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><pii><p2><sg>$	. You #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><ifi><p2><sg>$	. You #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><ifi><p3><pl>$	. They #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><cni><p1><pl>$	. We would #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><ifi><p3><sg>$	. It #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><prs><p3><pl>$	. They #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><cni><p1><sg>$	. I would #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><imp><p1><pl>$	. #Drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><prs><p3><sg>$	. It #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><cni><p2><pl>$	. You would #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><cni><p2><sg>$	. You would #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><pri><p3><pl>$	. They #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><cni><p3><pl>$	. They would #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><pp><f><pl>$	. #Drop\<vblex\>\<pp\># down
-^.<sent>$ ^scendere<vblex><cni><p3><sg>$	. It would #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><pri><p3><sg>$	. It #drop\<vblex\>\<sep\>\<pri\>\<p3\>\<sg\># down
-^.<sent>$ ^scendere<vblex><fti><p1><pl>$	. We will #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><pp><m><pl>$	. #Drop\<vblex\>\<pp\># down
-^.<sent>$ ^scendere<vblex><pp><f><sg>$	. #Drop\<vblex\>\<pp\># down
-^.<sent>$ ^scendere<vblex><pp><m><sg>$	. #Drop\<vblex\>\<pp\># down
-^.<sent>$ ^scendere<vblex><pis><p1><pl>$	. We #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><fti><p1><sg>$	. I will #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><pis><p1><sg>$	. I #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><fti><p2><pl>$	. You will #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><pis><p2><pl>$	. You #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><fti><p2><sg>$	. You will #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><pis><p2><sg>$	. You #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><fti><p3><pl>$	. They will #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><fti><p3><sg>$	. It will #drop\<vblex\>\<sep\>\<inf\># down
-^.<sent>$ ^scendere<vblex><pii><p1><pl>$	. We #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><ifi><p1><pl>$	. We #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><pii><p1><sg>$	. I #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><pis><p3><pl>$	. They #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><imp><p2><pl>$	. #Drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><pis><p3><sg>$	. It #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><imp><p2><sg>$	. #Drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><prs><p1><pl>$	. We #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><prs><p1><sg>$	. I #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><prs><p2><pl>$	. You #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><prs><p2><sg>$	. You #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><pii><p3><pl>$	. They #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><ger>$	. #Drop\<vblex\>\<sep\>\<ger\># down
-^.<sent>$ ^scendere<vblex><pii><p3><sg>$	. It #drop\<vblex\>\<sep\>\<past\># down
-^.<sent>$ ^scendere<vblex><pri><p1><pl>$	. We #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><pri><p1><sg>$	. I #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><pri><p2><pl>$	. You #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><pri><p2><sg>$	. You #drop\<vblex\>\<sep\>\<pres\># down
-^.<sent>$ ^scendere<vblex><inf>$	. #Drop\<vblex\>\<sep\>\<inf\># down
 ^.<sent>$ ^scoprire<vblex><ifi><p1><sg>$	. I #unveil\<vblex\>\<past\># out
 ^.<sent>$ ^scoprire<vblex><pii><p2><pl>$	. You #unveil\<vblex\>\<past\># out
 ^.<sent>$ ^scoprire<vblex><ifi><p2><pl>$	. You #unveil\<vblex\>\<past\># out
@@ -14706,8 +14267,15 @@
 ^.<sent>$ ^intenzionalmente<adv>$	. \@Intenzionalmente\<adv\>
 ^.<sent>$ ^Abdul-Hamid<np><ant><m><sg>$	. #Abdul Hamid\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Ignazio di Antiochia<np><ant><m><sg>$	. #Ignatius of Antioch\<np\>\<ant\>\<m\>\<sg\>\/Theophorus\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Orazio<np><ant><m><sg>$	. #Horace\<np\>\<ant\>\<m\>\<sg\>\/Horacio\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Orazio<np><ant><m><sg>$	. #Horace\<np\>\<ant\>\<m\>\<sg\>\/Horacio\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Orazio<np><ant><m><sg>$	. #Orazio\<np\>\<ant\>\<m\>\<sg\>\/Horace\<np\>\<ant\>\<m\>\<sg\>\/Horacio\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Mosè<np><ant><m><sg>$	. #Mosè\<np\>\<ant\>\<m\>\<sg\>\/Moses\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Sansone<np><ant><m><sg>$	. #Sansone\<np\>\<ant\>\<m\>\<sg\>\/Samson\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Achille<np><ant><m><sg>$	. #Achille\<np\>\<ant\>\<m\>\<sg\>\/Achilles\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Ercole<np><ant><m><sg>$	. #Ercole\<np\>\<ant\>\<m\>\<sg\>\/Hercules\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Orazio<np><ant><m><sg>$	. #Orazio\<np\>\<ant\>\<m\>\<sg\>\/Horace\<np\>\<ant\>\<m\>\<sg\>\/Horacio\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Napoleone<np><ant><m><sg>$	. #Napoleone\<np\>\<ant\>\<m\>\<sg\>\/Napoleon\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Plinio<np><ant><m><sg>$	. #Plinio\<np\>\<ant\>\<m\>\<sg\>\/Pliny\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Ifigenia<np><ant><f><sg>$	. #Ifigenia\<np\>\<ant\>\<f\>\<sg\>\/Iphigenia\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Ignazio di Antiochia<np><ant><m><sg>$	. #Ignatius of Antioch\<np\>\<ant\>\<m\>\<sg\>\/Theophorus\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^a<pr>$ ^il<det><def><mf><sg>$	. #At\<pr\>\/to\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\> the
 ^.<sent>$ ^da<pr>$	. #From\<pr\>\/since\<pr\>
