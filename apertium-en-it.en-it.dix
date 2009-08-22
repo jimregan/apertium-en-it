@@ -6484,41 +6484,95 @@
     <e r="LR"><p><l>which<s n="det"/><s n="itg"/><s n="sp"/></l><r>quale<s n="adj"/><s n="itg"/><s n="mf"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>which<s n="det"/><s n="itg"/><s n="sp"/></l><r>quale<s n="adj"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>which<s n="det"/><s n="itg"/><s n="sp"/></l><r>quale<s n="adj"/><s n="itg"/><s n="mf"/><s n="pl"/></r></p></e>
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e r="RL">
-      <p>
-        <l>a<s n="det"/><s n="ind"/></l> 
-        <r>un<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r> 
-      </p>
-    </e>
-    <e r="RL">
-      <p>
-        <l>a<s n="det"/><s n="ind"/></l> 
-        <r>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r> 
-      </p>
-    </e>
-
-    <e r="LR">
-      <p>
-        <l>a<s n="det"/><s n="ind"/><s n="sg"/></l> 
-        <r>un<s n="det"/><s n="ind"/><s n="GD"/><s n="sg"/></r> 
-      </p>
-    </e>
-
-    <e r="RL">
-      <p>
-        <l>a<s n="det"/><s n="ind"/><s n="sg"/></l> 
-        <r>un<s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-3
-    -->
+    <e r="LR"><p><l>a<s n="det"/><s n="ind"/></l><r>un<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>some<s n="det"/><s n="qnt"/><s n="pl"/></l><r>un<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>some<s n="det"/><s n="qnt"/><s n="pl"/></l><r>un<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>another<s n="det"/><s n="ind"/></l><r>un<b/>altro<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>another<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<b/>altro<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>another<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<b/>altro<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>other<s n="det"/><s n="ind"/><s n="pl"/></l><r>altro<s n="adj"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>other<s n="det"/><s n="ind"/><s n="pl"/></l><r>altro<s n="adj"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>first<s n="det"/><s n="ord"/><s n="sp"/></l><r>prime<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>first<s n="det"/></l><r>prime<s n="det"/></r></p></e>
+    <e r="LR"><p><l>last<s n="det"/><s n="ord"/><s n="sp"/></l><r>ultimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>last<s n="det"/></l><r>ultimo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>second<s n="det"/><s n="ord"/><s n="sp"/></l><r>secondo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>second<s n="det"/></l><r>secondo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>third<s n="det"/><s n="ord"/><s n="sp"/></l><r>terza<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>third<s n="det"/></l><r>terza<s n="det"/></r></p></e>
+    <e r="LR"><p><l>fourth<s n="det"/><s n="ord"/><s n="sp"/></l><r>quarto<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>fourth<s n="det"/></l><r>quarto<s n="det"/></r></p></e>
+    <e r="LR"><p><l>fifth<s n="det"/><s n="ord"/><s n="sp"/></l><r>quinto<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>fifth<s n="det"/></l><r>quinto<s n="det"/></r></p></e>
+    <e r="LR"><p><l>sixth<s n="det"/><s n="ord"/><s n="sp"/></l><r>sesto<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>sixth<s n="det"/></l><r>sesto<s n="det"/></r></p></e>
+    <e r="LR"><p><l>seventh<s n="det"/><s n="ord"/><s n="sp"/></l><r>settimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>seventh<s n="det"/></l><r>settimo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>eighth<s n="det"/><s n="ord"/><s n="sp"/></l><r>ottavo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eighth<s n="det"/></l><r>ottavo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>ninth<s n="det"/><s n="ord"/><s n="sp"/></l><r>nono<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ninth<s n="det"/></l><r>nono<s n="det"/></r></p></e>
+    <e r="LR"><p><l>tenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>decimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>tenth<s n="det"/></l><r>decimo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>eleventh<s n="det"/><s n="ord"/><s n="sp"/></l><r>undicesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eleventh<s n="det"/></l><r>undicesimo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>twelfth<s n="det"/><s n="ord"/><s n="sp"/></l><r>dodicesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>twelfth<s n="det"/></l><r>dodicesimo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>thirteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>tredicesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>thirteenth<s n="det"/></l><r>tredicesimo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>fourteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>quattordicesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>fourteenth<s n="det"/></l><r>quattordicesimo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>fifteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>quindicesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>fifteenth<s n="det"/></l><r>quindicesimo<s n="det"/></r></p></e>    
+    <e r="LR"><p><l>sixteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>sedicesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>sixteenth<s n="det"/></l><r>sedicesimo<s n="det"/></r></p></e>    
+    <e r="LR"><p><l>seventeenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>diciassettesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>seventeenth<s n="det"/></l><r>diciassettesimo<s n="det"/></r></p></e>    
+    <e r="LR"><p><l>eighteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>diciottesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eighteenth<s n="det"/></l><r>diciottesimo<s n="det"/></r></p></e>    
+    <e r="LR"><p><l>nineteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>diciannovesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>nineteenth<s n="det"/></l><r>diciannovesimo<s n="det"/></r></p></e>    
+    <e r="LR"><p><l>twentieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>ventesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>twentieth<s n="det"/></l><r>ventesimo<s n="det"/></r></p></e>    
+    <e r="LR"><p><l>thirtieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>trentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>thirtieth<s n="det"/></l><r>trentesimo<s n="det"/></r></p></e>    
+    <e r="LR"><p><l>fortieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>quarantesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>fortieth<s n="det"/></l><r>quarantesimo<s n="det"/></r></p></e>    
+    <e r="LR"><p><l>fiftieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>cinquantesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>fiftieth<s n="det"/></l><r>cinquantesimo<s n="det"/></r></p></e>    
+    <e r="LR"><p><l>sixtieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>sessantesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>sixtieth<s n="det"/></l><r>sessantesimo<s n="det"/></r></p></e>    
+    <e r="LR"><p><l>seventieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>settantesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>seventieth<s n="det"/></l><r>settantesimo<s n="det"/></r></p></e>    
+    <e r="LR"><p><l>eightieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>ottantesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eightieth<s n="det"/></l><r>ottantesimo<s n="det"/></r></p></e>    
+    <e r="LR"><p><l>ninetieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>novantesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ninetieth<s n="det"/></l><r>novantesimo<s n="det"/></r></p></e>    
+    <e r="LR"><p><l>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>centesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hundredth<s n="det"/></l><r>centesimo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>one<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>centesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>two<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>duecentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>two<b/>hundredth<s n="det"/></l><r>duecentesimo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>three<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>trecentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>three<b/>hundredth<s n="det"/></l><r>trecentesimo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>four<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>quattrecentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>four<b/>hundredth<s n="det"/></l><r>quattrecentesimo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>five<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>cinquecentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>five<b/>hundredth<s n="det"/></l><r>cinquecentesimo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>six<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>seicentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>six<b/>hundredth<s n="det"/></l><r>seicentesimo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>seven<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>settecentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>seven<b/>hundredth<s n="det"/></l><r>settecentesimo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>eight<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>ottocentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eight<b/>hundredth<s n="det"/></l><r>ottocentesimo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>nine<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>novecentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>nine<b/>hundredth<s n="det"/></l><r>novecentesimo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>thousandth<s n="det"/><s n="ord"/><s n="sp"/></l><r>millesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>thousandth<s n="det"/></l><r>millesimo<s n="det"/></r></p></e>    
+    <e r="LR"><p><l>millionth<s n="det"/><s n="ord"/><s n="sp"/></l><r>milionesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>millionth<s n="det"/></l><r>milionesimo<s n="det"/></r></p></e>
     <e>
       <p>
         <l>a<b/>bit<s n="adv"/></l> 
@@ -11234,39 +11288,6 @@
     -->
     <e>
       <p>
-        <l>another<s n="det"/><s n="ind"/></l> 
-        <r>un<b/>altro<s n="det"/><s n="ind"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>another<s n="det"/><s n="ind"/><s n="sg"/></l> 
-        <r>un<b/>altro<s n="det"/><s n="ind"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>another<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></l> 
-        <r>altro<s n="prn"/><s n="tn"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
         <l>another<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></l> 
         <r>altro<s n="prn"/><s n="tn"/></r> 
       </p>
@@ -11300,7 +11321,7 @@
     -->
     <e>
       <p>
-        <l>answer<s n="vblex"/></l> 
+        <l>respond<s n="vblex"/></l> 
         <r>rispondere<s n="vblex"/></r> 
       </p>
     </e>
@@ -78085,39 +78106,6 @@
 	forced 'null' restriction
       default
     -->
-    <e>
-      <p>
-        <l>some<s n="det"/><s n="qnt"/><s n="pl"/></l> 
-        <r>un<s n="det"/><s n="ind"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>some<s n="det"/><s n="qnt"/><s n="pl"/></l> 
-        <r>un<s n="det"/><s n="ind"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>some<s n="det"/><s n="qnt"/><s n="pl"/></l> 
-        <r>un<s n="det"/><s n="ind"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
     <e c="frases afirmatives">
       <p>
         <l>some<s n="det"/><s n="qnt"/><s n="sp"/></l> 
@@ -89972,7 +89960,7 @@
     <e c="Per ara tot serà sg en català, però mirar després frases del tipus: 'what are your fauvorite dishes'-quins són... Però: 'What are fractals'- què son...">
       <p>
         <l>what<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></l> 
-        <r>che<s n="prn"/></r> 
+        <r>che<s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -90046,7 +90034,7 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>wheel<s n="n"/></l> 
         <r>volante<s n="n"/><s n="m"/></r> 
@@ -91360,17 +91348,6 @@
 
     <!-- 
 	forced 'RL' restriction
-      ND-69
-    -->
-    <e r="RL" c="per ara de en-ca es genera només 'el vostre'">
-      <p>
-        <l>your<s n="det"/></l> 
-        <r>il<b/>tuo<s n="det"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'RL' restriction
       ND2-17
     -->
     <e r="RL" c="per ara de en-ca es genera només 'el vostre'">
@@ -91379,22 +91356,19 @@
         <r>il<b/>tuo<s n="det"/><s n="pos"/><s n="f"/></r> 
       </p>
     </e>
-
-    <!-- 
-	forced 'RL' restriction
-      ND-69
-    -->
     <e r="RL" c="per ara de en-ca es genera només 'el vostre'">
       <p>
-        <l>your<s n="det"/></l> 
-        <r>tuo<s n="det"/></r> 
+        <l>your<s n="det"/><s n="pos"/><s n="mf"/></l> 
+        <r>il<b/>tuo<s n="det"/><s n="pos"/><s n="m"/></r> 
+      </p>
+    </e>
+    <e r="LR" c="per ara de en-ca es genera només 'el vostre'">
+      <p>
+        <l>your<s n="det"/><s n="pos"/><s n="mf"/></l> 
+        <r>il<b/>tuo<s n="det"/><s n="pos"/><s n="GD"/></r> 
       </p>
     </e>
 
-    <!-- 
-	forced 'RL' restriction
-      ND2-17
-    -->
     <e r="RL" c="per ara de en-ca es genera només 'el vostre'">
       <p>
         <l>your<s n="det"/><s n="pos"/><s n="mf"/></l> 
@@ -91406,31 +91380,15 @@
 	forced 'null' restriction
       default
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>your<s n="det"/><s n="pos"/><s n="sp"/></l> 
         <r>il<b/>vostro<s n="det"/><s n="pos"/></r> 
       </p>
     </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
+    <e r="RL">
       <p>
-        <l>your<s n="det"/></l> 
-        <r>il<b/>vostro<s n="det"/><s n="pos"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>your<s n="det"/></l> 
+        <l>your<s n="det"/><s n="pos"/><s n="sp"/></l> 
         <r>vostro<s n="det"/><s n="pos"/></r> 
       </p>
     </e>
