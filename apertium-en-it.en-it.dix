@@ -2931,17 +2931,6 @@
     -->
     <e>
       <p>
-        <l>Horacio<s n="np"/><s n="ant"/></l> 
-        <r>Orazio<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-7
-    -->
-    <e>
-      <p>
         <l>Hugo<s n="np"/><s n="ant"/></l> 
         <r>Hugo<s n="np"/><s n="ant"/></r> 
       </p>
@@ -102047,8 +102036,7 @@
     <e><i>Salbatore<s n="np"/><s n="ant"/></i></e>
     <e><i>Unai<s n="np"/><s n="ant"/></i></e>
     <e><i>Xabier<s n="np"/><s n="ant"/></i></e>
-    <e><i>Theophorus<s n="np"/><s n="ant"/></i></e>
-    <e><i>Saint<b/>Irenaeus<s n="np"/><s n="ant"/></i></e>
+    <e><p><l>Saint<b/>Irenaeus<s n="np"/><s n="ant"/></l><r>Sant'Ireneo<s n="np"/><s n="ant"/></r></p></e>
     <e><i>Dracula<s n="np"/><s n="ant"/></i></e>
     <e><i>J.<b/>M.<b/>Bischoff<s n="np"/><s n="ant"/></i></e>
     <e><i>Hashimoto<b/>Tetsuya<s n="np"/><s n="ant"/></i></e>
@@ -102095,5 +102083,18 @@
     <e><i>Linus<s n="np"/><s n="ant"/></i></e>
     <e><i>Gottfried<s n="np"/><s n="ant"/></i></e>
     <e><i>Delano<s n="np"/><s n="ant"/></i></e>
+    <e r="LR"><i>Abdul-Hamid<s n="np"/><s n="ant"/></i></e>
+    <e r="LR"><i>Achille<s n="np"/><s n="ant"/></i></e>
+    <e r="LR"><i>El<b/>Greco<s n="np"/><s n="ant"/></i></e>
+    <e r="LR"><i>Ercole<s n="np"/><s n="ant"/></i></e>
+    <e r="LR"><i>Ifigenia<s n="np"/><s n="ant"/></i></e>
+    <e r="LR"><i>Indiana<s n="np"/><s n="ant"/></i></e>
+    <e r="LR"><i>Kenya<s n="np"/><s n="ant"/></i></e>
+    <e r="LR"><i>Mosè<s n="np"/><s n="ant"/></i></e>
+    <e r="LR"><i>Napoleone<s n="np"/><s n="ant"/></i></e>
+    <e r="LR"><i>Orazio<s n="np"/><s n="ant"/></i></e>
+    <e r="LR"><i>Penelope<s n="np"/><s n="ant"/></i></e>
+    <e r="LR"><i>Plinio<s n="np"/><s n="ant"/></i></e>
+    <e r="LR"><i>Sansone<s n="np"/><s n="ant"/></i></e>
   </section>
 </dictionary>
