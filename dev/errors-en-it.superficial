@@ -27967,6 +27967,11 @@
 ^.<sent>$ ^Eritrea<np><loc><sg>$	. \@Eritrea\<np\>\<loc\>
 ^.<sent>$ ^Fiji<np><loc><sg>$	. \@Fiji\<np\>\<loc\>
 ^.<sent>$ ^Gabon<np><loc><sg>$	. \@Gabon\<np\>\<loc\>
+^.<sent>$ ^Galician<n><sg>$	. #Galiziano\<n\>
+^.<sent>$ ^Galician<n><pl>$	. #Galiziano\<n\>
+^.<sent>$ ^Galician<n><pl>$ ^'s<gen>$	. #Galiziano\<n\> 
+^.<sent>$ ^Galician<n><sg>$	. #Galiziano\<n\>
+^.<sent>$ ^Galician<n><pl>$	. #Galiziano\<n\>
 ^.<sent>$ ^Gambia<np><loc><sg>$	. \@Gambia\<np\>\<loc\>
 ^.<sent>$ ^Greenland<np><loc><sg>$	. \@Greenland\<np\>\<loc\>
 ^.<sent>$ ^Guyana<np><loc><sg>$	. \@Guyana\<np\>\<loc\>
@@ -48124,6 +48129,48 @@
 ^.<sent>$ ^very carefully<adv>$	. #Con molta cura\<adv\>\/con molta attenzione\<adv\>
 ^.<sent>$ ^right now<adv>$	. #Proprio ora\<adv\>
 ^.<sent>$ ^right now<adv>$	. #Proprio ora\<adv\>
+^.<sent>$ ^castilian<n><sg>$	. \@Castilian\<n\>
+^.<sent>$ ^castilian<n><pl>$	. \@Castilian\<n\>
+^.<sent>$ ^castilian<n><pl>$ ^'s<gen>$	. \@Castilian\<n\> 
+^.<sent>$ ^castilian<n><sg>$	. \@Castilian\<n\>
+^.<sent>$ ^castilian<n><pl>$	. \@Castilian\<n\>
+^.<sent>$ ^kurd<n><sg>$	. \@Kurd\<n\>
+^.<sent>$ ^kurd<n><pl>$	. \@Kurd\<n\>
+^.<sent>$ ^kurd<n><pl>$ ^'s<gen>$	. \@Kurd\<n\> 
+^.<sent>$ ^kurd<n><sg>$	. \@Kurd\<n\>
+^.<sent>$ ^kurd<n><pl>$	. \@Kurd\<n\>
+^.<sent>$ ^iranian<n><sg>$	. \@Iranian\<n\>
+^.<sent>$ ^iranian<n><pl>$	. \@Iranian\<n\>
+^.<sent>$ ^iranian<n><pl>$ ^'s<gen>$	. \@Iranian\<n\> 
+^.<sent>$ ^iranian<n><sg>$	. \@Iranian\<n\>
+^.<sent>$ ^iranian<n><pl>$	. \@Iranian\<n\>
+^.<sent>$ ^martian<n><sg>$	. \@Martian\<n\>
+^.<sent>$ ^martian<n><pl>$	. \@Martian\<n\>
+^.<sent>$ ^martian<n><pl>$ ^'s<gen>$	. \@Martian\<n\> 
+^.<sent>$ ^martian<n><sg>$	. \@Martian\<n\>
+^.<sent>$ ^martian<n><pl>$	. \@Martian\<n\>
+^.<sent>$ ^moldavian<n><sg>$	. \@Moldavian\<n\>
+^.<sent>$ ^moldavian<n><pl>$	. \@Moldavian\<n\>
+^.<sent>$ ^moldavian<n><pl>$ ^'s<gen>$	. \@Moldavian\<n\> 
+^.<sent>$ ^moldavian<n><sg>$	. \@Moldavian\<n\>
+^.<sent>$ ^moldavian<n><pl>$	. \@Moldavian\<n\>
+^.<sent>$ ^pakistani<n><sg>$	. \@Pakistani\<n\>
+^.<sent>$ ^pakistani<n><pl>$	. \@Pakistani\<n\>
+^.<sent>$ ^pakistani<n><pl>$ ^'s<gen>$	. \@Pakistani\<n\> 
+^.<sent>$ ^pakistani<n><sg>$	. \@Pakistani\<n\>
+^.<sent>$ ^pakistani<n><pl>$	. \@Pakistani\<n\>
+^.<sent>$ ^Christianisation<n><pl>$ ^'s<gen>$	. \@Christianisation\<n\> 
+^.<sent>$ ^Christianisation<n><sg>$	. \@Christianisation\<n\>
+^.<sent>$ ^Christianisation<n><pl>$	. \@Christianisation\<n\>
+^.<sent>$ ^Christianisation<n><pl>$ ^'s<gen>$	. \@Christianisation\<n\> 
+^.<sent>$ ^Christianisation<n><sg>$	. \@Christianisation\<n\>
+^.<sent>$ ^Christianisation<n><pl>$	. \@Christianisation\<n\>
+^.<sent>$ ^romanisation<n><pl>$ ^'s<gen>$	. \@Romanisation\<n\> 
+^.<sent>$ ^romanisation<n><sg>$	. \@Romanisation\<n\>
+^.<sent>$ ^romanisation<n><pl>$	. \@Romanisation\<n\>
+^.<sent>$ ^romanisation<n><pl>$ ^'s<gen>$	. \@Romanisation\<n\> 
+^.<sent>$ ^romanisation<n><sg>$	. \@Romanisation\<n\>
+^.<sent>$ ^romanisation<n><pl>$	. \@Romanisation\<n\>
 ^.<sent>$ ^be# sorry<vblex><pri><p1><sg>$	. #Lo\<prn\>\<pro\>\<p3\>\<nt\> sento
 ^.<sent>$ ^be# sorry<vblex><pres>$	. #lo\<prn\>\<pro\>\<p3\>\<nt\> sente
 ^.<sent>$ ^be# sorry<vblex><pri><p3><sg>$	. #lo\<prn\>\<pro\>\<p3\>\<nt\> sente
@@ -48138,7 +48185,6 @@
 ALTRES ERRADES DE BILING‹E
 ==========================
 #\^.\<sent\> Algeria<np><loc><m>/Algeria<np><loc><f>$
-#\^.\<sent\> Americano<adj>/statunitense<adj>$
 #\^.\<sent\> Amsterdam<np><loc><m>/Amsterdam<np><loc><f>$
 #\^.\<sent\> Andorra<np><loc><m>/Andorra<np><loc><f>$
 #\^.\<sent\> Arabia<np><loc><m>/Arabia<np><loc><f>$
@@ -48159,8 +48205,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> Estremadura<np><loc><m>/Estremadura<np><loc><f>$
 #\^.\<sent\> Florida<np><loc><m>/Florida<np><loc><f>$
 #\^.\<sent\> Galizia<np><loc><m>/Galizia<np><loc><f>$
-#\^.\<sent\> galiziano<n><m>/galiziano<n><f>$
-#\^.\<sent\> galiziano<n><m>/galiziano<n><f>$
 #\^.\<sent\> Georgia<np><loc><m>/Georgia<np><loc><f>$
 #\^.\<sent\> Girona<np><loc><m>/Girona<np><loc><f>$
 #\^.\<sent\> Guatemala<np><loc><m>/Guatemala<np><loc><f>$
@@ -48177,8 +48221,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> Mar√≠a<np>/Mar√≠a<np><ant>$
 #\^.\<sent\> Melilla<np><loc><m>/Melilla<np><loc><f>$
 #\^.\<sent\> Miami<np><loc><m>/Miami<np><loc><f>$
-#\^.\<sent\> marocchino<n><m>/marocchino<n><f>$
-#\^.\<sent\> marocchino<n><m>/marocchino<n><f>$
 #\^.\<sent\> Mosca<np><loc><f>/Mosca<np><loc><m>$
 #\^.\<sent\> M√°laga<np><loc><m>/M√°laga<np><loc><f>$
 #\^.\<sent\> New York<np><loc><m>/New York<np><loc><f>$
@@ -48644,9 +48686,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> dubbio<n><m>/dubbio<n><f>$
 #\^.\<sent\> gi√π<adv>/abbasso<adv>$
 #\^.\<sent\> gi√π<adv>/abbasso<adv>$
-#\^.\<sent\> opera<n><f>/dramma<n><m>/teatro<n><m>$
-#\^.\<sent\> opera<n><f>/dramma<n><m>/teatro<n><m>$
-#\^.\<sent\> opera<n><f>/dramma<n><m>/teatro<n><m>$
 #\^.\<sent\> sonno<n><m>/sogno<n><m>$
 #\^.\<sent\> sonno<n><m>/sogno<n><m>$
 #\^.\<sent\> cadere<vblex>/liberare<vblex>/scendere<vblex>$
@@ -49764,8 +49803,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> turista<n><m>/turista<n><f>$
 #\^.\<sent\> marca<n><f>/marchio<n><m>$
 #\^.\<sent\> marca<n><f>/marchio<n><m>$
-#\^.\<sent\> dramma<n><m>/tragedia<n><f>$
-#\^.\<sent\> dramma<n><m>/tragedia<n><f>$
 #\^.\<sent\> educazione<n><f>/formazione<n><f>/allenamento<n><m>$
 #\^.\<sent\> educazione<n><f>/formazione<n><f>/allenamento<n><m>$
 #\^.\<sent\> bonifico<n><m>/trasferimento<n><m>$
@@ -49776,8 +49813,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> trattamento<n><m>/trattazione<n><f>$
 #\^.\<sent\> prova<n><f>/giudizio<n><m>$
 #\^.\<sent\> prova<n><f>/giudizio<n><m>$
-#\^.\<sent\> pantalone<n>/pantalone<n><m><sg>$
-#\^.\<sent\> pantalone<n>/pantalone<n><m><sg>$
 #\^.\<sent\> tunnel<n><m>/galleria<n><f>$
 #\^.\<sent\> tunnel<n><m>/galleria<n><f>$
 #\^.\<sent\> turno<n><m>/ritorno<n><m>$
