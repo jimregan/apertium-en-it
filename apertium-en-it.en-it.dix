@@ -7016,6 +7016,9 @@
       </p>
     </e>
 
+    <e r="LR"><p><l>which<s n="det"/><s n="itg"/><s n="sp"/></l><r>quale<s n="adj"/><s n="itg"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>which<s n="det"/><s n="itg"/><s n="sp"/></l><r>quale<s n="adj"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>which<s n="det"/><s n="itg"/><s n="sp"/></l><r>quale<s n="adj"/><s n="itg"/><s n="mf"/><s n="pl"/></r></p></e>
     <!-- 
 	forced 'null' restriction
       default
@@ -7086,7 +7089,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>a<b/>little<b/>bit<s n="adv"/></l> 
         <r>un<b/>pò<s n="adv"/></r> 
@@ -94552,6 +94555,21 @@
     <e><p><l>ponder<s n="vblex"/></l><r>ponderare<s n="vblex"/></r></p></e>
     <e><p><l>dismiss<s n="vblex"/></l><r>licenziare<s n="vblex"/></r></p></e>
     <e><p><l>like<s n="vblex"/></l><r>gustare<s n="vblex"/></r></p></e>
+    <e><p><l>beat<s n="vblex"/></l><r>picchiare<s n="vblex"/></r></p></e>
+    <e><p><l>bark<s n="vblex"/></l><r>abbaiare<s n="vblex"/></r></p></e>
+    <e><p><l>abet<s n="vblex"/></l><r>favoreggiare<s n="vblex"/></r></p></e>
+    <e><p><l>abjure<s n="vblex"/></l><r>abiurare<s n="vblex"/></r></p></e>
+    <e><p><l>absorb<s n="vblex"/></l><r>assorbire<s n="vblex"/></r></p></e>
+    <e><p><l>accustom<s n="vblex"/></l><r>abituare<s n="vblex"/></r></p></e>
+    <e><p><l>add<s n="vblex"/></l><r>aggiungere<s n="vblex"/></r></p></e>
+    <e><p><l>fuck<s n="vblex"/></l><r>scopare<s n="vblex"/></r></p></e>
+    <e><p><l>abandon<s n="vblex"/></l><r>lasciare<s n="vblex"/></r></p></e>
+    <e><p><l>abash<s n="vblex"/></l><r>sconcertare<s n="vblex"/></r></p></e>
+    <e><p><l>abhor<s n="vblex"/></l><r>aborrire<s n="vblex"/></r></p></e>
+    <e><p><l>alienate<s n="vblex"/></l><r>alienare<s n="vblex"/></r></p></e>
+    <e><p><l>alleviate<s n="vblex"/></l><r>alleviare<s n="vblex"/></r></p></e>
+    <e><p><l>alliterate<s n="vblex"/></l><r>allitterare<s n="vblex"/></r></p></e>
+    <e><p><l>assemble<s n="vblex"/></l><r>assemblare<s n="vblex"/></r></p></e>
     <e>  <p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
     <e>  <p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
     <e>  <p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
