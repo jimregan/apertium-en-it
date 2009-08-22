@@ -30317,6 +30317,12 @@
         <r>scoprire<s n="vblex"/></r> 
       </p>
     </e>
+    <e>
+      <p>
+        <l>intentionally<s n="adv"/></l> 
+        <r>intenzionalmente<s n="adv"/></r> 
+      </p>
+    </e>
 
     <!-- 
 	forced 'null' restriction
@@ -37731,7 +37737,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>find<g><b/>out</g><s n="vblex"/></l> 
         <r>scoprire<s n="vblex"/></r> 
@@ -87429,7 +87435,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>unveil<s n="vblex"/></l> 
         <r>scoprire<s n="vblex"/></r> 
@@ -93182,7 +93188,6 @@
     <e><p><l>safeguard<s n="vblex"/></l><r>salvaguardare<s n="vblex"/></r></p></e>
     <e><p><l>heal<s n="vblex"/></l><r>sanare<s n="vblex"/></r></p></e>
     <e><p><l>saturate<s n="vblex"/></l><r>saturare<s n="vblex"/></r></p></e>
-    <e><p><l>discover<s n="vblex"/></l><r>scoprire<s n="vblex"/></r></p></e>
     <e><p><l>excuse<s n="vblex"/></l><r>scusare<s n="vblex"/></r></p></e>
     <e><p><l>sit<s n="vblex"/></l><r>sedere<s n="vblex"/></r></p></e>
     <e><p><l>seem<s n="vblex"/></l><r>sembrare<s n="vblex"/></r></p></e>
