@@ -18977,14 +18977,6 @@
 ^.<sent>$ ^arm<vblex><ger>$	. \@Arm\<vblex\>\<ger\>
 ^.<sent>$ ^arm<vblex><pprs>$	. \@Arm\<vblex\>\<ger\>
 ^.<sent>$ ^arm<vblex><subs>$	. \@Arm\<vblex\>\<inf\>
-^.<sent>$ ^arrange<vblex><inf>$	. \@Arrange\<vblex\>\<inf\>
-^.<sent>$ ^arrange<vblex><pres>$	. \@Arrange\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^arrange<vblex><pri><p3><sg>$	. \@Arrange\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^arrange<vblex><past>$	. \@Arrange\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^arrange<vblex><pp>$	. \@Arrange\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^arrange<vblex><ger>$	. \@Arrange\<vblex\>\<ger\>
-^.<sent>$ ^arrange<vblex><pprs>$	. \@Arrange\<vblex\>\<ger\>
-^.<sent>$ ^arrange<vblex><subs>$	. \@Arrange\<vblex\>\<inf\>
 ^.<sent>$ ^assess<vblex><inf>$	. \@Assess\<vblex\>\<inf\>
 ^.<sent>$ ^assess<vblex><pres>$	. \@Assess\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^assess<vblex><pri><p3><sg>$	. \@Assess\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -48549,6 +48541,8 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> cadere<vblex>/scendere<vblex>/liberare<vblex>$
 #\^.\<sent\> cadere<vblex>/scendere<vblex>/liberare<vblex>$
 #\^.\<sent\> cadere<vblex>/scendere<vblex>/liberare<vblex>$
+#\^.\<sent\> avere<vblex>/tenere<vblex>/disporre<vblex>$
+#\^.\<sent\> avere<vblex>/tenere<vblex>$
 #\^.\<sent\> seccare<vblex>/asciugare<vblex>$
 #\^.\<sent\> seccare<vblex>/asciugare<vblex>$
 #\^.\<sent\> ogni<det><ind><mf>/ciascuno<det><ind><m>/ciascuno<det><ind><f>$
@@ -48766,8 +48760,9 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> lettera<n><f>/grafia<n><f>$
 #\^.\<sent\> passare<vblex>/succedere<vblex>/sopravvenire<vblex>$
 #\^.\<sent\> felicemente<adv>/fortunatamente<adv>$
-#\^.\<sent\> tenere<vblex>/disporre<vblex>$
-#\^.\<sent\> tenere<vblex>/disporre<vblex>$
+#\^.\<sent\> avere<vblex>/tenere<vblex>/disporre<vblex>$
+#\^.\<sent\> avere<vblex>/tenere<vblex>/disporre<vblex>$
+#\^.\<sent\> avere<vblex>/tenere<vblex>$
 #\^.\<sent\> seno<n><m>/cuore<n><m>$
 #\^.\<sent\> seno<n><m>/cuore<n><m>$
 #\^.\<sent\> scaldabagno<n><m>/riscaldatore<n><m>$
@@ -49912,7 +49907,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> ritornare<vblex>/restituire<vblex>$
 #\^.\<sent\> premiare<vblex>/ricompensare<vblex>$
 #\^.\<sent\> riorganizzare<vblex>/ridimensionare<vblex>$
-#\^.\<sent\> scendere<vblex>/abbassare<vblex>$
 #\^.\<sent\> favorire<vblex>/privilegiare<vblex>$
 #\^.\<sent\> gustare<vblex>/piacere<vblex>$
 #\^.\<sent\> lasciare<vblex>/abbandonare<vblex>$
