@@ -6488,54 +6488,30 @@
 	forced 'null' restriction
       default
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>a<s n="det"/><s n="ind"/></l> 
-        <r>un<s n="det"/><s n="ind"/><s n="m"/></r> 
+        <r>un<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
+    <e r="RL">
       <p>
         <l>a<s n="det"/><s n="ind"/></l> 
-        <r>un<s n="det"/><s n="ind"/><s n="f"/></r> 
+        <r>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r> 
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
+    <e r="LR">
       <p>
         <l>a<s n="det"/><s n="ind"/><s n="sg"/></l> 
-        <r>un<s n="det"/><s n="ind"/><s n="m"/></r> 
+        <r>un<s n="det"/><s n="ind"/><s n="GD"/><s n="sg"/></r> 
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
+    <e r="RL">
       <p>
         <l>a<s n="det"/><s n="ind"/><s n="sg"/></l> 
-        <r>un<s n="det"/><s n="ind"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>a<s n="det"/><s n="ind"/><s n="sg"/></l> 
-        <r>un<s n="det"/><s n="ind"/><s n="mf"/></r> 
+        <r>un<s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></r> 
       </p>
     </e>
 

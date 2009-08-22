@@ -48064,26 +48064,6 @@
 ^.<sent>$ ^castelian<n><pl>$ ^'s<gen>$	. \@Castelian\<n\> 
 ^.<sent>$ ^castelian<n><sg>$	. \@Castelian\<n\>
 ^.<sent>$ ^castelian<n><pl>$	. \@Castelian\<n\>
-^.<sent>$ ^egyptian<n><sg>$	. \@Egyptian\<n\>
-^.<sent>$ ^egyptian<n><pl>$	. \@Egyptian\<n\>
-^.<sent>$ ^egyptian<n><pl>$ ^'s<gen>$	. \@Egyptian\<n\> 
-^.<sent>$ ^egyptian<n><sg>$	. \@Egyptian\<n\>
-^.<sent>$ ^egyptian<n><pl>$	. \@Egyptian\<n\>
-^.<sent>$ ^ecuadorian<n><sg>$	. \@Ecuadorian\<n\>
-^.<sent>$ ^ecuadorian<n><pl>$	. \@Ecuadorian\<n\>
-^.<sent>$ ^ecuadorian<n><pl>$ ^'s<gen>$	. \@Ecuadorian\<n\> 
-^.<sent>$ ^ecuadorian<n><sg>$	. \@Ecuadorian\<n\>
-^.<sent>$ ^ecuadorian<n><pl>$	. \@Ecuadorian\<n\>
-^.<sent>$ ^eucharist<n><sg>$	. \@Eucharist\<n\>
-^.<sent>$ ^eucharist<n><pl>$	. \@Eucharist\<n\>
-^.<sent>$ ^eucharist<n><pl>$ ^'s<gen>$	. \@Eucharist\<n\> 
-^.<sent>$ ^eucharist<n><sg>$	. \@Eucharist\<n\>
-^.<sent>$ ^eucharist<n><pl>$	. \@Eucharist\<n\>
-^.<sent>$ ^islamist<n><sg>$	. \@Islamist\<n\>
-^.<sent>$ ^islamist<n><pl>$	. \@Islamist\<n\>
-^.<sent>$ ^islamist<n><pl>$ ^'s<gen>$	. \@Islamist\<n\> 
-^.<sent>$ ^islamist<n><sg>$	. \@Islamist\<n\>
-^.<sent>$ ^islamist<n><pl>$	. \@Islamist\<n\>
 ^.<sent>$ ^ammunition<n><sg>$	. #Munizione\<n\>\<m\>\<sg\>
 ^.<sent>$ ^ammunition<n><pl>$	. #Munizione\<n\>\<m\>\<pl\>
 ^.<sent>$ ^ammunition<n><pl>$ ^'s<gen>$	. #Munizione\<n\>\<m\>\<pl\> 
@@ -48137,9 +48117,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> marzo<n><m>/Marcia<n><f>$
 #\^.\<sent\> Mar√≠a<np>/Mar√≠a<np><ant>$
 #\^.\<sent\> Mar√≠a<np>/Mar√≠a<np><ant>$
-#\^.\<sent\> Nigeria<np><loc><m>/Nigeria<np><loc><f>$
-#\^.\<sent\> persiano<n><m>/persiano<n><f>$
-#\^.\<sent\> persiano<n><m>/persiano<n><f>$
 #\^.\<sent\> un<det><ind><m>/un<det><ind><f>$
 #\^.\<sent\> un<det><ind><m>/un<det><ind><f>$
 #\^.\<sent\> un<det><ind><m>/un<det><ind><f>/un<det><ind><mf>$
@@ -48241,8 +48218,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> niente<prn>/qualcosa<prn>$
 #\^.\<sent\> appello<n><m>/attrazione<n><f>$
 #\^.\<sent\> appello<n><m>/attrazione<n><f>$
-#\^.\<sent\> apparire<vblex>/sembrare<vblex>/figurare<vblex>$
-#\^.\<sent\> apparire<vblex>/sembrare<vblex>/figurare<vblex>$
+#\^.\<sent\> apparire<vblex>/figurare<vblex>$
 #\^.\<sent\> apparenza<n><f>/aspetto<n><m>$
 #\^.\<sent\> accesso<n><m>/ravvicinamento<n><m>$
 #\^.\<sent\> accesso<n><m>/ravvicinamento<n><m>$
@@ -48966,8 +48942,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> foglia<n><f>/foglio<n><m>$
 #\^.\<sent\> foglia<n><f>/foglio<n><m>$
 #\^.\<sent\> colare<vblex>/filtrare<vblex>$
-#\^.\<sent\> addossare<vblex>/sostenere<vblex>/appoggiare<vblex>$
-#\^.\<sent\> addossare<vblex>/sostenere<vblex>/appoggiare<vblex>$
+#\^.\<sent\> addossare<vblex>/appoggiare<vblex>$
 #\^.\<sent\> imparare<vblex>/apprendere<vblex>$
 #\^.\<sent\> imparare<vblex>/apprendere<vblex>$
 #\^.\<sent\> pelle<n><f>/corteccia<n><f>$
@@ -48992,11 +48967,8 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> vivere<vblex>/abitare<vblex>$
 #\^.\<sent\> locale<adj><mf>/comarcale<adj><mf>$
 #\^.\<sent\> locale<adj><mf>/comarcale<adj><mf>$
-#\^.\<sent\> parere<vblex>/guardare<vblex>/sembrare<vblex>$
-#\^.\<sent\> parere<vblex>/guardare<vblex>/sembrare<vblex>$
-#\^.\<sent\> parere<vblex>/guardare<vblex>/sembrare<vblex>$
-#\^.\<sent\> cercare<vblex>/buscare<vblex>$
-#\^.\<sent\> cercare<vblex>/buscare<vblex>$
+#\^.\<sent\> parere<vblex>/guardare<vblex>$
+#\^.\<sent\> parere<vblex>/guardare<vblex>$
 #\^.\<sent\> parere<vblex>/sembrare<vblex>$
 #\^.\<sent\> parere<vblex>/sembrare<vblex>$
 #\^.\<sent\> legno<n><f>/legname<n><m>$
@@ -49601,8 +49573,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> vestito<n><m>/contenzioso<n><m>$
 #\^.\<sent\> vertice<n><m>/vertice<n><f>$
 #\^.\<sent\> vertice<n><m>/vertice<n><f>$
-#\^.\<sent\> sostenere<vblex>/sopportare<vblex>/appoggiare<vblex>$
-#\^.\<sent\> sostenere<vblex>/sopportare<vblex>/appoggiare<vblex>$
+#\^.\<sent\> sopportare<vblex>/appoggiare<vblex>$
 #\^.\<sent\> consulta<n><f>/chirurgia<n><f>$
 #\^.\<sent\> consulta<n><f>/chirurgia<n><f>$
 #\^.\<sent\> sorprendentemente<adv>/stupefacentemente<adv>$
@@ -49909,7 +49880,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> continuazione<n><f>/proseguimento<n><m>$
 #\^.\<sent\> consulta<n><f>/consultazione<n><f>$
 #\^.\<sent\> comprare<vblex>/acquistare<vblex>$
-#\^.\<sent\> addossare<vblex>/sostenere<vblex>/appoggiare<vblex>$
+#\^.\<sent\> addossare<vblex>/appoggiare<vblex>$
 #\^.\<sent\> auspicare<vblex>/aspettare<vblex>$
 #\^.\<sent\> calare<vblex>/cadere<vblex>$
 #\^.\<sent\> condurre<vblex>/dirigere<vblex>$
@@ -49945,11 +49916,8 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> colare<vblex>/filtrare<vblex>$
 #\^.\<sent\> lustrare<vblex>/lucidare<vblex>$
 #\^.\<sent\> pelare<vblex>/mondare<vblex>$
-#\^.\<sent\> Nigeria<np><loc><m>/Nigeria<np><loc><f>$
 #\^.\<sent\> passare<vblex>/succedere<vblex>/sopravvenire<vblex>$
-#\^.\<sent\> sostenere<vblex>/sopportare<vblex>/appoggiare<vblex>$
-#\^.\<sent\> acclamante<adj><mf>/applaudente<adj><mf>$
-#\^.\<sent\> acclamante<adj><mf>/applaudente<adj><mf>$
+#\^.\<sent\> sopportare<vblex>/appoggiare<vblex>$
 #\^.\<sent\> apparenza<n><f>/aspetto<n><m>$
 #\^.\<sent\> armata<n><f>/esercito<n><m>$
 #\^.\<sent\> assunzione<n><f>/accettazione<n><f>$
@@ -49965,7 +49933,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> difesa<n><f>/difesa<n><mf>$
 #\^.\<sent\> distretto<n><m>/circoscrizione<n><f>$
 #\^.\<sent\> distaccare<vblex>/evidenziare<vblex>$
-#\^.\<sent\> apparire<vblex>/sembrare<vblex>/figurare<vblex>$
+#\^.\<sent\> apparire<vblex>/figurare<vblex>$
 #\^.\<sent\> pugnare<vblex>/combattere<vblex>$
 #\^.\<sent\> regolare<vblex>/regolamentare<vblex>$
 #\^.\<sent\> ritornare<vblex>/restituire<vblex>$
