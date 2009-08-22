@@ -4192,6 +4192,116 @@
 ^.<sent>$ ^candidare<vblex><pri><p2><pl>$	. You \@candidare\<vblex\>\<pres\>
 ^.<sent>$ ^candidare<vblex><pri><p2><sg>$	. You \@candidare\<vblex\>\<pres\>
 ^.<sent>$ ^candidare<vblex><inf>$	. \@Candidare\<vblex\>\<inf\>
+^.<sent>$ ^cercare<vblex><ifi><p1><sg>$	. I #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><pii><p2><pl>$	. You #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><ifi><p2><pl>$	. You #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><pii><p2><sg>$	. You #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><ifi><p2><sg>$	. You #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><ifi><p3><pl>$	. They #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><cni><p1><pl>$	. We would #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><ifi><p3><sg>$	. It #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><prs><p3><pl>$	. They #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><cni><p1><sg>$	. I would #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><imp><p1><pl>$	. #Seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><prs><p3><sg>$	. It #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><cni><p2><pl>$	. You would #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><cni><p2><sg>$	. You would #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><cni><p3><pl>$	. They would #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><pri><p3><pl>$	. They #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><pp><f><pl>$	. #Seek\<vblex\>\<pp\># for
+^.<sent>$ ^cercare<vblex><cni><p3><sg>$	. It would #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><pri><p3><sg>$	. It #seek\<vblex\>\<pri\>\<p3\>\<sg\># for
+^.<sent>$ ^cercare<vblex><fti><p1><pl>$	. We will #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><pp><m><pl>$	. #Seek\<vblex\>\<pp\># for
+^.<sent>$ ^cercare<vblex><pp><f><sg>$	. #Seek\<vblex\>\<pp\># for
+^.<sent>$ ^cercare<vblex><pp><m><sg>$	. #Seek\<vblex\>\<pp\># for
+^.<sent>$ ^cercare<vblex><pis><p1><pl>$	. We #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><fti><p1><sg>$	. I will #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><pis><p1><sg>$	. I #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><fti><p2><pl>$	. You will #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><pis><p2><pl>$	. You #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><fti><p2><sg>$	. You will #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><pis><p2><sg>$	. You #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><fti><p3><pl>$	. They will #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><fti><p3><sg>$	. It will #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><pii><p1><pl>$	. We #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><ifi><p1><pl>$	. We #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><pii><p1><sg>$	. I #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><pis><p3><pl>$	. They #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><imp><p2><pl>$	. #Seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><pis><p3><sg>$	. It #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><imp><p2><sg>$	. #Seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><prs><p1><pl>$	. We #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><prs><p1><sg>$	. I #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><prs><p2><pl>$	. You #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><prs><p2><sg>$	. You #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><pii><p3><pl>$	. They #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><ger>$	. #Seek\<vblex\>\<ger\># for
+^.<sent>$ ^cercare<vblex><pii><p3><sg>$	. It #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><pri><p1><pl>$	. We #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><pri><p1><sg>$	. I #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><pri><p2><pl>$	. You #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><pri><p2><sg>$	. You #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><inf>$	. #Seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><ifi><p3><pl>$	. They #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><pis><p3><pl>$	. They #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><cni><p3><pl>$	. They would #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><fti><p3><pl>$	. They will #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><pii><p3><pl>$	. They #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><prs><p3><pl>$	. They #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><inf>$	. #Seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><pri><p3><pl>$	. They #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><ifi><p1><sg>$	. I #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><pii><p2><pl>$	. You #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><ifi><p2><pl>$	. You #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><pii><p2><sg>$	. You #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><ifi><p2><sg>$	. You #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><ifi><p3><pl>$	. They #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><cni><p1><pl>$	. We would #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><ifi><p3><sg>$	. It #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><prs><p3><pl>$	. They #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><cni><p1><sg>$	. I would #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><imp><p1><pl>$	. #Seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><prs><p3><sg>$	. It #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><cni><p2><pl>$	. You would #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><cni><p2><sg>$	. You would #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><cni><p3><pl>$	. They would #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><pri><p3><pl>$	. They #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><pp><f><pl>$	. #Seek\<vblex\>\<pp\># for
+^.<sent>$ ^cercare<vblex><cni><p3><sg>$	. It would #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><pri><p3><sg>$	. It #seek\<vblex\>\<pri\>\<p3\>\<sg\># for
+^.<sent>$ ^cercare<vblex><fti><p1><pl>$	. We will #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><pp><m><pl>$	. #Seek\<vblex\>\<pp\># for
+^.<sent>$ ^cercare<vblex><pp><f><sg>$	. #Seek\<vblex\>\<pp\># for
+^.<sent>$ ^cercare<vblex><pp><m><sg>$	. #Seek\<vblex\>\<pp\># for
+^.<sent>$ ^cercare<vblex><pis><p1><pl>$	. We #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><fti><p1><sg>$	. I will #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><pis><p1><sg>$	. I #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><fti><p2><pl>$	. You will #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><pis><p2><pl>$	. You #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><fti><p2><sg>$	. You will #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><pis><p2><sg>$	. You #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><fti><p3><pl>$	. They will #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><fti><p3><sg>$	. It will #seek\<vblex\>\<inf\># for
+^.<sent>$ ^cercare<vblex><pii><p1><pl>$	. We #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><ifi><p1><pl>$	. We #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><pii><p1><sg>$	. I #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><pis><p3><pl>$	. They #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><imp><p2><pl>$	. #Seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><pis><p3><sg>$	. It #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><imp><p2><sg>$	. #Seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><prs><p1><pl>$	. We #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><prs><p1><sg>$	. I #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><prs><p2><pl>$	. You #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><prs><p2><sg>$	. You #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><pii><p3><pl>$	. They #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><ger>$	. #Seek\<vblex\>\<ger\># for
+^.<sent>$ ^cercare<vblex><pii><p3><sg>$	. It #seek\<vblex\>\<past\># for
+^.<sent>$ ^cercare<vblex><pri><p1><pl>$	. We #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><pri><p1><sg>$	. I #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><pri><p2><pl>$	. You #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><pri><p2><sg>$	. You #seek\<vblex\>\<pres\># for
+^.<sent>$ ^cercare<vblex><inf>$	. #Seek\<vblex\>\<inf\># for
 ^.<sent>$ ^concertare<vblex><ifi><p1><sg>$	. I \@concertare\<vblex\>\<past\>
 ^.<sent>$ ^concertare<vblex><pii><p2><pl>$	. You \@concertare\<vblex\>\<past\>
 ^.<sent>$ ^concertare<vblex><ifi><p2><pl>$	. You \@concertare\<vblex\>\<past\>

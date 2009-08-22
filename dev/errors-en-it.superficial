@@ -7009,12 +7009,6 @@
 ^.<sent>$ ^Vlad<np><ant><m><sg>$	. \@Vlad\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Arizona<np><loc><sg>$	. \@Arizona\<np\>\<loc\>
 ^.<sent>$ ^Artur<np><ant><m><sg>$	. \@Artur\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Asturias<np><loc><sg>$	. #Asturie\<np\>\<loc\>\<f\>\<sg\>
-^.<sent>$ ^Asturias<np><loc><sg>$ ^'s<gen>$	. #Asturie\<np\>\<loc\>\<f\>\<sg\> 
-^.<sent>$ ^Asturias<np><loc><sg>$	. #Asturie\<np\>\<loc\>\<f\>\<sg\>
-^.<sent>$ ^Athens<np><loc><sg>$	. #Atene\<np\>\<loc\>\<f\>\<sg\>
-^.<sent>$ ^Athens<np><loc><sg>$ ^'s<gen>$	. #Atene\<np\>\<loc\>\<f\>\<sg\> 
-^.<sent>$ ^Athens<np><loc><sg>$	. #Atene\<np\>\<loc\>\<f\>\<sg\>
 ^.<sent>$ ^Barak<np><ant><m><sg>$	. \@Barak\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Barclay<np><ant><m><sg>$	. \@Barclay\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Bartomeu<np><ant><m><sg>$	. \@Bartomeu\<np\>\<ant\>\<m\>\<sg\>
@@ -7025,7 +7019,6 @@
 ^.<sent>$ ^Boeing<np><al><sg>$	. \@Boeing\<np\>\<al\>
 ^.<sent>$ ^Bogota<np><loc><sg>$	. \@Bogota\<np\>\<loc\>
 ^.<sent>$ ^Britain<np><loc><sg>$	. \@Britain\<np\>\<loc\>
-^.<sent>$ ^Bucharest<np><loc><sg>$	. #Bucarest\<np\>\<loc\>\<f\>\<sg\>
 ^.<sent>$ ^Budapest<np><loc><sg>$	. \@Budapest\<np\>\<loc\>
 ^.<sent>$ ^Ferrari<np><cog><sg>$	. #Ferrari\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Ferrari<np><cog><pl>$	. #Ferrari\<np\>\<cog\>\<mf\>\<sp\>
@@ -7231,7 +7224,6 @@
 ^.<sent>$ ^Pep<np><ant><m><sg>$	. \@Pep\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Pere<np><ant><m><sg>$	. \@Pere\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Philip<np><ant><m><sg>$	. \@Philip\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Prague<np><loc><sg>$	. #Praga\<np\>\<loc\>\<f\>\<sg\>
 ^.<sent>$ ^Queensland<np><loc><sg>$	. \@Queensland\<np\>\<loc\>
 ^.<sent>$ ^Rabat<np><loc><sg>$	. \@Rabat\<np\>\<loc\>
 ^.<sent>$ ^Ramon<np><ant><m><sg>$	. \@Ramon\<np\>\<ant\>\<m\>\<sg\>
@@ -7247,8 +7239,6 @@
 ^.<sent>$ ^Sergi<np><ant><m><sg>$	. \@Sergi\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Simon<np><ant><m><sg>$	. \@Simon\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Sofia<np><loc><sg>$	. #Sofia\<np\>\<loc\>
-^.<sent>$ ^South Africa<np><loc><sg>$	. #Sudafrica\<np\>\<loc\>\<f\>\<sg\>
-^.<sent>$ ^South Africa<np><loc><sg>$	. #Sudafrica\<np\>\<loc\>\<f\>\<sg\>
 ^.<sent>$ ^Stephen<np><ant><m><sg>$	. \@Stephen\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Steven<np><ant><m><sg>$	. \@Steven\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Stuttgart<np><loc><sg>$	. \@Stuttgart\<np\>\<loc\>
@@ -27323,7 +27313,7 @@
 ^.<sent>$ ^because of<pr>$	. \@Because of\<pr\>
 ^.<sent>$ ^before<pr>$	. \@Before\<pr\>
 ^.<sent>$ ^shortly before<pr>$	. \@Shortly before\<pr\>
-^.<sent>$ ^beside<pr>$	. #Assieme a\<pr\>\/accanto a\<pr\>
+^.<sent>$ ^beside<pr>$	. #Accanto a\<pr\>\/assieme a\<pr\>
 ^.<sent>$ ^between<pr>$	. #Fra\<pr\>\/tra\<pr\>
 ^.<sent>$ ^concerning<pr>$	. \@Concerning\<pr\>
 ^.<sent>$ ^due to<pr>$	. \@Due to\<pr\>
@@ -48074,11 +48064,6 @@
 ^.<sent>$ ^castelian<n><pl>$ ^'s<gen>$	. \@Castelian\<n\> 
 ^.<sent>$ ^castelian<n><sg>$	. \@Castelian\<n\>
 ^.<sent>$ ^castelian<n><pl>$	. \@Castelian\<n\>
-^.<sent>$ ^celt<n><sg>$	. \@Celt\<n\>
-^.<sent>$ ^celt<n><pl>$	. \@Celt\<n\>
-^.<sent>$ ^celt<n><pl>$ ^'s<gen>$	. \@Celt\<n\> 
-^.<sent>$ ^celt<n><sg>$	. \@Celt\<n\>
-^.<sent>$ ^celt<n><pl>$	. \@Celt\<n\>
 ^.<sent>$ ^egyptian<n><sg>$	. \@Egyptian\<n\>
 ^.<sent>$ ^egyptian<n><pl>$	. \@Egyptian\<n\>
 ^.<sent>$ ^egyptian<n><pl>$ ^'s<gen>$	. \@Egyptian\<n\> 
@@ -48094,11 +48079,6 @@
 ^.<sent>$ ^eucharist<n><pl>$ ^'s<gen>$	. \@Eucharist\<n\> 
 ^.<sent>$ ^eucharist<n><sg>$	. \@Eucharist\<n\>
 ^.<sent>$ ^eucharist<n><pl>$	. \@Eucharist\<n\>
-^.<sent>$ ^iraqi<n><sg>$	. \@Iraqi\<n\>
-^.<sent>$ ^iraqi<n><pl>$	. \@Iraqi\<n\>
-^.<sent>$ ^iraqi<n><pl>$ ^'s<gen>$	. \@Iraqi\<n\> 
-^.<sent>$ ^iraqi<n><sg>$	. \@Iraqi\<n\>
-^.<sent>$ ^iraqi<n><pl>$	. \@Iraqi\<n\>
 ^.<sent>$ ^islamist<n><sg>$	. \@Islamist\<n\>
 ^.<sent>$ ^islamist<n><pl>$	. \@Islamist\<n\>
 ^.<sent>$ ^islamist<n><pl>$ ^'s<gen>$	. \@Islamist\<n\> 
@@ -48129,36 +48109,6 @@
 ^.<sent>$ ^very carefully<adv>$	. #Con molta cura\<adv\>\/con molta attenzione\<adv\>
 ^.<sent>$ ^right now<adv>$	. #Proprio ora\<adv\>
 ^.<sent>$ ^right now<adv>$	. #Proprio ora\<adv\>
-^.<sent>$ ^castilian<n><sg>$	. \@Castilian\<n\>
-^.<sent>$ ^castilian<n><pl>$	. \@Castilian\<n\>
-^.<sent>$ ^castilian<n><pl>$ ^'s<gen>$	. \@Castilian\<n\> 
-^.<sent>$ ^castilian<n><sg>$	. \@Castilian\<n\>
-^.<sent>$ ^castilian<n><pl>$	. \@Castilian\<n\>
-^.<sent>$ ^kurd<n><sg>$	. \@Kurd\<n\>
-^.<sent>$ ^kurd<n><pl>$	. \@Kurd\<n\>
-^.<sent>$ ^kurd<n><pl>$ ^'s<gen>$	. \@Kurd\<n\> 
-^.<sent>$ ^kurd<n><sg>$	. \@Kurd\<n\>
-^.<sent>$ ^kurd<n><pl>$	. \@Kurd\<n\>
-^.<sent>$ ^iranian<n><sg>$	. \@Iranian\<n\>
-^.<sent>$ ^iranian<n><pl>$	. \@Iranian\<n\>
-^.<sent>$ ^iranian<n><pl>$ ^'s<gen>$	. \@Iranian\<n\> 
-^.<sent>$ ^iranian<n><sg>$	. \@Iranian\<n\>
-^.<sent>$ ^iranian<n><pl>$	. \@Iranian\<n\>
-^.<sent>$ ^martian<n><sg>$	. \@Martian\<n\>
-^.<sent>$ ^martian<n><pl>$	. \@Martian\<n\>
-^.<sent>$ ^martian<n><pl>$ ^'s<gen>$	. \@Martian\<n\> 
-^.<sent>$ ^martian<n><sg>$	. \@Martian\<n\>
-^.<sent>$ ^martian<n><pl>$	. \@Martian\<n\>
-^.<sent>$ ^moldavian<n><sg>$	. \@Moldavian\<n\>
-^.<sent>$ ^moldavian<n><pl>$	. \@Moldavian\<n\>
-^.<sent>$ ^moldavian<n><pl>$ ^'s<gen>$	. \@Moldavian\<n\> 
-^.<sent>$ ^moldavian<n><sg>$	. \@Moldavian\<n\>
-^.<sent>$ ^moldavian<n><pl>$	. \@Moldavian\<n\>
-^.<sent>$ ^pakistani<n><sg>$	. \@Pakistani\<n\>
-^.<sent>$ ^pakistani<n><pl>$	. \@Pakistani\<n\>
-^.<sent>$ ^pakistani<n><pl>$ ^'s<gen>$	. \@Pakistani\<n\> 
-^.<sent>$ ^pakistani<n><sg>$	. \@Pakistani\<n\>
-^.<sent>$ ^pakistani<n><pl>$	. \@Pakistani\<n\>
 ^.<sent>$ ^Christianisation<n><pl>$ ^'s<gen>$	. \@Christianisation\<n\> 
 ^.<sent>$ ^Christianisation<n><sg>$	. \@Christianisation\<n\>
 ^.<sent>$ ^Christianisation<n><pl>$	. \@Christianisation\<n\>
@@ -48184,60 +48134,12 @@
 ==========================
 ALTRES ERRADES DE BILING�E
 ==========================
-#\^.\<sent\> Algeria<np><loc><m>/Algeria<np><loc><f>$
-#\^.\<sent\> Amsterdam<np><loc><m>/Amsterdam<np><loc><f>$
-#\^.\<sent\> Andorra<np><loc><m>/Andorra<np><loc><f>$
-#\^.\<sent\> Arabia<np><loc><m>/Arabia<np><loc><f>$
-#\^.\<sent\> Asturie<np><loc><f>/Asturie<np><loc><m>$
-#\^.\<sent\> Atene<np><loc><f>/Atene<np><loc><m>$
-#\^.\<sent\> Barcellona<np><loc><m>/Barcellona<np><loc><f>$
-#\^.\<sent\> Bolivia<np><loc><m>/Bolivia<np><loc><f>$
-#\^.\<sent\> Bosnia<np><loc><m>/Bosnia<np><loc><f>$
-#\^.\<sent\> Bruxelles<np><loc><m>/Bruxelles<np><loc><f>$
-#\^.\<sent\> Bucarest<np><loc><f>/Bucarest<np><loc><m>$
-#\^.\<sent\> California<np><loc><m>/California<np><loc><f>$
-#\^.\<sent\> Cantabria<np><loc><m>/Cantabria<np><loc><f>$
-#\^.\<sent\> Caracas<np><loc><m>/Caracas<np><loc><f>$
-#\^.\<sent\> Catalogna<np><loc><m>/Catalogna<np><loc><f>$
-#\^.\<sent\> Ceuta<np><loc><m>/Ceuta<np><loc><f>$
-#\^.\<sent\> Colombia<np><loc><m>/Colombia<np><loc><f>$
-#\^.\<sent\> Cuba<np><loc><m>/Cuba<np><loc><f>$
-#\^.\<sent\> Estremadura<np><loc><m>/Estremadura<np><loc><f>$
-#\^.\<sent\> Florida<np><loc><m>/Florida<np><loc><f>$
-#\^.\<sent\> Galizia<np><loc><m>/Galizia<np><loc><f>$
-#\^.\<sent\> Georgia<np><loc><m>/Georgia<np><loc><f>$
-#\^.\<sent\> Girona<np><loc><m>/Girona<np><loc><f>$
-#\^.\<sent\> Guatemala<np><loc><m>/Guatemala<np><loc><f>$
-#\^.\<sent\> Guinea<np><loc><m>/Guinea<np><loc><f>$
-#\^.\<sent\> Ibiza<np><loc><m>/Ibiza<np><loc><f>$
-#\^.\<sent\> Indonesia<np><loc><m>/Indonesia<np><loc><f>$
-#\^.\<sent\> Giamaica<np><loc><m>/Giamaica<np><loc><f>$
-#\^.\<sent\> Lisbona<np><loc><m>/Lisbona<np><loc><f>$
-#\^.\<sent\> Lleida<np><loc><m>/Lleida<np><loc><f>$
-#\^.\<sent\> Malaysia<np><loc><m>/Malaysia<np><loc><f>$
-#\^.\<sent\> Malta<np><loc><m>/Malta<np><loc><f>$
 #\^.\<sent\> marzo<n><m>/Marcia<n><f>$
 #\^.\<sent\> María<np>/María<np><ant>$
 #\^.\<sent\> María<np>/María<np><ant>$
-#\^.\<sent\> Melilla<np><loc><m>/Melilla<np><loc><f>$
-#\^.\<sent\> Miami<np><loc><m>/Miami<np><loc><f>$
-#\^.\<sent\> Mosca<np><loc><f>/Mosca<np><loc><m>$
-#\^.\<sent\> Málaga<np><loc><m>/Málaga<np><loc><f>$
-#\^.\<sent\> New York<np><loc><m>/New York<np><loc><f>$
-#\^.\<sent\> Nizza<np><loc><m>/Nizza<np><loc><f>$
 #\^.\<sent\> Nigeria<np><loc><m>/Nigeria<np><loc><f>$
 #\^.\<sent\> persiano<n><m>/persiano<n><f>$
 #\^.\<sent\> persiano<n><m>/persiano<n><f>$
-#\^.\<sent\> Praga<np><loc><f>/Praga<np><loc><m>$
-#\^.\<sent\> Ruanda<np><loc><m>/Ruanda<np><loc><f>$
-#\^.\<sent\> Siviglia<np><loc><m>/Siviglia<np><loc><f>$
-#\^.\<sent\> Sudafrica<np><loc><f>/Sudafrica<np><loc><m>$
-#\^.\<sent\> Siria<np><loc><m>/Siria<np><loc><f>$
-#\^.\<sent\> Tarragona<np><loc><m>/Tarragona<np><loc><f>$
-#\^.\<sent\> Thailandia<np><loc><m>/Thailandia<np><loc><f>$
-#\^.\<sent\> Venezuela<np><loc><m>/Venezuela<np><loc><f>$
-#\^.\<sent\> Vienna<np><loc><m>/Vienna<np><loc><f>$
-#\^.\<sent\> Vitoria<np><loc><m>/Vitoria<np><loc><f>$
 #\^.\<sent\> un<det><ind><m>/un<det><ind><f>$
 #\^.\<sent\> un<det><ind><m>/un<det><ind><f>$
 #\^.\<sent\> un<det><ind><m>/un<det><ind><f>/un<det><ind><mf>$
@@ -48434,8 +48336,8 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> sotto<adv>/giù<adv>$
 #\^.\<sent\> cintura<n><f>/guinzaglio<n><m>$
 #\^.\<sent\> cintura<n><f>/guinzaglio<n><m>$
-#\^.\<sent\> assieme a<pr>/accanto a<pr>$
-#\^.\<sent\> assieme a<pr>/accanto a<pr>$
+#\^.\<sent\> accanto a<pr>/assieme a<pr>$
+#\^.\<sent\> accanto a<pr>/assieme a<pr>$
 #\^.\<sent\> inoltre<adv>/in più<adv>/oltretutto<adv>$
 #\^.\<sent\> inoltre<adv>/in più<adv>/oltretutto<adv>$
 #\^.\<sent\> inoltre<adv>/in più<adv>/oltretutto<adv>$
@@ -48753,10 +48655,10 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> prova<n><f>/esposizione<n><f>$
 #\^.\<sent\> esibizione<n><f>/esposizione<n><f>$
 #\^.\<sent\> esilio<n><m>/esiliato<n><GD>$
-#\^.\<sent\> spesa<n><f>/costo<n><m>$
-#\^.\<sent\> spesa<n><f>/costo<n><m>$
-#\^.\<sent\> spesa<n><f>/costo<n><m>$
-#\^.\<sent\> spesa<n><f>/costo<n><m>$
+#\^.\<sent\> costo<n><m>/spesa<n><f>$
+#\^.\<sent\> costo<n><m>/spesa<n><f>$
+#\^.\<sent\> costo<n><m>/spesa<n><f>$
+#\^.\<sent\> costo<n><m>/spesa<n><f>$
 #\^.\<sent\> contare<vblex>/spiegare<vblex>/raccontare<vblex>$
 #\^.\<sent\> contare<vblex>/spiegare<vblex>/raccontare<vblex>$
 #\^.\<sent\> contare<vblex>/spiegare<vblex>/raccontare<vblex>$
@@ -48893,8 +48795,8 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> scendere<vblex>/abbassare<vblex>$
 #\^.\<sent\> nota<n><f>/grado<n><m>$
 #\^.\<sent\> nota<n><f>/grado<n><m>$
-#\^.\<sent\> prateria<n><f>/prato<n><m>$
-#\^.\<sent\> prateria<n><f>/prato<n><m>$
+#\^.\<sent\> prato<n><m>/prateria<n><f>$
+#\^.\<sent\> prato<n><m>/prateria<n><f>$
 #\^.\<sent\> grigio<adj><m>/grigio<adj><f>/grigio<adj><GD>$
 #\^.\<sent\> grigio<adj><m>/grigio<adj><f>/grigio<adj><GD>$
 #\^.\<sent\> grigio<adj><m>/grigio<adj><f>/grigio<adj><GD>$
@@ -48936,8 +48838,8 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> colpo<n><m>/impatto<n><m>/successo<n><m>$
 #\^.\<sent\> colpo<n><m>/impatto<n><m>/successo<n><m>$
 #\^.\<sent\> colpo<n><m>/impatto<n><m>/successo<n><m>$
-#\^.\<sent\> attaccare<vblex>/incollare<vblex>$
-#\^.\<sent\> attaccare<vblex>/incollare<vblex>$
+#\^.\<sent\> incollare<vblex>/attaccare<vblex>$
+#\^.\<sent\> incollare<vblex>/attaccare<vblex>$
 #\^.\<sent\> calaverna<n><f>/galaverna<n><f>$
 #\^.\<sent\> calaverna<n><f>/galaverna<n><f>$
 #\^.\<sent\> in casa<adv>/alla casa<adv>$
@@ -50043,57 +49945,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> colare<vblex>/filtrare<vblex>$
 #\^.\<sent\> lustrare<vblex>/lucidare<vblex>$
 #\^.\<sent\> pelare<vblex>/mondare<vblex>$
-#\^.\<sent\> Valenzia<np><loc><m>/Valenzia<np><loc><f>$
-#\^.\<sent\> Mosca<np><loc><f>/Mosca<np><loc><m>$
-#\^.\<sent\> Amsterdam<np><loc><m>/Amsterdam<np><loc><f>$
-#\^.\<sent\> Andorra<np><loc><m>/Andorra<np><loc><f>$
-#\^.\<sent\> Arabia<np><loc><m>/Arabia<np><loc><f>$
-#\^.\<sent\> Algeria<np><loc><m>/Algeria<np><loc><f>$
-#\^.\<sent\> Asturie<np><loc><f>/Asturie<np><loc><m>$
-#\^.\<sent\> Atene<np><loc><f>/Atene<np><loc><m>$
-#\^.\<sent\> Barcellona<np><loc><m>/Barcellona<np><loc><f>$
-#\^.\<sent\> Bolivia<np><loc><m>/Bolivia<np><loc><f>$
-#\^.\<sent\> Bosnia<np><loc><m>/Bosnia<np><loc><f>$
-#\^.\<sent\> Bruxelles<np><loc><m>/Bruxelles<np><loc><f>$
-#\^.\<sent\> Bucarest<np><loc><f>/Bucarest<np><loc><m>$
-#\^.\<sent\> California<np><loc><m>/California<np><loc><f>$
-#\^.\<sent\> Cantabria<np><loc><m>/Cantabria<np><loc><f>$
-#\^.\<sent\> Caracas<np><loc><m>/Caracas<np><loc><f>$
-#\^.\<sent\> Catalogna<np><loc><m>/Catalogna<np><loc><f>$
-#\^.\<sent\> Ceuta<np><loc><m>/Ceuta<np><loc><f>$
-#\^.\<sent\> Colombia<np><loc><m>/Colombia<np><loc><f>$
-#\^.\<sent\> Cuba<np><loc><m>/Cuba<np><loc><f>$
-#\^.\<sent\> Estremadura<np><loc><m>/Estremadura<np><loc><f>$
-#\^.\<sent\> Florida<np><loc><m>/Florida<np><loc><f>$
-#\^.\<sent\> Galizia<np><loc><m>/Galizia<np><loc><f>$
-#\^.\<sent\> Georgia<np><loc><m>/Georgia<np><loc><f>$
-#\^.\<sent\> Girona<np><loc><m>/Girona<np><loc><f>$
-#\^.\<sent\> Guatemala<np><loc><m>/Guatemala<np><loc><f>$
-#\^.\<sent\> Guinea<np><loc><m>/Guinea<np><loc><f>$
-#\^.\<sent\> Ibiza<np><loc><m>/Ibiza<np><loc><f>$
-#\^.\<sent\> Indonesia<np><loc><m>/Indonesia<np><loc><f>$
-#\^.\<sent\> Giamaica<np><loc><m>/Giamaica<np><loc><f>$
-#\^.\<sent\> Lisbona<np><loc><m>/Lisbona<np><loc><f>$
-#\^.\<sent\> Lleida<np><loc><m>/Lleida<np><loc><f>$
-#\^.\<sent\> Malaysia<np><loc><m>/Malaysia<np><loc><f>$
-#\^.\<sent\> Malta<np><loc><m>/Malta<np><loc><f>$
-#\^.\<sent\> Melilla<np><loc><m>/Melilla<np><loc><f>$
-#\^.\<sent\> Miami<np><loc><m>/Miami<np><loc><f>$
-#\^.\<sent\> Málaga<np><loc><m>/Málaga<np><loc><f>$
 #\^.\<sent\> Nigeria<np><loc><m>/Nigeria<np><loc><f>$
-#\^.\<sent\> Nizza<np><loc><m>/Nizza<np><loc><f>$
-#\^.\<sent\> Praga<np><loc><f>/Praga<np><loc><m>$
-#\^.\<sent\> Ruanda<np><loc><m>/Ruanda<np><loc><f>$
-#\^.\<sent\> Siviglia<np><loc><m>/Siviglia<np><loc><f>$
-#\^.\<sent\> Siria<np><loc><m>/Siria<np><loc><f>$
-#\^.\<sent\> Sudafrica<np><loc><f>/Sudafrica<np><loc><m>$
-#\^.\<sent\> Thailandia<np><loc><m>/Thailandia<np><loc><f>$
-#\^.\<sent\> Tarragona<np><loc><m>/Tarragona<np><loc><f>$
-#\^.\<sent\> Valenzia<np><loc><m>/Valenzia<np><loc><f>$
-#\^.\<sent\> Venezuela<np><loc><m>/Venezuela<np><loc><f>$
-#\^.\<sent\> Vienna<np><loc><m>/Vienna<np><loc><f>$
-#\^.\<sent\> Vitoria<np><loc><m>/Vitoria<np><loc><f>$
-#\^.\<sent\> New York<np><loc><m>/New York<np><loc><f>$
 #\^.\<sent\> passare<vblex>/succedere<vblex>/sopravvenire<vblex>$
 #\^.\<sent\> sostenere<vblex>/sopportare<vblex>/appoggiare<vblex>$
 #\^.\<sent\> acclamante<adj><mf>/applaudente<adj><mf>$
