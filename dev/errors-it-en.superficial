@@ -97,129 +97,66 @@
 ^.<sent>$ ^José<np><ant><m><sg>$	. #José\<np\>\<ant\>\<m\>\<sg\>\/José\<np\>\<m\>\<sg\>
 ^.<sent>$ ^Luis<np><ant><m><sg>$	. #Luis\<np\>\<ant\>\<m\>\<sg\>\/Luis\<np\>\<m\>\<sg\>
 ^.<sent>$ ^Manuel<np><ant><m><sg>$	. #Manuel\<np\>\<ant\>\<m\>\<sg\>\/Manuel\<np\>\<m\>\<sg\>
-^.<sent>$ ^García<np><ant><m><sg>$	. #García\<np\>\<cog\>\<sg\>\<m\>\<sg\>\/García\<np\>\<cog\>\<pl\>\<m\>\<sg\>
 ^.<sent>$ ^Martín<np><ant><m><sg>$	. #Martín\<np\>\<ant\>\<m\>\<sg\>\/Martín\<np\>\<m\>\<sg\>
-^.<sent>$ ^López<np><ant><m><sg>$	. #López\<np\>\<cog\>\<sg\>\<m\>\<sg\>\/López\<np\>\<cog\>\<pl\>\<m\>\<sg\>
-^.<sent>$ ^González<np><ant><m><sg>$	. #González\<np\>\<cog\>\<sg\>\<m\>\<sg\>\/González\<np\>\<cog\>\<pl\>\<m\>\<sg\>
 ^.<sent>$ ^Wikipedia<np><ant><f><sg>$	. \@Wikipedia\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^María<np><ant><f><sg>$	. #María\<np\>\<ant\>\<f\>\<sg\>\/María\<np\>\<f\>\<sg\>
 ^.<sent>$ ^Cristina<np><ant><f><sg>$	. \@Cristina\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^ABC<np><al><m><sg>$	. \@ABC\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Abad<np><cog><mf><sp>$	. \@Abad\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Martínez<np><cog><mf><sp>$	. \@Martínez\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Pérez<np><cog><mf><sp>$	. \@Pérez\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Alonso<np><cog><mf><sp>$	. \@Alonso\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Allah<np><ant><m><sg>$	. \@Allah\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Anna<np><loc><m><sg>$	. #Anna\<np\>\<loc\>\<sg\>
-^.<sent>$ ^Aranda<np><cog><mf><sp>$	. \@Aranda\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Arce<np><cog><mf><sp>$	. \@Arce\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Arjona<np><cog><mf><sp>$	. \@Arjona\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Artigas<np><cog><mf><sp>$	. \@Artigas\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Arévalo<np><cog><mf><sp>$	. \@Arévalo\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Aura<np><cog><mf><sp>$	. \@Aura\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Barça<np><al><m><sg>$	. \@Barça\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^BSCH<np><al><m><sg>$	. \@BSCH\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Baeza<np><cog><mf><sp>$	. \@Baeza\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Balboa<np><cog><mf><sp>$	. \@Balboa\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Batasuna<np><al><m><sg>$	. \@Batasuna\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Belinchón<np><cog><mf><sp>$	. \@Belinchón\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Berlanga<np><cog><mf><sp>$	. \@Berlanga\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Bernabéu<np><loc><m><sg>$	. \@Bernabéu\<np\>\<loc\>\<sg\>
-^.<sent>$ ^Bobadilla<np><cog><mf><sp>$	. \@Bobadilla\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Borbone<np><cog><mf><sp>$	. \@Borbone\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Bosco<np><cog><mf><sp>$	. \@Bosco\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Bugs<np><ant><m><sg>$	. \@Bugs\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Calafell<np><loc><m><sg>$	. \@Calafell\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^Calderón<np><al><m><sg>$	. \@Calderón\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Canals<np><loc><m><sg>$	. \@Canals\<np\>\<loc\>\<sg\>
-^.<sent>$ ^Cano<np><cog><mf><sp>$	. \@Cano\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Carballo<np><cog><mf><sp>$	. \@Carballo\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Carmona<np><cog><mf><sp>$	. \@Carmona\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Carrefour<np><al><m><sg>$	. \@Carrefour\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Carrillo<np><cog><mf><sp>$	. \@Carrillo\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Casanova<np><cog><mf><sp>$	. \@Casanova\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Cervantes<np><cog><mf><sp>$	. \@Cervantes\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Chamorro<np><cog><mf><sp>$	. \@Chamorro\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Checa<np><cog><mf><sp>$	. \@Checa\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Chirac<np><cog><mf><sp>$	. \@Chirac\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Cid<np><cog><mf><sp>$	. \@Cid\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Cisneros<np><cog><mf><sp>$	. \@Cisneros\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Contreras<np><cog><mf><sp>$	. \@Contreras\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Cornellà<np><loc><m><sg>$	. \@Cornellà\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^Cupido<np><al><m><sg>$	. \@Cupido\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Cárdenas<np><loc><m><sg>$	. \@Cárdenas\<np\>\<loc\>\<sg\>
-^.<sent>$ ^Dalí<np><cog><mf><sp>$	. \@Dalí\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Disney<np><al><m><sg>$	. \@Disney\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Elche<np><loc><m><sg>$	. \@Elche\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^Etiopia<np><loc><m><sg>$	. \@Etiopia\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^Ferrari<np><al><m><sg>$	. \@Ferrari\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Ferreira<np><cog><mf><sp>$	. \@Ferreira\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Ferrero<np><cog><mf><sp>$	. \@Ferrero\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Garcia<np><loc><m><sg>$	. \@Garcia\<np\>\<loc\>\<sg\>
-^.<sent>$ ^Gascón<np><cog><mf><sp>$	. \@Gascón\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Gaudí<np><cog><mf><sp>$	. \@Gaudí\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Google<np><al><m><sg>$	. \@Google\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Goya<np><cog><mf><sp>$	. \@Goya\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Grau<np><loc><m><sg>$	. \@Grau\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^Ermes<np><al><m><sg>$	. \@Ermes\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Herrero<np><al><m><sg>$	. \@Herrero\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Orazio<np><ant><m><sg>$	. #Horace\<np\>\<ant\>\<m\>\<sg\>\/Horacio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^IU<np><al><m><sg>$	. \@IU\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Indiana<np><ant><m><sg>$	. #Indiana\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Indurain<np><cog><mf><sp>$	. \@Indurain\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Iniesta<np><loc><m><sg>$	. \@Iniesta\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^Ion<np><ant><m><sg>$	. \@Ion\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Jackson<np><cog><mf><sp>$	. \@Jackson\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Jalón<np><loc><m><sg>$	. \@Jalón\<np\>\<loc\>\<sg\>
-^.<sent>$ ^Jara<np><cog><mf><sp>$	. \@Jara\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Jordana<np><cog><mf><sp>$	. \@Jordana\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Generalitat<np><loc><m><sg>$	. \@Generalitat\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^Giordania<np><loc><m><sg>$	. \@Giordania\<np\>\<loc\>\<sg\>
-^.<sent>$ ^Juárez<np><cog><mf><sp>$	. \@Juárez\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Lafuente<np><cog><mf><sp>$	. \@Lafuente\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Lara<np><cog><mf><sp>$	. #Lara\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^America latina<np><loc><m><sg>$	. \@America latina\<np\>\<loc\>\<sg\>
-^.<sent>$ ^Lozoya<np><cog><mf><sp>$	. \@Lozoya\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^March<np><cog><mf><sp>$	. \@March\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Marte<np><al><m><sg>$	. \@Marte\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^María<np><ant><f><sg>$	. #María\<np\>\<ant\>\<f\>\<sg\>\/María\<np\>\<f\>\<sg\>
 ^.<sent>$ ^Mestre<np><al><m><sg>$	. \@Mestre\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Milošević<np><cog><mf><sp>$	. \@Milošević\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Milá<np><cog><mf><sp>$	. \@Milá\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Miranda<np><cog><mf><sp>$	. \@Miranda\<np\>\<cog\>\<mf\>\<sp\>
+^.<sent>$ ^Milošević<np><cog><mf><sp>$	. #Milosevic\<np\>\<cog\>\<sg\>\/Milošević\<np\>\<cog\>\<sg\>
 ^.<sent>$ ^Moncada<np><loc><m><sg>$	. \@Moncada\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^Montero<np><al><m><sg>$	. \@Montero\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Montiel<np><al><m><sg>$	. \@Montiel\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Moratinos<np><cog><mf><sp>$	. \@Moratinos\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Moya<np><cog><mf><sp>$	. \@Moya\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Moyá<np><cog><mf><sp>$	. \@Moyá\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Murillo<np><cog><mf><sp>$	. \@Murillo\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Muñoz<np><cog><mf><sp>$	. \@Muñoz\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Nadal<np><al><m><sg>$	. \@Nadal\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Napster<np><al><m><sg>$	. \@Napster\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Nature<np><al><m><sg>$	. \@Nature\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^ONG<np><al><m><sg>$	. \@ONG\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Orozco<np><cog><mf><sp>$	. \@Orozco\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Osasuna<np><al><m><sg>$	. \@Osasuna\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Otero<np><cog><mf><sp>$	. \@Otero\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Pegaso<np><al><m><sg>$	. \@Pegaso\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Perales<np><al><m><sg>$	. \@Perales\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Pinochet<np><cog><mf><sp>$	. \@Pinochet\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Pizarro<np><cog><mf><sp>$	. \@Pizarro\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Polizia<np><al><f><sg>$	. \@Polizia\<np\>\<al\>\<f\>\<sg\>
-^.<sent>$ ^Poveda<np><cog><mf><sp>$	. \@Poveda\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Chisciotte<np><al><m><sg>$	. \@Chisciotte\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^RTVE<np><al><m><sg>$	. \@RTVE\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Renfe<np><al><m><sg>$	. \@Renfe\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Ribes<np><al><m><sg>$	. \@Ribes\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Riquelme<np><cog><mf><sp>$	. \@Riquelme\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Rivera<np><al><m><sg>$	. \@Rivera\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Rodrigo<np><cog><mf><sp>$	. \@Rodrigo\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Roldán<np><cog><mf><sp>$	. \@Roldán\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Rolling<np><al><m><sg>$	. \@Rolling\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Roque<np><ant><m><sg>$	. \@Roque\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Rosell<np><cog><mf><sp>$	. \@Rosell\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Ruiz<np><cog><mf><sp>$	. \@Ruiz\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Saddam<np><ant><m><sg>$	. \@Saddam\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Sagra<np><loc><m><sg>$	. \@Sagra\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^San<np><al><m><sg>$	. \@San\<np\>\<al\>\<m\>\<sg\>
@@ -228,32 +165,19 @@
 ^.<sent>$ ^Satana<np><ant><m><sg>$	. #Satan\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Saturno<np><al><m><sg>$	. #Saturn\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Serra<np><loc><m><sg>$	. \@Serra\<np\>\<loc\>\<sg\>
-^.<sent>$ ^Serrat<np><cog><mf><sp>$	. \@Serrat\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Sony<np><al><m><sg>$	. \@Sony\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Sotomayor<np><cog><mf><sp>$	. \@Sotomayor\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Superman<np><al><m><sg>$	. \@Superman\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Sánchez<np><cog><mf><sp>$	. \@Sánchez\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^TVE<np><al><m><sg>$	. \@TVE\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Tarrassa<np><loc><m><sg>$	. \@Tarrassa\<np\>\<loc\>\<sg\>
-^.<sent>$ ^Tejero<np><cog><mf><sp>$	. \@Tejero\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Telecinco<np><al><m><sg>$	. \@Telecinco\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Tito<np><cog><mf><sp>$	. \@Tito\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Torreblanca<np><loc><m><sg>$	. \@Torreblanca\<np\>\<loc\>\<sg\>
-^.<sent>$ ^Valdés<np><cog><mf><sp>$	. \@Valdés\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Valero<np><cog><mf><sp>$	. \@Valero\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Valverde<np><al><m><sg>$	. \@Valverde\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Vargas<np><cog><mf><sp>$	. \@Vargas\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Vasallo<np><cog><mf><sp>$	. \@Vasallo\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Vega<np><loc><m><sg>$	. \@Vega\<np\>\<loc\>\<sg\>
-^.<sent>$ ^Velázquez<np><cog><mf><sp>$	. \@Velázquez\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Venere<np><al><m><sg>$	. \@Venere\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Vergara<np><cog><mf><sp>$	. \@Vergara\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Vilanova<np><loc><m><sg>$	. \@Vilanova\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^Windows<np><al><m><sg>$	. \@Windows\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Yahoo<np><al><m><sg>$	. \@Yahoo\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Zeta<np><al><m><sg>$	. \@Zeta\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Zidane<np><cog><mf><sp>$	. \@Zidane\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Zurbarán<np><cog><mf><sp>$	. \@Zurbarán\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^html<np><al><m><sg>$	. \@Html\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^El Greco<np><ant><m><sg>$	. \@El Greco\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^BBVA<n><acr><m><sg>$	. \@BBVA\<n\>\<acr\>\<sg\>
@@ -3427,10 +3351,10 @@
 ^.<sent>$ ^quadrilatero<adj><m><sg>$	. \@Quadrilatero\<adj\>
 ^.<sent>$ ^quadrilatero<adj><f><pl>$	. \@Quadrilatero\<adj\>
 ^.<sent>$ ^quadrilatero<adj><f><sg>$	. \@Quadrilatero\<adj\>
-^.<sent>$ ^quale<adj><itg><mf><pl>$	. \@Quale\<adj\>
-^.<sent>$ ^quale<adj><itg><mf><sg>$	. \@Quale\<adj\>
-^.<sent>$ ^quale<adj><itg><mf><sg>$	. \@Quale\<adj\>
-^.<sent>$ ^quale<adj><itg><mf><sg>$	. \@Quale\<adj\>
+^.<sent>$ ^quale<adj><itg><mf><pl>$	. #Which
+^.<sent>$ ^quale<adj><itg><mf><sg>$	. #Which
+^.<sent>$ ^quale<adj><itg><mf><sg>$	. #Which
+^.<sent>$ ^quale<adj><itg><mf><sg>$	. #Which
 ^.<sent>$ ^quanto<adj><itg><m><sg>$	. \@Quanto\<adj\>
 ^.<sent>$ ^quanto<adj><itg><f><sg>$	. \@Quanto\<adj\>
 ^.<sent>$ ^quanto<adj><itg><m><pl>$	. \@Quanto\<adj\>
@@ -4103,6 +4027,344 @@
 ^.<sent>$ ^tutto ciò<cnjadv>$	. \@Tutto ciò\<cnjadv\>
 ^.<sent>$ ^c'è<vblex><pri><p3><sg>$	. #Prpers\<prn\>\<subj\>\<mf\> #there is\<vblex\>
 ^.<sent>$ ^c'è<vblex><pri><p3><pl>$	. #Prpers\<prn\>\<subj\>\<mf\> #there is\<vblex\>
+^.<sent>$ ^alleviare<vblex><ifi><p1><sg>$	. I #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pii><p2><pl>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ifi><p2><pl>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pii><p2><sg>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ifi><p2><sg>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ifi><p3><pl>$	. They #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><cni><p1><pl>$	. We would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><ifi><p3><sg>$	. It #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><prs><p3><pl>$	. They #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><cni><p1><sg>$	. I would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><imp><p1><pl>$	. #Alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p3><sg>$	. It #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><cni><p2><pl>$	. You would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><cni><p2><sg>$	. You would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pri><p3><pl>$	. They #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><cni><p3><pl>$	. They would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pp><f><pl>$	. #Alleviate\<vblex\>\<pp\>
+^.<sent>$ ^alleviare<vblex><cni><p3><sg>$	. It would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pri><p3><sg>$	. It #alleviate\<vblex\>\<pri\>\<p3\>\<sg\>
+^.<sent>$ ^alleviare<vblex><fti><p1><pl>$	. We will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pp><m><pl>$	. #Alleviate\<vblex\>\<pp\>
+^.<sent>$ ^alleviare<vblex><pp><f><sg>$	. #Alleviate\<vblex\>\<pp\>
+^.<sent>$ ^alleviare<vblex><pp><m><sg>$	. #Alleviate\<vblex\>\<pp\>
+^.<sent>$ ^alleviare<vblex><pis><p1><pl>$	. We #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><fti><p1><sg>$	. I will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pis><p1><sg>$	. I #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><fti><p2><pl>$	. You will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pis><p2><pl>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><fti><p2><sg>$	. You will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pis><p2><sg>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><fti><p3><pl>$	. They will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><fti><p3><sg>$	. It will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pii><p1><pl>$	. We #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ifi><p1><pl>$	. We #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pii><p1><sg>$	. I #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pis><p3><pl>$	. They #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><imp><p2><pl>$	. #Alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pis><p3><sg>$	. It #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><imp><p2><sg>$	. #Alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p1><pl>$	. We #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p1><sg>$	. I #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p2><pl>$	. You #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p2><sg>$	. You #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pii><p3><pl>$	. They #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ger>$	. #Alleviate\<vblex\>\<ger\>
+^.<sent>$ ^alleviare<vblex><pii><p3><sg>$	. It #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pri><p1><pl>$	. We #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pri><p1><sg>$	. I #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pri><p2><pl>$	. You #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pri><p2><sg>$	. You #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><inf>$	. #Alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><ifi><p3><pl>$	. They #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pis><p3><pl>$	. They #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><cni><p3><pl>$	. They would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><fti><p3><pl>$	. They will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pii><p3><pl>$	. They #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><prs><p3><pl>$	. They #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><inf>$	. #Alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pri><p3><pl>$	. They #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><ifi><p1><sg>$	. I #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pii><p2><pl>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ifi><p2><pl>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pii><p2><sg>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ifi><p2><sg>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ifi><p3><pl>$	. They #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><cni><p1><pl>$	. We would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><ifi><p3><sg>$	. It #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><prs><p3><pl>$	. They #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><cni><p1><sg>$	. I would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><imp><p1><pl>$	. #Alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p3><sg>$	. It #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><cni><p2><pl>$	. You would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><cni><p2><sg>$	. You would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pri><p3><pl>$	. They #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><cni><p3><pl>$	. They would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pp><f><pl>$	. #Alleviate\<vblex\>\<pp\>
+^.<sent>$ ^alleviare<vblex><cni><p3><sg>$	. It would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pri><p3><sg>$	. It #alleviate\<vblex\>\<pri\>\<p3\>\<sg\>
+^.<sent>$ ^alleviare<vblex><fti><p1><pl>$	. We will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pp><m><pl>$	. #Alleviate\<vblex\>\<pp\>
+^.<sent>$ ^alleviare<vblex><pp><f><sg>$	. #Alleviate\<vblex\>\<pp\>
+^.<sent>$ ^alleviare<vblex><pp><m><sg>$	. #Alleviate\<vblex\>\<pp\>
+^.<sent>$ ^alleviare<vblex><pis><p1><pl>$	. We #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><fti><p1><sg>$	. I will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pis><p1><sg>$	. I #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><fti><p2><pl>$	. You will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pis><p2><pl>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><fti><p2><sg>$	. You will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pis><p2><sg>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><fti><p3><pl>$	. They will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><fti><p3><sg>$	. It will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pii><p1><pl>$	. We #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ifi><p1><pl>$	. We #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pii><p1><sg>$	. I #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pis><p3><pl>$	. They #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><imp><p2><pl>$	. #Alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pis><p3><sg>$	. It #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><imp><p2><sg>$	. #Alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p1><pl>$	. We #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p1><sg>$	. I #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p2><pl>$	. You #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p2><sg>$	. You #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pii><p3><pl>$	. They #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ger>$	. #Alleviate\<vblex\>\<ger\>
+^.<sent>$ ^alleviare<vblex><pii><p3><sg>$	. It #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pri><p1><pl>$	. We #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pri><p1><sg>$	. I #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pri><p2><pl>$	. You #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pri><p2><sg>$	. You #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><inf>$	. #Alleviate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><ifi><p1><sg>$	. I #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><pii><p2><pl>$	. You #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><ifi><p2><pl>$	. You #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><pii><p2><sg>$	. You #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><ifi><p2><sg>$	. You #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><ifi><p3><pl>$	. They #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><cni><p1><pl>$	. We would #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><ifi><p3><sg>$	. It #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><prs><p3><pl>$	. They #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><cni><p1><sg>$	. I would #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><imp><p1><pl>$	. #Alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><prs><p3><sg>$	. It #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><cni><p2><pl>$	. You would #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><cni><p2><sg>$	. You would #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><pri><p3><pl>$	. They #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><cni><p3><pl>$	. They would #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><pp><f><pl>$	. #Alliterate\<vblex\>\<pp\>
+^.<sent>$ ^allitterare<vblex><cni><p3><sg>$	. It would #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><pri><p3><sg>$	. It #alliterate\<vblex\>\<pri\>\<p3\>\<sg\>
+^.<sent>$ ^allitterare<vblex><fti><p1><pl>$	. We will #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><pp><m><pl>$	. #Alliterate\<vblex\>\<pp\>
+^.<sent>$ ^allitterare<vblex><pp><f><sg>$	. #Alliterate\<vblex\>\<pp\>
+^.<sent>$ ^allitterare<vblex><pp><m><sg>$	. #Alliterate\<vblex\>\<pp\>
+^.<sent>$ ^allitterare<vblex><pis><p1><pl>$	. We #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><fti><p1><sg>$	. I will #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><pis><p1><sg>$	. I #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><fti><p2><pl>$	. You will #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><pis><p2><pl>$	. You #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><fti><p2><sg>$	. You will #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><pis><p2><sg>$	. You #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><fti><p3><pl>$	. They will #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><fti><p3><sg>$	. It will #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><pii><p1><pl>$	. We #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><ifi><p1><pl>$	. We #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><pii><p1><sg>$	. I #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><pis><p3><pl>$	. They #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><imp><p2><pl>$	. #Alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><pis><p3><sg>$	. It #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><imp><p3><pl>$	. #Alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><imp><p3><sg>$	. #Alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><imp><p2><sg>$	. #Alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><prs><p1><pl>$	. We #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><prs><p1><sg>$	. I #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><prs><p2><pl>$	. You #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><prs><p2><sg>$	. You #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><pii><p3><pl>$	. They #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><ger>$	. #Alliterate\<vblex\>\<ger\>
+^.<sent>$ ^allitterare<vblex><pii><p3><sg>$	. It #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><pri><p1><pl>$	. We #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><pri><p1><sg>$	. I #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><pri><p2><pl>$	. You #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><pri><p2><sg>$	. You #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><inf>$	. #Alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><ifi><p3><pl>$	. They #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><pis><p3><pl>$	. They #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><cni><p3><pl>$	. They would #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><pri><p3><pl>$	. They #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><fti><p3><pl>$	. They will #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><pii><p3><pl>$	. They #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><prs><p3><pl>$	. They #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><inf>$	. #Alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><ifi><p1><sg>$	. I #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><pii><p2><pl>$	. You #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><ifi><p2><pl>$	. You #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><pii><p2><sg>$	. You #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><ifi><p2><sg>$	. You #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><ifi><p3><pl>$	. They #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><cni><p1><pl>$	. We would #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><ifi><p3><sg>$	. It #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><prs><p3><pl>$	. They #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><cni><p1><sg>$	. I would #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><imp><p1><pl>$	. #Alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><prs><p3><sg>$	. It #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><cni><p2><pl>$	. You would #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><cni><p2><sg>$	. You would #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><pri><p3><pl>$	. They #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><cni><p3><pl>$	. They would #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><pp><f><pl>$	. #Alliterate\<vblex\>\<pp\>
+^.<sent>$ ^allitterare<vblex><cni><p3><sg>$	. It would #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><pri><p3><sg>$	. It #alliterate\<vblex\>\<pri\>\<p3\>\<sg\>
+^.<sent>$ ^allitterare<vblex><fti><p1><pl>$	. We will #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><pp><m><pl>$	. #Alliterate\<vblex\>\<pp\>
+^.<sent>$ ^allitterare<vblex><pp><f><sg>$	. #Alliterate\<vblex\>\<pp\>
+^.<sent>$ ^allitterare<vblex><pp><m><sg>$	. #Alliterate\<vblex\>\<pp\>
+^.<sent>$ ^allitterare<vblex><pis><p1><pl>$	. We #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><fti><p1><sg>$	. I will #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><pis><p1><sg>$	. I #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><fti><p2><pl>$	. You will #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><pis><p2><pl>$	. You #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><fti><p2><sg>$	. You will #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><pis><p2><sg>$	. You #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><fti><p3><pl>$	. They will #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><fti><p3><sg>$	. It will #alliterate\<vblex\>\<inf\>
+^.<sent>$ ^allitterare<vblex><pii><p1><pl>$	. We #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><ifi><p1><pl>$	. We #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><pii><p1><sg>$	. I #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><pis><p3><pl>$	. They #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><imp><p2><pl>$	. #Alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><pis><p3><sg>$	. It #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><imp><p3><pl>$	. #Alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><imp><p3><sg>$	. #Alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><imp><p2><sg>$	. #Alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><prs><p1><pl>$	. We #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><prs><p1><sg>$	. I #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><prs><p2><pl>$	. You #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><prs><p2><sg>$	. You #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><pii><p3><pl>$	. They #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><ger>$	. #Alliterate\<vblex\>\<ger\>
+^.<sent>$ ^allitterare<vblex><pii><p3><sg>$	. It #alliterate\<vblex\>\<past\>
+^.<sent>$ ^allitterare<vblex><pri><p1><pl>$	. We #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><pri><p1><sg>$	. I #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><pri><p2><pl>$	. You #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><pri><p2><sg>$	. You #alliterate\<vblex\>\<pres\>
+^.<sent>$ ^allitterare<vblex><inf>$	. #Alliterate\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><ifi><p1><sg>$	. I #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><pii><p2><pl>$	. You #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><ifi><p2><pl>$	. You #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><pii><p2><sg>$	. You #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><ifi><p2><sg>$	. You #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><ifi><p3><pl>$	. They #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><cni><p1><pl>$	. We would #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><ifi><p3><sg>$	. It #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><prs><p3><pl>$	. They #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><cni><p1><sg>$	. I would #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><imp><p1><pl>$	. #Abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><prs><p3><sg>$	. It #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><cni><p2><pl>$	. You would #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><cni><p2><sg>$	. You would #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><pri><p3><pl>$	. They #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><cni><p3><pl>$	. They would #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><pp><f><pl>$	. #Abash\<vblex\>\<pp\>
+^.<sent>$ ^sconcertare<vblex><cni><p3><sg>$	. It would #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><pri><p3><sg>$	. It #abash\<vblex\>\<pri\>\<p3\>\<sg\>
+^.<sent>$ ^sconcertare<vblex><fti><p1><pl>$	. We will #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><pp><m><pl>$	. #Abash\<vblex\>\<pp\>
+^.<sent>$ ^sconcertare<vblex><pp><f><sg>$	. #Abash\<vblex\>\<pp\>
+^.<sent>$ ^sconcertare<vblex><pp><m><sg>$	. #Abash\<vblex\>\<pp\>
+^.<sent>$ ^sconcertare<vblex><pis><p1><pl>$	. We #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><fti><p1><sg>$	. I will #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><pis><p1><sg>$	. I #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><fti><p2><pl>$	. You will #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><pis><p2><pl>$	. You #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><fti><p2><sg>$	. You will #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><pis><p2><sg>$	. You #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><fti><p3><pl>$	. They will #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><fti><p3><sg>$	. It will #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><pii><p1><pl>$	. We #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><ifi><p1><pl>$	. We #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><pii><p1><sg>$	. I #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><pis><p3><pl>$	. They #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><imp><p2><pl>$	. #Abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><pis><p3><sg>$	. It #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><imp><p3><pl>$	. #Abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><imp><p3><sg>$	. #Abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><imp><p2><sg>$	. #Abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><prs><p1><pl>$	. We #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><prs><p1><sg>$	. I #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><prs><p2><pl>$	. You #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><prs><p2><sg>$	. You #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><pii><p3><pl>$	. They #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><ger>$	. #Abash\<vblex\>\<ger\>
+^.<sent>$ ^sconcertare<vblex><pii><p3><sg>$	. It #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><pri><p1><pl>$	. We #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><pri><p1><sg>$	. I #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><pri><p2><pl>$	. You #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><pri><p2><sg>$	. You #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><inf>$	. #Abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><ifi><p3><pl>$	. They #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><pis><p3><pl>$	. They #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><cni><p3><pl>$	. They would #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><pri><p3><pl>$	. They #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><fti><p3><pl>$	. They will #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><pii><p3><pl>$	. They #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><prs><p3><pl>$	. They #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><inf>$	. #Abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><ifi><p1><sg>$	. I #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><pii><p2><pl>$	. You #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><ifi><p2><pl>$	. You #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><pii><p2><sg>$	. You #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><ifi><p2><sg>$	. You #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><ifi><p3><pl>$	. They #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><cni><p1><pl>$	. We would #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><ifi><p3><sg>$	. It #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><prs><p3><pl>$	. They #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><cni><p1><sg>$	. I would #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><imp><p1><pl>$	. #Abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><prs><p3><sg>$	. It #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><cni><p2><pl>$	. You would #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><cni><p2><sg>$	. You would #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><pri><p3><pl>$	. They #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><cni><p3><pl>$	. They would #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><pp><f><pl>$	. #Abash\<vblex\>\<pp\>
+^.<sent>$ ^sconcertare<vblex><cni><p3><sg>$	. It would #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><pri><p3><sg>$	. It #abash\<vblex\>\<pri\>\<p3\>\<sg\>
+^.<sent>$ ^sconcertare<vblex><fti><p1><pl>$	. We will #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><pp><m><pl>$	. #Abash\<vblex\>\<pp\>
+^.<sent>$ ^sconcertare<vblex><pp><f><sg>$	. #Abash\<vblex\>\<pp\>
+^.<sent>$ ^sconcertare<vblex><pp><m><sg>$	. #Abash\<vblex\>\<pp\>
+^.<sent>$ ^sconcertare<vblex><pis><p1><pl>$	. We #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><fti><p1><sg>$	. I will #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><pis><p1><sg>$	. I #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><fti><p2><pl>$	. You will #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><pis><p2><pl>$	. You #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><fti><p2><sg>$	. You will #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><pis><p2><sg>$	. You #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><fti><p3><pl>$	. They will #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><fti><p3><sg>$	. It will #abash\<vblex\>\<inf\>
+^.<sent>$ ^sconcertare<vblex><pii><p1><pl>$	. We #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><ifi><p1><pl>$	. We #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><pii><p1><sg>$	. I #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><pis><p3><pl>$	. They #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><imp><p2><pl>$	. #Abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><pis><p3><sg>$	. It #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><imp><p3><pl>$	. #Abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><imp><p3><sg>$	. #Abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><imp><p2><sg>$	. #Abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><prs><p1><pl>$	. We #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><prs><p1><sg>$	. I #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><prs><p2><pl>$	. You #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><prs><p2><sg>$	. You #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><pii><p3><pl>$	. They #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><ger>$	. #Abash\<vblex\>\<ger\>
+^.<sent>$ ^sconcertare<vblex><pii><p3><sg>$	. It #abash\<vblex\>\<past\>
+^.<sent>$ ^sconcertare<vblex><pri><p1><pl>$	. We #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><pri><p1><sg>$	. I #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><pri><p2><pl>$	. You #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><pri><p2><sg>$	. You #abash\<vblex\>\<pres\>
+^.<sent>$ ^sconcertare<vblex><inf>$	. #Abash\<vblex\>\<inf\>
 ^.<sent>$ ^avere<vblex><ifi><p1><sg>$	. I \@avere\<vblex\>\<past\>
 ^.<sent>$ ^avere<vblex><pii><p2><pl>$	. You \@avere\<vblex\>\<past\>
 ^.<sent>$ ^avere<vblex><ifi><p2><pl>$	. You \@avere\<vblex\>\<past\>
@@ -4885,6 +5147,116 @@
 ^.<sent>$ ^destinare<vblex><pri><p2><pl>$	. You \@destinare\<vblex\>\<pres\>
 ^.<sent>$ ^destinare<vblex><pri><p2><sg>$	. You \@destinare\<vblex\>\<pres\>
 ^.<sent>$ ^destinare<vblex><inf>$	. \@Destinare\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><ifi><p1><sg>$	. I #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><pii><p2><pl>$	. You #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><ifi><p2><pl>$	. You #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><pii><p2><sg>$	. You #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><ifi><p2><sg>$	. You #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><ifi><p3><pl>$	. They #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><cni><p1><pl>$	. We would #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><ifi><p3><sg>$	. It #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><prs><p3><pl>$	. They #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><cni><p1><sg>$	. I would #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><imp><p1><pl>$	. #Abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><prs><p3><sg>$	. It #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><cni><p2><pl>$	. You would #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><cni><p2><sg>$	. You would #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><pri><p3><pl>$	. They #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><cni><p3><pl>$	. They would #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><pp><f><pl>$	. #Abhor\<vblex\>\<pp\>
+^.<sent>$ ^aborrire<vblex><cni><p3><sg>$	. It would #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><pri><p3><sg>$	. It #abhor\<vblex\>\<pri\>\<p3\>\<sg\>
+^.<sent>$ ^aborrire<vblex><fti><p1><pl>$	. We will #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><pp><m><pl>$	. #Abhor\<vblex\>\<pp\>
+^.<sent>$ ^aborrire<vblex><pp><f><sg>$	. #Abhor\<vblex\>\<pp\>
+^.<sent>$ ^aborrire<vblex><pp><m><sg>$	. #Abhor\<vblex\>\<pp\>
+^.<sent>$ ^aborrire<vblex><pis><p1><pl>$	. We #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><fti><p1><sg>$	. I will #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><pis><p1><sg>$	. I #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><fti><p2><pl>$	. You will #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><pis><p2><pl>$	. You #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><fti><p2><sg>$	. You will #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><pis><p2><sg>$	. You #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><fti><p3><pl>$	. They will #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><fti><p3><sg>$	. It will #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><pii><p1><pl>$	. We #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><ifi><p1><pl>$	. We #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><pii><p1><sg>$	. I #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><pis><p3><pl>$	. They #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><imp><p2><pl>$	. #Abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><pis><p3><sg>$	. It #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><imp><p2><sg>$	. #Abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><prs><p1><pl>$	. We #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><prs><p1><sg>$	. I #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><prs><p2><pl>$	. You #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><prs><p2><sg>$	. You #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><pii><p3><pl>$	. They #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><ger>$	. #Abhor\<vblex\>\<ger\>
+^.<sent>$ ^aborrire<vblex><pii><p3><sg>$	. It #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><pri><p1><pl>$	. We #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><pri><p1><sg>$	. I #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><pri><p2><pl>$	. You #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><pri><p2><sg>$	. You #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><inf>$	. #Abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><ifi><p3><pl>$	. They #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><pis><p3><pl>$	. They #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><cni><p3><pl>$	. They would #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><fti><p3><pl>$	. They will #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><pii><p3><pl>$	. They #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><prs><p3><pl>$	. They #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><inf>$	. #Abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><pri><p3><pl>$	. They #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><ifi><p1><sg>$	. I #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><pii><p2><pl>$	. You #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><ifi><p2><pl>$	. You #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><pii><p2><sg>$	. You #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><ifi><p2><sg>$	. You #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><ifi><p3><pl>$	. They #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><cni><p1><pl>$	. We would #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><ifi><p3><sg>$	. It #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><prs><p3><pl>$	. They #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><cni><p1><sg>$	. I would #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><imp><p1><pl>$	. #Abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><prs><p3><sg>$	. It #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><cni><p2><pl>$	. You would #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><cni><p2><sg>$	. You would #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><pri><p3><pl>$	. They #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><cni><p3><pl>$	. They would #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><pp><f><pl>$	. #Abhor\<vblex\>\<pp\>
+^.<sent>$ ^aborrire<vblex><cni><p3><sg>$	. It would #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><pri><p3><sg>$	. It #abhor\<vblex\>\<pri\>\<p3\>\<sg\>
+^.<sent>$ ^aborrire<vblex><fti><p1><pl>$	. We will #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><pp><m><pl>$	. #Abhor\<vblex\>\<pp\>
+^.<sent>$ ^aborrire<vblex><pp><f><sg>$	. #Abhor\<vblex\>\<pp\>
+^.<sent>$ ^aborrire<vblex><pp><m><sg>$	. #Abhor\<vblex\>\<pp\>
+^.<sent>$ ^aborrire<vblex><pis><p1><pl>$	. We #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><fti><p1><sg>$	. I will #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><pis><p1><sg>$	. I #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><fti><p2><pl>$	. You will #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><pis><p2><pl>$	. You #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><fti><p2><sg>$	. You will #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><pis><p2><sg>$	. You #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><fti><p3><pl>$	. They will #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><fti><p3><sg>$	. It will #abhor\<vblex\>\<inf\>
+^.<sent>$ ^aborrire<vblex><pii><p1><pl>$	. We #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><ifi><p1><pl>$	. We #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><pii><p1><sg>$	. I #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><pis><p3><pl>$	. They #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><imp><p2><pl>$	. #Abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><pis><p3><sg>$	. It #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><imp><p2><sg>$	. #Abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><prs><p1><pl>$	. We #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><prs><p1><sg>$	. I #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><prs><p2><pl>$	. You #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><prs><p2><sg>$	. You #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><pii><p3><pl>$	. They #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><ger>$	. #Abhor\<vblex\>\<ger\>
+^.<sent>$ ^aborrire<vblex><pii><p3><sg>$	. It #abhor\<vblex\>\<past\>
+^.<sent>$ ^aborrire<vblex><pri><p1><pl>$	. We #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><pri><p1><sg>$	. I #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><pri><p2><pl>$	. You #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><pri><p2><sg>$	. You #abhor\<vblex\>\<pres\>
+^.<sent>$ ^aborrire<vblex><inf>$	. #Abhor\<vblex\>\<inf\>
 ^.<sent>$ ^dovere<vblex><pii><p2><pl>$	. You \@dovere\<vblex\>\<past\>
 ^.<sent>$ ^dovere<vblex><ifi><p1><sg>$	. I \@dovere\<vblex\>\<past\>
 ^.<sent>$ ^dovere<vblex><pii><p2><sg>$	. You \@dovere\<vblex\>\<past\>
@@ -6013,6 +6385,120 @@
 ^.<sent>$ ^inventare<vblex><pri><p2><pl>$	. You #invent\<vblex\>\<sep\>\<pres\># up
 ^.<sent>$ ^inventare<vblex><pri><p2><sg>$	. You #invent\<vblex\>\<sep\>\<pres\># up
 ^.<sent>$ ^inventare<vblex><inf>$	. #Invent\<vblex\>\<sep\>\<inf\># up
+^.<sent>$ ^alleviare<vblex><ifi><p1><sg>$	. I #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pii><p2><pl>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ifi><p2><pl>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pii><p2><sg>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ifi><p2><sg>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ifi><p3><pl>$	. They #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><cni><p1><pl>$	. We would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><ifi><p3><sg>$	. It #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><prs><p3><pl>$	. They #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><cni><p1><sg>$	. I would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><imp><p1><pl>$	. #Alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p3><sg>$	. It #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><cni><p2><pl>$	. You would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><cni><p2><sg>$	. You would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pri><p3><pl>$	. They #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><cni><p3><pl>$	. They would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pp><f><pl>$	. #Alleviate\<vblex\>\<pp\>
+^.<sent>$ ^alleviare<vblex><cni><p3><sg>$	. It would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pri><p3><sg>$	. It #alleviate\<vblex\>\<pri\>\<p3\>\<sg\>
+^.<sent>$ ^alleviare<vblex><fti><p1><pl>$	. We will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pp><m><pl>$	. #Alleviate\<vblex\>\<pp\>
+^.<sent>$ ^alleviare<vblex><pp><f><sg>$	. #Alleviate\<vblex\>\<pp\>
+^.<sent>$ ^alleviare<vblex><pp><m><sg>$	. #Alleviate\<vblex\>\<pp\>
+^.<sent>$ ^alleviare<vblex><pis><p1><pl>$	. We #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><fti><p1><sg>$	. I will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pis><p1><sg>$	. I #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><fti><p2><pl>$	. You will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pis><p2><pl>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><fti><p2><sg>$	. You will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pis><p2><sg>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><fti><p3><pl>$	. They will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><fti><p3><sg>$	. It will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pii><p1><pl>$	. We #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ifi><p1><pl>$	. We #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pii><p1><sg>$	. I #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pis><p3><pl>$	. They #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><imp><p2><pl>$	. #Alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pis><p3><sg>$	. It #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><imp><p3><pl>$	. #Alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><imp><p3><sg>$	. #Alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><imp><p2><sg>$	. #Alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p1><pl>$	. We #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p1><sg>$	. I #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p2><pl>$	. You #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p2><sg>$	. You #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pii><p3><pl>$	. They #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ger>$	. #Alleviate\<vblex\>\<ger\>
+^.<sent>$ ^alleviare<vblex><pii><p3><sg>$	. It #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pri><p1><pl>$	. We #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pri><p1><sg>$	. I #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pri><p2><pl>$	. You #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pri><p2><sg>$	. You #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><inf>$	. #Alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><ifi><p3><pl>$	. They #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pis><p3><pl>$	. They #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><cni><p3><pl>$	. They would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pri><p3><pl>$	. They #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><fti><p3><pl>$	. They will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pii><p3><pl>$	. They #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><prs><p3><pl>$	. They #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><inf>$	. #Alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><ifi><p1><sg>$	. I #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pii><p2><pl>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ifi><p2><pl>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pii><p2><sg>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ifi><p2><sg>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ifi><p3><pl>$	. They #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><cni><p1><pl>$	. We would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><ifi><p3><sg>$	. It #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><prs><p3><pl>$	. They #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><cni><p1><sg>$	. I would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><imp><p1><pl>$	. #Alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p3><sg>$	. It #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><cni><p2><pl>$	. You would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><cni><p2><sg>$	. You would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pri><p3><pl>$	. They #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><cni><p3><pl>$	. They would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pp><f><pl>$	. #Alleviate\<vblex\>\<pp\>
+^.<sent>$ ^alleviare<vblex><cni><p3><sg>$	. It would #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pri><p3><sg>$	. It #alleviate\<vblex\>\<pri\>\<p3\>\<sg\>
+^.<sent>$ ^alleviare<vblex><fti><p1><pl>$	. We will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pp><m><pl>$	. #Alleviate\<vblex\>\<pp\>
+^.<sent>$ ^alleviare<vblex><pp><f><sg>$	. #Alleviate\<vblex\>\<pp\>
+^.<sent>$ ^alleviare<vblex><pp><m><sg>$	. #Alleviate\<vblex\>\<pp\>
+^.<sent>$ ^alleviare<vblex><pis><p1><pl>$	. We #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><fti><p1><sg>$	. I will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pis><p1><sg>$	. I #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><fti><p2><pl>$	. You will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pis><p2><pl>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><fti><p2><sg>$	. You will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pis><p2><sg>$	. You #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><fti><p3><pl>$	. They will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><fti><p3><sg>$	. It will #alleviate\<vblex\>\<inf\>
+^.<sent>$ ^alleviare<vblex><pii><p1><pl>$	. We #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ifi><p1><pl>$	. We #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pii><p1><sg>$	. I #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pis><p3><pl>$	. They #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><imp><p2><pl>$	. #Alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pis><p3><sg>$	. It #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><imp><p3><pl>$	. #Alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><imp><p3><sg>$	. #Alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><imp><p2><sg>$	. #Alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p1><pl>$	. We #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p1><sg>$	. I #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p2><pl>$	. You #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><prs><p2><sg>$	. You #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pii><p3><pl>$	. They #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><ger>$	. #Alleviate\<vblex\>\<ger\>
+^.<sent>$ ^alleviare<vblex><pii><p3><sg>$	. It #alleviate\<vblex\>\<past\>
+^.<sent>$ ^alleviare<vblex><pri><p1><pl>$	. We #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pri><p1><sg>$	. I #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pri><p2><pl>$	. You #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><pri><p2><sg>$	. You #alleviate\<vblex\>\<pres\>
+^.<sent>$ ^alleviare<vblex><inf>$	. #Alleviate\<vblex\>\<inf\>
 ^.<sent>$ ^laccare<vblex><ifi><p1><sg>$	. I \@laccare\<vblex\>\<past\>
 ^.<sent>$ ^laccare<vblex><pii><p2><pl>$	. You \@laccare\<vblex\>\<past\>
 ^.<sent>$ ^laccare<vblex><ifi><p2><pl>$	. You \@laccare\<vblex\>\<past\>
