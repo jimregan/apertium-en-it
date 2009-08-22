@@ -685,7 +685,7 @@
 	forced 'null' restriction
       ND-5
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>American<s n="adj"/></l> 
         <r>statunitense<s n="adj"/></r> 
@@ -2727,10 +2727,10 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>Galician<s n="n"/></l> 
-        <r>galiziano<s n="n"/><s n="m"/></r> 
+        <r>galiziano<s n="n"/></r> 
       </p>
     </e>
 
@@ -2738,10 +2738,10 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>Galician<s n="n"/></l> 
-        <r>galiziano<s n="n"/><s n="f"/></r> 
+        <r>galiziano<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -5017,10 +5017,10 @@
 	forced 'null' restriction
       ND-36
     -->
-    <e c="check">
+    <e r="RL">
       <p>
         <l>Moroccan<s n="n"/></l> 
-        <r>marocchino<s n="n"/><s n="m"/></r> 
+        <r>marocchino<s n="n"/></r> 
       </p>
     </e>
 
@@ -5028,10 +5028,10 @@
 	forced 'null' restriction
       ND-30
     -->
-    <e c="check">
+    <e r="LR">
       <p>
         <l>Moroccan<s n="n"/></l> 
-        <r>marocchino<s n="n"/><s n="f"/></r> 
+        <r>marocchino<s n="n"/><s n="GD"/></r> 
       </p>
     </e>
 
@@ -32033,32 +32033,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-1
-    -->
-    <e>
-      <p>
-        <l>drama<s n="n"/></l> 
-        <r>opera<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-0
-    -->
-    <e c="Educ. asignatura de teatro">
-      <p>
-        <l>drama<s n="n"/></l> 
-        <r>teatro<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-0
-    -->
     <e>
       <p>
         <l>dramatist<s n="n"/></l> 
@@ -86002,7 +85976,7 @@
     -->
     <e>
       <p>
-        <l>tragedy<s n="n"/></l> 
+        <l>drama<s n="n"/></l> 
         <r>dramma<s n="n"/><s n="m"/></r> 
       </p>
     </e>
@@ -86757,20 +86731,9 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>trousers<s n="n"/><s n="pl"/></l> 
-        <r>pantalone<s n="n"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-81
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>trousers<s n="n"/><s n="pl"/></l> 
         <r>pantalone<s n="n"/><s n="m"/><s n="sg"/></r> 
