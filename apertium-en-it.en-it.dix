@@ -4809,17 +4809,6 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      ND-11
-    -->
-    <e>
-      <p>
-        <l>Nigeria<s n="np"/><s n="loc"/></l> 
-        <r>Nigeria<s n="np"/><s n="loc"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
 	forced 'LR' restriction
       ND-8
     -->
@@ -53197,17 +53186,6 @@
     <e>
       <p>
         <l>look<g><b/>for</g><s n="vblex"/></l> 
-        <r>cercare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>look<g><b/>for</g><s n="vblex"/></l> 
         <r>buscare<s n="vblex"/></r> 
       </p>
     </e>
@@ -74720,7 +74698,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>search<g><b/>for</g><s n="vblex"/></l> 
         <r>cercare<s n="vblex"/></r> 
@@ -74973,7 +74951,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>seek<s n="vblex"/></l> 
         <r>cercare<s n="vblex"/></r> 
