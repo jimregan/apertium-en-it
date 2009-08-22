@@ -17906,7 +17906,7 @@
 	forced 'null' restriction
       ND-39
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>bring<g><b/>down</g><s n="vblex"/><s n="sep"/></l> 
         <r>scendere<s n="vblex"/></r> 
@@ -31699,6 +31699,30 @@
         <r>scendere<s n="vblex"/></r> 
       </p>
     </e>
+    <e>
+      <p>
+        <l>have<s n="vblex"/></l> 
+        <r>avere<s n="vblex"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>have<g><b/>got</g><s n="vblex"/></l> 
+        <r>avere<s n="vblex"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>arrange<s n="vblex"/></l> 
+        <r>concertare<s n="vblex"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>contend<s n="vblex"/></l> 
+        <r>contendere<s n="vblex"/></r> 
+      </p>
+    </e>
 
     <!-- 
 	forced 'LR' restriction
@@ -41007,7 +41031,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>get<g><b/>down</g><s n="vblex"/></l> 
         <r>scendere<s n="vblex"/></r> 
@@ -41436,7 +41460,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>go<g><b/>down</g><s n="vblex"/></l> 
         <r>scendere<s n="vblex"/></r> 
@@ -53378,7 +53402,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>lower<s n="vblex"/></l> 
         <r>scendere<s n="vblex"/></r> 
@@ -93858,7 +93882,6 @@
     <e><p><l>salivate<s n="vblex"/></l><r>salivare<s n="vblex"/></r></p></e>
     <e><p><l>sanctify<s n="vblex"/></l><r>santificare<s n="vblex"/></r></p></e>
     <e><p><l>be<g><b/>used<b/>to</g><s n="vblex"/></l><r>solere<s n="vblex"/></r></p></e>
-    <e><p><l>go<g><b/>down</g><s n="vblex"/></l><r>scendere<s n="vblex"/></r></p></e>
     <e><p><l>blackmail<s n="vblex"/></l><r>ricattare<s n="vblex"/></r></p></e>
     <e><p><l>reorient<s n="vblex"/></l><r>riorientare<s n="vblex"/></r></p></e>
     <e><p><l>stagnate<s n="vblex"/></l><r>ristagnare<s n="vblex"/></r></p></e>
