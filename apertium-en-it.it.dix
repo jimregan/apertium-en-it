@@ -82,6 +82,7 @@
 		<sdef n="web" /> 
 		<sdef n="apos" /> 
 		<sdef n="guio" /> 
+		<sdef n="ord" /> 
   </sdefs>
 
   <pardefs>
@@ -18578,6 +18579,40 @@
 	<p>
 	  <l>a</l>
 	  <r>o<s n="adj"/><s n="f"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+    </pardef>
+    <pardef n="prim/o__det">
+      <e>
+	<p>
+	  <l>i</l>
+	  <r>o<s n="det"/><s n="ord"/><s n="m"/><s n="pl"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>o</l>
+	  <r>o<s n="det"/><s n="ord"/><s n="m"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>e</l>
+	  <r>o<s n="det"/><s n="ord"/><s n="f"/><s n="pl"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>a</l>
+	  <r>o<s n="det"/><s n="ord"/><s n="f"/><s n="sg"/></r>
 	</p>
       </e>
 
@@ -86022,7 +86057,8 @@
     <e lm="nervoso"><i>nervos</i><par n="abbandonat/o__adj"/></e>
     <e lm="nigeriano"><i>nigerian</i><par n="abbandonat/o__adj"/></e>
     <e lm="nomade"><i>nomad</i><par n="albanes/e__adj"/></e>
-    <e lm="nono"><i>non</i><par n="abbandonat/o__adj"/></e>
+    <e lm="nono"><i>non</i><par n="prim/o__det"/></e>
+    <e lm="decimo"><i>decim</i><par n="prim/o__det"/></e>
     <e lm="normale"><i>normal</i><par n="albanes/e__adj"/></e>
     <e lm="normativo"><i>normativ</i><par n="abbandonat/o__adj"/></e>
     <e lm="norvegese"><i>norveges</i><par n="albanes/e__adj"/></e>
@@ -86149,7 +86185,7 @@
     <e lm="previdenziale"><i>previdenzial</i><par n="albanes/e__adj"/></e>
     <e lm="previsto"><i>previst</i><par n="abbandonat/o__adj"/></e>
     <e lm="prezioso"><i>prezios</i><par n="abbandonat/o__adj"/></e>
-    <e lm="primo"><i>prim</i><par n="abbandonat/o__adj"/></e>
+    <e lm="primo"><i>prim</i><par n="prim/o__det"/></e>
     <e lm="primordiale"><i>primordial</i><par n="albanes/e__adj"/></e>
     <e lm="principale"><i>principal</i><par n="albanes/e__adj"/></e>
     <e lm="probabile"><i>probabil</i><par n="albanes/e__adj"/></e>
@@ -86180,11 +86216,11 @@
     <e lm="quale"><i>qual</i><par n="qual/e__adj"/></e>
     <e lm="quanto"><i>quant</i><par n="quant/o__adj"/></e>
     <e lm="quantitativo"><i>quantitativ</i><par n="abbandonat/o__adj"/></e>
-    <e lm="quarto"><i>quart</i><par n="abbandonat/o__adj"/></e>
-    <e lm="quattordicesimo"><i>quattordicesim</i><par n="abbandonat/o__adj"/></e>
+    <e lm="quarto"><i>quart</i><par n="prim/o__det"/></e>
+    <e lm="quattordicesimo"><i>quattordicesim</i><par n="prim/o__det"/></e>
     <e lm="questo"><i>quest</i><par n="abbandonat/o__adj"/></e>
-    <e lm="quindicesimo"><i>quindicesim</i><par n="abbandonat/o__adj"/></e>
-    <e lm="quinto"><i>quint</i><par n="abbandonat/o__adj"/></e>
+    <e lm="quindicesimo"><i>quindicesim</i><par n="prim/o__det"/></e>
+    <e lm="quinto"><i>quint</i><par n="prim/o__det"/></e>
     <e lm="quotidiano"><i>quotidian</i><par n="abbandonat/o__adj"/></e>
     <e lm="radiante"><i>radia</i><par n="abbacchia/nte__adj"/></e>
     <e lm="radiale"><i>radial</i><par n="albanes/e__adj"/></e>
@@ -86251,7 +86287,7 @@
     <e lm="scultoreo"><i>scultore</i><par n="abbandonat/o__adj"/></e>
     <e lm="scuro"><i>scur</i><par n="abbandonat/o__adj"/></e>
     <e lm="secolare"><i>secolar</i><par n="albanes/e__adj"/></e>
-    <e lm="secondo"><i>second</i><par n="abbandonat/o__adj"/></e>
+    <e lm="secondo"><i>second</i><par n="prim/o__det"/></e>
     <e lm="sedentario"><i>sedentari</i><par n="abbandonat/o__adj"/></e>
     <e lm="seguitore"><i>seguit</i><par n="accentrat/ore__adj"/></e>
     <e lm="segreto"><i>segret</i><par n="abbandonat/o__adj"/></e>
@@ -86269,8 +86305,9 @@
     <e lm="servizievole"><i>servizievol</i><par n="albanes/e__adj"/></e>
     <e lm="sessantesimo"><i>sessantesim</i><par n="abbandonat/o__adj"/></e>
     <e lm="sessuale"><i>sessual</i><par n="albanes/e__adj"/></e>
-    <e lm="sesto"><i>sest</i><par n="abbandonat/o__adj"/></e>
-    <e lm="settimo"><i>settim</i><par n="abbandonat/o__adj"/></e>
+    <e lm="sesto"><i>sest</i><par n="prim/o__det"/></e>
+    <e lm="settimo"><i>settim</i><par n="prim/o__det"/></e>
+    <e lm="ottavo"><i>ottav</i><par n="prim/o__det"/></e>
     <e lm="settimanale"><i>settimanal</i><par n="albanes/e__adj"/></e>
     <e lm="sfavorevole"><i>sfavorevol</i><par n="albanes/e__adj"/></e>
     <e lm="significativo"><i>significativ</i><par n="abbandonat/o__adj"/></e>
@@ -86386,8 +86423,8 @@
     <e lm="transitorio"><i>transitori</i><par n="abbandonat/o__adj"/></e>
     <e lm="trasparente"><i>trasparent</i><par n="albanes/e__adj"/></e>
     <e lm="traumatico"><i>traumatic</i><par n="tecnic/o__adj"/></e>
-    <e lm="tredicesimo"><i>tredicesim</i><par n="abbandonat/o__adj"/></e>
-    <e lm="trentesimo"><i>trentesim</i><par n="abbandonat/o__adj"/></e>
+    <e lm="tredicesimo"><i>tredicesim</i><par n="prim/o__det"/></e>
+    <e lm="trentesimo"><i>trentesim</i><par n="prim/o__det"/></e>
     <e lm="tributario"><i>tributari</i><par n="abbandonat/o__adj"/></e>
     <e lm="triviale"><i>trivial</i><par n="albanes/e__adj"/></e>
     <e lm="tridimensionale"><i>tridimensional</i><par n="albanes/e__adj"/></e>
@@ -86405,13 +86442,13 @@
     <e lm="ufficiale"><i>ufficial</i><par n="albanes/e__adj"/></e>
     <e lm="uguale"><i>ugual</i><par n="albanes/e__adj"/></e>
     <e lm="ulteriore"><i>ulterior</i><par n="albanes/e__adj"/></e>
-    <e lm="ultimo"><i>ultim</i><par n="abbandonat/o__adj"/></e>
+    <e lm="ultimo"><i>ultim</i><par n="prim/o__det"/></e>
     <e lm="umano"><i>uman</i><par n="abbandonat/o__adj"/></e>
     <e lm="umanitario"><i>umanitari</i><par n="abbandonat/o__adj"/></e>
     <e lm="umiliante"><i>umilia</i><par n="abbacchia/nte__adj"/></e>
     <e lm="umiliante"><i>umiliant</i><par n="albanes/e__adj"/></e>
     <e lm="unanime"><i>unanim</i><par n="albanes/e__adj"/></e>
-    <e lm="undicesimo"><i>undicesim</i><par n="abbandonat/o__adj"/></e>
+    <e lm="undicesimo"><i>undicesim</i><par n="prim/o__det"/></e>
     <e lm="ungherese"><i>ungheres</i><par n="albanes/e__adj"/></e>
     <e lm="unico"><i>unic</i><par n="tecnic/o__adj"/></e>
     <e lm="unidirezionale"><i>unidirezional</i><par n="albanes/e__adj"/></e>
@@ -86481,7 +86518,7 @@
     <e lm="atomico"><i>atomic</i><par n="tecnic/o__adj"/></e>
     <e lm="casereccio"><i>caserecci</i><par n="abbandonat/o__adj"/></e>
     <e lm="domestico"><i>domestic</i><par n="tecnic/o__adj"/></e>
-    <e lm="dodicesimo"><i>dodicesim</i><par n="abbandonat/o__adj"/></e>
+    <e lm="dodicesimo"><i>dodicesim</i><par n="prim/o__det"/></e>
     <e lm="latteo"><i>latte</i><par n="abbandonat/o__adj"/></e>
     <e lm="pacifico"><i>pacific</i><par n="tecnic/o__adj"/></e>
     <e lm="bruno"><i>brun</i><par n="abbandonat/o__adj"/></e>
