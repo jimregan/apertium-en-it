@@ -1,14 +1,11 @@
 ^.<sent>$ ^the<det><def><sp>$ ^most<preadv>$	. ~Il \@most\<preadv\>
-^.<sent>$ ^another<det><ind><sg>$	. #Un altro\<det\>\<ind\>
 ^.<sent>$ ^any<det><ind><sp>$	. #Qualsiasi\<det\>\<ind\>
 ^.<sent>$ ^both<det><ind><pl>$	. #Entrambi i\<det\>\<ind\>
 ^.<sent>$ ^each<det><ind><sg>$	. #Ogni\<det\>\<ind\>\<mf\>\<mf\>\<sg\>
 ^.<sent>$ ^either<det><ind><sg>$	. #Nessuno\<det\>\<ind\>\<mf\>\<sg\>
 ^.<sent>$ ^enough<det><qnt><sp>$	. \@Enough\<det\>\<sp\>
-^.<sent>$ ^first<det><ord><sp>$	. \@First\<det\>\<sp\>
 ^.<sent>$ ^how many<det><itg><pl>$	. \@How many\<det\>\<itg\>
 ^.<sent>$ ^how much<det><itg><sg>$	. \@How much\<det\>\<itg\>
-^.<sent>$ ^last<det><ord><sp>$	. \@Last\<det\>\<sp\>
 ^.<sent>$ ^less<det><qnt><sg>$	. \@Less\<det\>
 ^.<sent>$ ^little<det><qnt><sg>$	. #Poco\<det\>\<ind\>
 ^.<sent>$ ^more<det><qnt><sp>$	. \@More\<det\>\<sp\>
@@ -17,7 +14,6 @@
 ^.<sent>$ ^no<det><ind><sp>$	. #Nessuno\<det\>\<ind\>
 ^.<sent>$ ^other<det><ind><sp>$	. #Un altro\<det\>\<ind\>
 ^.<sent>$ ^our<det><pos><sp>$	. #Il nostro\<det\>\<pos\>
-^.<sent>$ ^second<det><ord><sp>$	. \@Second\<det\>\<sp\>
 ^.<sent>$ ^so much<det><qnt><sg>$	. \@So much\<det\>
 ^.<sent>$ ^some<det><qnt><sp>$	. #Alcun\<det\>\<ind\>
 ^.<sent>$ ^this<det><dem><sg>$	. #Questo\<det\>\<dem\>
@@ -25,51 +21,37 @@
 ^.<sent>$ ^that<det><dem><sg>$	. #Quello\<det\>\<dem\>
 ^.<sent>$ ^that<det><dem><pl>$	. #Quello\<det\>\<dem\>
 ^.<sent>$ ^the same<det><ind><sp>$	. \@The same\<det\>\<ind\>\<sp\>
-^.<sent>$ ^third<det><ord><sp>$	. \@Third\<det\>\<sp\>
+^.<sent>$ ^third<det><ord><sp>$	. #Terzo\<det\>\<ord\>\<m\>\<sg\>
 ^.<sent>$ ^too much<det><qnt><sg>$	. \@Too much\<det\>
 ^.<sent>$ ^various<det><ind><pl>$	. \@Various\<det\>\<ind\>
 ^.<sent>$ ^what<det><itg><sp>$	. \@What\<det\>\<itg\>\<sp\>
 ^.<sent>$ ^which<det><itg><sp>$	. #Quale\<mf\>\<sg\>
 ^.<sent>$ ^whose<det><itg><sp>$	. \@Whose\<det\>\<itg\>\<sp\>
 ^.<sent>$ ^your<det><pos><sp>$	. \@Your\<det\>\<pos\>\<sp\>
-^.<sent>$ ^last<det><ord><sp>$	. \@Last\<det\>\<sp\>
 ^.<sent>$ ^all<predet><sp>$	. \@All\<predet\>\<sp\>
-^.<sent>$ ^fourth<det><ord><sp>$	. \@Fourth\<det\>\<sp\>
-^.<sent>$ ^fifth<det><ord><sp>$	. \@Fifth\<det\>\<sp\>
-^.<sent>$ ^sixth<det><ord><sp>$	. \@Sixth\<det\>\<sp\>
-^.<sent>$ ^seventh<det><ord><sp>$	. \@Seventh\<det\>\<sp\>
-^.<sent>$ ^eighth<det><ord><sp>$	. \@Eighth\<det\>\<sp\>
-^.<sent>$ ^ninth<det><ord><sp>$	. \@Ninth\<det\>\<sp\>
-^.<sent>$ ^tenth<det><ord><sp>$	. \@Tenth\<det\>\<sp\>
-^.<sent>$ ^eleventh<det><ord><sp>$	. \@Eleventh\<det\>\<sp\>
-^.<sent>$ ^twelfth<det><ord><sp>$	. \@Twelfth\<det\>\<sp\>
-^.<sent>$ ^thirteenth<det><ord><sp>$	. \@Thirteenth\<det\>\<sp\>
-^.<sent>$ ^fourteenth<det><ord><sp>$	. \@Fourteenth\<det\>\<sp\>
-^.<sent>$ ^fifteenth<det><ord><sp>$	. \@Fifteenth\<det\>\<sp\>
-^.<sent>$ ^sixteenth<det><ord><sp>$	. \@Sixteenth\<det\>\<sp\>
-^.<sent>$ ^seventeenth<det><ord><sp>$	. \@Seventeenth\<det\>\<sp\>
-^.<sent>$ ^eighteenth<det><ord><sp>$	. \@Eighteenth\<det\>\<sp\>
-^.<sent>$ ^nineteenth<det><ord><sp>$	. \@Nineteenth\<det\>\<sp\>
-^.<sent>$ ^twentieth<det><ord><sp>$	. \@Twentieth\<det\>\<sp\>
-^.<sent>$ ^thirtieth<det><ord><sp>$	. \@Thirtieth\<det\>\<sp\>
-^.<sent>$ ^fortieth<det><ord><sp>$	. \@Fortieth\<det\>\<sp\>
-^.<sent>$ ^fiftieth<det><ord><sp>$	. \@Fiftieth\<det\>\<sp\>
-^.<sent>$ ^sixtieth<det><ord><sp>$	. \@Sixtieth\<det\>\<sp\>
-^.<sent>$ ^seventieth<det><ord><sp>$	. \@Seventieth\<det\>\<sp\>
-^.<sent>$ ^eightieth<det><ord><sp>$	. \@Eightieth\<det\>\<sp\>
-^.<sent>$ ^ninetieth<det><ord><sp>$	. \@Ninetieth\<det\>\<sp\>
-^.<sent>$ ^hundredth<det><ord><sp>$	. \@Hundredth\<det\>\<sp\>
-^.<sent>$ ^one hundredth<det><ord><sp>$	. \@One hundredth\<det\>\<sp\>
-^.<sent>$ ^two hundredth<det><ord><sp>$	. \@Two hundredth\<det\>\<sp\>
-^.<sent>$ ^three hundredth<det><ord><sp>$	. \@Three hundredth\<det\>\<sp\>
-^.<sent>$ ^four hundredth<det><ord><sp>$	. \@Four hundredth\<det\>\<sp\>
-^.<sent>$ ^five hundredth<det><ord><sp>$	. \@Five hundredth\<det\>\<sp\>
-^.<sent>$ ^six hundredth<det><ord><sp>$	. \@Six hundredth\<det\>\<sp\>
-^.<sent>$ ^seven hundredth<det><ord><sp>$	. \@Seven hundredth\<det\>\<sp\>
-^.<sent>$ ^eight hundredth<det><ord><sp>$	. \@Eight hundredth\<det\>\<sp\>
-^.<sent>$ ^nine hundredth<det><ord><sp>$	. \@Nine hundredth\<det\>\<sp\>
-^.<sent>$ ^thousandth<det><ord><sp>$	. \@Thousandth\<det\>\<sp\>
-^.<sent>$ ^millionth<det><ord><sp>$	. \@Millionth\<det\>\<sp\>
+^.<sent>$ ^sixteenth<det><ord><sp>$	. #Sedicesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^seventeenth<det><ord><sp>$	. #Diciassettesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^eighteenth<det><ord><sp>$	. #Diciottesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^nineteenth<det><ord><sp>$	. #Diciannovesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^twentieth<det><ord><sp>$	. #Ventesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^fortieth<det><ord><sp>$	. #Quarantesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^fiftieth<det><ord><sp>$	. #Cinquantesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^sixtieth<det><ord><sp>$	. #Sessantesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^seventieth<det><ord><sp>$	. #Settantesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^eightieth<det><ord><sp>$	. #Ottantesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^ninetieth<det><ord><sp>$	. #Novantesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^hundredth<det><ord><sp>$	. #Centesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^one hundredth<det><ord><sp>$	. #Centesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^two hundredth<det><ord><sp>$	. #Duecentesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^three hundredth<det><ord><sp>$	. #Trecentesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^four hundredth<det><ord><sp>$	. #Quattrecentesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^five hundredth<det><ord><sp>$	. #Cinquecentesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^six hundredth<det><ord><sp>$	. #Seicentesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^seven hundredth<det><ord><sp>$	. #Settecentesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^eight hundredth<det><ord><sp>$	. #Ottocentesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^nine hundredth<det><ord><sp>$	. #Novecentesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^thousandth<det><ord><sp>$	. #Millesimo\<det\>\<ord\>\<m\>\<sg\>
+^.<sent>$ ^millionth<det><ord><sp>$	. #Milionesimo\<det\>\<ord\>\<m\>\<sg\>
 ^.<sent>$ ^fewer<det><qnt><pl>$	. \@Fewer\<det\>
 ^.<sent>$ ^few<det><qnt><pl>$	. #Poco\<det\>\<ind\>
 ^.<sent>$ ^the most<det><qnt><sp>$	. \@The most\<det\>\<sp\>
@@ -18090,6 +18072,7 @@
 ^.<sent>$ ^late<adj><sint>$	. #Tardio\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^late<adj><sint><comp>$	. Pi√π #tardio\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^late<adj><sint><sup>$	. Pi√π #tardio\<adj\>\<m\>\<sg\>
+^.<sent>$ ^latter<adj>$	. #Ultimo\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^lean<adj><sint>$	. \@Lean\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^lean<adj><sint><comp>$	. Pi√π \@lean\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^lean<adj><sint><sup>$	. Pi√π \@lean\<adj\>\<m\>\<sg\>
@@ -18906,6 +18889,14 @@
 ^.<sent>$ ^annex<vblex><ger>$	. \@Annex\<vblex\>\<ger\>
 ^.<sent>$ ^annex<vblex><pprs>$	. \@Annex\<vblex\>\<ger\>
 ^.<sent>$ ^annex<vblex><subs>$	. \@Annex\<vblex\>\<inf\>
+^.<sent>$ ^answer<vblex><inf>$	. #Contestare\<vblex\>\<inf\>
+^.<sent>$ ^answer<vblex><pres>$	. #Contestare\<vblex\>\<pri\>\<p3\>\<sg\>
+^.<sent>$ ^answer<vblex><pri><p3><sg>$	. #Contestare\<vblex\>\<pri\>\<p3\>\<sg\>
+^.<sent>$ ^answer<vblex><past>$	. #Contestare\<vblex\>\<ifi\>\<p3\>\<sg\>
+^.<sent>$ ^answer<vblex><pp>$	. #Contestare\<vblex\>\<pp\>\<m\>\<sg\>
+^.<sent>$ ^answer<vblex><ger>$	. #Contestare\<vblex\>\<ger\>
+^.<sent>$ ^answer<vblex><pprs>$	. #Contestare\<vblex\>\<ger\>
+^.<sent>$ ^answer<vblex><subs>$	. #Contestare\<vblex\>\<inf\>
 ^.<sent>$ ^appeal<vblex><inf>$	. \@Appeal\<vblex\>\<inf\>
 ^.<sent>$ ^appeal<vblex><pres>$	. \@Appeal\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^appeal<vblex><pri><p3><sg>$	. \@Appeal\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -26774,8 +26765,8 @@
 ^.<sent>$ ^on no account<adv>$	. \@On no account\<adv\>
 ^.<sent>$ ^on the contrary<adv>$	. \@On the contrary\<adv\>
 ^.<sent>$ ^over time<adv>$	. \@Over time\<adv\>
-^.<sent>$ ^on the other hand<adv>$	. #Dall'altro lato\<adv\>\/d'altro lato\<adv\>\/d'altro canto\<adv\>\/d'altra parte\<adv\>
-^.<sent>$ ^on the other hand<adv>$	. #Dall'altro lato\<adv\>\/d'altro lato\<adv\>\/d'altro canto\<adv\>\/d'altra parte\<adv\>
+^.<sent>$ ^on the other hand<adv>$	. #Dall'altro lato\<adv\>\/d'altro canto\<adv\>\/d'altro lato\<adv\>\/d'altra parte\<adv\>
+^.<sent>$ ^on the other hand<adv>$	. #Dall'altro lato\<adv\>\/d'altro canto\<adv\>\/d'altro lato\<adv\>\/d'altra parte\<adv\>
 ^.<sent>$ ^on the sly<adv>$	. \@On the sly\<adv\>
 ^.<sent>$ ^on tiptoe<adv>$	. \@On tiptoe\<adv\>
 ^.<sent>$ ^on your own<adv>$	. \@On your own\<adv\>
@@ -27244,7 +27235,7 @@
 ^.<sent>$ ^ourselves<prn><ref><p1><mf><pl>$	. #Prpers\<prn\>\<tn\>\<p1\>\<m\>\<pl\>
 ^.<sent>$ ^yourselves<prn><ref><p2><mf><pl>$	. #Prpers\<prn\>\<tn\>\<p2\>\<m\>\<pl\>
 ^.<sent>$ ^themselves<prn><ref><p3><mf><pl>$	. #Prpers\<prn\>\<tn\>\<p3\>\<m\>\<pl\>
-^.<sent>$ ^another<prn><tn><m><sg>$	. #Altro\<prn\>\<tn\>
+^.<sent>$ ^another<prn><tn><m><sg>$	. \@Another\<prn\>\<tn\>\<m\>\<sg\>
 ^.<sent>$ ^another one<prn><tn><m><sg>$	. #Altro\<prn\>\<tn\>
 ^.<sent>$ ^any<prn><tn><mf><sp>$	. #Alcuno\<prn\>\<tn\>\<m\>\<sp\>
 ^.<sent>$ ^any one<prn><tn><m><sg>$	. #Qualsiasi\<prn\>\<tn\>\<mf\>\<sp\>
@@ -28894,8 +28885,7 @@
 ^.<sent>$ ^anointing<n><pl>$ ^'s<gen>$	. \@Anointing\<n\> 
 ^.<sent>$ ^anointing<n><sg>$	. \@Anointing\<n\>
 ^.<sent>$ ^anointing<n><pl>$	. \@Anointing\<n\>
-^.<sent>$ ^another<det><ind><sg>$	. #Un altro\<det\>\<ind\>
-^.<sent>$ ^another<prn><tn><m><sg>$	. #Altro\<prn\>\<tn\>
+^.<sent>$ ^another<prn><tn><m><sg>$	. \@Another\<prn\>\<tn\>\<m\>\<sg\>
 ^.<sent>$ ^another one<prn><tn><m><sg>$	. #Altro\<prn\>\<tn\>
 ^.<sent>$ ^anoxia<n><sg>$	. \@Anoxia\<n\>
 ^.<sent>$ ^anoxia<n><pl>$	. \@Anoxia\<n\>
@@ -48114,7 +48104,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> marzo<n><m>/Marcia<n><f>$
 #\^.\<sent\> Mar√≠a<np>/Mar√≠a<np><ant>$
 #\^.\<sent\> Mar√≠a<np>/Mar√≠a<np><ant>$
-#\^.\<sent\> un altro<det><ind>/un altro<det><ind><GD>$
 #\^.\<sent\> lasciare<vblex>/abbandonare<vblex>$
 #\^.\<sent\> addome<n><m>/pancia<n><f>$
 #\^.\<sent\> addome<n><m>/pancia<n><f>$
@@ -48188,9 +48177,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> but<cnjcoo>/ma<cnjcoo>$
 #\^.\<sent\> annuncio<n><m>/invito<n><m>$
 #\^.\<sent\> annuncio<n><m>/invito<n><m>$
-#\^.\<sent\> un altro<det><ind>/un altro<det><ind><GD>$
-#\^.\<sent\> rispondere<vblex>/contestare<vblex>$
-#\^.\<sent\> rispondere<vblex>/contestare<vblex>$
 #\^.\<sent\> alcun<det><ind>/qualche<det><ind><mf>$
 #\^.\<sent\> alcun<det><ind>/qualche<det><ind><mf>$
 #\^.\<sent\> qualsiasi<det><ind>/qualunque<det><ind>$
@@ -48560,9 +48546,9 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> gi√π<adv>/abbasso<adv>$
 #\^.\<sent\> sonno<n><m>/sogno<n><m>$
 #\^.\<sent\> sonno<n><m>/sogno<n><m>$
-#\^.\<sent\> cadere<vblex>/liberare<vblex>/scendere<vblex>$
-#\^.\<sent\> cadere<vblex>/liberare<vblex>/scendere<vblex>$
-#\^.\<sent\> cadere<vblex>/liberare<vblex>/scendere<vblex>$
+#\^.\<sent\> cadere<vblex>/scendere<vblex>/liberare<vblex>$
+#\^.\<sent\> cadere<vblex>/scendere<vblex>/liberare<vblex>$
+#\^.\<sent\> cadere<vblex>/scendere<vblex>/liberare<vblex>$
 #\^.\<sent\> seccare<vblex>/asciugare<vblex>$
 #\^.\<sent\> seccare<vblex>/asciugare<vblex>$
 #\^.\<sent\> ogni<det><ind><mf>/ciascuno<det><ind><m>/ciascuno<det><ind><f>$
@@ -49093,9 +49079,9 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> olio<n><m>/petrolio<n><m>$
 #\^.\<sent\> a grande scala<adv>/su grande scala<adv>$
 #\^.\<sent\> a grande scala<adv>/su grande scala<adv>$
-#\^.\<sent\> dall'altro lato<adv>/d'altro lato<adv>/d'altro canto<adv>/d'altra parte<adv>$
-#\^.\<sent\> dall'altro lato<adv>/d'altro lato<adv>/d'altro canto<adv>/d'altra parte<adv>$
-#\^.\<sent\> dall'altro lato<adv>/d'altro lato<adv>/d'altro canto<adv>/d'altra parte<adv>$
+#\^.\<sent\> dall'altro lato<adv>/d'altro canto<adv>/d'altro lato<adv>/d'altra parte<adv>$
+#\^.\<sent\> dall'altro lato<adv>/d'altro canto<adv>/d'altro lato<adv>/d'altra parte<adv>$
+#\^.\<sent\> dall'altro lato<adv>/d'altro canto<adv>/d'altro lato<adv>/d'altra parte<adv>$
 #\^.\<sent\> uno<prn><tn><m><sg>/uno<prn><tn><f><sg>/alcuno<prn><tn><m><pl>/alcuno<prn><tn><f><pl>$
 #\^.\<sent\> uno<prn><tn><m><sg>/uno<prn><tn><f><sg>/alcuno<prn><tn><m><pl>/alcuno<prn><tn><f><pl>$
 #\^.\<sent\> uno<prn><tn><m><sg>/uno<prn><tn><f><sg>/alcuno<prn><tn><m><pl>/alcuno<prn><tn><f><pl>$
@@ -49681,7 +49667,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> tunnel<n><m>/galleria<n><f>$
 #\^.\<sent\> turno<n><m>/ritorno<n><m>$
 #\^.\<sent\> turno<n><m>/ritorno<n><m>$
-#\^.\<sent\> girare<vblex>/virare<vblex>$
+#\^.\<sent\> virare<vblex>/girare<vblex>$
 #\^.\<sent\> torcere<vblex>/storcere<vblex>$
 #\^.\<sent\> incondizionale<adj><mf>/incondizionato<adj><mf>$
 #\^.\<sent\> incondizionale<adj><mf>/incondizionato<adj><mf>$
@@ -49786,7 +49772,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> con molta cura<adv>/con molta attenzione<adv>$
 #\^.\<sent\> da allora<adv>/da quando<adv>/dal momento che<adv>$
 #\^.\<sent\> da allora<adv>/da quando<adv>/dal momento che<adv>$
-#\^.\<sent\> dall'altro lato<adv>/d'altro lato<adv>/d'altro canto<adv>/d'altra parte<adv>$
+#\^.\<sent\> dall'altro lato<adv>/d'altro canto<adv>/d'altro lato<adv>/d'altra parte<adv>$
 #\^.\<sent\> ogni tanto<adv>/di tanto in quando<adv>$
 #\^.\<sent\> felicemente<adv>/fortunatamente<adv>$
 #\^.\<sent\> debitamente<adv>/propriamente<adv>/adeguatamente<adv>/correttamente<adv>/in maniera dovuta<adv>$
@@ -49893,7 +49879,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> passare<vblex>/succedere<vblex>/sopravvenire<vblex>$
 #\^.\<sent\> trascurare<vblex>/disattendere<vblex>$
 #\^.\<sent\> tutelare<vblex>/cautelare<vblex>/proteggere<vblex>$
-#\^.\<sent\> girare<vblex>/virare<vblex>$
+#\^.\<sent\> virare<vblex>/girare<vblex>$
 #\^.\<sent\> livellare<vblex>/uniformare<vblex>$
 #\^.\<sent\> passare<vblex>/transitare<vblex>$
 #\^.\<sent\> torcere<vblex>/storcere<vblex>$
