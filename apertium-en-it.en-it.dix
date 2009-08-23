@@ -2458,8 +2458,8 @@
     -->
     <e>
       <p>
-        <l>GDP<s n="n"/><s n="acr"/></l> 
-        <r>PIL<s n="n"/></r> 
+        <l>GDP<s n="n"/><s n="acr"/><s n="sg"/></l> 
+        <r>PIL<s n="n"/><s n="acr"/><s n="m"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -13396,7 +13396,7 @@
     <e>
       <p>
         <l>asthma<s n="n"/></l> 
-        <r>asma<s n="n"/><s n="mf"/><s n="sg"/></r> 
+        <r>asma<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -22490,21 +22490,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-41
-    -->
-    <e>
-      <p>
-        <l>cliente<s n="n"/></l> 
-        <r>cliente<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-1
-    -->
     <e>
       <p>
         <l>clientele<s n="n"/></l> 
@@ -38003,21 +37988,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-41
-    -->
-    <e>
-      <p>
-        <l>finlandés<s n="n"/></l> 
-        <r>finlandese<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-46
-    -->
     <e>
       <p>
         <l>finnish<s n="adj"/></l> 
@@ -39532,21 +39502,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-41
-    -->
-    <e>
-      <p>
-        <l>francés<s n="n"/></l> 
-        <r>francese<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-5
-    -->
     <e>
       <p>
         <l>frank<s n="adj"/></l> 
@@ -44562,17 +44517,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-41
-    -->
-    <e>
-      <p>
-        <l>holandés<s n="n"/></l> 
-        <r>olandese<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-0
     -->
     <e>
@@ -45484,21 +45428,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-41
-    -->
-    <e>
-      <p>
-        <l>huésped<s n="n"/></l> 
-        <r>ospite<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-0
-    -->
     <e>
       <p>
         <l>hyacinth<s n="n"/></l> 
@@ -47783,21 +47712,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-41
-    -->
-    <e>
-      <p>
-        <l>inglés<s n="n"/></l> 
-        <r>inglese<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-16
-    -->
     <e>
       <p>
         <l>inhabitant<s n="n"/></l> 
@@ -49781,16 +49695,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-41
-    -->
-    <e>
-      <p>
-        <l>japonés<s n="n"/></l> 
-        <r>giapponese<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
 
     <!-- 
 	forced 'LR' restriction
