@@ -47809,21 +47809,10 @@
 	forced 'null' restriction
       ND-22
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>inhabitant<s n="n"/></l> 
-        <r>abitatore<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
-    -->
-    <e>
-      <p>
-        <l>inhabitant<s n="n"/></l> 
-        <r>abitatore<s n="n"/><s n="f"/></r> 
+        <r>abitatore<s n="n"/></r> 
       </p>
     </e>
 
@@ -48249,7 +48238,7 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>inspiration<s n="n"/></l> 
         <r>spunto<s n="n"/><s n="f"/></r> 
@@ -98866,9 +98855,9 @@
     <e><i>Jourdain<s n="np"/><s n="ant"/></i></e>
     <e><i>Juste<s n="np"/><s n="ant"/></i></e>
     <e><i>Lammert<s n="np"/><s n="ant"/></i></e>
-    <e><i>Lancelot<s n="np"/><s n="ant"/></i></e>
+    <e r="RL"><i>Lancelot<s n="np"/><s n="ant"/></i></e>
     <e><i>Launce<s n="np"/><s n="ant"/></i></e>
-    <e><i>Launcelot<s n="np"/><s n="ant"/></i></e>
+    <e r="RL"><i>Launcelot<s n="np"/><s n="ant"/></i></e>
     <e><i>Laurentin<s n="np"/><s n="ant"/></i></e>
     <e><i>Lazare<s n="np"/><s n="ant"/></i></e>
     <e><i>Léandre<s n="np"/><s n="ant"/></i></e>
@@ -102385,7 +102374,7 @@
     <e><p><l>taxation<s n="n"/></l><r>tassazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>abuse<g><b/>of<b/>power</g><s n="n"/></l><r>sopraffazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>superimposition<s n="n"/></l><r>sovrapposizione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>partition<s n="n"/></l><r>spartizione<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>partition<s n="n"/></l><r>spartizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>awe<s n="n"/></l><r>soggezione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>solicitation<s n="n"/></l><r>sollecitazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>uprising<s n="n"/></l><r>sollevazione<s n="n"/><s n="f"/></r></p></e>
