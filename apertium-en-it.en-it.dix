@@ -38863,10 +38863,10 @@
 	forced 'null' restriction
       ND-36
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>footballer<s n="n"/></l> 
-        <r>calciatore<s n="n"/><s n="m"/></r> 
+        <r>calciatore<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -38874,10 +38874,10 @@
 	forced 'null' restriction
       ND-30
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>footballer<s n="n"/></l> 
-        <r>calciatore<s n="n"/><s n="f"/></r> 
+        <r>calciatore<s n="n"/></r> 
       </p>
     </e>
 
@@ -38918,7 +38918,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>for<b/>now<s n="adv"/></l> 
         <r>per<b/>adesso<s n="adv"/></r> 
@@ -39072,7 +39072,7 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>forest<s n="n"/></l> 
         <r>bosco<s n="n"/><s n="m"/></r> 
@@ -44663,7 +44663,7 @@
     -->
     <e>
       <p>
-        <l>home<s n="adv"/></l> 
+        <l>at<b/>home<s n="adv"/></l> 
         <r>in<b/>casa<s n="adv"/></r> 
       </p>
     </e>
@@ -77744,7 +77744,7 @@
 	forced 'null' restriction
       default
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>so<b/>that<s n="cnjadv"/></l> 
         <r>nel<b/>caso<b/>in<b/>cui<s n="cnjadv"/></r> 
