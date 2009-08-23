@@ -13395,8 +13395,20 @@
     -->
     <e>
       <p>
-        <l>asthma<s n="n"/></l> 
-        <r>asma<s n="n"/><s n="mf"/></r> 
+        <l>asthma<s n="n"/><s n="sg"/></l> 
+        <r>asma<s n="n"/><s n="mf"/><s n="sg"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>asthma<s n="n"/><s n="pl"/></l> 
+        <r>asma<s n="n"/><s n="mf"/><s n="sg"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>isolation<s n="n"/></l> 
+        <r>isolamento<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -48977,7 +48989,7 @@
 	forced 'null' restriction
       ND3-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>into<s n="pr"/></l> 
         <r>a<s n="pr"/></r> 
@@ -87605,7 +87617,7 @@
 	forced 'null' restriction
       ND3-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>upon<s n="pr"/></l> 
         <r>a<s n="pr"/></r> 
