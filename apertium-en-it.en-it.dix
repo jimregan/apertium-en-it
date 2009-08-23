@@ -13489,9 +13489,9 @@
 	forced 'null' restriction
       ND3-0
     -->
-    <e>
+    <e r="RL">
       <p>
-        <l>at<s n="pr"/></l> 
+        <l>to<s n="pr"/></l> 
         <r>a<s n="pr"/></r> 
       </p>
     </e>
@@ -13500,7 +13500,7 @@
 	forced 'null' restriction
       ND3-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>at<s n="pr"/></l> 
         <r>in<s n="pr"/></r> 
@@ -39840,8 +39840,20 @@
     -->
     <e r="RL">
       <p>
-        <l>from<s n="pr"/></l> 
+        <l>of<s n="pr"/></l> 
         <r>da<s n="pr"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>with<b/>a<b/>view<b/>of<s n="pr"/></l> 
+        <r>all<b/>vista<b/>di<s n="pr"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>with<b/>the<b/>view<b/>of<s n="pr"/></l> 
+        <r>all<b/>vista<b/>di<s n="pr"/></r> 
       </p>
     </e>
 
@@ -60576,17 +60588,6 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      ND3-0
-    -->
-    <e>
-      <p>
-        <l>on<s n="pr"/></l> 
-        <r>in<s n="pr"/></r> 
-      </p>
-    </e>
-
-    <!-- 
 	forced 'RL' restriction
       ND-15
     -->
@@ -76632,17 +76633,6 @@
       <p>
         <l>since<s n="adv"/></l> 
         <r>da<b/>allora<s n="adv"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND3-0
-    -->
-    <e>
-      <p>
-        <l>since<s n="pr"/></l> 
-        <r>da<s n="pr"/></r> 
       </p>
     </e>
 
