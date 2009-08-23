@@ -20268,32 +20268,29 @@
 ^.<sent>$ ^less than<pr>$	. \@Less than\<pr\>
 ^.<sent>$ ^via<pr>$	. \@Via\<pr\>
 ^.<sent>$ ^telephonically<adv>$	. \@Telephonically\<adv\>
-^.<sent>$ ^above<pr>$	. \@Above\<pr\>
 ^.<sent>$ ^shortly after<pr>$	. \@Shortly after\<pr\>
 ^.<sent>$ ^among<pr>$	. #Tra\<pr\>\/fra\<pr\>
-^.<sent>$ ^around<pr>$	. #Attorno a\<pr\>\/intorno a\<pr\>
+^.<sent>$ ^around<pr>$	. #Circa\<pr\>\/attorno a\<pr\>\/intorno a\<pr\>\/nonostante\<pr\>
 ^.<sent>$ ^as a result of<pr>$	. \@As a result of\<pr\>
 ^.<sent>$ ^as for<pr>$	. \@As for\<pr\>
 ^.<sent>$ ^as regards<pr>$	. \@As regards\<pr\>
 ^.<sent>$ ^with regard to<pr>$	. \@With regard to\<pr\>
-^.<sent>$ ^at<pr>$	. #A\<pr\>\/in\<pr\>
 ^.<sent>$ ^at the expense of<pr>$	. \@At the expense of\<pr\>
 ^.<sent>$ ^because of<pr>$	. \@Because of\<pr\>
-^.<sent>$ ^before<pr>$	. \@Before\<pr\>
 ^.<sent>$ ^shortly before<pr>$	. \@Shortly before\<pr\>
-^.<sent>$ ^beside<pr>$	. #Accanto a\<pr\>\/assieme a\<pr\>
+^.<sent>$ ^beside<pr>$	. #Presso\<pr\>\/accanto a\<pr\>\/assieme a\<pr\>
 ^.<sent>$ ^between<pr>$	. #Fra\<pr\>\/tra\<pr\>
 ^.<sent>$ ^concerning<pr>$	. \@Concerning\<pr\>
 ^.<sent>$ ^due to<pr>$	. \@Due to\<pr\>
+^.<sent>$ ^except<pr>$	. #Tranne\<pr\>\/eccetto\<pr\>
 ^.<sent>$ ^for<pr>$	. #Per\<pr\>\/durante\<pr\>
 ^.<sent>$ ^in accordance with<pr>$	. \@In accordance with\<pr\>
-^.<sent>$ ^apart from<pr>$	. \@Apart from\<pr\>
 ^.<sent>$ ^in compliance with<pr>$	. \@In compliance with\<pr\>
 ^.<sent>$ ^in front of<pr>$	. #Innanzi a\<pr\>\/dinanzi a\<pr\>
 ^.<sent>$ ^in regard to<pr>$	. \@In regard to\<pr\>
+^.<sent>$ ^in spite of<pr>$	. #Nonostante\<pr\>\/per altri\<pr\>
 ^.<sent>$ ^in view of<pr>$	. \@In view of\<pr\>
 ^.<sent>$ ^instead of<pr>$	. \@Instead of\<pr\>
-^.<sent>$ ^near<pr>$	. \@Near\<pr\>
 ^.<sent>$ ^on top of<pr>$	. \@On top of\<pr\>
 ^.<sent>$ ^inside<pr>$	. #Entro\<pr\>\/dentro\<pr\>\/entro di\<pr\>\/dentro di\<pr\>
 ^.<sent>$ ^out of<pr>$	. #Fuori\<pr\>\/fuori di\<pr\>
@@ -20301,7 +20298,7 @@
 ^.<sent>$ ^regarding<pr>$	. \@Regarding\<pr\>
 ^.<sent>$ ^so as to<pr>$	. \@So as to\<pr\>
 ^.<sent>$ ^thanks to<pr>$	. \@Thanks to\<pr\>
-^.<sent>$ ^through<pr>$	. #Attraverso a\<pr\>
+^.<sent>$ ^through<pr>$	. #Attraverso a\<pr\>\/attraverso di\<pr\>
 ^.<sent>$ ^until<pr>$	. #Fino\<pr\>\/fino a\<pr\>
 ^.<sent>$ ^up<pr>$	. \@Up\<pr\>
 ^.<sent>$ ^with a view to<pr>$	. \@With a view to\<pr\>
@@ -20312,7 +20309,6 @@
 ^.<sent>$ ^right in front of<pr>$	. \@Right in front of\<pr\>
 ^.<sent>$ ^in order of<pr>$	. \@In order of\<pr\>
 ^.<sent>$ ^across<pr>$	. #Attraverso a\<pr\>
-^.<sent>$ ^Saint Irenaeus<np><ant><m><sg>$	. #Sant'Ireneo\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Austro-Hungarian Empire<np><loc><sg>$	. \@Austro-Hungarian Empire\<np\>\<loc\>
 ^.<sent>$ ^Malaga<np><loc><sg>$	. #M√°laga\<np\>\<loc\>\<f\>\<sg\>
 ^.<sent>$ ^Bretton Woods<np><loc><sg>$	. \@Bretton Woods\<np\>\<loc\>
@@ -41104,8 +41100,8 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> circa<adv>/attorno<adv>/intorno<adv>$
 #\^.\<sent\> circa<adv>/attorno<adv>/intorno<adv>$
 #\^.\<sent\> circa<adv>/attorno<adv>/intorno<adv>$
-#\^.\<sent\> attorno a<pr>/intorno a<pr>$
-#\^.\<sent\> attorno a<pr>/intorno a<pr>$
+#\^.\<sent\> circa<pr>/attorno a<pr>/intorno a<pr>/nonostante<pr>$
+#\^.\<sent\> circa<pr>/attorno a<pr>/intorno a<pr>/nonostante<pr>$
 #\^.\<sent\> arresto<n><m>/detenzione<n><f>$
 #\^.\<sent\> arresto<n><m>/detenzione<n><f>$
 #\^.\<sent\> arrivare<vblex>/giungere<vblex>$
@@ -41121,8 +41117,19 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> assumere<vblex>/supporre<vblex>$
 #\^.\<sent\> astronauta<n><m>/astronauta<n><f>$
 #\^.\<sent\> astronauta<n><m>/astronauta<n><f>$
-#\^.\<sent\> a<pr>/in<pr>$
-#\^.\<sent\> a<pr>/in<pr>$
+#\^.\<sent\> attraverso a<pr>/attraverso di<pr>$
+#\^.\<sent\> circa<pr>/attorno a<pr>/intorno a<pr>/nonostante<pr>$
+#\^.\<sent\> entro<pr>/dentro<pr>/entro di<pr>/dentro di<pr>$
+#\^.\<sent\> tranne<pr>/eccetto<pr>$
+#\^.\<sent\> fino<pr>/fino a<pr>$
+#\^.\<sent\> fra<pr>/tra<pr>$
+#\^.\<sent\> fuori<pr>/fuori di<pr>$
+#\^.\<sent\> circa<pr>/attorno a<pr>/intorno a<pr>/nonostante<pr>$
+#\^.\<sent\> circa<pr>/attorno a<pr>/intorno a<pr>/nonostante<pr>$
+#\^.\<sent\> nonostante<pr>/per altri<pr>$
+#\^.\<sent\> per<pr>/durante<pr>$
+#\^.\<sent\> presso<pr>/accanto a<pr>/assieme a<pr>$
+#\^.\<sent\> fra<pr>/tra<pr>$
 #\^.\<sent\> al meno<adv>/almeno<adv>/neppure<adv>/perlomeno<adv>/per lo meno<adv>/quando meno<adv>$
 #\^.\<sent\> al meno<adv>/almeno<adv>/neppure<adv>/perlomeno<adv>/per lo meno<adv>/quando meno<adv>$
 #\^.\<sent\> al meno<adv>/almeno<adv>/neppure<adv>/perlomeno<adv>/per lo meno<adv>/quando meno<adv>$
@@ -41184,8 +41191,8 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> sotto<adv>/gi√π<adv>$
 #\^.\<sent\> cintura<n><f>/guinzaglio<n><m>$
 #\^.\<sent\> cintura<n><f>/guinzaglio<n><m>$
-#\^.\<sent\> accanto a<pr>/assieme a<pr>$
-#\^.\<sent\> accanto a<pr>/assieme a<pr>$
+#\^.\<sent\> presso<pr>/accanto a<pr>/assieme a<pr>$
+#\^.\<sent\> presso<pr>/accanto a<pr>/assieme a<pr>$
 #\^.\<sent\> inoltre<adv>/in pi√π<adv>/oltretutto<adv>$
 #\^.\<sent\> inoltre<adv>/in pi√π<adv>/oltretutto<adv>$
 #\^.\<sent\> inoltre<adv>/in pi√π<adv>/oltretutto<adv>$
@@ -41499,6 +41506,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> evocazione<n><f>/rievocazione<n><f>$
 #\^.\<sent\> esame<n><m>/ispezione<n><f>$
 #\^.\<sent\> esame<n><m>/ispezione<n><f>$
+#\^.\<sent\> tranne<pr>/eccetto<pr>$
 #\^.\<sent\> cambio<n><m>/baratto<n><m>$
 #\^.\<sent\> cambio<n><m>/baratto<n><m>$
 #\^.\<sent\> prova<n><f>/esposizione<n><f>$
@@ -41722,6 +41730,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> innanzi a<pr>/dinanzi a<pr>$
 #\^.\<sent\> senza giri<adv>/senza peli sulla lingua<adv>$
 #\^.\<sent\> senza giri<adv>/senza peli sulla lingua<adv>$
+#\^.\<sent\> nonostante<pr>/per altri<pr>$
 #\^.\<sent\> invano<adv>/in inutile<adv>$
 #\^.\<sent\> invano<adv>/in inutile<adv>$
 #\^.\<sent\> inclusive<adv>/inclusivamente<adv>$
@@ -42522,6 +42531,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> quanto<rel><nn><GD><pl>/quello che<rel><nn><m><pl>/quello che<rel><nn><f><pl>$
 #\^.\<sent\> quanto<rel><nn><GD><pl>/quello che<rel><nn><m><pl>/quello che<rel><nn><f><pl>$
 #\^.\<sent\> quanto<rel><nn><GD><pl>/quello che<rel><nn><m><pl>/quello che<rel><nn><f><pl>$
+#\^.\<sent\> attraverso a<pr>/attraverso di<pr>$
 #\^.\<sent\> tirare<vblex>/gettare<vblex>$
 #\^.\<sent\> tirare<vblex>/gettare<vblex>$
 #\^.\<sent\> entrata<n><f>/banconota<n><f>$

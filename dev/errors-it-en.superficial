@@ -172,8 +172,6 @@
 ^.<sent>$ ^El Greco<np><ant><m><sg>$	. \@El Greco\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Kenya<np><ant><f><sg>$	. #Kenya\<np\>\<ant\>\<f\>\<sg\>\/Kenia\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Penelope<np><ant><f><sg>$	. #Penelope\<np\>\<ant\>\<f\>\<sg\>\/Penélope\<np\>\<ant\>\<f\>\<sg\>
-^.<sent>$ ^Theophorus<np><ant><m><sg>$	. \@Theophorus\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Saint Irenaeus<np><ant><m><sg>$	. \@Saint Irenaeus\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^BBVA<n><acr><m><sg>$	. \@BBVA\<n\>\<acr\>\<sg\>
 ^.<sent>$ ^FMI<n><acr><m><sg>$	. \@FMI\<n\>\<acr\>\<sg\>
 ^.<sent>$ ^PP<n><acr><m><sg>$	. \@PP\<n\>\<acr\>\<sg\>
@@ -13849,75 +13847,42 @@
 ^.<sent>$ ^né<cnjcoo>$	. #Nor\<cnjcoo\>\/neither\<cnjcoo\>
 ^.<sent>$ ^o<cnjcoo>$	. #Or\<cnjcoo\>\/either\<cnjcoo\>
 ^.<sent>$ ^ossia<cnjcoo>$	. \@Ossia\<cnjcoo\>
-^.<sent>$ ^a<pr>$	. #At\<pr\>\/to\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\>
-^.<sent>$ ^a<pr>$	. #At\<pr\>\/to\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\>
-^.<sent>$ ^a<pr>$ ^il<det><def><f><pl>$	. #At\<pr\>\/to\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\> the
-^.<sent>$ ^a<pr>$ ^il<det><def><f><sg>$	. #At\<pr\>\/to\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\> the
-^.<sent>$ ^a<pr>$ ^il<det><def><m><pl>$	. #At\<pr\>\/to\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\> the
-^.<sent>$ ^a<pr>$ ^il<det><def><m><sg>$	. #At\<pr\>\/to\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\> the
-^.<sent>$ ^a<pr>$ ^il<det><def><m><sg>$	. #At\<pr\>\/to\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\> the
-^.<sent>$ ^a<pr>$ ^il<det><def><m><pl>$	. #At\<pr\>\/to\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\> the
-^.<sent>$ ^da<pr>$	. #From\<pr\>\/since\<pr\>
-^.<sent>$ ^da<pr>$ ^il<det><def><f><sg>$	. #From\<pr\>\/since\<pr\> the
-^.<sent>$ ^da<pr>$ ^il<det><def><f><pl>$	. #From\<pr\>\/since\<pr\> the
-^.<sent>$ ^da<pr>$ ^il<det><def><m><pl>$	. #From\<pr\>\/since\<pr\> the
-^.<sent>$ ^da<pr>$ ^il<det><def><m><pl>$	. #From\<pr\>\/since\<pr\> the
-^.<sent>$ ^da<pr>$ ^il<det><def><m><sg>$	. #From\<pr\>\/since\<pr\> the
-^.<sent>$ ^da<pr>$ ^il<det><def><m><sg>$	. #From\<pr\>\/since\<pr\> the
-^.<sent>$ ^in<pr>$ ^il<det><def><f><sg>$	. #In\<pr\>\/at\<pr\>\/on\<pr\> the
-^.<sent>$ ^in<pr>$ ^il<det><def><f><pl>$	. #In\<pr\>\/at\<pr\>\/on\<pr\> the
-^.<sent>$ ^in<pr>$ ^il<det><def><m><pl>$	. #In\<pr\>\/at\<pr\>\/on\<pr\> the
-^.<sent>$ ^in<pr>$ ^il<det><def><m><pl>$	. #In\<pr\>\/at\<pr\>\/on\<pr\> the
-^.<sent>$ ^in<pr>$ ^il<det><def><m><sg>$	. #In\<pr\>\/at\<pr\>\/on\<pr\> the
-^.<sent>$ ^in<pr>$ ^il<det><def><m><sg>$	. #In\<pr\>\/at\<pr\>\/on\<pr\> the
-^.<sent>$ ^in<pr>$ ^il<det><def><f><sg>$	. #In\<pr\>\/at\<pr\>\/on\<pr\> the
-^.<sent>$ ^in<pr>$ ^il<det><def><f><pl>$	. #In\<pr\>\/at\<pr\>\/on\<pr\> the
-^.<sent>$ ^alla vista di<pr>$	. \@Alla vista di\<pr\>
-^.<sent>$ ^alla vista di<pr>$ ^il<det><def><f><sg>$	. \@Alla vista di\<pr\> the
-^.<sent>$ ^alla vista di<pr>$ ^il<det><def><f><pl>$	. \@Alla vista di\<pr\> the
-^.<sent>$ ^alla vista di<pr>$ ^il<det><def><m><pl>$	. \@Alla vista di\<pr\> the
-^.<sent>$ ^alla vista di<pr>$ ^il<det><def><m><pl>$	. \@Alla vista di\<pr\> the
-^.<sent>$ ^alla vista di<pr>$ ^il<det><def><m><sg>$	. \@Alla vista di\<pr\> the
-^.<sent>$ ^alla vista di<pr>$ ^il<det><def><m><sg>$	. \@Alla vista di\<pr\> the
-^.<sent>$ ^in<pr>$	. #In\<pr\>\/at\<pr\>\/on\<pr\>
+^.<sent>$ ^a<pr>$	. #To\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\>
+^.<sent>$ ^a<pr>$	. #To\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\>
+^.<sent>$ ^a<pr>$ ^il<det><def><f><pl>$	. #To\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\> the
+^.<sent>$ ^a<pr>$ ^il<det><def><f><sg>$	. #To\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\> the
+^.<sent>$ ^a<pr>$ ^il<det><def><m><pl>$	. #To\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\> the
+^.<sent>$ ^a<pr>$ ^il<det><def><m><sg>$	. #To\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\> the
+^.<sent>$ ^a<pr>$ ^il<det><def><m><sg>$	. #To\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\> the
+^.<sent>$ ^a<pr>$ ^il<det><def><m><pl>$	. #To\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\> the
+^.<sent>$ ^alla vista di<pr>$	. #At the sight of\<pr\>
+^.<sent>$ ^alla vista di<pr>$ ^il<det><def><f><sg>$	. #At the sight of\<pr\> the
+^.<sent>$ ^alla vista di<pr>$ ^il<det><def><f><pl>$	. #At the sight of\<pr\> the
+^.<sent>$ ^alla vista di<pr>$ ^il<det><def><m><pl>$	. #At the sight of\<pr\> the
+^.<sent>$ ^alla vista di<pr>$ ^il<det><def><m><pl>$	. #At the sight of\<pr\> the
+^.<sent>$ ^alla vista di<pr>$ ^il<det><def><m><sg>$	. #At the sight of\<pr\> the
+^.<sent>$ ^alla vista di<pr>$ ^il<det><def><m><sg>$	. #At the sight of\<pr\> the
 ^.<sent>$ ^sotto<pr>$	. #Under\<pr\>\/below\<pr\>
-^.<sent>$ ^agli inizi di<pr>$	. \@Agli inizi di\<pr\>
-^.<sent>$ ^agli inizi di<pr>$ ^il<det><def><f><sg>$	. \@Agli inizi di\<pr\> the
-^.<sent>$ ^agli inizi di<pr>$ ^il<det><def><f><pl>$	. \@Agli inizi di\<pr\> the
-^.<sent>$ ^agli inizi di<pr>$ ^il<det><def><m><pl>$	. \@Agli inizi di\<pr\> the
-^.<sent>$ ^agli inizi di<pr>$ ^il<det><def><m><pl>$	. \@Agli inizi di\<pr\> the
-^.<sent>$ ^agli inizi di<pr>$ ^il<det><def><m><sg>$	. \@Agli inizi di\<pr\> the
-^.<sent>$ ^agli inizi di<pr>$ ^il<det><def><m><sg>$	. \@Agli inizi di\<pr\> the
-^.<sent>$ ^attraverso di<pr>$	. \@Attraverso di\<pr\>
-^.<sent>$ ^attraverso di<pr>$ ^il<det><def><f><sg>$	. \@Attraverso di\<pr\> the
-^.<sent>$ ^attraverso di<pr>$ ^il<det><def><f><pl>$	. \@Attraverso di\<pr\> the
-^.<sent>$ ^attraverso di<pr>$ ^il<det><def><m><pl>$	. \@Attraverso di\<pr\> the
-^.<sent>$ ^attraverso di<pr>$ ^il<det><def><m><pl>$	. \@Attraverso di\<pr\> the
-^.<sent>$ ^attraverso di<pr>$ ^il<det><def><m><sg>$	. \@Attraverso di\<pr\> the
-^.<sent>$ ^attraverso di<pr>$ ^il<det><def><m><sg>$	. \@Attraverso di\<pr\> the
-^.<sent>$ ^prima di<pr>$	. \@Prima di\<pr\>
-^.<sent>$ ^prima di<pr>$ ^il<det><def><f><sg>$	. \@Prima di\<pr\> the
-^.<sent>$ ^prima di<pr>$ ^il<det><def><f><pl>$	. \@Prima di\<pr\> the
-^.<sent>$ ^prima di<pr>$ ^il<det><def><m><pl>$	. \@Prima di\<pr\> the
-^.<sent>$ ^prima di<pr>$ ^il<det><def><m><pl>$	. \@Prima di\<pr\> the
-^.<sent>$ ^prima di<pr>$ ^il<det><def><m><sg>$	. \@Prima di\<pr\> the
-^.<sent>$ ^prima di<pr>$ ^il<det><def><m><sg>$	. \@Prima di\<pr\> the
-^.<sent>$ ^circa<pr>$	. \@Circa\<pr\>
+^.<sent>$ ^agli inizi di<pr>$	. #At the start of\<pr\>
+^.<sent>$ ^agli inizi di<pr>$ ^il<det><def><f><sg>$	. #At the start of\<pr\> the
+^.<sent>$ ^agli inizi di<pr>$ ^il<det><def><f><pl>$	. #At the start of\<pr\> the
+^.<sent>$ ^agli inizi di<pr>$ ^il<det><def><m><pl>$	. #At the start of\<pr\> the
+^.<sent>$ ^agli inizi di<pr>$ ^il<det><def><m><pl>$	. #At the start of\<pr\> the
+^.<sent>$ ^agli inizi di<pr>$ ^il<det><def><m><sg>$	. #At the start of\<pr\> the
+^.<sent>$ ^agli inizi di<pr>$ ^il<det><def><m><sg>$	. #At the start of\<pr\> the
 ^.<sent>$ ^come<pr>$	. #Like\<pr\>\/such as\<pr\>
 ^.<sent>$ ^dentro<pr>$	. #Inside\<pr\>\/within\<pr\>
 ^.<sent>$ ^durante<pr>$	. #During\<pr\>\/over\<pr\>\/for\<pr\>\/throughout\<pr\>
-^.<sent>$ ^eccetto<pr>$	. \@Eccetto\<pr\>
 ^.<sent>$ ^fino<pr>$	. #Up to\<pr\>\/until\<pr\>
 ^.<sent>$ ^fra<pr>$	. #Among\<pr\>\/between\<pr\>
-^.<sent>$ ^fuorché<pr>$	. \@Fuorché\<pr\>
 ^.<sent>$ ^fuori<pr>$	. #Out\<pr\>\/out of\<pr\>\/outside\<pr\>
-^.<sent>$ ^in attesa di<pr>$	. \@In attesa di\<pr\>
-^.<sent>$ ^in attesa di<pr>$ ^il<det><def><f><sg>$	. \@In attesa di\<pr\> the
-^.<sent>$ ^in attesa di<pr>$ ^il<det><def><f><pl>$	. \@In attesa di\<pr\> the
-^.<sent>$ ^in attesa di<pr>$ ^il<det><def><m><pl>$	. \@In attesa di\<pr\> the
-^.<sent>$ ^in attesa di<pr>$ ^il<det><def><m><pl>$	. \@In attesa di\<pr\> the
-^.<sent>$ ^in attesa di<pr>$ ^il<det><def><m><sg>$	. \@In attesa di\<pr\> the
-^.<sent>$ ^in attesa di<pr>$ ^il<det><def><m><sg>$	. \@In attesa di\<pr\> the
+^.<sent>$ ^in attesa di<pr>$	. #In hope of\<pr\>
+^.<sent>$ ^in attesa di<pr>$ ^il<det><def><f><sg>$	. #In hope of\<pr\> the
+^.<sent>$ ^in attesa di<pr>$ ^il<det><def><f><pl>$	. #In hope of\<pr\> the
+^.<sent>$ ^in attesa di<pr>$ ^il<det><def><m><pl>$	. #In hope of\<pr\> the
+^.<sent>$ ^in attesa di<pr>$ ^il<det><def><m><pl>$	. #In hope of\<pr\> the
+^.<sent>$ ^in attesa di<pr>$ ^il<det><def><m><sg>$	. #In hope of\<pr\> the
+^.<sent>$ ^in attesa di<pr>$ ^il<det><def><m><sg>$	. #In hope of\<pr\> the
 ^.<sent>$ ^insieme a<pr>$	. #Along with\<pr\>\/together with\<pr\>
 ^.<sent>$ ^insieme a<pr>$	. #Along with\<pr\>\/together with\<pr\>
 ^.<sent>$ ^insieme a<pr>$ ^il<det><def><f><pl>$	. #Along with\<pr\>\/together with\<pr\> the
@@ -13934,22 +13899,12 @@
 ^.<sent>$ ^intorno a<pr>$ ^il<det><def><m><sg>$	. #Around\<pr\>\/round\<pr\> the
 ^.<sent>$ ^intorno a<pr>$ ^il<det><def><m><sg>$	. #Around\<pr\>\/round\<pr\> the
 ^.<sent>$ ^intorno a<pr>$ ^il<det><def><m><pl>$	. #Around\<pr\>\/round\<pr\> the
-^.<sent>$ ^nonostante<pr>$	. #Despite\<pr\>\/in spite of\<pr\>
+^.<sent>$ ^nonostante<pr>$	. #Around\<pr\>\/despite\<pr\>\/in spite of\<pr\>
 ^.<sent>$ ^per<pr>$	. #Per\<pr\>\/for\<pr\>\/by\<pr\>\/towards\<pr\>\/in order to\<pr\>
-^.<sent>$ ^per altri<pr>$	. \@Per altri\<pr\>
-^.<sent>$ ^presso<pr>$	. \@Presso\<pr\>
 ^.<sent>$ ^secondo<pr>$	. #According\<pr\>\/according to\<pr\>
-^.<sent>$ ^sopra<pr>$	. #About\<pr\>\/on\<pr\>\/over\<pr\>\/at about\<pr\>
+^.<sent>$ ^sopra<pr>$	. #Above\<pr\>\/about\<pr\>\/on\<pr\>\/over\<pr\>\/at about\<pr\>
 ^.<sent>$ ^tra<pr>$	. #Amid\<pr\>\/among\<pr\>\/amongst\<pr\>\/between\<pr\>
-^.<sent>$ ^tranne<pr>$	. #Except\<pr\>\/but\<pr\>\/except for\<pr\>
-^.<sent>$ ^vicino a<pr>$	. \@Vicino a\<pr\>
-^.<sent>$ ^vicino a<pr>$	. \@Vicino a\<pr\>
-^.<sent>$ ^vicino a<pr>$ ^il<det><def><f><pl>$	. \@Vicino a\<pr\> the
-^.<sent>$ ^vicino a<pr>$ ^il<det><def><f><sg>$	. \@Vicino a\<pr\> the
-^.<sent>$ ^vicino a<pr>$ ^il<det><def><m><pl>$	. \@Vicino a\<pr\> the
-^.<sent>$ ^vicino a<pr>$ ^il<det><def><m><sg>$	. \@Vicino a\<pr\> the
-^.<sent>$ ^vicino a<pr>$ ^il<det><def><m><sg>$	. \@Vicino a\<pr\> the
-^.<sent>$ ^vicino a<pr>$ ^il<det><def><m><pl>$	. \@Vicino a\<pr\> the
+^.<sent>$ ^tranne<pr>$	. #Except\<pr\>\/unless\<pr\>\/but\<pr\>\/except for\<pr\>
 ^.<sent>$ ^a cielo aperto<adv>$	. \@A cielo aperto\<adv\>
 ^.<sent>$ ^a continuazione<adv>$	. \@A continuazione\<adv\>
 ^.<sent>$ ^a contropelo<adv>$	. \@A contropelo\<adv\>
@@ -14146,11 +14101,8 @@
 ^.<sent>$ ^vivamente<adv>$	. \@Vivamente\<adv\>
 ^.<sent>$ ^volutamente<adv>$	. \@Volutamente\<adv\>
 ^.<sent>$ ^Abdul-Hamid<np><ant><m><sg>$	. #Abdul Hamid\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^a<pr>$ ^il<det><def><mf><sg>$	. #At\<pr\>\/to\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\> the
-^.<sent>$ ^da<pr>$	. #From\<pr\>\/since\<pr\>
-^.<sent>$ ^da<pr>$ ^il<det><def><mf><sg>$	. #From\<pr\>\/since\<pr\> the
+^.<sent>$ ^a<pr>$ ^il<det><def><mf><sg>$	. #To\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\> the
 ^.<sent>$ ^ne<prn><pro><adv>$	. \@ne\<prn\>\<pro\>\<adv\>
-^.<sent>$ ^in<pr>$ ^il<det><def><mf><sg>$	. #In\<pr\>\/at\<pr\>\/on\<pr\> the
 ^.<sent>$ ^quello<det><dem><mf><sg>$	. #That\<sg\>
 ^.<sent>$ ^questo<det><dem><mf><sg>$	. #This\<sg\>
 ^.<sent>$ ^sotto<pr>$	. #Under\<pr\>\/below\<pr\>
