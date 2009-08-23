@@ -56808,6 +56808,12 @@
         <r>modificare<s n="vblex"/></r> 
       </p>
     </e>
+    <e r="LR">
+      <p>
+        <l>amend<s n="vblex"/></l> 
+        <r>modificare<s n="vblex"/></r> 
+      </p>
+    </e>
 
     <!-- 
 	forced 'null' restriction
@@ -93330,6 +93336,12 @@
     <e c="srl"><p><l>subtract<s n="vblex"/></l><r>sottrarre<s n="vblex"/></r></p></e>
     <e c="srl"><p><l>embezzle<s n="vblex"/></l><r>sottrarre<s n="vblex"/></r></p></e>
     <e><p><l>underestimate<s n="vblex"/></l><r>sottovalutare<s n="vblex"/></r></p></e>
+    <e><p><l>value<s n="vblex"/></l><r>valutare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>appraise<s n="vblex"/></l><r>valutare<s n="vblex"/></r></p></e>
+    <e><p><l>alarm<s n="vblex"/></l><r>allarmare<s n="vblex"/></r></p></e>
+    <e><p><l>arm<s n="vblex"/></l><r>armare<s n="vblex"/></r></p></e>
+    <e><p><l>anchor<s n="vblex"/></l><r>ancorare<s n="vblex"/></r></p></e>
+    <e><p><l>arch<s n="vblex"/></l><r>arcuare<s n="vblex"/></r></p></e>
     <e><p><l>acclimatise<s n="vblex"/></l><r>ambientare<s n="vblex"/></r></p></e>
     <e><p><l>assume<s n="vblex"/></l><r>assumere<s n="vblex"/></r></p></e>
     <e><p><l>pick<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>captare<s n="vblex"/></r></p></e>
