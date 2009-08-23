@@ -519,11 +519,6 @@
 ^.<sent>$ ^alternative<n><pl>$ ^'s<gen>$	. \@Alternative\<n\> 
 ^.<sent>$ ^alternative<n><sg>$	. \@Alternative\<n\>
 ^.<sent>$ ^alternative<n><pl>$	. \@Alternative\<n\>
-^.<sent>$ ^alternative medicine<n><sg>$	. \@Alternative medicine\<n\>
-^.<sent>$ ^alternative medicine<n><pl>$	. \@Alternative medicine\<n\>
-^.<sent>$ ^alternative medicine<n><pl>$ ^'s<gen>$	. \@Alternative medicine\<n\> 
-^.<sent>$ ^alternative medicine<n><sg>$	. \@Alternative medicine\<n\>
-^.<sent>$ ^alternative medicine<n><pl>$	. \@Alternative medicine\<n\>
 ^.<sent>$ ^amen<n><sg>$	. #Amen\<n\>\<m\>\<sg\>
 ^.<sent>$ ^amen<n><pl>$	. #Amen\<n\>\<m\>\<pl\>
 ^.<sent>$ ^amen<n><pl>$ ^'s<gen>$	. #Amen\<n\>\<m\>\<pl\> 
@@ -776,11 +771,6 @@
 ^.<sent>$ ^auditor<n><pl>$ ^'s<gen>$	. \@Auditor\<n\> 
 ^.<sent>$ ^auditor<n><sg>$	. \@Auditor\<n\>
 ^.<sent>$ ^auditor<n><pl>$	. \@Auditor\<n\>
-^.<sent>$ ^aunt<n><sg>$	. \@Aunt\<n\>
-^.<sent>$ ^aunt<n><pl>$	. \@Aunt\<n\>
-^.<sent>$ ^aunt<n><pl>$ ^'s<gen>$	. \@Aunt\<n\> 
-^.<sent>$ ^aunt<n><sg>$	. \@Aunt\<n\>
-^.<sent>$ ^aunt<n><pl>$	. \@Aunt\<n\>
 ^.<sent>$ ^aureole<n><sg>$	. \@Aureole\<n\>
 ^.<sent>$ ^aureole<n><pl>$	. \@Aureole\<n\>
 ^.<sent>$ ^aureole<n><pl>$ ^'s<gen>$	. \@Aureole\<n\> 
@@ -11452,17 +11442,6 @@
 ^.<sent>$ ^should<vaux><inf>$	. \@Should
 ^.<sent>$ ^may<vaux><inf>$	. \@May
 ^.<sent>$ ^might<vaux><inf>$	. \@Might
-^.<sent>$ ^be# worthwhile<vblex><inf>$	. \@Be\<vblex\>\<inf\># worthwhile
-^.<sent>$ ^be# worthwhile<vblex><pres>$	. \@Be\<vblex\>\<pri\>\<p3\>\<sg\># worthwhile
-^.<sent>$ ^be# worthwhile<vblex><pri><p1><sg>$	. \@Be\<vblex\>\<pri\>\<p1\>\<sg\># worthwhile
-^.<sent>$ ^be# worthwhile<vblex><pri><p3><sg>$	. \@Be\<vblex\>\<pri\>\<p3\>\<sg\># worthwhile
-^.<sent>$ ^be# worthwhile<vblex><past><p1><sg>$	. \@Be\<vblex\>\<ifi\>\<p3\>\<sg\># worthwhile
-^.<sent>$ ^be# worthwhile<vblex><past><p3><sg>$	. \@Be\<vblex\>\<ifi\>\<p3\>\<sg\># worthwhile
-^.<sent>$ ^be# worthwhile<vblex><past>$	. \@Be\<vblex\>\<ifi\>\<p3\>\<sg\># worthwhile
-^.<sent>$ ^be# worthwhile<vblex><pp>$	. \@Be\<vblex\>\<pp\>\<m\>\<sg\># worthwhile
-^.<sent>$ ^be# worthwhile<vblex><ger>$	. \@Be\<vblex\>\<ger\># worthwhile
-^.<sent>$ ^be# worthwhile<vblex><pprs>$	. \@Be\<vblex\>\<ger\># worthwhile
-^.<sent>$ ^be# worthwhile<vblex><subs>$	. \@Be\<vblex\>\<inf\># worthwhile
 ^.<sent>$ ^go# through<vblex><inf>$	. \@Go\<vblex\>\<inf\># through
 ^.<sent>$ ^go# through<vblex><pres>$	. \@Go\<vblex\>\<pri\>\<p3\>\<sg\># through
 ^.<sent>$ ^go# through<vblex><pri><p3><sg>$	. \@Go\<vblex\>\<pri\>\<p3\>\<sg\># through
@@ -11479,14 +11458,6 @@
 ^.<sent>$ ^absorb<vblex><ger>$	. #Assorbire\<vblex\>\<ger\>
 ^.<sent>$ ^absorb<vblex><pprs>$	. #Assorbire\<vblex\>\<ger\>
 ^.<sent>$ ^absorb<vblex><subs>$	. #Assorbire\<vblex\>\<inf\>
-^.<sent>$ ^adduce<vblex><inf>$	. \@Adduce\<vblex\>\<inf\>
-^.<sent>$ ^adduce<vblex><pres>$	. \@Adduce\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^adduce<vblex><pri><p3><sg>$	. \@Adduce\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^adduce<vblex><past>$	. \@Adduce\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^adduce<vblex><pp>$	. \@Adduce\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^adduce<vblex><ger>$	. \@Adduce\<vblex\>\<ger\>
-^.<sent>$ ^adduce<vblex><pprs>$	. \@Adduce\<vblex\>\<ger\>
-^.<sent>$ ^adduce<vblex><subs>$	. \@Adduce\<vblex\>\<inf\>
 ^.<sent>$ ^adjust<vblex><inf>$	. \@Adjust\<vblex\>\<inf\>
 ^.<sent>$ ^adjust<vblex><pres>$	. \@Adjust\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^adjust<vblex><pri><p3><sg>$	. \@Adjust\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -11527,126 +11498,6 @@
 ^.<sent>$ ^afford<vblex><ger>$	. \@Afford\<vblex\>\<ger\>
 ^.<sent>$ ^afford<vblex><pprs>$	. \@Afford\<vblex\>\<ger\>
 ^.<sent>$ ^afford<vblex><subs>$	. \@Afford\<vblex\>\<inf\>
-^.<sent>$ ^agglutinate<vblex><inf>$	. \@Agglutinate\<vblex\>\<inf\>
-^.<sent>$ ^agglutinate<vblex><pres>$	. \@Agglutinate\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^agglutinate<vblex><pri><p3><sg>$	. \@Agglutinate\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^agglutinate<vblex><past>$	. \@Agglutinate\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^agglutinate<vblex><pp>$	. \@Agglutinate\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^agglutinate<vblex><ger>$	. \@Agglutinate\<vblex\>\<ger\>
-^.<sent>$ ^agglutinate<vblex><pprs>$	. \@Agglutinate\<vblex\>\<ger\>
-^.<sent>$ ^agglutinate<vblex><subs>$	. \@Agglutinate\<vblex\>\<inf\>
-^.<sent>$ ^aggravate<vblex><inf>$	. \@Aggravate\<vblex\>\<inf\>
-^.<sent>$ ^aggravate<vblex><pres>$	. \@Aggravate\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^aggravate<vblex><pri><p3><sg>$	. \@Aggravate\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^aggravate<vblex><past>$	. \@Aggravate\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^aggravate<vblex><pp>$	. \@Aggravate\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^aggravate<vblex><ger>$	. \@Aggravate\<vblex\>\<ger\>
-^.<sent>$ ^aggravate<vblex><pprs>$	. \@Aggravate\<vblex\>\<ger\>
-^.<sent>$ ^aggravate<vblex><subs>$	. \@Aggravate\<vblex\>\<inf\>
-^.<sent>$ ^alarm<vblex><inf>$	. \@Alarm\<vblex\>\<inf\>
-^.<sent>$ ^alarm<vblex><pres>$	. \@Alarm\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^alarm<vblex><pri><p3><sg>$	. \@Alarm\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^alarm<vblex><past>$	. \@Alarm\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^alarm<vblex><pp>$	. \@Alarm\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^alarm<vblex><ger>$	. \@Alarm\<vblex\>\<ger\>
-^.<sent>$ ^alarm<vblex><pprs>$	. \@Alarm\<vblex\>\<ger\>
-^.<sent>$ ^alarm<vblex><subs>$	. \@Alarm\<vblex\>\<inf\>
-^.<sent>$ ^allege<vblex><inf>$	. \@Allege\<vblex\>\<inf\>
-^.<sent>$ ^allege<vblex><pres>$	. \@Allege\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^allege<vblex><pri><p3><sg>$	. \@Allege\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^allege<vblex><past>$	. \@Allege\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^allege<vblex><pp>$	. \@Allege\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^allege<vblex><ger>$	. \@Allege\<vblex\>\<ger\>
-^.<sent>$ ^allege<vblex><pprs>$	. \@Allege\<vblex\>\<ger\>
-^.<sent>$ ^allege<vblex><subs>$	. \@Allege\<vblex\>\<inf\>
-^.<sent>$ ^amend<vblex><inf>$	. \@Amend\<vblex\>\<inf\>
-^.<sent>$ ^amend<vblex><pres>$	. \@Amend\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^amend<vblex><pri><p3><sg>$	. \@Amend\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^amend<vblex><past>$	. \@Amend\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^amend<vblex><pp>$	. \@Amend\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^amend<vblex><ger>$	. \@Amend\<vblex\>\<ger\>
-^.<sent>$ ^amend<vblex><pprs>$	. \@Amend\<vblex\>\<ger\>
-^.<sent>$ ^amend<vblex><subs>$	. \@Amend\<vblex\>\<inf\>
-^.<sent>$ ^amortise<vblex><inf>$	. \@Amortise\<vblex\>\<inf\>
-^.<sent>$ ^amortise<vblex><pres>$	. \@Amortise\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^amortise<vblex><pri><p3><sg>$	. \@Amortise\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^amortise<vblex><past>$	. \@Amortise\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^amortise<vblex><pp>$	. \@Amortise\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^amortise<vblex><ger>$	. \@Amortise\<vblex\>\<ger\>
-^.<sent>$ ^amortise<vblex><pprs>$	. \@Amortise\<vblex\>\<ger\>
-^.<sent>$ ^amortise<vblex><subs>$	. \@Amortise\<vblex\>\<inf\>
-^.<sent>$ ^amortise<vblex><inf>$	. \@Amortise\<vblex\>\<inf\>
-^.<sent>$ ^amortise<vblex><pres>$	. \@Amortise\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^amortise<vblex><pri><p3><sg>$	. \@Amortise\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^amortise<vblex><past>$	. \@Amortise\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^amortise<vblex><pp>$	. \@Amortise\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^amortise<vblex><ger>$	. \@Amortise\<vblex\>\<ger\>
-^.<sent>$ ^amortise<vblex><pprs>$	. \@Amortise\<vblex\>\<ger\>
-^.<sent>$ ^amortise<vblex><subs>$	. \@Amortise\<vblex\>\<inf\>
-^.<sent>$ ^amplify<vblex><inf>$	. \@Amplify\<vblex\>\<inf\>
-^.<sent>$ ^amplify<vblex><pres>$	. \@Amplify\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^amplify<vblex><pri><p3><sg>$	. \@Amplify\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^amplify<vblex><past>$	. \@Amplify\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^amplify<vblex><pp>$	. \@Amplify\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^amplify<vblex><ger>$	. \@Amplify\<vblex\>\<ger\>
-^.<sent>$ ^amplify<vblex><pprs>$	. \@Amplify\<vblex\>\<ger\>
-^.<sent>$ ^amplify<vblex><subs>$	. \@Amplify\<vblex\>\<inf\>
-^.<sent>$ ^anaesthetise<vblex><inf>$	. \@Anaesthetise\<vblex\>\<inf\>
-^.<sent>$ ^anaesthetise<vblex><pres>$	. \@Anaesthetise\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^anaesthetise<vblex><pri><p3><sg>$	. \@Anaesthetise\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^anaesthetise<vblex><past>$	. \@Anaesthetise\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^anaesthetise<vblex><pp>$	. \@Anaesthetise\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^anaesthetise<vblex><ger>$	. \@Anaesthetise\<vblex\>\<ger\>
-^.<sent>$ ^anaesthetise<vblex><pprs>$	. \@Anaesthetise\<vblex\>\<ger\>
-^.<sent>$ ^anaesthetise<vblex><subs>$	. \@Anaesthetise\<vblex\>\<inf\>
-^.<sent>$ ^anaesthetise<vblex><inf>$	. \@Anaesthetise\<vblex\>\<inf\>
-^.<sent>$ ^anaesthetise<vblex><pres>$	. \@Anaesthetise\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^anaesthetise<vblex><pri><p3><sg>$	. \@Anaesthetise\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^anaesthetise<vblex><past>$	. \@Anaesthetise\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^anaesthetise<vblex><pp>$	. \@Anaesthetise\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^anaesthetise<vblex><ger>$	. \@Anaesthetise\<vblex\>\<ger\>
-^.<sent>$ ^anaesthetise<vblex><pprs>$	. \@Anaesthetise\<vblex\>\<ger\>
-^.<sent>$ ^anaesthetise<vblex><subs>$	. \@Anaesthetise\<vblex\>\<inf\>
-^.<sent>$ ^anaesthetise<vblex><inf>$	. \@Anaesthetise\<vblex\>\<inf\>
-^.<sent>$ ^anaesthetise<vblex><pres>$	. \@Anaesthetise\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^anaesthetise<vblex><pri><p3><sg>$	. \@Anaesthetise\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^anaesthetise<vblex><past>$	. \@Anaesthetise\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^anaesthetise<vblex><pp>$	. \@Anaesthetise\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^anaesthetise<vblex><ger>$	. \@Anaesthetise\<vblex\>\<ger\>
-^.<sent>$ ^anaesthetise<vblex><pprs>$	. \@Anaesthetise\<vblex\>\<ger\>
-^.<sent>$ ^anaesthetise<vblex><subs>$	. \@Anaesthetise\<vblex\>\<inf\>
-^.<sent>$ ^anaesthetise<vblex><inf>$	. \@Anaesthetise\<vblex\>\<inf\>
-^.<sent>$ ^anaesthetise<vblex><pres>$	. \@Anaesthetise\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^anaesthetise<vblex><pri><p3><sg>$	. \@Anaesthetise\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^anaesthetise<vblex><past>$	. \@Anaesthetise\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^anaesthetise<vblex><pp>$	. \@Anaesthetise\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^anaesthetise<vblex><ger>$	. \@Anaesthetise\<vblex\>\<ger\>
-^.<sent>$ ^anaesthetise<vblex><pprs>$	. \@Anaesthetise\<vblex\>\<ger\>
-^.<sent>$ ^anaesthetise<vblex><subs>$	. \@Anaesthetise\<vblex\>\<inf\>
-^.<sent>$ ^analyse<vblex><inf>$	. \@Analyse\<vblex\>\<inf\>
-^.<sent>$ ^analyse<vblex><pres>$	. \@Analyse\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^analyse<vblex><pri><p3><sg>$	. \@Analyse\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^analyse<vblex><past>$	. \@Analyse\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^analyse<vblex><pp>$	. \@Analyse\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^analyse<vblex><ger>$	. \@Analyse\<vblex\>\<ger\>
-^.<sent>$ ^analyse<vblex><pprs>$	. \@Analyse\<vblex\>\<ger\>
-^.<sent>$ ^analyse<vblex><subs>$	. \@Analyse\<vblex\>\<inf\>
-^.<sent>$ ^analyse<vblex><inf>$	. \@Analyse\<vblex\>\<inf\>
-^.<sent>$ ^analyse<vblex><pres>$	. \@Analyse\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^analyse<vblex><pri><p3><sg>$	. \@Analyse\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^analyse<vblex><past>$	. \@Analyse\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^analyse<vblex><pp>$	. \@Analyse\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^analyse<vblex><ger>$	. \@Analyse\<vblex\>\<ger\>
-^.<sent>$ ^analyse<vblex><pprs>$	. \@Analyse\<vblex\>\<ger\>
-^.<sent>$ ^analyse<vblex><subs>$	. \@Analyse\<vblex\>\<inf\>
-^.<sent>$ ^anchor<vblex><inf>$	. \@Anchor\<vblex\>\<inf\>
-^.<sent>$ ^anchor<vblex><pres>$	. \@Anchor\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^anchor<vblex><pri><p3><sg>$	. \@Anchor\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^anchor<vblex><past>$	. \@Anchor\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^anchor<vblex><pp>$	. \@Anchor\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^anchor<vblex><ger>$	. \@Anchor\<vblex\>\<ger\>
-^.<sent>$ ^anchor<vblex><pprs>$	. \@Anchor\<vblex\>\<ger\>
-^.<sent>$ ^anchor<vblex><subs>$	. \@Anchor\<vblex\>\<inf\>
 ^.<sent>$ ^annex<vblex><inf>$	. \@Annex\<vblex\>\<inf\>
 ^.<sent>$ ^annex<vblex><pres>$	. \@Annex\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^annex<vblex><pri><p3><sg>$	. \@Annex\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -11695,14 +11546,6 @@
 ^.<sent>$ ^apologise<vblex><ger>$	. \@Apologise\<vblex\>\<ger\>
 ^.<sent>$ ^apologise<vblex><pprs>$	. \@Apologise\<vblex\>\<ger\>
 ^.<sent>$ ^apologise<vblex><subs>$	. \@Apologise\<vblex\>\<inf\>
-^.<sent>$ ^appraise<vblex><inf>$	. \@Appraise\<vblex\>\<inf\>
-^.<sent>$ ^appraise<vblex><pres>$	. \@Appraise\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^appraise<vblex><pri><p3><sg>$	. \@Appraise\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^appraise<vblex><past>$	. \@Appraise\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^appraise<vblex><pp>$	. \@Appraise\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^appraise<vblex><ger>$	. \@Appraise\<vblex\>\<ger\>
-^.<sent>$ ^appraise<vblex><pprs>$	. \@Appraise\<vblex\>\<ger\>
-^.<sent>$ ^appraise<vblex><subs>$	. \@Appraise\<vblex\>\<inf\>
 ^.<sent>$ ^approach<vblex><inf>$	. \@Approach\<vblex\>\<inf\>
 ^.<sent>$ ^approach<vblex><pres>$	. \@Approach\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^approach<vblex><pri><p3><sg>$	. \@Approach\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -11727,22 +11570,6 @@
 ^.<sent>$ ^arbitrate<vblex><ger>$	. \@Arbitrate\<vblex\>\<ger\>
 ^.<sent>$ ^arbitrate<vblex><pprs>$	. \@Arbitrate\<vblex\>\<ger\>
 ^.<sent>$ ^arbitrate<vblex><subs>$	. \@Arbitrate\<vblex\>\<inf\>
-^.<sent>$ ^arch<vblex><inf>$	. \@Arch\<vblex\>\<inf\>
-^.<sent>$ ^arch<vblex><pres>$	. \@Arch\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^arch<vblex><pri><p3><sg>$	. \@Arch\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^arch<vblex><past>$	. \@Arch\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^arch<vblex><pp>$	. \@Arch\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^arch<vblex><ger>$	. \@Arch\<vblex\>\<ger\>
-^.<sent>$ ^arch<vblex><pprs>$	. \@Arch\<vblex\>\<ger\>
-^.<sent>$ ^arch<vblex><subs>$	. \@Arch\<vblex\>\<inf\>
-^.<sent>$ ^arm<vblex><inf>$	. \@Arm\<vblex\>\<inf\>
-^.<sent>$ ^arm<vblex><pres>$	. \@Arm\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^arm<vblex><pri><p3><sg>$	. \@Arm\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^arm<vblex><past>$	. \@Arm\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^arm<vblex><pp>$	. \@Arm\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^arm<vblex><ger>$	. \@Arm\<vblex\>\<ger\>
-^.<sent>$ ^arm<vblex><pprs>$	. \@Arm\<vblex\>\<ger\>
-^.<sent>$ ^arm<vblex><subs>$	. \@Arm\<vblex\>\<inf\>
 ^.<sent>$ ^assess<vblex><inf>$	. \@Assess\<vblex\>\<inf\>
 ^.<sent>$ ^assess<vblex><pres>$	. \@Assess\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^assess<vblex><pri><p3><sg>$	. \@Assess\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -15425,14 +15252,6 @@
 ^.<sent>$ ^make# up<vblex><sep><subs>$ ^this<prn><tn><mf><pl>$	. Inventare #questo\<prn\>\<tn\>\<m\>
 ^.<sent>$ ^make# up<vblex><sep><subs>$ ^that<prn><tn><mf><sg>$	. Inventare #quello\<prn\>\<tn\>\<nt\>
 ^.<sent>$ ^make# up<vblex><sep><subs>$ ^that<prn><tn><mf><pl>$	. Inventare #quello\<prn\>\<tn\>\<m\>
-^.<sent>$ ^make# money<vblex><inf>$	. \@Make\<vblex\>\<inf\># money
-^.<sent>$ ^make# money<vblex><pres>$	. \@Make\<vblex\>\<pri\>\<p3\>\<sg\># money
-^.<sent>$ ^make# money<vblex><pri><p3><sg>$	. \@Make\<vblex\>\<pri\>\<p3\>\<sg\># money
-^.<sent>$ ^make# money<vblex><past>$	. \@Make\<vblex\>\<ifi\>\<p3\>\<sg\># money
-^.<sent>$ ^make# money<vblex><pp>$	. \@Make\<vblex\>\<pp\>\<m\>\<sg\># money
-^.<sent>$ ^make# money<vblex><ger>$	. \@Make\<vblex\>\<ger\># money
-^.<sent>$ ^make# money<vblex><pprs>$	. \@Make\<vblex\>\<ger\># money
-^.<sent>$ ^make# money<vblex><subs>$	. \@Make\<vblex\>\<inf\># money
 ^.<sent>$ ^lose<vblex><pp>$	. Perduto/Perso
 ^.<sent>$ ^load<vblex><inf>$	. \@Load\<vblex\>\<inf\>
 ^.<sent>$ ^load<vblex><pres>$	. \@Load\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -15458,14 +15277,6 @@
 ^.<sent>$ ^loom<vblex><ger>$	. \@Loom\<vblex\>\<ger\>
 ^.<sent>$ ^loom<vblex><pprs>$	. \@Loom\<vblex\>\<ger\>
 ^.<sent>$ ^loom<vblex><subs>$	. \@Loom\<vblex\>\<inf\>
-^.<sent>$ ^make# a mistake<vblex><inf>$	. \@Make\<vblex\>\<inf\># a mistake
-^.<sent>$ ^make# a mistake<vblex><pres>$	. \@Make\<vblex\>\<pri\>\<p3\>\<sg\># a mistake
-^.<sent>$ ^make# a mistake<vblex><pri><p3><sg>$	. \@Make\<vblex\>\<pri\>\<p3\>\<sg\># a mistake
-^.<sent>$ ^make# a mistake<vblex><past>$	. \@Make\<vblex\>\<ifi\>\<p3\>\<sg\># a mistake
-^.<sent>$ ^make# a mistake<vblex><pp>$	. \@Make\<vblex\>\<pp\>\<m\>\<sg\># a mistake
-^.<sent>$ ^make# a mistake<vblex><ger>$	. \@Make\<vblex\>\<ger\># a mistake
-^.<sent>$ ^make# a mistake<vblex><pprs>$	. \@Make\<vblex\>\<ger\># a mistake
-^.<sent>$ ^make# a mistake<vblex><subs>$	. \@Make\<vblex\>\<inf\># a mistake
 ^.<sent>$ ^manacle<vblex><inf>$	. \@Manacle\<vblex\>\<inf\>
 ^.<sent>$ ^manacle<vblex><pres>$	. \@Manacle\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^manacle<vblex><pri><p3><sg>$	. \@Manacle\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -17434,110 +17245,86 @@
 ^.<sent>$ ^shun<vblex><ger>$	. \@Shun\<vblex\>\<ger\>
 ^.<sent>$ ^shun<vblex><pprs>$	. \@Shun\<vblex\>\<ger\>
 ^.<sent>$ ^shun<vblex><subs>$	. \@Shun\<vblex\>\<inf\>
-^.<sent>$ ^shut<vblex><inf>$	. \@Shut\<vblex\>\<inf\>
-^.<sent>$ ^shut<vblex><pres>$	. \@Shut\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^shut<vblex><pri><p3><sg>$	. \@Shut\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^shut<vblex><past>$	. \@Shut\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^shut<vblex><pp>$	. \@Shut\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^shut<vblex><ger>$	. \@Shut\<vblex\>\<ger\>
-^.<sent>$ ^shut<vblex><pprs>$	. \@Shut\<vblex\>\<ger\>
-^.<sent>$ ^shut<vblex><subs>$	. \@Shut\<vblex\>\<inf\>
-^.<sent>$ ^shut# down<vblex><sep><inf>$	. \@Shut\<vblex\>\<inf\># down
-^.<sent>$ ^shut# down<vblex><sep><inf>$ ^prpers<prn><obj><p1><mf><sg>$	. \@Shut\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><inf>$ ^prpers<prn><obj><p2><mf><sp>$	. \@Shut\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p2\>\<mf\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><inf>$ ^prpers<prn><obj><p3><m><sg>$	. \@Shut\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<m\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><inf>$ ^prpers<prn><obj><p3><f><sg>$	. \@Shut\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<f\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><inf>$ ^prpers<prn><obj><p3><nt><sg>$	. \@Shut\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<nt\># down
-^.<sent>$ ^shut# down<vblex><sep><inf>$ ^prpers<prn><obj><p1><mf><pl>$	. \@Shut\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<pl\># down
-^.<sent>$ ^shut# down<vblex><sep><inf>$ ^prpers<prn><obj><p3><mf><pl>$	. \@Shut\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<mf\>\<pl\># down
-^.<sent>$ ^shut# down<vblex><sep><inf>$ ^this<prn><tn><mf><sg>$	. \@Shut\<vblex\>\<inf\># down #questo\<prn\>\<tn\>\<nt\>
-^.<sent>$ ^shut# down<vblex><sep><inf>$ ^this<prn><tn><mf><pl>$	. \@Shut\<vblex\>\<inf\># down #questo\<prn\>\<tn\>\<m\>
-^.<sent>$ ^shut# down<vblex><sep><inf>$ ^that<prn><tn><mf><sg>$	. \@Shut\<vblex\>\<inf\># down #quello\<prn\>\<tn\>\<nt\>
-^.<sent>$ ^shut# down<vblex><sep><inf>$ ^that<prn><tn><mf><pl>$	. \@Shut\<vblex\>\<inf\># down #quello\<prn\>\<tn\>\<m\>
-^.<sent>$ ^shut# down<vblex><sep><pres>$	. \@Shut\<vblex\>\<pri\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pres>$ ^prpers<prn><obj><p1><mf><sg>$	. ~Mi \@shut\<vblex\>\<pri\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pres>$ ^prpers<prn><obj><p2><mf><sp>$	. ~Ti \@shut\<vblex\>\<pri\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pres>$ ^prpers<prn><obj><p3><m><sg>$	. Gli/~Lo \@shut\<vblex\>\<pri\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pres>$ ^prpers<prn><obj><p3><f><sg>$	. Le/~La \@shut\<vblex\>\<pri\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pres>$ ^prpers<prn><obj><p3><nt><sg>$	. ~Lo \@shut\<vblex\>\<pri\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pres>$ ^prpers<prn><obj><p1><mf><pl>$	. #Prpers\<prn\>\<pro\>\<p1\>\<mf\>\<pl\> \@shut\<vblex\>\<pri\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pres>$ ^prpers<prn><obj><p3><mf><pl>$	. #Prpers\<prn\>\<pro\>\<p3\>\<mf\>\<pl\> \@shut\<vblex\>\<pri\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pres>$ ^this<prn><tn><mf><sg>$	. \@Shut\<vblex\>\<pri\>\<p3\>\<sg\># down #questo\<prn\>\<tn\>\<nt\>
-^.<sent>$ ^shut# down<vblex><sep><pres>$ ^this<prn><tn><mf><pl>$	. \@Shut\<vblex\>\<pri\>\<p3\>\<sg\># down #questo\<prn\>\<tn\>\<m\>
-^.<sent>$ ^shut# down<vblex><sep><pres>$ ^that<prn><tn><mf><sg>$	. \@Shut\<vblex\>\<pri\>\<p3\>\<sg\># down #quello\<prn\>\<tn\>\<nt\>
-^.<sent>$ ^shut# down<vblex><sep><pres>$ ^that<prn><tn><mf><pl>$	. \@Shut\<vblex\>\<pri\>\<p3\>\<sg\># down #quello\<prn\>\<tn\>\<m\>
-^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$	. \@Shut\<vblex\>\<pri\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$ ^prpers<prn><obj><p1><mf><sg>$	. ~Mi \@shut\<vblex\>\<pri\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$ ^prpers<prn><obj><p2><mf><sp>$	. ~Ti \@shut\<vblex\>\<pri\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$ ^prpers<prn><obj><p3><m><sg>$	. Gli/~Lo \@shut\<vblex\>\<pri\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$ ^prpers<prn><obj><p3><f><sg>$	. Le/~La \@shut\<vblex\>\<pri\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$ ^prpers<prn><obj><p3><nt><sg>$	. ~Lo \@shut\<vblex\>\<pri\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$ ^prpers<prn><obj><p1><mf><pl>$	. #Prpers\<prn\>\<pro\>\<p1\>\<mf\>\<pl\> \@shut\<vblex\>\<pri\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$ ^prpers<prn><obj><p3><mf><pl>$	. #Prpers\<prn\>\<pro\>\<p3\>\<mf\>\<pl\> \@shut\<vblex\>\<pri\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$ ^this<prn><tn><mf><sg>$	. \@Shut\<vblex\>\<pri\>\<p3\>\<sg\># down #questo\<prn\>\<tn\>\<nt\>
-^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$ ^this<prn><tn><mf><pl>$	. \@Shut\<vblex\>\<pri\>\<p3\>\<sg\># down #questo\<prn\>\<tn\>\<m\>
-^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$ ^that<prn><tn><mf><sg>$	. \@Shut\<vblex\>\<pri\>\<p3\>\<sg\># down #quello\<prn\>\<tn\>\<nt\>
-^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$ ^that<prn><tn><mf><pl>$	. \@Shut\<vblex\>\<pri\>\<p3\>\<sg\># down #quello\<prn\>\<tn\>\<m\>
-^.<sent>$ ^shut# down<vblex><sep><past>$	. \@Shut\<vblex\>\<ifi\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><past>$ ^prpers<prn><obj><p1><mf><sg>$	. ~Mi \@shut\<vblex\>\<ifi\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><past>$ ^prpers<prn><obj><p2><mf><sp>$	. ~Ti \@shut\<vblex\>\<ifi\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><past>$ ^prpers<prn><obj><p3><m><sg>$	. Gli/~Lo \@shut\<vblex\>\<ifi\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><past>$ ^prpers<prn><obj><p3><f><sg>$	. Le/~La \@shut\<vblex\>\<ifi\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><past>$ ^prpers<prn><obj><p3><nt><sg>$	. ~Lo \@shut\<vblex\>\<ifi\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><past>$ ^prpers<prn><obj><p1><mf><pl>$	. #Prpers\<prn\>\<pro\>\<p1\>\<mf\>\<pl\> \@shut\<vblex\>\<ifi\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><past>$ ^prpers<prn><obj><p3><mf><pl>$	. #Prpers\<prn\>\<pro\>\<p3\>\<mf\>\<pl\> \@shut\<vblex\>\<ifi\>\<p3\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><past>$ ^this<prn><tn><mf><sg>$	. \@Shut\<vblex\>\<ifi\>\<p3\>\<sg\># down #questo\<prn\>\<tn\>\<nt\>
-^.<sent>$ ^shut# down<vblex><sep><past>$ ^this<prn><tn><mf><pl>$	. \@Shut\<vblex\>\<ifi\>\<p3\>\<sg\># down #questo\<prn\>\<tn\>\<m\>
-^.<sent>$ ^shut# down<vblex><sep><past>$ ^that<prn><tn><mf><sg>$	. \@Shut\<vblex\>\<ifi\>\<p3\>\<sg\># down #quello\<prn\>\<tn\>\<nt\>
-^.<sent>$ ^shut# down<vblex><sep><past>$ ^that<prn><tn><mf><pl>$	. \@Shut\<vblex\>\<ifi\>\<p3\>\<sg\># down #quello\<prn\>\<tn\>\<m\>
-^.<sent>$ ^shut# down<vblex><sep><pp>$	. \@Shut\<m\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pp>$ ^prpers<prn><obj><p1><mf><sg>$	. \@Shut\<m\>\<sg\># down ~mi
-^.<sent>$ ^shut# down<vblex><sep><pp>$ ^prpers<prn><obj><p2><mf><sp>$	. \@Shut\<m\>\<sg\># down ~ti
-^.<sent>$ ^shut# down<vblex><sep><pp>$ ^prpers<prn><obj><p3><m><sg>$	. \@Shut\<m\>\<sg\># down gli/~lo
-^.<sent>$ ^shut# down<vblex><sep><pp>$ ^prpers<prn><obj><p3><f><sg>$	. \@Shut\<m\>\<sg\># down le/~la
-^.<sent>$ ^shut# down<vblex><sep><pp>$ ^prpers<prn><obj><p3><nt><sg>$	. \@Shut\<m\>\<sg\># down ~lo
-^.<sent>$ ^shut# down<vblex><sep><pp>$ ^prpers<prn><obj><p1><mf><pl>$	. \@Shut\<m\>\<sg\># down #prpers\<prn\>\<pro\>\<p1\>\<mf\>\<pl\>
-^.<sent>$ ^shut# down<vblex><sep><pp>$ ^prpers<prn><obj><p3><mf><pl>$	. \@Shut\<m\>\<sg\># down #prpers\<prn\>\<pro\>\<p3\>\<mf\>\<pl\>
-^.<sent>$ ^shut# down<vblex><sep><pp>$ ^this<prn><tn><mf><sg>$	. \@Shut\<m\>\<sg\># down #questo\<prn\>\<tn\>\<nt\>
-^.<sent>$ ^shut# down<vblex><sep><pp>$ ^this<prn><tn><mf><pl>$	. \@Shut\<m\>\<sg\># down #questo\<prn\>\<tn\>\<m\>
-^.<sent>$ ^shut# down<vblex><sep><pp>$ ^that<prn><tn><mf><sg>$	. \@Shut\<m\>\<sg\># down #quello\<prn\>\<tn\>\<nt\>
-^.<sent>$ ^shut# down<vblex><sep><pp>$ ^that<prn><tn><mf><pl>$	. \@Shut\<m\>\<sg\># down #quello\<prn\>\<tn\>\<m\>
-^.<sent>$ ^shut# down<vblex><sep><ger>$	. \@Shut\<vblex\>\<ger\># down
-^.<sent>$ ^shut# down<vblex><sep><ger>$ ^prpers<prn><obj><p1><mf><sg>$	. \@Shut\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><ger>$ ^prpers<prn><obj><p2><mf><sp>$	. \@Shut\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p2\>\<mf\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><ger>$ ^prpers<prn><obj><p3><m><sg>$	. \@Shut\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<m\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><ger>$ ^prpers<prn><obj><p3><f><sg>$	. \@Shut\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<f\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><ger>$ ^prpers<prn><obj><p3><nt><sg>$	. \@Shut\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<nt\># down
-^.<sent>$ ^shut# down<vblex><sep><ger>$ ^prpers<prn><obj><p1><mf><pl>$	. \@Shut\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<pl\># down
-^.<sent>$ ^shut# down<vblex><sep><ger>$ ^prpers<prn><obj><p3><mf><pl>$	. \@Shut\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<mf\>\<pl\># down
-^.<sent>$ ^shut# down<vblex><sep><ger>$ ^this<prn><tn><mf><sg>$	. \@Shut\<vblex\>\<ger\># down #questo\<prn\>\<tn\>\<nt\>
-^.<sent>$ ^shut# down<vblex><sep><ger>$ ^this<prn><tn><mf><pl>$	. \@Shut\<vblex\>\<ger\># down #questo\<prn\>\<tn\>\<m\>
-^.<sent>$ ^shut# down<vblex><sep><ger>$ ^that<prn><tn><mf><sg>$	. \@Shut\<vblex\>\<ger\># down #quello\<prn\>\<tn\>\<nt\>
-^.<sent>$ ^shut# down<vblex><sep><ger>$ ^that<prn><tn><mf><pl>$	. \@Shut\<vblex\>\<ger\># down #quello\<prn\>\<tn\>\<m\>
-^.<sent>$ ^shut# down<vblex><sep><pprs>$	. \@Shut\<vblex\>\<ger\># down
-^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^prpers<prn><obj><p1><mf><sg>$	. \@Shut\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^prpers<prn><obj><p2><mf><sp>$	. \@Shut\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p2\>\<mf\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^prpers<prn><obj><p3><m><sg>$	. \@Shut\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<m\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^prpers<prn><obj><p3><f><sg>$	. \@Shut\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<f\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^prpers<prn><obj><p3><nt><sg>$	. \@Shut\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<nt\># down
-^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^prpers<prn><obj><p1><mf><pl>$	. \@Shut\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<pl\># down
-^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^prpers<prn><obj><p3><mf><pl>$	. \@Shut\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<mf\>\<pl\># down
-^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^this<prn><tn><mf><sg>$	. \@Shut\<vblex\>\<ger\># down #questo\<prn\>\<tn\>\<nt\>
-^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^this<prn><tn><mf><pl>$	. \@Shut\<vblex\>\<ger\># down #questo\<prn\>\<tn\>\<m\>
-^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^that<prn><tn><mf><sg>$	. \@Shut\<vblex\>\<ger\># down #quello\<prn\>\<tn\>\<nt\>
-^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^that<prn><tn><mf><pl>$	. \@Shut\<vblex\>\<ger\># down #quello\<prn\>\<tn\>\<m\>
-^.<sent>$ ^shut# down<vblex><sep><subs>$	. \@Shut\<vblex\>\<inf\># down
-^.<sent>$ ^shut# down<vblex><sep><subs>$ ^prpers<prn><obj><p1><mf><sg>$	. \@Shut\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><subs>$ ^prpers<prn><obj><p2><mf><sp>$	. \@Shut\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p2\>\<mf\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><subs>$ ^prpers<prn><obj><p3><m><sg>$	. \@Shut\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<m\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><subs>$ ^prpers<prn><obj><p3><f><sg>$	. \@Shut\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<f\>\<sg\># down
-^.<sent>$ ^shut# down<vblex><sep><subs>$ ^prpers<prn><obj><p3><nt><sg>$	. \@Shut\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<nt\># down
-^.<sent>$ ^shut# down<vblex><sep><subs>$ ^prpers<prn><obj><p1><mf><pl>$	. \@Shut\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<pl\># down
-^.<sent>$ ^shut# down<vblex><sep><subs>$ ^prpers<prn><obj><p3><mf><pl>$	. \@Shut\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<mf\>\<pl\># down
-^.<sent>$ ^shut# down<vblex><sep><subs>$ ^this<prn><tn><mf><sg>$	. \@Shut\<vblex\>\<inf\># down #questo\<prn\>\<tn\>\<nt\>
-^.<sent>$ ^shut# down<vblex><sep><subs>$ ^this<prn><tn><mf><pl>$	. \@Shut\<vblex\>\<inf\># down #questo\<prn\>\<tn\>\<m\>
-^.<sent>$ ^shut# down<vblex><sep><subs>$ ^that<prn><tn><mf><sg>$	. \@Shut\<vblex\>\<inf\># down #quello\<prn\>\<tn\>\<nt\>
-^.<sent>$ ^shut# down<vblex><sep><subs>$ ^that<prn><tn><mf><pl>$	. \@Shut\<vblex\>\<inf\># down #quello\<prn\>\<tn\>\<m\>
+^.<sent>$ ^shut# down<vblex><sep><inf>$ ^prpers<prn><obj><p1><mf><sg>$	. #Chiudere\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<sg\>
+^.<sent>$ ^shut# down<vblex><sep><inf>$ ^prpers<prn><obj><p2><mf><sp>$	. #Chiudere\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p2\>\<mf\>\<sg\>
+^.<sent>$ ^shut# down<vblex><sep><inf>$ ^prpers<prn><obj><p3><m><sg>$	. #Chiudere\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<m\>\<sg\>
+^.<sent>$ ^shut# down<vblex><sep><inf>$ ^prpers<prn><obj><p3><f><sg>$	. #Chiudere\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<f\>\<sg\>
+^.<sent>$ ^shut# down<vblex><sep><inf>$ ^prpers<prn><obj><p3><nt><sg>$	. #Chiudere\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><inf>$ ^prpers<prn><obj><p1><mf><pl>$	. #Chiudere\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<pl\>
+^.<sent>$ ^shut# down<vblex><sep><inf>$ ^prpers<prn><obj><p3><mf><pl>$	. #Chiudere\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<mf\>\<pl\>
+^.<sent>$ ^shut# down<vblex><sep><inf>$ ^this<prn><tn><mf><sg>$	. Chiudere #questo\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><inf>$ ^this<prn><tn><mf><pl>$	. Chiudere #questo\<prn\>\<tn\>\<m\>
+^.<sent>$ ^shut# down<vblex><sep><inf>$ ^that<prn><tn><mf><sg>$	. Chiudere #quello\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><inf>$ ^that<prn><tn><mf><pl>$	. Chiudere #quello\<prn\>\<tn\>\<m\>
+^.<sent>$ ^shut# down<vblex><sep><pres>$ ^prpers<prn><obj><p3><m><sg>$	. Gli/~Lo chiude
+^.<sent>$ ^shut# down<vblex><sep><pres>$ ^prpers<prn><obj><p3><f><sg>$	. Le/~La chiude
+^.<sent>$ ^shut# down<vblex><sep><pres>$ ^prpers<prn><obj><p1><mf><pl>$	. #Prpers\<prn\>\<pro\>\<p1\>\<mf\>\<pl\> chiude
+^.<sent>$ ^shut# down<vblex><sep><pres>$ ^prpers<prn><obj><p3><mf><pl>$	. #Prpers\<prn\>\<pro\>\<p3\>\<mf\>\<pl\> chiude
+^.<sent>$ ^shut# down<vblex><sep><pres>$ ^this<prn><tn><mf><sg>$	. Chiude #questo\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><pres>$ ^this<prn><tn><mf><pl>$	. Chiude #questo\<prn\>\<tn\>\<m\>
+^.<sent>$ ^shut# down<vblex><sep><pres>$ ^that<prn><tn><mf><sg>$	. Chiude #quello\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><pres>$ ^that<prn><tn><mf><pl>$	. Chiude #quello\<prn\>\<tn\>\<m\>
+^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$ ^prpers<prn><obj><p3><m><sg>$	. Gli/~Lo chiude
+^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$ ^prpers<prn><obj><p3><f><sg>$	. Le/~La chiude
+^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$ ^prpers<prn><obj><p1><mf><pl>$	. #Prpers\<prn\>\<pro\>\<p1\>\<mf\>\<pl\> chiude
+^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$ ^prpers<prn><obj><p3><mf><pl>$	. #Prpers\<prn\>\<pro\>\<p3\>\<mf\>\<pl\> chiude
+^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$ ^this<prn><tn><mf><sg>$	. Chiude #questo\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$ ^this<prn><tn><mf><pl>$	. Chiude #questo\<prn\>\<tn\>\<m\>
+^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$ ^that<prn><tn><mf><sg>$	. Chiude #quello\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><pri><p3><sg>$ ^that<prn><tn><mf><pl>$	. Chiude #quello\<prn\>\<tn\>\<m\>
+^.<sent>$ ^shut# down<vblex><sep><past>$ ^prpers<prn><obj><p3><m><sg>$	. Gli/~Lo chiuse
+^.<sent>$ ^shut# down<vblex><sep><past>$ ^prpers<prn><obj><p3><f><sg>$	. Le/~La chiuse
+^.<sent>$ ^shut# down<vblex><sep><past>$ ^prpers<prn><obj><p1><mf><pl>$	. #Prpers\<prn\>\<pro\>\<p1\>\<mf\>\<pl\> chiuse
+^.<sent>$ ^shut# down<vblex><sep><past>$ ^prpers<prn><obj><p3><mf><pl>$	. #Prpers\<prn\>\<pro\>\<p3\>\<mf\>\<pl\> chiuse
+^.<sent>$ ^shut# down<vblex><sep><past>$ ^this<prn><tn><mf><sg>$	. Chiuse #questo\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><past>$ ^this<prn><tn><mf><pl>$	. Chiuse #questo\<prn\>\<tn\>\<m\>
+^.<sent>$ ^shut# down<vblex><sep><past>$ ^that<prn><tn><mf><sg>$	. Chiuse #quello\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><past>$ ^that<prn><tn><mf><pl>$	. Chiuse #quello\<prn\>\<tn\>\<m\>
+^.<sent>$ ^shut# down<vblex><sep><pp>$	. #Chiudere\<m\>\<sg\>
+^.<sent>$ ^shut# down<vblex><sep><pp>$ ^prpers<prn><obj><p1><mf><sg>$	. #Chiudere\<m\>\<sg\> ~mi
+^.<sent>$ ^shut# down<vblex><sep><pp>$ ^prpers<prn><obj><p2><mf><sp>$	. #Chiudere\<m\>\<sg\> ~ti
+^.<sent>$ ^shut# down<vblex><sep><pp>$ ^prpers<prn><obj><p3><m><sg>$	. #Chiudere\<m\>\<sg\> gli/~lo
+^.<sent>$ ^shut# down<vblex><sep><pp>$ ^prpers<prn><obj><p3><f><sg>$	. #Chiudere\<m\>\<sg\> le/~la
+^.<sent>$ ^shut# down<vblex><sep><pp>$ ^prpers<prn><obj><p3><nt><sg>$	. #Chiudere\<m\>\<sg\> ~lo
+^.<sent>$ ^shut# down<vblex><sep><pp>$ ^prpers<prn><obj><p1><mf><pl>$	. #Chiudere\<m\>\<sg\> #prpers\<prn\>\<pro\>\<p1\>\<mf\>\<pl\>
+^.<sent>$ ^shut# down<vblex><sep><pp>$ ^prpers<prn><obj><p3><mf><pl>$	. #Chiudere\<m\>\<sg\> #prpers\<prn\>\<pro\>\<p3\>\<mf\>\<pl\>
+^.<sent>$ ^shut# down<vblex><sep><pp>$ ^this<prn><tn><mf><sg>$	. #Chiudere\<m\>\<sg\> #questo\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><pp>$ ^this<prn><tn><mf><pl>$	. #Chiudere\<m\>\<sg\> #questo\<prn\>\<tn\>\<m\>
+^.<sent>$ ^shut# down<vblex><sep><pp>$ ^that<prn><tn><mf><sg>$	. #Chiudere\<m\>\<sg\> #quello\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><pp>$ ^that<prn><tn><mf><pl>$	. #Chiudere\<m\>\<sg\> #quello\<prn\>\<tn\>\<m\>
+^.<sent>$ ^shut# down<vblex><sep><ger>$ ^prpers<prn><obj><p1><mf><sg>$	. #Chiudere\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<sg\>
+^.<sent>$ ^shut# down<vblex><sep><ger>$ ^prpers<prn><obj><p2><mf><sp>$	. #Chiudere\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p2\>\<mf\>\<sg\>
+^.<sent>$ ^shut# down<vblex><sep><ger>$ ^prpers<prn><obj><p3><m><sg>$	. #Chiudere\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<m\>\<sg\>
+^.<sent>$ ^shut# down<vblex><sep><ger>$ ^prpers<prn><obj><p3><f><sg>$	. #Chiudere\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<f\>\<sg\>
+^.<sent>$ ^shut# down<vblex><sep><ger>$ ^prpers<prn><obj><p3><nt><sg>$	. #Chiudere\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><ger>$ ^prpers<prn><obj><p1><mf><pl>$	. #Chiudere\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<pl\>
+^.<sent>$ ^shut# down<vblex><sep><ger>$ ^prpers<prn><obj><p3><mf><pl>$	. #Chiudere\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<mf\>\<pl\>
+^.<sent>$ ^shut# down<vblex><sep><ger>$ ^this<prn><tn><mf><sg>$	. Chiudendo #questo\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><ger>$ ^this<prn><tn><mf><pl>$	. Chiudendo #questo\<prn\>\<tn\>\<m\>
+^.<sent>$ ^shut# down<vblex><sep><ger>$ ^that<prn><tn><mf><sg>$	. Chiudendo #quello\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><ger>$ ^that<prn><tn><mf><pl>$	. Chiudendo #quello\<prn\>\<tn\>\<m\>
+^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^prpers<prn><obj><p1><mf><sg>$	. #Chiudere\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<sg\>
+^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^prpers<prn><obj><p2><mf><sp>$	. #Chiudere\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p2\>\<mf\>\<sg\>
+^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^prpers<prn><obj><p3><m><sg>$	. #Chiudere\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<m\>\<sg\>
+^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^prpers<prn><obj><p3><f><sg>$	. #Chiudere\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<f\>\<sg\>
+^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^prpers<prn><obj><p3><nt><sg>$	. #Chiudere\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^prpers<prn><obj><p1><mf><pl>$	. #Chiudere\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<pl\>
+^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^prpers<prn><obj><p3><mf><pl>$	. #Chiudere\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<mf\>\<pl\>
+^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^this<prn><tn><mf><sg>$	. Chiudendo #questo\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^this<prn><tn><mf><pl>$	. Chiudendo #questo\<prn\>\<tn\>\<m\>
+^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^that<prn><tn><mf><sg>$	. Chiudendo #quello\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><pprs>$ ^that<prn><tn><mf><pl>$	. Chiudendo #quello\<prn\>\<tn\>\<m\>
+^.<sent>$ ^shut# down<vblex><sep><subs>$ ^prpers<prn><obj><p1><mf><sg>$	. #Chiudere\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<sg\>
+^.<sent>$ ^shut# down<vblex><sep><subs>$ ^prpers<prn><obj><p2><mf><sp>$	. #Chiudere\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p2\>\<mf\>\<sg\>
+^.<sent>$ ^shut# down<vblex><sep><subs>$ ^prpers<prn><obj><p3><m><sg>$	. #Chiudere\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<m\>\<sg\>
+^.<sent>$ ^shut# down<vblex><sep><subs>$ ^prpers<prn><obj><p3><f><sg>$	. #Chiudere\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<f\>\<sg\>
+^.<sent>$ ^shut# down<vblex><sep><subs>$ ^prpers<prn><obj><p3><nt><sg>$	. #Chiudere\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><subs>$ ^prpers<prn><obj><p1><mf><pl>$	. #Chiudere\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<pl\>
+^.<sent>$ ^shut# down<vblex><sep><subs>$ ^prpers<prn><obj><p3><mf><pl>$	. #Chiudere\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<mf\>\<pl\>
+^.<sent>$ ^shut# down<vblex><sep><subs>$ ^this<prn><tn><mf><sg>$	. Chiudere #questo\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><subs>$ ^this<prn><tn><mf><pl>$	. Chiudere #questo\<prn\>\<tn\>\<m\>
+^.<sent>$ ^shut# down<vblex><sep><subs>$ ^that<prn><tn><mf><sg>$	. Chiudere #quello\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^shut# down<vblex><sep><subs>$ ^that<prn><tn><mf><pl>$	. Chiudere #quello\<prn\>\<tn\>\<m\>
 ^.<sent>$ ^simplify<vblex><inf>$	. \@Simplify\<vblex\>\<inf\>
 ^.<sent>$ ^simplify<vblex><pres>$	. \@Simplify\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^simplify<vblex><pri><p3><sg>$	. \@Simplify\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -18972,14 +18759,6 @@
 ^.<sent>$ ^urge<vblex><ger>$	. \@Urge\<vblex\>\<ger\>
 ^.<sent>$ ^urge<vblex><pprs>$	. \@Urge\<vblex\>\<ger\>
 ^.<sent>$ ^urge<vblex><subs>$	. \@Urge\<vblex\>\<inf\>
-^.<sent>$ ^value<vblex><inf>$	. \@Value\<vblex\>\<inf\>
-^.<sent>$ ^value<vblex><pres>$	. \@Value\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^value<vblex><pri><p3><sg>$	. \@Value\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^value<vblex><past>$	. \@Value\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^value<vblex><pp>$	. \@Value\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^value<vblex><ger>$	. \@Value\<vblex\>\<ger\>
-^.<sent>$ ^value<vblex><pprs>$	. \@Value\<vblex\>\<ger\>
-^.<sent>$ ^value<vblex><subs>$	. \@Value\<vblex\>\<inf\>
 ^.<sent>$ ^wake<vblex><inf>$	. \@Wake\<vblex\>\<inf\>
 ^.<sent>$ ^wake<vblex><pres>$	. \@Wake\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^wake<vblex><pri><p3><sg>$	. \@Wake\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -21378,22 +21157,6 @@
 ^.<sent>$ ^analgesia<n><pl>$ ^'s<gen>$	. \@Analgesia\<n\> 
 ^.<sent>$ ^analgesia<n><sg>$	. \@Analgesia\<n\>
 ^.<sent>$ ^analgesia<n><pl>$	. \@Analgesia\<n\>
-^.<sent>$ ^analyse<vblex><inf>$	. \@Analyse\<vblex\>\<inf\>
-^.<sent>$ ^analyse<vblex><pres>$	. \@Analyse\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^analyse<vblex><pri><p3><sg>$	. \@Analyse\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^analyse<vblex><past>$	. \@Analyse\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^analyse<vblex><pp>$	. \@Analyse\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^analyse<vblex><ger>$	. \@Analyse\<vblex\>\<ger\>
-^.<sent>$ ^analyse<vblex><pprs>$	. \@Analyse\<vblex\>\<ger\>
-^.<sent>$ ^analyse<vblex><subs>$	. \@Analyse\<vblex\>\<inf\>
-^.<sent>$ ^analyse<vblex><inf>$	. \@Analyse\<vblex\>\<inf\>
-^.<sent>$ ^analyse<vblex><pres>$	. \@Analyse\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^analyse<vblex><pri><p3><sg>$	. \@Analyse\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^analyse<vblex><past>$	. \@Analyse\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^analyse<vblex><pp>$	. \@Analyse\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^analyse<vblex><ger>$	. \@Analyse\<vblex\>\<ger\>
-^.<sent>$ ^analyse<vblex><pprs>$	. \@Analyse\<vblex\>\<ger\>
-^.<sent>$ ^analyse<vblex><subs>$	. \@Analyse\<vblex\>\<inf\>
 ^.<sent>$ ^analyser<n><sg>$	. \@Analyser\<n\>
 ^.<sent>$ ^analyser<n><pl>$	. \@Analyser\<n\>
 ^.<sent>$ ^analyser<n><pl>$ ^'s<gen>$	. \@Analyser\<n\> 
@@ -40635,9 +40398,6 @@
 ^.<sent>$ ^be# sorry<vblex><pri><p1><sg>$	. #Lo\<prn\>\<pro\>\<p3\>\<nt\> sento
 ^.<sent>$ ^be# sorry<vblex><pres>$	. #lo\<prn\>\<pro\>\<p3\>\<nt\> sente
 ^.<sent>$ ^be# sorry<vblex><pri><p3><sg>$	. #lo\<prn\>\<pro\>\<p3\>\<nt\> sente
-^.<sent>$ ^be# worthwhile<vblex><pri><p1><sg>$	. \@Be\<vblex\>\<pri\>\<p1\>\<sg\># worthwhile
-^.<sent>$ ^be# worthwhile<vblex><pres>$	. \@Be\<vblex\>\<pri\>\<p3\>\<sg\># worthwhile
-^.<sent>$ ^be# worthwhile<vblex><pri><p3><sg>$	. \@Be\<vblex\>\<pri\>\<p3\>\<sg\># worthwhile
 ^.<sent>$ ^be# hungry<vblex><pri><p1><sg>$	. \@Be\<vblex\>\<pri\>\<p1\>\<sg\># hungry
 ^.<sent>$ ^be# hungry<vblex><pres>$	. \@Be\<vblex\>\<pri\>\<p3\>\<sg\># hungry
 ^.<sent>$ ^be# hungry<vblex><pri><p3><sg>$	. \@Be\<vblex\>\<pri\>\<p3\>\<sg\># hungry
@@ -40646,7 +40406,6 @@
 ALTRES ERRADES DE BILING‹E
 ==========================
 #\^.\<sent\> Hermes<np><ant>/Ermes<np><ant>$
-#\^.\<sent\> Israel<np><ant>/Israele<np><ant>$
 #\^.\<sent\> Kenia<np><ant>/Kenya<np><ant>$
 #\^.\<sent\> L√©rida<np><ant>/Lleida<np><ant>$
 #\^.\<sent\> marzo<n><m>/Marcia<n><f>$
@@ -41099,8 +40858,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> disanimare<vblex>/scoraggiare<vblex>$
 #\^.\<sent\> disanimare<vblex>/scoraggiare<vblex>$
 #\^.\<sent\> destituzione<n><f>/licenziamento<n><m>$
-#\^.\<sent\> disordine<n><m>/trastorno<n><m>$
-#\^.\<sent\> disordine<n><m>/trastorno<n><m>$
 #\^.\<sent\> disposizione<n><f>/eliminazione<n><f>$
 #\^.\<sent\> disposizione<n><f>/eliminazione<n><f>$
 #\^.\<sent\> disposizione<n><f>/distribuzione<n><f>$
@@ -41151,8 +40908,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> nessuno<prn>/nessuno<prn><tn><m>/nessuno<prn><tn><f>$
 #\^.\<sent\> nessuno<prn>/nessuno<prn><tn><m>/nessuno<prn><tn><f>$
 #\^.\<sent\> nessuno<prn>/nessuno<prn><tn><m>/nessuno<prn><tn><f>$
-#\^.\<sent\> emissione<n><f>/esalazione<n><f>$
-#\^.\<sent\> emozione<n><f>/commozione<n><f>$
 #\^.\<sent\> impiego<n><m>/occupazione<n><f>$
 #\^.\<sent\> impiego<n><m>/occupazione<n><f>$
 #\^.\<sent\> vuoto<adj>/deserto<adj>$
@@ -41195,7 +40950,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> contare<vblex>/spiegare<vblex>/raccontare<vblex>$
 #\^.\<sent\> contare<vblex>/spiegare<vblex>/raccontare<vblex>$
 #\^.\<sent\> contare<vblex>/spiegare<vblex>/raccontare<vblex>$
-#\^.\<sent\> locuzione<n><f>/espressione<n><f>$
 #\^.\<sent\> estensione<n><f>/ampliamento<n><m>$
 #\^.\<sent\> estensione<n><f>/ampliamento<n><m>$
 #\^.\<sent\> raggio<n><m>/portata<n><f>/estensione<n><f>$
@@ -41412,7 +41166,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> giustizia<n><f>/ingiustizia<n><f>$
 #\^.\<sent\> ricerca<n><f>/consulta<n><f>$
 #\^.\<sent\> ricerca<n><f>/consulta<n><f>$
-#\^.\<sent\> inserzione<n><f>/inserimento<n><m>$
 #\^.\<sent\> impianto<n><m>/installazione<n><f>$
 #\^.\<sent\> impianto<n><m>/installazione<n><f>$
 #\^.\<sent\> istanza<n><f>/caso<n><m>$
@@ -41668,10 +41421,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> opportunit√†<n><f><sp>/possibilit√†<n><f><sp>$
 #\^.\<sent\> concorso<n><m>/opposizione<n><f>$
 #\^.\<sent\> concorso<n><m>/opposizione<n><f>$
-#\^.\<sent\> ordine<n><m>/ordine<n><f>/ordinazione<n><f>/provvedimento<n><m>/provvedimento<n><f>$
-#\^.\<sent\> ordine<n><m>/ordine<n><f>/ordinazione<n><f>/provvedimento<n><m>/provvedimento<n><f>$
-#\^.\<sent\> ordine<n><m>/ordine<n><f>/ordinazione<n><f>/provvedimento<n><m>/provvedimento<n><f>$
-#\^.\<sent\> ordine<n><m>/ordine<n><f>/ordinazione<n><f>/provvedimento<n><m>/provvedimento<n><f>$
 #\^.\<sent\> indirizzo<n><m>/orientazione<n><f>/orientamento<n><f>$
 #\^.\<sent\> indirizzo<n><m>/orientazione<n><f>/orientamento<n><f>$
 #\^.\<sent\> originalmente<adv>/originariamente<adv>$
@@ -42500,8 +42249,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> Venecia<np><ant>/Venezia<np><ant>$
 #\^.\<sent\> Venus<np><ant>/Venere<np><ant>$
 #\^.\<sent\> Hermes<np><ant>/Ermes<np><ant>$
-#\^.\<sent\> Israel<np><ant>/Israele<np><ant>$
-#\^.\<sent\> Israel<np><ant>/Israele<np><ant>$
 #\^.\<sent\> udito<n><m>/audizione<n><f>$
 #\^.\<sent\> lavorazione<n><f>/elaborazione<n><f>$
 #\^.\<sent\> tassazione<n><f>/imposizione<n><f>$
@@ -42539,8 +42286,3 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> tassazione<n><f>/imposizione<n><f>$
 #\^.\<sent\> punizione<n><f>/castigo<n><m>$
 #\^.\<sent\> depurazione<n><f>/purificazione<n><f>$
-#\^.\<sent\> ordine<n><m>/ordine<n><f>/ordinazione<n><f>/provvedimento<n><m>/provvedimento<n><f>$
-#\^.\<sent\> locuzione<n><f>/espressione<n><f>$
-#\^.\<sent\> inserzione<n><f>/inserimento<n><m>$
-#\^.\<sent\> emissione<n><f>/esalazione<n><f>$
-#\^.\<sent\> emozione<n><f>/commozione<n><f>$
