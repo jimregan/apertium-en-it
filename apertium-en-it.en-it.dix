@@ -32442,6 +32442,24 @@
         <r>riscuotere<s n="vblex"/></r> 
       </p>
     </e>
+    <e>
+      <p>
+        <l>make<g><b/>money</g><s n="vblex"/></l> 
+        <r>fare<g><b/>soldi</g><s n="vblex"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>make<g><b/>a<b/>mistake</g><s n="vblex"/></l> 
+        <r>fare<g><b/>un<b/>errore</g><s n="vblex"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>be<g><b/>worthwhile</g><s n="vblex"/></l> 
+        <r>essere<g><b/>utile</g><s n="vblex"/></r> 
+      </p>
+    </e>
 
     <!-- 
 	forced 'null' restriction
@@ -93209,6 +93227,7 @@
     <e><p><l>compose<s n="vblex"/></l><r>comporre<s n="vblex"/></r></p></e>
     <e><p><l>prove<s n="vblex"/></l><r>comprovare<s n="vblex"/></r></p></e>
     <e><p><l>close<s n="vblex"/></l><r>chiudere<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>shut<s n="vblex"/></l><r>chiudere<s n="vblex"/></r></p></e>
     <e><p><l>wet<s n="vblex"/></l><r>bagnare<s n="vblex"/></r></p></e>
     <e><p><l>crap<s n="vblex"/></l><r>cagare<s n="vblex"/></r></p></e>
     <e><p><l>lead<s n="vblex"/></l><r>condurre<s n="vblex"/></r></p></e>
@@ -93288,6 +93307,7 @@
     <e><p><l>saturate<s n="vblex"/></l><r>saturare<s n="vblex"/></r></p></e>
     <e><p><l>excuse<s n="vblex"/></l><r>scusare<s n="vblex"/></r></p></e>
     <e><p><l>sit<s n="vblex"/></l><r>sedere<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>sit<g><b/>down</g><s n="vblex"/></l><r>sedere<s n="vblex"/></r></p></e>
     <e><p><l>seem<s n="vblex"/></l><r>sembrare<s n="vblex"/></r></p></e>
     <e><p><l>feel<s n="vblex"/></l><r>sentire<s n="vblex"/></r></p></e>
     <e><p><l>help<s n="vblex"/></l><r>soccorrere<s n="vblex"/></r></p></e>
@@ -93349,6 +93369,7 @@
     <e><p><l>assist<s n="vblex"/></l><r>assistere<s n="vblex"/></r></p></e>
     <e><p><l>analyse<s n="vblex"/></l><r>analizzare<s n="vblex"/></r></p></e>
     <e><p><l>agglutinate<s n="vblex"/></l><r>agglutinare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>shut<g><b/>down</g><s n="vblex"/></l><r>chiudere<s n="vblex"/></r></p></e>
     <e><p><l>aggravate<s n="vblex"/></l><r>aggravare<s n="vblex"/></r></p></e>
     <e><p><l>amortise<s n="vblex"/></l><r>ammortizzare<s n="vblex"/></r></p></e>
     <e><p><l>acclimatise<s n="vblex"/></l><r>ambientare<s n="vblex"/></r></p></e>

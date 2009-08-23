@@ -94100,6 +94100,7 @@
     <e lm="esportare"><i>esport</i><par n="abbacin/are__vblex"/></e>
     <e lm="essere"><par n="/essere__vblex"/></e>
     <e r="RL" lm="essere possibile"><i></i><par n="/essere__vblex"/><p><l><b/>possibile</l><r><g><b/>possibile</g></r></p></e>
+    <e lm="essere utile"><par n="/essere__vblex"/><p><l><b/>utile</l><r><g><b/>utile</g></r></p></e>
     <e lm="estendere"><i>este</i><par n="acce/ndere__vblex"/></e>
     <e lm="estinguere"><i>estin</i><par n="distin/guere__vblex"/></e>
     <e lm="etichettare"><i>etichett</i><par n="abbacin/are__vblex"/></e>
@@ -94110,9 +94111,13 @@
     <e lm="evocare"><i>evoc</i><par n="abbarbic/are__vblex"/></e>
     <e lm="fondere"><i>f</i><par n="conf/ondere__vblex"/></e>
     <e lm="fare"><i>f</i><par n="f/are__vblex"/></e>
+    <e lm="fare"><i>f</i><par n="assuef/are__vblex"/></e>
     <e lm="fare possibile"><i>f</i><par n="f/are__vblex"/><p><l><b/>possibile</l><r><g><b/>possibile</g></r></p></e>
     <e lm="fare possibile"><i>f</i><par n="assuef/are__vblex"/><p><l><b/>possibile</l><r><g><b/>possibile</g></r></p></e>
-    <e lm="fare"><i>f</i><par n="assuef/are__vblex"/></e>
+    <e lm="fare soldi"><i>f</i><par n="f/are__vblex"/><p><l><b/>soldi</l><r><g><b/>soldi</g></r></p></e>
+    <e lm="fare soldi"><i>f</i><par n="assuef/are__vblex"/><p><l><b/>soldi</l><r><g><b/>soldi</g></r></p></e>
+    <e lm="fare un errore"><i>f</i><par n="f/are__vblex"/><p><l><b/>un<b/>errore</l><r><g><b/>un<b/>errore</g></r></p></e>
+    <e lm="fare un errore"><i>f</i><par n="assuef/are__vblex"/><p><l><b/>un<b/>errore</l><r><g><b/>un<b/>errore</g></r></p></e>
     <e lm="fabbricare"><i>fabbric</i><par n="abbarbic/are__vblex"/></e>
     <e lm="facilitare"><i>facilit</i><par n="abbacin/are__vblex"/></e>
     <e lm="fallire"><i>fall</i><par n="abbell/ire__vblex"/></e>
