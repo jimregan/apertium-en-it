@@ -10566,7 +10566,7 @@
 	forced 'null' restriction
       ND3-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>amid<s n="pr"/></l> 
         <r>tra<s n="pr"/></r> 
@@ -10577,7 +10577,7 @@
 	forced 'null' restriction
       ND3-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>among<s n="pr"/></l> 
         <r>tra<s n="pr"/></r> 
@@ -10592,6 +10592,18 @@
       <p>
         <l>among<s n="pr"/></l> 
         <r>fra<s n="pr"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>in<b/>accordance<b/>with<s n="pr"/></l> 
+        <r>in<b/>accordo<b/>con<s n="pr"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>in<b/>agreement<b/>with<s n="pr"/></l> 
+        <r>consono<b/>a<s n="pr"/></r> 
       </p>
     </e>
 

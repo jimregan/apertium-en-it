@@ -19415,14 +19415,6 @@
 ^.<sent>$ ^be# hungry<vblex><ger>$	. \@Be\<vblex\>\<ger\># hungry
 ^.<sent>$ ^be# hungry<vblex><pprs>$	. \@Be\<vblex\>\<ger\># hungry
 ^.<sent>$ ^be# hungry<vblex><subs>$	. \@Be\<vblex\>\<inf\># hungry
-^.<sent>$ ^drink# like a fish<vblex><inf>$	. \@Drink\<vblex\>\<inf\># like a fish
-^.<sent>$ ^drink# like a fish<vblex><pres>$	. \@Drink\<vblex\>\<pri\>\<p3\>\<sg\># like a fish
-^.<sent>$ ^drink# like a fish<vblex><pri><p3><sg>$	. \@Drink\<vblex\>\<pri\>\<p3\>\<sg\># like a fish
-^.<sent>$ ^drink# like a fish<vblex><past>$	. \@Drink\<vblex\>\<ifi\>\<p3\>\<sg\># like a fish
-^.<sent>$ ^drink# like a fish<vblex><pp>$	. \@Drink\<vblex\>\<pp\>\<m\>\<sg\># like a fish
-^.<sent>$ ^drink# like a fish<vblex><ger>$	. \@Drink\<vblex\>\<ger\># like a fish
-^.<sent>$ ^drink# like a fish<vblex><pprs>$	. \@Drink\<vblex\>\<ger\># like a fish
-^.<sent>$ ^drink# like a fish<vblex><subs>$	. \@Drink\<vblex\>\<inf\># like a fish
 ^.<sent>$ ^pay# cash<vblex><inf>$	. \@Pay\<vblex\>\<inf\># cash
 ^.<sent>$ ^pay# cash<vblex><pres>$	. \@Pay\<vblex\>\<pri\>\<p3\>\<sg\># cash
 ^.<sent>$ ^pay# cash<vblex><pri><p3><sg>$	. \@Pay\<vblex\>\<pri\>\<p3\>\<sg\># cash
@@ -20271,7 +20263,7 @@
 ^.<sent>$ ^shortly after<pr>$	. \@Shortly after\<pr\>
 ^.<sent>$ ^among<pr>$	. #Tra\<pr\>\/fra\<pr\>
 ^.<sent>$ ^around<pr>$	. #Circa\<pr\>\/attorno a\<pr\>\/intorno a\<pr\>\/nonostante\<pr\>
-^.<sent>$ ^as a result of<pr>$	. \@As a result of\<pr\>
+^.<sent>$ ^as a result of<pr>$	. #A seguito di\<pr\>
 ^.<sent>$ ^as for<pr>$	. \@As for\<pr\>
 ^.<sent>$ ^as regards<pr>$	. \@As regards\<pr\>
 ^.<sent>$ ^with regard to<pr>$	. \@With regard to\<pr\>
@@ -20285,7 +20277,7 @@
 ^.<sent>$ ^except<pr>$	. #Tranne\<pr\>\/eccetto\<pr\>
 ^.<sent>$ ^for<pr>$	. #Per\<pr\>\/durante\<pr\>
 ^.<sent>$ ^in accordance with<pr>$	. \@In accordance with\<pr\>
-^.<sent>$ ^in compliance with<pr>$	. \@In compliance with\<pr\>
+^.<sent>$ ^in compliance with<pr>$	. #In conformit√† con\<pr\>
 ^.<sent>$ ^in front of<pr>$	. #Innanzi a\<pr\>\/dinanzi a\<pr\>
 ^.<sent>$ ^in regard to<pr>$	. \@In regard to\<pr\>
 ^.<sent>$ ^in spite of<pr>$	. #Nonostante\<pr\>\/per altri\<pr\>
@@ -41115,8 +41107,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> chiedere<vblex>/domandare<vblex>$
 #\^.\<sent\> riunire<vblex>/assemblare<vblex>$
 #\^.\<sent\> assumere<vblex>/supporre<vblex>$
-#\^.\<sent\> astronauta<n><m>/astronauta<n><f>$
-#\^.\<sent\> astronauta<n><m>/astronauta<n><f>$
 #\^.\<sent\> attraverso a<pr>/attraverso di<pr>$
 #\^.\<sent\> circa<pr>/attorno a<pr>/intorno a<pr>/nonostante<pr>$
 #\^.\<sent\> entro<pr>/dentro<pr>/entro di<pr>/dentro di<pr>$
