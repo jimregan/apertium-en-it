@@ -87594,7 +87594,7 @@
 	forced 'null' restriction
       ND3-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>up<b/>to<s n="pr"/></l> 
         <r>fino<s n="pr"/></r> 
@@ -87609,6 +87609,12 @@
       <p>
         <l>up<b/>to<b/>here<s n="adv"/></l> 
         <r>qui<s n="adv"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>outdoors<s n="adv"/></l> 
+        <r>a<b/>cielo<b/>aperto<s n="adv"/></r> 
       </p>
     </e>
 
@@ -90791,7 +90797,7 @@
 	forced 'null' restriction
       ND3-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>within<s n="pr"/></l> 
         <r>dentro<s n="pr"/></r> 
