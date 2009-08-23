@@ -27968,6 +27968,8 @@
     <e lm="addressee" a="prompsit2cdl"><i>addressee</i><par n="house__n"/></e>
     <e lm="pertaining" a="prompsit2cdl"><i>pertaining</i><par n="expensive__adj"/></e>
     <e lm="free" a="prompsit2cdl"><i>free</i><par n="maybe__adv"/></e>
+    <e lm="at home"><i>at<b/>home</i><par n="maybe__adv"/></e>
+    <e lm="outdoors"><i>outdoors</i><par n="maybe__adv"/></e>
     <e lm="cancellation" a="prompsit2cdl"><i>cancellation</i><par n="house__n"/></e>
     <e lm="cession" a="prompsit2cdl"><i>cession</i><par n="house__n"/></e>
     <e lm="confirmation" a="prompsit2cdl"><i>confirmation</i><par n="house__n"/></e>
@@ -34536,6 +34538,18 @@
     <e lm="recurrence"><i>recurrence</i><par n="house__n"/></e>
     <e lm="expiration"><i>expiration</i><par n="house__n"/></e>
     <e lm="subsistence"><i>subsistence</i><par n="house__n"/></e>
+    <e lm="visitation"><i>visitation</i><par n="house__n"/></e>
+    <e lm="finalisation"><i>finali</i><par n="globali/sation__n"/></e>
+    <e lm="transduction"><i>transduction</i><par n="house__n"/></e>
+    <e lm="shipment"><i>shipment</i><par n="house__n"/></e>
+    <e lm="superimposition"><i>superimposition</i><par n="house__n"/></e>
+    <e lm="solicitation"><i>solicitation</i><par n="house__n"/></e>
+    <e lm="awe"><i>awe</i><par n="house__n"/></e>
+    <e lm="retraining"><i>retraining</i><par n="house__n"/></e>
+    <e lm="republication"><i>republication</i><par n="house__n"/></e>
+    <e lm="reprogramming"><i>reprogramming</i><par n="house__n"/></e>
+    <e lm="reworking"><i>reworking</i><par n="house__n"/></e>
+    <e lm="reactivation"><i>reactivation</i><par n="house__n"/></e>
   </section>
 
   <section id="apostrophes" type="preblank">
