@@ -66,6 +66,7 @@
 ^.<sent>$ ^such a<det><ind><sg>$	. #Tale
 ^.<sent>$ ^such<det><ind><sp>$	. #Tale
 ^.<sent>$ ^Koran<np><al><sg>$	. \@Koran\<np\>\<al\>
+^.<sent>$ ^Horacio<np><ant><m><sg>$	. \@Horacio\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Basauri<np><loc><sg>$	. \@Basauri\<np\>\<loc\>
 ^.<sent>$ ^Vitoria-Gasteiz<np><loc><sg>$	. \@Vitoria-Gasteiz\<np\>\<loc\>
 ^.<sent>$ ^Alaska<np><loc><sg>$	. \@Alaska\<np\>\<loc\>
@@ -19705,8 +19706,7 @@
 ^.<sent>$ ^inexplicably<adv>$	. \@Inexplicably\<adv\>
 ^.<sent>$ ^inside and out<adv>$	. \@Inside and out\<adv\>
 ^.<sent>$ ^instead<adv>$	. #Tuttavia\<adv\>\/in cambio\<adv\>
-^.<sent>$ ^intentionally<adv>$	. \@Intentionally\<adv\>
-^.<sent>$ ^it's no use crying over split milk<adv>$	. \@It's no use crying over split milk\<adv\>
+^.<sent>$ ^it's no use crying over spilt milk<adv>$	. \@It's no use crying over spilt milk\<adv\>
 ^.<sent>$ ^jealously<adv>$	. \@Jealously\<adv\>
 ^.<sent>$ ^just<adv>$	. #Appena\<adv\>\/soltanto\<adv\>\/esattamente\<adv\>
 ^.<sent>$ ^just in case<adv>$	. \@Just in case\<adv\>
@@ -20312,6 +20312,7 @@
 ^.<sent>$ ^right in front of<pr>$	. \@Right in front of\<pr\>
 ^.<sent>$ ^in order of<pr>$	. \@In order of\<pr\>
 ^.<sent>$ ^across<pr>$	. #Attraverso a\<pr\>
+^.<sent>$ ^Saint Irenaeus<np><ant><m><sg>$	. #Sant'Ireneo\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Austro-Hungarian Empire<np><loc><sg>$	. \@Austro-Hungarian Empire\<np\>\<loc\>
 ^.<sent>$ ^Malaga<np><loc><sg>$	. #Málaga\<np\>\<loc\>\<f\>\<sg\>
 ^.<sent>$ ^Bretton Woods<np><loc><sg>$	. \@Bretton Woods\<np\>\<loc\>

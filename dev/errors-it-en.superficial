@@ -116,8 +116,6 @@
 ^.<sent>$ ^Grau<np><loc><m><sg>$	. \@Grau\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^Ermes<np><al><m><sg>$	. \@Ermes\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Herrero<np><al><m><sg>$	. \@Herrero\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Orazio<np><ant><m><sg>$	. #Orazio\<np\>\<ant\>\<m\>\<sg\>\/Horace\<np\>\<ant\>\<m\>\<sg\>\/Horacio\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Ercole<np><ant><m><sg>$	. #Ercole\<np\>\<ant\>\<m\>\<sg\>\/Hercules\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^IU<np><al><m><sg>$	. \@IU\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Indiana<np><ant><m><sg>$	. #Indiana\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Iniesta<np><loc><m><sg>$	. \@Iniesta\<np\>\<loc\>\<sg\>
@@ -135,7 +133,6 @@
 ^.<sent>$ ^Montero<np><al><m><sg>$	. \@Montero\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Montiel<np><al><m><sg>$	. \@Montiel\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Nadal<np><al><m><sg>$	. \@Nadal\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Napoleone<np><ant><m><sg>$	. #Napoleone\<np\>\<ant\>\<m\>\<sg\>\/Napoleon\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Napster<np><al><m><sg>$	. \@Napster\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Nature<np><al><m><sg>$	. \@Nature\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^ONG<np><al><m><sg>$	. \@ONG\<np\>\<al\>\<m\>\<sg\>
@@ -173,16 +170,10 @@
 ^.<sent>$ ^Zeta<np><al><m><sg>$	. \@Zeta\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^html<np><al><m><sg>$	. \@Html\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^El Greco<np><ant><m><sg>$	. \@El Greco\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Ifigenia<np><ant><f><sg>$	. #Ifigenia\<np\>\<ant\>\<f\>\<sg\>\/Iphigenia\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Kenya<np><ant><f><sg>$	. #Kenya\<np\>\<ant\>\<f\>\<sg\>\/Kenia\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Penelope<np><ant><f><sg>$	. #Penelope\<np\>\<ant\>\<f\>\<sg\>\/Penélope\<np\>\<ant\>\<f\>\<sg\>
-^.<sent>$ ^Achille<np><ant><m><sg>$	. #Achille\<np\>\<ant\>\<m\>\<sg\>\/Achilles\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Ercole<np><ant><m><sg>$	. #Ercole\<np\>\<ant\>\<m\>\<sg\>\/Hercules\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Mosè<np><ant><m><sg>$	. #Mosè\<np\>\<ant\>\<m\>\<sg\>\/Moses\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Napoleone<np><ant><m><sg>$	. #Napoleone\<np\>\<ant\>\<m\>\<sg\>\/Napoleon\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Orazio<np><ant><m><sg>$	. #Orazio\<np\>\<ant\>\<m\>\<sg\>\/Horace\<np\>\<ant\>\<m\>\<sg\>\/Horacio\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Plinio<np><ant><m><sg>$	. #Plinio\<np\>\<ant\>\<m\>\<sg\>\/Pliny\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Sansone<np><ant><m><sg>$	. #Sansone\<np\>\<ant\>\<m\>\<sg\>\/Samson\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Theophorus<np><ant><m><sg>$	. \@Theophorus\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^Saint Irenaeus<np><ant><m><sg>$	. \@Saint Irenaeus\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^BBVA<n><acr><m><sg>$	. \@BBVA\<n\>\<acr\>\<sg\>
 ^.<sent>$ ^FMI<n><acr><m><sg>$	. \@FMI\<n\>\<acr\>\<sg\>
 ^.<sent>$ ^PP<n><acr><m><sg>$	. \@PP\<n\>\<acr\>\<sg\>
@@ -9911,116 +9902,6 @@
 ^.<sent>$ ^scamiciare<vblex><pri><p3><pl>$	. They \@scamiciare\<vblex\>\<pres\>
 ^.<sent>$ ^scamiciare<vblex><pp><m><sg>$	. \@Scamiciare\<vblex\>\<pp\>
 ^.<sent>$ ^scamiciare<vblex><pri><p3><sg>$	. It \@scamiciare\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^scoprire<vblex><ifi><p1><sg>$	. I #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><pii><p2><pl>$	. You #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><ifi><p2><pl>$	. You #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><pii><p2><sg>$	. You #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><ifi><p2><sg>$	. You #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><ifi><p3><pl>$	. They #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><cni><p1><pl>$	. We would #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><ifi><p3><sg>$	. It #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><prs><p3><pl>$	. They #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><cni><p1><sg>$	. I would #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><imp><p1><pl>$	. #Unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><prs><p3><sg>$	. It #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><cni><p2><pl>$	. You would #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><cni><p2><sg>$	. You would #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><pri><p3><pl>$	. They #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><cni><p3><pl>$	. They would #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><pp><f><pl>$	. #Unveil\<vblex\>\<pp\># out
-^.<sent>$ ^scoprire<vblex><cni><p3><sg>$	. It would #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><pri><p3><sg>$	. It #unveil\<vblex\>\<pri\>\<p3\>\<sg\># out
-^.<sent>$ ^scoprire<vblex><fti><p1><pl>$	. We will #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><pp><m><pl>$	. #Unveil\<vblex\>\<pp\># out
-^.<sent>$ ^scoprire<vblex><pp><f><sg>$	. #Unveil\<vblex\>\<pp\># out
-^.<sent>$ ^scoprire<vblex><pp><m><sg>$	. #Unveil\<vblex\>\<pp\># out
-^.<sent>$ ^scoprire<vblex><pis><p1><pl>$	. We #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><fti><p1><sg>$	. I will #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><pis><p1><sg>$	. I #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><fti><p2><pl>$	. You will #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><pis><p2><pl>$	. You #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><fti><p2><sg>$	. You will #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><pis><p2><sg>$	. You #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><fti><p3><pl>$	. They will #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><fti><p3><sg>$	. It will #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><pii><p1><pl>$	. We #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><ifi><p1><pl>$	. We #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><pii><p1><sg>$	. I #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><pis><p3><pl>$	. They #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><imp><p2><pl>$	. #Unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><pis><p3><sg>$	. It #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><imp><p2><sg>$	. #Unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><prs><p1><pl>$	. We #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><prs><p1><sg>$	. I #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><prs><p2><pl>$	. You #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><prs><p2><sg>$	. You #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><pii><p3><pl>$	. They #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><ger>$	. #Unveil\<vblex\>\<ger\># out
-^.<sent>$ ^scoprire<vblex><pii><p3><sg>$	. It #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><pri><p1><pl>$	. We #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><pri><p1><sg>$	. I #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><pri><p2><pl>$	. You #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><pri><p2><sg>$	. You #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><inf>$	. #Unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><ifi><p3><pl>$	. They #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><pis><p3><pl>$	. They #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><cni><p3><pl>$	. They would #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><fti><p3><pl>$	. They will #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><pii><p3><pl>$	. They #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><prs><p3><pl>$	. They #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><inf>$	. #Unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><pri><p3><pl>$	. They #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><ifi><p1><sg>$	. I #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><pii><p2><pl>$	. You #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><ifi><p2><pl>$	. You #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><pii><p2><sg>$	. You #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><ifi><p2><sg>$	. You #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><ifi><p3><pl>$	. They #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><cni><p1><pl>$	. We would #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><ifi><p3><sg>$	. It #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><prs><p3><pl>$	. They #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><cni><p1><sg>$	. I would #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><imp><p1><pl>$	. #Unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><prs><p3><sg>$	. It #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><cni><p2><pl>$	. You would #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><cni><p2><sg>$	. You would #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><pri><p3><pl>$	. They #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><cni><p3><pl>$	. They would #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><pp><f><pl>$	. #Unveil\<vblex\>\<pp\># out
-^.<sent>$ ^scoprire<vblex><cni><p3><sg>$	. It would #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><pri><p3><sg>$	. It #unveil\<vblex\>\<pri\>\<p3\>\<sg\># out
-^.<sent>$ ^scoprire<vblex><fti><p1><pl>$	. We will #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><pp><m><pl>$	. #Unveil\<vblex\>\<pp\># out
-^.<sent>$ ^scoprire<vblex><pp><f><sg>$	. #Unveil\<vblex\>\<pp\># out
-^.<sent>$ ^scoprire<vblex><pp><m><sg>$	. #Unveil\<vblex\>\<pp\># out
-^.<sent>$ ^scoprire<vblex><pis><p1><pl>$	. We #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><fti><p1><sg>$	. I will #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><pis><p1><sg>$	. I #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><fti><p2><pl>$	. You will #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><pis><p2><pl>$	. You #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><fti><p2><sg>$	. You will #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><pis><p2><sg>$	. You #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><fti><p3><pl>$	. They will #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><fti><p3><sg>$	. It will #unveil\<vblex\>\<inf\># out
-^.<sent>$ ^scoprire<vblex><pii><p1><pl>$	. We #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><ifi><p1><pl>$	. We #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><pii><p1><sg>$	. I #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><pis><p3><pl>$	. They #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><imp><p2><pl>$	. #Unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><pis><p3><sg>$	. It #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><imp><p2><sg>$	. #Unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><prs><p1><pl>$	. We #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><prs><p1><sg>$	. I #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><prs><p2><pl>$	. You #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><prs><p2><sg>$	. You #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><pii><p3><pl>$	. They #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><ger>$	. #Unveil\<vblex\>\<ger\># out
-^.<sent>$ ^scoprire<vblex><pii><p3><sg>$	. It #unveil\<vblex\>\<past\># out
-^.<sent>$ ^scoprire<vblex><pri><p1><pl>$	. We #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><pri><p1><sg>$	. I #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><pri><p2><pl>$	. You #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><pri><p2><sg>$	. You #unveil\<vblex\>\<pres\># out
-^.<sent>$ ^scoprire<vblex><inf>$	. #Unveil\<vblex\>\<inf\># out
 ^.<sent>$ ^sembrare<vblex><ifi><p1><sg>$	. I #seem\<vblex\>\<past\># like
 ^.<sent>$ ^sembrare<vblex><pii><p2><pl>$	. You #seem\<vblex\>\<past\># like
 ^.<sent>$ ^sembrare<vblex><ifi><p2><pl>$	. You #seem\<vblex\>\<past\># like
@@ -14264,19 +14145,7 @@
 ^.<sent>$ ^variamente<adv>$	. \@Variamente\<adv\>
 ^.<sent>$ ^vivamente<adv>$	. \@Vivamente\<adv\>
 ^.<sent>$ ^volutamente<adv>$	. \@Volutamente\<adv\>
-^.<sent>$ ^intenzionalmente<adv>$	. \@Intenzionalmente\<adv\>
 ^.<sent>$ ^Abdul-Hamid<np><ant><m><sg>$	. #Abdul Hamid\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Ignazio di Antiochia<np><ant><m><sg>$	. #Ignatius of Antioch\<np\>\<ant\>\<m\>\<sg\>\/Theophorus\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Orazio<np><ant><m><sg>$	. #Orazio\<np\>\<ant\>\<m\>\<sg\>\/Horace\<np\>\<ant\>\<m\>\<sg\>\/Horacio\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Mosè<np><ant><m><sg>$	. #Mosè\<np\>\<ant\>\<m\>\<sg\>\/Moses\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Sansone<np><ant><m><sg>$	. #Sansone\<np\>\<ant\>\<m\>\<sg\>\/Samson\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Achille<np><ant><m><sg>$	. #Achille\<np\>\<ant\>\<m\>\<sg\>\/Achilles\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Ercole<np><ant><m><sg>$	. #Ercole\<np\>\<ant\>\<m\>\<sg\>\/Hercules\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Orazio<np><ant><m><sg>$	. #Orazio\<np\>\<ant\>\<m\>\<sg\>\/Horace\<np\>\<ant\>\<m\>\<sg\>\/Horacio\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Napoleone<np><ant><m><sg>$	. #Napoleone\<np\>\<ant\>\<m\>\<sg\>\/Napoleon\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Plinio<np><ant><m><sg>$	. #Plinio\<np\>\<ant\>\<m\>\<sg\>\/Pliny\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Ifigenia<np><ant><f><sg>$	. #Ifigenia\<np\>\<ant\>\<f\>\<sg\>\/Iphigenia\<np\>\<ant\>\<f\>\<sg\>
-^.<sent>$ ^Ignazio di Antiochia<np><ant><m><sg>$	. #Ignatius of Antioch\<np\>\<ant\>\<m\>\<sg\>\/Theophorus\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^a<pr>$ ^il<det><def><mf><sg>$	. #At\<pr\>\/to\<pr\>\/into\<pr\>\/upon\<pr\>\/onto\<pr\> the
 ^.<sent>$ ^da<pr>$	. #From\<pr\>\/since\<pr\>
 ^.<sent>$ ^da<pr>$ ^il<det><def><mf><sg>$	. #From\<pr\>\/since\<pr\> the
