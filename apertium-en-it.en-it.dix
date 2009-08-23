@@ -4346,13 +4346,15 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-7
-    -->
     <e>
       <p>
         <l>Mauricio<s n="np"/><s n="ant"/></l> 
+        <r>Mauricio<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>Mauritius<s n="np"/><s n="ant"/></l> 
         <r>Mauritius<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -30393,7 +30395,7 @@
     -->
     <e>
       <p>
-        <l>disclosure<s n="n"/></l> 
+        <l>revelation<s n="n"/></l> 
         <r>rivelazione<s n="n"/><s n="f"/></r> 
       </p>
     </e>
@@ -47758,12 +47760,6 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
-      <p>
-        <l>infringement<s n="n"/></l> 
-        <r>contravvenzione<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
 
     <!-- 
 	forced 'null' restriction
@@ -102359,8 +102355,8 @@
     <e><p><l>infringement<s n="n"/></l><r>infrazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dissatisfaction<s n="n"/></l><r>insoddisfazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>insolation<s n="n"/></l><r>insolazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>inspiration<s n="n"/></l><r>inspirazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>establishment<s n="n"/></l><r>instaurazione<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>inspiration<s n="n"/></l><r>inspirazione<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>establishment<s n="n"/></l><r>instaurazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>question<s n="n"/></l><r>interrogazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>header<s n="n"/></l><r>intestazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>secularisation<s n="n"/></l><r>laicizzazione<s n="n"/><s n="f"/></r></p></e>
@@ -102389,11 +102385,11 @@
     <e><p><l>taxation<s n="n"/></l><r>tassazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>abuse<g><b/>of<b/>power</g><s n="n"/></l><r>sopraffazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>superimposition<s n="n"/></l><r>sovrapposizione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>division<s n="n"/></l><r>spartizione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>partition<s n="n"/></l><r>spartizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>awe<s n="n"/></l><r>soggezione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>solicitation<s n="n"/></l><r>sollecitazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>uprising<s n="n"/></l><r>sollevazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>arrangement<s n="n"/></l><r>sistemazione<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>arrangement<s n="n"/></l><r>sistemazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>road<b/>sign<s n="n"/></l><r>segnale<b/>stradale<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>road<b/>sign<s n="n"/></l><r>segnalazione<b/>stradale<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reworking<s n="n"/></l><r>rielaborazione<s n="n"/><s n="f"/></r></p></e>
