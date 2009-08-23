@@ -47363,25 +47363,64 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'LR' restriction
-      ND-29
-    -->
     <e r="LR">
       <p>
         <l>individual<s n="n"/></l> 
         <r>individuo<s n="n"/><s n="GD"/></r> 
       </p>
     </e>
-
-    <!-- 
-	forced 'RL' restriction
-      ND-27
-    -->
     <e r="RL">
       <p>
         <l>individual<s n="n"/></l> 
-        <r>individuo<s n="n"/><s n="m"/></r> 
+        <r>individuo<s n="n"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>accordionist<s n="n"/></l> 
+        <r>fisarmonicista<s n="n"/><s n="GD"/></r> 
+      </p>
+    </e>
+    <e r="RL">
+      <p>
+        <l>accordionist<s n="n"/></l> 
+        <r>fisarmonicista<s n="n"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>leninist<s n="n"/></l> 
+        <r>leninista<s n="n"/><s n="GD"/></r> 
+      </p>
+    </e>
+    <e r="RL">
+      <p>
+        <l>leninist<s n="n"/></l> 
+        <r>leninista<s n="n"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>collector<s n="n"/></l> 
+        <r>collezionista<s n="n"/><s n="GD"/></r> 
+      </p>
+    </e>
+    <e r="RL">
+      <p>
+        <l>collector<s n="n"/></l> 
+        <r>collezionista<s n="n"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>economist<s n="n"/></l> 
+        <r>economista<s n="n"/><s n="GD"/></r> 
+      </p>
+    </e>
+    <e r="RL">
+      <p>
+        <l>economist<s n="n"/></l> 
+        <r>economista<s n="n"/></r> 
       </p>
     </e>
 
