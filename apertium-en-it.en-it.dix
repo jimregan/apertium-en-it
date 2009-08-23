@@ -7420,7 +7420,7 @@
 	forced 'null' restriction
       ND3-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>according<s n="pr"/></l> 
         <r>secondo<s n="pr"/></r> 
@@ -10611,7 +10611,7 @@
 	forced 'null' restriction
       ND3-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>amongst<s n="pr"/></l> 
         <r>tra<s n="pr"/></r> 
@@ -47105,18 +47105,7 @@
     -->
     <e>
       <p>
-        <l>income<s n="n"/><s n="sg"/></l> 
-        <r>entrata<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>income<s n="n"/><s n="pl"/></l> 
+        <l>income<s n="n"/></l> 
         <r>entrata<s n="n"/><s n="f"/></r> 
       </p>
     </e>
@@ -81056,7 +81045,7 @@
 	forced 'null' restriction
       ND3-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>such<b/>as<s n="pr"/></l> 
         <r>come<s n="pr"/></r> 
