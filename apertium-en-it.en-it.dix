@@ -30688,7 +30688,7 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>disorder<s n="n"/></l> 
         <r>trastorno<s n="n"/><s n="m"/></r> 
@@ -48034,7 +48034,7 @@
 	forced 'null' restriction
       ND-9
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>insertion<s n="n"/></l> 
         <r>inserimento<s n="n"/><s n="m"/></r> 
@@ -61511,7 +61511,7 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>order<s n="n"/></l> 
         <r>ordine<s n="n"/><s n="f"/></r> 
@@ -61522,7 +61522,7 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>order<s n="n"/></l> 
         <r>provvedimento<s n="n"/><s n="f"/></r> 
@@ -61544,7 +61544,7 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>order<s n="n"/></l> 
         <r>provvedimento<s n="n"/><s n="m"/></r> 
