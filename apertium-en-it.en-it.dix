@@ -13661,6 +13661,8 @@
     <e><p><l>unless<s n="pr"/></l><r>tranne<s n="pr"/></r></p></e>
     <e><p><l>between<s n="pr"/></l><r>tra<s n="pr"/></r></p></e>
     <e><p><l>near<s n="pr"/></l><r>vicino<b/>a<s n="pr"/></r></p></e>
+    <e><p><l>more<b/>than<s n="pr"/></l><r>più<b/>di<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>rather<b/>than<s n="pr"/></l><r>più<b/>di<s n="pr"/></r></p></e>
 
     <!-- 
 	forced 'null' restriction
@@ -38897,17 +38899,6 @@
     <e>
       <p>
         <l>for<s n="pr"/></l> 
-        <r>durante<s n="pr"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND3-0
-    -->
-    <e>
-      <p>
-        <l>for<s n="pr"/></l> 
         <r>per<s n="pr"/></r> 
       </p>
     </e>
@@ -62214,17 +62205,6 @@
       <p>
         <l>over<s n="adv"/></l> 
         <r>addirittura<s n="adv"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND3-0
-    -->
-    <e>
-      <p>
-        <l>over<s n="pr"/></l> 
-        <r>durante<s n="pr"/></r> 
       </p>
     </e>
 
@@ -91606,7 +91586,7 @@
 	forced 'null' restriction
       default
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>yours<s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></l> 
         <r>il<b/>vostro<s n="prn"/><s n="tn"/><s n="pos"/></r> 
@@ -91617,7 +91597,7 @@
 	forced 'null' restriction
       default
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>yours<s n="prn"/><s n="pos"/></l> 
         <r>il<b/>vostro<s n="prn"/><s n="tn"/><s n="pos"/></r> 
