@@ -93837,6 +93837,20 @@
     <e lm="ballare"><i>ball</i><par n="abbacin/are__vblex"/></e>
     <e lm="basare"><i>bas</i><par n="abbacin/are__vblex"/></e>
     <e lm="bere"><i>be</i><par n="be/re__vblex"/></e>
+    <e lm="bere come un pesce">
+      <i>be</i><par n="be/re__vblex"/>
+      <p>
+        <l><b/>come<b/>un<b/>pesce</l>
+        <r><g><b/>come<b/>un<b/>pesce</g></r>
+      </p>
+    </e>
+    <e lm="bere come una spugna">
+      <i>be</i><par n="be/re__vblex"/>
+      <p>
+        <l><b/>come<b/>una<b/>spugna</l>
+        <r><g><b/>come<b/>una<b/>spugna</g></r>
+      </p>
+    </e>
     <e lm="belare"><i>bel</i><par n="abbacin/are__vblex"/></e>
     <e lm="blindare"><i>blind</i><par n="abbacin/are__vblex"/></e>
     <e lm="bloccare"><i>blocc</i><par n="abbarbic/are__vblex"/></e>
