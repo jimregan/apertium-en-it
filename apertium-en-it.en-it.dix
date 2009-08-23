@@ -88498,6 +88498,36 @@
         <r>veterinario<s n="adj"/></r> 
       </p>
     </e>
+    <e r="LR">
+      <p>
+        <l>veterinarian<s n="n"/></l> 
+        <r>veterinario<s n="n"/><s n="GD"/></r> 
+      </p>
+    </e>
+    <e r="RL">
+      <p>
+        <l>veterinarian<s n="n"/></l> 
+        <r>veterinario<s n="n"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>budgie<s n="n"/></l> 
+        <r>pappagallino<s n="n"/><s n="GD"/></r> 
+      </p>
+    </e>
+    <e r="RL">
+      <p>
+        <l>budgie<s n="n"/></l> 
+        <r>pappagallino<s n="n"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>budgerigar<s n="n"/></l> 
+        <r>pappagallino<s n="n"/><s n="GD"/></r> 
+      </p>
+    </e>
 
     <!-- 
 	forced 'null' restriction
@@ -102345,5 +102375,7 @@
     <e r="RL"><p><l>boor<s n="n"/></l><r>villano<s n="n"/></r></p></e>
     <e><p><l>uncle<s n="n"/></l><r>zio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aunt<s n="n"/></l><r>zio<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>ambitious<s n="n"/></l><r>ambizioso<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>ambitious<s n="n"/></l><r>ambizioso<s n="n"/></r></p></e>
   </section>
 </dictionary>
