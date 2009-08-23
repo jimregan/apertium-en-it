@@ -1279,6 +1279,8 @@
 ^.<sent>$ ^riposo<n><m><sg>$	. \@Riposo\<n\>\<sg\>
 ^.<sent>$ ^riva<n><f><pl>$	. \@Riva\<n\>\<pl\>
 ^.<sent>$ ^riva<n><f><sg>$	. \@Riva\<n\>\<sg\>
+^.<sent>$ ^rivelazione<n><f><pl>$	. #Revelation\<n\>\<pl\>
+^.<sent>$ ^rivelazione<n><f><sg>$	. #Revelation\<n\>\<sg\>
 ^.<sent>$ ^ronda<n><f><pl>$	. \@Ronda\<n\>\<pl\>
 ^.<sent>$ ^ronda<n><f><sg>$	. \@Ronda\<n\>\<sg\>
 ^.<sent>$ ^rosmarino<n><m><pl>$	. \@Rosmarino\<n\>\<pl\>
@@ -1860,44 +1862,26 @@
 ^.<sent>$ ^retribuzione<n><f><sg>$	. \@Retribuzione\<n\>\<sg\>
 ^.<sent>$ ^retroazione<n><f><pl>$	. \@Retroazione\<n\>\<pl\>
 ^.<sent>$ ^retroazione<n><f><sg>$	. \@Retroazione\<n\>\<sg\>
-^.<sent>$ ^riattivazione<n><f><pl>$	. #Reactivation\<n\>\<pl\>
-^.<sent>$ ^riattivazione<n><f><sg>$	. #Reactivation\<n\>\<sg\>
 ^.<sent>$ ^ricostituzione<n><f><pl>$	. \@Ricostituzione\<n\>\<pl\>
 ^.<sent>$ ^ricostituzione<n><f><sg>$	. \@Ricostituzione\<n\>\<sg\>
 ^.<sent>$ ^riedizione<n><f><pl>$	. \@Riedizione\<n\>\<pl\>
 ^.<sent>$ ^riedizione<n><f><sg>$	. \@Riedizione\<n\>\<sg\>
-^.<sent>$ ^rielaborazione<n><f><pl>$	. #Reworking\<n\>\<pl\>
-^.<sent>$ ^rielaborazione<n><f><sg>$	. #Reworking\<n\>\<sg\>
 ^.<sent>$ ^rimozione<n><f><pl>$	. \@Rimozione\<n\>\<pl\>
 ^.<sent>$ ^rimozione<n><f><sg>$	. \@Rimozione\<n\>\<sg\>
 ^.<sent>$ ^ripartizione<n><f><pl>$	. \@Ripartizione\<n\>\<pl\>
 ^.<sent>$ ^ripartizione<n><f><sg>$	. \@Ripartizione\<n\>\<sg\>
-^.<sent>$ ^riprogrammazione<n><f><pl>$	. #Reprogramming\<n\>\<pl\>
-^.<sent>$ ^riprogrammazione<n><f><sg>$	. #Reprogramming\<n\>\<sg\>
 ^.<sent>$ ^riproposizione<n><f><pl>$	. \@Riproposizione\<n\>\<pl\>
 ^.<sent>$ ^riproposizione<n><f><sg>$	. \@Riproposizione\<n\>\<sg\>
-^.<sent>$ ^ripubblicazione<n><f><pl>$	. #Republication\<n\>\<pl\>
-^.<sent>$ ^ripubblicazione<n><f><sg>$	. #Republication\<n\>\<sg\>
-^.<sent>$ ^riqualificazione<n><f><pl>$	. #Retraining\<n\>\<pl\>
-^.<sent>$ ^riqualificazione<n><f><sg>$	. #Retraining\<n\>\<sg\>
 ^.<sent>$ ^rivisitazione<n><f><pl>$	. \@Rivisitazione\<n\>\<pl\>
 ^.<sent>$ ^rivisitazione<n><f><sg>$	. \@Rivisitazione\<n\>\<sg\>
 ^.<sent>$ ^segnalazione<n><f><pl>$	. \@Segnalazione\<n\>\<pl\>
 ^.<sent>$ ^segnalazione<n><f><sg>$	. \@Segnalazione\<n\>\<sg\>
-^.<sent>$ ^soggezione<n><f><pl>$	. #Awe\<n\>\<pl\>
-^.<sent>$ ^soggezione<n><f><sg>$	. #Awe\<n\>\<sg\>
-^.<sent>$ ^sollecitazione<n><f><pl>$	. #Solicitation\<n\>\<pl\>
-^.<sent>$ ^sollecitazione<n><f><sg>$	. #Solicitation\<n\>\<sg\>
 ^.<sent>$ ^somministrazione<n><f><pl>$	. \@Somministrazione\<n\>\<pl\>
 ^.<sent>$ ^somministrazione<n><f><sg>$	. \@Somministrazione\<n\>\<sg\>
 ^.<sent>$ ^sonorizzazione<n><f><pl>$	. \@Sonorizzazione\<n\>\<pl\>
 ^.<sent>$ ^sonorizzazione<n><f><sg>$	. \@Sonorizzazione\<n\>\<sg\>
 ^.<sent>$ ^sopportazione<n><f><pl>$	. \@Sopportazione\<n\>\<pl\>
 ^.<sent>$ ^sopportazione<n><f><sg>$	. \@Sopportazione\<n\>\<sg\>
-^.<sent>$ ^sovrapposizione<n><f><pl>$	. #Superimposition\<n\>\<pl\>
-^.<sent>$ ^sovrapposizione<n><f><sg>$	. #Superimposition\<n\>\<sg\>
-^.<sent>$ ^spedizione<n><f><pl>$	. #Shipment\<n\>\<pl\>
-^.<sent>$ ^spedizione<n><f><sg>$	. #Shipment\<n\>\<sg\>
 ^.<sent>$ ^spiegazione<n><f><pl>$	. \@Spiegazione\<n\>\<pl\>
 ^.<sent>$ ^spiegazione<n><f><sg>$	. \@Spiegazione\<n\>\<sg\>
 ^.<sent>$ ^sproporzione<n><f><pl>$	. \@Sproporzione\<n\>\<pl\>
@@ -1906,16 +1890,10 @@
 ^.<sent>$ ^teorizzazione<n><f><sg>$	. \@Teorizzazione\<n\>\<sg\>
 ^.<sent>$ ^terminazione<n><f><pl>$	. \@Terminazione\<n\>\<pl\>
 ^.<sent>$ ^terminazione<n><f><sg>$	. \@Terminazione\<n\>\<sg\>
-^.<sent>$ ^trasduzione<n><f><pl>$	. #Transduction\<n\>\<pl\>
-^.<sent>$ ^trasduzione<n><f><sg>$	. #Transduction\<n\>\<sg\>
 ^.<sent>$ ^tripartizione<n><f><pl>$	. \@Tripartizione\<n\>\<pl\>
 ^.<sent>$ ^tripartizione<n><f><sg>$	. \@Tripartizione\<n\>\<sg\>
-^.<sent>$ ^ultimazione<n><f><pl>$	. #Finalisation\<n\>\<pl\>
-^.<sent>$ ^ultimazione<n><f><sg>$	. #Finalisation\<n\>\<sg\>
 ^.<sent>$ ^vinificazione<n><f><pl>$	. \@Vinificazione\<n\>\<pl\>
 ^.<sent>$ ^vinificazione<n><f><sg>$	. \@Vinificazione\<n\>\<sg\>
-^.<sent>$ ^Visitazione<n><f><pl>$	. #Visitation\<n\>\<pl\>
-^.<sent>$ ^Visitazione<n><f><sg>$	. #Visitation\<n\>\<sg\>
 ^.<sent>$ ^conflittualità<n><f><sp>$	. \@Conflittualità\<n\>\<sp\>
 ^.<sent>$ ^penitenziario<n><m><pl>$	. \@Penitenziario\<n\>\<pl\>
 ^.<sent>$ ^penitenziario<n><m><sg>$	. \@Penitenziario\<n\>\<sg\>
@@ -13722,7 +13700,6 @@
 ^.<sent>$ ^per<pr>$	. #Per\<pr\>\/for\<pr\>\/by\<pr\>\/towards\<pr\>\/in order to\<pr\>
 ^.<sent>$ ^sopra<pr>$	. #Above\<pr\>\/about\<pr\>\/on\<pr\>\/over\<pr\>\/at about\<pr\>
 ^.<sent>$ ^tranne<pr>$	. #Except\<pr\>\/unless\<pr\>\/but\<pr\>\/except for\<pr\>
-^.<sent>$ ^a cielo aperto<adv>$	. #Outdoors\<adv\>
 ^.<sent>$ ^a continuazione<adv>$	. \@A continuazione\<adv\>
 ^.<sent>$ ^a contropelo<adv>$	. \@A contropelo\<adv\>
 ^.<sent>$ ^a cosa<adv>$	. \@A cosa\<adv\>
@@ -13806,7 +13783,6 @@
 ^.<sent>$ ^in massa<adv>$	. \@In massa\<adv\>
 ^.<sent>$ ^nell'ultima parte<adv>$	. \@Nell'ultima parte\<adv\>
 ^.<sent>$ ^in croce<adv>$	. \@In croce\<adv\>
-^.<sent>$ ^in casa<adv>$	. #At home\<adv\>
 ^.<sent>$ ^in quarto luogo<adv>$	. \@In quarto luogo\<adv\>
 ^.<sent>$ ^in terzo luogo<adv>$	. \@In terzo luogo\<adv\>
 ^.<sent>$ ^ininterrottamente<adv>$	. \@Ininterrottamente\<adv\>
