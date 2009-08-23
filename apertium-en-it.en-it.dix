@@ -46474,17 +46474,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-3
-    -->
-    <e>
-      <p>
-        <l>in<s n="adv"/></l> 
-        <r>dentro<s n="adv"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND3-0
     -->
     <e>
@@ -84314,7 +84303,7 @@
 	forced 'null' restriction
       ND3-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>throughout<s n="pr"/></l> 
         <r>durante<s n="pr"/></r> 
