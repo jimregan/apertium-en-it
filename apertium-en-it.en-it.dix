@@ -13401,10 +13401,10 @@
 	forced 'null' restriction
       ND-36
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>astronaut<s n="n"/></l> 
-        <r>astronauta<s n="n"/><s n="m"/></r> 
+        <r>astronauta<s n="n"/><s n="GD"/></r> 
       </p>
     </e>
 
@@ -13412,10 +13412,10 @@
 	forced 'null' restriction
       ND-30
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>astronaut<s n="n"/></l> 
-        <r>astronauta<s n="n"/><s n="f"/></r> 
+        <r>astronauta<s n="n"/></r> 
       </p>
     </e>
 
