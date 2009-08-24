@@ -8105,12 +8105,18 @@
         <r>adattare<s n="vblex"/></r> 
       </p>
     </e>
+    <e r="LR">
+      <p>
+        <l>fit<s n="vblex"/></l> 
+        <r>adattare<s n="vblex"/></r> 
+      </p>
+    </e>
 
     <!-- 
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>adapt<s n="vblex"/></l> 
         <r>adeguare<s n="vblex"/></r> 
