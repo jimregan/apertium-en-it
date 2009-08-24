@@ -102638,7 +102638,7 @@
     <e><p><l>audience<s n="n"/></l><r>udienza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>descent<s n="n"/></l><r>discendenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>managership<s n="n"/></l><r>dirigenza<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>aspirations<s n="n"/></l><r>velleità<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>aspirations<s n="n"/></l><r>velleità<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>winemaking<s n="n"/></l><r>vinificazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>vinification<s n="n"/></l><r>vinificazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>conflict<s n="n"/></l><r>conflittualità<s n="n"/><s n="f"/></r></p></e>
@@ -102648,7 +102648,9 @@
     <e><p><l>postrecording<s n="n"/></l><r>sonorizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>theorisation<s n="n"/></l><r>teorizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ending<s n="n"/></l><r>desinenza<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>scientific<b/>character<s n="n"/></l><r>scientificità<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>scientific<b/>character<s n="n"/><s n="ND"/></l><r>scientificità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>scientific<b/>character<s n="n"/><s n="pl"/></l><r>scientificità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>scientific<b/>character<s n="n"/><s n="sg"/></l><r>scientificità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>wig<s n="n"/></l><r>parrucca<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Easter<s n="n"/></l><r>pasqua<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>administration<s n="n"/></l><r>somministrazione<s n="n"/><s n="f"/></r></p></e>
