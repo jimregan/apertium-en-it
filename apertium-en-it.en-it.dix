@@ -36201,17 +36201,6 @@
     <e>
       <p>
         <l>external<s n="adj"/></l> 
-        <r>esteriore<s n="adj"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-5
-    -->
-    <e>
-      <p>
-        <l>external<s n="adj"/></l> 
         <r>esterno<s n="adj"/></r> 
       </p>
     </e>
@@ -40367,17 +40356,6 @@
       <p>
         <l>fuse<s n="n"/></l> 
         <r>stoppino<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-10
-    -->
-    <e>
-      <p>
-        <l>fuselage<s n="n"/></l> 
-        <r>nave<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -88486,7 +88464,7 @@
     <e>
       <p>
         <l>vessel<s n="n"/></l> 
-        <r>barca<s n="n"/><s n="m"/></r> 
+        <r>barca<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -102781,7 +102759,7 @@
     <e><p><l>presential<s n="adj"/></l><r>presenziale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>penitential<s n="adj"/></l><r>penitenziale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>percentage<s n="adj"/></l><r>percentuale<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>expert<s n="adj"/></l><r>peritale<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>expert<s n="adj"/></l><r>peritale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>passionate<s n="adj"/></l><r>passionale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>unfavorable<s n="adj"/></l><r>sfavorevole<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>lordly<s n="adj"/></l><r>signorile<s n="adj"/><s n="mf"/></r></p></e>
@@ -102816,7 +102794,7 @@
     <e><p><l>ingenious<s n="adj"/></l><r>geniale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>neighbouring<s n="adj"/></l><r>confinante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>colourant<s n="adj"/></l><r>colorante<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>decisive<s n="adj"/></l><r>determinante<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>decisive<s n="adj"/></l><r>determinante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>taxpayer<s n="adj"/></l><r>contribuente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>concordant<s n="adj"/></l><r>concorde<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>diluent<s n="adj"/></l><r>diluente<s n="adj"/><s n="mf"/></r></p></e>
@@ -102835,13 +102813,13 @@
     <e><p><l>temporal<s n="adj"/></l><r>temporale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>thermal<s n="adj"/></l><r>termale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>one-family<s n="adj"/></l><r>unifamiliare<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>likely<s n="adj"/></l><r>verosimile<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>likely<s n="adj"/></l><r>verosimile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>virile<s n="adj"/></l><r>virile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>vivacious<s n="adj"/></l><r>vivace<s n="adj"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>standard<s n="adj"/></l><r>conforme<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>fruit<s n="adj"/></l><r>da<b/>frutta<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>local<s n="adj"/></l><r>vicinale<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>vicinal<s n="adj"/></l><r>vicinale<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>local<s n="adj"/></l><r>vicinale<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>vicinal<s n="adj"/></l><r>vicinale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>cordovan<s n="adj"/></l><r>cordovese<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>dominical<s n="adj"/></l><r>dominicale<s n="adj"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>interregional<s n="adj"/></l><r>intercomarcale<s n="adj"/><s n="mf"/></r></p></e>
