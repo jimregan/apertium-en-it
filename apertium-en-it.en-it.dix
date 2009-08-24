@@ -24523,6 +24523,12 @@
         <r>conferire<s n="vblex"/></r> 
       </p>
     </e>
+    <e r="LR">
+      <p>
+        <l>award<s n="vblex"/></l> 
+        <r>conferire<s n="vblex"/></r> 
+      </p>
+    </e>
 
     <!-- 
 	forced 'null' restriction
@@ -71793,6 +71799,12 @@
         <r>riparare<s n="vblex"/></r> 
       </p>
     </e>
+    <e r="LR">
+      <p>
+        <l>fix<s n="vblex"/></l> 
+        <r>riparare<s n="vblex"/></r> 
+      </p>
+    </e>
 
     <!-- 
 	forced 'null' restriction
@@ -75464,6 +75476,12 @@
     <e>
       <p>
         <l>serve<s n="vblex"/></l> 
+        <r>servire<s n="vblex"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>dish<s n="vblex"/></l> 
         <r>servire<s n="vblex"/></r> 
       </p>
     </e>
@@ -89506,6 +89524,12 @@
         <r>riscaldare<s n="vblex"/></r> 
       </p>
     </e>
+    <e>
+      <p>
+        <l>give<s n="vblex"/></l> 
+        <r>dare<s n="vblex"/></r> 
+      </p>
+    </e>
 
     <!-- 
 	forced 'null' restriction
@@ -102484,5 +102508,72 @@
     <e><p><l>believe<s n="vblex"/></l><r>credere<s n="vblex"/></r></p></e>
     <e><p><l>bless<s n="vblex"/></l><r>benedire<s n="vblex"/></r></p></e>
     <e><p><l>imprison<s n="vblex"/></l><r>imprigionare<s n="vblex"/></r></p></e>
+    <e><p><l>harmonise<s n="vblex"/></l><r>armonizzare<s n="vblex"/></r></p></e>
+    <e><p><l>graze<s n="vblex"/></l><r>pascolare<s n="vblex"/></r></p></e>
+    <e><p><l>glimpse<s n="vblex"/></l><r>intravedere<s n="vblex"/></r></p></e>
+    <e><p><l>generalise<s n="vblex"/></l><r>generalizzare<s n="vblex"/></r></p></e>
+    <e><p><l>formalise<s n="vblex"/></l><r>formalizzare<s n="vblex"/></r></p></e>
+    <e><p><l>formulate<s n="vblex"/></l><r>formulare<s n="vblex"/></r></p></e>
+    <e><p><l>fortify<s n="vblex"/></l><r>fortificare<s n="vblex"/></r></p></e>
+    <e><p><l>fluctuate<s n="vblex"/></l><r>fluttuare<s n="vblex"/></r></p></e>
+    <e><p><l>ferment<s n="vblex"/></l><r>fermentare<s n="vblex"/></r></p></e>
+    <e><p><l>fill<s n="vblex"/></l><r>riempire<s n="vblex"/></r></p></e>
+    <e><p><l>film<s n="vblex"/></l><r>filmare<s n="vblex"/></r></p></e>
+    <e><p><l>fish<s n="vblex"/></l><r>pescare<s n="vblex"/></r></p></e>
+    <e><p><l>fry<s n="vblex"/></l><r>friggere<s n="vblex"/></r></p></e>
+    <e><p><l>forget<s n="vblex"/></l><r>dimenticare<s n="vblex"/></r></p></e>
+    <e><p><l>flower<s n="vblex"/></l><r>fiorire<s n="vblex"/></r></p></e>
+    <e><p><l>bake<s n="vblex"/></l><r>cuocere<s n="vblex"/></r></p></e>
+    <e><p><l>banish<s n="vblex"/></l><r>bandire<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>ban<s n="vblex"/></l><r>proibire<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>forbid<s n="vblex"/></l><r>proibire<s n="vblex"/></r></p></e>
+    <e><p><l>prohibit<s n="vblex"/></l><r>proibire<s n="vblex"/></r></p></e>
+    <e><p><l>exterminate<s n="vblex"/></l><r>sterminare<s n="vblex"/></r></p></e>
+    <e><p><l>explore<s n="vblex"/></l><r>esplorare<s n="vblex"/></r></p></e>
+    <e><p><l>expose<s n="vblex"/></l><r>esporre<s n="vblex"/></r></p></e>
+    <e><p><l>exhort<s n="vblex"/></l><r>esortare<s n="vblex"/></r></p></e>
+    <e><p><l>execute<s n="vblex"/></l><r>eseguire<s n="vblex"/></r></p></e>
+    <e><p><l>exchange<s n="vblex"/></l><r>scambiare<s n="vblex"/></r></p></e>
+    <e><p><l>exaggerate<s n="vblex"/></l><r>esagerare<s n="vblex"/></r></p></e>
+    <e><p><l>embarrass<s n="vblex"/></l><r>imbarazzare<s n="vblex"/></r></p></e>
+    <e><p><l>embody<s n="vblex"/></l><r>incarnare<s n="vblex"/></r></p></e>
+    <e><p><l>distill<s n="vblex"/></l><r>distillare<s n="vblex"/></r></p></e>
+    <e><p><l>distinguish<s n="vblex"/></l><r>distinguere<s n="vblex"/></r></p></e>
+    <e><p><l>distort<s n="vblex"/></l><r>falsare<s n="vblex"/></r></p></e>
+    <e><p><l>distract<s n="vblex"/></l><r>distrarre<s n="vblex"/></r></p></e>
+    <e><p><l>dissolve<s n="vblex"/></l><r>sciogliere<s n="vblex"/></r></p></e>
+    <e><p><l>displace<s n="vblex"/></l><r>spostare<s n="vblex"/></r></p></e>
+    <e><p><l>disturb<s n="vblex"/></l><r>disturbare<s n="vblex"/></r></p></e>
+    <e><p><l>disseminate<s n="vblex"/></l><r>diffondere<s n="vblex"/></r></p></e>
+    <e><p><l>dissipate<s n="vblex"/></l><r>dissipare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>dispel<s n="vblex"/></l><r>dissipare<s n="vblex"/></r></p></e>
+    <e><p><l>disperse<s n="vblex"/></l><r>disperdere<s n="vblex"/></r></p></e>
+    <e><p><l>disinfect<s n="vblex"/></l><r>disinfettare<s n="vblex"/></r></p></e>
+    <e><p><l>disintegrate<s n="vblex"/></l><r>disintegrare<s n="vblex"/></r></p></e>
+    <e><p><l>disarm<s n="vblex"/></l><r>disarmare<s n="vblex"/></r></p></e>
+    <e><p><l>disassemble<s n="vblex"/></l><r>smontare<s n="vblex"/></r></p></e>
+    <e><p><l>disburse<s n="vblex"/></l><r>sborsare<s n="vblex"/></r></p></e>
+    <e><p><l>dislike<s n="vblex"/></l><r>dispiacere<s n="vblex"/></r></p></e>
+    <e><p><l>discipline<s n="vblex"/></l><r>disciplinare<s n="vblex"/></r></p></e>
+    <e><p><l>discount<s n="vblex"/></l><r>scontare<s n="vblex"/></r></p></e>
+    <e><p><l>disdain<s n="vblex"/></l><r>sdegnare<s n="vblex"/></r></p></e>
+    <e><p><l>disapprove<s n="vblex"/></l><r>disapprovare<s n="vblex"/></r></p></e>
+    <e><p><l>disillusion<s n="vblex"/></l><r>disilludere<s n="vblex"/></r></p></e>
+    <e><p><l>emerge<s n="vblex"/></l><r>emergere<s n="vblex"/></r></p></e>
+    <e><p><l>enhance<s n="vblex"/></l><r>migliorare<s n="vblex"/></r></p></e>
+    <e><p><l>envy<s n="vblex"/></l><r>invidiare<s n="vblex"/></r></p></e>
+    <e><p><l>equip<s n="vblex"/></l><r>equipaggiare<s n="vblex"/></r></p></e>
+    <e><p><l>equate<s n="vblex"/></l><r>equiparare<s n="vblex"/></r></p></e>
+    <e><p><l>eradicate<s n="vblex"/></l><r>eradicare<s n="vblex"/></r></p></e>
+    <e><p><l>erase<s n="vblex"/></l><r>cancellare<s n="vblex"/></r></p></e>
+    <e><p><l>erode<s n="vblex"/></l><r>erodere<s n="vblex"/></r></p></e>
+    <e><p><l>entertain<s n="vblex"/></l><r>intrattenere<s n="vblex"/></r></p></e>
+    <e><p><l>except<s n="vblex"/></l><r>eccettuare<s n="vblex"/></r></p></e>
+    <e><p><l>exercise<s n="vblex"/></l><r>esercitare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>exert<s n="vblex"/></l><r>esercitare<s n="vblex"/></r></p></e>
+    <e><p><l>exhaust<s n="vblex"/></l><r>esaurire<s n="vblex"/></r></p></e>
+    <e><p><l>elucidate<s n="vblex"/></l><r>delucidare<s n="vblex"/></r></p></e>
+    <e><p><l>fold<s n="vblex"/></l><r>piegare<s n="vblex"/></r></p></e>
+    <e><p><l>hover<s n="vblex"/></l><r>sorvolare<s n="vblex"/></r></p></e>
   </section>
 </dictionary>
