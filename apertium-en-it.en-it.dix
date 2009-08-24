@@ -74851,17 +74851,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-0
-    -->
-    <e>
-      <p>
-        <l>second<s n="n"/></l> 
-        <r>secondo<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-3
     -->
     <e>
@@ -102574,8 +102563,8 @@
     <e r="RL"><p><l>unemployed<s n="n"/><s n="pl"/></l><r>disoccupato<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>unemployed<s n="n"/><s n="pl"/></l><r>disoccupato<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>unemployed<b/>person<s n="n"/><s n="sg"/></l><r>disoccupato<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>unemployed<b/>person<s n="n"/></l><r>disoccupato<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>unemployed<b/>person<s n="n"/></l><r>disoccupato<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>unemployed<b/>person<s n="n"/><s n="sg"/></l><r>disoccupato<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>unemployed<b/>person<s n="n"/><s n="sg"/></l><r>disoccupato<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>gypsy<s n="n"/></l><r>gitano<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>gypsy<s n="n"/></l><r>gitano<s n="n"/></r></p></e>
     <e r="LR"><p><l>fortune<b/>teller<s n="n"/></l><r>indovino<s n="n"/><s n="GD"/></r></p></e>
@@ -102595,7 +102584,6 @@
     <e r="RL"><p><l>religious<s n="n"/></l><r>religioso<s n="n"/></r></p></e>
     <e r="LR"><p><l>second<s n="n"/></l><r>secondo<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>second<s n="n"/></l><r>secondo<s n="n"/></r></p></e>
-    <e r="LR"><p><l>idiot<s n="n"/></l><r>somaro<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>idiot<s n="n"/></l><r>somaro<s n="n"/></r></p></e>
     <e r="LR"><p><l>historian<s n="n"/></l><r>storico<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>historian<s n="n"/></l><r>storico<s n="n"/></r></p></e>
