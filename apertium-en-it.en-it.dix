@@ -33941,17 +33941,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-0
-    -->
-    <e>
-      <p>
-        <l>end<s n="n"/></l> 
-        <r>finale<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-2
     -->
     <e>
@@ -40077,7 +40066,7 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>fruit<s n="n"/></l> 
         <r>frutta<s n="n"/><s n="f"/></r> 
@@ -40275,7 +40264,7 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>funding<s n="n"/></l> 
         <r>finanziamento<s n="n"/><s n="f"/></r> 
@@ -40330,21 +40319,10 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>fur<s n="n"/></l> 
         <r>corteccia<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-1
-    -->
-    <e>
-      <p>
-        <l>fur<s n="n"/></l> 
-        <r>pelle<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -51715,7 +51693,7 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>leather<s n="n"/></l> 
         <r>pelle<s n="n"/><s n="f"/></r> 
@@ -68101,7 +68079,7 @@
     -->
     <e>
       <p>
-        <l>profit<s n="n"/></l> 
+        <l>benefit<s n="n"/></l> 
         <r>beneficio<s n="n"/><s n="m"/></r> 
       </p>
     </e>
@@ -76053,7 +76031,7 @@
 	forced 'null' restriction
       ND-9
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ship<s n="n"/></l> 
         <r>capannone<s n="n"/><s n="m"/></r> 
@@ -88509,17 +88487,6 @@
       <p>
         <l>vessel<s n="n"/></l> 
         <r>barca<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-10
-    -->
-    <e>
-      <p>
-        <l>vessel<s n="n"/></l> 
-        <r>nave<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
