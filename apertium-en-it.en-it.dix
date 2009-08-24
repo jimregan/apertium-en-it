@@ -102734,7 +102734,7 @@
     <e><p><l>Ethiopian<s n="adj"/></l><r>etiope<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>extraterrestrial<s n="adj"/></l><r>extraterrestre<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>manufacturer<s n="adj"/></l><r>fabbricante<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>happy<s n="adj"/></l><r>felice<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>happy<s n="adj"/><s n="sint"/></l><r>felice<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>female<s n="adj"/></l><r>femminile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>forestry<s n="adj"/></l><r>forestale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>futile<s n="adj"/></l><r>futile<s n="adj"/><s n="mf"/></r></p></e>
@@ -102799,7 +102799,7 @@
     <e><p><l>subnormal<s n="adj"/></l><r>subnormale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>suborbital<s n="adj"/></l><r>suborbitale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>triumphal<s n="adj"/></l><r>trionfale<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>further<s n="adj"/></l><r>ulteriore<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>ulterior<s n="adj"/></l><r>ulteriore<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>humiliating<s n="adj"/></l><r>umiliante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>vibrant<s n="adj"/></l><r>vibrante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>viral<s n="adj"/></l><r>virale<s n="adj"/><s n="mf"/></r></p></e>
@@ -102812,7 +102812,7 @@
     <e><p><l>unlikely<s n="adj"/></l><r>inverosimile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>immovable<s n="adj"/></l><r>immobiliare<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>illustrious<s n="adj"/></l><r>illustre<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>grave<s n="adj"/></l><r>grave<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>grave<s n="adj"/><s n="sint"/></l><r>grave<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>ingenious<s n="adj"/></l><r>geniale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>neighbouring<s n="adj"/></l><r>confinante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>colourant<s n="adj"/></l><r>colorante<s n="adj"/><s n="mf"/></r></p></e>
@@ -102846,5 +102846,6 @@
     <e><p><l>dominical<s n="adj"/></l><r>dominicale<s n="adj"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>interregional<s n="adj"/></l><r>intercomarcale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>interregional<s n="adj"/></l><r>interregionale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>woman<g><b/>in<b/>labour</g><s n="n"/></l><r>partoriente<s n="n"/><s n="f"/></r></p></e>
   </section>
 </dictionary>

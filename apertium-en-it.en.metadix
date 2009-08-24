@@ -34785,6 +34785,10 @@
     <e lm="cordovan"><i>cordovan</i><par n="expensive__adj"/></e>
     <e lm="dominical"><i>dominical</i><par n="expensive__adj"/></e>
     <e lm="interregional"><i>interregional</i><par n="expensive__adj"/></e>
+    <e lm="woman in labour" r="LR"><i>wom</i><par n="m/an__n"/><p><l><b/>in<b/>labour</l><r><g><b/>in<b/>labour</g></r></p></e>
+    <e lm="woman in labour" r="LR"><i>wom</i><par n="m/an__n"/><p><l><b/>in<b/>labor</l><r><g><b/>in<b/>labour</g></r></p></e>
+    <e lm="woman in labour" r="RL" alt="en_GB"><i>wom</i><par n="m/an__n"/><p><l><b/>in<b/>labour</l><r><g><b/>in<b/>labour</g></r></p></e>
+    <e lm="woman in labour" r="RL" alt="en_US"><i>wom</i><par n="m/an__n"/><p><l><b/>in<b/>labor</l><r><g><b/>in<b/>labour</g></r></p></e>
   </section>
 
   <section id="apostrophes" type="preblank">
