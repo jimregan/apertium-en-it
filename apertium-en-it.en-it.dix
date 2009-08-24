@@ -79519,7 +79519,7 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>stage<s n="n"/></l> 
         <r>palcoscenico<s n="n"/><s n="m"/></r> 
@@ -79530,7 +79530,7 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>stage<s n="n"/></l> 
         <r>palco<s n="n"/><s n="m"/></r> 
@@ -79552,7 +79552,7 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>stagnation<s n="n"/></l> 
         <r>lagunaggio<s n="n"/><s n="m"/></r> 
@@ -87476,7 +87476,7 @@
 	forced 'null' restriction
       ND-4
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>unusual<s n="adj"/></l> 
         <r>insolito<s n="adj"/><s n="mf"/></r> 
@@ -87746,7 +87746,7 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>urine<s n="n"/></l> 
         <r>urina<s n="n"/><s n="f"/></r> 
@@ -87836,7 +87836,7 @@
     -->
     <e>
       <p>
-        <l>usual<s n="adj"/></l> 
+        <l>habitual<s n="adj"/></l> 
         <r>abituale<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
@@ -87858,7 +87858,7 @@
     -->
     <e>
       <p>
-        <l>usually<s n="adv"/></l> 
+        <l>habitually<s n="adv"/></l> 
         <r>abitualmente<s n="adv"/></r> 
       </p>
     </e>
@@ -87869,7 +87869,7 @@
     -->
     <e>
       <p>
-        <l>usually<s n="adv"/></l> 
+        <l>normally<s n="adv"/></l> 
         <r>normalmente<s n="adv"/></r> 
       </p>
     </e>
@@ -88959,7 +88959,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e r="LR">
+    <e r="RL">
       <p>
         <l>visit<s n="vblex"/></l> 
         <r>ricorrere<s n="vblex"/></r> 
@@ -92604,7 +92604,7 @@
     <e><p><l>similarly<s n="adv"/></l><r>similmente<s n="adv"/></r></p></e>
     <e><p><l>synthetically<s n="adv"/></l><r>sinteticamente<s n="adv"/></r></p></e>
     <e><p><l>solemnly<s n="adv"/></l><r>solennemente<s n="adv"/></r></p></e>
-    <e><p><l>usually<s n="adv"/></l><r>solitamente<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>usually<s n="adv"/></l><r>solitamente<s n="adv"/></r></p></e>
     <e><p><l>specifically<s n="adv"/></l><r>specificatamente<s n="adv"/></r></p></e>
     <e><p><l>experimentally<s n="adv"/></l><r>sperimentalmente<s n="adv"/></r></p></e>
     <e><p><l>spontaneously<s n="adv"/></l><r>spontaneamente<s n="adv"/></r></p></e>
@@ -102601,7 +102601,7 @@
     <e><p><l>slope<s n="n"/></l><r>pendenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>permanence<s n="n"/></l><r>permanenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wisdom<s n="n"/></l><r>sapienza<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>use<s n="n"/></l><r>utenza<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>use<s n="n"/></l><r>utenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>audience<s n="n"/></l><r>udienza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>descent<s n="n"/></l><r>discendenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>managership<s n="n"/></l><r>dirigenza<s n="n"/><s n="f"/></r></p></e>
@@ -102692,7 +102692,7 @@
     <e><p><l>desiccation<s n="n"/></l><r>disseccazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>efficiency<s n="n"/></l><r>efficienza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wait<s n="n"/></l><r>attesa<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>embers<s n="n"/></l><r>brace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ember<s n="n"/></l><r>brace<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bleach<s n="n"/></l><r>candeggina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>famine<s n="n"/></l><r>carestia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pulley<s n="n"/></l><r>carrucola<s n="n"/><s n="f"/></r></p></e>
@@ -102838,7 +102838,7 @@
     <e><p><l>likely<s n="adj"/></l><r>verosimile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>virile<s n="adj"/></l><r>virile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>vivacious<s n="adj"/></l><r>vivace<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>standard<s n="adj"/></l><r>conforme<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>standard<s n="adj"/></l><r>conforme<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>fruit<s n="adj"/></l><r>da<b/>frutta<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>local<s n="adj"/></l><r>vicinale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>vicinal<s n="adj"/></l><r>vicinale<s n="adj"/><s n="mf"/></r></p></e>
