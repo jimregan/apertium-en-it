@@ -12536,25 +12536,10 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
     <e>
       <p>
-        <l>arm<s n="n"/><s n="sg"/></l> 
-        <r>braccio<s n="n"/><s n="GD"/><s n="pl"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e r="RL">
-      <p>
         <l>arm<s n="n"/><s n="pl"/></l> 
-        <r>braccio<s n="n"/><s n="m"/><s n="pl"/></r> 
+        <r>braccio<s n="n"/><s n="f"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -102575,5 +102560,56 @@
     <e><p><l>elucidate<s n="vblex"/></l><r>delucidare<s n="vblex"/></r></p></e>
     <e><p><l>fold<s n="vblex"/></l><r>piegare<s n="vblex"/></r></p></e>
     <e><p><l>hover<s n="vblex"/></l><r>sorvolare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>agrochemist<s n="n"/></l><r>agrochimico<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>agrochemist<s n="n"/></l><r>agrochimico<s n="n"/></r></p></e>
+    <e r="LR"><p><l>alicantean<s n="n"/></l><r>alicantino<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>alicantean<s n="n"/></l><r>alicantino<s n="n"/></r></p></e>
+    <e r="LR"><p><l>beloved<s n="n"/></l><r>amato<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>beloved<s n="n"/></l><r>amato<s n="n"/></r></p></e>
+    <e r="LR"><p><l>anxious<s n="n"/></l><r>ansioso<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>anxious<s n="n"/></l><r>ansioso<s n="n"/></r></p></e>
+    <e r="LR"><p><l>elderly<s n="n"/></l><r>anziano<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>elderly<s n="n"/></l><r>anziano<s n="n"/></r></p></e>
+    <e r="LR"><p><l>unemployed<s n="n"/><s n="pl"/></l><r>disoccupato<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e r="RL"><i>unemployed<s n="n"/><s n="pl"/></l><r>disoccupato<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><i>unemployed<s n="n"/><s n="pl"/></l><r>disoccupato<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>unemployed<b/>person<s n="n"/><s n="sg"/></l><r>disoccupato<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+    <e r="RL"><i>unemployed<b/>person<s n="n"/></l><r>disoccupato<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><i>unemployed<b/>person<s n="n"/></l><r>disoccupato<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>gypsy<s n="n"/></l><r>gitano<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>gypsy<s n="n"/></l><r>gitano<s n="n"/></r></p></e>
+    <e r="LR"><p><l>fortune<b/>teller<s n="n"/></l><r>indovino<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>fortune<b/>teller<s n="n"/></l><r>indovino<s n="n"/></r></p></e>
+    <e r="LR"><p><l>invited<s n="n"/></l><r>invitato<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>invited<s n="n"/></l><r>invitato<s n="n"/></r></p></e>
+    <e r="LR"><p><l>madridian<s n="n"/></l><r>madrileno<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>madridian<s n="n"/></l><r>madrileno<s n="n"/></r></p></e>
+    <e r="LR"><p><l>maghrebian<s n="n"/></l><r>magrebino<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>maghrebian<s n="n"/></l><r>magrebino<s n="n"/></r></p></e>
+    <e><p><l>water<b/>polo<s n="n"/></l><r>pallanuoto<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>lazy<s n="n"/></l><r>pigro<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>lazy<s n="n"/></l><r>pigro<s n="n"/></r></p></e>
+    <e r="LR"><p><l>advertising<b/>agent<s n="n"/></l><r>pubblicitario<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>advertising<b/>agent<s n="n"/></l><r>pubblicitario<s n="n"/></r></p></e>
+    <e r="LR"><p><l>religious<s n="n"/></l><r>religioso<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>religious<s n="n"/></l><r>religioso<s n="n"/></r></p></e>
+    <e r="LR"><p><l>second<s n="n"/></l><r>secondo<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>second<s n="n"/></l><r>secondo<s n="n"/></r></p></e>
+    <e r="LR"><p><l>idiot<s n="n"/></l><r>somaro<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>idiot<s n="n"/></l><r>somaro<s n="n"/></r></p></e>
+    <e r="LR"><p><l>historian<s n="n"/></l><r>storico<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>historian<s n="n"/></l><r>storico<s n="n"/></r></p></e>
+    <e r="LR"><p><l>tax<s n="n"/></l><r>tasso<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>tax<s n="n"/></l><r>tasso<s n="n"/></r></p></e>
+    <e r="LR"><p><l>titled<s n="n"/></l><r>titolato<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>titled<s n="n"/></l><r>titolato<s n="n"/></r></p></e>
+    <e r="LR"><p><l>venezuelan<s n="n"/></l><r>venezuelano<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>venezuelan<s n="n"/></l><r>venezuelano<s n="n"/></r></p></e>
+    <e r="LR"><p><l>obliged<s n="n"/></l><r>obbligato<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>obliged<s n="n"/></l><r>obbligato<s n="n"/></r></p></e>
+    <e r="LR"><p><l>alpine<b/>soldier<s n="n"/></l><r>alpino<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>alpine<b/>soldier<s n="n"/></l><r>alpino<s n="n"/></r></p></e>
+    <e r="LR"><p><l>tall<s n="n"/></l><r>alto<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><i>tall<s n="n"/></l><r>alto<s n="n"/></r></p></e>
   </section>
 </dictionary>
