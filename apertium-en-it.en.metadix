@@ -28002,7 +28002,7 @@
     <e lm="bestseller" a="prompsit2cdl"><i>bestseller</i><par n="house__n"/></e>
     <e lm="website" a="prompsit2cdl"><i>website</i><par n="house__n"/></e>
     <e lm="email" a="prompsit2cdl"><i>email</i><par n="house__n"/></e>
-    <e lm="e-mail"><p><l>e-mail</l><r>email</r></p><par n="house__n"/></e>
+    <e lm="e-mail" r="LR"><p><l>e-mail</l><r>email</r></p><par n="house__n"/></e>
     <e lm="bookseller" a="prompsit2cdl"><i>bookseller</i><par n="house__n"/></e>
     <e lm="http" a="prompsit2cdl"><i>http</i><par n="BBC__n"/></e>
     <e lm="https" a="prompsit2cdl"><i>https</i><par n="BBC__n"/></e>
@@ -34656,6 +34656,32 @@
     <e lm="paste"><i>paste</i><par n="house__n"/></e>
     <e lm="paprika"><i>paprika</i><par n="house__n"/></e>
     <e lm="parabola"><i>parabola</i><par n="larva__n"/></e>
+    <e lm="escalope"><i>escalope</i><par n="house__n"/></e>
+    <e lm="hydrangea"><i>hydrangea</i><par n="house__n"/></e>
+    <e lm="proxy"><i>prox</i><par n="bab/y__n"/></e>
+    <e lm="subauction"><i>subauction</i><par n="house__n"/></e>
+    <e lm="dispersion"><i>dispersion</i><par n="house__n"/></e>
+    <e lm="wait"><i>wait</i><par n="house__n"/></e>
+    <e lm="bleach"><i>bleach</i><par n="access__n"/></e>
+    <e lm="famine"><i>famine</i><par n="house__n"/></e>
+    <e lm="pulley"><i>pulley</i><par n="house__n"/></e>
+    <e lm="basin"><i>basin</i><par n="house__n"/></e>
+    <e lm="directorate general"><i>directorate</i><par n="house__n"/><p><l><b/>general</l><r><g><b/>general</g></r></p></e>
+    <e lm="enclave"><i>enclave</i><par n="house__n"/></e>
+    <e lm="labelling"><i>labe</i><par n="l_ll"/><i>ing</i><par n="house__n"/></e>
+    <e lm="ethnicity"><i>ethnicit</i><par n="bab/y__n"/></e>
+    <e lm="starch"><i>starch</i><par n="access__n"/></e>
+    <e lm="stop"><i>stop</i><par n="house__n"/></e>
+    <e lm="railway"><i>railway</i><par n="house__n"/></e>
+    <e lm="buckle"><i>buckle</i><par n="house__n"/></e>
+    <e lm="slaughter"><i>slaughter</i><par n="house__n"/></e>
+    <e lm="revisitation"><i>revisitation</i><par n="house__n"/></e>
+    <e lm="signalling"><i>signa</i><par n="l_ll"/><i>ing</i><par n="house__n"/></e>
+    <e lm="recitation"><i>recitation</i><par n="house__n"/></e>
+    <e lm="proclamation"><i>proclamation</i><par n="house__n"/></e>
+    <e lm="personalisation"><i>personali</i><par n="globali/sation__n"/></e>
+    <e lm="sunstroke"><i>sunstroke</i><par n="house__n"/></e>
+    <e lm="layout"><i>layout</i><par n="house__n"/></e>
   </section>
 
   <section id="apostrophes" type="preblank">
