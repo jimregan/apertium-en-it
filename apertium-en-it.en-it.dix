@@ -102689,5 +102689,11 @@
     <e><p><l>wood<b/>paste<s n="n"/></l><r>pasta<g><b/>di<b/>legno</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>straw<b/>pulp<s n="n"/></l><r>pasta<g><b/>di<b/>paglia</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cloth<b/>pulp<s n="n"/></l><r>pasta<g><b/>di<b/>stracci</g><s n="n"/><s n="f"/></r></p></e>
+<<<<<<< HEAD:incubator/apertium-en-it/apertium-en-it.en-it.dix
+=======
+    <e><p><l>gluten<b/>pasta<s n="n"/></l><r>pasta<b/>glutinata<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>toothpaste<s n="n"/></l><r>pasta<b/>dentifricia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>toothpaste<s n="n"/></l><r>dentifricio<s n="n"/><s n="m"/></r></p></e>
+>>>>>>> more pasta:incubator/apertium-en-it/apertium-en-it.en-it.dix
   </section>
 </dictionary>
