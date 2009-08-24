@@ -7979,6 +7979,14 @@
 ^.<sent>$ ^ricostituire<vblex><pri><p2><pl>$	. You #reconstitute\<vblex\>\<pres\>
 ^.<sent>$ ^ricostituire<vblex><pri><p2><sg>$	. You #reconstitute\<vblex\>\<pres\>
 ^.<sent>$ ^ricostituire<vblex><inf>$	. #Reconstitute\<vblex\>\<inf\>
+^.<sent>$ ^riempire<vblex><pp><f><pl>$	. #Fill\<vblex\>\<pp\># up
+^.<sent>$ ^riempire<vblex><pp><m><pl>$	. #Fill\<vblex\>\<pp\># up
+^.<sent>$ ^riempire<vblex><pp><f><sg>$	. #Fill\<vblex\>\<pp\># up
+^.<sent>$ ^riempire<vblex><pp><m><sg>$	. #Fill\<vblex\>\<pp\># up
+^.<sent>$ ^riempire<vblex><pp><f><pl>$	. #Fill\<vblex\>\<pp\># up
+^.<sent>$ ^riempire<vblex><pp><m><pl>$	. #Fill\<vblex\>\<pp\># up
+^.<sent>$ ^riempire<vblex><pp><f><sg>$	. #Fill\<vblex\>\<pp\># up
+^.<sent>$ ^riempire<vblex><pp><m><sg>$	. #Fill\<vblex\>\<pp\># up
 ^.<sent>$ ^rimboscare<vblex><ifi><p1><sg>$	. I \@rimboscare\<vblex\>\<past\>
 ^.<sent>$ ^rimboscare<vblex><pii><p2><pl>$	. You \@rimboscare\<vblex\>\<past\>
 ^.<sent>$ ^rimboscare<vblex><ifi><p2><pl>$	. You \@rimboscare\<vblex\>\<past\>
@@ -9699,116 +9707,6 @@
 ^.<sent>$ ^sembrare<vblex><pri><p2><pl>$	. You #seem\<vblex\>\<pres\># like
 ^.<sent>$ ^sembrare<vblex><pri><p2><sg>$	. You #seem\<vblex\>\<pres\># like
 ^.<sent>$ ^sembrare<vblex><inf>$	. #Seem\<vblex\>\<inf\># like
-^.<sent>$ ^sentire<vblex><ifi><p1><sg>$	. I #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><pii><p2><pl>$	. You #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><ifi><p2><pl>$	. You #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><pii><p2><sg>$	. You #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><ifi><p2><sg>$	. You #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><ifi><p3><pl>$	. They #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><cni><p1><pl>$	. We would #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><ifi><p3><sg>$	. It #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><prs><p3><pl>$	. They #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><cni><p1><sg>$	. I would #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><imp><p1><pl>$	. #Feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><prs><p3><sg>$	. It #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><cni><p2><pl>$	. You would #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><cni><p2><sg>$	. You would #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><pri><p3><pl>$	. They #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><cni><p3><pl>$	. They would #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><pp><f><pl>$	. #Feel\<vblex\>\<pp\># sorry
-^.<sent>$ ^sentire<vblex><cni><p3><sg>$	. It would #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><pri><p3><sg>$	. It #feel\<vblex\>\<pri\>\<p3\>\<sg\># sorry
-^.<sent>$ ^sentire<vblex><fti><p1><pl>$	. We will #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><pp><m><pl>$	. #Feel\<vblex\>\<pp\># sorry
-^.<sent>$ ^sentire<vblex><pp><f><sg>$	. #Feel\<vblex\>\<pp\># sorry
-^.<sent>$ ^sentire<vblex><pp><m><sg>$	. #Feel\<vblex\>\<pp\># sorry
-^.<sent>$ ^sentire<vblex><pis><p1><pl>$	. We #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><fti><p1><sg>$	. I will #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><pis><p1><sg>$	. I #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><fti><p2><pl>$	. You will #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><pis><p2><pl>$	. You #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><fti><p2><sg>$	. You will #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><pis><p2><sg>$	. You #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><fti><p3><pl>$	. They will #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><fti><p3><sg>$	. It will #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><pii><p1><pl>$	. We #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><ifi><p1><pl>$	. We #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><pii><p1><sg>$	. I #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><pis><p3><pl>$	. They #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><imp><p2><pl>$	. #Feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><pis><p3><sg>$	. It #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><imp><p2><sg>$	. #Feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><prs><p1><pl>$	. We #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><prs><p1><sg>$	. I #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><prs><p2><pl>$	. You #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><prs><p2><sg>$	. You #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><pii><p3><pl>$	. They #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><ger>$	. #Feel\<vblex\>\<ger\># sorry
-^.<sent>$ ^sentire<vblex><pii><p3><sg>$	. It #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><pri><p1><pl>$	. We #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><pri><p1><sg>$	. I #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><pri><p2><pl>$	. You #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><pri><p2><sg>$	. You #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><inf>$	. #Feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><ifi><p3><pl>$	. They #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><pis><p3><pl>$	. They #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><cni><p3><pl>$	. They would #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><fti><p3><pl>$	. They will #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><pii><p3><pl>$	. They #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><prs><p3><pl>$	. They #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><inf>$	. #Feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><pri><p3><pl>$	. They #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><ifi><p1><sg>$	. I #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><pii><p2><pl>$	. You #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><ifi><p2><pl>$	. You #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><pii><p2><sg>$	. You #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><ifi><p2><sg>$	. You #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><ifi><p3><pl>$	. They #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><cni><p1><pl>$	. We would #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><ifi><p3><sg>$	. It #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><prs><p3><pl>$	. They #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><cni><p1><sg>$	. I would #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><imp><p1><pl>$	. #Feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><prs><p3><sg>$	. It #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><cni><p2><pl>$	. You would #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><cni><p2><sg>$	. You would #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><pri><p3><pl>$	. They #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><cni><p3><pl>$	. They would #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><pp><f><pl>$	. #Feel\<vblex\>\<pp\># sorry
-^.<sent>$ ^sentire<vblex><cni><p3><sg>$	. It would #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><pri><p3><sg>$	. It #feel\<vblex\>\<pri\>\<p3\>\<sg\># sorry
-^.<sent>$ ^sentire<vblex><fti><p1><pl>$	. We will #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><pp><m><pl>$	. #Feel\<vblex\>\<pp\># sorry
-^.<sent>$ ^sentire<vblex><pp><f><sg>$	. #Feel\<vblex\>\<pp\># sorry
-^.<sent>$ ^sentire<vblex><pp><m><sg>$	. #Feel\<vblex\>\<pp\># sorry
-^.<sent>$ ^sentire<vblex><pis><p1><pl>$	. We #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><fti><p1><sg>$	. I will #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><pis><p1><sg>$	. I #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><fti><p2><pl>$	. You will #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><pis><p2><pl>$	. You #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><fti><p2><sg>$	. You will #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><pis><p2><sg>$	. You #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><fti><p3><pl>$	. They will #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><fti><p3><sg>$	. It will #feel\<vblex\>\<inf\># sorry
-^.<sent>$ ^sentire<vblex><pii><p1><pl>$	. We #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><ifi><p1><pl>$	. We #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><pii><p1><sg>$	. I #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><pis><p3><pl>$	. They #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><imp><p2><pl>$	. #Feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><pis><p3><sg>$	. It #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><imp><p2><sg>$	. #Feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><prs><p1><pl>$	. We #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><prs><p1><sg>$	. I #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><prs><p2><pl>$	. You #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><prs><p2><sg>$	. You #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><pii><p3><pl>$	. They #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><ger>$	. #Feel\<vblex\>\<ger\># sorry
-^.<sent>$ ^sentire<vblex><pii><p3><sg>$	. It #feel\<vblex\>\<past\># sorry
-^.<sent>$ ^sentire<vblex><pri><p1><pl>$	. We #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><pri><p1><sg>$	. I #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><pri><p2><pl>$	. You #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><pri><p2><sg>$	. You #feel\<vblex\>\<pres\># sorry
-^.<sent>$ ^sentire<vblex><inf>$	. #Feel\<vblex\>\<inf\># sorry
 ^.<sent>$ ^siglare<vblex><ifi><p1><sg>$	. I \@siglare\<vblex\>\<past\>
 ^.<sent>$ ^siglare<vblex><pii><p2><pl>$	. You \@siglare\<vblex\>\<past\>
 ^.<sent>$ ^siglare<vblex><ifi><p2><pl>$	. You \@siglare\<vblex\>\<past\>
@@ -10831,116 +10729,6 @@
 ^.<sent>$ ^umanizzare<vblex><pri><p2><pl>$	. You \@umanizzare\<vblex\>\<pres\>
 ^.<sent>$ ^umanizzare<vblex><pri><p2><sg>$	. You \@umanizzare\<vblex\>\<pres\>
 ^.<sent>$ ^umanizzare<vblex><inf>$	. \@Umanizzare\<vblex\>\<inf\>
-^.<sent>$ ^valere<vblex><ifi><p1><sg>$	. I #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><pii><p2><pl>$	. You #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><ifi><p2><pl>$	. You #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><pii><p2><sg>$	. You #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><ifi><p2><sg>$	. You #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><ifi><p3><pl>$	. They #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><cni><p1><pl>$	. We would #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><ifi><p3><sg>$	. It #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><prs><p3><pl>$	. They #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><cni><p1><sg>$	. I would #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><imp><p1><pl>$	. #Cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><prs><p3><sg>$	. It #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><cni><p2><pl>$	. You would #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><cni><p2><sg>$	. You would #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><pri><p3><pl>$	. They #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><cni><p3><pl>$	. They would #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><pp><f><pl>$	. #Cost\<vblex\>\<pp\># worth
-^.<sent>$ ^valere<vblex><cni><p3><sg>$	. It would #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><pri><p3><sg>$	. It #cost\<vblex\>\<pri\>\<p3\>\<sg\># worth
-^.<sent>$ ^valere<vblex><fti><p1><pl>$	. We will #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><pp><m><pl>$	. #Cost\<vblex\>\<pp\># worth
-^.<sent>$ ^valere<vblex><pp><f><sg>$	. #Cost\<vblex\>\<pp\># worth
-^.<sent>$ ^valere<vblex><pp><m><sg>$	. #Cost\<vblex\>\<pp\># worth
-^.<sent>$ ^valere<vblex><pis><p1><pl>$	. We #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><fti><p1><sg>$	. I will #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><pis><p1><sg>$	. I #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><fti><p2><pl>$	. You will #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><pis><p2><pl>$	. You #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><fti><p2><sg>$	. You will #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><pis><p2><sg>$	. You #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><fti><p3><pl>$	. They will #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><fti><p3><sg>$	. It will #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><pii><p1><pl>$	. We #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><ifi><p1><pl>$	. We #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><pii><p1><sg>$	. I #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><pis><p3><pl>$	. They #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><imp><p2><pl>$	. #Cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><pis><p3><sg>$	. It #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><imp><p2><sg>$	. #Cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><prs><p1><pl>$	. We #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><prs><p1><sg>$	. I #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><prs><p2><pl>$	. You #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><prs><p2><sg>$	. You #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><pii><p3><pl>$	. They #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><ger>$	. #Cost\<vblex\>\<ger\># worth
-^.<sent>$ ^valere<vblex><pii><p3><sg>$	. It #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><pri><p1><pl>$	. We #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><pri><p1><sg>$	. I #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><pri><p2><pl>$	. You #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><pri><p2><sg>$	. You #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><inf>$	. #Cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><ifi><p3><pl>$	. They #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><pis><p3><pl>$	. They #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><cni><p3><pl>$	. They would #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><fti><p3><pl>$	. They will #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><pii><p3><pl>$	. They #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><prs><p3><pl>$	. They #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><inf>$	. #Cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><pri><p3><pl>$	. They #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><ifi><p1><sg>$	. I #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><pii><p2><pl>$	. You #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><ifi><p2><pl>$	. You #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><pii><p2><sg>$	. You #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><ifi><p2><sg>$	. You #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><ifi><p3><pl>$	. They #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><cni><p1><pl>$	. We would #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><ifi><p3><sg>$	. It #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><prs><p3><pl>$	. They #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><cni><p1><sg>$	. I would #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><imp><p1><pl>$	. #Cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><prs><p3><sg>$	. It #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><cni><p2><pl>$	. You would #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><cni><p2><sg>$	. You would #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><pri><p3><pl>$	. They #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><cni><p3><pl>$	. They would #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><pp><f><pl>$	. #Cost\<vblex\>\<pp\># worth
-^.<sent>$ ^valere<vblex><cni><p3><sg>$	. It would #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><pri><p3><sg>$	. It #cost\<vblex\>\<pri\>\<p3\>\<sg\># worth
-^.<sent>$ ^valere<vblex><fti><p1><pl>$	. We will #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><pp><m><pl>$	. #Cost\<vblex\>\<pp\># worth
-^.<sent>$ ^valere<vblex><pp><f><sg>$	. #Cost\<vblex\>\<pp\># worth
-^.<sent>$ ^valere<vblex><pp><m><sg>$	. #Cost\<vblex\>\<pp\># worth
-^.<sent>$ ^valere<vblex><pis><p1><pl>$	. We #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><fti><p1><sg>$	. I will #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><pis><p1><sg>$	. I #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><fti><p2><pl>$	. You will #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><pis><p2><pl>$	. You #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><fti><p2><sg>$	. You will #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><pis><p2><sg>$	. You #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><fti><p3><pl>$	. They will #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><fti><p3><sg>$	. It will #cost\<vblex\>\<inf\># worth
-^.<sent>$ ^valere<vblex><pii><p1><pl>$	. We #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><ifi><p1><pl>$	. We #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><pii><p1><sg>$	. I #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><pis><p3><pl>$	. They #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><imp><p2><pl>$	. #Cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><pis><p3><sg>$	. It #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><imp><p2><sg>$	. #Cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><prs><p1><pl>$	. We #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><prs><p1><sg>$	. I #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><prs><p2><pl>$	. You #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><prs><p2><sg>$	. You #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><pii><p3><pl>$	. They #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><ger>$	. #Cost\<vblex\>\<ger\># worth
-^.<sent>$ ^valere<vblex><pii><p3><sg>$	. It #cost\<vblex\>\<past\># worth
-^.<sent>$ ^valere<vblex><pri><p1><pl>$	. We #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><pri><p1><sg>$	. I #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><pri><p2><pl>$	. You #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><pri><p2><sg>$	. You #cost\<vblex\>\<pres\># worth
-^.<sent>$ ^valere<vblex><inf>$	. #Cost\<vblex\>\<inf\># worth
 ^.<sent>$ ^violare<vblex><ifi><p1><sg>$	. I #violate\<vblex\>\<past\>
 ^.<sent>$ ^violare<vblex><pii><p2><pl>$	. You #violate\<vblex\>\<past\>
 ^.<sent>$ ^violare<vblex><ifi><p2><pl>$	. You #violate\<vblex\>\<past\>
