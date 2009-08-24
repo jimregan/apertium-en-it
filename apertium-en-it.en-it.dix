@@ -12739,6 +12739,12 @@
         <r>arrestare<s n="vblex"/></r> 
       </p>
     </e>
+    <e r="LR">
+      <p>
+        <l>halt<s n="vblex"/></l> 
+        <r>arrestare<s n="vblex"/></r> 
+      </p>
+    </e>
 
     <!-- 
 	forced 'null' restriction
@@ -15916,18 +15922,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
-      <p>
-        <l>be<g><b/>sorry</g><s n="vblex"/></l> 
-        <r>sentire<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
+    <e r="LR">
       <p>
         <l>be<g><b/>worth</g><s n="vblex"/></l> 
         <r>valere<s n="vblex"/></r> 
@@ -37352,9 +37347,15 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>feel<s n="vblex"/></l> 
+        <r>sentire<s n="vblex"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>sense<s n="vblex"/></l> 
         <r>sentire<s n="vblex"/></r> 
       </p>
     </e>
@@ -93315,7 +93316,6 @@
     <e><p><l>sit<s n="vblex"/></l><r>sedere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>sit<g><b/>down</g><s n="vblex"/></l><r>sedere<s n="vblex"/></r></p></e>
     <e><p><l>seem<s n="vblex"/></l><r>sembrare<s n="vblex"/></r></p></e>
-    <e><p><l>feel<s n="vblex"/></l><r>sentire<s n="vblex"/></r></p></e>
     <e><p><l>help<s n="vblex"/></l><r>soccorrere<s n="vblex"/></r></p></e>
     <e><p><l>hope<g><b/>that</g><s n="vblex"/></l><r>sperare<g><b/>che</g><s n="vblex"/></r></p></e>
     <e><p><l>spit<s n="vblex"/></l><r>sputare<s n="vblex"/></r></p></e>
@@ -93351,7 +93351,6 @@
     <e r="LR"><p><l>keep<g><b/>watch</g><s n="vblex"/></l><r>vigilare<s n="vblex"/></r></p></e>
     <e><p><l>pour<s n="vblex"/></l><r>versare<s n="vblex"/></r></p></e>
     <e><p><l>vaporise<s n="vblex"/></l><r>vaporizzare<s n="vblex"/></r></p></e>
-    <e><p><l>be<g><b/>worth</g><s n="vblex"/></l><r>valere<s n="vblex"/></r></p></e>
     <e><p><l>level<s n="vblex"/></l><r>uniformare<s n="vblex"/></r></p></e>
     <e><p><l>bestow<s n="vblex"/></l><r>tributare<s n="vblex"/></r></p></e>
     <e><p><l>pass<s n="vblex"/></l><r>transitare<s n="vblex"/></r></p></e>
@@ -93365,6 +93364,7 @@
     <e c="srl"><p><l>embezzle<s n="vblex"/></l><r>sottrarre<s n="vblex"/></r></p></e>
     <e><p><l>underestimate<s n="vblex"/></l><r>sottovalutare<s n="vblex"/></r></p></e>
     <e><p><l>value<s n="vblex"/></l><r>valutare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>evaluate<s n="vblex"/></l><r>valutare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>appraise<s n="vblex"/></l><r>valutare<s n="vblex"/></r></p></e>
     <e><p><l>alarm<s n="vblex"/></l><r>allarmare<s n="vblex"/></r></p></e>
     <e><p><l>arm<s n="vblex"/></l><r>armare<s n="vblex"/></r></p></e>
@@ -94050,6 +94050,7 @@
     <e><p><l>alienate<s n="vblex"/></l><r>alienare<s n="vblex"/></r></p></e>
     <e><p><l>alleviate<s n="vblex"/></l><r>alleviare<s n="vblex"/></r></p></e>
     <e><p><l>alliterate<s n="vblex"/></l><r>allitterare<s n="vblex"/></r></p></e>
+    <e><p><l>hear<s n="vblex"/></l><r>udire<s n="vblex"/></r></p></e>
     <e><p><l>assemble<s n="vblex"/></l><r>assemblare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>shed<g><b/>light<b/>on</g><s n="vblex"/></l><r>chiarire<s n="vblex"/></r></p></e>
     <e><p><l>clarify<s n="vblex"/></l><r>chiarire<s n="vblex"/></r></p></e>
@@ -102468,11 +102469,14 @@
     <e><p><l>attend<s n="vblex"/></l><r>frequentare<s n="vblex"/></r></p></e>
     <e><p><l>auction<s n="vblex"/></l><r>vendere<g><b/>all'asta</g><s n="vblex"/></r></p></e>
     <e><p><l>authorise<s n="vblex"/></l><r>autorizzare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>empower<s n="vblex"/></l><r>autorizzare<s n="vblex"/></r></p></e>
+    <e><p><l>bomb<s n="vblex"/></l><r>bombardare<s n="vblex"/></r></p></e>
     <e><p><l>automate<s n="vblex"/></l><r>automatizzare<s n="vblex"/></r></p></e>
     <e><p><l>avenge<s n="vblex"/></l><r>vendicare<s n="vblex"/></r></p></e>
     <e><p><l>awaken<s n="vblex"/></l><r>risvegliare<s n="vblex"/></r></p></e>
     <e><p><l>baptise<s n="vblex"/></l><r>battezzare<s n="vblex"/></r></p></e>
     <e><p><l>believe<s n="vblex"/></l><r>credere<s n="vblex"/></r></p></e>
     <e><p><l>bless<s n="vblex"/></l><r>benedire<s n="vblex"/></r></p></e>
+    <e><p><l>imprison<s n="vblex"/></l><r>imprigionare<s n="vblex"/></r></p></e>
   </section>
 </dictionary>
