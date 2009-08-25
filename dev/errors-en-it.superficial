@@ -1797,11 +1797,6 @@
 ^.<sent>$ ^commando<n><pl>$ ^'s<gen>$	. \@Commando\<n\> 
 ^.<sent>$ ^commando<n><sg>$	. \@Commando\<n\>
 ^.<sent>$ ^commando<n><pl>$	. \@Commando\<n\>
-^.<sent>$ ^commentator<n><sg>$	. \@Commentator\<n\>
-^.<sent>$ ^commentator<n><pl>$	. \@Commentator\<n\>
-^.<sent>$ ^commentator<n><pl>$ ^'s<gen>$	. \@Commentator\<n\> 
-^.<sent>$ ^commentator<n><sg>$	. \@Commentator\<n\>
-^.<sent>$ ^commentator<n><pl>$	. \@Commentator\<n\>
 ^.<sent>$ ^commissariat<n><sg>$	. \@Commissariat\<n\>
 ^.<sent>$ ^commissariat<n><pl>$	. \@Commissariat\<n\>
 ^.<sent>$ ^commissariat<n><pl>$ ^'s<gen>$	. \@Commissariat\<n\> 
@@ -2344,11 +2339,6 @@
 ^.<sent>$ ^cynicism<n><pl>$ ^'s<gen>$	. \@Cynicism\<n\> 
 ^.<sent>$ ^cynicism<n><sg>$	. \@Cynicism\<n\>
 ^.<sent>$ ^cynicism<n><pl>$	. \@Cynicism\<n\>
-^.<sent>$ ^dancer<n><sg>$	. \@Dancer\<n\>
-^.<sent>$ ^dancer<n><pl>$	. \@Dancer\<n\>
-^.<sent>$ ^dancer<n><pl>$ ^'s<gen>$	. \@Dancer\<n\> 
-^.<sent>$ ^dancer<n><sg>$	. \@Dancer\<n\>
-^.<sent>$ ^dancer<n><pl>$	. \@Dancer\<n\>
 ^.<sent>$ ^dangerousness<n><sg>$	. \@Dangerousness\<n\>
 ^.<sent>$ ^dangerousness<n><pl>$	. \@Dangerousness\<n\>
 ^.<sent>$ ^dangerousness<n><pl>$ ^'s<gen>$	. \@Dangerousness\<n\> 
@@ -39959,7 +39949,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> chiaro<adj>/leggero<adj>$
 #\^.\<sent\> chiaro<adj>/leggero<adj>$
 #\^.\<sent\> gustare<vblex>/piacere<vblex>$
-#\^.\<sent\> tramite<n><m>/collegamento<n><m>$
 #\^.\<sent\> labbro<n><m><sg>/labbro<n><f><pl>$
 #\^.\<sent\> labbro<n><m><sg>/labbro<n><f><pl>$
 #\^.\<sent\> lista<n><f>/elenco<n><m>$
@@ -41134,7 +41123,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> oliva<n><f>/olivo<n><m>/ulivo<n><m>$
 #\^.\<sent\> ufficiale<n><m>/ufficiale<n><mf>$
 #\^.\<sent\> colpo<n><m>/tratto<n><m>/traccia<n><f>/attacco<n><m>$
-#\^.\<sent\> tramite<n><m>/collegamento<n><m>$
 #\^.\<sent\> memoria<n><f>/ricordo<n><m>$
 #\^.\<sent\> ruolo<n><m>/funzione<n><f>$
 #\^.\<sent\> portiere<n><m>/portiere<n><f>$
