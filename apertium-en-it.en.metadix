@@ -25726,6 +25726,7 @@
     <e lm="hit"><i>hit</i><par n="cut__vblex"/>    </e>
     <e lm="honour"><i>honour</i><par n="accept__vblex"/>    </e>
     <e lm="hope"><i>hop</i><par n="liv/e__vblex"/>    </e>
+    <e lm="hope that"><i>hop</i><par n="liv/e__vblex"/><p><l><b/>that</l><r><g><b/>that</g></r></p></e>
     <e lm="hover"><i>hover</i><par n="accept__vblex"/>    </e>
     <e lm="hunt"><i>hunt</i><par n="accept__vblex"/>    </e>
     <e lm="hurry"><i>hurr</i><par n="appl/y__vblex"/>    </e>
@@ -32965,10 +32966,19 @@
     <e lm="drain"><i>drain</i><par n="accept__vblex"/>    </e>
     <e lm="seed"><i>seed</i><par n="accept__vblex"/>    </e>
     <e lm="madden"><i>madden</i><par n="accept__vblex"/>    </e>
+    <e lm="bestow"><i>bestow</i><par n="accept__vblex"/>    </e>
+    <e lm="treat"><i>treat</i><par n="accept__vblex"/>    </e>
     <e lm="irrigate"><i>irrigat</i><par n="liv/e__vblex"/>    </e>
     <e lm="rot"><i>rot</i><par n="rot__vblex"/>    </e>
     <e lm="ruin"><i>ruin</i><par n="accept__vblex"/>    </e>
+    <e lm="safeguard"><i>safeguard</i><par n="accept__vblex"/>    </e>
     <e lm="scrape"><i>scrap</i><par n="liv/e__vblex"/>    </e>
+    <e lm="rape"><i>rap</i><par n="liv/e__vblex"/>    </e>
+    <e lm="violate"><i>violat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="underestimate"><i>underestimat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="saturate"><i>saturat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="reunite"><i>reunit</i><par n="liv/e__vblex"/>    </e>
+    <e lm="triple"><i>tripl</i><par n="liv/e__vblex"/>    </e>
     <e lm="capitulate"><i>capitulat</i><par n="liv/e__vblex"/>    </e>
     <e lm="clone"><i>clon</i><par n="liv/e__vblex"/>    </e>
     <e lm="square"><i>squar</i><par n="liv/e__vblex"/>    </e>
@@ -32981,6 +32991,9 @@
     <e lm="stutter"><i>stutter</i><par n="house__n"/>    </e>
     <e lm="stammer"><i>stammer</i><par n="house__n"/>    </e>
     <e lm="colonise"><i>coloni</i><par n="organi/ze__vblex"/>    </e>
+    <e lm="sterilise"><i>sterili</i><par n="organi/ze__vblex"/>    </e>
+    <e lm="humanise"><i>humani</i><par n="organi/ze__vblex"/>    </e>
+    <e lm="revitalise"><i>revitali</i><par n="organi/ze__vblex"/>    </e>
     <e lm="compress"><i>compress</i><par n="approach__vblex"/>    </e>
     <e lm="crystallise"><i>crysta</i><par n="l_ll"/><i>i</i><par n="organi/ze__vblex"/>    </e>
     <e lm="conserve"><i>conserv</i><par n="liv/e__vblex"/>    </e>
