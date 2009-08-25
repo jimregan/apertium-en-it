@@ -88473,6 +88473,7 @@
     <e lm="comportamento"><i>comportament</i><par n="abbain/o__n"/></e>
     <e lm="compositore"><i>composit</i><par n="agricolt/ore__n"/></e>
     <e lm="danzatore"><i>danzat</i><par n="agricolt/ore__n"/></e>
+    <e lm="promotore"><i>promot</i><par n="agricolt/ore__n"/></e>
     <e lm="composizione"><i>composizion</i><par n="abbreviazion/e__n"/></e>
     <e lm="compratore"><i>comprat</i><par n="agricolt/ore__n"/></e>
     <e lm="comparazione"><i>comparazion</i><par n="abbreviazion/e__n"/></e>
@@ -94169,6 +94170,7 @@
     <e lm="evitare"><i>evit</i><par n="abbacin/are__vblex"/></e>
     <e lm="evocare"><i>evoc</i><par n="abbarbic/are__vblex"/></e>
     <e lm="fondere"><i>f</i><par n="conf/ondere__vblex"/></e>
+    <e lm="diffondere"><i>diff</i><par n="conf/ondere__vblex"/></e>
     <e lm="fare"><i>f</i><par n="f/are__vblex"/></e>
     <e lm="fare"><i>f</i><par n="assuef/are__vblex"/></e>
     <e lm="fare possibile"><i>f</i><par n="f/are__vblex"/><p><l><b/>possibile</l><r><g><b/>possibile</g></r></p></e>
@@ -94192,6 +94194,8 @@
     <e lm="filtrare"><i>filtr</i><par n="abbacin/are__vblex"/></e>
     <e lm="fingere"><i>fin</i><par n="ader/gere__vblex"/></e>
     <e lm="finire"><i>fin</i><par n="abbell/ire__vblex"/></e>
+    <e lm="inorridire"><i>inorrid</i><par n="abbell/ire__vblex"/></e>
+    <e lm="concepire"><i>concep</i><par n="abbell/ire__vblex"/></e>
     <e lm="fiorire"><i>fior</i><par n="abbell/ire__vblex"/></e>
     <e lm="proibire"><i>proib</i><par n="abbell/ire__vblex"/></e>
     <e lm="bandire"><i>band</i><par n="abbell/ire__vblex"/></e>
@@ -94329,10 +94333,12 @@
     <e lm="morire"><i>m</i><par n="m/orire__vblex"/></e>
     <e lm="morire"><i>m</i><par n="m/orire__vblex"/></e>
     <e lm="mettere"><i>m</i><par n="amm/ettere__vblex"/></e>
+    <e lm="promettere"><i>prom</i><par n="amm/ettere__vblex"/></e>
     <e lm="malversare"><i>malvers</i><par n="abbacin/are__vblex"/></e>
     <e lm="mancare"><i>manc</i><par n="abbarbic/are__vblex"/></e>
     <e lm="mandare"><i>mand</i><par n="abbacin/are__vblex"/></e>
     <e lm="mangiare"><i>mang</i><par n="abbiosc/iare__vblex"/></e>
+    <e lm="simboleggiare"><i>simbolegg</i><par n="abbiosc/iare__vblex"/></e>
     <e lm="equipaggiare"><i>equipagg</i><par n="abbiosc/iare__vblex"/></e>
     <e lm="favoreggiare"><i>favoregg</i><par n="abbiosc/iare__vblex"/></e>
     <e lm="manifestare"><i>manifest</i><par n="abbacin/are__vblex"/></e>
@@ -94668,6 +94674,7 @@
     <e lm="trasgredire"><i>trasgred</i><par n="abbell/ire__vblex"/></e>
     <e lm="traslitterare"><i>traslitter</i><par n="abbacin/are__vblex"/></e>
     <e lm="trasmettere"><i>trasm</i><par n="amm/ettere__vblex"/></e>
+    <e lm="teletrasmettere"><i>teletrasm</i><par n="amm/ettere__vblex"/></e>
     <e lm="trasportare"><i>trasport</i><par n="abbacin/are__vblex"/></e>
     <e lm="trattare"><i>tratt</i><par n="abbacin/are__vblex"/></e>
     <e lm="tributare"><i>tribut</i><par n="abbacin/are__vblex"/></e>
@@ -96623,6 +96630,12 @@
     <e lm="mortificare"><i>mortific</i><par n="abbarbic/are__vblex"/></e>
     <e lm="autenticare"><i>autentic</i><par n="abbarbic/are__vblex"/></e>
     <e lm="praticare"><i>pratic</i><par n="abbarbic/are__vblex"/></e>
+    <e lm="lodare"><i>lod</i><par n="abbacin/are__vblex"/></e>
+    <e lm="nobilitare"><i>nobilit</i><par n="abbacin/are__vblex"/></e>
+    <e lm="esercitare"><i>esercit</i><par n="abbacin/are__vblex"/></e>
+    <e lm="rivoluzionare"><i>rivoluzion</i><par n="abbacin/are__vblex"/></e>
+    <e lm="sovvenzionare"><i>sovvenzion</i><par n="abbacin/are__vblex"/></e>
+    <e lm="supervisionare"><i>supervision</i><par n="abbacin/are__vblex"/></e>
 	</section>
 
 
