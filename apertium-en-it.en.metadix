@@ -20871,6 +20871,7 @@
     <e lm="organist"><i>organist</i><par n="house__n"/>    </e>
     <e lm="organisation"><i>organi</i><par n="z_s"/><i>ation</i><par n="house__n"/>    </e>
     <e lm="organiser"><i>organi</i><par n="z_s"/><i>er</i><par n="house__n"/>    </e>
+    <e lm="fertiliser"><i>fertili</i><par n="z_s"/><i>er</i><par n="house__n"/>    </e>
     <e lm="orgasm"><i>orgasm</i><par n="house__n"/>    </e>
     <e lm="oriel"><i>oriel</i><par n="house__n"/>    </e>
     <e lm="orientation"><i>orientation</i><par n="house__n"/>    </e>
@@ -33526,6 +33527,7 @@
     <e lm="damp" a="greenbreen"><i>damp</i><par n="long/__adj"/></e>
     <e lm="Beijing" a="greenbreen"><i>Beijing</i><par n="Barcelona__np"/></e>
     <e lm="video game" a="greenbreen"><i>video<b/>game</i><par n="house__n"/></e>
+    <e lm="video game" r="LR"><p><l>videogame</l><r>video<b/>game</r></p><par n="house__n"/></e>
     <e lm="follower" a="greenbreen"><i>follower</i><par n="house__n"/></e>
     <e lm="Vatican" a="greenbreen"><i>Vatican</i><par n="Barcelona__np"/></e>
     <e lm="T-shirt" r="LR" a="greenbreen"><i>T-shirt</i><par n="house__n"/></e>
@@ -34914,6 +34916,13 @@
     <e lm="exotic dancer"><i>exotic<b/>dancer</i><par n="house__n"/></e>
     <e lm="ballet dancer"><i>ballet<b/>dancer</i><par n="house__n"/></e>
     <e lm="ballerina"><i>ballerina</i><par n="house__n"/></e>
+    <e lm="penitentiary"><i>penitentiar</i><par n="bab/y__n"/></e>
+    <e lm="recital"><i>recital</i><par n="house__n"/></e>
+    <e lm="promoter"><i>promoter</i><par n="house__n"/></e>
+    <e lm="affirmation"><i>affirmation</i><par n="house__n"/></e>
+    <e lm="activation"><i>activation</i><par n="house__n"/></e>
+    <e lm="leave"><i>leave</i><par n="house__n"/></e>
+    <e lm="vector"><i>vector</i><par n="house__n"/></e>
   </section>
 
   <section id="apostrophes" type="preblank">
