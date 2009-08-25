@@ -44162,7 +44162,7 @@
     -->
     <e>
       <p>
-        <l>highway<s n="n"/></l> 
+        <l>street<s n="n"/></l> 
         <r>strada<s n="n"/><s n="f"/></r> 
       </p>
     </e>
@@ -102763,7 +102763,7 @@
     <e><p><l>percentage<s n="adj"/></l><r>percentuale<s n="adj"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>expert<s n="adj"/></l><r>peritale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>passionate<s n="adj"/></l><r>passionale<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>unfavorable<s n="adj"/></l><r>sfavorevole<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>unfavourable<s n="adj"/></l><r>sfavorevole<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>lordly<s n="adj"/></l><r>signorile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>obliging<s n="adj"/></l><r>servizievole<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>sensational<s n="adj"/></l><r>sensazionale<s n="adj"/><s n="mf"/></r></p></e>
@@ -102849,7 +102849,7 @@
     <e><p><l>bearded<s n="adj"/></l><r>barbuto<s n="adj"/></r></p></e>
     <e><p><l>baroque<s n="adj"/></l><r>barocco<s n="adj"/></r></p></e>
     <e><p><l>beautiful<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
-    <e><p><l>military<s n="adj"/></l><r>bellico<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>military<s n="adj"/></l><r>bellico<s n="adj"/></r></p></e>
     <e><p><l>beneficiary<s n="adj"/></l><r>beneficiario<s n="adj"/></r></p></e>
     <e><p><l>welcome<s n="adj"/></l><r>benvenuto<s n="adj"/></r></p></e>
     <e><p><l>classic<s n="adj"/></l><r>classico<s n="adj"/></r></p></e>
@@ -102976,10 +102976,10 @@
     <e><p><l>suburban<s n="adj"/></l><r>suburbano<s n="adj"/></r></p></e>
     <e><p><l>taciturn<s n="adj"/></l><r>taciturno<s n="adj"/></r></p></e>
     <e><p><l>typical<s n="adj"/></l><r>tipico<s n="adj"/></r></p></e>
-    <e><p><l>drunk<s n="adj"/></l><r>ubriaco<s n="adj"/></r></p></e>
+    <e><p><l>drunk<s n="adj"/><s n="sint"/></l><r>ubriaco<s n="adj"/></r></p></e>
     <e><p><l>united<s n="adj"/></l><r>unito<s n="adj"/></r></p></e>
     <e><p><l>vigorous<s n="adj"/></l><r>vigoroso<s n="adj"/></r></p></e>
-    <e><p><l>brown<s n="adj"/><s n="sint"/></l><r>bruno<s n="adj"/></r></p></e>
+    <e><p><l>brown<s n="adj"/></l><r>bruno<s n="adj"/></r></p></e>
     <e><p><l>winner<s n="adj"/></l><r>vincitore<s n="adj"/></r></p></e>
     <e><p><l>proprietary<s n="adj"/></l><r>proprietario<s n="adj"/></r></p></e>
     <e><p><l>disgusting<s n="adj"/></l><r>schifoso<s n="adj"/></r></p></e>
@@ -103014,7 +103014,7 @@
     <e><p><l>iron<s n="adj"/></l><r>ferreo<s n="adj"/></r></p></e>
     <e><p><l>Flemish<s n="adj"/></l><r>fiammingo<s n="adj"/></r></p></e>
     <e><p><l>tiresome<s n="adj"/></l><r>fastidioso<s n="adj"/></r></p></e>
-    <e><p><l>fertile<s n="adj"/></l><r>fecondo<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>fertile<s n="adj"/></l><r>fecondo<s n="adj"/></r></p></e>
     <e><p><l>foreign<s n="adj"/></l><r>estero<s n="adj"/></r></p></e>
     <e><p><l>homonym<s n="adj"/></l><r>omonimo<s n="adj"/></r></p></e>
     <e><p><l>exacerbated<s n="adj"/></l><r>esacerbato<s n="adj"/></r></p></e>
@@ -103029,5 +103029,38 @@
     <e><p><l>Francoist<s n="adj"/></l><r>franchista<s n="adj"/></r></p></e>
     <e><p><l>stubborn<s n="adj"/></l><r>ostinato<s n="adj"/></r></p></e>
     <e r="LR"><p><l>obstinate<s n="adj"/></l><r>ostinato<s n="adj"/></r></p></e>
+    <e><p><l>subscription<s n="n"/></l><r>abbonamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>accessory<s n="n"/></l><r>accessorio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>accreditation<s n="n"/></l><r>accreditamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>acronym<s n="n"/></l><r>acronimo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>adaptation<s n="n"/></l><r>adattamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>airplane<s n="n"/></l><r>aeroplano<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>alembic<s n="n"/></l><r>alambicco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>food<s n="n"/></l><r>alimento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>alligator<s n="n"/></l><r>alligatore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>anathema<s n="n"/></l><r>anatema<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>anticyclone<s n="n"/></l><r>anticiclone<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>applause<s n="n"/></l><r>applauso<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>aspirator<s n="n"/></l><r>aspiratore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>adventurer<s n="n"/></l><r>avventuriero<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>absorption<s n="n"/></l><r>assorbimento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>attachment<s n="n"/></l><r>attaccamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>killing<s n="n"/></l><r>abbattimento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>primer<s n="n"/></l><r>abbecedario<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>maple<s n="n"/></l><r>acero<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>update<s n="n"/></l><r>aggiornamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hotel<s n="n"/></l><r>albergo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>aircraft<s n="n"/></l><r>aeromobile<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>decoration<s n="n"/></l><r>addobbo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>beehive<s n="n"/></l><r>alveare<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>asbestos<s n="n"/></l><r>amianto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>admiral<s n="n"/></l><r>ammiraglio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>amortisation<s n="n"/></l><r>ammortamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>shock<b/>absorber<s n="n"/></l><r>ammortizzatore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mutiny<s n="n"/></l><r>ammutinamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>drowning<s n="n"/></l><r>annegamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>anticipation<s n="n"/></l><r>anticipo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>antipode<s n="n"/></l><r>antipode<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>contract<s n="n"/></l><r>appalto<s n="n"/><s n="m"/></r></p></e>
   </section>
 </dictionary>
