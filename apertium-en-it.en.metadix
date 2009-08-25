@@ -1401,6 +1401,38 @@
         </p>
       </e>
     </pardef>
+    <pardef n="equino/x__n">
+      <e c="CP: nouns which change -x to -ctes (normally applied to words of Latin origin), or -es (LR)">
+        <p>
+          <l>x</l>
+          <r>x<s n="n"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ctes</l>
+          <r>x<s n="n"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>xes</l>
+          <r>x<s n="n"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ctes'</l>
+          <r>x<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>xes'</l>
+          <r>x<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="drachma__n">
       <e c="CP: nouns which add -e (normally applied to words of Latin origin), -i(LR), or -s (LR)">
         <p>
