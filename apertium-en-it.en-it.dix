@@ -15654,7 +15654,7 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>basket<s n="n"/></l> 
         <r>cesta<s n="n"/><s n="f"/></r> 
@@ -54020,17 +54020,6 @@
       <p>
         <l>maker<s n="n"/></l> 
         <r>fabbricante<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-0
-    -->
-    <e>
-      <p>
-        <l>male<s n="n"/></l> 
-        <r>uomo<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -103109,7 +103098,7 @@
     <e><p><l>basket<s n="n"/></l><r>cesto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cherub<s n="n"/></l><r>cherubino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kinescope<s n="n"/></l><r>cinescopio<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>chocolate<s n="n"/></l><r>cioccolatino<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>chocolate<s n="n"/></l><r>cioccolatino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>clergy<s n="n"/></l><r>clero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>commentary<s n="n"/></l><r>commentario<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>comment<s n="n"/></l><r>commento<s n="n"/><s n="m"/></r></p></e>
