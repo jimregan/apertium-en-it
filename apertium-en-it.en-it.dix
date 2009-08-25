@@ -7782,10 +7782,10 @@
 	forced 'null' restriction
       ND-36
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>acrobat<s n="n"/></l> 
-        <r>acrobata<s n="n"/><s n="m"/></r> 
+        <r>acrobata<s n="n"/><s n="GD"/></r> 
       </p>
     </e>
 
@@ -7793,10 +7793,10 @@
 	forced 'null' restriction
       ND-30
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>acrobat<s n="n"/></l> 
-        <r>acrobata<s n="n"/><s n="f"/></r> 
+        <r>acrobata<s n="n"/></r> 
       </p>
     </e>
 
@@ -7815,7 +7815,7 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>acronym<s n="n"/></l> 
         <r>sigla<s n="n"/><s n="f"/></r> 
@@ -7848,28 +7848,13 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>act<s n="n"/></l> 
         <r>legge<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-1
-    -->
-    <e>
-      <p>
-        <l>action<s n="n"/></l> 
-        <r>azione<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-58
-    -->
     <e>
       <p>
         <l>action<s n="n"/></l> 
@@ -9456,22 +9441,7 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-1
-    -->
-    <e>
-      <p>
-        <l>aircraft<s n="n"/></l> 
-        <r>aeromobile<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-1
-    -->
-    <e>
+    <e r="RL">
       <p>
         <l>aircraft<s n="n"/></l> 
         <r>velivolo<s n="n"/><s n="f"/></r> 
@@ -19053,21 +19023,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      ND-1
-    -->
-    <e>
-      <p>
-        <l>calculator<s n="n"/></l> 
-        <r>calcolatrice<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-0
-    -->
     <e>
       <p>
         <l>calendar<s n="n"/></l> 
@@ -40759,17 +40714,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-16
-    -->
-    <e>
-      <p>
-        <l>gay<s n="n"/></l> 
-        <r>omosessuale<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-10
     -->
     <e>
@@ -44703,17 +44647,6 @@
       <p>
         <l>homologation<s n="n"/></l> 
         <r>omologazione<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-16
-    -->
-    <e c="check">
-      <p>
-        <l>homosexual<s n="n"/></l> 
-        <r>omosessuale<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -53004,7 +52937,7 @@
 	forced 'null' restriction
       ND-4
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>local<s n="adj"/></l> 
         <r>comarcale<s n="adj"/><s n="mf"/></r> 
@@ -66816,7 +66749,7 @@
     -->
     <e>
       <p>
-        <l>precise<s n="adj"/></l> 
+        <l>indispensable<s n="adj"/></l> 
         <r>indispensabile<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
@@ -66827,7 +66760,7 @@
     -->
     <e>
       <p>
-        <l>precisely<s n="adv"/></l> 
+        <l>certainly<s n="adv"/></l> 
         <r>certamente<s n="adv"/></r> 
       </p>
     </e>
@@ -66836,7 +66769,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>precisely<s n="adv"/></l> 
         <r>giustamente<s n="adv"/></r> 
@@ -85940,7 +85873,7 @@
     -->
     <e>
       <p>
-        <l>tremendous<s n="adj"/></l> 
+        <l>enormous<s n="adj"/></l> 
         <r>enorme<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
@@ -87459,7 +87392,7 @@
     <e r="RL">
       <p>
         <l>unusual<s n="adj"/></l> 
-        <r>insolito<s n="adj"/><s n="mf"/></r> 
+        <r>insolito<s n="adj"/></r> 
       </p>
     </e>
 
@@ -102898,7 +102831,6 @@
     <e><p><l>insulting<s n="adj"/></l><r>ingiurioso<s n="adj"/></r></p></e>
     <e><p><l>insidious<s n="adj"/></l><r>insidioso<s n="adj"/></r></p></e>
     <e><p><l>insipid<s n="adj"/></l><r>insipido<s n="adj"/></r></p></e>
-    <e><p><l>unusual<s n="adj"/></l><r>insolito<s n="adj"/></r></p></e>
     <e><p><l>intergovernmental<s n="adj"/></l><r>intergovernativo<s n="adj"/></r></p></e>
     <e><p><l>inventive<s n="adj"/></l><r>inventivo<s n="adj"/></r></p></e>
     <e><p><l>hypocritical<s n="adj"/></l><r>ipocrita<s n="adj"/></r></p></e>
@@ -103091,7 +103023,8 @@
     <e><p><l>butane<s n="n"/></l><r>butano<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>screwdriver<s n="n"/></l><r>cacciavite<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>limestone<s n="n"/></l><r>calcare<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>calculator<s n="n"/></l><r>calcolatore<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>calculator<s n="n"/></l><r>calcolatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>calculator<s n="n"/></l><r>calcolatore<s n="n"/></r></p></e>
     <e><p><l>gig<s n="n"/></l><r>calesse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>calibre<s n="n"/></l><r>calibro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fireplace<s n="n"/></l><r>camino<s n="n"/><s n="m"/></r></p></e>
@@ -103122,16 +103055,20 @@
     <e><p><l>liberalism<s n="n"/></l><r>liberalismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>libertinism<s n="n"/></l><r>libertinaggio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Leninism<s n="n"/></l><r>leninismo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>karate<s n="n"/></l><r>karate<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>karate<s n="n"/><s n="sg"/></l><r>karate<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>karate<s n="n"/><s n="pl"/></l><r>karate<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>kimono<s n="n"/></l><r>kimono<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>question<s n="n"/></l><r>interrogativo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>May<s n="n"/></l><r>maggio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Mandarin<s n="n"/></l><r>mandarino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>almond<s n="n"/></l><r>mandorlo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mechanism<s n="n"/></l><r>meccanismo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>microwave<s n="n"/></l><r>microonde<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>microwave<s n="n"/><s n="ND"/></l><r>microonde<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>microwave<s n="n"/><s n="sg"/></l><r>microonde<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>microwave<s n="n"/><s n="pl"/></l><r>microonde<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>muezzin<s n="n"/></l><r>muezzin<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Northeast<s n="n"/></l><r>nord-est<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>homosexual<s n="n"/></l><r>omosessuale<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>gay<s n="n"/></l><r>omosessuale<s n="n"/><s n="m"/></r></p></e>
   </section>
 </dictionary>
