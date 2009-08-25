@@ -6570,6 +6570,8 @@
     <e r="RL"><p><l>thousandth<s n="det"/></l><r>millesimo<s n="det"/></r></p></e>    
     <e r="LR"><p><l>millionth<s n="det"/><s n="ord"/><s n="sp"/></l><r>milionesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>millionth<s n="det"/></l><r>milionesimo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>nth<s n="det"/><s n="ord"/><s n="sp"/></l><r>ennesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>nth<s n="det"/></l><r>ennesimo<s n="det"/></r></p></e>
     <e>
       <p>
         <l>a<b/>bit<s n="adv"/></l> 
@@ -43082,7 +43084,7 @@
     -->
     <e>
       <p>
-        <l>happy<s n="adj"/><s n="sint"/></l> 
+        <l>content<s n="adj"/></l> 
         <r>contento<s n="adj"/></r> 
       </p>
     </e>
