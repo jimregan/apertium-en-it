@@ -40705,9 +40705,21 @@
 	forced 'null' restriction
       default
     -->
-    <e>
+    <e r="RL">
       <p>
-        <l>gay<s n="n"/></l> 
+        <l>gay<s n="n"/><s n="ND"/></l> 
+        <r>gay<s n="n"/><s n="mf"/><s n="sp"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>gay<s n="n"/><s n="sg"/></l> 
+        <r>gay<s n="n"/><s n="mf"/><s n="sp"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>gay<s n="n"/><s n="pl"/></l> 
         <r>gay<s n="n"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
@@ -48399,7 +48411,7 @@
     -->
     <e>
       <p>
-        <l>insurrection<s n="n"/></l> 
+        <l>revolt<s n="n"/></l> 
         <r>rivolta<s n="n"/><s n="f"/></r> 
       </p>
     </e>
@@ -70421,12 +70433,6 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
-      <p>
-        <l>rebellion<s n="n"/></l> 
-        <r>rivolta<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
 
     <!-- 
 	forced 'null' restriction
@@ -93853,7 +93859,7 @@
     <e><p><l>ticket<b/>office<s n="n"/></l><r>biglietteria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>botany<s n="n"/></l><r>botanica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>storm<s n="n"/></l><r>bufera<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>compass<s n="n"/></l><r>bussola<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>compass<s n="n"/></l><r>bussola<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cap<s n="n"/></l><r>calotta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>carafe<s n="n"/></l><r>caraffa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>protruding<b/>chin<s n="n"/></l><r>bazza<s n="n"/><s n="f"/></r></p></e>
@@ -102961,7 +102967,7 @@
     <e><p><l>Francoist<s n="adj"/></l><r>franchista<s n="adj"/></r></p></e>
     <e><p><l>stubborn<s n="adj"/></l><r>ostinato<s n="adj"/></r></p></e>
     <e r="LR"><p><l>obstinate<s n="adj"/></l><r>ostinato<s n="adj"/></r></p></e>
-    <e><p><l>subscription<s n="n"/></l><r>abbonamento<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>subscription<s n="n"/></l><r>abbonamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>accessory<s n="n"/></l><r>accessorio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>accreditation<s n="n"/></l><r>accreditamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>acronym<s n="n"/></l><r>acronimo<s n="n"/><s n="m"/></r></p></e>
@@ -102983,7 +102989,7 @@
     <e><p><l>update<s n="n"/></l><r>aggiornamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hotel<s n="n"/></l><r>albergo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aircraft<s n="n"/></l><r>aeromobile<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>decoration<s n="n"/></l><r>addobbo<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>decoration<s n="n"/></l><r>addobbo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>beehive<s n="n"/></l><r>alveare<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asbestos<s n="n"/></l><r>amianto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>admiral<s n="n"/></l><r>ammiraglio<s n="n"/><s n="m"/></r></p></e>
@@ -103069,6 +103075,5 @@
     <e><p><l>muezzin<s n="n"/></l><r>muezzin<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Northeast<s n="n"/></l><r>nord-est<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>homosexual<s n="n"/></l><r>omosessuale<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>gay<s n="n"/></l><r>omosessuale<s n="n"/><s n="m"/></r></p></e>
   </section>
 </dictionary>
