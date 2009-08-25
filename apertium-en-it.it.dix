@@ -87971,6 +87971,9 @@
     <e lm="balia"><i>bali</i><par n="cas/a__n"/></e>
     <e lm="balla"><i>ball</i><par n="cas/a__n"/></e>
     <e lm="ballo"><i>ball</i><par n="abbain/o__n"/></e>
+    <e lm="ballerino"><i>ballerin</i><par n="bambin/o__n"/></e>
+    <e lm="ballerino di liscio"><i>ballerin</i><par n="bambin/o__n"/><p><l><b/>di<b/>liscio</l><r><g><b/>di<b/>liscio</g></r></p></e>
+    <e lm="ballerino di tip tap"><i>ballerin</i><par n="bambin/o__n"/><p><l><b/>di<b/>tip<b/>tap</l><r><g><b/>di<b/>tip<b/>tap</g></r></p></e>
     <e lm="balletto"><i>ballett</i><par n="abbain/o__n"/></e>
     <e lm="balneazione"><i>balneazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="balsamo"><i>balsam</i><par n="abbain/o__n"/></e>
@@ -88125,6 +88128,7 @@
     <e lm="calcio"><i>calci</i><par n="abbagli/o__n"/></e>
     <e lm="calcolo"><i>calcol</i><par n="abbain/o__n"/></e>
     <e lm="calcolatore"><i>calcolat</i><par n="agricolt/ore__n"/></e>
+    <e lm="commentatore"><i>commentat</i><par n="agricolt/ore__n"/></e>
     <e lm="caldaia"><i>caldai</i><par n="cas/a__n"/></e>
     <e lm="calendario"><i>calendari</i><par n="abbagli/o__n"/></e>
     <e lm="calesse"><i>caless</i><par n="abat/e__n"/></e>
@@ -88345,6 +88349,7 @@
     <e lm="cibernetica"><i>cibernetic</i><par n="tasc/a__n"/></e>
     <e lm="cibo"><i>cib</i><par n="abbain/o__n"/></e>
     <e lm="cicatrice"><i>cicatric</i><par n="abbreviazion/e__n"/></e>
+    <e lm="danzatrice del ventre"><i>danzatric</i><par n="abbreviazion/e__n"/><p><l><b/>del<b/>ventre</l><r><g><b/>del<b/>ventre</g></r></p></e>
     <e lm="ciclo"><i>cicl</i><par n="abbain/o__n"/></e>
     <e lm="ciclismo"><i>ciclism</i><par n="abbain/o__n"/></e>
     <e lm="ciclista"><i>ciclist</i><par n="suicid/a__n"/></e>
@@ -95897,6 +95902,15 @@
 <e lm="pasta asciutta"><p><l>paste<b/>asciutte</l><r>pasta<b/>asciutta<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="pasta cresciuta"><p><l>pasta<b/>cresciuta</l><r>pasta<b/>cresciuta<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="pasta cresciuta"><p><l>paste<b/>cresciute</l><r>pasta<b/>cresciuta<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="ballerino classico"><p><l>ballerino<b/>classico</l><r>ballerino<b/>classico<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="ballerino classico"><p><l>ballerini<b/>classici</l><r>ballerino<b/>classico<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="ballerino classico"><p><l>ballerina<b/>classica</l><r>ballerino<b/>classico<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="ballerino classico"><p><l>ballerine<b/>classiche</l><r>ballerino<b/>classico<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="ballerino esotico"><p><l>ballerino<b/>esotico</l><r>ballerino<b/>esotico<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="ballerino esotico"><p><l>ballerini<b/>esotici</l><r>ballerino<b/>esotico<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="ballerino esotico"><p><l>ballerina<b/>esotica</l><r>ballerino<b/>esotico<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="ballerino esotico"><p><l>ballerine<b/>esotiche</l><r>ballerino<b/>esotico<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+
     <e lm="pasta all'uovo"><i>past</i><par n="cas/a__n"/><p><l><b/>all'uovo</l><r><g><b/>all'uovo</g></r></p></e>
     <e lm="pasta di legno"><i>past</i><par n="cas/a__n"/><p><l><b/>di<b/>legno</l><r><g><b/>di<b/>legno</g></r></p></e>
     <e lm="pasta di stracci"><i>past</i><par n="cas/a__n"/><p><l><b/>di<b/>stracci</l><r><g><b/>di<b/>stracci</g></r></p></e>
