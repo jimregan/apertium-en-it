@@ -13237,6 +13237,12 @@
         <r>assegnare<s n="vblex"/></r> 
       </p>
     </e>
+    <e>
+      <p>
+        <l>prioritise<s n="vblex"/></l> 
+        <r>assegnare<g><b/>una<b/>priorità</g><s n="vblex"/></r> 
+      </p>
+    </e>
 
     <!-- 
 	forced 'null' restriction
@@ -20271,6 +20277,18 @@
       <p>
         <l>cause<s n="n"/></l> 
         <r>causa<s n="n"/><s n="f"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>act<g><b/>of<b/>God</g><s n="n"/></l> 
+        <r>causa<g><b/>di<b/>forza<b/>maggiore</g><s n="n"/><s n="f"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>act<g><b/>of<b/>nature</g><s n="n"/></l> 
+        <r>causa<g><b/>di<b/>forza<b/>maggiore</g><s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -103313,6 +103331,7 @@
     <e><p><l>puppet<s n="n"/></l><r>pupazzo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pentagram<s n="n"/></l><r>pentagramma<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pie<s n="n"/></l><r>pasticcio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bag<s n="n"/></l><r>sacca<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lightning<b/>conductor<s n="n"/></l><r>parafulmine<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>commentator<s n="n"/></l><r>commentatore<s n="n"/></r></p></e>
     <e r="LR"><p><l>commentator<s n="n"/></l><r>commentatore<s n="n"/><s n="GD"/></r></p></e>
