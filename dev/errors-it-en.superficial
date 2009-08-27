@@ -286,8 +286,6 @@
 ^.<sent>$ ^collegiale<n><mf><sg>$	. \@Collegiale\<n\>\<sg\>
 ^.<sent>$ ^colmo<n><m><pl>$	. \@Colmo\<n\>\<pl\>
 ^.<sent>$ ^colmo<n><m><sg>$	. \@Colmo\<n\>\<sg\>
-^.<sent>$ ^colono<n><m><pl>$	. \@Colono\<n\>\<pl\>
-^.<sent>$ ^colono<n><m><sg>$	. \@Colono\<n\>\<sg\>
 ^.<sent>$ ^colpo<n><m><pl>$	. #Coup\<n\>\<pl\>
 ^.<sent>$ ^colpo<n><m><sg>$	. #Coup\<n\>\<sg\>
 ^.<sent>$ ^comandante<n><mf><pl>$	. \@Comandante\<n\>\<pl\>
@@ -539,6 +537,8 @@
 ^.<sent>$ ^lince<n><f><sg>$	. \@Lince\<n\>\<sg\>
 ^.<sent>$ ^linguetta<n><f><pl>$	. \@Linguetta\<n\>\<pl\>
 ^.<sent>$ ^linguetta<n><f><sg>$	. \@Linguetta\<n\>\<sg\>
+^.<sent>$ ^lista# di controllo<n><f><pl>$	. \@Lista\<n\>\<pl\># di controllo
+^.<sent>$ ^lista# di controllo<n><f><sg>$	. \@Lista\<n\>\<sg\># di controllo
 ^.<sent>$ ^lucertola<n><f><pl>$	. \@Lucertola\<n\>\<pl\>
 ^.<sent>$ ^lucertola<n><f><sg>$	. \@Lucertola\<n\>\<sg\>
 ^.<sent>$ ^luccio<n><m><pl>$	. #Pike\<n\>\<pl\>
@@ -962,8 +962,6 @@
 ^.<sent>$ ^calibrazione<n><f><sg>$	. #Calibration\<n\>\<sg\>
 ^.<sent>$ ^canonizzazione<n><f><pl>$	. #Canonisation\<n\>\<pl\>
 ^.<sent>$ ^canonizzazione<n><f><sg>$	. #Canonisation\<n\>\<sg\>
-^.<sent>$ ^cassazione<n><f><pl>$	. \@Cassazione\<n\>\<pl\>
-^.<sent>$ ^cassazione<n><f><sg>$	. \@Cassazione\<n\>\<sg\>
 ^.<sent>$ ^cementificazione<n><f><pl>$	. #Concreting\<n\>\<pl\>
 ^.<sent>$ ^cementificazione<n><f><sg>$	. #Concreting\<n\>\<sg\>
 ^.<sent>$ ^centuriazione<n><f><pl>$	. \@Centuriazione\<n\>\<pl\>
@@ -996,10 +994,6 @@
 ^.<sent>$ ^delocalizzazione<n><f><sg>$	. #Relocation\<n\>\<sg\>
 ^.<sent>$ ^fagocitazione<n><f><pl>$	. \@Fagocitazione\<n\>\<pl\>
 ^.<sent>$ ^fagocitazione<n><f><sg>$	. \@Fagocitazione\<n\>\<sg\>
-^.<sent>$ ^fattorizzazione<n><f><pl>$	. \@Fattorizzazione\<n\>\<pl\>
-^.<sent>$ ^fattorizzazione<n><f><sg>$	. \@Fattorizzazione\<n\>\<sg\>
-^.<sent>$ ^fecondazione<n><f><pl>$	. \@Fecondazione\<n\>\<pl\>
-^.<sent>$ ^fecondazione<n><f><sg>$	. \@Fecondazione\<n\>\<sg\>
 ^.<sent>$ ^filiazione<n><f><pl>$	. \@Filiazione\<n\>\<pl\>
 ^.<sent>$ ^filiazione<n><f><sg>$	. \@Filiazione\<n\>\<sg\>
 ^.<sent>$ ^infeudazione<n><f><pl>$	. \@Infeudazione\<n\>\<pl\>
@@ -2003,6 +1997,104 @@
 ^.<sent>$ ^avere# tempo<vbhaver><pri><p2><pl>$	. You \@avere\<vbhaver\>\<pres\># tempo
 ^.<sent>$ ^avere# tempo<vbhaver><pri><p2><sg>$	. You \@avere\<vbhaver\>\<pres\># tempo
 ^.<sent>$ ^avere# tempo<vbhaver><inf>$	. \@Avere\<vbhaver\>\<inf\># tempo
+^.<sent>$ ^avere# fame<vbhaver><ifi><p1><sg>$	. I \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><pii><p2><pl>$	. You \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><ifi><p2><pl>$	. You \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><pii><p2><sg>$	. You \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><ifi><p2><sg>$	. You \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><ifi><p3><pl>$	. They \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><cni><p1><pl>$	. We would \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><prs><p3><pl>$	. They \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><cni><p1><sg>$	. I would \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><imp><p1><pl>$	. \@Avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><cni><p2><pl>$	. You would \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><cni><p2><sg>$	. You would \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><pri><p3><pl>$	. They \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><cni><p3><pl>$	. They would \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><pp><f><pl>$	. \@Avere\<vbhaver\>\<pp\># fame
+^.<sent>$ ^avere# fame<vbhaver><pri><p3><sg>$	. It \@avere\<vbhaver\>\<pri\>\<p3\>\<sg\># fame
+^.<sent>$ ^avere# fame<vbhaver><fti><p1><pl>$	. We will \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><pp><m><pl>$	. \@Avere\<vbhaver\>\<pp\># fame
+^.<sent>$ ^avere# fame<vbhaver><pp><f><sg>$	. \@Avere\<vbhaver\>\<pp\># fame
+^.<sent>$ ^avere# fame<vbhaver><pp><m><sg>$	. \@Avere\<vbhaver\>\<pp\># fame
+^.<sent>$ ^avere# fame<vbhaver><pis><p1><pl>$	. We \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><fti><p1><sg>$	. I will \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><pis><p1><sg>$	. I \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><fti><p2><pl>$	. You will \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><pis><p2><pl>$	. You \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><fti><p2><sg>$	. You will \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><pis><p2><sg>$	. You \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><fti><p3><pl>$	. They will \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><pii><p1><pl>$	. We \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><ifi><p1><pl>$	. We \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><pii><p1><sg>$	. I \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><pis><p3><pl>$	. They \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><imp><p2><pl>$	. \@Avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><imp><p2><sg>$	. \@Avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><prs><p1><pl>$	. We \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><prs><p1><sg>$	. I \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><prs><p2><pl>$	. You \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><prs><p2><sg>$	. You \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><pii><p3><pl>$	. They \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><ger>$	. \@Avere\<vbhaver\>\<ger\># fame
+^.<sent>$ ^avere# fame<vbhaver><pri><p1><pl>$	. We \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><pri><p1><sg>$	. I \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><pri><p2><pl>$	. You \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><pri><p2><sg>$	. You \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><inf>$	. \@Avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><ifi><p3><pl>$	. They \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><pis><p3><pl>$	. They \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><cni><p3><pl>$	. They would \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><fti><p3><pl>$	. They will \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><pii><p3><pl>$	. They \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><prs><p3><pl>$	. They \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><inf>$	. \@Avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><pri><p3><pl>$	. They \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><ifi><p1><sg>$	. I \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><pii><p2><pl>$	. You \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><ifi><p2><pl>$	. You \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><pii><p2><sg>$	. You \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><ifi><p2><sg>$	. You \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><ifi><p3><pl>$	. They \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><cni><p1><pl>$	. We would \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><prs><p3><pl>$	. They \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><cni><p1><sg>$	. I would \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><imp><p1><pl>$	. \@Avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><cni><p2><pl>$	. You would \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><cni><p2><sg>$	. You would \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><pri><p3><pl>$	. They \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><cni><p3><pl>$	. They would \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><pp><f><pl>$	. \@Avere\<vbhaver\>\<pp\># fame
+^.<sent>$ ^avere# fame<vbhaver><pri><p3><sg>$	. It \@avere\<vbhaver\>\<pri\>\<p3\>\<sg\># fame
+^.<sent>$ ^avere# fame<vbhaver><fti><p1><pl>$	. We will \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><pp><m><pl>$	. \@Avere\<vbhaver\>\<pp\># fame
+^.<sent>$ ^avere# fame<vbhaver><pp><f><sg>$	. \@Avere\<vbhaver\>\<pp\># fame
+^.<sent>$ ^avere# fame<vbhaver><pp><m><sg>$	. \@Avere\<vbhaver\>\<pp\># fame
+^.<sent>$ ^avere# fame<vbhaver><pis><p1><pl>$	. We \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><fti><p1><sg>$	. I will \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><pis><p1><sg>$	. I \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><fti><p2><pl>$	. You will \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><pis><p2><pl>$	. You \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><fti><p2><sg>$	. You will \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><pis><p2><sg>$	. You \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><fti><p3><pl>$	. They will \@avere\<vbhaver\>\<inf\># fame
+^.<sent>$ ^avere# fame<vbhaver><pii><p1><pl>$	. We \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><ifi><p1><pl>$	. We \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><pii><p1><sg>$	. I \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><pis><p3><pl>$	. They \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><imp><p2><pl>$	. \@Avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><imp><p2><sg>$	. \@Avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><prs><p1><pl>$	. We \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><prs><p1><sg>$	. I \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><prs><p2><pl>$	. You \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><prs><p2><sg>$	. You \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><pii><p3><pl>$	. They \@avere\<vbhaver\>\<past\># fame
+^.<sent>$ ^avere# fame<vbhaver><ger>$	. \@Avere\<vbhaver\>\<ger\># fame
+^.<sent>$ ^avere# fame<vbhaver><pri><p1><pl>$	. We \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><pri><p1><sg>$	. I \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><pri><p2><pl>$	. You \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><pri><p2><sg>$	. You \@avere\<vbhaver\>\<pres\># fame
+^.<sent>$ ^avere# fame<vbhaver><inf>$	. \@Avere\<vbhaver\>\<inf\># fame
 ^.<sent>$ ^anche se<cnjsub>$	. \@Anche se\<cnjsub\>
 ^.<sent>$ ^finché<cnjsub>$	. \@Finché\<cnjsub\>
 ^.<sent>$ ^affinché<cnjsub>$	. \@Affinché\<cnjsub\>
@@ -8150,120 +8242,120 @@
 ^.<sent>$ ^sputare<vblex><pri><p2><pl>$	. You #spit\<vblex\>\<pres\>
 ^.<sent>$ ^sputare<vblex><pri><p2><sg>$	. You #spit\<vblex\>\<pres\>
 ^.<sent>$ ^sputare<vblex><inf>$	. #Spit\<vblex\>\<inf\>
-^.<sent>$ ^trattare<vblex><ifi><p1><sg>$	. I #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><pii><p2><pl>$	. You #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><ifi><p2><pl>$	. You #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><pii><p2><sg>$	. You #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><ifi><p2><sg>$	. You #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><ifi><p3><pl>$	. They #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><cni><p1><pl>$	. We would #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><ifi><p3><sg>$	. It #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><prs><p3><pl>$	. They #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><cni><p1><sg>$	. I would #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><imp><p1><pl>$	. #Treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><prs><p3><sg>$	. It #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><cni><p2><pl>$	. You would #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><cni><p2><sg>$	. You would #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><pri><p3><pl>$	. They #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><cni><p3><pl>$	. They would #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><pp><f><pl>$	. #Treat\<vblex\>\<pp\># with
-^.<sent>$ ^trattare<vblex><cni><p3><sg>$	. It would #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><pri><p3><sg>$	. It #treat\<vblex\>\<pri\>\<p3\>\<sg\># with
-^.<sent>$ ^trattare<vblex><fti><p1><pl>$	. We will #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><pp><m><pl>$	. #Treat\<vblex\>\<pp\># with
-^.<sent>$ ^trattare<vblex><pp><f><sg>$	. #Treat\<vblex\>\<pp\># with
-^.<sent>$ ^trattare<vblex><pp><m><sg>$	. #Treat\<vblex\>\<pp\># with
-^.<sent>$ ^trattare<vblex><pis><p1><pl>$	. We #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><fti><p1><sg>$	. I will #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><pis><p1><sg>$	. I #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><fti><p2><pl>$	. You will #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><pis><p2><pl>$	. You #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><fti><p2><sg>$	. You will #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><pis><p2><sg>$	. You #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><fti><p3><pl>$	. They will #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><fti><p3><sg>$	. It will #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><pii><p1><pl>$	. We #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><ifi><p1><pl>$	. We #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><pii><p1><sg>$	. I #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><pis><p3><pl>$	. They #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><imp><p2><pl>$	. #Treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><pis><p3><sg>$	. It #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><imp><p3><pl>$	. #Treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><imp><p3><sg>$	. #Treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><imp><p2><sg>$	. #Treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><prs><p1><pl>$	. We #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><prs><p1><sg>$	. I #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><prs><p2><pl>$	. You #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><prs><p2><sg>$	. You #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><pii><p3><pl>$	. They #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><ger>$	. #Treat\<vblex\>\<ger\># with
-^.<sent>$ ^trattare<vblex><pii><p3><sg>$	. It #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><pri><p1><pl>$	. We #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><pri><p1><sg>$	. I #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><pri><p2><pl>$	. You #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><pri><p2><sg>$	. You #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><inf>$	. #Treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><ifi><p3><pl>$	. They #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><pis><p3><pl>$	. They #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><cni><p3><pl>$	. They would #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><pri><p3><pl>$	. They #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><fti><p3><pl>$	. They will #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><pii><p3><pl>$	. They #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><prs><p3><pl>$	. They #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><inf>$	. #Treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><ifi><p1><sg>$	. I #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><pii><p2><pl>$	. You #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><ifi><p2><pl>$	. You #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><pii><p2><sg>$	. You #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><ifi><p2><sg>$	. You #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><ifi><p3><pl>$	. They #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><cni><p1><pl>$	. We would #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><ifi><p3><sg>$	. It #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><prs><p3><pl>$	. They #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><cni><p1><sg>$	. I would #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><imp><p1><pl>$	. #Treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><prs><p3><sg>$	. It #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><cni><p2><pl>$	. You would #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><cni><p2><sg>$	. You would #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><pri><p3><pl>$	. They #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><cni><p3><pl>$	. They would #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><pp><f><pl>$	. #Treat\<vblex\>\<pp\># with
-^.<sent>$ ^trattare<vblex><cni><p3><sg>$	. It would #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><pri><p3><sg>$	. It #treat\<vblex\>\<pri\>\<p3\>\<sg\># with
-^.<sent>$ ^trattare<vblex><fti><p1><pl>$	. We will #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><pp><m><pl>$	. #Treat\<vblex\>\<pp\># with
-^.<sent>$ ^trattare<vblex><pp><f><sg>$	. #Treat\<vblex\>\<pp\># with
-^.<sent>$ ^trattare<vblex><pp><m><sg>$	. #Treat\<vblex\>\<pp\># with
-^.<sent>$ ^trattare<vblex><pis><p1><pl>$	. We #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><fti><p1><sg>$	. I will #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><pis><p1><sg>$	. I #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><fti><p2><pl>$	. You will #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><pis><p2><pl>$	. You #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><fti><p2><sg>$	. You will #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><pis><p2><sg>$	. You #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><fti><p3><pl>$	. They will #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><fti><p3><sg>$	. It will #treat\<vblex\>\<inf\># with
-^.<sent>$ ^trattare<vblex><pii><p1><pl>$	. We #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><ifi><p1><pl>$	. We #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><pii><p1><sg>$	. I #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><pis><p3><pl>$	. They #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><imp><p2><pl>$	. #Treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><pis><p3><sg>$	. It #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><imp><p3><pl>$	. #Treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><imp><p3><sg>$	. #Treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><imp><p2><sg>$	. #Treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><prs><p1><pl>$	. We #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><prs><p1><sg>$	. I #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><prs><p2><pl>$	. You #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><prs><p2><sg>$	. You #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><pii><p3><pl>$	. They #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><ger>$	. #Treat\<vblex\>\<ger\># with
-^.<sent>$ ^trattare<vblex><pii><p3><sg>$	. It #treat\<vblex\>\<past\># with
-^.<sent>$ ^trattare<vblex><pri><p1><pl>$	. We #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><pri><p1><sg>$	. I #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><pri><p2><pl>$	. You #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><pri><p2><sg>$	. You #treat\<vblex\>\<pres\># with
-^.<sent>$ ^trattare<vblex><inf>$	. #Treat\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><ifi><p1><sg>$	. I #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pii><p2><pl>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ifi><p2><pl>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pii><p2><sg>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ifi><p2><sg>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ifi><p3><pl>$	. They #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><cni><p1><pl>$	. We would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><ifi><p3><sg>$	. It #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><prs><p3><pl>$	. They #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><cni><p1><sg>$	. I would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><imp><p1><pl>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p3><sg>$	. It #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><cni><p2><pl>$	. You would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><cni><p2><sg>$	. You would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pri><p3><pl>$	. They #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><cni><p3><pl>$	. They would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pp><f><pl>$	. #Transact\<vblex\>\<pp\># with
+^.<sent>$ ^trattare<vblex><cni><p3><sg>$	. It would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pri><p3><sg>$	. It #transact\<vblex\>\<pri\>\<p3\>\<sg\># with
+^.<sent>$ ^trattare<vblex><fti><p1><pl>$	. We will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pp><m><pl>$	. #Transact\<vblex\>\<pp\># with
+^.<sent>$ ^trattare<vblex><pp><f><sg>$	. #Transact\<vblex\>\<pp\># with
+^.<sent>$ ^trattare<vblex><pp><m><sg>$	. #Transact\<vblex\>\<pp\># with
+^.<sent>$ ^trattare<vblex><pis><p1><pl>$	. We #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><fti><p1><sg>$	. I will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pis><p1><sg>$	. I #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><fti><p2><pl>$	. You will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pis><p2><pl>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><fti><p2><sg>$	. You will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pis><p2><sg>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><fti><p3><pl>$	. They will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><fti><p3><sg>$	. It will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pii><p1><pl>$	. We #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ifi><p1><pl>$	. We #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pii><p1><sg>$	. I #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pis><p3><pl>$	. They #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><imp><p2><pl>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pis><p3><sg>$	. It #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><imp><p3><pl>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><imp><p3><sg>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><imp><p2><sg>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p1><pl>$	. We #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p1><sg>$	. I #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p2><pl>$	. You #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p2><sg>$	. You #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pii><p3><pl>$	. They #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ger>$	. #Transact\<vblex\>\<ger\># with
+^.<sent>$ ^trattare<vblex><pii><p3><sg>$	. It #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pri><p1><pl>$	. We #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pri><p1><sg>$	. I #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pri><p2><pl>$	. You #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pri><p2><sg>$	. You #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><inf>$	. #Transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><ifi><p3><pl>$	. They #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pis><p3><pl>$	. They #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><cni><p3><pl>$	. They would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pri><p3><pl>$	. They #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><fti><p3><pl>$	. They will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pii><p3><pl>$	. They #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><prs><p3><pl>$	. They #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><inf>$	. #Transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><ifi><p1><sg>$	. I #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pii><p2><pl>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ifi><p2><pl>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pii><p2><sg>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ifi><p2><sg>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ifi><p3><pl>$	. They #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><cni><p1><pl>$	. We would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><ifi><p3><sg>$	. It #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><prs><p3><pl>$	. They #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><cni><p1><sg>$	. I would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><imp><p1><pl>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p3><sg>$	. It #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><cni><p2><pl>$	. You would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><cni><p2><sg>$	. You would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pri><p3><pl>$	. They #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><cni><p3><pl>$	. They would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pp><f><pl>$	. #Transact\<vblex\>\<pp\># with
+^.<sent>$ ^trattare<vblex><cni><p3><sg>$	. It would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pri><p3><sg>$	. It #transact\<vblex\>\<pri\>\<p3\>\<sg\># with
+^.<sent>$ ^trattare<vblex><fti><p1><pl>$	. We will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pp><m><pl>$	. #Transact\<vblex\>\<pp\># with
+^.<sent>$ ^trattare<vblex><pp><f><sg>$	. #Transact\<vblex\>\<pp\># with
+^.<sent>$ ^trattare<vblex><pp><m><sg>$	. #Transact\<vblex\>\<pp\># with
+^.<sent>$ ^trattare<vblex><pis><p1><pl>$	. We #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><fti><p1><sg>$	. I will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pis><p1><sg>$	. I #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><fti><p2><pl>$	. You will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pis><p2><pl>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><fti><p2><sg>$	. You will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pis><p2><sg>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><fti><p3><pl>$	. They will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><fti><p3><sg>$	. It will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pii><p1><pl>$	. We #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ifi><p1><pl>$	. We #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pii><p1><sg>$	. I #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pis><p3><pl>$	. They #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><imp><p2><pl>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pis><p3><sg>$	. It #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><imp><p3><pl>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><imp><p3><sg>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><imp><p2><sg>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p1><pl>$	. We #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p1><sg>$	. I #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p2><pl>$	. You #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p2><sg>$	. You #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pii><p3><pl>$	. They #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ger>$	. #Transact\<vblex\>\<ger\># with
+^.<sent>$ ^trattare<vblex><pii><p3><sg>$	. It #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pri><p1><pl>$	. We #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pri><p1><sg>$	. I #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pri><p2><pl>$	. You #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pri><p2><sg>$	. You #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><inf>$	. #Transact\<vblex\>\<inf\># with
 ^.<sent>$ ^viziare<vblex><ifi><p3><pl>$	. They #spoil\<vblex\>\<past\>
 ^.<sent>$ ^viziare<vblex><pis><p3><pl>$	. They #spoil\<vblex\>\<past\>
 ^.<sent>$ ^viziare<vblex><cni><p3><pl>$	. They would #spoil\<vblex\>\<inf\>
@@ -10871,6 +10963,122 @@
 ^.<sent>$ ^pastsciutta<n><f><pl>$	. \@Pastsciutta\<n\>\<pl\>
 ^.<sent>$ ^pastsciutta<n><f><sg>$	. \@Pastsciutta\<n\>\<sg\>
 ^.<sent>$ ^Abdul-Hamid<np><ant><m><sg>$	. #Abdul Hamid\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^panarabismo<n><m><pl>$	. #Panarabism\<n\>\<pl\>
+^.<sent>$ ^panarabismo<n><m><sg>$	. #Panarabism\<n\>\<sg\>
+^.<sent>$ ^trattare<vblex><ifi><p1><sg>$	. I #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pii><p2><pl>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ifi><p2><pl>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pii><p2><sg>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ifi><p2><sg>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ifi><p3><pl>$	. They #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><cni><p1><pl>$	. We would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><ifi><p3><sg>$	. It #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><prs><p3><pl>$	. They #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><cni><p1><sg>$	. I would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><imp><p1><pl>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p3><sg>$	. It #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><cni><p2><pl>$	. You would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><cni><p2><sg>$	. You would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pri><p3><pl>$	. They #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><cni><p3><pl>$	. They would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pp><f><pl>$	. #Transact\<vblex\>\<pp\># with
+^.<sent>$ ^trattare<vblex><cni><p3><sg>$	. It would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pri><p3><sg>$	. It #transact\<vblex\>\<pri\>\<p3\>\<sg\># with
+^.<sent>$ ^trattare<vblex><fti><p1><pl>$	. We will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pp><m><pl>$	. #Transact\<vblex\>\<pp\># with
+^.<sent>$ ^trattare<vblex><pp><f><sg>$	. #Transact\<vblex\>\<pp\># with
+^.<sent>$ ^trattare<vblex><pp><m><sg>$	. #Transact\<vblex\>\<pp\># with
+^.<sent>$ ^trattare<vblex><pis><p1><pl>$	. We #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><fti><p1><sg>$	. I will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pis><p1><sg>$	. I #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><fti><p2><pl>$	. You will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pis><p2><pl>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><fti><p2><sg>$	. You will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pis><p2><sg>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><fti><p3><pl>$	. They will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><fti><p3><sg>$	. It will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pii><p1><pl>$	. We #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ifi><p1><pl>$	. We #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pii><p1><sg>$	. I #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pis><p3><pl>$	. They #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><imp><p2><pl>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pis><p3><sg>$	. It #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><imp><p3><pl>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><imp><p3><sg>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><imp><p2><sg>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p1><pl>$	. We #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p1><sg>$	. I #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p2><pl>$	. You #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p2><sg>$	. You #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pii><p3><pl>$	. They #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ger>$	. #Transact\<vblex\>\<ger\># with
+^.<sent>$ ^trattare<vblex><pii><p3><sg>$	. It #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pri><p1><pl>$	. We #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pri><p1><sg>$	. I #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pri><p2><pl>$	. You #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pri><p2><sg>$	. You #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><inf>$	. #Transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><ifi><p3><pl>$	. They #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pis><p3><pl>$	. They #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><cni><p3><pl>$	. They would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pri><p3><pl>$	. They #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><fti><p3><pl>$	. They will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pii><p3><pl>$	. They #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><prs><p3><pl>$	. They #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><inf>$	. #Transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><ifi><p1><sg>$	. I #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pii><p2><pl>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ifi><p2><pl>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pii><p2><sg>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ifi><p2><sg>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ifi><p3><pl>$	. They #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><cni><p1><pl>$	. We would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><ifi><p3><sg>$	. It #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><prs><p3><pl>$	. They #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><cni><p1><sg>$	. I would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><imp><p1><pl>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p3><sg>$	. It #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><cni><p2><pl>$	. You would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><cni><p2><sg>$	. You would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pri><p3><pl>$	. They #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><cni><p3><pl>$	. They would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pp><f><pl>$	. #Transact\<vblex\>\<pp\># with
+^.<sent>$ ^trattare<vblex><cni><p3><sg>$	. It would #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pri><p3><sg>$	. It #transact\<vblex\>\<pri\>\<p3\>\<sg\># with
+^.<sent>$ ^trattare<vblex><fti><p1><pl>$	. We will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pp><m><pl>$	. #Transact\<vblex\>\<pp\># with
+^.<sent>$ ^trattare<vblex><pp><f><sg>$	. #Transact\<vblex\>\<pp\># with
+^.<sent>$ ^trattare<vblex><pp><m><sg>$	. #Transact\<vblex\>\<pp\># with
+^.<sent>$ ^trattare<vblex><pis><p1><pl>$	. We #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><fti><p1><sg>$	. I will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pis><p1><sg>$	. I #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><fti><p2><pl>$	. You will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pis><p2><pl>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><fti><p2><sg>$	. You will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pis><p2><sg>$	. You #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><fti><p3><pl>$	. They will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><fti><p3><sg>$	. It will #transact\<vblex\>\<inf\># with
+^.<sent>$ ^trattare<vblex><pii><p1><pl>$	. We #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ifi><p1><pl>$	. We #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pii><p1><sg>$	. I #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pis><p3><pl>$	. They #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><imp><p2><pl>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pis><p3><sg>$	. It #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><imp><p3><pl>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><imp><p3><sg>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><imp><p2><sg>$	. #Transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p1><pl>$	. We #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p1><sg>$	. I #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p2><pl>$	. You #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><prs><p2><sg>$	. You #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pii><p3><pl>$	. They #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><ger>$	. #Transact\<vblex\>\<ger\># with
+^.<sent>$ ^trattare<vblex><pii><p3><sg>$	. It #transact\<vblex\>\<past\># with
+^.<sent>$ ^trattare<vblex><pri><p1><pl>$	. We #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pri><p1><sg>$	. I #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pri><p2><pl>$	. You #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><pri><p2><sg>$	. You #transact\<vblex\>\<pres\># with
+^.<sent>$ ^trattare<vblex><inf>$	. #Transact\<vblex\>\<inf\># with
 ^.<sent>$ ^a<pr>$ ^il<det><def><mf><sg>$	. #To\<pr\>\/onto\<pr\> the
 ^.<sent>$ ^ne<prn><pro><adv>$	. \@ne\<prn\>\<pro\>\<adv\>
 ^.<sent>$ ^quello<det><dem><mf><sg>$	. #That\<sg\>
