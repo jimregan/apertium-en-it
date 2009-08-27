@@ -96,6 +96,13 @@
     <sdef n="pr" /> 
     <sdef n="acr" /> 
   </sdefs>
+  <pardefs>
+    <pardef n="SP">
+      <e r="LR"><p><l><s n="sg"/></l><r><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="pl"/></l><r><s n="sp"/></r></p></e>
+      <e r="RL"><p><l><s n="ND"/></l><r><s n="sp"/></r></p></e>
+    </pardef>
+  </pardefs>
   <section id="main" type="standard">
     <e r="LR"><p><l>'s<s n="gen"/></l><r/></p></e>
     <e>
@@ -103921,5 +103928,109 @@
     <e><p><l>rule-based<b/>machine<b/>translation<s n="n"/></l><r>traduzione<b/>automatica<b/>basata<b/>su<b/>regole<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>corpus-based<b/>machine<b/>translation<s n="n"/></l><r>traduzione<b/>automatica<b/>basata<b/>su<b/>corpora<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>machine<b/>translation<s n="n"/></l><r>traduzione<b/>automatica<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>endometrium<s n="n"/></l><r>endometrio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>gymnasium<s n="n"/></l><r>liceo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>memorandum<s n="n"/></l><r>memorandum<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>moratorium<s n="n"/></l><r>moratoria<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>opium<s n="n"/></l><r>oppio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>pallium<s n="n"/></l><r>pallio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>perineum<s n="n"/></l><r>perineo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>polonium<s n="n"/></l><r>polonio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>sanatorium<s n="n"/></l><r>sanatorio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>summation<s n="n"/></l><r>sommatoria<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>symposium<s n="n"/></l><r>simposio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>acetabulum<s n="n"/></l><r>cotile<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>actinium<s n="n"/></l><r>attinio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>alum<s n="n"/></l><r>allume<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>ammonium<s n="n"/></l><r>ammonio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>atrium<s n="n"/></l><r>atrio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>barium<s n="n"/></l><r>bario<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>berkelium<s n="n"/></l><r>berkelio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>beryllium<s n="n"/></l><r>berillio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>cadmium<s n="n"/></l><r>cadmio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>calcaneum<s n="n"/></l><r>calcagno<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>californium<s n="n"/></l><r>californio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>cerebellum<s n="n"/></l><r>cervelletto<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>cerium<s n="n"/></l><r>cerio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>cesium<s n="n"/></l><r>cesio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>chromium<s n="n"/></l><r>cromo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>chrysanthemum<s n="n"/></l><r>chrysanthemum<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>colchicum<s n="n"/></l><r>colchicum<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>colostrum<s n="n"/></l><r>colostro<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>condominium<s n="n"/></l><r>condominio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>deuterium<s n="n"/></l><r>deuterio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>diverticulum<s n="n"/></l><r>diverticolo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>epithalamium<s n="n"/></l><r>epitalamio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>erbium<s n="n"/></l><r>erbio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>europium<s n="n"/></l><r>europio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>fermium<s n="n"/></l><r>fermio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>gadolinium<s n="n"/></l><r>gadolinio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>gallium<s n="n"/></l><r>gallio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>germanium<s n="n"/></l><r>germanio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>hafnium<s n="n"/></l><r>afnio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>harmonium<s n="n"/></l><r>armonium<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>haustorium<s n="n"/></l><r>austorio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>helium<s n="n"/></l><r>elio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>holmium<s n="n"/></l><r>olmio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>hypogeum<s n="n"/></l><r>ipogeo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>ileum<s n="n"/></l><r>ileo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>interregnum<s n="n"/></l><r>interregnum<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>iridium<s n="n"/></l><r>iridio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>latifundium<s n="n"/></l><r>latifondo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>linoleum<s n="n"/></l><r>linoleum<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>lithium<s n="n"/></l><r>litio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>lutetium<s n="n"/></l><r>lutezio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>magnesium<s n="n"/></l><r>magnesio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>meconium<s n="n"/></l><r>meconio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>mendelevium<s n="n"/></l><r>mendelevio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>neodymium<s n="n"/></l><r>neodimio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>neptunium<s n="n"/></l><r>nettunio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>niobium<s n="n"/></l><r>niobio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>nobelium<s n="n"/></l><r>nobelio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>osmium<s n="n"/></l><r>osmio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>palladium<s n="n"/></l><r>palladio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>pericardium<s n="n"/></l><r>pericardio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>perichondrium<s n="n"/></l><r>pericondrio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>pericranium<s n="n"/></l><r>periostio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>peritoneum<s n="n"/></l><r>peritoneo<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>plasmodium<s n="n"/></l><r>plasmodium<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>plectrum<s n="n"/></l><r>plettro<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>plutonium<s n="n"/></l><r>plutonio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>podium<s n="n"/></l><r>podio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>praseodymium<s n="n"/></l><r>praseodimio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>propylaeum<s n="n"/></l><r>propilei<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>pseudopodium<s n="n"/></l><r>pseudopodo<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>pseudopodium<s n="n"/></l><r>pseudopodio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>quantum<s n="n"/></l><r>quanto<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>quorum<s n="n"/></l><r>quorum<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>rhenium<s n="n"/></l><r>renio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>rubidium<s n="n"/></l><r>rubidio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>rum<s n="n"/></l><r>rum<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>ruthenium<s n="n"/></l><r>rutenio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>samarium<s n="n"/></l><r>samario<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>scrotum<s n="n"/></l><r>scroto<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>selenium<s n="n"/></l><r>selenio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>sporangium<s n="n"/></l><r>sporangio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>sternum<s n="n"/></l><r>sterno<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>strontium<s n="n"/></l><r>stronzio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>tantalum<s n="n"/></l><r>tantalio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>tellurium<s n="n"/></l><r>tellurio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>terbium<s n="n"/></l><r>terbio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>thorium<s n="n"/></l><r>torio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>thulium<s n="n"/></l><r>tulio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>titanium<s n="n"/></l><r>titanio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>tritium<s n="n"/></l><r>trizio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>trivium<s n="n"/></l><r>trivium<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>vanadium<s n="n"/></l><r>vanadio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>yttrium<s n="n"/></l><r>ittrio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>zirconium<s n="n"/></l><r>zirconio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>americium<s n="n"/></l><r>americio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>calcium<s n="n"/></l><r>calcio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>curium<s n="n"/></l><r>curio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>einsteinium<s n="n"/></l><r>einsteinio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>molybdenum<s n="n"/></l><r>molibdeno<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>roentgenium<s n="n"/></l><r>roentgenio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e r="LR"><p><l>gypsum<s n="n"/></l><r>gesso<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>chalk<s n="n"/></l><r>gesso<s n="n"/><s n="m"/></r></p></e>
   </section>
 </dictionary>
