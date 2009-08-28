@@ -6671,17 +6671,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-3
-    -->
-    <e>
-      <p>
-        <l>above<b/>all<s n="adv"/></l> 
-        <r>soprattutto<s n="adv"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-1
     -->
     <e>
@@ -7206,6 +7195,7 @@
         <l>accountancy<s n="n"/></l> 
         <r>contabilità<s n="n"/><s n="f"/></r> 
       </p>
+      <par n="SP"/>
     </e>
     <e>
       <p>
@@ -12345,7 +12335,7 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e r="LR" slr="accordo">
+    <e r="LR" slr="accordo D">
       <p>
         <l>arrangement<s n="n"/></l> 
         <r>accordo<s n="n"/><s n="m"/></r> 
@@ -34014,7 +34004,7 @@
     -->
     <e>
       <p>
-        <l>entirely<s n="adv"/></l> 
+        <l>completely<s n="adv"/></l> 
         <r>completamente<s n="adv"/></r> 
       </p>
     </e>
@@ -34023,7 +34013,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>entirely<s n="adv"/></l> 
         <r>per<b/>intero<s n="adv"/></r> 
@@ -34377,7 +34367,7 @@
     -->
     <e>
       <p>
-        <l>especially<s n="adv"/></l> 
+        <l>above<b/>all<s n="adv"/></l> 
         <r>soprattutto<s n="adv"/></r> 
       </p>
     </e>
@@ -60080,7 +60070,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>of<b/>course<s n="adv"/></l> 
         <r>naturalmente<s n="adv"/></r> 
@@ -60089,20 +60079,9 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-3
-    -->
-    <e>
-      <p>
-        <l>of<b/>course<s n="adv"/></l> 
-        <r>ovviamente<s n="adv"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-4
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>of<b/>note<s n="adj"/></l> 
         <r>importante<s n="adj"/><s n="mf"/></r> 
@@ -63545,21 +63524,10 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e r="RL">
-      <p>
-        <l>percent<s n="adv"/></l> 
-        <r>per<b/>cento<s n="adv"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-3
-    -->
     <e>
       <p>
         <l>percent<s n="adv"/></l> 
-        <r>percento<s n="adv"/></r> 
+        <r>per<b/>cento<s n="adv"/></r> 
       </p>
     </e>
 
@@ -69947,7 +69915,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>readily<s n="adv"/></l> 
         <r>facilmente<s n="adv"/></r> 
@@ -70196,7 +70164,7 @@
     -->
     <e>
       <p>
-        <l>recently<s n="adv"/></l> 
+        <l>of<b/>late<s n="adv"/></l> 
         <r>di<b/>recente<s n="adv"/></r> 
       </p>
     </e>
@@ -92166,7 +92134,7 @@
     <e><p><l>passively<s n="adv"/></l><r>passivamente<s n="adv"/></r></p></e>
     <e><p><l>perennially<s n="adv"/></l><r>perennemente<s n="adv"/></r></p></e>
     <e><p><l>heavily<s n="adv"/></l><r>pesantemente<s n="adv"/></r></p></e>
-    <e><p><l>purely<s n="adv"/></l><r>prettamente<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>purely<s n="adv"/></l><r>prettamente<s n="adv"/></r></p></e>
     <e><p><l>primarily<s n="adv"/></l><r>primariamente<s n="adv"/></r></p></e>
     <e><p><l>proportionally<s n="adv"/></l><r>proporzionalmente<s n="adv"/></r></p></e>
     <e><p><l>qualitatively<s n="adv"/></l><r>qualitativamente<s n="adv"/></r></p></e>
@@ -101954,7 +101922,7 @@
     <e slr="sistemazione"><p><l>arrangement<s n="n"/></l><r>sistemazione<s n="n"/><s n="f"/></r></p></e>
     <e slr="arrangiamento"><p><l>arrangement<s n="n"/></l><r>arrangiamento<s n="n"/><s n="m"/></r></p></e>
     <e slr="composizione" srl="arrangement"><p><l>arrangement<s n="n"/></l><r>composizione<s n="n"/><s n="f"/></r></p></e>
-    <e srl="composition D"><p><l>composition<s n="n"/></l><r>compsizione<s n="n"/><s n="f"/></r></p></e>
+    <e srl="composition D"><p><l>composition<s n="n"/></l><r>composizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>road<b/>sign<s n="n"/></l><r>segnale<b/>stradale<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>road<b/>sign<s n="n"/></l><r>segnalazione<b/>stradale<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reworking<s n="n"/></l><r>rielaborazione<s n="n"/><s n="f"/></r></p></e>
@@ -103749,14 +103717,14 @@
     <e><p><l>at<b/>length<s n="adv"/></l><r>largamente<s n="adv"/></r></p></e>
     <e><p><l>manually<s n="adv"/></l><r>manualmente<s n="adv"/></r></p></e>
     <e><p><l>definitely<s n="adv"/></l><r>marcatamente<s n="adv"/></r></p></e>
-    <e><p><l>purely<s n="adv"/></l><r>meramente<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>purely<s n="adv"/></l><r>meramente<s n="adv"/></r></p></e>
     <e><p><l>cleanly<s n="adv"/></l><r>nettamente<s n="adv"/></r></p></e>
     <e><p><l>opportunely<s n="adv"/></l><r>opportunamente<s n="adv"/></r></p></e>
     <e r="RL"><p><l>obviously<s n="adv"/></l><r>palesemente<s n="adv"/></r></p></e>
     <e><p><l>preferentially<s n="adv"/></l><r>preferenzialmente<s n="adv"/></r></p></e>
     <e><p><l>beforehand<s n="adv"/></l><r>preventivamente<s n="adv"/></r></p></e>
     <e><p><l>readily<s n="adv"/></l><r>prontamente<s n="adv"/></r></p></e>
-    <e><p><l>firmly<s n="adv"/></l><r>saldamente<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>firmly<s n="adv"/></l><r>saldamente<s n="adv"/></r></p></e>
     <e r="RL"><p><l>occasionally<s n="adv"/></l><r>saltuariamente<s n="adv"/></r></p></e>
     <e><p><l>scarcely<s n="adv"/></l><r>scarsamente<s n="adv"/></r></p></e>
     <e><p><l>singularly<s n="adv"/></l><r>singolarmente<s n="adv"/></r></p></e>
