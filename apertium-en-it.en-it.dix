@@ -39434,7 +39434,7 @@
     -->
     <e>
       <p>
-        <l>freely<s n="adv"/></l> 
+        <l>liberally<s n="adv"/></l> 
         <r>liberamente<s n="adv"/></r> 
       </p>
     </e>
@@ -42855,7 +42855,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hardly<s n="adv"/></l> 
         <r>difficilmente<s n="adv"/></r> 
@@ -49884,9 +49884,15 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e c="MG: 'This is just what I need -> tb es pot traduir per 'just' la majoria de vegades'">
+    <e c="MG: 'This is just what I need -> tb es pot traduir per 'just' la majoria de vegades'" i="yes">
       <p>
         <l>just<s n="adv"/></l> 
+        <r>esattamente<s n="adv"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>exactly<s n="adv"/></l> 
         <r>esattamente<s n="adv"/></r> 
       </p>
     </e>
@@ -49895,7 +49901,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e c="MG: 'he was just leaving'">
+    <e c="MG: 'he was just leaving'" r="RL">
       <p>
         <l>just<s n="adv"/></l> 
         <r>appena<s n="adv"/></r> 
@@ -49906,7 +49912,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>just<s n="adv"/></l> 
         <r>soltanto<s n="adv"/></r> 
@@ -52898,7 +52904,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>longhand<s n="adv"/></l> 
         <r>a<b/>mano<s n="adv"/></r> 
@@ -54121,7 +54127,7 @@
     -->
     <e>
       <p>
-        <l>manually<s n="adv"/></l> 
+        <l>by<b/>hand<s n="adv"/></l> 
         <r>a<b/>mano<s n="adv"/></r> 
       </p>
     </e>
@@ -59896,7 +59902,7 @@
     -->
     <e>
       <p>
-        <l>obviously<s n="adv"/></l> 
+        <l>evidently<s n="adv"/></l> 
         <r>evidentemente<s n="adv"/></r> 
       </p>
     </e>
@@ -69261,17 +69267,6 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
-      <p>
-        <l>quietly<s n="adv"/></l> 
-        <r>giù<s n="adv"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-3
-    -->
     <e c="no preadverbi">
       <p>
         <l>quite<b/>a<b/>lot<s n="adv"/></l> 
@@ -73956,17 +73951,6 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-3
-    -->
-    <e>
-      <p>
-        <l>scarcely<s n="adv"/></l> 
-        <r>difficilmente<s n="adv"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-1
     -->
     <e>
@@ -74554,7 +74538,7 @@
     -->
     <e>
       <p>
-        <l>secretly<s n="adv"/></l> 
+        <l>in<b/>secret<s n="adv"/></l> 
         <r>in<b/>segreto<s n="adv"/></r> 
       </p>
     </e>
@@ -76340,7 +76324,7 @@
 	forced 'null' restriction
       default
     -->
-    <e c="per ara RL perquè s'equivoca molt amb la 'pr'">
+    <e c="per ara RL perquè s'equivoca molt amb la 'pr'" r="RL">
       <p>
         <l>since<s n="cnjadv"/></l> 
         <r>giacché<s n="cnjadv"/></r> 
@@ -76989,7 +76973,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>slightly<s n="adv"/></l> 
         <r>leggermente<s n="adv"/></r> 
@@ -86575,7 +86559,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>under<b/>cover<s n="adv"/></l> 
         <r>in<b/>segreto<s n="adv"/></r> 
@@ -92020,7 +92004,7 @@
     <e><p><l>afloat<s n="adv"/></l><r>a<b/>galla<s n="adv"/></r></p></e>
     <e><p><l>unless<s n="cnjadv"/></l><r>a<b/>meno<b/>che<s n="adv"/></r></p></e>
     <e><p><l>to<b/>death<s n="adv"/></l><r>a<b/>morte<s n="adv"/></r></p></e>
-    <e><p><l>in<b/>this<b/>regard<s n="adv"/></l><r>a<b/>tal<b/>proposito<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>in<b/>this<b/>regard<s n="adv"/></l><r>a<b/>tal<b/>proposito<s n="adv"/></r></p></e>
     <e><p><l>in<b/>this<b/>regard<s n="adv"/></l><r>a<b/>tal<b/>riguardo<s n="adv"/></r></p></e>
     <e><p><l>sometimes<s n="adv"/></l><r>qualche<b/>volta<s n="adv"/></r></p></e>
     <e><p><l>acoustically<s n="adv"/></l><r>acusticamente<s n="adv"/></r></p></e>
@@ -92053,8 +92037,8 @@
     <e><p><l>until<b/>then<s n="adv"/></l><r>fino<b/>ad<b/>allora<s n="adv"/></r></p></e>
     <e><p><l>from<b/>about<s n="adv"/></l><r>da<b/>circa<s n="adv"/></r></p></e>
     <e><p><l>for<b/>a<b/>long<b/>time<s n="adv"/></l><r>da<b/>molto<b/>tempo<s n="adv"/></r></p></e>
-    <e><p><l>since<s n="adv"/></l><r>da<b/>quando<s n="adv"/></r></p></e>
-    <e><p><l>since<s n="adv"/></l><r>dal<b/>momento<b/>che<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>since<s n="adv"/></l><r>da<b/>quando<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>since<s n="adv"/></l><r>dal<b/>momento<b/>che<s n="adv"/></r></p></e>
     <e><p><l>on<b/>the<b/>other<b/>hand<s n="adv"/></l><r>dall'altro<b/>lato<s n="adv"/></r></p></e>
     <e><p><l>this<b/>morning<s n="adv"/></l><r>questa<b/>mattina<s n="adv"/></r></p></e>
     <e><p><l>from<b/>time<b/>to<b/>time<s n="adv"/></l><r>di<b/>tanto<b/>in<b/>quando<s n="adv"/></r></p></e>
@@ -93270,7 +93254,7 @@
 <e><p><l>Úbeda<s n="np"/><s n="loc"/></l><r>Úbeda<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>New<b/>York<s n="np"/><s n="loc"/></l><r>New<b/>York<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Villafranca<b/>del<b/>Cid<s n="np"/><s n="loc"/></l><r>Villafranca<b/>del<b/>Cid<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
-    <e r"RL"><p><l>happen<s n="vblex"/></l><r>sopravvenire<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>happen<s n="vblex"/></l><r>sopravvenire<s n="vblex"/></r></p></e>
     <e><p><l>support<s n="vblex"/></l><r>sopportare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>speed<g><b/>up</g><s n="vblex"/></l><r>sollecitare<s n="vblex"/></r></p></e>
 
@@ -103743,5 +103727,74 @@
     <e r="LR" c="traducció buida"><p><l>do<s n="vbdo"/><s n="past"/></l><r></r></p></e>
     <e>  <p><l>can<s n="vaux"/></l><r>potere<s n="vbmod"/></r></p></e>
 
+    <e><p><l>abroad<s n="adv"/></l><r>all'estero<s n="adv"/></r></p></e>
+    <e><p><l>high<b/>and<b/>low<s n="adv"/></l><r>alti<b/>e<b/>bassi<s n="adv"/></r></p></e>
+    <e><p><l>from<b/>abroad<s n="adv"/></l><r>dall'estero<s n="adv"/></r></p></e>
+    <e><p><l>sweetly<s n="adv"/></l><r>dolcemente<s n="adv"/></r></p></e>
+    <e><p><l>hardly<s n="adv"/></l><r>duramente<s n="adv"/></r></p></e>
+    <e><p><l>etc<s n="adv"/></l><r>etc<s n="adv"/></r></p></e>
+    <e><p><l>etcetera<s n="adv"/></l><r>eccetera<s n="adv"/></r></p></e>
+    <e><p><l>favourably<s n="adv"/></l><r>favorevolmente<s n="adv"/></r></p></e>
+    <e><p><l>forcedly<s n="adv"/></l><r>forzosamente<s n="adv"/></r></p></e>
+    <e><p><l>juridically<s n="adv"/></l><r>giuridicamente<s n="adv"/></r></p></e>
+    <e><p><l>just<s n="adv"/></l><r>giusto<s n="adv"/></r></p></e>
+    <e><p><l>gratefully<s n="adv"/></l><r>gratamente<s n="adv"/></r></p></e>
+    <e><p><l>freely<s n="adv"/></l><r>gratuitamente<s n="adv"/></r></p></e>
+    <e><p><l>in<b/>absolute<s n="adv"/></l><r>in<b/>assoluto<s n="adv"/></r></p></e>
+    <e><p><l>in<b/>consequence<s n="adv"/></l><r>in<b/>conseguenza<s n="adv"/></r></p></e>
+    <e><p><l>in<b/>difficulty<s n="adv"/></l><r>in<b/>difficoltà<s n="adv"/></r></p></e>
+    <e><p><l>in<b/>a<b/>clear<b/>way<s n="adv"/></l><r>in<b/>maniera<b/>chiara<s n="adv"/></r></p></e>
+    <e><p><l>integrally<s n="adv"/></l><r>integralmente<s n="adv"/></r></p></e>
+    <e><p><l>slightly<s n="adv"/></l><r>lievemente<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>average<s n="adv"/></l><r>mediamente<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>line<s n="adv"/></l><r>on<b/>line<s n="adv"/></r></p></e>
+    <e><p><l>per<b/>minute<s n="adv"/></l><r>per<b/>minuto<s n="adv"/></r></p></e>
+    <e><p><l>per<b/>night<s n="adv"/></l><r>per<b/>notte<s n="adv"/></r></p></e>
+    <e><p><l>more<b/>exactly<s n="adv"/></l><r>più<b/>esattamente<s n="adv"/></r></p></e>
+    <e><p><l>poorly<s n="adv"/></l><r>poveramente<s n="adv"/></r></p></e>
+    <e><p><l>previously<s n="adv"/></l><r>precedentemente<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>average<s n="adv"/></l><r>mediamente<s n="adv"/></r></p></e>
+    <e><p><l>reciprocally<s n="adv"/></l><r>reciprocamente<s n="adv"/></r></p></e>
+    <e><p><l>unpleasantly<s n="adv"/></l><r>sgradevolmente<s n="adv"/></r></p></e>
+    <e><p><l>this<b/>morning<s n="adv"/></l><r>stamane<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>this<b/>morning<s n="adv"/></l><r>stamattina<s n="adv"/></r></p></e>
+    <e><p><l>stoically<s n="adv"/></l><r>stoicamente<s n="adv"/></r></p></e>
+    <e><p><l>wonderfully<s n="adv"/></l><r>stupendamente<s n="adv"/></r></p></e>
+    <e><p><l>by<b/>telephone<s n="adv"/></l><r>telefonicamente<s n="adv"/></r></p></e>
+    <e><p><l>quietly<s n="adv"/></l><r>tranquillamente<s n="adv"/></r></p></e>
+    <e><p><l>analogously<s n="adv"/></l><r>analogamente<s n="adv"/></r></p></e>
+    <e><p><l>purposely<s n="adv"/></l><r>appositamente<s n="adv"/></r></p></e>
+    <e><p><l>harshly<s n="adv"/></l><r>aspramente<s n="adv"/></r></p></e>
+    <e><p><l>autonomously<s n="adv"/></l><r>autonomamente<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>completely<s n="adv"/></l><r>compiutamente<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>on<b/>the<b/>whole<s n="adv"/></l><r>complessivamente<s n="adv"/></r></p></e>
+    <e><p><l>fluently<s n="adv"/></l><r>correntemente<s n="adv"/></r></p></e>
+    <e><p><l>weakly<s n="adv"/></l><r>debolmente<s n="adv"/></r></p></e>
+    <e><p><l>decidedly<s n="adv"/></l><r>decisamente<s n="adv"/></r></p></e>
+    <e><p><l>in<b/>detail<s n="adv"/></l><r>dettagliatamente<s n="adv"/></r></p></e>
+    <e><p><l>differently<s n="adv"/></l><r>diversamente<s n="adv"/></r></p></e>
+    <e><p><l>firmly<s n="adv"/></l><r>fermamente<s n="adv"/></r></p></e>
+    <e><p><l>entirely<s n="adv"/></l><r>interamente<s n="adv"/></r></p></e>
+    <e><p><l>uselessly<s n="adv"/></l><r>inutilmente<s n="adv"/></r></p></e>
+    <e><p><l>at<b/>length<s n="adv"/></l><r>largamente<s n="adv"/></r></p></e>
+    <e><p><l>manually<s n="adv"/></l><r>manualmente<s n="adv"/></r></p></e>
+    <e><p><l>definitely<s n="adv"/></l><r>marcatamente<s n="adv"/></r></p></e>
+    <e><p><l>purely<s n="adv"/></l><r>meramente<s n="adv"/></r></p></e>
+    <e><p><l>cleanly<s n="adv"/></l><r>nettamente<s n="adv"/></r></p></e>
+    <e><p><l>opportunely<s n="adv"/></l><r>opportunamente<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>obviously<s n="adv"/></l><r>palesemente<s n="adv"/></r></p></e>
+    <e><p><l>preferentially<s n="adv"/></l><r>preferenzialmente<s n="adv"/></r></p></e>
+    <e><p><l>beforehand<s n="adv"/></l><r>preventivamente<s n="adv"/></r></p></e>
+    <e><p><l>readily<s n="adv"/></l><r>prontamente<s n="adv"/></r></p></e>
+    <e><p><l>firmly<s n="adv"/></l><r>saldamente<s n="adv"/></r></p></e>
+    <e><p><l>occasionally<s n="adv"/></l><r>saltuariamente<s n="adv"/></r></p></e>
+    <e><p><l>scarcely<s n="adv"/></l><r>scarsamente<s n="adv"/></r></p></e>
+    <e><p><l>particularly<s n="adv"/></l><r>singolarmente<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>strongly<s n="adv"/></l><r>spiccatamente<s n="adv"/></r></p></e>
+    <e><p><l>unitarily<s n="adv"/></l><r>unitariamente<s n="adv"/></r></p></e>
+    <e><p><l>vaguely<s n="adv"/></l><r>vagamente<s n="adv"/></r></p></e>
+    <e><p><l>variedly<s n="adv"/></l><r>variamente<s n="adv"/></r></p></e>
+    <e><p><l>keenly<s n="adv"/></l><r>vivamente<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>intentionally<s n="adv"/></l><r>volutamente<s n="adv"/></r></p></e>
   </section>
 </dictionary>
