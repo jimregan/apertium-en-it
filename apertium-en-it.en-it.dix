@@ -6544,14 +6544,14 @@
 	forced 'LR' restriction
       ND2-2
     -->
-    <e r="LR">
+    <e>
       <p>
         <l>ability<s n="n"/></l> 
         <r>abilità<s n="n"/><s n="f"/></r> 
       </p>
       <par n="SP"/>
     </e>
-    <e r="LR">
+    <e>
       <p>
         <l>capacity<s n="n"/></l> 
         <r>capacità<s n="n"/><s n="f"/></r> 
@@ -14764,9 +14764,33 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
+    <e srl="bag D">
       <p>
         <l>bag<s n="n"/></l> 
+        <r>borsa<s n="n"/><s n="f"/></r> 
+      </p>
+    </e>
+    <e srl="stock market">
+      <p>
+        <l>stock<b/>market<s n="n"/></l> 
+        <r>borsa<s n="n"/><s n="f"/></r> 
+      </p>
+    </e>
+    <e srl="burse">
+      <p>
+        <l>burse<s n="n"/></l> 
+        <r>borsa<s n="n"/><s n="f"/></r> 
+      </p>
+    </e>
+    <e srl="pouch">
+      <p>
+        <l>pouch<s n="n"/></l> 
+        <r>borsa<s n="n"/><s n="f"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>handbag<s n="n"/></l> 
         <r>borsa<s n="n"/><s n="f"/></r> 
       </p>
     </e>
@@ -14777,7 +14801,7 @@
     -->
     <e>
       <p>
-        <l>bag<s n="n"/></l> 
+        <l>manbag<s n="n"/></l> 
         <r>borsello<s n="n"/><s n="m"/></r> 
       </p>
     </e>
@@ -19178,39 +19202,6 @@
       <p>
         <l>capable<s n="adj"/></l> 
         <r>capace<s n="adj"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'LR' restriction
-      ND2-2
-    -->
-    <e r="LR">
-      <p>
-        <l>capacity<s n="n"/><s n="sg"/></l> 
-        <r>capacità<s n="n"/><s n="f"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'LR' restriction
-      ND2-3
-    -->
-    <e r="LR">
-      <p>
-        <l>capacity<s n="n"/><s n="pl"/></l> 
-        <r>capacità<s n="n"/><s n="f"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'RL' restriction
-      ND2-1
-    -->
-    <e r="RL">
-      <p>
-        <l>capacity<s n="n"/><s n="ND"/></l> 
-        <r>capacità<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -26373,49 +26364,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'LR' restriction
-      ND2-2
-    -->
-    <e r="LR">
-      <p>
-        <l>craft<s n="n"/><s n="sg"/></l> 
-        <r>abilità<s n="n"/><s n="f"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'LR' restriction
-      ND2-3
-    -->
-    <e r="LR">
-      <p>
-        <l>craft<s n="n"/><s n="pl"/></l> 
-        <r>abilità<s n="n"/><s n="f"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'LR' restriction
-      ND2-2
-    -->
-    <e r="LR">
-      <p>
-        <l>craft<s n="n"/><s n="sg"/></l> 
-        <r>capacità<s n="n"/><s n="f"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'LR' restriction
-      ND2-3
-    -->
-    <e r="LR">
-      <p>
-        <l>craft<s n="n"/><s n="pl"/></l> 
-        <r>capacità<s n="n"/><s n="f"/><s n="sp"/></r> 
-      </p>
-    </e>
 
     <!-- 
 	forced 'null' restriction
@@ -76582,18 +76530,6 @@
         <r>sciatore<s n="n"/></r> 
       </p>
     </e>
-
-    <!-- 
-	forced 'RL' restriction
-      ND2-1
-    -->
-    <e r="RL">
-      <p>
-        <l>skill<s n="n"/><s n="ND"/></l> 
-        <r>abilità<s n="n"/><s n="f"/><s n="sp"/></r> 
-      </p>
-    </e>
-
     <!-- 
 	forced 'LR' restriction
       ND2-2
@@ -76613,39 +76549,6 @@
       <p>
         <l>skill<s n="n"/><s n="pl"/></l> 
         <r>abilità<s n="n"/><s n="f"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'RL' restriction
-      ND2-1
-    -->
-    <e r="RL">
-      <p>
-        <l>skill<s n="n"/><s n="ND"/></l> 
-        <r>capacità<s n="n"/><s n="f"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'LR' restriction
-      ND2-2
-    -->
-    <e r="LR">
-      <p>
-        <l>skill<s n="n"/><s n="sg"/></l> 
-        <r>capacità<s n="n"/><s n="f"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'LR' restriction
-      ND2-3
-    -->
-    <e r="LR">
-      <p>
-        <l>skill<s n="n"/><s n="pl"/></l> 
-        <r>capacità<s n="n"/><s n="f"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -96157,7 +96060,7 @@
     <e><i>Venerada<s n="np"/><s n="ant"/></i></e>
     <e><i>Veneranda<s n="np"/><s n="ant"/></i></e>
     <e><i>Ventura<s n="np"/><s n="ant"/></i></e>
-    <e><i>Venus<s n="np"/><s n="ant"/></i></e>
+    <e r="RL"><i>Venus<s n="np"/><s n="ant"/></i></e>
     <e><i>Vera<s n="np"/><s n="ant"/></i></e>
     <e><i>Verena<s n="np"/><s n="ant"/></i></e>
     <e><i>Verenice<s n="np"/><s n="ant"/></i></e>
@@ -99682,7 +99585,7 @@
     <e><i>Hermánn<s n="np"/><s n="ant"/></i></e>
     <e><i>Hermelindo<s n="np"/><s n="ant"/></i></e>
     <e><i>Hermenegildo<s n="np"/><s n="ant"/></i></e>
-    <e><i>Hermes<s n="np"/><s n="ant"/></i></e>
+    <e r="RL"><i>Hermes<s n="np"/><s n="ant"/></i></e>
     <e><i>Hermindo<s n="np"/><s n="ant"/></i></e>
     <e><i>Hermógenes<s n="np"/><s n="ant"/></i></e>
     <e><i>Hernaldo<s n="np"/><s n="ant"/></i></e>
@@ -102046,7 +101949,7 @@
     <e><p><l>distinguish<s n="vblex"/></l><r>distinguere<s n="vblex"/></r></p></e>
     <e><p><l>distort<s n="vblex"/></l><r>falsare<s n="vblex"/></r></p></e>
     <e><p><l>distract<s n="vblex"/></l><r>distrarre<s n="vblex"/></r></p></e>
-    <e><p><l>dissolve<s n="vblex"/></l><r>sciogliere<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>dissolve<s n="vblex"/></l><r>sciogliere<s n="vblex"/></r></p></e>
     <e><p><l>displace<s n="vblex"/></l><r>spostare<s n="vblex"/></r></p></e>
     <e><p><l>disturb<s n="vblex"/></l><r>disturbare<s n="vblex"/></r></p></e>
     <e><p><l>disseminate<s n="vblex"/></l><r>diffondere<s n="vblex"/></r></p></e>
@@ -102964,7 +102867,10 @@
     <e><p><l>puppet<s n="n"/></l><r>pupazzo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pentagram<s n="n"/></l><r>pentagramma<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pie<s n="n"/></l><r>pasticcio<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>bag<s n="n"/></l><r>sacca<s n="n"/><s n="f"/></r></p></e>
+    <e srl="bag D" r="RL"><p><l>bag<s n="n"/></l><r>sacca<s n="n"/><s n="f"/></r></p></e>
+    <e srl="inlet" r="RL"><p><l>inlet<s n="n"/></l><r>sacca<s n="n"/><s n="f"/></r></p></e>
+    <e srl="pocket" r="RL"><p><l>pocket<s n="n"/></l><r>sacca<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>inlet<s n="n"/></l><r>insenatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lightning<b/>conductor<s n="n"/></l><r>parafulmine<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>commentator<s n="n"/></l><r>commentatore<s n="n"/></r></p></e>
     <e r="LR"><p><l>commentator<s n="n"/></l><r>commentatore<s n="n"/><s n="GD"/></r></p></e>
@@ -103735,5 +103641,12 @@
     <e><p><l>variedly<s n="adv"/></l><r>variamente<s n="adv"/></r></p></e>
     <e><p><l>keenly<s n="adv"/></l><r>vivamente<s n="adv"/></r></p></e>
     <e r="RL"><p><l>intentionally<s n="adv"/></l><r>volutamente<s n="adv"/></r></p></e>
+<e slr="difendere D"><p><l>back<s n="vblex"/></l><r>difendere<s n="vblex"/></r></p></e>
+<e slr="appoggiare"><p><l>back<s n="vblex"/></l><r>appoggiare<s n="vblex"/></r></p></e>
+<e slr="puntare"><p><l>back<s n="vblex"/></l><r>puntare<s n="vblex"/></r></p></e>
+<e slr="scalciare D"><p><l>boot<s n="vblex"/></l><r>scalciare<s n="vblex"/></r></p></e>
+<e slr="lanciare"><p><l>back<s n="vblex"/></l><r>lanciare<s n="vblex"/></r></p></e>
+<e slr="annoiare D"><p><l>bore<s n="vblex"/></l><r>annoiare<s n="vblex"/></r></p></e>
+<e slr="forare"><p><l>bore<s n="vblex"/></l><r>forare<s n="vblex"/></r></p></e>
   </section>
 </dictionary>
