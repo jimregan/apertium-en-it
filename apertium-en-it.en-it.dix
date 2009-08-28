@@ -92114,8 +92114,12 @@
     <e><p><l>somewhere<s n="adv"/></l><r>in<b/>qualche<b/>luogo<s n="adv"/></r></p></e>
     <e><p><l>in<b/>question<s n="adv"/></l><r>in<b/>questione<s n="adv"/></r></p></e>
     <e><p><l>in<b/>this<b/>way<s n="adv"/></l><r>in<b/>questo<b/>modo<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>after<b/>this<b/>manner<s n="adv"/></l><r>in<b/>questo<b/>modo<s n="adv"/></r></p></e>
     <e><p><l>in<b/>all<b/>ways<s n="adv"/></l><r>in<b/>tutti<b/>i<b/>modi<s n="adv"/></r></p></e>
     <e><p><l>in<b/>last<b/>place<s n="adv"/></l><r>in<b/>ultimo<b/>luogo<s n="adv"/></r></p></e>
+    <e><p><l>after<b/>all<s n="adv"/></l><r>dopo<b/>totto<s n="adv"/></r></p></e>
+    <e><p><l>shortly<b/>after<s n="adv"/></l><r>poco<b/>dopo<s n="adv"/></r></p></e>
+    <e><p><l>God<b/>willing<s n="adv"/></l><r>a<b/>Dio<b/>piacendo<s n="adv"/></r></p></e>
     <e><p><l>unconditionally<s n="adv"/></l><r>incondizionalmente<s n="adv"/></r></p></e>
     <e><p><l>infinitely<s n="adv"/></l><r>infinitamente<s n="adv"/></r></p></e>
     <e><p><l>intensely<s n="adv"/></l><r>intensamente<s n="adv"/></r></p></e>
@@ -102745,9 +102749,9 @@
     <e><p><l>anticipation<s n="n"/></l><r>anticipo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>antipode<s n="n"/></l><r>antipode<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>contract<s n="n"/></l><r>appalto<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>appetiser<s n="n"/></l><r>aperitivo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>apéritif<s n="n"/></l><r>aperitivo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>gunpowder<s n="n"/></l><r>pulvere<g><b/>da<b/>sparo</g><s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>appetiser<s n="n"/></l><r>aperitivo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>apéritif<s n="n"/></l><r>aperitivo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>gunpowder<s n="n"/></l><r>polvere<g><b/>da<b/>sparo</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kite<s n="n"/></l><r>aquilone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>orange<s n="n"/></l><r>arancione<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>arbitration<s n="n"/></l><r>arbitrato<s n="n"/><s n="m"/></r></p></e>
@@ -103764,5 +103768,10 @@
 <e><p><l>chalk<s n="n"/></l><r>gesso<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>cashier<s n="n"/></l><r>cassiere<s n="n"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>cashier<s n="n"/></l><r>cassiere<s n="n"/></r></p></e>
+    <e r="LR" c="traducció buida"><p><l>do<s n="vbdo"/><s n="pres"/></l><r></r></p></e>
+    <e r="LR" c="traducció buida"><p><l>do<s n="vbdo"/><s n="pri"/><s n="p3"/><s n="sg"/></l><r></r></p></e>
+    <e r="LR" c="traducció buida"><p><l>do<s n="vbdo"/><s n="past"/></l><r></r></p></e>
+    <e>  <p><l>can<s n="vaux"/></l><r>potere<s n="vbmod"/></r></p></e>
+
   </section>
 </dictionary>
