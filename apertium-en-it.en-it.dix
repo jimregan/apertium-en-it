@@ -3560,7 +3560,7 @@
     <e>
       <p>
         <l>Latin<b/>America<s n="np"/><s n="loc"/></l> 
-        <r>America<b/>latina<s n="np"/><s n="loc"/><s n="f"/></r> 
+        <r>America<b/>latina<s n="np"/><s n="loc"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -3996,13 +3996,6 @@
       <p>
         <l>Maria<s n="np"/><s n="ant"/></l> 
         <r>Maria<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <e>
-      <p>
-        <l>Maria<s n="np"/></l> 
-        <r>Maria<s n="np"/></r> 
       </p>
     </e>
 
@@ -10812,7 +10805,7 @@
         <r>anniversario<g><b/>di<b/>matrimonio</g><s n="n"/><s n="m"/></r> 
       </p>
     </e>
-    <e r="LR">
+    <e r="RL">
       <p>
         <l>wedding<b/>anniversary<s n="n"/></l> 
         <r>anniversario<g><b/>di<b/>nozze</g><s n="n"/><s n="m"/></r> 
@@ -13668,10 +13661,10 @@
 	forced 'null' restriction
       ND-36
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>athlete<s n="n"/></l> 
-        <r>atleta<s n="n"/><s n="m"/></r> 
+        <r>atleta<s n="n"/><s n="GD"/></r> 
       </p>
     </e>
 
@@ -13679,10 +13672,10 @@
 	forced 'null' restriction
       ND-30
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>athlete<s n="n"/></l> 
-        <r>atleta<s n="n"/><s n="f"/></r> 
+        <r>atleta<s n="n"/></r> 
       </p>
     </e>
 
@@ -13696,7 +13689,39 @@
         <r>atletico<s n="adj"/></r> 
       </p>
     </e>
-
+    <e r="LR">
+      <p>
+        <l>Aramaic<s n="n"/></l> 
+        <r>aramaico<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+    <e r="RL">
+      <p>
+        <l>Aramaic<s n="n"/></l> 
+        <r>aramaico<s n="n"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>aramaic<s n="adj"/></l> 
+        <r>aramaico<s n="adj"/></r> 
+      </p>
+    </e>
+    <e><p><l>at<b/>arm's<b/>length<s n="adv"/></l><r>a<b/>distanza<s n="adv"/></r></p></e>
+    <e><p><l>at<b/>first<s n="adv"/></l><r>all'inizio<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>at<b/>first<s n="adv"/></l><r>dapprima<s n="adv"/></r></p></e>
+    <e><p><l>at<b/>a<b/>gallop<s n="adv"/></l><r>al<b/>galoppo<s n="adv"/></r></p></e>
+    <e><p><l>at<b/>most<s n="adv"/></l><r>al<b/>massimo<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>at<b/>the<b/>most<s n="adv"/></l><r>al<b/>massimo<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>at<b/>the<b/>very<b/>most<s n="adv"/></l><r>al<b/>massimo<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>at<b/>the<b/>maximum<s n="adv"/></l><r>al<b/>massimo<s n="adv"/></r></p></e>
+    <e><p><l>at<b/>the<b/>end<s n="adv"/></l><r>alla<b/>fine<s n="adv"/></r></p></e>
+    <e><p><l>at<b/>the<b/>beginning<s n="adv"/></l><r>inizialmente<s n="adv"/></r></p></e>
+    <e><p><l>at<b/>the<b/>drop<b/>of<b/>a<b/>hat<s n="adv"/></l><r>tra<b/>un<b/>minuto<s n="adv"/></r></p></e>
+    <e><p><l>at<b/>full<b/>speed<s n="adv"/></l><r>a<b/>massima<b/>velocità<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>tiptoe<s n="adv"/></l><r>in<b/>punta<b/>di<b/>piedi<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>no<b/>account<s n="adv"/></l><r>di<b/>nessuna<b/>importanza<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>the<b/>contrary<s n="adv"/></l><r>al<b/>contrario<s n="adv"/></r></p></e>
     <!-- 
 	forced 'null' restriction
       ND-5
@@ -27530,7 +27555,7 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>dance<s n="n"/></l> 
         <r>ballo<s n="n"/><s n="m"/></r> 
@@ -27563,7 +27588,7 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>dancing<s n="n"/></l> 
         <r>danza<s n="n"/><s n="f"/></r> 
@@ -28313,7 +28338,7 @@
     -->
     <e>
       <p>
-        <l>degree<s n="n"/></l> 
+        <l>title<s n="n"/></l> 
         <r>titolo<s n="n"/><s n="m"/></r> 
       </p>
     </e>
@@ -32889,7 +32914,7 @@
 	forced 'null' restriction
       ND-73
     -->
-    <e c="either... or... : o... o...">
+    <e c="either... or... : o... o..." r="LR">
       <p>
         <l>either<s n="cnjcoo"/></l> 
         <r>o<s n="cnjcoo"/></r> 
@@ -37417,17 +37442,6 @@
       <p>
         <l>fight<s n="n"/></l> 
         <r>lotta<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>fight<s n="vblex"/></l> 
-        <r>combattere<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -42920,7 +42934,7 @@
     -->
     <e>
       <p>
-        <l>harsh<s n="adj"/></l> 
+        <l>harsh<s n="adj"/><s n="sint"/></l> 
         <r>duro<s n="adj"/></r> 
       </p>
     </e>
@@ -43835,17 +43849,6 @@
       <p>
         <l>high<b/>court<s n="n"/><s n="ND"/></l> 
         <r>audience<s n="n"/><s n="f"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-0
-    -->
-    <e>
-      <p>
-        <l>high<b/>school<s n="n"/></l> 
-        <r>istituto<s n="n"/><s n="m"/></r> 
       </p>
     </e>
 
@@ -57502,7 +57505,7 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>mum<s n="n"/></l> 
         <r>mammella<s n="n"/><s n="f"/></r> 
@@ -58982,7 +58985,7 @@
 	forced 'null' restriction
       ND-73
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>nor<s n="cnjcoo"/></l> 
         <r>né<s n="cnjcoo"/></r> 
@@ -74956,17 +74959,6 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
-      <p>
-        <l>sentence<s n="n"/></l> 
-        <r>frase<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-1
-    -->
     <e c="Jur.">
       <p>
         <l>sentence<s n="n"/></l> 
@@ -80984,17 +80976,6 @@
       <p>
         <l>support<s n="n"/></l> 
         <r>appoggio<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-2
-    -->
-    <e>
-      <p>
-        <l>support<s n="vblex"/></l> 
-        <r>appoggiare<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -90477,10 +90458,10 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>wolf<s n="n"/></l> 
-        <r>lupo<s n="n"/><s n="m"/></r> 
+        <r>lupo<s n="n"/><s n="GD"/></r> 
       </p>
     </e>
 
@@ -90488,10 +90469,10 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>wolf<s n="n"/></l> 
-        <r>lupo<s n="n"/><s n="f"/></r> 
+        <r>lupo<s n="n"/></r> 
       </p>
     </e>
 
@@ -92950,7 +92931,7 @@
     <e><p><l>spit<s n="vblex"/></l><r>sputare<s n="vblex"/></r></p></e>
     <e><p><l>sterilise<s n="vblex"/></l><r>sterilizzare<s n="vblex"/></r></p></e>
     <e><p><l>estimate<s n="vblex"/></l><r>stimare<s n="vblex"/></r></p></e>
-    <e><p><l>happen<s n="vblex"/></l><r>succedere<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>happen<s n="vblex"/></l><r>succedere<s n="vblex"/></r></p></e>
     <e><p><l>arouse<s n="vblex"/></l><r>suscitare<s n="vblex"/></r></p></e>
     <e><p><l>test<s n="vblex"/></l><r>testare<s n="vblex"/></r></p></e>
     <e><p><l>toast<s n="vblex"/></l><r>tostare<s n="vblex"/></r></p></e>
@@ -93289,7 +93270,7 @@
 <e><p><l>Úbeda<s n="np"/><s n="loc"/></l><r>Úbeda<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>New<b/>York<s n="np"/><s n="loc"/></l><r>New<b/>York<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Villafranca<b/>del<b/>Cid<s n="np"/><s n="loc"/></l><r>Villafranca<b/>del<b/>Cid<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
-    <e><p><l>happen<s n="vblex"/></l><r>sopravvenire<s n="vblex"/></r></p></e>
+    <e r"RL"><p><l>happen<s n="vblex"/></l><r>sopravvenire<s n="vblex"/></r></p></e>
     <e><p><l>support<s n="vblex"/></l><r>sopportare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>speed<g><b/>up</g><s n="vblex"/></l><r>sollecitare<s n="vblex"/></r></p></e>
 
@@ -93637,7 +93618,7 @@
     <e><p><l>be<g><b/>equivalent</g><s n="vblex"/></l><r>equivalere<s n="vblex"/></r></p></e>
     <e><p><l>misunderstand<s n="vblex"/></l><r>equivocare<s n="vblex"/></r></p></e>
     <e><p><l>highlight<s n="vblex"/></l><r>evidenziare<s n="vblex"/></r></p></e>
-    <e><p><l>appear<s n="vblex"/></l><r>figurare<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>appear<s n="vblex"/></l><r>figurare<s n="vblex"/></r></p></e>
     <e><p><l>rule<s n="vblex"/></l><r>imperare<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>use<s n="vblex"/></l><r>impiegare<s n="vblex"/></r></p></e>
     <e><p><l>plagiarise<s n="vblex"/></l><r>plagiare<s n="vblex"/></r></p></e>
@@ -93646,10 +93627,10 @@
     <e><p><l>fight<s n="vblex"/></l><r>pugnare<s n="vblex"/></r></p></e>
     <e><p><l>regulate<s n="vblex"/></l><r>regolamentare<s n="vblex"/></r></p></e>
     <e><p><l>reinvest<s n="vblex"/></l><r>reinvestire<s n="vblex"/></r></p></e>
-    <e><p><l>return<s n="vblex"/></l><r>restituire<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>return<s n="vblex"/></l><r>restituire<s n="vblex"/></r></p></e>
     <e><p><l>reopen<s n="vblex"/></l><r>riaprire<s n="vblex"/></r></p></e>
     <e><p><l>summarise<s n="vblex"/></l><r>riassumere<s n="vblex"/></r></p></e>
-    <e><p><l>reward<s n="vblex"/></l><r>ricompensare<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>reward<s n="vblex"/></l><r>ricompensare<s n="vblex"/></r></p></e>
     <e><p><l>reconcile<s n="vblex"/></l><r>riconciliare<s n="vblex"/></r></p></e>
     <e><p><l>reorganise<s n="vblex"/></l><r>ridimensionare<s n="vblex"/></r></p></e>
     <e><p><l>bring<g><b/>back</g><s n="vblex"/></l><r>riportare<s n="vblex"/></r></p></e>
@@ -93659,7 +93640,7 @@
     <e><p><l>blackmail<s n="vblex"/></l><r>ricattare<s n="vblex"/></r></p></e>
     <e><p><l>reorient<s n="vblex"/></l><r>riorientare<s n="vblex"/></r></p></e>
     <e><p><l>stagnate<s n="vblex"/></l><r>ristagnare<s n="vblex"/></r></p></e>
-    <e><p><l>favour<s n="vblex"/></l><r>privilegiare<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>favour<s n="vblex"/></l><r>privilegiare<s n="vblex"/></r></p></e>
     <e><p><l>prevent<s n="vblex"/></l><r>prevenire<s n="vblex"/></r></p></e>
     <e><p><l>ponder<s n="vblex"/></l><r>ponderare<s n="vblex"/></r></p></e>
     <e><p><l>dismiss<s n="vblex"/></l><r>licenziare<s n="vblex"/></r></p></e>
@@ -103406,7 +103387,7 @@
 <e><p><l>animism<s n="n"/></l><r>animismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>anthropocentrism<s n="n"/></l><r>antropocentrismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>arabism<s n="n"/></l><r>arabismo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>panarabism<s n="n"/></l><r>panarabismo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>pan-Arabism<s n="n"/></l><r>panarabismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>asceticism<s n="n"/></l><r>ascetismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>astigmatism<s n="n"/></l><r>astigmatismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>atheism<s n="n"/></l><r>ateismo<s n="n"/><s n="m"/></r></p></e>
@@ -103498,6 +103479,7 @@
     <e><p><l>anger<s n="vblex"/></l><r>irritare<s n="vblex"/></r></p></e>
     <e><p><l>answer<s n="vblex"/></l><r>rispondere<s n="vblex"/></r></p></e>
     <e><p><l>approach<s n="vblex"/></l><r>avvicinare<s n="vblex"/></r></p></e>
+    <e><p><l>come<g><b/>close</g><s n="vblex"/></l><r>avvicinarsi<s n="vblex"/></r></p></e>
     <e><p><l>approximate<s n="vblex"/></l><r>approssimare<s n="vblex"/></r></p></e>
     <e><p><l>awake<s n="vblex"/></l><r>svegliare<s n="vblex"/></r></p></e>
     <e><p><l>baffle<s n="vblex"/></l><r>sconcertare<s n="vblex"/></r></p></e>
@@ -103563,7 +103545,6 @@
     <e><p><l>dishonour<s n="vblex"/></l><r>disonorare<s n="vblex"/></r></p></e>
     <e><p><l>disinfect<s n="vblex"/></l><r>disinfettare<s n="vblex"/></r></p></e>
     <e><p><l>disintegrate<s n="vblex"/></l><r>disintegrare<s n="vblex"/></r></p></e>
-    <e><p><l>dislike<s n="vblex"/></l><r>provare<g><b/>avversione</g><s n="vblex"/></r></p></e>
     <e><p><l>dismantle<s n="vblex"/></l><r>smontare<s n="vblex"/></r></p></e>
     <e><p><l>dispel<s n="vblex"/></l><r>dissipare<s n="vblex"/></r></p></e>
     <e><p><l>disperse<s n="vblex"/></l><r>disperdere<s n="vblex"/></r></p></e>

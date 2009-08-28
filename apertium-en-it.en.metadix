@@ -24913,6 +24913,7 @@
     <e lm="go down">      <i/>      <par n="/go__vblex"/>      <p>        <l><b/>down</l><r><g><b/>down</g></r></p></e>
     <e lm="be worth">      <i/>      <par n="/be__vblex"/>      <p>        <l><b/>worth</l><r><g><b/>worth</g></r></p></e>
     <e lm="be worthwhile"><i></i><par n="/be__vblex"/><p><l><b/>worthwhile</l><r><g><b/>worthwhile</g></r></p></e>
+    <e lm="be equivalent"><i></i><par n="/be__vblex"/><p><l><b/>equivalent</l><r><g><b/>equivalent</g></r></p></e>
     <e lm="be left">      <i/>      <par n="/be__vblex"/>      <p>        <l><b/>left</l><r><g><b/>left</g></r></p></e>
     <e lm="be missing">      <i/>      <par n="/be__vblex"/>      <p>        <l><b/>missing</l><r><g><b/>missing</g></r></p></e>
     <e lm="be a member of" r="RL">      <i/>      <par n="/be__vblex"/>      <p>        <l><b/>a<b/>member<b/>of</l><r><g><b/>a<b/>member<b/>of</g></r></p></e>
@@ -24947,6 +24948,7 @@
     <e lm="accomplish"><i>accomplish</i><par n="approach__vblex"/>    </e>
     <e lm="accredit"><i>accredit</i><par n="accept__vblex"/>    </e>
     <e lm="accumulate"><i>accumulat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="narrate"><i>narrat</i><par n="liv/e__vblex"/>    </e>
     <e lm="accuse"><i>accus</i><par n="liv/e__vblex"/>    </e>
     <e lm="accustom"><i>accustom</i><par n="accept__vblex"/>    </e>
     <e lm="achieve"><i>achiev</i><par n="liv/e__vblex"/>    </e>
@@ -25109,8 +25111,10 @@
     <e lm="tread"><i>tread</i><par n="accept__vblex"/>    </e>
     <e lm="crap"><i>crap</i><par n="step__vblex"/>    </e>
     <e lm="shit"><i>shit</i><par n="admit__vblex"/>    </e>
+    <e lm="spit"><i>spit</i><par n="admit__vblex"/>    </e>
     <e lm="wet"><i>wet</i><par n="admit__vblex"/>    </e>
     <e lm="assault"><i>assault</i><par n="accept__vblex"/>    </e>
+    <e lm="forward"><i>forward</i><par n="accept__vblex"/>    </e>
     <e lm="anticipate"><i>anticipat</i><par n="liv/e__vblex"/>    </e>
     <e lm="annihilate"><i>annihilat</i><par n="liv/e__vblex"/>    </e>
     <e lm="adulterate"><i>adulterat</i><par n="liv/e__vblex"/>    </e>
@@ -25129,9 +25133,21 @@
     <e lm="glorify"><i>glorif</i><par n="appl/y__vblex"/>    </e>
     <e lm="gratify"><i>gratif</i><par n="appl/y__vblex"/>    </e>
     <e lm="weave"><i>weav</i><par n="liv/e__vblex"/>    </e>
+    <e lm="participate"><i>participat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="perpetrate"><i>perpetrat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="procreate"><i>procreat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="procure"><i>procur</i><par n="liv/e__vblex"/>    </e>
     <e lm="verify"><i>verif</i><par n="appl/y__vblex"/>    </e>
     <e lm="transgress"><i>transgress</i><par n="accept__vblex"/>    </e>
+    <e lm="reinvest"><i>reinvest</i><par n="accept__vblex"/>    </e>
+    <e lm="repress"><i>repress</i><par n="accept__vblex"/>    </e>
+    <e lm="remain"><i>remain</i><par n="accept__vblex"/>    </e>
+    <e lm="ponder"><i>ponder</i><par n="accept__vblex"/>    </e>
+    <e lm="worsen"><i>worsen</i><par n="accept__vblex"/>    </e>
     <e lm="stigmatise"><i>stigmati</i><par n="organi/ze__vblex"/>    </e>
+    <e lm="summarise"><i>summari</i><par n="organi/ze__vblex"/>    </e>
+    <e lm="plagiarise"><i>plagiari</i><par n="organi/ze__vblex"/>    </e>
+    <e lm="modernise"><i>moderni</i><par n="organi/ze__vblex"/>    </e>
     <e lm="acclimatise"><i>acclimati</i><par n="organi/ze__vblex"/>    </e>
     <e lm="idealise"><i>ideali</i><par n="organi/ze__vblex"/>    </e>
     <e lm="idolise"><i>idoli</i><par n="organi/ze__vblex"/>    </e>
@@ -25184,6 +25200,8 @@
     <e lm="burgeon"><i>burgeon</i><par n="accept__vblex"/>    </e>
     <e lm="burn"><i>burn</i><par n="accept__vblex"/>    </e>
     <e r="LR" lm="burn"><i>burn</i><par n="deal__vblex"/>    </e>
+    <e lm="spoil"><i>spoil</i><par n="accept__vblex"/>    </e>
+    <e r="LR" lm="spoil"><i>spoil</i><par n="deal__vblex"/>    </e>
     <e lm="burst"><i>burst</i><par n="cost__vblex"/>    </e>
     <e lm="come out"><i>c</i><par n="bec/ome__vblex"/>      <p>        <l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="come"><i>c</i><par n="bec/ome__vblex"/>    </e>
@@ -26643,6 +26661,8 @@
     <e lm="overly"><i>overly</i><par n="very__preadv"/>    </e>
     <e lm="very"><i>very</i><par n="very__preadv"/>    </e>
     <e lm="God willing"><i>God<b/>willing</i><par n="maybe__adv"/>    </e>
+    <e lm="per day"><i>per<b/>day</i><par n="maybe__adv"/>    </e>
+    <e lm="popularly"><i>popularly</i><par n="maybe__adv"/>    </e>
     <e lm="a.m."><i>a.m.</i><par n="maybe__adv"/>    </e>
     <e lm="a bit"><i>a<b/>bit</i><par n="maybe__adv"/>    </e>
     <e lm="a little bit"><i>a<b/>little<b/>bit</i><par n="maybe__adv"/>    </e>
@@ -27949,6 +27969,7 @@
     <e lm="E.H. Sukarra"><i>E.H.<b/>Sukarra</i><par n="Linux__np"/>    </e>
     <e lm="breadwinner">	<i>breadwinner</i> 	<par n="house__n"/>      </e>
     <e lm="Jacobite">	  <i>Jacobite</i> 	  <par n="house__n"/> 	</e>
+    <e lm="appetiser">	  <i>appeti</i><par n="z_s"/><i>er</i> 	  <par n="house__n"/> 	</e>
     <e lm="solar cooker">	  <i>solar<b/>cooker</i> 	  <par n="house__n"/> 	</e>
     <e lm="stability">	  <i>stabilit</i> 	  <par n="bab/y__n"/> 	</e>
     <e lm="stock exchange">	  <i>stock<b/>exchange</i> 	  <par n="house__n"/> 	</e>
@@ -28525,6 +28546,7 @@
     <e lm="aquaculture"><i>aquaculture</i><par n="house__n"/>     </e>
     <e lm="aquarium"><i>aquarium</i><par n="house__n"/>     </e>
     <e lm="arabism"><i>arabism</i><par n="house__n"/>     </e>
+    <e lm="pan-Arabism"><i>pan-Arabism</i><par n="house__n"/>     </e>
     <e lm="arable"><i>arable</i><par n="expensive__adj"/>     </e>
     <e lm="arachnid"><i>arachnid</i><par n="house__n"/>     </e>
     <e lm="arachnoid"><i>arachnoid</i><par n="house__n"/>     </e>
@@ -33210,6 +33232,8 @@
     <e lm="Hebrew" r="LR" a="greenbreen"><i>Hebrew</i><par n="house__n"/></e>
     <e lm="Hebrew" r="RL" a="greenbreen"><p><l>Hebrew</l><r>hebrew</r></p><par n="house__n"/></e>
     <e lm="Hebrew" a="greenbreen"><p><l>Hebrew</l><r>hebrew</r></p><par n="expensive__adj"/></e>
+    <e lm="Hebraic"><p><l>Hebraic</l><r>hebraic</r></p><par n="expensive__adj"/></e>
+    <e lm="Aramaic"><p><l>Aramaic</l><r>aramaic</r></p><par n="expensive__adj"/></e>
     <e lm="Aramaic" a="greenbreen"><i>Aramaic</i><par n="house__n"/></e>
     <e lm="Phoenician" r="LR" a="greenbreen"><i>Phoenician</i><par n="house__n"/></e>
     <e lm="Phoenician" r="RL" a="greenbreen"><p><l>Phoenician</l><r>phoenician</r></p><par n="house__n"/></e>
