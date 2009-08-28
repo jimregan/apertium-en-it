@@ -7523,7 +7523,7 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e>
+    <e slr="atto D">
       <p>
         <l>act<s n="n"/></l> 
         <r>atto<s n="n"/><s n="m"/></r> 
@@ -7534,7 +7534,7 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e r="RL">
+    <e slr="legge">
       <p>
         <l>act<s n="n"/></l> 
         <r>legge<s n="n"/><s n="f"/></r> 
@@ -11605,7 +11605,7 @@
 	forced 'null' restriction
       ND-9
     -->
-    <e>
+    <e slr="appello D">
       <p>
         <l>appeal<s n="n"/></l> 
         <r>appello<s n="n"/><s n="m"/></r> 
@@ -11616,7 +11616,7 @@
 	forced 'null' restriction
       ND-10
     -->
-    <e>
+    <e slr="attrazione">
       <p>
         <l>appeal<s n="n"/></l> 
         <r>attrazione<s n="n"/><s n="f"/></r> 
@@ -12100,7 +12100,7 @@
 	forced 'null' restriction
       ND-1
     -->
-    <e>
+    <e r="LR" slr="discussione">
       <p>
         <l>argument<s n="n"/></l> 
         <r>discussione<s n="n"/><s n="f"/></r> 
@@ -12345,7 +12345,7 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e>
+    <e r="LR" slr="accordo">
       <p>
         <l>arrangement<s n="n"/></l> 
         <r>accordo<s n="n"/><s n="m"/></r> 
@@ -14829,7 +14829,7 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e>
+    <e slr="bilancio">
       <p>
         <l>balance<s n="n"/></l> 
         <r>bilancio<s n="n"/><s n="m"/></r> 
@@ -14842,7 +14842,7 @@
     -->
     <e>
       <p>
-        <l>balance<s n="n"/></l> 
+        <l>trade-off<s n="n"/></l> 
         <r>bilanciamento<s n="n"/><s n="m"/></r> 
       </p>
     </e>
@@ -14851,7 +14851,7 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e>
+    <e slr="equilibrio D">
       <p>
         <l>balance<s n="n"/></l> 
         <r>equilibrio<s n="n"/><s n="m"/></r> 
@@ -14862,7 +14862,7 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e>
+    <e slr="saldo">
       <p>
         <l>balance<s n="n"/></l> 
         <r>saldo<s n="n"/><s n="m"/></r> 
@@ -15093,10 +15093,16 @@
 	forced 'null' restriction
       ND-10
     -->
-    <e>
+    <e slr="banca D">
       <p>
         <l>bank<s n="n"/></l> 
         <r>banca<s n="n"/><s n="f"/></r> 
+      </p>
+    </e>
+    <e slr="sponda">
+      <p>
+        <l>bank<s n="n"/></l> 
+        <r>sponda<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -15118,7 +15124,7 @@
     <e r="RL">
       <p>
         <l>banker<s n="n"/></l> 
-        <r>banchiere<s n="n"/><s n="m"/></r> 
+        <r>banchiere<s n="n"/></r> 
       </p>
     </e>
 
@@ -101838,7 +101844,9 @@
     <e><p><l>approximation<s n="n"/></l><r>approssimazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>storage<s n="n"/></l><r>archiviazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>preface<s n="n"/></l><r>prefazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>argument<s n="n"/></l><r>argomentazione<s n="n"/><s n="f"/></r></p></e>
+    <e slr="argomento D"><p><l>argument<s n="n"/></l><r>argomento<s n="n"/><s n="m"/></r></p></e>
+    <e slr="ragionamento" r="LR"><p><l>argument<s n="n"/></l><r>ragionamento<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>argument<s n="n"/></l><r>argomentazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>harmonisation<s n="n"/></l><r>armonizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>articulation<s n="n"/></l><r>articolazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aspiration<s n="n"/></l><r>aspirazione<s n="n"/><s n="f"/></r></p></e>
@@ -101943,7 +101951,10 @@
     <e><p><l>awe<s n="n"/></l><r>soggezione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>solicitation<s n="n"/></l><r>sollecitazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>uprising<s n="n"/></l><r>sollevazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>arrangement<s n="n"/></l><r>sistemazione<s n="n"/><s n="f"/></r></p></e>
+    <e slr="sistemazione"><p><l>arrangement<s n="n"/></l><r>sistemazione<s n="n"/><s n="f"/></r></p></e>
+    <e slr="arrangiamento"><p><l>arrangement<s n="n"/></l><r>arrangiamento<s n="n"/><s n="m"/></r></p></e>
+    <e slr="composizione" srl="arrangement"><p><l>arrangement<s n="n"/></l><r>composizione<s n="n"/><s n="f"/></r></p></e>
+    <e srl="composition D"><p><l>composition<s n="n"/></l><r>compsizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>road<b/>sign<s n="n"/></l><r>segnale<b/>stradale<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>road<b/>sign<s n="n"/></l><r>segnalazione<b/>stradale<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reworking<s n="n"/></l><r>rielaborazione<s n="n"/><s n="f"/></r></p></e>
