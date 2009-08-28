@@ -13492,7 +13492,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>at<b/>least<s n="adv"/></l> 
         <r>al<b/>meno<s n="adv"/></r> 
@@ -13503,7 +13503,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>at<b/>least<s n="adv"/></l> 
         <r>quando<b/>meno<s n="adv"/></r> 
@@ -13514,7 +13514,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>at<b/>least<s n="adv"/></l> 
         <r>per<b/>lo<b/>meno<s n="adv"/></r> 
@@ -13525,7 +13525,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>at<b/>least<s n="adv"/></l> 
         <r>perlomeno<s n="adv"/></r> 
@@ -13536,7 +13536,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>at<b/>least<s n="adv"/></l> 
         <r>neppure<s n="adv"/></r> 
@@ -13624,7 +13624,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>at<b/>the<b/>same<b/>time<s n="adv"/></l> 
         <r>contemporaneamente<s n="adv"/></r> 
@@ -16072,7 +16072,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>below<s n="adv"/></l> 
         <r>sotto<s n="adv"/></r> 
@@ -16210,7 +16210,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>besides<s n="adv"/></l> 
         <r>in<b/>più<s n="adv"/></r> 
@@ -16221,7 +16221,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>besides<s n="adv"/></l> 
         <r>inoltre<s n="adv"/></r> 
@@ -19031,7 +19031,7 @@
     -->
     <e>
       <p>
-        <l>candid<s n="adj"/></l> 
+        <l>frank<s n="adj"/></l> 
         <r>franco<s n="adj"/></r> 
       </p>
     </e>
@@ -19955,7 +19955,7 @@
     -->
     <e>
       <p>
-        <l>categorically<s n="adv"/></l> 
+        <l>completely<s n="adv"/></l> 
         <r>completamente<s n="adv"/></r> 
       </p>
     </e>
@@ -23373,7 +23373,7 @@
     -->
     <e>
       <p>
-        <l>commonly<s n="adv"/></l> 
+        <l>generally<s n="adv"/></l> 
         <r>generalmente<s n="adv"/></r> 
       </p>
     </e>
@@ -23384,7 +23384,7 @@
     -->
     <e>
       <p>
-        <l>commonly<s n="adv"/></l> 
+        <l>popularly<s n="adv"/></l> 
         <r>popolarmente<s n="adv"/></r> 
       </p>
     </e>
@@ -27508,7 +27508,7 @@
 	forced 'null' restriction
       ND-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>daily<s n="adv"/></l> 
         <r>giornalmente<s n="adv"/></r> 
@@ -44482,7 +44482,7 @@
     -->
     <e>
       <p>
-        <l>honest<s n="adj"/></l> 
+        <l>sincere<s n="adj"/></l> 
         <r>sincero<s n="adj"/></r> 
       </p>
     </e>
@@ -57480,21 +57480,10 @@
 	forced 'null' restriction
       ND-4
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>multiple<s n="adj"/></l> 
         <r>molteplice<s n="adj"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-4
-    -->
-    <e>
-      <p>
-        <l>multiple<s n="adj"/></l> 
-        <r>multiplo<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -90125,7 +90114,7 @@
 	forced 'null' restriction
       ND2-4
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>wide<s n="adj"/><s n="sint"/></l> 
         <r>ampio<s n="adj"/></r> 
@@ -90257,7 +90246,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>win<s n="vblex"/></l> 
         <r>guadagnare<s n="vblex"/></r> 
@@ -92057,7 +92046,7 @@
     <e><p><l>ad-hoc<s n="adv"/></l><r>ad-hoc<s n="adv"/></r></p></e>
     <e><p><l>ad<b/>hoc<s n="adv"/></l><r>ad<b/>hoc<s n="adv"/></r></p></e>
     <e><p><l>anyway<s n="adv"/></l><r>ad<b/>ogni<b/>modo<s n="adv"/></r></p></e>
-    <e><p><l>daily<s n="adv"/></l><r>al<b/>giorno<s n="adv"/></r></p></e>
+    <e><p><l>per<b/>day<s n="adv"/></l><r>al<b/>giorno<s n="adv"/></r></p></e>
     <e><p><l>per<b/>month<s n="adv"/></l><r>al<b/>mese<s n="adv"/></r></p></e>
     <e><p><l>to<b/>English<s n="adv"/></l><r>all'inglese<s n="adv"/></r></p></e>
     <e><p><l>to<b/>Italian<s n="adv"/></l><r>all'italiana<s n="adv"/></r></p></e>
@@ -92076,7 +92065,7 @@
     <e><p><l>as<b/>if<s n="cnjadv"/></l><r>come<b/>se<s n="adv"/></r></p></e>
     <e><p><l>commonly<s n="adv"/></l><r>comunemente<s n="adv"/></r></p></e>
     <e><p><l>carefully<s n="adv"/></l><r>con<b/>cura<s n="adv"/></r></p></e>
-    <e><p><l>very<b/>carefully<s n="adv"/></l><r>con<b/>molta<b/>attenzione<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>very<b/>carefully<s n="adv"/></l><r>con<b/>molta<b/>attenzione<s n="adv"/></r></p></e>
     <e><p><l>very<b/>carefully<s n="adv"/></l><r>con<b/>molta<b/>cura<s n="adv"/></r></p></e>
     <e><p><l>with<b/>a<b/>bit<b/>of<b/>help<s n="adv"/></l><r>con<b/>un<b/>poco<b/>di<b/>aiuto<s n="adv"/></r></p></e>
     <e><p><l>against<b/>all<b/>logic<s n="adv"/></l><r>contro<b/>ogni<b/>logica<s n="adv"/></r></p></e>
@@ -92636,7 +92625,7 @@
     <e><p><l>segmentation<s n="n"/></l><r>segmentazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>secularisation<s n="n"/></l><r>secolarizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>secretion<s n="n"/></l><r>secrezione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>decomposition<s n="n"/></l><r>scomposizione<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>decomposition<s n="n"/></l><r>scomposizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>revitalisation<s n="n"/></l><r>rivitalizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Romanisation<s n="n"/></l><r>romanizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>resurrection<s n="n"/></l><r>risurrezione<s n="n"/><s n="f"/></r></p></e>
@@ -102563,7 +102552,7 @@
     <e><p><l>distributor<s n="adj"/></l><r>distributore<s n="adj"/></r></p></e>
     <e><p><l>popular<s n="adj"/></l><r>divulgativo<s n="adj"/></r></p></e>
     <e><p><l>hard<s n="adj"/><s n="sint"/></l><r>duro<s n="adj"/></r></p></e>
-    <e><p><l>Hebrew<s n="adj"/></l><r>ebraico<s n="adj"/></r></p></e>
+    <e><p><l>hebraic<s n="adj"/></l><r>ebraico<s n="adj"/></r></p></e>
     <e><p><l>eclectic<s n="adj"/></l><r>eclettico<s n="adj"/></r></p></e>
     <e><p><l>elected<s n="adj"/></l><r>eletto<s n="adj"/></r></p></e>
     <e><p><l>elevator<s n="adj"/></l><r>elevatore<s n="adj"/></r></p></e>
