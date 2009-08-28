@@ -10806,6 +10806,18 @@
         <r>anniversario<s n="n"/><s n="m"/></r> 
       </p>
     </e>
+    <e>
+      <p>
+        <l>wedding<b/>anniversary<s n="n"/></l> 
+        <r>anniversario<g><b/>di<b/>matrimonio</g><s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>wedding<b/>anniversary<s n="n"/></l> 
+        <r>anniversario<g><b/>di<b/>nozze</g><s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
 
     <!-- 
 	forced 'null' restriction
@@ -26172,7 +26184,13 @@
     -->
     <e>
       <p>
-        <l>couple<s n="n"/></l> 
+        <l>marriage<s n="n"/></l> 
+        <r>matrimonio<s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>matrimony<s n="n"/></l> 
         <r>matrimonio<s n="n"/><s n="m"/></r> 
       </p>
     </e>
@@ -26183,7 +26201,7 @@
     -->
     <e c="un par de">
       <p>
-        <l>couple<s n="n"/></l> 
+        <l>pair<s n="n"/><s n="sg"/></l> 
         <r>paio<s n="n"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
@@ -26194,7 +26212,7 @@
     -->
     <e c="un par de">
       <p>
-        <l>couple<s n="n"/></l> 
+        <l>pair<s n="n"/><s n="pl"/></l> 
         <r>paio<s n="n"/><s n="f"/><s n="pl"/></r> 
       </p>
     </e>
@@ -55270,6 +55288,18 @@
         <r>membro<s n="n"/><s n="m"/></r> 
       </p>
     </e>
+    <e>
+      <p>
+        <l>member<g><b/>of<b/>parliament</g><s n="n"/></l> 
+        <r>membro<g><b/>del<b/>parlamento</g><s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>member<g><b/>of<b/>the<b/>European<b/>Parliament</g><s n="n"/></l> 
+        <r>membro<g><b/>del<b/>Parlamento<b/>Europeo</g><s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
 
     <!-- 
 	forced 'null' restriction
@@ -60802,7 +60832,7 @@
 	forced 'null' restriction
       ND3-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>onto<s n="pr"/></l> 
         <r>a<s n="pr"/></r> 
@@ -62225,28 +62255,6 @@
       <p>
         <l>painting<s n="n"/></l> 
         <r>prodotto<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>pair<s n="n"/></l> 
-        <r>paio<s n="n"/><s n="m"/><s n="sg"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>pair<s n="n"/></l> 
-        <r>paio<s n="n"/><s n="f"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -75196,18 +75204,7 @@
 	forced 'null' restriction
       ND-39
     -->
-    <e>
-      <p>
-        <l>set<g><b/>up</g><s n="vblex"/><s n="sep"/></l> 
-        <r>installare<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-39
-    -->
-    <e>
+    <e r="LR">
       <p>
         <l>set<g><b/>up</g><s n="vblex"/><s n="sep"/></l> 
         <r>montare<s n="vblex"/></r> 
@@ -102749,7 +102746,8 @@
     <e><p><l>antipode<s n="n"/></l><r>antipode<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>contract<s n="n"/></l><r>appalto<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>appetiser<s n="n"/></l><r>aperitivo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>aperitif<s n="n"/></l><r>aperitivo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>apéritif<s n="n"/></l><r>aperitivo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>gunpowder<s n="n"/></l><r>pulvere<g><b/>da<b/>sparo</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kite<s n="n"/></l><r>aquilone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>orange<s n="n"/></l><r>arancione<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>arbitration<s n="n"/></l><r>arbitrato<s n="n"/><s n="m"/></r></p></e>
@@ -103669,7 +103667,7 @@
 <e><p><l>polonium<s n="n"/></l><r>polonio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
 <e><p><l>sanatorium<s n="n"/></l><r>sanatorio<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>summation<s n="n"/></l><r>sommatoria<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>crystalline<b/>alum<s n="n"/></l><r>allume<g><b/>di<b/>rocca</g><s n="n"/><s n="f"/></r></p></e>
+<e><p><l>crystalline<b/>alum<s n="n"/></l><r>allume<g><b/>di<b/>rocca</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>symposium<s n="n"/></l><r>simposio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>acetabulum<s n="n"/></l><r>cotile<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>actinium<s n="n"/></l><r>attinio<s n="n"/><s n="m"/></r></p></e>
