@@ -224,6 +224,8 @@
 ^.<sent>$ ^barocco<n><m><sg>$	. #Baroque\<n\>\<sg\>
 ^.<sent>$ ^battente<n><f><pl>$	. \@Battente\<n\>\<pl\>
 ^.<sent>$ ^battente<n><f><sg>$	. \@Battente\<n\>\<sg\>
+^.<sent>$ ^bilanciamento<n><m><pl>$	. #Trade-off\<n\>\<pl\>
+^.<sent>$ ^bilanciamento<n><m><sg>$	. #Trade-off\<n\>\<sg\>
 ^.<sent>$ ^blandimento<n><m><pl>$	. #Blandishments\<n\>\<pl\>
 ^.<sent>$ ^blandimento<n><m><sg>$	. #Blandishments\<n\>\<sg\>
 ^.<sent>$ ^blasone<n><m><pl>$	. #Blazon\<n\>\<pl\>
@@ -8933,12 +8935,11 @@
 ^.<sent>$ ^al vostro turno<adv>$	. \@Al vostro turno\<adv\>
 ^.<sent>$ ^all'alba<adv>$	. \@All'alba\<adv\>
 ^.<sent>$ ^all'anno<adv>$	. \@All'anno\<adv\>
-^.<sent>$ ^all'estero<adv>$	. \@All'estero\<adv\>
 ^.<sent>$ ^alla leggera<adv>$	. \@Alla leggera\<adv\>
 ^.<sent>$ ^alla schiena<adv>$	. \@Alla schiena\<adv\>
 ^.<sent>$ ^alla settimana<adv>$	. \@Alla settimana\<adv\>
 ^.<sent>$ ^alle spalle<adv>$	. \@Alle spalle\<adv\>
-^.<sent>$ ^alti e bassi<adv>$	. \@Alti e bassi\<adv\>
+^.<sent>$ ^alti e bassi<adv>$	. #High and low\<adv\>
 ^.<sent>$ ^altrove<adv>$	. \@Altrove\<adv\>
 ^.<sent>$ ^ancora più<adv>$	. \@Ancora più\<adv\>
 ^.<sent>$ ^avvisatamente<adv>$	. \@Avvisatamente\<adv\>
@@ -8959,7 +8960,7 @@
 ^.<sent>$ ^da questo lato<adv>$	. \@Da questo lato\<adv\>
 ^.<sent>$ ^da tempo<adv>$	. \@Da tempo\<adv\>
 ^.<sent>$ ^da morire<adv>$	. \@Da morire\<adv\>
-^.<sent>$ ^dall'estero<adv>$	. \@Dall'estero\<adv\>
+^.<sent>$ ^dall'estero<adv>$	. #From abroad\<adv\>
 ^.<sent>$ ^degnamente<adv>$	. \@Degnamente\<adv\>
 ^.<sent>$ ^deliberatamente<adv>$	. \@Deliberatamente\<adv\>
 ^.<sent>$ ^di altri tempi<adv>$	. \@Di altri tempi\<adv\>
@@ -8968,45 +8969,44 @@
 ^.<sent>$ ^di forza<adv>$	. \@Di forza\<adv\>
 ^.<sent>$ ^di prima classe<adv>$	. \@Di prima classe\<adv\>
 ^.<sent>$ ^di prima qualità<adv>$	. \@Di prima qualità\<adv\>
+^.<sent>$ ^di recente<adv>$	. #Of late\<adv\>
 ^.<sent>$ ^di seguito<adv>$	. \@Di seguito\<adv\>
-^.<sent>$ ^dolcemente<adv>$	. \@Dolcemente\<adv\>
+^.<sent>$ ^dolcemente<adv>$	. #Sweetly\<adv\>
 ^.<sent>$ ^dopo di ché<adv>$	. \@Dopo di ché\<adv\>
 ^.<sent>$ ^dopodiché<adv>$	. \@Dopodiché\<adv\>
-^.<sent>$ ^duramente<adv>$	. \@Duramente\<adv\>
 ^.<sent>$ ^etc<adv>$	. #Etc\<adv\>
-^.<sent>$ ^eccetera<adv>$	. \@Eccetera\<adv\>
+^.<sent>$ ^eccetera<adv>$	. #Etcetera\<adv\>
 ^.<sent>$ ^eventualmente<adv>$	. \@Eventualmente\<adv\>
-^.<sent>$ ^favorevolmente<adv>$	. \@Favorevolmente\<adv\>
-^.<sent>$ ^forzosamente<adv>$	. \@Forzosamente\<adv\>
+^.<sent>$ ^favorevolmente<adv>$	. #Favourably\<adv\>
+^.<sent>$ ^forzosamente<adv>$	. #Forcedly\<adv\>
 ^.<sent>$ ^frontalmente<adv>$	. \@Frontalmente\<adv\>
-^.<sent>$ ^giuridicamente<adv>$	. \@Giuridicamente\<adv\>
-^.<sent>$ ^giusto<adv>$	. \@Giusto\<adv\>
-^.<sent>$ ^gratamente<adv>$	. \@Gratamente\<adv\>
-^.<sent>$ ^gratuitamente<adv>$	. \@Gratuitamente\<adv\>
-^.<sent>$ ^in assoluto<adv>$	. \@In assoluto\<adv\>
+^.<sent>$ ^giuridicamente<adv>$	. #Juridically\<adv\>
+^.<sent>$ ^gratamente<adv>$	. #Gratefully\<adv\>
+^.<sent>$ ^in assoluto<adv>$	. #In absolute\<adv\>
 ^.<sent>$ ^a digiuno<adv>$	. \@A digiuno\<adv\>
 ^.<sent>$ ^in certa misura<adv>$	. \@In certa misura\<adv\>
-^.<sent>$ ^in conseguenza<adv>$	. \@In conseguenza\<adv\>
+^.<sent>$ ^in conseguenza<adv>$	. #In consequence\<adv\>
 ^.<sent>$ ^in contromano<adv>$	. \@In contromano\<adv\>
-^.<sent>$ ^in difficoltà<adv>$	. \@In difficoltà\<adv\>
+^.<sent>$ ^in difficoltà<adv>$	. #In difficulty\<adv\>
 ^.<sent>$ ^in esclusiva<adv>$	. \@In esclusiva\<adv\>
 ^.<sent>$ ^in filiera<adv>$	. \@In filiera\<adv\>
 ^.<sent>$ ^in interdizione<adv>$	. \@In interdizione\<adv\>
 ^.<sent>$ ^in Internet<adv>$	. \@In Internet\<adv\>
-^.<sent>$ ^in maniera chiara<adv>$	. \@In maniera chiara\<adv\>
+^.<sent>$ ^in maniera chiara<adv>$	. #In a clear way\<adv\>
 ^.<sent>$ ^in massa<adv>$	. \@In massa\<adv\>
 ^.<sent>$ ^nell'ultima parte<adv>$	. \@Nell'ultima parte\<adv\>
 ^.<sent>$ ^in croce<adv>$	. \@In croce\<adv\>
 ^.<sent>$ ^in quarto luogo<adv>$	. \@In quarto luogo\<adv\>
+^.<sent>$ ^in segreto<adv>$	. #In secret\<adv\>
 ^.<sent>$ ^in terzo luogo<adv>$	. \@In terzo luogo\<adv\>
 ^.<sent>$ ^ininterrottamente<adv>$	. \@Ininterrottamente\<adv\>
 ^.<sent>$ ^insieme<adv>$	. \@Insieme\<adv\>
 ^.<sent>$ ^intanto<adv>$	. \@Intanto\<adv\>
-^.<sent>$ ^integralmente<adv>$	. \@Integralmente\<adv\>
+^.<sent>$ ^integralmente<adv>$	. #Integrally\<adv\>
 ^.<sent>$ ^lamentabilmente<adv>$	. \@Lamentabilmente\<adv\>
-^.<sent>$ ^lievemente<adv>$	. \@Lievemente\<adv\>
+^.<sent>$ ^liberamente<adv>$	. #Liberally\<adv\>
 ^.<sent>$ ^maggiormente<adv>$	. \@Maggiormente\<adv\>
-^.<sent>$ ^mediamente<adv>$	. \@Mediamente\<adv\>
+^.<sent>$ ^mediamente<adv>$	. #On average\<adv\>
 ^.<sent>$ ^migliore<adv>$	. #Good
 ^.<sent>$ ^momento in cui<adv>$	. \@Momento in cui\<adv\>
 ^.<sent>$ ^nel mercato<adv>$	. \@Nel mercato\<adv\>
@@ -9015,7 +9015,7 @@
 ^.<sent>$ ^obbligatoriamente<adv>$	. \@Obbligatoriamente\<adv\>
 ^.<sent>$ ^occhio vigile<adv>$	. \@Occhio vigile\<adv\>
 ^.<sent>$ ^ogni primavera<adv>$	. \@Ogni primavera\<adv\>
-^.<sent>$ ^on line<adv>$	. \@On line\<adv\>
+^.<sent>$ ^on line<adv>$	. #On line\<adv\>
 ^.<sent>$ ^onoratamente<adv>$	. \@Onoratamente\<adv\>
 ^.<sent>$ ^ovunque<adv>$	. \@Ovunque\<adv\>
 ^.<sent>$ ^passeggiando<adv>$	. \@Passeggiando\<adv\>
@@ -9024,16 +9024,16 @@
 ^.<sent>$ ^per di là<adv>$	. \@Per di là\<adv\>
 ^.<sent>$ ^per di qui<adv>$	. \@Per di qui\<adv\>
 ^.<sent>$ ^per magia<adv>$	. \@Per magia\<adv\>
-^.<sent>$ ^per minuto<adv>$	. \@Per minuto\<adv\>
-^.<sent>$ ^per notte<adv>$	. \@Per notte\<adv\>
+^.<sent>$ ^per minuto<adv>$	. #Per minute\<adv\>
+^.<sent>$ ^per notte<adv>$	. #Per night\<adv\>
 ^.<sent>$ ^per scontato<adv>$	. \@Per scontato\<adv\>
 ^.<sent>$ ^per secondo<adv>$	. \@Per secondo\<adv\>
 ^.<sent>$ ^per sentito dire<adv>$	. \@Per sentito dire\<adv\>
+^.<sent>$ ^percento<adv>$	. \@Percento\<adv\>
 ^.<sent>$ ^più di<adv>$	. \@Più di\<adv\>
-^.<sent>$ ^più esattamente<adv>$	. \@Più esattamente\<adv\>
+^.<sent>$ ^più esattamente<adv>$	. #More exactly\<adv\>
 ^.<sent>$ ^poco a poco<adv>$	. \@Poco a poco\<adv\>
-^.<sent>$ ^poveramente<adv>$	. \@Poveramente\<adv\>
-^.<sent>$ ^precedentemente<adv>$	. \@Precedentemente\<adv\>
+^.<sent>$ ^poveramente<adv>$	. #Poorly\<adv\>
 ^.<sent>$ ^umanamente<adv>$	. \@Umanamente\<adv\>
 ^.<sent>$ ^giudiziariamente<adv>$	. \@Giudiziariamente\<adv\>
 ^.<sent>$ ^paulatinamente<adv>$	. \@Paulatinamente\<adv\>
@@ -9043,71 +9043,36 @@
 ^.<sent>$ ^può essere<adv>$	. #Can be\<adv\>
 ^.<sent>$ ^quando desidera<adv>$	. \@Quando desidera\<adv\>
 ^.<sent>$ ^quindi<adv>$	. \@Quindi\<adv\>
-^.<sent>$ ^mediamente<adv>$	. \@Mediamente\<adv\>
+^.<sent>$ ^mediamente<adv>$	. #On average\<adv\>
 ^.<sent>$ ^rare volte<adv>$	. \@Rare volte\<adv\>
-^.<sent>$ ^reciprocamente<adv>$	. \@Reciprocamente\<adv\>
 ^.<sent>$ ^rispetto a<adv>$	. \@Rispetto a\<adv\>
 ^.<sent>$ ^senza diritto d'appello<adv>$	. \@Senza diritto d'appello\<adv\>
 ^.<sent>$ ^senza fretta<adv>$	. \@Senza fretta\<adv\>
 ^.<sent>$ ^senza nessuna fretta<adv>$	. \@Senza nessuna fretta\<adv\>
-^.<sent>$ ^sgradevolmente<adv>$	. \@Sgradevolmente\<adv\>
 ^.<sent>$ ^sommamente<adv>$	. \@Sommamente\<adv\>
-^.<sent>$ ^stamane<adv>$	. \@Stamane\<adv\>
-^.<sent>$ ^stamattina<adv>$	. \@Stamattina\<adv\>
-^.<sent>$ ^stoicamente<adv>$	. \@Stoicamente\<adv\>
-^.<sent>$ ^stupendamente<adv>$	. \@Stupendamente\<adv\>
+^.<sent>$ ^stoicamente<adv>$	. #Stoically\<adv\>
 ^.<sent>$ ^su Internet<adv>$	. \@Su Internet\<adv\>
-^.<sent>$ ^telefonicamente<adv>$	. \@Telefonicamente\<adv\>
-^.<sent>$ ^tranquillamente<adv>$	. \@Tranquillamente\<adv\>
+^.<sent>$ ^telefonicamente<adv>$	. #By telephone\<adv\>
 ^.<sent>$ ^verace<adv>$	. \@Verace\<adv\>
 ^.<sent>$ ^oltre<adv>$	. \@Oltre\<adv\>
-^.<sent>$ ^analogamente<adv>$	. \@Analogamente\<adv\>
-^.<sent>$ ^appositamente<adv>$	. \@Appositamente\<adv\>
-^.<sent>$ ^aspramente<adv>$	. \@Aspramente\<adv\>
-^.<sent>$ ^autonomamente<adv>$	. \@Autonomamente\<adv\>
+^.<sent>$ ^analogamente<adv>$	. #Analogously\<adv\>
 ^.<sent>$ ^certosinamente<adv>$	. \@Certosinamente\<adv\>
-^.<sent>$ ^compiutamente<adv>$	. \@Compiutamente\<adv\>
-^.<sent>$ ^complessivamente<adv>$	. \@Complessivamente\<adv\>
-^.<sent>$ ^correntemente<adv>$	. \@Correntemente\<adv\>
-^.<sent>$ ^debolmente<adv>$	. \@Debolmente\<adv\>
-^.<sent>$ ^decisamente<adv>$	. \@Decisamente\<adv\>
-^.<sent>$ ^dettagliatamente<adv>$	. \@Dettagliatamente\<adv\>
-^.<sent>$ ^diversamente<adv>$	. \@Diversamente\<adv\>
+^.<sent>$ ^decisamente<adv>$	. #Decidedly\<adv\>
+^.<sent>$ ^dettagliatamente<adv>$	. #In detail\<adv\>
 ^.<sent>$ ^equamente <adv>$	. \@Equamente \<adv\>
-^.<sent>$ ^fermamente<adv>$	. \@Fermamente\<adv\>
 ^.<sent>$ ^finemente<adv>$	. \@Finemente\<adv\>
 ^.<sent>$ ^genericamente<adv>$	. \@Genericamente\<adv\>
 ^.<sent>$ ^grandemente<adv>$	. \@Grandemente\<adv\>
 ^.<sent>$ ^gravitazionalmente<adv>$	. \@Gravitazionalmente\<adv\>
-^.<sent>$ ^interamente<adv>$	. \@Interamente\<adv\>
-^.<sent>$ ^inutilmente<adv>$	. \@Inutilmente\<adv\>
-^.<sent>$ ^largamente<adv>$	. \@Largamente\<adv\>
 ^.<sent>$ ^lungamente<adv>$	. \@Lungamente\<adv\>
-^.<sent>$ ^manualmente<adv>$	. \@Manualmente\<adv\>
-^.<sent>$ ^marcatamente<adv>$	. \@Marcatamente\<adv\>
-^.<sent>$ ^meramente<adv>$	. \@Meramente\<adv\>
-^.<sent>$ ^nettamente<adv>$	. \@Nettamente\<adv\>
-^.<sent>$ ^opportunamente<adv>$	. \@Opportunamente\<adv\>
-^.<sent>$ ^palesemente<adv>$	. \@Palesemente\<adv\>
+^.<sent>$ ^opportunamente<adv>$	. #Opportunely\<adv\>
 ^.<sent>$ ^parallelamente<adv>$	. \@Parallelamente\<adv\>
 ^.<sent>$ ^precocemente<adv>$	. \@Precocemente\<adv\>
-^.<sent>$ ^preferenzialmente<adv>$	. \@Preferenzialmente\<adv\>
+^.<sent>$ ^preferenzialmente<adv>$	. #Preferentially\<adv\>
 ^.<sent>$ ^prevalentemente<adv>$	. \@Prevalentemente\<adv\>
-^.<sent>$ ^preventivamente<adv>$	. \@Preventivamente\<adv\>
-^.<sent>$ ^prontamente<adv>$	. \@Prontamente\<adv\>
-^.<sent>$ ^saldamente<adv>$	. \@Saldamente\<adv\>
-^.<sent>$ ^saltuariamente<adv>$	. \@Saltuariamente\<adv\>
-^.<sent>$ ^scarsamente<adv>$	. \@Scarsamente\<adv\>
-^.<sent>$ ^singolarmente<adv>$	. \@Singolarmente\<adv\>
-^.<sent>$ ^spiccatamente<adv>$	. \@Spiccatamente\<adv\>
 ^.<sent>$ ^tendenzialmente<adv>$	. \@Tendenzialmente\<adv\>
 ^.<sent>$ ^unitamente<adv>$	. \@Unitamente\<adv\>
-^.<sent>$ ^unitariamente<adv>$	. \@Unitariamente\<adv\>
 ^.<sent>$ ^univocamente<adv>$	. \@Univocamente\<adv\>
-^.<sent>$ ^vagamente<adv>$	. \@Vagamente\<adv\>
-^.<sent>$ ^variamente<adv>$	. \@Variamente\<adv\>
-^.<sent>$ ^vivamente<adv>$	. \@Vivamente\<adv\>
-^.<sent>$ ^volutamente<adv>$	. \@Volutamente\<adv\>
 ^.<sent>$ ^pasta cresciuta<n><f><sg>$	. #Batter\<n\>\<sg\>
 ^.<sent>$ ^pasta cresciuta<n><f><pl>$	. #Batter\<n\>\<pl\>
 ^.<sent>$ ^pastsciutta<n><f><pl>$	. \@Pastsciutta\<n\>\<pl\>
