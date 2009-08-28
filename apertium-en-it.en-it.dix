@@ -10817,11 +10817,10 @@
 <e><p><l>yours<s n="adj"/></l><r>vostro<s n="adj"/></r></p></e>
 <e><p><l>yugoslav<s n="adj"/></l><r>iugoslavo<s n="adj"/></r></p></e>
 <e><p><l>have<s n="vbhaver"/></l><r>avere<s n="vbhaver"/></r></p></e>
-<e><p><l>have<s n="vbhaver"/></l><r>avere<s n="vbhaver"/></r></p></e>
 <e><p><l>have<g><b/>to</g><s n="vbmod"/></l><r>dovere<s n="vbmod"/></r></p></e>
 <e><p><l>want<g><b/>to</g><s n="vbmod"/></l><r>volere<s n="vbmod"/></r></p></e>
 <e><p><l>abandon<s n="vblex"/></l><r>abbandonare<s n="vblex"/></r></p></e>
-<e><p><l>abandon<s n="vblex"/></l><r>lasciare<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>abandon<s n="vblex"/></l><r>lasciare<s n="vblex"/></r></p></e>
 <e><p><l>abash<s n="vblex"/></l><r>sconcertare<s n="vblex"/></r></p></e>
 <e><p><l>abbreviate<s n="vblex"/></l><r>abbreviare<s n="vblex"/></r></p></e>
 <e><p><l>abdicate<s n="vblex"/></l><r>abdicare<s n="vblex"/></r></p></e>
@@ -10883,14 +10882,13 @@
 <e><p><l>agglutinate<s n="vblex"/></l><r>agglutinare<s n="vblex"/></r></p></e>
 <e><p><l>aggravate<s n="vblex"/></l><r>aggravare<s n="vblex"/></r></p></e>
 <e><p><l>agitate<s n="vblex"/></l><r>agitare<s n="vblex"/></r></p></e>
-<e><p><l>agree<s n="vblex"/></l><r>accordare<s n="vblex"/></r></p></e>
-<e><p><l>agree<s n="vblex"/></l><r>ricordare<s n="vblex"/></r></p></e>
-<e c="Ling."><p><l>agree<s n="vblex"/></l><r>concordare<s n="vblex"/></r></p></e>
+<e slr="accordare D"><p><l>agree<s n="vblex"/></l><r>accordare<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>agree<s n="vblex"/></l><r>ricordare<s n="vblex"/></r></p></e>
+<e c="Ling." slr="concordare"><p><l>agree<s n="vblex"/></l><r>concordare<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>aim<s n="vblex"/></l><r>puntare<s n="vblex"/></r></p></e>
 <e><p><l>aim<s n="vblex"/></l><r>dirigere<s n="vblex"/></r></p></e>
 <e><p><l>alarm<s n="vblex"/></l><r>allarmare<s n="vblex"/></r></p></e>
 <e><p><l>alert<s n="vblex"/></l><r>allertare<s n="vblex"/></r></p></e>
-<e><p><l>alienate<s n="vblex"/></l><r>alienare<s n="vblex"/></r></p></e>
 <e><p><l>alienate<s n="vblex"/></l><r>alienare<s n="vblex"/></r></p></e>
 <e><p><l>align<s n="vblex"/></l><r>allineare<s n="vblex"/></r></p></e>
 <e><p><l>allege<s n="vblex"/></l><r>dichiarare<s n="vblex"/></r></p></e>
@@ -10912,9 +10910,8 @@
 <e><p><l>annihilate<s n="vblex"/></l><r>annientare<s n="vblex"/></r></p></e>
 <e><p><l>announce<s n="vblex"/></l><r>annunciare<s n="vblex"/></r></p></e>
 <e><p><l>annoy<s n="vblex"/></l><r>molestare<s n="vblex"/></r></p></e>
-<e><p><l>answer<s n="vblex"/></l><r>contestare<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>answer<s n="vblex"/></l><r>contestare<s n="vblex"/></r></p></e>
 <e><p><l>answer<s n="vblex"/></l><r>rispondere<s n="vblex"/></r></p></e>
-<e><p><l>anticipate<s n="vblex"/></l><r>anticipare<s n="vblex"/></r></p></e>
 <e><p><l>anticipate<s n="vblex"/></l><r>anticipare<s n="vblex"/></r></p></e>
 <e><p><l>apologise<s n="vblex"/></l><r>chiedere<g><b/>scusa</g><s n="vblex"/></r></p></e>
 <e><p><l>appeal<s n="vblex"/></l><r>fare<g><b/>appello</g><s n="vblex"/></r></p></e>
@@ -10940,29 +10937,26 @@
 <e><p><l>arrange<s n="vblex"/></l><r>concertare<s n="vblex"/></r></p></e>
 <e><p><l>arrest<s n="vblex"/></l><r>arrestare<s n="vblex"/></r></p></e>
 <e><p><l>arrive<s n="vblex"/></l><r>arrivare<s n="vblex"/></r></p></e>
-<e><p><l>arrive<s n="vblex"/></l><r>giungere<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>arrive<s n="vblex"/></l><r>giungere<s n="vblex"/></r></p></e>
 <e><p><l>articulate<s n="vblex"/></l><r>articolare<s n="vblex"/></r></p></e>
 <e><p><l>ascertain<s n="vblex"/></l><r>constatare<s n="vblex"/></r></p></e>
-<e c="ask sb to do smth"><p><l>ask<s n="vblex"/></l><r>chiedere<s n="vblex"/></r></p></e>
-<e><p><l>ask<s n="vblex"/></l><r>domandare<s n="vblex"/></r></p></e>
+<e slr="chiedere" r="LR"><p><l>ask<s n="vblex"/></l><r>chiedere<s n="vblex"/></r></p></e>
+<e slr="domandare D"><p><l>ask<s n="vblex"/></l><r>domandare<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>ask<g><b/>for</g><s n="vblex"/></l><r>chiedere<s n="vblex"/></r></p></e>
 <e><p><l>asphalt<s n="vblex"/></l><r>asfaltare<s n="vblex"/></r></p></e>
 <e><p><l>assault<s n="vblex"/></l><r>assaltare<s n="vblex"/></r></p></e>
-<e><p><l>assault<s n="vblex"/></l><r>assaltare<s n="vblex"/></r></p></e>
-<e r="LR"><p><l>assemble<s n="vblex"/></l><r>riunire<s n="vblex"/></r></p></e>
 <e><p><l>assemble<s n="vblex"/></l><r>assemblare<s n="vblex"/></r></p></e>
 <e><p><l>assert<s n="vblex"/></l><r>affermare<s n="vblex"/></r></p></e>
 <e><p><l>assess<s n="vblex"/></l><r>valutare<s n="vblex"/></r></p></e>
 <e><p><l>assign<s n="vblex"/></l><r>assegnare<s n="vblex"/></r></p></e>
 <e><p><l>assimilate<s n="vblex"/></l><r>assimilare<s n="vblex"/></r></p></e>
 <e><p><l>assist<s n="vblex"/></l><r>assistere<s n="vblex"/></r></p></e>
-<e><p><l>assist<s n="vblex"/></l><r>assistere<s n="vblex"/></r></p></e>
 <e><p><l>associate<s n="vblex"/></l><r>associare<s n="vblex"/></r></p></e>
-<e><p><l>assume<s n="vblex"/></l><r>supporre<s n="vblex"/></r></p></e>
+<e><p><l>suppose<s n="vblex"/></l><r>supporre<s n="vblex"/></r></p></e>
 <e><p><l>assume<s n="vblex"/></l><r>assumere<s n="vblex"/></r></p></e>
 <e><p><l>assure<s n="vblex"/></l><r>assicurare<s n="vblex"/></r></p></e>
 <e><p><l>attach<s n="vblex"/></l><r>attaccare<s n="vblex"/></r></p></e>
-<e><p><l>attack<s n="vblex"/></l><r>aggredire<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>attack<s n="vblex"/></l><r>aggredire<s n="vblex"/></r></p></e>
 <e><p><l>attain<s n="vblex"/></l><r>riuscire<s n="vblex"/></r></p></e>
 <e><p><l>attempt<s n="vblex"/></l><r>tentare<s n="vblex"/></r></p></e>
 <e><p><l>attend<s n="vblex"/></l><r>frequentare<s n="vblex"/></r></p></e>
@@ -10985,7 +10979,6 @@
 <e slr="lanciare"><p><l>back<s n="vblex"/></l><r>lanciare<s n="vblex"/></r></p></e>
 <e><p><l>baffle<s n="vblex"/></l><r>sconcertare<s n="vblex"/></r></p></e>
 <e><p><l>bake<s n="vblex"/></l><r>cuocere<s n="vblex"/></r></p></e>
-<e><p><l>bake<s n="vblex"/></l><r>cuocere<s n="vblex"/></r></p></e>
 <e><p><l>balance<s n="vblex"/></l><r>equilibrare<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>ban<s n="vblex"/></l><r>proibire<s n="vblex"/></r></p></e>
 <e><p><l>bang<s n="vblex"/></l><r>colpire<s n="vblex"/></r></p></e>
@@ -11001,19 +10994,17 @@
 <e><p><l>be<g><b/>hungry</g><s n="vblex"/></l><r>avere<g><b/>fame</g><s n="vblex"/></r></p></e>
 <e><p><l>be<g><b/>in<b/>decline</g><s n="vblex"/></l><r>agonizzare<s n="vblex"/></r></p></e>
 <e><p><l>be<g><b/>left</g><s n="vblex"/></l><r>restare<s n="vblex"/></r></p></e>
-<e><p><l>be<g><b/>left</g><s n="vblex"/></l><r>rimanere<s n="vblex"/></r></p></e>
+<e><p><l>remain<s n="vblex"/></l><r>rimanere<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>be<g><b/>missing</g><s n="vblex"/></l><r>mancare<s n="vblex"/></r></p></e>
 <e><p><l>be<g><b/>shipwrecked</g><s n="vblex"/></l><r>naufragare<s n="vblex"/></r></p></e>
 <e><p><l>be<g><b/>used<b/>to</g><s n="vblex"/></l><r>solere<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>be<g><b/>worth</g><s n="vblex"/></l><r>valere<s n="vblex"/></r></p></e>
 <e><p><l>be<g><b/>worthwhile</g><s n="vblex"/></l><r>essere<g><b/>utile</g><s n="vblex"/></r></p></e>
 <e><p><l>bear<s n="vblex"/></l><r>partorire<s n="vblex"/></r></p></e>
-<e r="LR"><p><l>bear<s n="vblex"/></l><r>sopportare<s n="vblex"/></r></p></e>
 <e><p><l>beat<s n="vblex"/></l><r>picchiare<s n="vblex"/></r></p></e>
 <e><p><l>beg<s n="vblex"/></l><r>supplicare<s n="vblex"/></r></p></e>
-<e><p><l>begin<s n="vblex"/></l><r>cominciare<s n="vblex"/></r></p></e>
+<e><p><l>commence<s n="vblex"/></l><r>cominciare<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>begin<s n="vblex"/></l><r>iniziare<s n="vblex"/></r></p></e>
-<e><p><l>believe<s n="vblex"/></l><r>credere<s n="vblex"/></r></p></e>
 <e><p><l>believe<s n="vblex"/></l><r>credere<s n="vblex"/></r></p></e>
 <e><p><l>belong<s n="vblex"/></l><r>appartenere<s n="vblex"/></r></p></e>
 <e><p><l>bend<s n="vblex"/></l><r>inclinare<s n="vblex"/></r></p></e>
@@ -11064,12 +11055,12 @@
 <e r="LR"><p><l>bring<g><b/>down</g><s n="vblex"/><s n="sep"/></l><r>scendere<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>bring<g><b/>together</g><s n="vblex"/><s n="sep"/></l><r>riunire<s n="vblex"/></r></p></e>
 <e><p><l>broaden<s n="vblex"/></l><r>ampliare<s n="vblex"/></r></p></e>
-<e><p><l>build<s n="vblex"/></l><r>costruire<s n="vblex"/></r></p></e>
+<e><p><l>construct<s n="vblex"/></l><r>costruire<s n="vblex"/></r></p></e>
 <e><p><l>build<s n="vblex"/></l><r>edificare<s n="vblex"/></r></p></e>
 <e><p><l>burn<s n="vblex"/></l><r>ardere<s n="vblex"/></r></p></e>
 <e><p><l>burst<s n="vblex"/></l><r>esplodere<s n="vblex"/></r></p></e>
 <e><p><l>buy<s n="vblex"/></l><r>comprare<s n="vblex"/></r></p></e>
-<e><p><l>buy<s n="vblex"/></l><r>acquistare<s n="vblex"/></r></p></e>
+<e><p><l>acquire<s n="vblex"/></l><r>acquistare<s n="vblex"/></r></p></e>
 <e><p><l>calibrate<s n="vblex"/></l><r>calibrare<s n="vblex"/></r></p></e>
 <e><p><l>call<s n="vblex"/></l><r>chiamare<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>call<g><b/>for</g><s n="vblex"/></l><r>chiedere<s n="vblex"/></r></p></e>
@@ -11088,7 +11079,7 @@
 <e><p><l>catch<s n="vblex"/></l><r>afferrare<s n="vblex"/></r></p></e>
 <e><p><l>cater<s n="vblex"/></l><r>provvedere<s n="vblex"/></r></p></e>
 <e><p><l>cause<s n="vblex"/></l><r>causare<s n="vblex"/></r></p></e>
-<e><p><l>cause<s n="vblex"/></l><r>provocare<s n="vblex"/></r></p></e>
+<e><p><l>provoke<s n="vblex"/></l><r>provocare<s n="vblex"/></r></p></e>
 <e><p><l>cease<s n="vblex"/></l><r>cessare<s n="vblex"/></r></p></e>
 <e><p><l>celebrate<s n="vblex"/></l><r>celebrare<s n="vblex"/></r></p></e>
 <e><p><l>censor<s n="vblex"/></l><r>censurare<s n="vblex"/></r></p></e>
@@ -11106,7 +11097,7 @@
 <e><p><l>check<s n="vblex"/></l><r>verificare<s n="vblex"/></r></p></e>
 <e><p><l>cheer<s n="vblex"/></l><r>acclamare<s n="vblex"/></r></p></e>
 <e><p><l>chew<s n="vblex"/></l><r>masticare<s n="vblex"/></r></p></e>
-<e><p><l>choose<s n="vblex"/></l><r>eleggere<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>choose<s n="vblex"/></l><r>eleggere<s n="vblex"/></r></p></e>
 <e><p><l>choose<s n="vblex"/></l><r>scegliere<s n="vblex"/></r></p></e>
 <e><p><l>chuck<s n="vblex"/></l><r>chiocciare<s n="vblex"/></r></p></e>
 <e><p><l>circulate<s n="vblex"/></l><r>circolare<s n="vblex"/></r></p></e>
