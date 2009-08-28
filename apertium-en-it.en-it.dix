@@ -27776,7 +27776,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>deal<g><b/>with</g><s n="vblex"/></l> 
         <r>trattare<s n="vblex"/></r> 
@@ -85585,7 +85585,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>treat<s n="vblex"/></l> 
         <r>trattare<s n="vblex"/></r> 
@@ -92967,7 +92967,6 @@
     <e><p><l>neglect<s n="vblex"/></l><r>trascurare<s n="vblex"/></r></p></e>
     <e><p><l>transgress<s n="vblex"/></l><r>trasgredire<s n="vblex"/></r></p></e>
     <e><p><l>transliterate<s n="vblex"/></l><r>traslitterare<s n="vblex"/></r></p></e>
-    <e><p><l>deal<s n="vblex"/></l><r>trattare<s n="vblex"/></r></p></e>
     <e><p><l>triumph<s n="vblex"/></l><r>trionfare<s n="vblex"/></r></p></e>
     <e><p><l>triple<s n="vblex"/></l><r>triplicare<s n="vblex"/></r></p></e>
     <e><p><l>protect<s n="vblex"/></l><r>tutelare<s n="vblex"/></r></p></e>
@@ -103618,7 +103617,7 @@
     <e><p><l>toughen<s n="vblex"/></l><r>indurire<s n="vblex"/></r></p></e>
     <e><p><l>tow<s n="vblex"/></l><r>rimorchiare<s n="vblex"/></r></p></e>
     <e><p><l>trade<s n="vblex"/></l><r>scambiare<s n="vblex"/></r></p></e>
-    <e><p><l>transact<s n="vblex"/></l><r>trattare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>transact<s n="vblex"/></l><r>trattare<s n="vblex"/></r></p></e>
     <e><p><l>transcribe<s n="vblex"/></l><r>trascrivere<s n="vblex"/></r></p></e>
     <e><p><l>transfer<s n="vblex"/></l><r>trasferire<s n="vblex"/></r></p></e>
     <e><p><l>transplant<s n="vblex"/></l><r>trapiantare<s n="vblex"/></r></p></e>
@@ -103656,7 +103655,8 @@
     <e><p><l>corpus-based<b/>machine<b/>translation<s n="n"/></l><r>traduzione<b/>automatica<b/>basata<b/>su<b/>corpora<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>machine<b/>translation<s n="n"/></l><r>traduzione<b/>automatica<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>endometrium<s n="n"/></l><r>endometrio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>gymnasium<s n="n"/></l><r>palestra<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>gymnasium<s n="n"/></l><r>palestra<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>gym<s n="n"/></l><r>palestra<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>secondary<b/>school<s n="n"/></l><r>liceo<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>high<b/>school<s n="n"/></l><r>liceo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>memorandum<s n="n"/></l><r>memorandum<s n="n"/><s n="m"/></r></p></e>
@@ -103683,7 +103683,7 @@
 <e><p><l>cerium<s n="n"/></l><r>cerio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cesium<s n="n"/></l><r>cesio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>chromium<s n="n"/></l><r>cromo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>chrysanthemum<s n="n"/></l><r>chrysanthemum<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>chrysanthemum<s n="n"/></l><r>crisantemo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>colchicum<s n="n"/></l><r>colchicum<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>colostrum<s n="n"/></l><r>colostro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>condominium<s n="n"/></l><r>condominio<s n="n"/><s n="m"/></r></p></e>
@@ -103761,5 +103761,7 @@
 <e><p><l>roentgenium<s n="n"/></l><r>roentgenio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
 <e r="LR"><p><l>gypsum<s n="n"/></l><r>gesso<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>chalk<s n="n"/></l><r>gesso<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>cashier<s n="n"/></l><r>cassiere<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL"><p><l>cashier<s n="n"/></l><r>cassiere<s n="n"/></r></p></e>
   </section>
 </dictionary>
