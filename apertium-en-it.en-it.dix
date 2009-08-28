@@ -103577,11 +103577,12 @@
 <e><p><l>calcaneum<s n="n"/></l><r>calcagno<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>californium<s n="n"/></l><r>californio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cerebellum<s n="n"/></l><r>cervelletto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>cerium<s n="n"/></l><r>cerio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>cesium<s n="n"/></l><r>cesio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>chromium<s n="n"/></l><r>cromo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>cerium<s n="n"/></l><r>cerio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>cesium<s n="n"/></l><r>cesio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>chromium<s n="n"/></l><r>cromo<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
 <e><p><l>chrysanthemum<s n="n"/></l><r>crisantemo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>colchicum<s n="n"/></l><r>colchicum<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>colchicum<s n="n"/></l><r>colchicum<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>colchicum<s n="n"/></l><r>colchico<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>colostrum<s n="n"/></l><r>colostro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>condominium<s n="n"/></l><r>condominio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>deuterium<s n="n"/></l><r>deuterio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
