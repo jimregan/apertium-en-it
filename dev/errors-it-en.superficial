@@ -123,7 +123,7 @@
 ^.<sent>$ ^Jalón<np><loc><m><sg>$	. \@Jalón\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^Generalitat<np><loc><m><sg>$	. \@Generalitat\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^Giordania<np><loc><m><sg>$	. \@Giordania\<np\>\<loc\>\<sg\>
-^.<sent>$ ^Lara<np><cog><mf><sp>$	. #Lara\<np\>\<cog\>\<mf\>\<sp\>
+^.<sent>$ ^Lara<np><cog><mf><sp>$	. \@Lara\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^America latina<np><loc><m><sg>$	. \@America latina\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^Marte<np><al><m><sg>$	. \@Marte\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^María<np><ant><f><sg>$	. #María\<np\>\<ant\>\<f\>\<sg\>\/María\<np\>\<f\>\<sg\>
@@ -170,7 +170,6 @@
 ^.<sent>$ ^Zeta<np><al><m><sg>$	. \@Zeta\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^html<np><al><m><sg>$	. \@Html\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^El Greco<np><ant><m><sg>$	. \@El Greco\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Kenya<np><ant><f><sg>$	. #Kenya\<np\>\<ant\>\<f\>\<sg\>\/Kenia\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Penelope<np><ant><f><sg>$	. #Penelope\<np\>\<ant\>\<f\>\<sg\>\/Penélope\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^BBVA<n><acr><m><sg>$	. \@BBVA\<n\>\<acr\>\<sg\>
 ^.<sent>$ ^FMI<n><acr><m><sg>$	. \@FMI\<n\>\<acr\>\<sg\>
@@ -660,6 +659,8 @@
 ^.<sent>$ ^ottenimento<n><m><sg>$	. #Obtaining\<n\>\<sg\>
 ^.<sent>$ ^palinsesto<n><m><pl>$	. #Palimpsest\<n\>\<pl\>
 ^.<sent>$ ^palinsesto<n><m><sg>$	. #Palimpsest\<n\>\<sg\>
+^.<sent>$ ^pancia<n><f><pl>$	. \@Pancia\<n\>\<pl\>
+^.<sent>$ ^pancia<n><f><sg>$	. \@Pancia\<n\>\<sg\>
 ^.<sent>$ ^pantalone<n><m><sg>$	. #Pants\<n\>\<sg\>
 ^.<sent>$ ^paracadutismo<n><m><pl>$	. #Parachuting\<n\>\<pl\>
 ^.<sent>$ ^paracadutismo<n><m><sg>$	. #Parachuting\<n\>\<sg\>
@@ -3586,6 +3587,120 @@
 ^.<sent>$ ^installare<vblex><pri><p2><pl>$	. You #install\<vblex\>\<sep\>\<pres\># up
 ^.<sent>$ ^installare<vblex><pri><p2><sg>$	. You #install\<vblex\>\<sep\>\<pres\># up
 ^.<sent>$ ^installare<vblex><inf>$	. #Install\<vblex\>\<sep\>\<inf\># up
+^.<sent>$ ^insultare<vblex><ifi><p1><sg>$	. I #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><pii><p2><pl>$	. You #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><ifi><p2><pl>$	. You #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><pii><p2><sg>$	. You #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><ifi><p2><sg>$	. You #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><ifi><p3><pl>$	. They #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><cni><p1><pl>$	. We would #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><ifi><p3><sg>$	. It #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><prs><p3><pl>$	. They #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><cni><p1><sg>$	. I would #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><imp><p1><pl>$	. #Insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><prs><p3><sg>$	. It #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><cni><p2><pl>$	. You would #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><cni><p2><sg>$	. You would #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><pri><p3><pl>$	. They #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><cni><p3><pl>$	. They would #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><pp><f><pl>$	. #Insult\<vblex\>\<pp\>
+^.<sent>$ ^insultare<vblex><cni><p3><sg>$	. It would #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><pri><p3><sg>$	. It #insult\<vblex\>\<pri\>\<p3\>\<sg\>
+^.<sent>$ ^insultare<vblex><fti><p1><pl>$	. We will #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><pp><m><pl>$	. #Insult\<vblex\>\<pp\>
+^.<sent>$ ^insultare<vblex><pp><f><sg>$	. #Insult\<vblex\>\<pp\>
+^.<sent>$ ^insultare<vblex><pp><m><sg>$	. #Insult\<vblex\>\<pp\>
+^.<sent>$ ^insultare<vblex><pis><p1><pl>$	. We #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><fti><p1><sg>$	. I will #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><pis><p1><sg>$	. I #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><fti><p2><pl>$	. You will #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><pis><p2><pl>$	. You #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><fti><p2><sg>$	. You will #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><pis><p2><sg>$	. You #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><fti><p3><pl>$	. They will #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><fti><p3><sg>$	. It will #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><pii><p1><pl>$	. We #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><ifi><p1><pl>$	. We #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><pii><p1><sg>$	. I #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><pis><p3><pl>$	. They #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><imp><p2><pl>$	. #Insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><pis><p3><sg>$	. It #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><imp><p3><pl>$	. #Insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><imp><p3><sg>$	. #Insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><imp><p2><sg>$	. #Insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><prs><p1><pl>$	. We #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><prs><p1><sg>$	. I #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><prs><p2><pl>$	. You #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><prs><p2><sg>$	. You #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><pii><p3><pl>$	. They #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><ger>$	. #Insult\<vblex\>\<ger\>
+^.<sent>$ ^insultare<vblex><pii><p3><sg>$	. It #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><pri><p1><pl>$	. We #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><pri><p1><sg>$	. I #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><pri><p2><pl>$	. You #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><pri><p2><sg>$	. You #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><inf>$	. #Insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><ifi><p3><pl>$	. They #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><pis><p3><pl>$	. They #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><cni><p3><pl>$	. They would #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><pri><p3><pl>$	. They #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><fti><p3><pl>$	. They will #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><pii><p3><pl>$	. They #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><prs><p3><pl>$	. They #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><inf>$	. #Insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><ifi><p1><sg>$	. I #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><pii><p2><pl>$	. You #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><ifi><p2><pl>$	. You #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><pii><p2><sg>$	. You #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><ifi><p2><sg>$	. You #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><ifi><p3><pl>$	. They #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><cni><p1><pl>$	. We would #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><ifi><p3><sg>$	. It #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><prs><p3><pl>$	. They #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><cni><p1><sg>$	. I would #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><imp><p1><pl>$	. #Insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><prs><p3><sg>$	. It #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><cni><p2><pl>$	. You would #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><cni><p2><sg>$	. You would #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><pri><p3><pl>$	. They #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><cni><p3><pl>$	. They would #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><pp><f><pl>$	. #Insult\<vblex\>\<pp\>
+^.<sent>$ ^insultare<vblex><cni><p3><sg>$	. It would #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><pri><p3><sg>$	. It #insult\<vblex\>\<pri\>\<p3\>\<sg\>
+^.<sent>$ ^insultare<vblex><fti><p1><pl>$	. We will #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><pp><m><pl>$	. #Insult\<vblex\>\<pp\>
+^.<sent>$ ^insultare<vblex><pp><f><sg>$	. #Insult\<vblex\>\<pp\>
+^.<sent>$ ^insultare<vblex><pp><m><sg>$	. #Insult\<vblex\>\<pp\>
+^.<sent>$ ^insultare<vblex><pis><p1><pl>$	. We #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><fti><p1><sg>$	. I will #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><pis><p1><sg>$	. I #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><fti><p2><pl>$	. You will #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><pis><p2><pl>$	. You #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><fti><p2><sg>$	. You will #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><pis><p2><sg>$	. You #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><fti><p3><pl>$	. They will #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><fti><p3><sg>$	. It will #insult\<vblex\>\<inf\>
+^.<sent>$ ^insultare<vblex><pii><p1><pl>$	. We #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><ifi><p1><pl>$	. We #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><pii><p1><sg>$	. I #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><pis><p3><pl>$	. They #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><imp><p2><pl>$	. #Insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><pis><p3><sg>$	. It #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><imp><p3><pl>$	. #Insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><imp><p3><sg>$	. #Insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><imp><p2><sg>$	. #Insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><prs><p1><pl>$	. We #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><prs><p1><sg>$	. I #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><prs><p2><pl>$	. You #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><prs><p2><sg>$	. You #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><pii><p3><pl>$	. They #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><ger>$	. #Insult\<vblex\>\<ger\>
+^.<sent>$ ^insultare<vblex><pii><p3><sg>$	. It #insult\<vblex\>\<past\>
+^.<sent>$ ^insultare<vblex><pri><p1><pl>$	. We #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><pri><p1><sg>$	. I #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><pri><p2><pl>$	. You #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><pri><p2><sg>$	. You #insult\<vblex\>\<pres\>
+^.<sent>$ ^insultare<vblex><inf>$	. #Insult\<vblex\>\<inf\>
 ^.<sent>$ ^inviare<vblex><ifi><p1><sg>$	. I #forward\<vblex\>\<past\># in
 ^.<sent>$ ^inviare<vblex><pii><p2><pl>$	. You #forward\<vblex\>\<past\># in
 ^.<sent>$ ^inviare<vblex><ifi><p2><pl>$	. You #forward\<vblex\>\<past\># in
@@ -10834,6 +10949,7 @@
 ^.<sent>$ ^giusto<adv>$	. \@Giusto\<adv\>
 ^.<sent>$ ^gratamente<adv>$	. \@Gratamente\<adv\>
 ^.<sent>$ ^gratuitamente<adv>$	. \@Gratuitamente\<adv\>
+^.<sent>$ ^in assoluto<adv>$	. \@In assoluto\<adv\>
 ^.<sent>$ ^a digiuno<adv>$	. \@A digiuno\<adv\>
 ^.<sent>$ ^in certa misura<adv>$	. \@In certa misura\<adv\>
 ^.<sent>$ ^in conseguenza<adv>$	. \@In conseguenza\<adv\>
@@ -11079,6 +11195,8 @@
 ^.<sent>$ ^trattare<vblex><pri><p2><pl>$	. You #transact\<vblex\>\<pres\># with
 ^.<sent>$ ^trattare<vblex><pri><p2><sg>$	. You #transact\<vblex\>\<pres\># with
 ^.<sent>$ ^trattare<vblex><inf>$	. #Transact\<vblex\>\<inf\># with
+^.<sent>$ ^crisantemo<n><m><pl>$	. \@Crisantemo\<n\>\<pl\>
+^.<sent>$ ^crisantemo<n><m><sg>$	. \@Crisantemo\<n\>\<sg\>
 ^.<sent>$ ^a<pr>$ ^il<det><def><mf><sg>$	. #To\<pr\>\/onto\<pr\> the
 ^.<sent>$ ^ne<prn><pro><adv>$	. \@ne\<prn\>\<pro\>\<adv\>
 ^.<sent>$ ^quello<det><dem><mf><sg>$	. #That\<sg\>

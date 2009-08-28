@@ -2843,11 +2843,6 @@
 ^.<sent>$ ^encryption<n><pl>$ ^'s<gen>$	. \@Encryption\<n\> 
 ^.<sent>$ ^encryption<n><sg>$	. \@Encryption\<n\>
 ^.<sent>$ ^encryption<n><pl>$	. \@Encryption\<n\>
-^.<sent>$ ^endometrium<n><sg>$	. \@Endometrium\<n\>
-^.<sent>$ ^endometrium<n><pl>$	. \@Endometrium\<n\>
-^.<sent>$ ^endometrium<n><pl>$ ^'s<gen>$	. \@Endometrium\<n\> 
-^.<sent>$ ^endometrium<n><sg>$	. \@Endometrium\<n\>
-^.<sent>$ ^endometrium<n><pl>$	. \@Endometrium\<n\>
 ^.<sent>$ ^enthronement<n><sg>$	. \@Enthronement\<n\>
 ^.<sent>$ ^enthronement<n><pl>$	. \@Enthronement\<n\>
 ^.<sent>$ ^enthronement<n><pl>$ ^'s<gen>$	. \@Enthronement\<n\> 
@@ -3638,11 +3633,6 @@
 ^.<sent>$ ^gym<n><pl>$ ^'s<gen>$	. \@Gym\<n\> 
 ^.<sent>$ ^gym<n><sg>$	. \@Gym\<n\>
 ^.<sent>$ ^gym<n><pl>$	. \@Gym\<n\>
-^.<sent>$ ^gymnasium<n><sg>$	. \@Gymnasium\<n\>
-^.<sent>$ ^gymnasium<n><pl>$	. \@Gymnasium\<n\>
-^.<sent>$ ^gymnasium<n><pl>$ ^'s<gen>$	. \@Gymnasium\<n\> 
-^.<sent>$ ^gymnasium<n><sg>$	. \@Gymnasium\<n\>
-^.<sent>$ ^gymnasium<n><pl>$	. \@Gymnasium\<n\>
 ^.<sent>$ ^hake<n><sg>$	. \@Hake\<n\>
 ^.<sent>$ ^hake<n><pl>$	. \@Hake\<n\>
 ^.<sent>$ ^hake<n><pl>$ ^'s<gen>$	. \@Hake\<n\> 
@@ -4830,11 +4820,11 @@
 ^.<sent>$ ^member# of parliament<n><pl>$ ^'s<gen>$	. \@Member\<n\># of parliament 
 ^.<sent>$ ^member# of parliament<n><sg>$	. \@Member\<n\># of parliament
 ^.<sent>$ ^member# of parliament<n><pl>$	. \@Member\<n\># of parliament
-^.<sent>$ ^memorandum<n><sg>$	. \@Memorandum\<n\>
-^.<sent>$ ^memorandum<n><pl>$	. \@Memorandum\<n\>
-^.<sent>$ ^memorandum<n><pl>$ ^'s<gen>$	. \@Memorandum\<n\> 
-^.<sent>$ ^memorandum<n><sg>$	. \@Memorandum\<n\>
-^.<sent>$ ^memorandum<n><pl>$	. \@Memorandum\<n\>
+^.<sent>$ ^memorandum<n><sg>$	. #Memorandum\<n\>\<m\>\<sg\>
+^.<sent>$ ^memorandum<n><pl>$	. #Memorandum\<n\>\<m\>\<pl\>
+^.<sent>$ ^memorandum<n><pl>$ ^'s<gen>$	. #Memorandum\<n\>\<m\>\<pl\> 
+^.<sent>$ ^memorandum<n><sg>$	. #Memorandum\<n\>\<m\>\<sg\>
+^.<sent>$ ^memorandum<n><pl>$	. #Memorandum\<n\>\<m\>\<pl\>
 ^.<sent>$ ^menopause<n><sg>$	. \@Menopause\<n\>
 ^.<sent>$ ^menopause<n><pl>$	. \@Menopause\<n\>
 ^.<sent>$ ^menopause<n><pl>$ ^'s<gen>$	. \@Menopause\<n\> 
@@ -5029,11 +5019,11 @@
 ^.<sent>$ ^morality<n><pl>$ ^'s<gen>$	. \@Morality\<n\> 
 ^.<sent>$ ^morality<n><sg>$	. \@Morality\<n\>
 ^.<sent>$ ^morality<n><pl>$	. \@Morality\<n\>
-^.<sent>$ ^moratorium<n><sg>$	. \@Moratorium\<n\>
-^.<sent>$ ^moratorium<n><pl>$	. \@Moratorium\<n\>
-^.<sent>$ ^moratorium<n><pl>$ ^'s<gen>$	. \@Moratorium\<n\> 
-^.<sent>$ ^moratorium<n><sg>$	. \@Moratorium\<n\>
-^.<sent>$ ^moratorium<n><pl>$	. \@Moratorium\<n\>
+^.<sent>$ ^moratorium<n><sg>$	. #Moratoria\<n\>\<f\>\<sg\>
+^.<sent>$ ^moratorium<n><pl>$	. #Moratoria\<n\>\<f\>\<pl\>
+^.<sent>$ ^moratorium<n><pl>$ ^'s<gen>$	. #Moratoria\<n\>\<f\>\<pl\> 
+^.<sent>$ ^moratorium<n><sg>$	. #Moratoria\<n\>\<f\>\<sg\>
+^.<sent>$ ^moratorium<n><pl>$	. #Moratoria\<n\>\<f\>\<pl\>
 ^.<sent>$ ^morphology<n><sg>$	. \@Morphology\<n\>
 ^.<sent>$ ^morphology<n><pl>$	. \@Morphology\<n\>
 ^.<sent>$ ^morphology<n><pl>$	. \@Morphology\<n\>
@@ -5424,11 +5414,6 @@
 ^.<sent>$ ^opacity<n><pl>$ ^'s<gen>$	. \@Opacity\<n\> 
 ^.<sent>$ ^opacity<n><sg>$	. \@Opacity\<n\>
 ^.<sent>$ ^opacity<n><pl>$	. \@Opacity\<n\>
-^.<sent>$ ^opium<n><sg>$	. \@Opium\<n\>
-^.<sent>$ ^opium<n><pl>$	. \@Opium\<n\>
-^.<sent>$ ^opium<n><pl>$ ^'s<gen>$	. \@Opium\<n\> 
-^.<sent>$ ^opium<n><sg>$	. \@Opium\<n\>
-^.<sent>$ ^opium<n><pl>$	. \@Opium\<n\>
 ^.<sent>$ ^opportunism<n><sg>$	. \@Opportunism\<n\>
 ^.<sent>$ ^opportunism<n><pl>$	. \@Opportunism\<n\>
 ^.<sent>$ ^opportunism<n><pl>$ ^'s<gen>$	. \@Opportunism\<n\> 
@@ -5574,11 +5559,6 @@
 ^.<sent>$ ^paleolithic<n><pl>$ ^'s<gen>$	. \@Paleolithic\<n\> 
 ^.<sent>$ ^paleolithic<n><sg>$	. \@Paleolithic\<n\>
 ^.<sent>$ ^paleolithic<n><pl>$	. \@Paleolithic\<n\>
-^.<sent>$ ^pallium<n><sg>$	. \@Pallium\<n\>
-^.<sent>$ ^pallium<n><pl>$	. \@Pallium\<n\>
-^.<sent>$ ^pallium<n><pl>$ ^'s<gen>$	. \@Pallium\<n\> 
-^.<sent>$ ^pallium<n><sg>$	. \@Pallium\<n\>
-^.<sent>$ ^pallium<n><pl>$	. \@Pallium\<n\>
 ^.<sent>$ ^panacea<n><sg>$	. \@Panacea\<n\>
 ^.<sent>$ ^panacea<n><pl>$	. \@Panacea\<n\>
 ^.<sent>$ ^panacea<n><pl>$ ^'s<gen>$	. \@Panacea\<n\> 
@@ -5756,11 +5736,6 @@
 ^.<sent>$ ^perfectionism<n><pl>$ ^'s<gen>$	. \@Perfectionism\<n\> 
 ^.<sent>$ ^perfectionism<n><sg>$	. \@Perfectionism\<n\>
 ^.<sent>$ ^perfectionism<n><pl>$	. \@Perfectionism\<n\>
-^.<sent>$ ^perineum<n><sg>$	. \@Perineum\<n\>
-^.<sent>$ ^perineum<n><pl>$	. \@Perineum\<n\>
-^.<sent>$ ^perineum<n><pl>$ ^'s<gen>$	. \@Perineum\<n\> 
-^.<sent>$ ^perineum<n><sg>$	. \@Perineum\<n\>
-^.<sent>$ ^perineum<n><pl>$	. \@Perineum\<n\>
 ^.<sent>$ ^periphery<n><sg>$	. \@Periphery\<n\>
 ^.<sent>$ ^periphery<n><pl>$	. \@Periphery\<n\>
 ^.<sent>$ ^periphery<n><pl>$	. \@Periphery\<n\>
@@ -5939,11 +5914,6 @@
 ^.<sent>$ ^politisation<n><pl>$ ^'s<gen>$	. \@Politisation\<n\> 
 ^.<sent>$ ^politisation<n><sg>$	. \@Politisation\<n\>
 ^.<sent>$ ^politisation<n><pl>$	. \@Politisation\<n\>
-^.<sent>$ ^polonium<n><sg>$	. \@Polonium\<n\>
-^.<sent>$ ^polonium<n><pl>$	. \@Polonium\<n\>
-^.<sent>$ ^polonium<n><pl>$ ^'s<gen>$	. \@Polonium\<n\> 
-^.<sent>$ ^polonium<n><sg>$	. \@Polonium\<n\>
-^.<sent>$ ^polonium<n><pl>$	. \@Polonium\<n\>
 ^.<sent>$ ^polysemy<n><sg>$	. \@Polysemy\<n\>
 ^.<sent>$ ^polysemy<n><pl>$	. \@Polysemy\<n\>
 ^.<sent>$ ^polysemy<n><pl>$	. \@Polysemy\<n\>
@@ -6925,11 +6895,11 @@
 ^.<sent>$ ^salad<n><pl>$ ^'s<gen>$	. \@Salad\<n\> 
 ^.<sent>$ ^salad<n><sg>$	. \@Salad\<n\>
 ^.<sent>$ ^salad<n><pl>$	. \@Salad\<n\>
-^.<sent>$ ^sanatorium<n><sg>$	. \@Sanatorium\<n\>
-^.<sent>$ ^sanatorium<n><pl>$	. \@Sanatorium\<n\>
-^.<sent>$ ^sanatorium<n><pl>$ ^'s<gen>$	. \@Sanatorium\<n\> 
-^.<sent>$ ^sanatorium<n><sg>$	. \@Sanatorium\<n\>
-^.<sent>$ ^sanatorium<n><pl>$	. \@Sanatorium\<n\>
+^.<sent>$ ^sanatorium<n><sg>$	. #Sanatorio\<n\>\<m\>\<sg\>
+^.<sent>$ ^sanatorium<n><pl>$	. #Sanatorio\<n\>\<m\>\<pl\>
+^.<sent>$ ^sanatorium<n><pl>$ ^'s<gen>$	. #Sanatorio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^sanatorium<n><sg>$	. #Sanatorio\<n\>\<m\>\<sg\>
+^.<sent>$ ^sanatorium<n><pl>$	. #Sanatorio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^sanctuary<n><sg>$	. \@Sanctuary\<n\>
 ^.<sent>$ ^sanctuary<n><pl>$	. \@Sanctuary\<n\>
 ^.<sent>$ ^sanctuary<n><pl>$	. \@Sanctuary\<n\>
@@ -7863,11 +7833,11 @@
 ^.<sent>$ ^symphony<n><pl>$ ^'s<gen>$	. \@Symphony\<n\> 
 ^.<sent>$ ^symphony<n><sg>$	. \@Symphony\<n\>
 ^.<sent>$ ^symphony<n><pl>$	. \@Symphony\<n\>
-^.<sent>$ ^symposium<n><sg>$	. \@Symposium\<n\>
-^.<sent>$ ^symposium<n><pl>$	. \@Symposium\<n\>
-^.<sent>$ ^symposium<n><pl>$ ^'s<gen>$	. \@Symposium\<n\> 
-^.<sent>$ ^symposium<n><sg>$	. \@Symposium\<n\>
-^.<sent>$ ^symposium<n><pl>$	. \@Symposium\<n\>
+^.<sent>$ ^symposium<n><sg>$	. #Simposio\<n\>\<m\>\<sg\>
+^.<sent>$ ^symposium<n><pl>$	. #Simposio\<n\>\<m\>\<pl\>
+^.<sent>$ ^symposium<n><pl>$ ^'s<gen>$	. #Simposio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^symposium<n><sg>$	. #Simposio\<n\>\<m\>\<sg\>
+^.<sent>$ ^symposium<n><pl>$	. #Simposio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^symptom<n><sg>$	. \@Symptom\<n\>
 ^.<sent>$ ^symptom<n><pl>$	. \@Symptom\<n\>
 ^.<sent>$ ^symptom<n><pl>$ ^'s<gen>$	. \@Symptom\<n\> 
@@ -15977,7 +15947,7 @@
 ^.<sent>$ ^God willing<adv>$	. \@God willing\<adv\>
 ^.<sent>$ ^a.m.<adv>$	. \@A.m.\<adv\>
 ^.<sent>$ ^abroad<adv>$	. \@Abroad\<adv\>
-^.<sent>$ ^absolutely not<adv>$	. #Assolutamente\<adv\>\/in assoluto\<adv\>
+^.<sent>$ ^absolutely not<adv>$	. #Assolutamente non\<adv\>
 ^.<sent>$ ^shortly after<adv>$	. \@Shortly after\<adv\>
 ^.<sent>$ ^after all<adv>$	. \@After all\<adv\>
 ^.<sent>$ ^after this manner<adv>$	. \@After this manner\<adv\>
@@ -17439,11 +17409,11 @@
 ^.<sent>$ ^accretion<n><sg>$	. \@Accretion\<n\>
 ^.<sent>$ ^accretion<n><pl>$	. \@Accretion\<n\>
 ^.<sent>$ ^acephalous<adj>$	. \@Acephalous\<adj\>\<m\>\<sg\>
-^.<sent>$ ^acetabulum<n><sg>$	. \@Acetabulum\<n\>
-^.<sent>$ ^acetabulum<n><pl>$	. \@Acetabulum\<n\>
-^.<sent>$ ^acetabulum<n><pl>$ ^'s<gen>$	. \@Acetabulum\<n\> 
-^.<sent>$ ^acetabulum<n><sg>$	. \@Acetabulum\<n\>
-^.<sent>$ ^acetabulum<n><pl>$	. \@Acetabulum\<n\>
+^.<sent>$ ^acetabulum<n><sg>$	. #Cotile\<n\>\<m\>\<sg\>
+^.<sent>$ ^acetabulum<n><pl>$	. #Cotile\<n\>\<m\>\<pl\>
+^.<sent>$ ^acetabulum<n><pl>$ ^'s<gen>$	. #Cotile\<n\>\<m\>\<pl\> 
+^.<sent>$ ^acetabulum<n><sg>$	. #Cotile\<n\>\<m\>\<sg\>
+^.<sent>$ ^acetabulum<n><pl>$	. #Cotile\<n\>\<m\>\<pl\>
 ^.<sent>$ ^acetic<adj>$	. \@Acetic\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^acetone<n><sg>$	. \@Acetone\<n\>
 ^.<sent>$ ^acetone<n><pl>$	. \@Acetone\<n\>
@@ -17502,11 +17472,11 @@
 ^.<sent>$ ^actinide<n><pl>$ ^'s<gen>$	. \@Actinide\<n\> 
 ^.<sent>$ ^actinide<n><sg>$	. \@Actinide\<n\>
 ^.<sent>$ ^actinide<n><pl>$	. \@Actinide\<n\>
-^.<sent>$ ^actinium<n><sg>$	. \@Actinium\<n\>
-^.<sent>$ ^actinium<n><pl>$	. \@Actinium\<n\>
-^.<sent>$ ^actinium<n><pl>$ ^'s<gen>$	. \@Actinium\<n\> 
-^.<sent>$ ^actinium<n><sg>$	. \@Actinium\<n\>
-^.<sent>$ ^actinium<n><pl>$	. \@Actinium\<n\>
+^.<sent>$ ^actinium<n><sg>$	. #Attinio\<n\>\<m\>\<sg\>
+^.<sent>$ ^actinium<n><pl>$	. #Attinio\<n\>\<m\>\<pl\>
+^.<sent>$ ^actinium<n><pl>$ ^'s<gen>$	. #Attinio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^actinium<n><sg>$	. #Attinio\<n\>\<m\>\<sg\>
+^.<sent>$ ^actinium<n><pl>$	. #Attinio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^actress<n><sg>$	. \@Actress\<n\>
 ^.<sent>$ ^actress<n><pl>$	. \@Actress\<n\>
 ^.<sent>$ ^actress<n><pl>$ ^'s<gen>$	. \@Actress\<n\> 
@@ -17770,11 +17740,11 @@
 ^.<sent>$ ^altocumulus<n><pl>$ ^'s<gen>$	. \@Altocumulus\<n\> 
 ^.<sent>$ ^altocumulus<n><sg>$	. \@Altocumulus\<n\>
 ^.<sent>$ ^altocumulus<n><pl>$	. \@Altocumulus\<n\>
-^.<sent>$ ^alum<n><sg>$	. \@Alum\<n\>
-^.<sent>$ ^alum<n><pl>$	. \@Alum\<n\>
-^.<sent>$ ^alum<n><pl>$ ^'s<gen>$	. \@Alum\<n\> 
-^.<sent>$ ^alum<n><sg>$	. \@Alum\<n\>
-^.<sent>$ ^alum<n><pl>$	. \@Alum\<n\>
+^.<sent>$ ^alum<n><sg>$	. #Allume\<n\>\<m\>\<sg\>
+^.<sent>$ ^alum<n><pl>$	. #Allume\<n\>\<m\>\<pl\>
+^.<sent>$ ^alum<n><pl>$ ^'s<gen>$	. #Allume\<n\>\<m\>\<pl\> 
+^.<sent>$ ^alum<n><sg>$	. #Allume\<n\>\<m\>\<sg\>
+^.<sent>$ ^alum<n><pl>$	. #Allume\<n\>\<m\>\<pl\>
 ^.<sent>$ ^alumina<n><sg>$	. \@Alumina\<n\>
 ^.<sent>$ ^alumina<n><pl>$	. \@Alumina\<n\>
 ^.<sent>$ ^alumina<n><pl>$ ^'s<gen>$	. \@Alumina\<n\> 
@@ -17866,11 +17836,11 @@
 ^.<sent>$ ^ammonia<n><pl>$ ^'s<gen>$	. \@Ammonia\<n\> 
 ^.<sent>$ ^ammonia<n><sg>$	. \@Ammonia\<n\>
 ^.<sent>$ ^ammonia<n><pl>$	. \@Ammonia\<n\>
-^.<sent>$ ^ammonium<n><sg>$	. \@Ammonium\<n\>
-^.<sent>$ ^ammonium<n><pl>$	. \@Ammonium\<n\>
-^.<sent>$ ^ammonium<n><pl>$ ^'s<gen>$	. \@Ammonium\<n\> 
-^.<sent>$ ^ammonium<n><sg>$	. \@Ammonium\<n\>
-^.<sent>$ ^ammonium<n><pl>$	. \@Ammonium\<n\>
+^.<sent>$ ^ammonium<n><sg>$	. #Ammonio\<n\>\<m\>\<sg\>
+^.<sent>$ ^ammonium<n><pl>$	. #Ammonio\<n\>\<m\>\<pl\>
+^.<sent>$ ^ammonium<n><pl>$ ^'s<gen>$	. #Ammonio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^ammonium<n><sg>$	. #Ammonio\<n\>\<m\>\<sg\>
+^.<sent>$ ^ammonium<n><pl>$	. #Ammonio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^amoeba<n><sg>$	. \@Amoeba\<n\>
 ^.<sent>$ ^amoeba<n><pl>$	. \@Amoeba\<n\>
 ^.<sent>$ ^amoeba<n><pl>$	. \@Amoeba\<n\>
@@ -18430,11 +18400,11 @@
 ^.<sent>$ ^atony<n><pl>$ ^'s<gen>$	. \@Atony\<n\> 
 ^.<sent>$ ^atony<n><sg>$	. \@Atony\<n\>
 ^.<sent>$ ^atony<n><pl>$	. \@Atony\<n\>
-^.<sent>$ ^atrium<n><sg>$	. \@Atrium\<n\>
-^.<sent>$ ^atrium<n><pl>$	. \@Atrium\<n\>
-^.<sent>$ ^atrium<n><pl>$ ^'s<gen>$	. \@Atrium\<n\> 
-^.<sent>$ ^atrium<n><sg>$	. \@Atrium\<n\>
-^.<sent>$ ^atrium<n><pl>$	. \@Atrium\<n\>
+^.<sent>$ ^atrium<n><sg>$	. #Atrio\<n\>\<m\>\<sg\>
+^.<sent>$ ^atrium<n><pl>$	. #Atrio\<n\>\<m\>\<pl\>
+^.<sent>$ ^atrium<n><pl>$ ^'s<gen>$	. #Atrio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^atrium<n><sg>$	. #Atrio\<n\>\<m\>\<sg\>
+^.<sent>$ ^atrium<n><pl>$	. #Atrio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^atrophy<n><sg>$	. \@Atrophy\<n\>
 ^.<sent>$ ^atrophy<n><pl>$	. \@Atrophy\<n\>
 ^.<sent>$ ^atrophy<n><pl>$	. \@Atrophy\<n\>
@@ -18651,11 +18621,11 @@
 ^.<sent>$ ^baritone<n><pl>$ ^'s<gen>$	. \@Baritone\<n\> 
 ^.<sent>$ ^baritone<n><sg>$	. \@Baritone\<n\>
 ^.<sent>$ ^baritone<n><pl>$	. \@Baritone\<n\>
-^.<sent>$ ^barium<n><sg>$	. \@Barium\<n\>
-^.<sent>$ ^barium<n><pl>$	. \@Barium\<n\>
-^.<sent>$ ^barium<n><pl>$ ^'s<gen>$	. \@Barium\<n\> 
-^.<sent>$ ^barium<n><sg>$	. \@Barium\<n\>
-^.<sent>$ ^barium<n><pl>$	. \@Barium\<n\>
+^.<sent>$ ^barium<n><sg>$	. #Bario\<n\>\<m\>\<sg\>
+^.<sent>$ ^barium<n><pl>$	. #Bario\<n\>\<m\>\<pl\>
+^.<sent>$ ^barium<n><pl>$ ^'s<gen>$	. #Bario\<n\>\<m\>\<pl\> 
+^.<sent>$ ^barium<n><sg>$	. #Bario\<n\>\<m\>\<sg\>
+^.<sent>$ ^barium<n><pl>$	. #Bario\<n\>\<m\>\<pl\>
 ^.<sent>$ ^barograph<n><sg>$	. \@Barograph\<n\>
 ^.<sent>$ ^barograph<n><pl>$	. \@Barograph\<n\>
 ^.<sent>$ ^barograph<n><pl>$ ^'s<gen>$	. \@Barograph\<n\> 
@@ -18755,21 +18725,21 @@
 ^.<sent>$ ^bentonite<n><pl>$ ^'s<gen>$	. \@Bentonite\<n\> 
 ^.<sent>$ ^bentonite<n><sg>$	. \@Bentonite\<n\>
 ^.<sent>$ ^bentonite<n><pl>$	. \@Bentonite\<n\>
-^.<sent>$ ^berkelium<n><sg>$	. \@Berkelium\<n\>
-^.<sent>$ ^berkelium<n><pl>$	. \@Berkelium\<n\>
-^.<sent>$ ^berkelium<n><pl>$ ^'s<gen>$	. \@Berkelium\<n\> 
-^.<sent>$ ^berkelium<n><sg>$	. \@Berkelium\<n\>
-^.<sent>$ ^berkelium<n><pl>$	. \@Berkelium\<n\>
+^.<sent>$ ^berkelium<n><sg>$	. #Berkelio\<n\>\<m\>\<sg\>
+^.<sent>$ ^berkelium<n><pl>$	. #Berkelio\<n\>\<m\>\<pl\>
+^.<sent>$ ^berkelium<n><pl>$ ^'s<gen>$	. #Berkelio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^berkelium<n><sg>$	. #Berkelio\<n\>\<m\>\<sg\>
+^.<sent>$ ^berkelium<n><pl>$	. #Berkelio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^berlin<n><sg>$	. \@Berlin\<n\>
 ^.<sent>$ ^berlin<n><pl>$	. \@Berlin\<n\>
 ^.<sent>$ ^berlin<n><pl>$ ^'s<gen>$	. \@Berlin\<n\> 
 ^.<sent>$ ^berlin<n><sg>$	. \@Berlin\<n\>
 ^.<sent>$ ^berlin<n><pl>$	. \@Berlin\<n\>
-^.<sent>$ ^beryllium<n><sg>$	. \@Beryllium\<n\>
-^.<sent>$ ^beryllium<n><pl>$	. \@Beryllium\<n\>
-^.<sent>$ ^beryllium<n><pl>$ ^'s<gen>$	. \@Beryllium\<n\> 
-^.<sent>$ ^beryllium<n><sg>$	. \@Beryllium\<n\>
-^.<sent>$ ^beryllium<n><pl>$	. \@Beryllium\<n\>
+^.<sent>$ ^beryllium<n><sg>$	. #Berillio\<n\>\<m\>\<sg\>
+^.<sent>$ ^beryllium<n><pl>$	. #Berillio\<n\>\<m\>\<pl\>
+^.<sent>$ ^beryllium<n><pl>$ ^'s<gen>$	. #Berillio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^beryllium<n><sg>$	. #Berillio\<n\>\<m\>\<sg\>
+^.<sent>$ ^beryllium<n><pl>$	. #Berillio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^beta<n><sg>$	. \@Beta\<n\>
 ^.<sent>$ ^beta<n><pl>$	. \@Beta\<n\>
 ^.<sent>$ ^beta<n><pl>$ ^'s<gen>$	. \@Beta\<n\> 
@@ -19461,11 +19431,11 @@
 ^.<sent>$ ^cadastre<n><pl>$ ^'s<gen>$	. \@Cadastre\<n\> 
 ^.<sent>$ ^cadastre<n><sg>$	. \@Cadastre\<n\>
 ^.<sent>$ ^cadastre<n><pl>$	. \@Cadastre\<n\>
-^.<sent>$ ^cadmium<n><sg>$	. \@Cadmium\<n\>
-^.<sent>$ ^cadmium<n><pl>$	. \@Cadmium\<n\>
-^.<sent>$ ^cadmium<n><pl>$ ^'s<gen>$	. \@Cadmium\<n\> 
-^.<sent>$ ^cadmium<n><sg>$	. \@Cadmium\<n\>
-^.<sent>$ ^cadmium<n><pl>$	. \@Cadmium\<n\>
+^.<sent>$ ^cadmium<n><sg>$	. #Cadmio\<n\>\<m\>\<sg\>
+^.<sent>$ ^cadmium<n><pl>$	. #Cadmio\<n\>\<m\>\<pl\>
+^.<sent>$ ^cadmium<n><pl>$ ^'s<gen>$	. #Cadmio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^cadmium<n><sg>$	. #Cadmio\<n\>\<m\>\<sg\>
+^.<sent>$ ^cadmium<n><pl>$	. #Cadmio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^caducous<adj>$	. \@Caducous\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^caesura<n><sg>$	. \@Caesura\<n\>
 ^.<sent>$ ^caesura<n><pl>$	. \@Caesura\<n\>
@@ -19478,11 +19448,11 @@
 ^.<sent>$ ^cafe<n><sg>$	. \@Cafe\<n\>
 ^.<sent>$ ^cafe<n><pl>$	. \@Cafe\<n\>
 ^.<sent>$ ^cagily<adv>$	. \@Cagily\<adv\>
-^.<sent>$ ^calcaneum<n><sg>$	. \@Calcaneum\<n\>
-^.<sent>$ ^calcaneum<n><pl>$	. \@Calcaneum\<n\>
-^.<sent>$ ^calcaneum<n><pl>$ ^'s<gen>$	. \@Calcaneum\<n\> 
-^.<sent>$ ^calcaneum<n><sg>$	. \@Calcaneum\<n\>
-^.<sent>$ ^calcaneum<n><pl>$	. \@Calcaneum\<n\>
+^.<sent>$ ^calcaneum<n><sg>$	. #Calcagno\<n\>\<m\>\<sg\>
+^.<sent>$ ^calcaneum<n><pl>$	. #Calcagno\<n\>\<m\>\<pl\>
+^.<sent>$ ^calcaneum<n><pl>$ ^'s<gen>$	. #Calcagno\<n\>\<m\>\<pl\> 
+^.<sent>$ ^calcaneum<n><sg>$	. #Calcagno\<n\>\<m\>\<sg\>
+^.<sent>$ ^calcaneum<n><pl>$	. #Calcagno\<n\>\<m\>\<pl\>
 ^.<sent>$ ^calcic<adj>$	. \@Calcic\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^calcite<n><sg>$	. \@Calcite\<n\>
 ^.<sent>$ ^calcite<n><pl>$	. \@Calcite\<n\>
@@ -19490,11 +19460,11 @@
 ^.<sent>$ ^calcite<n><sg>$	. \@Calcite\<n\>
 ^.<sent>$ ^calcite<n><pl>$	. \@Calcite\<n\>
 ^.<sent>$ ^calculable<adj>$	. \@Calculable\<adj\>\<m\>\<sg\>
-^.<sent>$ ^californium<n><sg>$	. \@Californium\<n\>
-^.<sent>$ ^californium<n><pl>$	. \@Californium\<n\>
-^.<sent>$ ^californium<n><pl>$ ^'s<gen>$	. \@Californium\<n\> 
-^.<sent>$ ^californium<n><sg>$	. \@Californium\<n\>
-^.<sent>$ ^californium<n><pl>$	. \@Californium\<n\>
+^.<sent>$ ^californium<n><sg>$	. #Californio\<n\>\<m\>\<sg\>
+^.<sent>$ ^californium<n><pl>$	. #Californio\<n\>\<m\>\<pl\>
+^.<sent>$ ^californium<n><pl>$ ^'s<gen>$	. #Californio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^californium<n><sg>$	. #Californio\<n\>\<m\>\<sg\>
+^.<sent>$ ^californium<n><pl>$	. #Californio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^calligraphy<n><sg>$	. \@Calligraphy\<n\>
 ^.<sent>$ ^calligraphy<n><pl>$	. \@Calligraphy\<n\>
 ^.<sent>$ ^calligraphy<n><pl>$	. \@Calligraphy\<n\>
@@ -19795,22 +19765,22 @@
 ^.<sent>$ ^ceratin<n><pl>$ ^'s<gen>$	. \@Ceratin\<n\> 
 ^.<sent>$ ^ceratin<n><sg>$	. \@Ceratin\<n\>
 ^.<sent>$ ^ceratin<n><pl>$	. \@Ceratin\<n\>
-^.<sent>$ ^cerebellum<n><sg>$	. \@Cerebellum\<n\>
-^.<sent>$ ^cerebellum<n><pl>$	. \@Cerebellum\<n\>
-^.<sent>$ ^cerebellum<n><pl>$ ^'s<gen>$	. \@Cerebellum\<n\> 
-^.<sent>$ ^cerebellum<n><sg>$	. \@Cerebellum\<n\>
-^.<sent>$ ^cerebellum<n><pl>$	. \@Cerebellum\<n\>
-^.<sent>$ ^cerium<n><sg>$	. \@Cerium\<n\>
-^.<sent>$ ^cerium<n><pl>$	. \@Cerium\<n\>
-^.<sent>$ ^cerium<n><pl>$ ^'s<gen>$	. \@Cerium\<n\> 
-^.<sent>$ ^cerium<n><sg>$	. \@Cerium\<n\>
-^.<sent>$ ^cerium<n><pl>$	. \@Cerium\<n\>
+^.<sent>$ ^cerebellum<n><sg>$	. #Cervelletto\<n\>\<m\>\<sg\>
+^.<sent>$ ^cerebellum<n><pl>$	. #Cervelletto\<n\>\<m\>\<pl\>
+^.<sent>$ ^cerebellum<n><pl>$ ^'s<gen>$	. #Cervelletto\<n\>\<m\>\<pl\> 
+^.<sent>$ ^cerebellum<n><sg>$	. #Cervelletto\<n\>\<m\>\<sg\>
+^.<sent>$ ^cerebellum<n><pl>$	. #Cervelletto\<n\>\<m\>\<pl\>
+^.<sent>$ ^cerium<n><sg>$	. #Cerio\<n\>\<m\>\<sg\>
+^.<sent>$ ^cerium<n><pl>$	. #Cerio\<n\>\<m\>\<pl\>
+^.<sent>$ ^cerium<n><pl>$ ^'s<gen>$	. #Cerio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^cerium<n><sg>$	. #Cerio\<n\>\<m\>\<sg\>
+^.<sent>$ ^cerium<n><pl>$	. #Cerio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^cervical<adj>$	. \@Cervical\<adj\>\<m\>\<sg\>
-^.<sent>$ ^cesium<n><sg>$	. \@Cesium\<n\>
-^.<sent>$ ^cesium<n><pl>$	. \@Cesium\<n\>
-^.<sent>$ ^cesium<n><pl>$ ^'s<gen>$	. \@Cesium\<n\> 
-^.<sent>$ ^cesium<n><sg>$	. \@Cesium\<n\>
-^.<sent>$ ^cesium<n><pl>$	. \@Cesium\<n\>
+^.<sent>$ ^cesium<n><sg>$	. #Cesio\<n\>\<m\>\<sg\>
+^.<sent>$ ^cesium<n><pl>$	. #Cesio\<n\>\<m\>\<pl\>
+^.<sent>$ ^cesium<n><pl>$ ^'s<gen>$	. #Cesio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^cesium<n><sg>$	. #Cesio\<n\>\<m\>\<sg\>
+^.<sent>$ ^cesium<n><pl>$	. #Cesio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^chaining<n><sg>$	. \@Chaining\<n\>
 ^.<sent>$ ^chaining<n><pl>$	. \@Chaining\<n\>
 ^.<sent>$ ^chaining<n><pl>$ ^'s<gen>$	. \@Chaining\<n\> 
@@ -19998,22 +19968,22 @@
 ^.<sent>$ ^chromite<n><pl>$ ^'s<gen>$	. \@Chromite\<n\> 
 ^.<sent>$ ^chromite<n><sg>$	. \@Chromite\<n\>
 ^.<sent>$ ^chromite<n><pl>$	. \@Chromite\<n\>
-^.<sent>$ ^chromium<n><sg>$	. \@Chromium\<n\>
-^.<sent>$ ^chromium<n><pl>$	. \@Chromium\<n\>
-^.<sent>$ ^chromium<n><pl>$ ^'s<gen>$	. \@Chromium\<n\> 
-^.<sent>$ ^chromium<n><sg>$	. \@Chromium\<n\>
-^.<sent>$ ^chromium<n><pl>$	. \@Chromium\<n\>
+^.<sent>$ ^chromium<n><sg>$	. #Cromo\<n\>\<m\>\<sg\>
+^.<sent>$ ^chromium<n><pl>$	. #Cromo\<n\>\<m\>\<pl\>
+^.<sent>$ ^chromium<n><pl>$ ^'s<gen>$	. #Cromo\<n\>\<m\>\<pl\> 
+^.<sent>$ ^chromium<n><sg>$	. #Cromo\<n\>\<m\>\<sg\>
+^.<sent>$ ^chromium<n><pl>$	. #Cromo\<n\>\<m\>\<pl\>
 ^.<sent>$ ^chromosomal<adj>$	. \@Chromosomal\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^chronograph<n><sg>$	. \@Chronograph\<n\>
 ^.<sent>$ ^chronograph<n><pl>$	. \@Chronograph\<n\>
 ^.<sent>$ ^chronograph<n><pl>$ ^'s<gen>$	. \@Chronograph\<n\> 
 ^.<sent>$ ^chronograph<n><sg>$	. \@Chronograph\<n\>
 ^.<sent>$ ^chronograph<n><pl>$	. \@Chronograph\<n\>
-^.<sent>$ ^chrysanthemum<n><sg>$	. \@Chrysanthemum\<n\>
-^.<sent>$ ^chrysanthemum<n><pl>$	. \@Chrysanthemum\<n\>
-^.<sent>$ ^chrysanthemum<n><pl>$ ^'s<gen>$	. \@Chrysanthemum\<n\> 
-^.<sent>$ ^chrysanthemum<n><sg>$	. \@Chrysanthemum\<n\>
-^.<sent>$ ^chrysanthemum<n><pl>$	. \@Chrysanthemum\<n\>
+^.<sent>$ ^chrysanthemum<n><sg>$	. #Chrysanthemum\<n\>\<m\>\<sg\>
+^.<sent>$ ^chrysanthemum<n><pl>$	. #Chrysanthemum\<n\>\<m\>\<pl\>
+^.<sent>$ ^chrysanthemum<n><pl>$ ^'s<gen>$	. #Chrysanthemum\<n\>\<m\>\<pl\> 
+^.<sent>$ ^chrysanthemum<n><sg>$	. #Chrysanthemum\<n\>\<m\>\<sg\>
+^.<sent>$ ^chrysanthemum<n><pl>$	. #Chrysanthemum\<n\>\<m\>\<pl\>
 ^.<sent>$ ^chrysolite<n><sg>$	. \@Chrysolite\<n\>
 ^.<sent>$ ^chrysolite<n><pl>$	. \@Chrysolite\<n\>
 ^.<sent>$ ^chrysolite<n><pl>$ ^'s<gen>$	. \@Chrysolite\<n\> 
@@ -20192,11 +20162,11 @@
 ^.<sent>$ ^coelenterate<n><sg>$	. \@Coelenterate\<n\>
 ^.<sent>$ ^coelenterate<n><pl>$	. \@Coelenterate\<n\>
 ^.<sent>$ ^coercive<adj>$	. \@Coercive\<adj\>\<m\>\<sg\>
-^.<sent>$ ^colchicum<n><sg>$	. \@Colchicum\<n\>
-^.<sent>$ ^colchicum<n><pl>$	. \@Colchicum\<n\>
-^.<sent>$ ^colchicum<n><pl>$ ^'s<gen>$	. \@Colchicum\<n\> 
-^.<sent>$ ^colchicum<n><sg>$	. \@Colchicum\<n\>
-^.<sent>$ ^colchicum<n><pl>$	. \@Colchicum\<n\>
+^.<sent>$ ^colchicum<n><sg>$	. #Colchicum\<n\>\<m\>\<sg\>
+^.<sent>$ ^colchicum<n><pl>$	. #Colchicum\<n\>\<m\>\<pl\>
+^.<sent>$ ^colchicum<n><pl>$ ^'s<gen>$	. #Colchicum\<n\>\<m\>\<pl\> 
+^.<sent>$ ^colchicum<n><sg>$	. #Colchicum\<n\>\<m\>\<sg\>
+^.<sent>$ ^colchicum<n><pl>$	. #Colchicum\<n\>\<m\>\<pl\>
 ^.<sent>$ ^cold-short<adj>$	. \@Cold-short\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^colemanite<n><sg>$	. \@Colemanite\<n\>
 ^.<sent>$ ^colemanite<n><pl>$	. \@Colemanite\<n\>
@@ -20275,11 +20245,11 @@
 ^.<sent>$ ^colorimetry<n><sg>$	. \@Colorimetry\<n\>
 ^.<sent>$ ^colorimetry<n><pl>$	. \@Colorimetry\<n\>
 ^.<sent>$ ^colorimetric<adj>$	. \@Colorimetric\<adj\>\<m\>\<sg\>
-^.<sent>$ ^colostrum<n><sg>$	. \@Colostrum\<n\>
-^.<sent>$ ^colostrum<n><pl>$	. \@Colostrum\<n\>
-^.<sent>$ ^colostrum<n><pl>$ ^'s<gen>$	. \@Colostrum\<n\> 
-^.<sent>$ ^colostrum<n><sg>$	. \@Colostrum\<n\>
-^.<sent>$ ^colostrum<n><pl>$	. \@Colostrum\<n\>
+^.<sent>$ ^colostrum<n><sg>$	. #Colostro\<n\>\<m\>\<sg\>
+^.<sent>$ ^colostrum<n><pl>$	. #Colostro\<n\>\<m\>\<pl\>
+^.<sent>$ ^colostrum<n><pl>$ ^'s<gen>$	. #Colostro\<n\>\<m\>\<pl\> 
+^.<sent>$ ^colostrum<n><sg>$	. #Colostro\<n\>\<m\>\<sg\>
+^.<sent>$ ^colostrum<n><pl>$	. #Colostro\<n\>\<m\>\<pl\>
 ^.<sent>$ ^columnar<adj>$	. \@Columnar\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^comanagement<n><sg>$	. \@Comanagement\<n\>
 ^.<sent>$ ^comanagement<n><pl>$	. \@Comanagement\<n\>
@@ -20374,11 +20344,11 @@
 ^.<sent>$ ^condolence<n><pl>$ ^'s<gen>$	. \@Condolence\<n\> 
 ^.<sent>$ ^condolence<n><sg>$	. \@Condolence\<n\>
 ^.<sent>$ ^condolence<n><pl>$	. \@Condolence\<n\>
-^.<sent>$ ^condominium<n><sg>$	. \@Condominium\<n\>
-^.<sent>$ ^condominium<n><pl>$	. \@Condominium\<n\>
-^.<sent>$ ^condominium<n><pl>$ ^'s<gen>$	. \@Condominium\<n\> 
-^.<sent>$ ^condominium<n><sg>$	. \@Condominium\<n\>
-^.<sent>$ ^condominium<n><pl>$	. \@Condominium\<n\>
+^.<sent>$ ^condominium<n><sg>$	. #Condominio\<n\>\<m\>\<sg\>
+^.<sent>$ ^condominium<n><pl>$	. #Condominio\<n\>\<m\>\<pl\>
+^.<sent>$ ^condominium<n><pl>$ ^'s<gen>$	. #Condominio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^condominium<n><sg>$	. #Condominio\<n\>\<m\>\<sg\>
+^.<sent>$ ^condominium<n><pl>$	. #Condominio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^conductance<n><sg>$	. \@Conductance\<n\>
 ^.<sent>$ ^conductance<n><pl>$	. \@Conductance\<n\>
 ^.<sent>$ ^conductance<n><pl>$ ^'s<gen>$	. \@Conductance\<n\> 
@@ -21271,11 +21241,6 @@
 ^.<sent>$ ^detour<n><sg>$	. \@Detour\<n\>
 ^.<sent>$ ^detour<n><pl>$	. \@Detour\<n\>
 ^.<sent>$ ^detrital<adj>$	. \@Detrital\<adj\>\<m\>\<sg\>
-^.<sent>$ ^deuterium<n><sg>$	. \@Deuterium\<n\>
-^.<sent>$ ^deuterium<n><pl>$	. \@Deuterium\<n\>
-^.<sent>$ ^deuterium<n><pl>$ ^'s<gen>$	. \@Deuterium\<n\> 
-^.<sent>$ ^deuterium<n><sg>$	. \@Deuterium\<n\>
-^.<sent>$ ^deuterium<n><pl>$	. \@Deuterium\<n\>
 ^.<sent>$ ^developer<n><sg>$	. \@Developer\<n\>
 ^.<sent>$ ^developer<n><pl>$	. \@Developer\<n\>
 ^.<sent>$ ^developer<n><pl>$ ^'s<gen>$	. \@Developer\<n\> 
@@ -21590,11 +21555,11 @@
 ^.<sent>$ ^dive<n><sg>$	. \@Dive\<n\>
 ^.<sent>$ ^dive<n><pl>$	. \@Dive\<n\>
 ^.<sent>$ ^divergent<adj>$	. \@Divergent\<adj\>\<m\>\<sg\>
-^.<sent>$ ^diverticulum<n><sg>$	. \@Diverticulum\<n\>
-^.<sent>$ ^diverticulum<n><pl>$	. \@Diverticulum\<n\>
-^.<sent>$ ^diverticulum<n><pl>$ ^'s<gen>$	. \@Diverticulum\<n\> 
-^.<sent>$ ^diverticulum<n><sg>$	. \@Diverticulum\<n\>
-^.<sent>$ ^diverticulum<n><pl>$	. \@Diverticulum\<n\>
+^.<sent>$ ^diverticulum<n><sg>$	. #Diverticolo\<n\>\<m\>\<sg\>
+^.<sent>$ ^diverticulum<n><pl>$	. #Diverticolo\<n\>\<m\>\<pl\>
+^.<sent>$ ^diverticulum<n><pl>$ ^'s<gen>$	. #Diverticolo\<n\>\<m\>\<pl\> 
+^.<sent>$ ^diverticulum<n><sg>$	. #Diverticolo\<n\>\<m\>\<sg\>
+^.<sent>$ ^diverticulum<n><pl>$	. #Diverticolo\<n\>\<m\>\<pl\>
 ^.<sent>$ ^docudrama<n><sg>$	. \@Docudrama\<n\>
 ^.<sent>$ ^docudrama<n><pl>$	. \@Docudrama\<n\>
 ^.<sent>$ ^docudrama<n><pl>$ ^'s<gen>$	. \@Docudrama\<n\> 
@@ -22241,11 +22206,11 @@
 ^.<sent>$ ^epitaph<n><pl>$ ^'s<gen>$	. \@Epitaph\<n\> 
 ^.<sent>$ ^epitaph<n><sg>$	. \@Epitaph\<n\>
 ^.<sent>$ ^epitaph<n><pl>$	. \@Epitaph\<n\>
-^.<sent>$ ^epithalamium<n><sg>$	. \@Epithalamium\<n\>
-^.<sent>$ ^epithalamium<n><pl>$	. \@Epithalamium\<n\>
-^.<sent>$ ^epithalamium<n><pl>$ ^'s<gen>$	. \@Epithalamium\<n\> 
-^.<sent>$ ^epithalamium<n><sg>$	. \@Epithalamium\<n\>
-^.<sent>$ ^epithalamium<n><pl>$	. \@Epithalamium\<n\>
+^.<sent>$ ^epithalamium<n><sg>$	. #Epitalamio\<n\>\<m\>\<sg\>
+^.<sent>$ ^epithalamium<n><pl>$	. #Epitalamio\<n\>\<m\>\<pl\>
+^.<sent>$ ^epithalamium<n><pl>$ ^'s<gen>$	. #Epitalamio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^epithalamium<n><sg>$	. #Epitalamio\<n\>\<m\>\<sg\>
+^.<sent>$ ^epithalamium<n><pl>$	. #Epitalamio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^epithelium<n><sg>$	. \@Epithelium\<n\>
 ^.<sent>$ ^epithelium<n><pl>$	. \@Epithelium\<n\>
 ^.<sent>$ ^epithelium<n><pl>$ ^'s<gen>$	. \@Epithelium\<n\> 
@@ -22276,11 +22241,11 @@
 ^.<sent>$ ^equitation<n><pl>$	. \@Equitation\<n\>
 ^.<sent>$ ^equivocal<adj>$	. \@Equivocal\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^erasable<adj>$	. \@Erasable\<adj\>\<m\>\<sg\>
-^.<sent>$ ^erbium<n><sg>$	. \@Erbium\<n\>
-^.<sent>$ ^erbium<n><pl>$	. \@Erbium\<n\>
-^.<sent>$ ^erbium<n><pl>$ ^'s<gen>$	. \@Erbium\<n\> 
-^.<sent>$ ^erbium<n><sg>$	. \@Erbium\<n\>
-^.<sent>$ ^erbium<n><pl>$	. \@Erbium\<n\>
+^.<sent>$ ^erbium<n><sg>$	. #Erbio\<n\>\<m\>\<sg\>
+^.<sent>$ ^erbium<n><pl>$	. #Erbio\<n\>\<m\>\<pl\>
+^.<sent>$ ^erbium<n><pl>$ ^'s<gen>$	. #Erbio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^erbium<n><sg>$	. #Erbio\<n\>\<m\>\<sg\>
+^.<sent>$ ^erbium<n><pl>$	. #Erbio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^ergodic<adj>$	. \@Ergodic\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^ergonomical<adj>$	. \@Ergonomical\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^ergonomics<n><sg>$	. \@Ergonomics\<n\>
@@ -22418,11 +22383,11 @@
 ^.<sent>$ ^euphemistic<adj>$	. \@Euphemistic\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^euphoretic<adj>$	. \@Euphoretic\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^euphoric<adj>$	. \@Euphoric\<adj\>\<m\>\<sg\>
-^.<sent>$ ^europium<n><sg>$	. \@Europium\<n\>
-^.<sent>$ ^europium<n><pl>$	. \@Europium\<n\>
-^.<sent>$ ^europium<n><pl>$ ^'s<gen>$	. \@Europium\<n\> 
-^.<sent>$ ^europium<n><sg>$	. \@Europium\<n\>
-^.<sent>$ ^europium<n><pl>$	. \@Europium\<n\>
+^.<sent>$ ^europium<n><sg>$	. #Europio\<n\>\<m\>\<sg\>
+^.<sent>$ ^europium<n><pl>$	. #Europio\<n\>\<m\>\<pl\>
+^.<sent>$ ^europium<n><pl>$ ^'s<gen>$	. #Europio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^europium<n><sg>$	. #Europio\<n\>\<m\>\<sg\>
+^.<sent>$ ^europium<n><pl>$	. #Europio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^eutrophic<adj>$	. \@Eutrophic\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^eversion<n><sg>$	. \@Eversion\<n\>
 ^.<sent>$ ^eversion<n><pl>$	. \@Eversion\<n\>
@@ -22632,11 +22597,11 @@
 ^.<sent>$ ^felt<n><pl>$ ^'s<gen>$	. \@Felt\<n\> 
 ^.<sent>$ ^felt<n><sg>$	. \@Felt\<n\>
 ^.<sent>$ ^felt<n><pl>$	. \@Felt\<n\>
-^.<sent>$ ^fermium<n><sg>$	. \@Fermium\<n\>
-^.<sent>$ ^fermium<n><pl>$	. \@Fermium\<n\>
-^.<sent>$ ^fermium<n><pl>$ ^'s<gen>$	. \@Fermium\<n\> 
-^.<sent>$ ^fermium<n><sg>$	. \@Fermium\<n\>
-^.<sent>$ ^fermium<n><pl>$	. \@Fermium\<n\>
+^.<sent>$ ^fermium<n><sg>$	. #Fermio\<n\>\<m\>\<sg\>
+^.<sent>$ ^fermium<n><pl>$	. #Fermio\<n\>\<m\>\<pl\>
+^.<sent>$ ^fermium<n><pl>$ ^'s<gen>$	. #Fermio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^fermium<n><sg>$	. #Fermio\<n\>\<m\>\<sg\>
+^.<sent>$ ^fermium<n><pl>$	. #Fermio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^fern<n><sg>$	. \@Fern\<n\>
 ^.<sent>$ ^fern<n><pl>$	. \@Fern\<n\>
 ^.<sent>$ ^fern<n><pl>$ ^'s<gen>$	. \@Fern\<n\> 
@@ -22945,21 +22910,21 @@
 ^.<sent>$ ^furrier<n><sg>$	. \@Furrier\<n\>
 ^.<sent>$ ^furrier<n><pl>$	. \@Furrier\<n\>
 ^.<sent>$ ^fusible<adj>$	. \@Fusible\<adj\>\<m\>\<sg\>
-^.<sent>$ ^gadolinium<n><sg>$	. \@Gadolinium\<n\>
-^.<sent>$ ^gadolinium<n><pl>$	. \@Gadolinium\<n\>
-^.<sent>$ ^gadolinium<n><pl>$ ^'s<gen>$	. \@Gadolinium\<n\> 
-^.<sent>$ ^gadolinium<n><sg>$	. \@Gadolinium\<n\>
-^.<sent>$ ^gadolinium<n><pl>$	. \@Gadolinium\<n\>
+^.<sent>$ ^gadolinium<n><sg>$	. #Gadolinio\<n\>\<m\>\<sg\>
+^.<sent>$ ^gadolinium<n><pl>$	. #Gadolinio\<n\>\<m\>\<pl\>
+^.<sent>$ ^gadolinium<n><pl>$ ^'s<gen>$	. #Gadolinio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^gadolinium<n><sg>$	. #Gadolinio\<n\>\<m\>\<sg\>
+^.<sent>$ ^gadolinium<n><pl>$	. #Gadolinio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^gall<n><sg>$	. \@Gall\<n\>
 ^.<sent>$ ^gall<n><pl>$	. \@Gall\<n\>
 ^.<sent>$ ^gall<n><pl>$ ^'s<gen>$	. \@Gall\<n\> 
 ^.<sent>$ ^gall<n><sg>$	. \@Gall\<n\>
 ^.<sent>$ ^gall<n><pl>$	. \@Gall\<n\>
-^.<sent>$ ^gallium<n><sg>$	. \@Gallium\<n\>
-^.<sent>$ ^gallium<n><pl>$	. \@Gallium\<n\>
-^.<sent>$ ^gallium<n><pl>$ ^'s<gen>$	. \@Gallium\<n\> 
-^.<sent>$ ^gallium<n><sg>$	. \@Gallium\<n\>
-^.<sent>$ ^gallium<n><pl>$	. \@Gallium\<n\>
+^.<sent>$ ^gallium<n><sg>$	. #Gallio\<n\>\<m\>\<sg\>
+^.<sent>$ ^gallium<n><pl>$	. #Gallio\<n\>\<m\>\<pl\>
+^.<sent>$ ^gallium<n><pl>$ ^'s<gen>$	. #Gallio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^gallium<n><sg>$	. #Gallio\<n\>\<m\>\<sg\>
+^.<sent>$ ^gallium<n><pl>$	. #Gallio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^galvanic<adj>$	. \@Galvanic\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^galvanizing<n><sg>$	. \@Galvanizing\<n\>
 ^.<sent>$ ^galvanizing<n><pl>$	. \@Galvanizing\<n\>
@@ -23151,11 +23116,11 @@
 ^.<sent>$ ^germanism<n><pl>$ ^'s<gen>$	. \@Germanism\<n\> 
 ^.<sent>$ ^germanism<n><sg>$	. \@Germanism\<n\>
 ^.<sent>$ ^germanism<n><pl>$	. \@Germanism\<n\>
-^.<sent>$ ^germanium<n><sg>$	. \@Germanium\<n\>
-^.<sent>$ ^germanium<n><pl>$	. \@Germanium\<n\>
-^.<sent>$ ^germanium<n><pl>$ ^'s<gen>$	. \@Germanium\<n\> 
-^.<sent>$ ^germanium<n><sg>$	. \@Germanium\<n\>
-^.<sent>$ ^germanium<n><pl>$	. \@Germanium\<n\>
+^.<sent>$ ^germanium<n><sg>$	. #Germanio\<n\>\<m\>\<sg\>
+^.<sent>$ ^germanium<n><pl>$	. #Germanio\<n\>\<m\>\<pl\>
+^.<sent>$ ^germanium<n><pl>$ ^'s<gen>$	. #Germanio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^germanium<n><sg>$	. #Germanio\<n\>\<m\>\<sg\>
+^.<sent>$ ^germanium<n><pl>$	. #Germanio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^germinal<adj>$	. \@Germinal\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^gerontology<n><sg>$	. \@Gerontology\<n\>
 ^.<sent>$ ^gerontology<n><pl>$	. \@Gerontology\<n\>
@@ -23639,11 +23604,11 @@
 ^.<sent>$ ^haberdashery<n><pl>$ ^'s<gen>$	. \@Haberdashery\<n\> 
 ^.<sent>$ ^haberdashery<n><sg>$	. \@Haberdashery\<n\>
 ^.<sent>$ ^haberdashery<n><pl>$	. \@Haberdashery\<n\>
-^.<sent>$ ^hafnium<n><sg>$	. \@Hafnium\<n\>
-^.<sent>$ ^hafnium<n><pl>$	. \@Hafnium\<n\>
-^.<sent>$ ^hafnium<n><pl>$ ^'s<gen>$	. \@Hafnium\<n\> 
-^.<sent>$ ^hafnium<n><sg>$	. \@Hafnium\<n\>
-^.<sent>$ ^hafnium<n><pl>$	. \@Hafnium\<n\>
+^.<sent>$ ^hafnium<n><sg>$	. #Afnio\<n\>\<m\>\<sg\>
+^.<sent>$ ^hafnium<n><pl>$	. #Afnio\<n\>\<m\>\<pl\>
+^.<sent>$ ^hafnium<n><pl>$ ^'s<gen>$	. #Afnio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^hafnium<n><sg>$	. #Afnio\<n\>\<m\>\<sg\>
+^.<sent>$ ^hafnium<n><pl>$	. #Afnio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^hagiography<n><sg>$	. \@Hagiography\<n\>
 ^.<sent>$ ^hagiography<n><pl>$	. \@Hagiography\<n\>
 ^.<sent>$ ^hagiography<n><pl>$	. \@Hagiography\<n\>
@@ -23724,16 +23689,16 @@
 ^.<sent>$ ^harem<n><pl>$ ^'s<gen>$	. \@Harem\<n\> 
 ^.<sent>$ ^harem<n><sg>$	. \@Harem\<n\>
 ^.<sent>$ ^harem<n><pl>$	. \@Harem\<n\>
-^.<sent>$ ^harmonium<n><sg>$	. \@Harmonium\<n\>
-^.<sent>$ ^harmonium<n><pl>$	. \@Harmonium\<n\>
-^.<sent>$ ^harmonium<n><pl>$ ^'s<gen>$	. \@Harmonium\<n\> 
-^.<sent>$ ^harmonium<n><sg>$	. \@Harmonium\<n\>
-^.<sent>$ ^harmonium<n><pl>$	. \@Harmonium\<n\>
-^.<sent>$ ^haustorium<n><sg>$	. \@Haustorium\<n\>
-^.<sent>$ ^haustorium<n><pl>$	. \@Haustorium\<n\>
-^.<sent>$ ^haustorium<n><pl>$ ^'s<gen>$	. \@Haustorium\<n\> 
-^.<sent>$ ^haustorium<n><sg>$	. \@Haustorium\<n\>
-^.<sent>$ ^haustorium<n><pl>$	. \@Haustorium\<n\>
+^.<sent>$ ^harmonium<n><sg>$	. #Armonium\<n\>\<m\>\<sg\>
+^.<sent>$ ^harmonium<n><pl>$	. #Armonium\<n\>\<m\>\<pl\>
+^.<sent>$ ^harmonium<n><pl>$ ^'s<gen>$	. #Armonium\<n\>\<m\>\<pl\> 
+^.<sent>$ ^harmonium<n><sg>$	. #Armonium\<n\>\<m\>\<sg\>
+^.<sent>$ ^harmonium<n><pl>$	. #Armonium\<n\>\<m\>\<pl\>
+^.<sent>$ ^haustorium<n><sg>$	. #Austorio\<n\>\<m\>\<sg\>
+^.<sent>$ ^haustorium<n><pl>$	. #Austorio\<n\>\<m\>\<pl\>
+^.<sent>$ ^haustorium<n><pl>$ ^'s<gen>$	. #Austorio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^haustorium<n><sg>$	. #Austorio\<n\>\<m\>\<sg\>
+^.<sent>$ ^haustorium<n><pl>$	. #Austorio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^hay<n><sg>$	. \@Hay\<n\>
 ^.<sent>$ ^hay<n><pl>$	. \@Hay\<n\>
 ^.<sent>$ ^hay<n><pl>$ ^'s<gen>$	. \@Hay\<n\> 
@@ -23775,11 +23740,11 @@
 ^.<sent>$ ^heliport<n><pl>$ ^'s<gen>$	. \@Heliport\<n\> 
 ^.<sent>$ ^heliport<n><sg>$	. \@Heliport\<n\>
 ^.<sent>$ ^heliport<n><pl>$	. \@Heliport\<n\>
-^.<sent>$ ^helium<n><sg>$	. \@Helium\<n\>
-^.<sent>$ ^helium<n><pl>$	. \@Helium\<n\>
-^.<sent>$ ^helium<n><pl>$ ^'s<gen>$	. \@Helium\<n\> 
-^.<sent>$ ^helium<n><sg>$	. \@Helium\<n\>
-^.<sent>$ ^helium<n><pl>$	. \@Helium\<n\>
+^.<sent>$ ^helium<n><sg>$	. #Elio\<n\>\<m\>\<sg\>
+^.<sent>$ ^helium<n><pl>$	. #Elio\<n\>\<m\>\<pl\>
+^.<sent>$ ^helium<n><pl>$ ^'s<gen>$	. #Elio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^helium<n><sg>$	. #Elio\<n\>\<m\>\<sg\>
+^.<sent>$ ^helium<n><pl>$	. #Elio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^hellenism<n><sg>$	. \@Hellenism\<n\>
 ^.<sent>$ ^hellenism<n><pl>$	. \@Hellenism\<n\>
 ^.<sent>$ ^hellenism<n><pl>$ ^'s<gen>$	. \@Hellenism\<n\> 
@@ -24025,11 +23990,11 @@
 ^.<sent>$ ^hodman<n><pl>$ ^'s<gen>$	. \@Hodman\<n\> 
 ^.<sent>$ ^hodman<n><sg>$	. \@Hodman\<n\>
 ^.<sent>$ ^hodman<n><pl>$	. \@Hodman\<n\>
-^.<sent>$ ^holmium<n><sg>$	. \@Holmium\<n\>
-^.<sent>$ ^holmium<n><pl>$	. \@Holmium\<n\>
-^.<sent>$ ^holmium<n><pl>$ ^'s<gen>$	. \@Holmium\<n\> 
-^.<sent>$ ^holmium<n><sg>$	. \@Holmium\<n\>
-^.<sent>$ ^holmium<n><pl>$	. \@Holmium\<n\>
+^.<sent>$ ^holmium<n><sg>$	. #Olmio\<n\>\<m\>\<sg\>
+^.<sent>$ ^holmium<n><pl>$	. #Olmio\<n\>\<m\>\<pl\>
+^.<sent>$ ^holmium<n><pl>$ ^'s<gen>$	. #Olmio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^holmium<n><sg>$	. #Olmio\<n\>\<m\>\<sg\>
+^.<sent>$ ^holmium<n><pl>$	. #Olmio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^hologram<n><sg>$	. \@Hologram\<n\>
 ^.<sent>$ ^hologram<n><pl>$	. \@Hologram\<n\>
 ^.<sent>$ ^hologram<n><pl>$ ^'s<gen>$	. \@Hologram\<n\> 
@@ -24288,11 +24253,11 @@
 ^.<sent>$ ^hypnotic<adj>$	. \@Hypnotic\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^hypocoristic<adj>$	. \@Hypocoristic\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^hypogastric<adj>$	. \@Hypogastric\<adj\>\<m\>\<sg\>
-^.<sent>$ ^hypogeum<n><sg>$	. \@Hypogeum\<n\>
-^.<sent>$ ^hypogeum<n><pl>$	. \@Hypogeum\<n\>
-^.<sent>$ ^hypogeum<n><pl>$ ^'s<gen>$	. \@Hypogeum\<n\> 
-^.<sent>$ ^hypogeum<n><sg>$	. \@Hypogeum\<n\>
-^.<sent>$ ^hypogeum<n><pl>$	. \@Hypogeum\<n\>
+^.<sent>$ ^hypogeum<n><sg>$	. #Ipogeo\<n\>\<m\>\<sg\>
+^.<sent>$ ^hypogeum<n><pl>$	. #Ipogeo\<n\>\<m\>\<pl\>
+^.<sent>$ ^hypogeum<n><pl>$ ^'s<gen>$	. #Ipogeo\<n\>\<m\>\<pl\> 
+^.<sent>$ ^hypogeum<n><sg>$	. #Ipogeo\<n\>\<m\>\<sg\>
+^.<sent>$ ^hypogeum<n><pl>$	. #Ipogeo\<n\>\<m\>\<pl\>
 ^.<sent>$ ^hyponym<n><sg>$	. \@Hyponym\<n\>
 ^.<sent>$ ^hyponym<n><pl>$	. \@Hyponym\<n\>
 ^.<sent>$ ^hyponym<n><pl>$ ^'s<gen>$	. \@Hyponym\<n\> 
@@ -24375,11 +24340,11 @@
 ^.<sent>$ ^ignominy<n><sg>$	. \@Ignominy\<n\>
 ^.<sent>$ ^ignominy<n><pl>$	. \@Ignominy\<n\>
 ^.<sent>$ ^ignorant<adj>$	. \@Ignorant\<adj\>\<m\>\<sg\>
-^.<sent>$ ^ileum<n><sg>$	. \@Ileum\<n\>
-^.<sent>$ ^ileum<n><pl>$	. \@Ileum\<n\>
-^.<sent>$ ^ileum<n><pl>$ ^'s<gen>$	. \@Ileum\<n\> 
-^.<sent>$ ^ileum<n><sg>$	. \@Ileum\<n\>
-^.<sent>$ ^ileum<n><pl>$	. \@Ileum\<n\>
+^.<sent>$ ^ileum<n><sg>$	. #Ileo\<n\>\<m\>\<sg\>
+^.<sent>$ ^ileum<n><pl>$	. #Ileo\<n\>\<m\>\<pl\>
+^.<sent>$ ^ileum<n><pl>$ ^'s<gen>$	. #Ileo\<n\>\<m\>\<pl\> 
+^.<sent>$ ^ileum<n><sg>$	. #Ileo\<n\>\<m\>\<sg\>
+^.<sent>$ ^ileum<n><pl>$	. #Ileo\<n\>\<m\>\<pl\>
 ^.<sent>$ ^illicitly<adv>$	. \@Illicitly\<adv\>
 ^.<sent>$ ^illogical<adj>$	. \@Illogical\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^illuviation<n><sg>$	. \@Illuviation\<n\>
@@ -24712,11 +24677,11 @@
 ^.<sent>$ ^intermolecular<adj>$	. \@Intermolecular\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^interpersonal<adj>$	. \@Interpersonal\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^interpretable<adj>$	. \@Interpretable\<adj\>\<m\>\<sg\>
-^.<sent>$ ^interregnum<n><sg>$	. \@Interregnum\<n\>
-^.<sent>$ ^interregnum<n><pl>$	. \@Interregnum\<n\>
-^.<sent>$ ^interregnum<n><pl>$ ^'s<gen>$	. \@Interregnum\<n\> 
-^.<sent>$ ^interregnum<n><sg>$	. \@Interregnum\<n\>
-^.<sent>$ ^interregnum<n><pl>$	. \@Interregnum\<n\>
+^.<sent>$ ^interregnum<n><sg>$	. #Interregnum\<n\>\<m\>\<sg\>
+^.<sent>$ ^interregnum<n><pl>$	. #Interregnum\<n\>\<m\>\<pl\>
+^.<sent>$ ^interregnum<n><pl>$ ^'s<gen>$	. #Interregnum\<n\>\<m\>\<pl\> 
+^.<sent>$ ^interregnum<n><sg>$	. #Interregnum\<n\>\<m\>\<sg\>
+^.<sent>$ ^interregnum<n><pl>$	. #Interregnum\<n\>\<m\>\<pl\>
 ^.<sent>$ ^intersect<vblex><inf>$	. \@Intersect\<vblex\>\<inf\>
 ^.<sent>$ ^intersect<vblex><pres>$	. \@Intersect\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^intersect<vblex><pri><p3><sg>$	. \@Intersect\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -24799,11 +24764,6 @@
 ^.<sent>$ ^iridescence<n><sg>$	. \@Iridescence\<n\>
 ^.<sent>$ ^iridescence<n><pl>$	. \@Iridescence\<n\>
 ^.<sent>$ ^iridescent<adj>$	. \@Iridescent\<adj\>\<m\>\<sg\>
-^.<sent>$ ^iridium<n><sg>$	. \@Iridium\<n\>
-^.<sent>$ ^iridium<n><pl>$	. \@Iridium\<n\>
-^.<sent>$ ^iridium<n><pl>$ ^'s<gen>$	. \@Iridium\<n\> 
-^.<sent>$ ^iridium<n><sg>$	. \@Iridium\<n\>
-^.<sent>$ ^iridium<n><pl>$	. \@Iridium\<n\>
 ^.<sent>$ ^iridotomy<n><sg>$	. \@Iridotomy\<n\>
 ^.<sent>$ ^iridotomy<n><pl>$	. \@Iridotomy\<n\>
 ^.<sent>$ ^iridotomy<n><pl>$	. \@Iridotomy\<n\>
@@ -25194,11 +25154,11 @@
 ^.<sent>$ ^laterite<n><pl>$ ^'s<gen>$	. \@Laterite\<n\> 
 ^.<sent>$ ^laterite<n><sg>$	. \@Laterite\<n\>
 ^.<sent>$ ^laterite<n><pl>$	. \@Laterite\<n\>
-^.<sent>$ ^latifundium<n><sg>$	. \@Latifundium\<n\>
-^.<sent>$ ^latifundium<n><pl>$	. \@Latifundium\<n\>
-^.<sent>$ ^latifundium<n><pl>$ ^'s<gen>$	. \@Latifundium\<n\> 
-^.<sent>$ ^latifundium<n><sg>$	. \@Latifundium\<n\>
-^.<sent>$ ^latifundium<n><pl>$	. \@Latifundium\<n\>
+^.<sent>$ ^latifundium<n><sg>$	. #Latifondo\<n\>\<m\>\<sg\>
+^.<sent>$ ^latifundium<n><pl>$	. #Latifondo\<n\>\<m\>\<pl\>
+^.<sent>$ ^latifundium<n><pl>$ ^'s<gen>$	. #Latifondo\<n\>\<m\>\<pl\> 
+^.<sent>$ ^latifundium<n><sg>$	. #Latifondo\<n\>\<m\>\<sg\>
+^.<sent>$ ^latifundium<n><pl>$	. #Latifondo\<n\>\<m\>\<pl\>
 ^.<sent>$ ^latrine<n><sg>$	. \@Latrine\<n\>
 ^.<sent>$ ^latrine<n><pl>$	. \@Latrine\<n\>
 ^.<sent>$ ^latrine<n><pl>$ ^'s<gen>$	. \@Latrine\<n\> 
@@ -25414,11 +25374,11 @@
 ^.<sent>$ ^linesman<n><sg>$	. \@Linesman\<n\>
 ^.<sent>$ ^linesman<n><pl>$	. \@Linesman\<n\>
 ^.<sent>$ ^lingual<adj>$	. \@Lingual\<adj\>\<m\>\<sg\>
-^.<sent>$ ^linoleum<n><sg>$	. \@Linoleum\<n\>
-^.<sent>$ ^linoleum<n><pl>$	. \@Linoleum\<n\>
-^.<sent>$ ^linoleum<n><pl>$ ^'s<gen>$	. \@Linoleum\<n\> 
-^.<sent>$ ^linoleum<n><sg>$	. \@Linoleum\<n\>
-^.<sent>$ ^linoleum<n><pl>$	. \@Linoleum\<n\>
+^.<sent>$ ^linoleum<n><sg>$	. #Linoleum\<n\>\<m\>\<sg\>
+^.<sent>$ ^linoleum<n><pl>$	. #Linoleum\<n\>\<m\>\<pl\>
+^.<sent>$ ^linoleum<n><pl>$ ^'s<gen>$	. #Linoleum\<n\>\<m\>\<pl\> 
+^.<sent>$ ^linoleum<n><sg>$	. #Linoleum\<n\>\<m\>\<sg\>
+^.<sent>$ ^linoleum<n><pl>$	. #Linoleum\<n\>\<m\>\<pl\>
 ^.<sent>$ ^lintel<n><sg>$	. \@Lintel\<n\>
 ^.<sent>$ ^lintel<n><pl>$	. \@Lintel\<n\>
 ^.<sent>$ ^lintel<n><pl>$ ^'s<gen>$	. \@Lintel\<n\> 
@@ -25461,11 +25421,6 @@
 ^.<sent>$ ^litany<n><pl>$ ^'s<gen>$	. \@Litany\<n\> 
 ^.<sent>$ ^litany<n><sg>$	. \@Litany\<n\>
 ^.<sent>$ ^litany<n><pl>$	. \@Litany\<n\>
-^.<sent>$ ^lithium<n><sg>$	. \@Lithium\<n\>
-^.<sent>$ ^lithium<n><pl>$	. \@Lithium\<n\>
-^.<sent>$ ^lithium<n><pl>$ ^'s<gen>$	. \@Lithium\<n\> 
-^.<sent>$ ^lithium<n><sg>$	. \@Lithium\<n\>
-^.<sent>$ ^lithium<n><pl>$	. \@Lithium\<n\>
 ^.<sent>$ ^lithographic<adj>$	. \@Lithographic\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^lithology<n><sg>$	. \@Lithology\<n\>
 ^.<sent>$ ^lithology<n><pl>$	. \@Lithology\<n\>
@@ -25561,11 +25516,6 @@
 ^.<sent>$ ^lutein<n><pl>$ ^'s<gen>$	. \@Lutein\<n\> 
 ^.<sent>$ ^lutein<n><sg>$	. \@Lutein\<n\>
 ^.<sent>$ ^lutein<n><pl>$	. \@Lutein\<n\>
-^.<sent>$ ^lutetium<n><sg>$	. \@Lutetium\<n\>
-^.<sent>$ ^lutetium<n><pl>$	. \@Lutetium\<n\>
-^.<sent>$ ^lutetium<n><pl>$ ^'s<gen>$	. \@Lutetium\<n\> 
-^.<sent>$ ^lutetium<n><sg>$	. \@Lutetium\<n\>
-^.<sent>$ ^lutetium<n><pl>$	. \@Lutetium\<n\>
 ^.<sent>$ ^lymphatic<adj>$	. \@Lymphatic\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^lymphocyte<n><sg>$	. \@Lymphocyte\<n\>
 ^.<sent>$ ^lymphocyte<n><pl>$	. \@Lymphocyte\<n\>
@@ -25637,11 +25587,6 @@
 ^.<sent>$ ^magnesite<n><pl>$ ^'s<gen>$	. \@Magnesite\<n\> 
 ^.<sent>$ ^magnesite<n><sg>$	. \@Magnesite\<n\>
 ^.<sent>$ ^magnesite<n><pl>$	. \@Magnesite\<n\>
-^.<sent>$ ^magnesium<n><sg>$	. \@Magnesium\<n\>
-^.<sent>$ ^magnesium<n><pl>$	. \@Magnesium\<n\>
-^.<sent>$ ^magnesium<n><pl>$ ^'s<gen>$	. \@Magnesium\<n\> 
-^.<sent>$ ^magnesium<n><sg>$	. \@Magnesium\<n\>
-^.<sent>$ ^magnesium<n><pl>$	. \@Magnesium\<n\>
 ^.<sent>$ ^magnetite<n><sg>$	. \@Magnetite\<n\>
 ^.<sent>$ ^magnetite<n><pl>$	. \@Magnetite\<n\>
 ^.<sent>$ ^magnetite<n><pl>$ ^'s<gen>$	. \@Magnetite\<n\> 
@@ -25874,11 +25819,6 @@
 ^.<sent>$ ^measurer<n><pl>$ ^'s<gen>$	. \@Measurer\<n\> 
 ^.<sent>$ ^measurer<n><sg>$	. \@Measurer\<n\>
 ^.<sent>$ ^measurer<n><pl>$	. \@Measurer\<n\>
-^.<sent>$ ^meconium<n><sg>$	. \@Meconium\<n\>
-^.<sent>$ ^meconium<n><pl>$	. \@Meconium\<n\>
-^.<sent>$ ^meconium<n><pl>$ ^'s<gen>$	. \@Meconium\<n\> 
-^.<sent>$ ^meconium<n><sg>$	. \@Meconium\<n\>
-^.<sent>$ ^meconium<n><pl>$	. \@Meconium\<n\>
 ^.<sent>$ ^medial<adj>$	. \@Medial\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^medically<adv>$	. \@Medically\<adv\>
 ^.<sent>$ ^medlar<n><sg>$	. \@Medlar\<n\>
@@ -25933,11 +25873,6 @@
 ^.<sent>$ ^melisma<n><pl>$	. \@Melisma\<n\>
 ^.<sent>$ ^melisma<n><sg>$	. \@Melisma\<n\>
 ^.<sent>$ ^melisma<n><pl>$	. \@Melisma\<n\>
-^.<sent>$ ^mendelevium<n><sg>$	. \@Mendelevium\<n\>
-^.<sent>$ ^mendelevium<n><pl>$	. \@Mendelevium\<n\>
-^.<sent>$ ^mendelevium<n><pl>$ ^'s<gen>$	. \@Mendelevium\<n\> 
-^.<sent>$ ^mendelevium<n><sg>$	. \@Mendelevium\<n\>
-^.<sent>$ ^mendelevium<n><pl>$	. \@Mendelevium\<n\>
 ^.<sent>$ ^menhir<n><sg>$	. \@Menhir\<n\>
 ^.<sent>$ ^menhir<n><pl>$	. \@Menhir\<n\>
 ^.<sent>$ ^menhir<n><pl>$ ^'s<gen>$	. \@Menhir\<n\> 
@@ -26642,11 +26577,6 @@
 ^.<sent>$ ^nematode<n><pl>$ ^'s<gen>$	. \@Nematode\<n\> 
 ^.<sent>$ ^nematode<n><sg>$	. \@Nematode\<n\>
 ^.<sent>$ ^nematode<n><pl>$	. \@Nematode\<n\>
-^.<sent>$ ^neodymium<n><sg>$	. \@Neodymium\<n\>
-^.<sent>$ ^neodymium<n><pl>$	. \@Neodymium\<n\>
-^.<sent>$ ^neodymium<n><pl>$ ^'s<gen>$	. \@Neodymium\<n\> 
-^.<sent>$ ^neodymium<n><sg>$	. \@Neodymium\<n\>
-^.<sent>$ ^neodymium<n><pl>$	. \@Neodymium\<n\>
 ^.<sent>$ ^neofascist<adj>$	. \@Neofascist\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^neology<n><sg>$	. \@Neology\<n\>
 ^.<sent>$ ^neology<n><pl>$	. \@Neology\<n\>
@@ -26668,11 +26598,6 @@
 ^.<sent>$ ^nephrite<n><pl>$ ^'s<gen>$	. \@Nephrite\<n\> 
 ^.<sent>$ ^nephrite<n><sg>$	. \@Nephrite\<n\>
 ^.<sent>$ ^nephrite<n><pl>$	. \@Nephrite\<n\>
-^.<sent>$ ^neptunium<n><sg>$	. \@Neptunium\<n\>
-^.<sent>$ ^neptunium<n><pl>$	. \@Neptunium\<n\>
-^.<sent>$ ^neptunium<n><pl>$ ^'s<gen>$	. \@Neptunium\<n\> 
-^.<sent>$ ^neptunium<n><sg>$	. \@Neptunium\<n\>
-^.<sent>$ ^neptunium<n><pl>$	. \@Neptunium\<n\>
 ^.<sent>$ ^nervously<adv>$	. \@Nervously\<adv\>
 ^.<sent>$ ^nesting<n><sg>$	. \@Nesting\<n\>
 ^.<sent>$ ^nesting<n><pl>$	. \@Nesting\<n\>
@@ -26749,11 +26674,6 @@
 ^.<sent>$ ^nickel<n><sg>$	. \@Nickel\<n\>
 ^.<sent>$ ^nickel<n><pl>$	. \@Nickel\<n\>
 ^.<sent>$ ^nilpotent<adj>$	. \@Nilpotent\<adj\>\<m\>\<sg\>
-^.<sent>$ ^niobium<n><sg>$	. \@Niobium\<n\>
-^.<sent>$ ^niobium<n><pl>$	. \@Niobium\<n\>
-^.<sent>$ ^niobium<n><pl>$ ^'s<gen>$	. \@Niobium\<n\> 
-^.<sent>$ ^niobium<n><sg>$	. \@Niobium\<n\>
-^.<sent>$ ^niobium<n><pl>$	. \@Niobium\<n\>
 ^.<sent>$ ^niter<n><sg>$	. \@Niter\<n\>
 ^.<sent>$ ^niter<n><pl>$	. \@Niter\<n\>
 ^.<sent>$ ^niter<n><pl>$ ^'s<gen>$	. \@Niter\<n\> 
@@ -26781,11 +26701,6 @@
 ^.<sent>$ ^nitroglycerine<n><pl>$	. \@Nitroglycerine\<n\>
 ^.<sent>$ ^no doubt<adv>$	. \@No doubt\<adv\>
 ^.<sent>$ ^no longer<adv>$	. \@No longer\<adv\>
-^.<sent>$ ^nobelium<n><sg>$	. \@Nobelium\<n\>
-^.<sent>$ ^nobelium<n><pl>$	. \@Nobelium\<n\>
-^.<sent>$ ^nobelium<n><pl>$ ^'s<gen>$	. \@Nobelium\<n\> 
-^.<sent>$ ^nobelium<n><sg>$	. \@Nobelium\<n\>
-^.<sent>$ ^nobelium<n><pl>$	. \@Nobelium\<n\>
 ^.<sent>$ ^nodule<n><sg>$	. \@Nodule\<n\>
 ^.<sent>$ ^nodule<n><pl>$	. \@Nodule\<n\>
 ^.<sent>$ ^nodule<n><pl>$ ^'s<gen>$	. \@Nodule\<n\> 
@@ -27244,11 +27159,6 @@
 ^.<sent>$ ^oscilloscope<n><pl>$ ^'s<gen>$	. \@Oscilloscope\<n\> 
 ^.<sent>$ ^oscilloscope<n><sg>$	. \@Oscilloscope\<n\>
 ^.<sent>$ ^oscilloscope<n><pl>$	. \@Oscilloscope\<n\>
-^.<sent>$ ^osmium<n><sg>$	. \@Osmium\<n\>
-^.<sent>$ ^osmium<n><pl>$	. \@Osmium\<n\>
-^.<sent>$ ^osmium<n><pl>$ ^'s<gen>$	. \@Osmium\<n\> 
-^.<sent>$ ^osmium<n><sg>$	. \@Osmium\<n\>
-^.<sent>$ ^osmium<n><pl>$	. \@Osmium\<n\>
 ^.<sent>$ ^ossification<n><sg>$	. \@Ossification\<n\>
 ^.<sent>$ ^ossification<n><pl>$	. \@Ossification\<n\>
 ^.<sent>$ ^ossification<n><pl>$ ^'s<gen>$	. \@Ossification\<n\> 
@@ -27432,11 +27342,11 @@
 ^.<sent>$ ^palisade<n><pl>$ ^'s<gen>$	. \@Palisade\<n\> 
 ^.<sent>$ ^palisade<n><sg>$	. \@Palisade\<n\>
 ^.<sent>$ ^palisade<n><pl>$	. \@Palisade\<n\>
-^.<sent>$ ^palladium<n><sg>$	. \@Palladium\<n\>
-^.<sent>$ ^palladium<n><pl>$	. \@Palladium\<n\>
-^.<sent>$ ^palladium<n><pl>$ ^'s<gen>$	. \@Palladium\<n\> 
-^.<sent>$ ^palladium<n><sg>$	. \@Palladium\<n\>
-^.<sent>$ ^palladium<n><pl>$	. \@Palladium\<n\>
+^.<sent>$ ^palladium<n><sg>$	. #Palladio\<n\>\<m\>\<sg\>
+^.<sent>$ ^palladium<n><pl>$	. #Palladio\<n\>\<m\>\<pl\>
+^.<sent>$ ^palladium<n><pl>$ ^'s<gen>$	. #Palladio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^palladium<n><sg>$	. #Palladio\<n\>\<m\>\<sg\>
+^.<sent>$ ^palladium<n><pl>$	. #Palladio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^pampa<n><sg>$	. \@Pampa\<n\>
 ^.<sent>$ ^pampa<n><pl>$	. \@Pampa\<n\>
 ^.<sent>$ ^pampa<n><pl>$ ^'s<gen>$	. \@Pampa\<n\> 
@@ -27764,26 +27674,26 @@
 ^.<sent>$ ^perianth<n><pl>$ ^'s<gen>$	. \@Perianth\<n\> 
 ^.<sent>$ ^perianth<n><sg>$	. \@Perianth\<n\>
 ^.<sent>$ ^perianth<n><pl>$	. \@Perianth\<n\>
-^.<sent>$ ^pericardium<n><sg>$	. \@Pericardium\<n\>
-^.<sent>$ ^pericardium<n><pl>$	. \@Pericardium\<n\>
-^.<sent>$ ^pericardium<n><pl>$ ^'s<gen>$	. \@Pericardium\<n\> 
-^.<sent>$ ^pericardium<n><sg>$	. \@Pericardium\<n\>
-^.<sent>$ ^pericardium<n><pl>$	. \@Pericardium\<n\>
+^.<sent>$ ^pericardium<n><sg>$	. #Pericardio\<n\>\<m\>\<sg\>
+^.<sent>$ ^pericardium<n><pl>$	. #Pericardio\<n\>\<m\>\<pl\>
+^.<sent>$ ^pericardium<n><pl>$ ^'s<gen>$	. #Pericardio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^pericardium<n><sg>$	. #Pericardio\<n\>\<m\>\<sg\>
+^.<sent>$ ^pericardium<n><pl>$	. #Pericardio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^pericarp<n><sg>$	. \@Pericarp\<n\>
 ^.<sent>$ ^pericarp<n><pl>$	. \@Pericarp\<n\>
 ^.<sent>$ ^pericarp<n><pl>$ ^'s<gen>$	. \@Pericarp\<n\> 
 ^.<sent>$ ^pericarp<n><sg>$	. \@Pericarp\<n\>
 ^.<sent>$ ^pericarp<n><pl>$	. \@Pericarp\<n\>
-^.<sent>$ ^perichondrium<n><sg>$	. \@Perichondrium\<n\>
-^.<sent>$ ^perichondrium<n><pl>$	. \@Perichondrium\<n\>
-^.<sent>$ ^perichondrium<n><pl>$ ^'s<gen>$	. \@Perichondrium\<n\> 
-^.<sent>$ ^perichondrium<n><sg>$	. \@Perichondrium\<n\>
-^.<sent>$ ^perichondrium<n><pl>$	. \@Perichondrium\<n\>
-^.<sent>$ ^pericranium<n><sg>$	. \@Pericranium\<n\>
-^.<sent>$ ^pericranium<n><pl>$	. \@Pericranium\<n\>
-^.<sent>$ ^pericranium<n><pl>$ ^'s<gen>$	. \@Pericranium\<n\> 
-^.<sent>$ ^pericranium<n><sg>$	. \@Pericranium\<n\>
-^.<sent>$ ^pericranium<n><pl>$	. \@Pericranium\<n\>
+^.<sent>$ ^perichondrium<n><sg>$	. #Pericondrio\<n\>\<m\>\<sg\>
+^.<sent>$ ^perichondrium<n><pl>$	. #Pericondrio\<n\>\<m\>\<pl\>
+^.<sent>$ ^perichondrium<n><pl>$ ^'s<gen>$	. #Pericondrio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^perichondrium<n><sg>$	. #Pericondrio\<n\>\<m\>\<sg\>
+^.<sent>$ ^perichondrium<n><pl>$	. #Pericondrio\<n\>\<m\>\<pl\>
+^.<sent>$ ^pericranium<n><sg>$	. #Periostio\<n\>\<m\>\<sg\>
+^.<sent>$ ^pericranium<n><pl>$	. #Periostio\<n\>\<m\>\<pl\>
+^.<sent>$ ^pericranium<n><pl>$ ^'s<gen>$	. #Periostio\<n\>\<m\>\<pl\> 
+^.<sent>$ ^pericranium<n><sg>$	. #Periostio\<n\>\<m\>\<sg\>
+^.<sent>$ ^pericranium<n><pl>$	. #Periostio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^peridotite<n><sg>$	. \@Peridotite\<n\>
 ^.<sent>$ ^peridotite<n><pl>$	. \@Peridotite\<n\>
 ^.<sent>$ ^peridotite<n><pl>$ ^'s<gen>$	. \@Peridotite\<n\> 
@@ -27813,11 +27723,6 @@
 ^.<sent>$ ^perissodactyl<n><pl>$ ^'s<gen>$	. \@Perissodactyl\<n\> 
 ^.<sent>$ ^perissodactyl<n><sg>$	. \@Perissodactyl\<n\>
 ^.<sent>$ ^perissodactyl<n><pl>$	. \@Perissodactyl\<n\>
-^.<sent>$ ^peritoneum<n><sg>$	. \@Peritoneum\<n\>
-^.<sent>$ ^peritoneum<n><pl>$	. \@Peritoneum\<n\>
-^.<sent>$ ^peritoneum<n><pl>$ ^'s<gen>$	. \@Peritoneum\<n\> 
-^.<sent>$ ^peritoneum<n><sg>$	. \@Peritoneum\<n\>
-^.<sent>$ ^peritoneum<n><pl>$	. \@Peritoneum\<n\>
 ^.<sent>$ ^perjury<n><sg>$	. \@Perjury\<n\>
 ^.<sent>$ ^perjury<n><pl>$	. \@Perjury\<n\>
 ^.<sent>$ ^perjury<n><pl>$	. \@Perjury\<n\>
@@ -28274,11 +28179,6 @@
 ^.<sent>$ ^plasmocyte<n><pl>$ ^'s<gen>$	. \@Plasmocyte\<n\> 
 ^.<sent>$ ^plasmocyte<n><sg>$	. \@Plasmocyte\<n\>
 ^.<sent>$ ^plasmocyte<n><pl>$	. \@Plasmocyte\<n\>
-^.<sent>$ ^plasmodium<n><sg>$	. \@Plasmodium\<n\>
-^.<sent>$ ^plasmodium<n><pl>$	. \@Plasmodium\<n\>
-^.<sent>$ ^plasmodium<n><pl>$ ^'s<gen>$	. \@Plasmodium\<n\> 
-^.<sent>$ ^plasmodium<n><sg>$	. \@Plasmodium\<n\>
-^.<sent>$ ^plasmodium<n><pl>$	. \@Plasmodium\<n\>
 ^.<sent>$ ^plastid<n><sg>$	. \@Plastid\<n\>
 ^.<sent>$ ^plastid<n><pl>$	. \@Plastid\<n\>
 ^.<sent>$ ^plastid<n><pl>$ ^'s<gen>$	. \@Plastid\<n\> 
@@ -28316,11 +28216,6 @@
 ^.<sent>$ ^plebiscite<n><pl>$ ^'s<gen>$	. \@Plebiscite\<n\> 
 ^.<sent>$ ^plebiscite<n><sg>$	. \@Plebiscite\<n\>
 ^.<sent>$ ^plebiscite<n><pl>$	. \@Plebiscite\<n\>
-^.<sent>$ ^plectrum<n><sg>$	. \@Plectrum\<n\>
-^.<sent>$ ^plectrum<n><pl>$	. \@Plectrum\<n\>
-^.<sent>$ ^plectrum<n><pl>$ ^'s<gen>$	. \@Plectrum\<n\> 
-^.<sent>$ ^plectrum<n><sg>$	. \@Plectrum\<n\>
-^.<sent>$ ^plectrum<n><pl>$	. \@Plectrum\<n\>
 ^.<sent>$ ^plenipotence<n><sg>$	. \@Plenipotence\<n\>
 ^.<sent>$ ^plenipotence<n><pl>$	. \@Plenipotence\<n\>
 ^.<sent>$ ^plenipotence<n><pl>$ ^'s<gen>$	. \@Plenipotence\<n\> 
@@ -28371,11 +28266,6 @@
 ^.<sent>$ ^plus<n><pl>$ ^'s<gen>$	. \@Plus\<n\> 
 ^.<sent>$ ^plus<n><sg>$	. \@Plus\<n\>
 ^.<sent>$ ^plus<n><pl>$	. \@Plus\<n\>
-^.<sent>$ ^plutonium<n><sg>$	. \@Plutonium\<n\>
-^.<sent>$ ^plutonium<n><pl>$	. \@Plutonium\<n\>
-^.<sent>$ ^plutonium<n><pl>$ ^'s<gen>$	. \@Plutonium\<n\> 
-^.<sent>$ ^plutonium<n><sg>$	. \@Plutonium\<n\>
-^.<sent>$ ^plutonium<n><pl>$	. \@Plutonium\<n\>
 ^.<sent>$ ^pluviometry<n><sg>$	. \@Pluviometry\<n\>
 ^.<sent>$ ^pluviometry<n><pl>$	. \@Pluviometry\<n\>
 ^.<sent>$ ^pluviometry<n><pl>$	. \@Pluviometry\<n\>
@@ -28412,11 +28302,6 @@
 ^.<sent>$ ^podiatry<n><pl>$ ^'s<gen>$	. \@Podiatry\<n\> 
 ^.<sent>$ ^podiatry<n><sg>$	. \@Podiatry\<n\>
 ^.<sent>$ ^podiatry<n><pl>$	. \@Podiatry\<n\>
-^.<sent>$ ^podium<n><sg>$	. \@Podium\<n\>
-^.<sent>$ ^podium<n><pl>$	. \@Podium\<n\>
-^.<sent>$ ^podium<n><pl>$ ^'s<gen>$	. \@Podium\<n\> 
-^.<sent>$ ^podium<n><sg>$	. \@Podium\<n\>
-^.<sent>$ ^podium<n><pl>$	. \@Podium\<n\>
 ^.<sent>$ ^podzolic<adj>$	. \@Podzolic\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^pogrom<n><sg>$	. \@Pogrom\<n\>
 ^.<sent>$ ^pogrom<n><pl>$	. \@Pogrom\<n\>
@@ -28666,11 +28551,6 @@
 ^.<sent>$ ^pram<n><pl>$ ^'s<gen>$	. \@Pram\<n\> 
 ^.<sent>$ ^pram<n><sg>$	. \@Pram\<n\>
 ^.<sent>$ ^pram<n><pl>$	. \@Pram\<n\>
-^.<sent>$ ^praseodymium<n><sg>$	. \@Praseodymium\<n\>
-^.<sent>$ ^praseodymium<n><pl>$	. \@Praseodymium\<n\>
-^.<sent>$ ^praseodymium<n><pl>$ ^'s<gen>$	. \@Praseodymium\<n\> 
-^.<sent>$ ^praseodymium<n><sg>$	. \@Praseodymium\<n\>
-^.<sent>$ ^praseodymium<n><pl>$	. \@Praseodymium\<n\>
 ^.<sent>$ ^precariously<adv>$	. \@Precariously\<adv\>
 ^.<sent>$ ^precentor<n><sg>$	. \@Precentor\<n\>
 ^.<sent>$ ^precentor<n><pl>$	. \@Precentor\<n\>
@@ -28846,11 +28726,11 @@
 ^.<sent>$ ^propene<n><pl>$	. \@Propene\<n\>
 ^.<sent>$ ^proper<adj>$	. \@Proper\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^propositional<adj>$	. \@Propositional\<adj\>\<m\>\<sg\>
-^.<sent>$ ^propylaeum<n><sg>$	. \@Propylaeum\<n\>
-^.<sent>$ ^propylaeum<n><pl>$	. \@Propylaeum\<n\>
-^.<sent>$ ^propylaeum<n><pl>$ ^'s<gen>$	. \@Propylaeum\<n\> 
-^.<sent>$ ^propylaeum<n><sg>$	. \@Propylaeum\<n\>
-^.<sent>$ ^propylaeum<n><pl>$	. \@Propylaeum\<n\>
+^.<sent>$ ^propylaeum<n><sg>$	. #Propilei\<n\>\<m\>\<sg\>
+^.<sent>$ ^propylaeum<n><pl>$	. #Propilei\<n\>\<m\>\<pl\>
+^.<sent>$ ^propylaeum<n><pl>$ ^'s<gen>$	. #Propilei\<n\>\<m\>\<pl\> 
+^.<sent>$ ^propylaeum<n><sg>$	. #Propilei\<n\>\<m\>\<sg\>
+^.<sent>$ ^propylaeum<n><pl>$	. #Propilei\<n\>\<m\>\<pl\>
 ^.<sent>$ ^prorate<n><sg>$	. \@Prorate\<n\>
 ^.<sent>$ ^prorate<n><pl>$	. \@Prorate\<n\>
 ^.<sent>$ ^prorate<n><pl>$ ^'s<gen>$	. \@Prorate\<n\> 
@@ -28967,11 +28847,6 @@
 ^.<sent>$ ^psaltery<n><pl>$ ^'s<gen>$	. \@Psaltery\<n\> 
 ^.<sent>$ ^psaltery<n><sg>$	. \@Psaltery\<n\>
 ^.<sent>$ ^psaltery<n><pl>$	. \@Psaltery\<n\>
-^.<sent>$ ^pseudopodium<n><sg>$	. \@Pseudopodium\<n\>
-^.<sent>$ ^pseudopodium<n><pl>$	. \@Pseudopodium\<n\>
-^.<sent>$ ^pseudopodium<n><pl>$ ^'s<gen>$	. \@Pseudopodium\<n\> 
-^.<sent>$ ^pseudopodium<n><sg>$	. \@Pseudopodium\<n\>
-^.<sent>$ ^pseudopodium<n><pl>$	. \@Pseudopodium\<n\>
 ^.<sent>$ ^pseudoscientific<adj>$	. \@Pseudoscientific\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^psychism<n><sg>$	. \@Psychism\<n\>
 ^.<sent>$ ^psychism<n><pl>$	. \@Psychism\<n\>
@@ -29096,11 +28971,11 @@
 ^.<sent>$ ^quantifier<n><pl>$ ^'s<gen>$	. \@Quantifier\<n\> 
 ^.<sent>$ ^quantifier<n><sg>$	. \@Quantifier\<n\>
 ^.<sent>$ ^quantifier<n><pl>$	. \@Quantifier\<n\>
-^.<sent>$ ^quantum<n><sg>$	. \@Quantum\<n\>
-^.<sent>$ ^quantum<n><pl>$	. \@Quantum\<n\>
-^.<sent>$ ^quantum<n><pl>$ ^'s<gen>$	. \@Quantum\<n\> 
-^.<sent>$ ^quantum<n><sg>$	. \@Quantum\<n\>
-^.<sent>$ ^quantum<n><pl>$	. \@Quantum\<n\>
+^.<sent>$ ^quantum<n><sg>$	. #Quanto\<n\>\<m\>\<sg\>
+^.<sent>$ ^quantum<n><pl>$	. #Quanto\<n\>\<m\>\<pl\>
+^.<sent>$ ^quantum<n><pl>$ ^'s<gen>$	. #Quanto\<n\>\<m\>\<pl\> 
+^.<sent>$ ^quantum<n><sg>$	. #Quanto\<n\>\<m\>\<sg\>
+^.<sent>$ ^quantum<n><pl>$	. #Quanto\<n\>\<m\>\<pl\>
 ^.<sent>$ ^quark<n><sg>$	. \@Quark\<n\>
 ^.<sent>$ ^quark<n><pl>$	. \@Quark\<n\>
 ^.<sent>$ ^quark<n><pl>$ ^'s<gen>$	. \@Quark\<n\> 
@@ -29128,11 +29003,6 @@
 ^.<sent>$ ^quinine<n><pl>$ ^'s<gen>$	. \@Quinine\<n\> 
 ^.<sent>$ ^quinine<n><sg>$	. \@Quinine\<n\>
 ^.<sent>$ ^quinine<n><pl>$	. \@Quinine\<n\>
-^.<sent>$ ^quorum<n><sg>$	. \@Quorum\<n\>
-^.<sent>$ ^quorum<n><pl>$	. \@Quorum\<n\>
-^.<sent>$ ^quorum<n><pl>$ ^'s<gen>$	. \@Quorum\<n\> 
-^.<sent>$ ^quorum<n><sg>$	. \@Quorum\<n\>
-^.<sent>$ ^quorum<n><pl>$	. \@Quorum\<n\>
 ^.<sent>$ ^quotient<n><sg>$	. \@Quotient\<n\>
 ^.<sent>$ ^quotient<n><pl>$	. \@Quotient\<n\>
 ^.<sent>$ ^quotient<n><pl>$ ^'s<gen>$	. \@Quotient\<n\> 
@@ -29562,11 +29432,6 @@
 ^.<sent>$ ^rhapsody<n><pl>$ ^'s<gen>$	. \@Rhapsody\<n\> 
 ^.<sent>$ ^rhapsody<n><sg>$	. \@Rhapsody\<n\>
 ^.<sent>$ ^rhapsody<n><pl>$	. \@Rhapsody\<n\>
-^.<sent>$ ^rhenium<n><sg>$	. \@Rhenium\<n\>
-^.<sent>$ ^rhenium<n><pl>$	. \@Rhenium\<n\>
-^.<sent>$ ^rhenium<n><pl>$ ^'s<gen>$	. \@Rhenium\<n\> 
-^.<sent>$ ^rhenium<n><sg>$	. \@Rhenium\<n\>
-^.<sent>$ ^rhenium<n><pl>$	. \@Rhenium\<n\>
 ^.<sent>$ ^rheology<n><sg>$	. \@Rheology\<n\>
 ^.<sent>$ ^rheology<n><pl>$	. \@Rheology\<n\>
 ^.<sent>$ ^rheology<n><pl>$	. \@Rheology\<n\>
@@ -29759,16 +29624,6 @@
 ^.<sent>$ ^rubefaction<n><pl>$ ^'s<gen>$	. \@Rubefaction\<n\> 
 ^.<sent>$ ^rubefaction<n><sg>$	. \@Rubefaction\<n\>
 ^.<sent>$ ^rubefaction<n><pl>$	. \@Rubefaction\<n\>
-^.<sent>$ ^rubidium<n><sg>$	. \@Rubidium\<n\>
-^.<sent>$ ^rubidium<n><pl>$	. \@Rubidium\<n\>
-^.<sent>$ ^rubidium<n><pl>$ ^'s<gen>$	. \@Rubidium\<n\> 
-^.<sent>$ ^rubidium<n><sg>$	. \@Rubidium\<n\>
-^.<sent>$ ^rubidium<n><pl>$	. \@Rubidium\<n\>
-^.<sent>$ ^rum<n><sg>$	. \@Rum\<n\>
-^.<sent>$ ^rum<n><pl>$	. \@Rum\<n\>
-^.<sent>$ ^rum<n><pl>$ ^'s<gen>$	. \@Rum\<n\> 
-^.<sent>$ ^rum<n><sg>$	. \@Rum\<n\>
-^.<sent>$ ^rum<n><pl>$	. \@Rum\<n\>
 ^.<sent>$ ^ruminant<n><sg>$	. \@Ruminant\<n\>
 ^.<sent>$ ^ruminant<n><pl>$	. \@Ruminant\<n\>
 ^.<sent>$ ^ruminant<n><pl>$ ^'s<gen>$	. \@Ruminant\<n\> 
@@ -29794,11 +29649,6 @@
 ^.<sent>$ ^rut<n><pl>$ ^'s<gen>$	. \@Rut\<n\> 
 ^.<sent>$ ^rut<n><sg>$	. \@Rut\<n\>
 ^.<sent>$ ^rut<n><pl>$	. \@Rut\<n\>
-^.<sent>$ ^ruthenium<n><sg>$	. \@Ruthenium\<n\>
-^.<sent>$ ^ruthenium<n><pl>$	. \@Ruthenium\<n\>
-^.<sent>$ ^ruthenium<n><pl>$ ^'s<gen>$	. \@Ruthenium\<n\> 
-^.<sent>$ ^ruthenium<n><sg>$	. \@Ruthenium\<n\>
-^.<sent>$ ^ruthenium<n><pl>$	. \@Ruthenium\<n\>
 ^.<sent>$ ^rutile<n><sg>$	. \@Rutile\<n\>
 ^.<sent>$ ^rutile<n><pl>$	. \@Rutile\<n\>
 ^.<sent>$ ^rutile<n><pl>$ ^'s<gen>$	. \@Rutile\<n\> 
@@ -29886,11 +29736,6 @@
 ^.<sent>$ ^samara<n><pl>$ ^'s<gen>$	. \@Samara\<n\> 
 ^.<sent>$ ^samara<n><sg>$	. \@Samara\<n\>
 ^.<sent>$ ^samara<n><pl>$	. \@Samara\<n\>
-^.<sent>$ ^samarium<n><sg>$	. \@Samarium\<n\>
-^.<sent>$ ^samarium<n><pl>$	. \@Samarium\<n\>
-^.<sent>$ ^samarium<n><pl>$ ^'s<gen>$	. \@Samarium\<n\> 
-^.<sent>$ ^samarium<n><sg>$	. \@Samarium\<n\>
-^.<sent>$ ^samarium<n><pl>$	. \@Samarium\<n\>
 ^.<sent>$ ^sandal<n><sg>$	. \@Sandal\<n\>
 ^.<sent>$ ^sandal<n><pl>$	. \@Sandal\<n\>
 ^.<sent>$ ^sandal<n><pl>$ ^'s<gen>$	. \@Sandal\<n\> 
@@ -30032,11 +29877,6 @@
 ^.<sent>$ ^scrollwork<n><pl>$ ^'s<gen>$	. \@Scrollwork\<n\> 
 ^.<sent>$ ^scrollwork<n><sg>$	. \@Scrollwork\<n\>
 ^.<sent>$ ^scrollwork<n><pl>$	. \@Scrollwork\<n\>
-^.<sent>$ ^scrotum<n><sg>$	. \@Scrotum\<n\>
-^.<sent>$ ^scrotum<n><pl>$	. \@Scrotum\<n\>
-^.<sent>$ ^scrotum<n><pl>$ ^'s<gen>$	. \@Scrotum\<n\> 
-^.<sent>$ ^scrotum<n><sg>$	. \@Scrotum\<n\>
-^.<sent>$ ^scrotum<n><pl>$	. \@Scrotum\<n\>
 ^.<sent>$ ^scrub<n><sg>$	. \@Scrub\<n\>
 ^.<sent>$ ^scrub<n><pl>$	. \@Scrub\<n\>
 ^.<sent>$ ^scrub<n><pl>$ ^'s<gen>$	. \@Scrub\<n\> 
@@ -30102,11 +29942,6 @@
 ^.<sent>$ ^selenite<n><pl>$ ^'s<gen>$	. \@Selenite\<n\> 
 ^.<sent>$ ^selenite<n><sg>$	. \@Selenite\<n\>
 ^.<sent>$ ^selenite<n><pl>$	. \@Selenite\<n\>
-^.<sent>$ ^selenium<n><sg>$	. \@Selenium\<n\>
-^.<sent>$ ^selenium<n><pl>$	. \@Selenium\<n\>
-^.<sent>$ ^selenium<n><pl>$ ^'s<gen>$	. \@Selenium\<n\> 
-^.<sent>$ ^selenium<n><sg>$	. \@Selenium\<n\>
-^.<sent>$ ^selenium<n><pl>$	. \@Selenium\<n\>
 ^.<sent>$ ^self-portrait<n><sg>$	. \@Self-portrait\<n\>
 ^.<sent>$ ^self-portrait<n><pl>$	. \@Self-portrait\<n\>
 ^.<sent>$ ^self-portrait<n><pl>$ ^'s<gen>$	. \@Self-portrait\<n\> 
@@ -30767,11 +30602,6 @@
 ^.<sent>$ ^spoilage<n><pl>$ ^'s<gen>$	. \@Spoilage\<n\> 
 ^.<sent>$ ^spoilage<n><sg>$	. \@Spoilage\<n\>
 ^.<sent>$ ^spoilage<n><pl>$	. \@Spoilage\<n\>
-^.<sent>$ ^sporangium<n><sg>$	. \@Sporangium\<n\>
-^.<sent>$ ^sporangium<n><pl>$	. \@Sporangium\<n\>
-^.<sent>$ ^sporangium<n><pl>$ ^'s<gen>$	. \@Sporangium\<n\> 
-^.<sent>$ ^sporangium<n><sg>$	. \@Sporangium\<n\>
-^.<sent>$ ^sporangium<n><pl>$	. \@Sporangium\<n\>
 ^.<sent>$ ^sporophyte<n><sg>$	. \@Sporophyte\<n\>
 ^.<sent>$ ^sporophyte<n><pl>$	. \@Sporophyte\<n\>
 ^.<sent>$ ^sporophyte<n><pl>$ ^'s<gen>$	. \@Sporophyte\<n\> 
@@ -30891,11 +30721,6 @@
 ^.<sent>$ ^stereoscope<n><pl>$ ^'s<gen>$	. \@Stereoscope\<n\> 
 ^.<sent>$ ^stereoscope<n><sg>$	. \@Stereoscope\<n\>
 ^.<sent>$ ^stereoscope<n><pl>$	. \@Stereoscope\<n\>
-^.<sent>$ ^sternum<n><sg>$	. \@Sternum\<n\>
-^.<sent>$ ^sternum<n><pl>$	. \@Sternum\<n\>
-^.<sent>$ ^sternum<n><pl>$ ^'s<gen>$	. \@Sternum\<n\> 
-^.<sent>$ ^sternum<n><sg>$	. \@Sternum\<n\>
-^.<sent>$ ^sternum<n><pl>$	. \@Sternum\<n\>
 ^.<sent>$ ^stethoscope<n><sg>$	. \@Stethoscope\<n\>
 ^.<sent>$ ^stethoscope<n><pl>$	. \@Stethoscope\<n\>
 ^.<sent>$ ^stethoscope<n><pl>$ ^'s<gen>$	. \@Stethoscope\<n\> 
@@ -31006,11 +30831,6 @@
 ^.<sent>$ ^stroma<n><pl>$	. \@Stroma\<n\>
 ^.<sent>$ ^stroma<n><sg>$	. \@Stroma\<n\>
 ^.<sent>$ ^stroma<n><pl>$	. \@Stroma\<n\>
-^.<sent>$ ^strontium<n><sg>$	. \@Strontium\<n\>
-^.<sent>$ ^strontium<n><pl>$	. \@Strontium\<n\>
-^.<sent>$ ^strontium<n><pl>$ ^'s<gen>$	. \@Strontium\<n\> 
-^.<sent>$ ^strontium<n><sg>$	. \@Strontium\<n\>
-^.<sent>$ ^strontium<n><pl>$	. \@Strontium\<n\>
 ^.<sent>$ ^structuralism<n><sg>$	. \@Structuralism\<n\>
 ^.<sent>$ ^structuralism<n><pl>$	. \@Structuralism\<n\>
 ^.<sent>$ ^structuralism<n><pl>$ ^'s<gen>$	. \@Structuralism\<n\> 
@@ -31577,11 +31397,6 @@
 ^.<sent>$ ^tangency<n><sg>$	. \@Tangency\<n\>
 ^.<sent>$ ^tangency<n><pl>$	. \@Tangency\<n\>
 ^.<sent>$ ^tangential<adj>$	. \@Tangential\<adj\>\<m\>\<sg\>
-^.<sent>$ ^tantalum<n><sg>$	. \@Tantalum\<n\>
-^.<sent>$ ^tantalum<n><pl>$	. \@Tantalum\<n\>
-^.<sent>$ ^tantalum<n><pl>$ ^'s<gen>$	. \@Tantalum\<n\> 
-^.<sent>$ ^tantalum<n><sg>$	. \@Tantalum\<n\>
-^.<sent>$ ^tantalum<n><pl>$	. \@Tantalum\<n\>
 ^.<sent>$ ^tarantula<n><sg>$	. \@Tarantula\<n\>
 ^.<sent>$ ^tarantula<n><pl>$	. \@Tarantula\<n\>
 ^.<sent>$ ^tarantula<n><pl>$	. \@Tarantula\<n\>
@@ -31663,11 +31478,6 @@
 ^.<sent>$ ^teletype<n><pl>$ ^'s<gen>$	. \@Teletype\<n\> 
 ^.<sent>$ ^teletype<n><sg>$	. \@Teletype\<n\>
 ^.<sent>$ ^teletype<n><pl>$	. \@Teletype\<n\>
-^.<sent>$ ^tellurium<n><sg>$	. \@Tellurium\<n\>
-^.<sent>$ ^tellurium<n><pl>$	. \@Tellurium\<n\>
-^.<sent>$ ^tellurium<n><pl>$ ^'s<gen>$	. \@Tellurium\<n\> 
-^.<sent>$ ^tellurium<n><sg>$	. \@Tellurium\<n\>
-^.<sent>$ ^tellurium<n><pl>$	. \@Tellurium\<n\>
 ^.<sent>$ ^telson<n><sg>$	. \@Telson\<n\>
 ^.<sent>$ ^telson<n><pl>$	. \@Telson\<n\>
 ^.<sent>$ ^telson<n><pl>$ ^'s<gen>$	. \@Telson\<n\> 
@@ -31693,11 +31503,6 @@
 ^.<sent>$ ^teratoma<n><pl>$	. \@Teratoma\<n\>
 ^.<sent>$ ^teratoma<n><sg>$	. \@Teratoma\<n\>
 ^.<sent>$ ^teratoma<n><pl>$	. \@Teratoma\<n\>
-^.<sent>$ ^terbium<n><sg>$	. \@Terbium\<n\>
-^.<sent>$ ^terbium<n><pl>$	. \@Terbium\<n\>
-^.<sent>$ ^terbium<n><pl>$ ^'s<gen>$	. \@Terbium\<n\> 
-^.<sent>$ ^terbium<n><sg>$	. \@Terbium\<n\>
-^.<sent>$ ^terbium<n><pl>$	. \@Terbium\<n\>
 ^.<sent>$ ^tercet<n><sg>$	. \@Tercet\<n\>
 ^.<sent>$ ^tercet<n><pl>$	. \@Tercet\<n\>
 ^.<sent>$ ^tercet<n><pl>$ ^'s<gen>$	. \@Tercet\<n\> 
@@ -31862,11 +31667,6 @@
 ^.<sent>$ ^thixotropy<n><sg>$	. \@Thixotropy\<n\>
 ^.<sent>$ ^thixotropy<n><pl>$	. \@Thixotropy\<n\>
 ^.<sent>$ ^thoracic<adj>$	. \@Thoracic\<adj\>\<m\>\<sg\>
-^.<sent>$ ^thorium<n><sg>$	. \@Thorium\<n\>
-^.<sent>$ ^thorium<n><pl>$	. \@Thorium\<n\>
-^.<sent>$ ^thorium<n><pl>$ ^'s<gen>$	. \@Thorium\<n\> 
-^.<sent>$ ^thorium<n><sg>$	. \@Thorium\<n\>
-^.<sent>$ ^thorium<n><pl>$	. \@Thorium\<n\>
 ^.<sent>$ ^thriller<n><sg>$	. \@Thriller\<n\>
 ^.<sent>$ ^thriller<n><pl>$	. \@Thriller\<n\>
 ^.<sent>$ ^thriller<n><pl>$ ^'s<gen>$	. \@Thriller\<n\> 
@@ -31887,11 +31687,6 @@
 ^.<sent>$ ^thrombus<n><pl>$ ^'s<gen>$	. \@Thrombus\<n\> 
 ^.<sent>$ ^thrombus<n><sg>$	. \@Thrombus\<n\>
 ^.<sent>$ ^thrombus<n><pl>$	. \@Thrombus\<n\>
-^.<sent>$ ^thulium<n><sg>$	. \@Thulium\<n\>
-^.<sent>$ ^thulium<n><pl>$	. \@Thulium\<n\>
-^.<sent>$ ^thulium<n><pl>$ ^'s<gen>$	. \@Thulium\<n\> 
-^.<sent>$ ^thulium<n><sg>$	. \@Thulium\<n\>
-^.<sent>$ ^thulium<n><pl>$	. \@Thulium\<n\>
 ^.<sent>$ ^thyme<n><sg>$	. \@Thyme\<n\>
 ^.<sent>$ ^thyme<n><pl>$	. \@Thyme\<n\>
 ^.<sent>$ ^thyme<n><pl>$ ^'s<gen>$	. \@Thyme\<n\> 
@@ -31961,11 +31756,6 @@
 ^.<sent>$ ^titanite<n><pl>$ ^'s<gen>$	. \@Titanite\<n\> 
 ^.<sent>$ ^titanite<n><sg>$	. \@Titanite\<n\>
 ^.<sent>$ ^titanite<n><pl>$	. \@Titanite\<n\>
-^.<sent>$ ^titanium<n><sg>$	. \@Titanium\<n\>
-^.<sent>$ ^titanium<n><pl>$	. \@Titanium\<n\>
-^.<sent>$ ^titanium<n><pl>$ ^'s<gen>$	. \@Titanium\<n\> 
-^.<sent>$ ^titanium<n><sg>$	. \@Titanium\<n\>
-^.<sent>$ ^titanium<n><pl>$	. \@Titanium\<n\>
 ^.<sent>$ ^titin<n><sg>$	. \@Titin\<n\>
 ^.<sent>$ ^titin<n><pl>$	. \@Titin\<n\>
 ^.<sent>$ ^titin<n><pl>$ ^'s<gen>$	. \@Titin\<n\> 
@@ -32207,21 +31997,11 @@
 ^.<sent>$ ^trisomy<n><pl>$ ^'s<gen>$	. \@Trisomy\<n\> 
 ^.<sent>$ ^trisomy<n><sg>$	. \@Trisomy\<n\>
 ^.<sent>$ ^trisomy<n><pl>$	. \@Trisomy\<n\>
-^.<sent>$ ^tritium<n><sg>$	. \@Tritium\<n\>
-^.<sent>$ ^tritium<n><pl>$	. \@Tritium\<n\>
-^.<sent>$ ^tritium<n><pl>$ ^'s<gen>$	. \@Tritium\<n\> 
-^.<sent>$ ^tritium<n><sg>$	. \@Tritium\<n\>
-^.<sent>$ ^tritium<n><pl>$	. \@Tritium\<n\>
 ^.<sent>$ ^triumvirate<n><sg>$	. \@Triumvirate\<n\>
 ^.<sent>$ ^triumvirate<n><pl>$	. \@Triumvirate\<n\>
 ^.<sent>$ ^triumvirate<n><pl>$ ^'s<gen>$	. \@Triumvirate\<n\> 
 ^.<sent>$ ^triumvirate<n><sg>$	. \@Triumvirate\<n\>
 ^.<sent>$ ^triumvirate<n><pl>$	. \@Triumvirate\<n\>
-^.<sent>$ ^trivium<n><sg>$	. \@Trivium\<n\>
-^.<sent>$ ^trivium<n><pl>$	. \@Trivium\<n\>
-^.<sent>$ ^trivium<n><pl>$ ^'s<gen>$	. \@Trivium\<n\> 
-^.<sent>$ ^trivium<n><sg>$	. \@Trivium\<n\>
-^.<sent>$ ^trivium<n><pl>$	. \@Trivium\<n\>
 ^.<sent>$ ^trochanter<n><sg>$	. \@Trochanter\<n\>
 ^.<sent>$ ^trochanter<n><pl>$	. \@Trochanter\<n\>
 ^.<sent>$ ^trochanter<n><pl>$ ^'s<gen>$	. \@Trochanter\<n\> 
@@ -32462,11 +32242,6 @@
 ^.<sent>$ ^vamp<n><pl>$ ^'s<gen>$	. \@Vamp\<n\> 
 ^.<sent>$ ^vamp<n><sg>$	. \@Vamp\<n\>
 ^.<sent>$ ^vamp<n><pl>$	. \@Vamp\<n\>
-^.<sent>$ ^vanadium<n><sg>$	. \@Vanadium\<n\>
-^.<sent>$ ^vanadium<n><pl>$	. \@Vanadium\<n\>
-^.<sent>$ ^vanadium<n><pl>$ ^'s<gen>$	. \@Vanadium\<n\> 
-^.<sent>$ ^vanadium<n><sg>$	. \@Vanadium\<n\>
-^.<sent>$ ^vanadium<n><pl>$	. \@Vanadium\<n\>
 ^.<sent>$ ^vandal<n><sg>$	. \@Vandal\<n\>
 ^.<sent>$ ^vandal<n><pl>$	. \@Vandal\<n\>
 ^.<sent>$ ^vandal<n><pl>$ ^'s<gen>$	. \@Vandal\<n\> 
@@ -32841,11 +32616,6 @@
 ^.<sent>$ ^year in, year out<adv>$	. \@Year in, year out\<adv\>
 ^.<sent>$ ^year in year out<adv>$	. \@Year in year out\<adv\>
 ^.<sent>$ ^yellowish<adj>$	. \@Yellowish\<adj\>\<m\>\<sg\>
-^.<sent>$ ^yttrium<n><sg>$	. \@Yttrium\<n\>
-^.<sent>$ ^yttrium<n><pl>$	. \@Yttrium\<n\>
-^.<sent>$ ^yttrium<n><pl>$ ^'s<gen>$	. \@Yttrium\<n\> 
-^.<sent>$ ^yttrium<n><sg>$	. \@Yttrium\<n\>
-^.<sent>$ ^yttrium<n><pl>$	. \@Yttrium\<n\>
 ^.<sent>$ ^zapping<n><sg>$	. \@Zapping\<n\>
 ^.<sent>$ ^zapping<n><pl>$	. \@Zapping\<n\>
 ^.<sent>$ ^zapping<n><pl>$ ^'s<gen>$	. \@Zapping\<n\> 
@@ -32862,11 +32632,6 @@
 ^.<sent>$ ^zero<n><sg>$	. #Zero\<n\>\<m\>\<sg\>
 ^.<sent>$ ^zero<n><pl>$	. #Zero\<n\>\<m\>\<pl\>
 ^.<sent>$ ^nil<n><sg>$	. #Zero\<n\>\<m\>\<sg\>
-^.<sent>$ ^zirconium<n><sg>$	. \@Zirconium\<n\>
-^.<sent>$ ^zirconium<n><pl>$	. \@Zirconium\<n\>
-^.<sent>$ ^zirconium<n><pl>$ ^'s<gen>$	. \@Zirconium\<n\> 
-^.<sent>$ ^zirconium<n><sg>$	. \@Zirconium\<n\>
-^.<sent>$ ^zirconium<n><pl>$	. \@Zirconium\<n\>
 ^.<sent>$ ^zither<n><sg>$	. \@Zither\<n\>
 ^.<sent>$ ^zither<n><pl>$	. \@Zither\<n\>
 ^.<sent>$ ^zither<n><pl>$ ^'s<gen>$	. \@Zither\<n\> 
@@ -34199,11 +33964,6 @@
 ^.<sent>$ ^USB<n><acr><sg>$	. \@USB\<n\>\<acr\>
 ^.<sent>$ ^electronics<n><sg>$	. \@Electronics\<n\>
 ^.<sent>$ ^electronics<n><pl>$	. \@Electronics\<n\>
-^.<sent>$ ^americium<n><sg>$	. \@Americium\<n\>
-^.<sent>$ ^americium<n><pl>$	. \@Americium\<n\>
-^.<sent>$ ^americium<n><pl>$ ^'s<gen>$	. \@Americium\<n\> 
-^.<sent>$ ^americium<n><sg>$	. \@Americium\<n\>
-^.<sent>$ ^americium<n><pl>$	. \@Americium\<n\>
 ^.<sent>$ ^argon<n><sg>$	. \@Argon\<n\>
 ^.<sent>$ ^argon<n><pl>$	. \@Argon\<n\>
 ^.<sent>$ ^argon<n><pl>$ ^'s<gen>$	. \@Argon\<n\> 
@@ -34214,21 +33974,6 @@
 ^.<sent>$ ^bromine<n><pl>$ ^'s<gen>$	. \@Bromine\<n\> 
 ^.<sent>$ ^bromine<n><sg>$	. \@Bromine\<n\>
 ^.<sent>$ ^bromine<n><pl>$	. \@Bromine\<n\>
-^.<sent>$ ^calcium<n><sg>$	. \@Calcium\<n\>
-^.<sent>$ ^calcium<n><pl>$	. \@Calcium\<n\>
-^.<sent>$ ^calcium<n><pl>$ ^'s<gen>$	. \@Calcium\<n\> 
-^.<sent>$ ^calcium<n><sg>$	. \@Calcium\<n\>
-^.<sent>$ ^calcium<n><pl>$	. \@Calcium\<n\>
-^.<sent>$ ^curium<n><sg>$	. \@Curium\<n\>
-^.<sent>$ ^curium<n><pl>$	. \@Curium\<n\>
-^.<sent>$ ^curium<n><pl>$ ^'s<gen>$	. \@Curium\<n\> 
-^.<sent>$ ^curium<n><sg>$	. \@Curium\<n\>
-^.<sent>$ ^curium<n><pl>$	. \@Curium\<n\>
-^.<sent>$ ^einsteinium<n><sg>$	. \@Einsteinium\<n\>
-^.<sent>$ ^einsteinium<n><pl>$	. \@Einsteinium\<n\>
-^.<sent>$ ^einsteinium<n><pl>$ ^'s<gen>$	. \@Einsteinium\<n\> 
-^.<sent>$ ^einsteinium<n><sg>$	. \@Einsteinium\<n\>
-^.<sent>$ ^einsteinium<n><pl>$	. \@Einsteinium\<n\>
 ^.<sent>$ ^krypton<n><sg>$	. \@Krypton\<n\>
 ^.<sent>$ ^krypton<n><pl>$	. \@Krypton\<n\>
 ^.<sent>$ ^krypton<n><pl>$ ^'s<gen>$	. \@Krypton\<n\> 
@@ -34239,21 +33984,11 @@
 ^.<sent>$ ^manganese<n><pl>$ ^'s<gen>$	. \@Manganese\<n\> 
 ^.<sent>$ ^manganese<n><sg>$	. \@Manganese\<n\>
 ^.<sent>$ ^manganese<n><pl>$	. \@Manganese\<n\>
-^.<sent>$ ^molybdenum<n><sg>$	. \@Molybdenum\<n\>
-^.<sent>$ ^molybdenum<n><pl>$	. \@Molybdenum\<n\>
-^.<sent>$ ^molybdenum<n><pl>$ ^'s<gen>$	. \@Molybdenum\<n\> 
-^.<sent>$ ^molybdenum<n><sg>$	. \@Molybdenum\<n\>
-^.<sent>$ ^molybdenum<n><pl>$	. \@Molybdenum\<n\>
 ^.<sent>$ ^radon<n><sg>$	. \@Radon\<n\>
 ^.<sent>$ ^radon<n><pl>$	. \@Radon\<n\>
 ^.<sent>$ ^radon<n><pl>$ ^'s<gen>$	. \@Radon\<n\> 
 ^.<sent>$ ^radon<n><sg>$	. \@Radon\<n\>
 ^.<sent>$ ^radon<n><pl>$	. \@Radon\<n\>
-^.<sent>$ ^roentgenium<n><sg>$	. \@Roentgenium\<n\>
-^.<sent>$ ^roentgenium<n><pl>$	. \@Roentgenium\<n\>
-^.<sent>$ ^roentgenium<n><pl>$ ^'s<gen>$	. \@Roentgenium\<n\> 
-^.<sent>$ ^roentgenium<n><sg>$	. \@Roentgenium\<n\>
-^.<sent>$ ^roentgenium<n><pl>$	. \@Roentgenium\<n\>
 ^.<sent>$ ^tungsten<n><sg>$	. \@Tungsten\<n\>
 ^.<sent>$ ^tungsten<n><pl>$	. \@Tungsten\<n\>
 ^.<sent>$ ^tungsten<n><pl>$ ^'s<gen>$	. \@Tungsten\<n\> 
@@ -35018,11 +34753,6 @@
 ^.<sent>$ ^brimstone<n><pl>$ ^'s<gen>$	. \@Brimstone\<n\> 
 ^.<sent>$ ^brimstone<n><sg>$	. \@Brimstone\<n\>
 ^.<sent>$ ^brimstone<n><pl>$	. \@Brimstone\<n\>
-^.<sent>$ ^chalk<n><sg>$	. \@Chalk\<n\>
-^.<sent>$ ^chalk<n><pl>$	. \@Chalk\<n\>
-^.<sent>$ ^chalk<n><pl>$ ^'s<gen>$	. \@Chalk\<n\> 
-^.<sent>$ ^chalk<n><sg>$	. \@Chalk\<n\>
-^.<sent>$ ^chalk<n><pl>$	. \@Chalk\<n\>
 ^.<sent>$ ^cashier<n><sg>$	. \@Cashier\<n\>
 ^.<sent>$ ^cashier<n><pl>$	. \@Cashier\<n\>
 ^.<sent>$ ^cashier<n><pl>$ ^'s<gen>$	. \@Cashier\<n\> 
@@ -35033,11 +34763,6 @@
 ^.<sent>$ ^cashier<n><pl>$ ^'s<gen>$	. \@Cashier\<n\> 
 ^.<sent>$ ^cashier<n><sg>$	. \@Cashier\<n\>
 ^.<sent>$ ^cashier<n><pl>$	. \@Cashier\<n\>
-^.<sent>$ ^gypsum<n><sg>$	. \@Gypsum\<n\>
-^.<sent>$ ^gypsum<n><pl>$	. \@Gypsum\<n\>
-^.<sent>$ ^gypsum<n><pl>$ ^'s<gen>$	. \@Gypsum\<n\> 
-^.<sent>$ ^gypsum<n><sg>$	. \@Gypsum\<n\>
-^.<sent>$ ^gypsum<n><pl>$	. \@Gypsum\<n\>
 ^.<sent>$ ^quicksilver<n><sg>$	. \@Quicksilver\<n\>
 ^.<sent>$ ^quicksilver<n><pl>$	. \@Quicksilver\<n\>
 ^.<sent>$ ^quicksilver<n><pl>$ ^'s<gen>$	. \@Quicksilver\<n\> 
@@ -35825,6 +35550,11 @@
 ^.<sent>$ ^romanisation<n><pl>$ ^'s<gen>$	. \@Romanisation\<n\> 
 ^.<sent>$ ^romanisation<n><sg>$	. \@Romanisation\<n\>
 ^.<sent>$ ^romanisation<n><pl>$	. \@Romanisation\<n\>
+^.<sent>$ ^summation<n><sg>$	. #Sommatoria\<n\>\<f\>\<sg\>
+^.<sent>$ ^summation<n><pl>$	. #Sommatoria\<n\>\<f\>\<pl\>
+^.<sent>$ ^summation<n><pl>$ ^'s<gen>$	. #Sommatoria\<n\>\<f\>\<pl\> 
+^.<sent>$ ^summation<n><sg>$	. #Sommatoria\<n\>\<f\>\<sg\>
+^.<sent>$ ^summation<n><pl>$	. #Sommatoria\<n\>\<f\>\<pl\>
 ^.<sent>$ ^oddysey<n><sg>$	. \@Oddysey\<n\>
 ^.<sent>$ ^oddysey<n><pl>$	. \@Oddysey\<n\>
 ^.<sent>$ ^oddysey<n><pl>$ ^'s<gen>$	. \@Oddysey\<n\> 
@@ -35853,29 +35583,11 @@
 ALTRES ERRADES DE BILING�E
 ==========================
 #\^.\<sent\> Hermes<np><ant>/Ermes<np><ant>$
-#\^.\<sent\> Kenia<np><ant>/Kenya<np><ant>$
-#\^.\<sent\> Lérida<np><ant>/Lleida<np><ant>$
 #\^.\<sent\> marzo<n><m>/Marcia<n><f>$
-#\^.\<sent\> María<np>/María<np><ant>$
-#\^.\<sent\> María<np>/María<np><ant>$
-#\^.\<sent\> Niza<np><ant>/Nizza<np><ant>$
-#\^.\<sent\> Sofía<np><ant>/Sofia<np><loc>$
-#\^.\<sent\> Valencia<np><ant>/Valenzia<np><ant>$
-#\^.\<sent\> Venecia<np><ant>/Venezia<np><ant>$
 #\^.\<sent\> Venus<np><ant>/Venere<np><ant>$
 #\^.\<sent\> lasciare<vblex>/abbandonare<vblex>$
-#\^.\<sent\> addome<n><m>/pancia<n><f>$
-#\^.\<sent\> addome<n><m>/pancia<n><f>$
-#\^.\<sent\> abilità<n><f><sp>/capacità<n><f><sp>$
-#\^.\<sent\> abilità<n><f><sp>/capacità<n><f><sp>$
-#\^.\<sent\> abilità<n><f><sp>/capacità<n><f><sp>$
-#\^.\<sent\> abilità<n><f><sp>/capacità<n><f><sp>$
-#\^.\<sent\> assolutamente<adv>/in assoluto<adv>$
-#\^.\<sent\> assolutamente<adv>/in assoluto<adv>$
-#\^.\<sent\> pletora<n><f>/abbondanza<n><f>$
-#\^.\<sent\> pletora<n><f>/abbondanza<n><f>$
-#\^.\<sent\> abusare<vblex>/insultare<vblex>$
-#\^.\<sent\> abusare<vblex>/insultare<vblex>$
+#\^.\<sent\> capacità<n><f><sp>/capacità<n><f><sp>$
+#\^.\<sent\> capacità<n><f><sp>/capacità<n><f><sp>$
 #\^.\<sent\> abisso<n><m>/baratro<n><m>$
 #\^.\<sent\> abisso<n><m>/baratro<n><m>$
 #\^.\<sent\> accelerazione<n><f>/velocizzazione<n><f>$
@@ -36120,6 +35832,8 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> annullamento<n><m>/cancellazione<n><f>$
 #\^.\<sent\> franco<adj>/candido<adj>$
 #\^.\<sent\> calotta<n><f>/berretto<n><m>$
+#\^.\<sent\> capacità<n><f><sp>/capacità<n><f><sp>$
+#\^.\<sent\> capacità<n><f><sp>/capacità<n><f><sp>$
 #\^.\<sent\> macchina<n><f>/automobile<n><f>/autoveicolo<n><m>/autovettura<n><m>$
 #\^.\<sent\> macchina<n><f>/automobile<n><f>/autoveicolo<n><m>/autovettura<n><m>$
 #\^.\<sent\> macchina<n><f>/automobile<n><f>/autoveicolo<n><m>/autovettura<n><m>$
@@ -36237,10 +35951,10 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> contare<vblex>/raccontare<vblex>$
 #\^.\<sent\> contare<vblex>/raccontare<vblex>$
 #\^.\<sent\> bancone<n><m>/contatore<n><m>$
-#\^.\<sent\> paio<n><f><pl>/paio<n><m><sg>/coppia<n><f>/matrimonio<n><m>$
-#\^.\<sent\> paio<n><f><pl>/paio<n><m><sg>/coppia<n><f>/matrimonio<n><m>$
-#\^.\<sent\> paio<n><f><pl>/paio<n><m><sg>/coppia<n><f>/matrimonio<n><m>$
-#\^.\<sent\> paio<n><f><pl>/paio<n><m><sg>/coppia<n><f>/matrimonio<n><m>$
+#\^.\<sent\> paio<n><m><sg>/paio<n><f><pl>/coppia<n><f>/matrimonio<n><m>$
+#\^.\<sent\> paio<n><m><sg>/paio<n><f><pl>/coppia<n><f>/matrimonio<n><m>$
+#\^.\<sent\> paio<n><m><sg>/paio<n><f><pl>/coppia<n><f>/matrimonio<n><m>$
+#\^.\<sent\> paio<n><m><sg>/paio<n><f><pl>/coppia<n><f>/matrimonio<n><m>$
 #\^.\<sent\> corso<n><m>/marcia<n><f>$
 #\^.\<sent\> corso<n><m>/marcia<n><f>$
 #\^.\<sent\> taglio<n><f>/tribunale<n><m>$
@@ -36574,6 +36288,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> canapa<n><m>/canapa<n><f>$
 #\^.\<sent\> lì<adv>/qui<adv>$
 #\^.\<sent\> lì<adv>/qui<adv>$
+#\^.\<sent\> istituto<n><m>/liceo<n><m>$
 #\^.\<sent\> distaccare<vblex>/evidenziare<vblex>$
 #\^.\<sent\> sé<prn><tn>/sè<prn><tn>$
 #\^.\<sent\> sé<prn><tn>/sè<prn><tn>$
@@ -37382,8 +37097,8 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> diana<n><f>/bianco<n><m>/obiettivo<n><m>$
 #\^.\<sent\> diana<n><f>/bianco<n><m>/obiettivo<n><m>$
 #\^.\<sent\> tasso<n><GD>/imposta<n><f>$
-#\^.\<sent\> tassista<n><f>/tassista<n><m>$
-#\^.\<sent\> tassista<n><f>/tassista<n><m>$
+#\^.\<sent\> tassista<n><m>/tassista<n><f>$
+#\^.\<sent\> tassista<n><m>/tassista<n><f>$
 #\^.\<sent\> insegnamento<n><m>/insegnamento<n><f>$
 #\^.\<sent\> insegnamento<n><m>/insegnamento<n><f>$
 #\^.\<sent\> squadra<n><f>/maestranze<n><f>$
@@ -37630,6 +37345,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> trattamento<n><m>/trattazione<n><f>$
 #\^.\<sent\> recepimento<n><m>/trasposizione<n><f>$
 #\^.\<sent\> stazione<n><f>/stagione<n><f>$
+#\^.\<sent\> sommatoria<n><f>/sommazione<n><f>$
 #\^.\<sent\> laicizzazione<n><f>/secolarizzazione<n><f>$
 #\^.\<sent\> scomposizione<n><f>/decomposizione<n><f>$
 #\^.\<sent\> rilancio<n><m>/rivitalizzazione<n><f>$
@@ -37725,12 +37441,6 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> gustare<vblex>/piacere<vblex>$
 #\^.\<sent\> lasciare<vblex>/abbandonare<vblex>$
 #\^.\<sent\> riunire<vblex>/assemblare<vblex>$
-#\^.\<sent\> Kenia<np><ant>/Kenya<np><ant>$
-#\^.\<sent\> Lérida<np><ant>/Lleida<np><ant>$
-#\^.\<sent\> Niza<np><ant>/Nizza<np><ant>$
-#\^.\<sent\> Sofía<np><ant>/Sofia<np><loc>$
-#\^.\<sent\> Valencia<np><ant>/Valenzia<np><ant>$
-#\^.\<sent\> Venecia<np><ant>/Venezia<np><ant>$
 #\^.\<sent\> Venus<np><ant>/Venere<np><ant>$
 #\^.\<sent\> Hermes<np><ant>/Ermes<np><ant>$
 #\^.\<sent\> udito<n><m>/audizione<n><f>$
@@ -37913,3 +37623,5 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> rispondere<vblex>/contestare<vblex>$
 #\^.\<sent\> dispiacere<vblex>/provare# avversione<vblex>$
 #\^.\<sent\> dissolvere<vblex>/sciogliere<vblex>$
+#\^.\<sent\> istituto<n><m>/liceo<n><m>$
+#\^.\<sent\> sommatoria<n><f>/sommazione<n><f>$
