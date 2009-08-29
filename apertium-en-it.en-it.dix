@@ -13063,15 +13063,15 @@
 <e><p><l>purely<b/>and<b/>simply<s n="adv"/></l><r>puramente<b/>e<b/>semplicemente<s n="adv"/></r></p></e>
 <e><p><l>purportedly<s n="adv"/></l><r>suppostamente<s n="adv"/></r></p></e>
 <e><p><l>purposely<s n="adv"/></l><r>espressamente<s n="adv"/></r></p></e>
-<e><p><l>purposely<s n="adv"/></l><r>appositamente<s n="adv"/></r></p></e>
+<e r="RL"><p><l>purposely<s n="adv"/></l><r>appositamente<s n="adv"/></r></p></e>
 <e><p><l>qualitatively<s n="adv"/></l><r>qualitativamente<s n="adv"/></r></p></e>
 <e><p><l>quantitatively<s n="adv"/></l><r>quantitativamente<s n="adv"/></r></p></e>
-<e><p><l>quick<s n="adv"/></l><r>rapidamente<s n="adv"/></r></p></e>
+<e r="LR"><p><l>quick<s n="adv"/></l><r>rapidamente<s n="adv"/></r></p></e>
 <e><p><l>quickly<s n="adv"/></l><r>rapidamente<s n="adv"/></r></p></e>
-<e><p><l>quickly<s n="adv"/></l><r>velocemente<s n="adv"/></r></p></e>
+<e r="RL"><p><l>quickly<s n="adv"/></l><r>velocemente<s n="adv"/></r></p></e>
 <e><p><l>quietly<s n="adv"/></l><r>tranquillamente<s n="adv"/></r></p></e>
 <e c="no preadverbi"><p><l>quite<b/>a<b/>lot<s n="adv"/></l><r>abbastanza<s n="adv"/></r></p></e>
-<e c="no preadverbi"><p><l>quite<b/>a<b/>lot<s n="adv"/></l><r>piuttosto<s n="adv"/></r></p></e>
+<e c="no preadverbi" r="RL"><p><l>quite<b/>a<b/>lot<s n="adv"/></l><r>piuttosto<s n="adv"/></r></p></e>
 <e><p><l>radically<s n="adv"/></l><r>radicalmente<s n="adv"/></r></p></e>
 <e><p><l>rapidly<s n="adv"/></l><r>rapidamente<s n="adv"/></r></p></e>
 <e><p><l>rarely<s n="adv"/></l><r>raramente<s n="adv"/></r></p></e>
@@ -13085,7 +13085,7 @@
 <e><p><l>recursively<s n="adv"/></l><r>ricorsivamente<s n="adv"/></r></p></e>
 <e c="añadir también 'regardless of' como 'a pesar de'"><p><l>regardless<s n="adv"/></l><r>a<b/>tutti<b/>i<b/>costi<s n="adv"/></r></p></e>
 <e><p><l>regrettably<s n="adv"/></l><r>lamentevolmente<s n="adv"/></r></p></e>
-<e><p><l>regularly<s n="adv"/></l><r>in<b/>generale<s n="adv"/></r></p></e>
+<e><p><l>in<b/>general<s n="adv"/></l><r>in<b/>generale<s n="adv"/></r></p></e>
 <e><p><l>regularly<s n="adv"/></l><r>regolarmente<s n="adv"/></r></p></e>
 <e><p><l>relatively<s n="adv"/></l><r>relativamente<s n="adv"/></r></p></e>
 <e><p><l>religiously<s n="adv"/></l><r>religiosamente<s n="adv"/></r></p></e>
@@ -13100,13 +13100,13 @@
 <e><p><l>right<b/>through<s n="adv"/></l><r>completamente<s n="adv"/></r></p></e>
 <e><p><l>rightly<s n="adv"/></l><r>correttamente<s n="adv"/></r></p></e>
 <e><p><l>rigidly<s n="adv"/></l><r>rigidamente<s n="adv"/></r></p></e>
-<e><p><l>roughly<s n="adv"/></l><r>approssimativamente<s n="adv"/></r></p></e>
-<e><p><l>roughly<s n="adv"/></l><r>circa<s n="adv"/></r></p></e>
+<e r="LR"><p><l>roughly<s n="adv"/></l><r>approssimativamente<s n="adv"/></r></p></e>
+<e><p><l>circa<s n="adv"/></l><r>circa<s n="adv"/></r></p></e>
 <e><p><l>roundly<s n="adv"/></l><r>completamente<s n="adv"/></r></p></e>
 <e><p><l>sadly<s n="adv"/></l><r>tristemente<s n="adv"/></r></p></e>
 <e><p><l>scarcely<s n="adv"/></l><r>scarsamente<s n="adv"/></r></p></e>
 <e><p><l>scientifically<s n="adv"/></l><r>scientificamente<s n="adv"/></r></p></e>
-<e><p><l>second<s n="adv"/></l><r>in<b/>secondo<b/>luogo<s n="adv"/></r></p></e>
+<e><p><l>secondly<s n="adv"/></l><r>in<b/>secondo<b/>luogo<s n="adv"/></r></p></e>
 <e><p><l>secretly<s n="adv"/></l><r>segretamente<s n="adv"/></r></p></e>
 <e><p><l>seemingly<s n="adv"/></l><r>apparentemente<s n="adv"/></r></p></e>
 <e><p><l>seldom<s n="adv"/></l><r>raramente<s n="adv"/></r></p></e>
@@ -13122,7 +13122,7 @@
 <e><p><l>shyly<s n="adv"/></l><r>timidamente<s n="adv"/></r></p></e>
 <e><p><l>significantly<s n="adv"/></l><r>significativamente<s n="adv"/></r></p></e>
 <e><p><l>similarly<s n="adv"/></l><r>similarmente<s n="adv"/></r></p></e>
-<e><p><l>similarly<s n="adv"/></l><r>similmente<s n="adv"/></r></p></e>
+<e r="RL"><p><l>similarly<s n="adv"/></l><r>similmente<s n="adv"/></r></p></e>
 <e><p><l>simply<s n="adv"/></l><r>semplicemente<s n="adv"/></r></p></e>
 <e><p><l>simultaneously<s n="adv"/></l><r>simultaneamente<s n="adv"/></r></p></e>
 <e c="we haven't spoke since/no nos hablamos desde entonces"><p><l>since<s n="adv"/></l><r>da<b/>allora<s n="adv"/></r></p></e>
@@ -13135,7 +13135,7 @@
 <e><p><l>slightly<s n="adv"/></l><r>lievemente<s n="adv"/></r></p></e>
 <e><p><l>slow<s n="adv"/></l><r>piano<s n="adv"/></r></p></e>
 <e><p><l>slowly<s n="adv"/></l><r>piano<s n="adv"/></r></p></e>
-<e><p><l>slowly<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>
+<e r="RL"><p><l>slowly<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>
 <e c="sols singular"><p><l>so<b/>much<s n="adv"/></l><r>tanto<s n="adv"/></r></p></e>
 <e><p><l>socially<s n="adv"/></l><r>socialmente<s n="adv"/></r></p></e>
 <e><p><l>solely<s n="adv"/></l><r>soltanto<s n="adv"/></r></p></e>
@@ -13143,14 +13143,14 @@
 <e><p><l>some<s n="adv"/></l><r>un<b/>pò<s n="adv"/></r></p></e>
 <e><p><l>somehow<s n="adv"/></l><r>in<b/>qualche<b/>modo<s n="adv"/></r></p></e>
 <e><p><l>sometimes<s n="adv"/></l><r>a<b/>volte<s n="adv"/></r></p></e>
-<e><p><l>sometimes<s n="adv"/></l><r>qualche<b/>volta<s n="adv"/></r></p></e>
+<e r="RL"><p><l>sometimes<s n="adv"/></l><r>qualche<b/>volta<s n="adv"/></r></p></e>
 <e><p><l>somewhat<s n="adv"/></l><r>un<b/>pò<s n="adv"/></r></p></e>
 <e><p><l>somewhere<s n="adv"/></l><r>in<b/>qualche<b/>luogo<s n="adv"/></r></p></e>
 <e><p><l>soon<s n="adv"/></l><r>presto<s n="adv"/></r></p></e>
 <e><p><l>specially<s n="adv"/></l><r>specialmente<s n="adv"/></r></p></e>
-<e><p><l>specifically<s n="adv"/></l><r>concretamente<s n="adv"/></r></p></e>
+<e r="RL"><p><l>specifically<s n="adv"/></l><r>concretamente<s n="adv"/></r></p></e>
 <e><p><l>specifically<s n="adv"/></l><r>specificamente<s n="adv"/></r></p></e>
-<e><p><l>specifically<s n="adv"/></l><r>specificatamente<s n="adv"/></r></p></e>
+<e r="RL"><p><l>specifically<s n="adv"/></l><r>specificatamente<s n="adv"/></r></p></e>
 <e><p><l>spontaneously<s n="adv"/></l><r>spontaneamente<s n="adv"/></r></p></e>
 <e><p><l>sporadically<s n="adv"/></l><r>sporadicamente<s n="adv"/></r></p></e>
 <e><p><l>stably<s n="adv"/></l><r>stabilmente<s n="adv"/></r></p></e>
@@ -13158,7 +13158,7 @@
 <e c="frases afirmatives i interrogatives"><p><l>still<s n="adv"/></l><r>ancora<s n="adv"/></r></p></e>
 <e><p><l>stoically<s n="adv"/></l><r>stoicamente<s n="adv"/></r></p></e>
 <e><p><l>straight<s n="adv"/></l><r>direttamente<s n="adv"/></r></p></e>
-<e><p><l>straight<b/>away<s n="adv"/></l><r>immediatamente<s n="adv"/></r></p></e>
+<e r="LR"><p><l>straight<b/>away<s n="adv"/></l><r>immediatamente<s n="adv"/></r></p></e>
 <e><p><l>straight<b/>through<s n="adv"/></l><r>completamente<s n="adv"/></r></p></e>
 <e><p><l>strategically<s n="adv"/></l><r>strategicamente<s n="adv"/></r></p></e>
 <e><p><l>strenuously<s n="adv"/></l><r>strenuamente<s n="adv"/></r></p></e>
@@ -13171,32 +13171,32 @@
 <e><p><l>subsequently<s n="adv"/></l><r>posteriormente<s n="adv"/></r></p></e>
 <e><p><l>substantially<s n="adv"/></l><r>sostanzialmente<s n="adv"/></r></p></e>
 <e><p><l>successively<s n="adv"/></l><r>successivamente<s n="adv"/></r></p></e>
-<e><p><l>suddenly<s n="adv"/></l><r>all'improvviso<s n="adv"/></r></p></e>
+<e r="RL"><p><l>suddenly<s n="adv"/></l><r>all'improvviso<s n="adv"/></r></p></e>
 <e><p><l>suddenly<s n="adv"/></l><r>improvvisamente<s n="adv"/></r></p></e>
 <e><p><l>sufficiently<s n="adv"/></l><r>sufficientemente<s n="adv"/></r></p></e>
 <e><p><l>supposedly<s n="adv"/></l><r>presuntamente<s n="adv"/></r></p></e>
 <e><p><l>sure<s n="adv"/></l><r>sicuro<s n="adv"/></r></p></e>
 <e><p><l>sure<b/>enough<s n="adv"/></l><r>effettivamente<s n="adv"/></r></p></e>
 <e><p><l>surely<s n="adv"/></l><r>sicuramente<s n="adv"/></r></p></e>
-<e><p><l>surprisingly<s n="adv"/></l><r>stupefacentemente<s n="adv"/></r></p></e>
+<e r="RL"><p><l>surprisingly<s n="adv"/></l><r>stupefacentemente<s n="adv"/></r></p></e>
 <e><p><l>surprisingly<s n="adv"/></l><r>sorprendentemente<s n="adv"/></r></p></e>
 <e><p><l>sweetly<s n="adv"/></l><r>dolcemente<s n="adv"/></r></p></e>
 <e><p><l>swiftly<s n="adv"/></l><r>rapidamente<s n="adv"/></r></p></e>
 <e><p><l>symbolically<s n="adv"/></l><r>simbolicamente<s n="adv"/></r></p></e>
 <e><p><l>synthetically<s n="adv"/></l><r>sinteticamente<s n="adv"/></r></p></e>
-<e><p><l>systematically<s n="adv"/></l><r>da<b/>sistema<s n="adv"/></r></p></e>
+<e r="RL"><p><l>systematically<s n="adv"/></l><r>da<b/>sistema<s n="adv"/></r></p></e>
 <e><p><l>systematically<s n="adv"/></l><r>sistematicamente<s n="adv"/></r></p></e>
 <e><p><l>technically<s n="adv"/></l><r>tecnicamente<s n="adv"/></r></p></e>
 <e><p><l>technologically<s n="adv"/></l><r>tecnologicamente<s n="adv"/></r></p></e>
 <e><p><l>temporarily<s n="adv"/></l><r>temporalmente<s n="adv"/></r></p></e>
-<e><p><l>temporarily<s n="adv"/></l><r>temporaneamente<s n="adv"/></r></p></e>
+<e r="RL"><p><l>temporarily<s n="adv"/></l><r>temporaneamente<s n="adv"/></r></p></e>
 <e><p><l>terribly<s n="adv"/></l><r>terribilmente<s n="adv"/></r></p></e>
 <e><p><l>thankfully<s n="adv"/></l><r>fortunatamente<s n="adv"/></r></p></e>
 <e><p><l>the<b/>day<b/>after<b/>tomorrow<s n="adv"/></l><r>dopodomani<s n="adv"/></r></p></e>
 <e><p><l>the<b/>day<b/>before<b/>yesterday<s n="adv"/></l><r>l'altro<b/>ieri<s n="adv"/></r></p></e>
 <e><p><l>the<b/>first<b/>time<s n="adv"/></l><r>la<b/>prima<b/>volta<s n="adv"/></r></p></e>
-<e><p><l>the<b/>next<b/>day<s n="adv"/></l><r>il<b/>giorno<b/>seguente<s n="adv"/></r></p></e>
-<e><p><l>the<b/>next<b/>day<s n="adv"/></l><r>il<b/>giorno<b/>successivo<s n="adv"/></r></p></e>
+<e r="RL"><p><l>the<b/>next<b/>day<s n="adv"/></l><r>il<b/>giorno<b/>seguente<s n="adv"/></r></p></e>
+<e r="RL"><p><l>the<b/>next<b/>day<s n="adv"/></l><r>il<b/>giorno<b/>successivo<s n="adv"/></r></p></e>
 <e><p><l>the<b/>next<b/>day<s n="adv"/></l><r>il<b/>giorno<b/>dopo<s n="adv"/></r></p></e>
 <e><p><l>the<b/>next<b/>week<s n="adv"/></l><r>la<b/>settimana<b/>prossima<s n="adv"/></r></p></e>
 <e><p><l>the<b/>next<b/>year<s n="adv"/></l><r>l'anno<b/>prossimo<s n="adv"/></r></p></e>
@@ -13205,17 +13205,17 @@
 <e c="Faltaria potser un 'igual' adjectiu"><p><l>the<b/>same<s n="adv"/></l><r>uguale<s n="adv"/></r></p></e>
 <e><p><l>then<s n="adv"/></l><r>allora<s n="adv"/></r></p></e>
 <e><p><l>then<s n="adv"/></l><r>a<b/>quel<b/>tempo<s n="adv"/></r></p></e>
-<e><p><l>then<s n="adv"/></l><r>a<b/>quei<b/>tempi<s n="adv"/></r></p></e>
+<e r="RL"><p><l>then<s n="adv"/></l><r>a<b/>quei<b/>tempi<s n="adv"/></r></p></e>
 <e><p><l>then<b/>and<b/>there<s n="adv"/></l><r>immediatamente<s n="adv"/></r></p></e>
 <e><p><l>theoretically<s n="adv"/></l><r>teoricamente<s n="adv"/></r></p></e>
-<e><p><l>there<s n="adv"/></l><r>là<s n="adv"/></r></p></e>
+<e r="RL"><p><l>there<s n="adv"/></l><r>là<s n="adv"/></r></p></e>
 <e><p><l>there<s n="adv"/></l><r>lì<s n="adv"/></r></p></e>
 <e><p><l>there<b/>again<s n="adv"/></l><r>oltretutto<s n="adv"/></r></p></e>
 <e><p><l>there<b/>and<b/>then<s n="adv"/></l><r>immediatamente<s n="adv"/></r></p></e>
 <e><p><l>thereafter<s n="adv"/></l><r>dopo<s n="adv"/></r></p></e>
 <e><p><l>thereby<s n="adv"/></l><r>così<s n="adv"/></r></p></e>
 <e><p><l>this<b/>morning<s n="adv"/></l><r>questa<b/>mattina<s n="adv"/></r></p></e>
-<e><p><l>this<b/>morning<s n="adv"/></l><r>stamane<s n="adv"/></r></p></e>
+<e r="RL"><p><l>this<b/>morning<s n="adv"/></l><r>stamane<s n="adv"/></r></p></e>
 <e r="RL"><p><l>this<b/>morning<s n="adv"/></l><r>stamattina<s n="adv"/></r></p></e>
 <e><p><l>this<b/>time<s n="adv"/></l><r>questa<b/>volta<s n="adv"/></r></p></e>
 <e><p><l>thoroughly<s n="adv"/></l><r>pianamente<s n="adv"/></r></p></e>
@@ -13258,7 +13258,7 @@
 <e><p><l>underneath<s n="adv"/></l><r>sotto<s n="adv"/></r></p></e>
 <e><p><l>undoubtedly<s n="adv"/></l><r>indubbiamente<s n="adv"/></r></p></e>
 <e><p><l>unfairly<s n="adv"/></l><r>ingiustamente<s n="adv"/></r></p></e>
-<e><p><l>unfairly<s n="adv"/></l><r>indebitamente<s n="adv"/></r></p></e>
+<e r="RL"><p><l>unfairly<s n="adv"/></l><r>indebitamente<s n="adv"/></r></p></e>
 <e c="fuera de coloquial"><p><l>unfortunately<s n="adv"/></l><r>sfortunatamente<s n="adv"/></r></p></e>
 <e><p><l>unilaterally<s n="adv"/></l><r>unilateralmente<s n="adv"/></r></p></e>
 <e><p><l>unintentionally<s n="adv"/></l><r>involontariamente<s n="adv"/></r></p></e>
@@ -13272,7 +13272,7 @@
 <e><p><l>up<b/>till<b/>now<s n="adv"/></l><r>finora<s n="adv"/></r></p></e>
 <e><p><l>up<b/>to<b/>here<s n="adv"/></l><r>qui<s n="adv"/></r></p></e>
 <e><p><l>up<b/>to<b/>now<s n="adv"/></l><r>finora<s n="adv"/></r></p></e>
-<e><p><l>up<b/>to<b/>the<b/>present<s n="adv"/></l><r>finora<s n="adv"/></r></p></e>
+<e r="RL"><p><l>up<b/>to<b/>the<b/>present<s n="adv"/></l><r>finora<s n="adv"/></r></p></e>
 <e><p><l>up<b/>until<b/>now<s n="adv"/></l><r>finora<s n="adv"/></r></p></e>
 <e><p><l>uppermost<s n="adv"/></l><r>addirittura<s n="adv"/></r></p></e>
 <e><p><l>upward<s n="adv"/></l><r>sopra<s n="adv"/></r></p></e>
@@ -14185,22 +14185,20 @@
 <e><p><l>basis<s n="n"/></l><r>base<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>basket<s n="n"/></l><r>cesta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>basket<s n="n"/></l><r>paniere<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>basket<s n="n"/></l><r>cesto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>basketball<s n="n"/></l><r>pallacanestro<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>basket<s n="n"/></l><r>cesto<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>basketball<s n="n"/></l><r>pallacanestro<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>basketball<s n="n"/></l><r>basket<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>bastard<s n="n"/></l><r>bastardo<s n="n"/></r></p></e>
 <e r="LR"><p><l>bastard<s n="n"/></l><r>bastardo<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>batallion<s n="n"/></l><r>battaglione<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>bath<s n="n"/></l><r>vasca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bath<s n="n"/></l><r>bagno<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>bath<s n="n"/></l><r>balneazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>bathroom<s n="n"/></l><r>bagno<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>bathroom<s n="n"/></l><r>balneazione<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>bathroom<s n="n"/></l><r>sala<g><b/>da<b/>bagno</g><s n="n"/><s n="f"/></r></p></e>
+<e><p><l>bathing<s n="n"/></l><r>balneazione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>batter<s n="n"/></l><r>pasta<b/>cresciuta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>battery<s n="n"/></l><r>pila<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>battle<s n="n"/></l><r>battaglia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bay<s n="n"/></l><r>baia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>bay<s n="n"/></l><r>alloro<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>laurel<s n="n"/></l><r>alloro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bayonet<s n="n"/></l><r>baionetta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>beach<s n="n"/></l><r>spiaggia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bead<s n="n"/></l><r>conto<s n="n"/><s n="m"/></r></p></e>
@@ -14223,9 +14221,9 @@
 <e><p><l>beetle<s n="n"/></l><r>scarabeo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>beetroot<s n="n"/></l><r>barbabietola<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>beginning<s n="n"/></l><r>inizio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>behaviorism<s n="n"/></l><r>comportamentismo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>behaviourism<s n="n"/></l><r>comportamentismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>behaviour<s n="n"/></l><r>comportamento<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>behaviour<s n="n"/></l><r>condotta<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>conduct<s n="n"/></l><r>condotta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>being<s n="n"/></l><r>essere<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>belief<s n="n"/></l><r>credenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bell<s n="n"/></l><r>campana<s n="n"/><s n="f"/></r></p></e>
@@ -14235,7 +14233,7 @@
 <e r="LR"><p><l>beloved<s n="n"/></l><r>amato<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>beloved<s n="n"/></l><r>amato<s n="n"/></r></p></e>
 <e><p><l>belt<s n="n"/></l><r>cintura<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>belt<s n="n"/></l><r>guinzaglio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>leash<s n="n"/></l><r>guinzaglio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bend<s n="n"/></l><r>curva<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>benediction<s n="n"/></l><r>benedizione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>benefactor<s n="n"/></l><r>benefattore<s n="n"/></r></p></e>
@@ -14243,14 +14241,11 @@
 <e r="RL"><p><l>beneficiary<s n="n"/></l><r>beneficiario<s n="n"/></r></p></e>
 <e r="LR"><p><l>beneficiary<s n="n"/></l><r>beneficiario<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>benefit<s n="n"/></l><r>beneficio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>benefit<s n="n"/></l><r>beneficio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>benevolence<s n="n"/></l><r>benevolenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>benzine<s n="n"/></l><r>benzina<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>berkelium<s n="n"/></l><r>berkelio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>beryllium<s n="n"/></l><r>berillio<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>bestiality<s n="n"/><s n="ND"/></l><r>bestialità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>bestiality<s n="n"/><s n="sg"/></l><r>bestialità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>bestiality<s n="n"/><s n="pl"/></l><r>bestialità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+<e><p><l>berkelium<s n="n"/></l><r>berkelio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>beryllium<s n="n"/></l><r>berillio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e><p><l>bestiality<s n="n"/></l><r>bestialità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
 <e><p><l>bet<s n="n"/></l><r>scommessa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>betacism<s n="n"/></l><r>betacismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>betting<s n="n"/></l><r>scommessa<s n="n"/><s n="f"/></r></p></e>
@@ -14318,8 +14313,8 @@
 <e r="LR"><p><l>bloc<s n="n"/><s n="sg"/></l><r>bloc<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>bloc<s n="n"/><s n="pl"/></l><r>bloc<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>block<s n="n"/></l><r>blocco<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>blockade<s n="n"/></l><r>blocco<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>blocking<s n="n"/></l><r>blocco<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>blockade<s n="n"/></l><r>blocco<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>blocking<s n="n"/></l><r>blocco<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>blog<s n="n"/><s n="sg"/></l><r>blog<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>blog<s n="n"/><s n="pl"/></l><r>blog<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>blog<s n="n"/><s n="ND"/></l><r>blog<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -14343,7 +14338,6 @@
 <e r="RL"><p><l>bolivian<s n="n"/></l><r>boliviano<s n="n"/></r></p></e>
 <e r="LR"><p><l>bolivian<s n="n"/></l><r>boliviano<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>bomb<s n="n"/></l><r>bomba<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>bone<s n="n"/></l><r>osso<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bone<s n="n"/></l><r>osso<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>bone<s n="n"/><s n="pl"/></l><r>osso<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e><p><l>bonnet<s n="n"/></l><r>cappello<s n="n"/><s n="m"/></r></p></e>
@@ -14376,9 +14370,7 @@
 <e><p><l>boy<s n="n"/></l><r>bambino<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>boycott<s n="n"/></l><r>boicottaggio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>boyfriend<s n="n"/></l><r>fidanzato<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>boyfriend<s n="n"/></l><r>fidanzato<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bra<s n="n"/></l><r>reggiseno<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>brain<s n="n"/></l><r>cervello<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>brain<s n="n"/></l><r>cervello<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>brain<s n="n"/><s n="pl"/></l><r>cervello<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e><p><l>brake<s n="n"/></l><r>freno<s n="n"/><s n="m"/></r></p></e>
@@ -14444,7 +14436,7 @@
 <e><p><l>burden<s n="n"/></l><r>carica<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bureau<s n="n"/></l><r>agenzia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bureaucracy<s n="n"/></l><r>burocrazia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>burial<s n="n"/></l><r>funerale<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>funeral<s n="n"/></l><r>funerale<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>burial<s n="n"/></l><r>sepoltura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>burn<s n="n"/></l><r>ustione<s n="n"/><s n="f"/></r></p></e>
 <e srl="burse"><p><l>burse<s n="n"/></l><r>borsa<s n="n"/><s n="f"/></r></p></e>
@@ -19769,26 +19761,25 @@
 <e><p><l>spirit<s n="n"/></l><r>spirito<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>spiritism<s n="n"/></l><r>spiritismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>splinter<s n="n"/></l><r>scheggia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>spokesman<s n="n"/></l><r>portavoce<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>spokesman<s n="n"/></l><r>portavoce<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
 <e><p><l>spokesperson<s n="n"/></l><r>portavoce<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
-<e><p><l>spokeswoman<s n="n"/></l><r>portavoce<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>spokeswoman<s n="n"/></l><r>portavoce<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
 <e><p><l>sponge<s n="n"/></l><r>spugna<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>sponsorship<s n="n"/></l><r>patrocinio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>spoon<s n="n"/></l><r>cucchiaio<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>spoon<s n="n"/></l><r>cucchiaio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>sporangium<s n="n"/></l><r>sporangio<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
 <e r="LR"><p><l>sport<s n="n"/><s n="sg"/></l><r>sport<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>sport<s n="n"/><s n="pl"/></l><r>sport<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>sport<s n="n"/><s n="ND"/></l><r>sport<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>sportsman<s n="n"/></l><r>sportivo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>sportsman<s n="n"/></l><r>sportivo<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>sportswoman<s n="n"/></l><r>sportivo<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>spot<s n="n"/></l><r>granito<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>spot<s n="n"/></l><r>posto<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>spouse<s n="n"/></l><r>sposo<s n="n"/></r></p></e>
 <e r="LR"><p><l>spouse<s n="n"/></l><r>sposo<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>sprain<s n="n"/></l><r>distorsione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>spring<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>spring<s n="n"/></l><r>primavera<s n="n"/><s n="f"/></r></p></e>
+<e slr="fonte"><p><l>spring<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e>
+<e slr="primavera D"><p><l>spring<s n="n"/></l><r>primavera<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>spurt<s n="n"/></l><r>impulso<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>spy<s n="n"/></l><r>spia<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>square<s n="n"/></l><r>piazza<s n="n"/><s n="f"/></r></p></e>
@@ -19821,7 +19812,6 @@
 <e><p><l>star<s n="n"/></l><r>astro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>starch<s n="n"/></l><r>fecola<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>start<s n="n"/></l><r>avvio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>start<s n="n"/></l><r>inizio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>state<s n="n"/></l><r>stato<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>statement<s n="n"/></l><r>dichiarazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>statement<s n="n"/></l><r>enunciazione<s n="n"/><s n="f"/></r></p></e>
@@ -20007,7 +19997,7 @@
 <e r="RL"><p><l>swimming<s n="n"/><s n="sg"/></l><r>nuoto<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e><p><l>swimming<b/>pool<s n="n"/></l><r>piscina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>swindle<s n="n"/></l><r>truffa<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>swine<s n="n"/></l><r>porco<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>swine<s n="n"/></l><r>porco<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>swing<s n="n"/></l><r>cambio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>swing<s n="n"/></l><r>altalena<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>swing<s n="n"/></l><r>oscillazione<s n="n"/><s n="f"/></r></p></e>
