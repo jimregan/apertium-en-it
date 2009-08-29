@@ -502,11 +502,6 @@
 ^.<sent>$ ^amnesty<n><pl>$	. \@Amnesty\<n\>
 ^.<sent>$ ^analysis<n><sg>$	. \@Analysis\<n\>
 ^.<sent>$ ^analysis<n><sg>$ ^'s<gen>$	. \@Analysis\<n\> 
-^.<sent>$ ^analyst<n><sg>$	. #Analista\<n\>\<mf\>\<sg\>
-^.<sent>$ ^analyst<n><pl>$	. #Analista\<n\>\<mf\>\<pl\>
-^.<sent>$ ^analyst<n><pl>$ ^'s<gen>$	. #Analista\<n\>\<mf\>\<pl\> 
-^.<sent>$ ^analyst<n><sg>$	. #Analista\<n\>\<mf\>\<sg\>
-^.<sent>$ ^analyst<n><pl>$	. #Analista\<n\>\<mf\>\<pl\>
 ^.<sent>$ ^anarchy<n><sg>$	. \@Anarchy\<n\>
 ^.<sent>$ ^anarchy<n><pl>$	. \@Anarchy\<n\>
 ^.<sent>$ ^anarchy<n><pl>$	. \@Anarchy\<n\>
@@ -967,6 +962,11 @@
 ^.<sent>$ ^liveliness<n><pl>$ ^'s<gen>$	. \@Liveliness\<n\> 
 ^.<sent>$ ^liveliness<n><sg>$	. \@Liveliness\<n\>
 ^.<sent>$ ^liveliness<n><pl>$	. \@Liveliness\<n\>
+^.<sent>$ ^blockade<n><sg>$	. \@Blockade\<n\>
+^.<sent>$ ^blockade<n><pl>$	. \@Blockade\<n\>
+^.<sent>$ ^blockade<n><pl>$ ^'s<gen>$	. \@Blockade\<n\> 
+^.<sent>$ ^blockade<n><sg>$	. \@Blockade\<n\>
+^.<sent>$ ^blockade<n><pl>$	. \@Blockade\<n\>
 ^.<sent>$ ^bloodletting<n><sg>$	. \@Bloodletting\<n\>
 ^.<sent>$ ^bloodletting<n><pl>$	. \@Bloodletting\<n\>
 ^.<sent>$ ^bloodletting<n><pl>$ ^'s<gen>$	. \@Bloodletting\<n\> 
@@ -5158,9 +5158,6 @@
 ^.<sent>$ ^navigator<n><pl>$ ^'s<gen>$	. \@Navigator\<n\> 
 ^.<sent>$ ^navigator<n><sg>$	. \@Navigator\<n\>
 ^.<sent>$ ^navigator<n><pl>$	. \@Navigator\<n\>
-^.<sent>$ ^negotiation<n><pl>$	. #Gestione\<n\>
-^.<sent>$ ^negotiation<n><pl>$ ^'s<gen>$	. #Gestione\<n\> 
-^.<sent>$ ^negotiation<n><pl>$	. #Gestione\<n\>
 ^.<sent>$ ^neon<n><sg>$	. \@Neon\<n\>
 ^.<sent>$ ^neon<n><pl>$	. \@Neon\<n\>
 ^.<sent>$ ^neon<n><pl>$ ^'s<gen>$	. \@Neon\<n\> 
@@ -18662,6 +18659,7 @@
 ^.<sent>$ ^beef<n><sg>$	. \@Beef\<n\>
 ^.<sent>$ ^beef<n><pl>$	. \@Beef\<n\>
 ^.<sent>$ ^behavioural<adj>$	. \@Behavioural\<adj\>\<m\>\<sg\>
+^.<sent>$ ^behavioural<adj>$	. \@Behavioural\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^bel<n><sg>$	. \@Bel\<n\>
 ^.<sent>$ ^bel<n><pl>$	. \@Bel\<n\>
 ^.<sent>$ ^bel<n><pl>$ ^'s<gen>$	. \@Bel\<n\> 
@@ -18673,21 +18671,11 @@
 ^.<sent>$ ^bentonite<n><pl>$ ^'s<gen>$	. \@Bentonite\<n\> 
 ^.<sent>$ ^bentonite<n><sg>$	. \@Bentonite\<n\>
 ^.<sent>$ ^bentonite<n><pl>$	. \@Bentonite\<n\>
-^.<sent>$ ^berkelium<n><sg>$	. #Berkelio\<n\>\<m\>\<sg\>
-^.<sent>$ ^berkelium<n><pl>$	. #Berkelio\<n\>\<m\>\<pl\>
-^.<sent>$ ^berkelium<n><pl>$ ^'s<gen>$	. #Berkelio\<n\>\<m\>\<pl\> 
-^.<sent>$ ^berkelium<n><sg>$	. #Berkelio\<n\>\<m\>\<sg\>
-^.<sent>$ ^berkelium<n><pl>$	. #Berkelio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^berlin<n><sg>$	. \@Berlin\<n\>
 ^.<sent>$ ^berlin<n><pl>$	. \@Berlin\<n\>
 ^.<sent>$ ^berlin<n><pl>$ ^'s<gen>$	. \@Berlin\<n\> 
 ^.<sent>$ ^berlin<n><sg>$	. \@Berlin\<n\>
 ^.<sent>$ ^berlin<n><pl>$	. \@Berlin\<n\>
-^.<sent>$ ^beryllium<n><sg>$	. #Berillio\<n\>\<m\>\<sg\>
-^.<sent>$ ^beryllium<n><pl>$	. #Berillio\<n\>\<m\>\<pl\>
-^.<sent>$ ^beryllium<n><pl>$ ^'s<gen>$	. #Berillio\<n\>\<m\>\<pl\> 
-^.<sent>$ ^beryllium<n><sg>$	. #Berillio\<n\>\<m\>\<sg\>
-^.<sent>$ ^beryllium<n><pl>$	. #Berillio\<n\>\<m\>\<pl\>
 ^.<sent>$ ^beta<n><sg>$	. \@Beta\<n\>
 ^.<sent>$ ^beta<n><pl>$	. \@Beta\<n\>
 ^.<sent>$ ^beta<n><pl>$ ^'s<gen>$	. \@Beta\<n\> 
@@ -18949,6 +18937,11 @@
 ^.<sent>$ ^blende<n><pl>$ ^'s<gen>$	. \@Blende\<n\> 
 ^.<sent>$ ^blende<n><sg>$	. \@Blende\<n\>
 ^.<sent>$ ^blende<n><pl>$	. \@Blende\<n\>
+^.<sent>$ ^blocking<n><sg>$	. \@Blocking\<n\>
+^.<sent>$ ^blocking<n><pl>$	. \@Blocking\<n\>
+^.<sent>$ ^blocking<n><pl>$ ^'s<gen>$	. \@Blocking\<n\> 
+^.<sent>$ ^blocking<n><sg>$	. \@Blocking\<n\>
+^.<sent>$ ^blocking<n><pl>$	. \@Blocking\<n\>
 ^.<sent>$ ^bloodless<adj>$	. \@Bloodless\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^blunder<n><sg>$	. \@Blunder\<n\>
 ^.<sent>$ ^blunder<n><pl>$	. \@Blunder\<n\>
@@ -26655,11 +26648,6 @@
 ^.<sent>$ ^nosing<n><pl>$ ^'s<gen>$	. \@Nosing\<n\> 
 ^.<sent>$ ^nosing<n><sg>$	. \@Nosing\<n\>
 ^.<sent>$ ^nosing<n><pl>$	. \@Nosing\<n\>
-^.<sent>$ ^nostril<n><sg>$	. \@Nostril\<n\>
-^.<sent>$ ^nostril<n><pl>$	. \@Nostril\<n\>
-^.<sent>$ ^nostril<n><pl>$ ^'s<gen>$	. \@Nostril\<n\> 
-^.<sent>$ ^nostril<n><sg>$	. \@Nostril\<n\>
-^.<sent>$ ^nostril<n><pl>$	. \@Nostril\<n\>
 ^.<sent>$ ^notochord<n><sg>$	. \@Notochord\<n\>
 ^.<sent>$ ^notochord<n><pl>$	. \@Notochord\<n\>
 ^.<sent>$ ^notochord<n><pl>$ ^'s<gen>$	. \@Notochord\<n\> 
@@ -35955,9 +35943,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> allocazione<n><f>/assegnazione<n><f>$
 #\^.\<sent\> mandorla<n><f>/mandorlo<n><m>$
 #\^.\<sent\> mandorla<n><f>/mandorlo<n><m>$
-#\^.\<sent\> analista<n><mf>/analista<n><m>/analista<n><f>$
-#\^.\<sent\> analista<n><mf>/analista<n><m>/analista<n><f>$
-#\^.\<sent\> analista<n><mf>/analista<n><m>/analista<n><f>$
 #\^.\<sent\> angolo<n><m>/angolazione<n><f>$
 #\^.\<sent\> angolo<n><m>/angolazione<n><f>$
 #\^.\<sent\> annuncio<n><m>/invito<n><m>$
@@ -36015,21 +36000,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> barra<n><f>/sbarra<n><f>/bancone<n><f>$
 #\^.\<sent\> conca<n><f>/bacino<n><m>$
 #\^.\<sent\> conca<n><f>/bacino<n><m>$
-#\^.\<sent\> cesto<n><m>/paniere<n><m>$
-#\^.\<sent\> cesto<n><m>/paniere<n><m>$
-#\^.\<sent\> basket<n><m>/pallacanestro<n><f>$
-#\^.\<sent\> basket<n><m>/pallacanestro<n><f>$
-#\^.\<sent\> bagno<n><m>/vasca<n><f>/balneazione<n><f>$
-#\^.\<sent\> bagno<n><m>/vasca<n><f>/balneazione<n><f>$
-#\^.\<sent\> bagno<n><m>/vasca<n><f>/balneazione<n><f>$
-#\^.\<sent\> bagno<n><m>/balneazione<n><f>$
-#\^.\<sent\> bagno<n><m>/balneazione<n><f>$
-#\^.\<sent\> baia<n><f>/alloro<n><m>$
-#\^.\<sent\> baia<n><f>/alloro<n><m>$
-#\^.\<sent\> condotta<n><f>/comportamento<n><m>$
-#\^.\<sent\> condotta<n><f>/comportamento<n><m>$
-#\^.\<sent\> cintura<n><f>/guinzaglio<n><m>$
-#\^.\<sent\> cintura<n><f>/guinzaglio<n><m>$
 #\^.\<sent\> intento<n><m>/offerta<n><f>$
 #\^.\<sent\> intento<n><m>/offerta<n><f>$
 #\^.\<sent\> fattura<n><f>/bolletta<n><f>$
@@ -36061,14 +36031,11 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> torrente<n><m>/ruscello<n><m>$
 #\^.\<sent\> spazzola<n><f>/pennello<n><m>$
 #\^.\<sent\> spazzola<n><f>/pennello<n><m>$
-#\^.\<sent\> edilizia<n><f>/edificio<n><m>/capannone<n><m>/edificazione<n><f>$
-#\^.\<sent\> edilizia<n><f>/edificio<n><m>/capannone<n><m>/edificazione<n><f>$
-#\^.\<sent\> edilizia<n><f>/edificio<n><m>/capannone<n><m>/edificazione<n><f>$
-#\^.\<sent\> edilizia<n><f>/edificio<n><m>/capannone<n><m>/edificazione<n><f>$
+#\^.\<sent\> edilizia<n><f>/edificio<n><m>/edificazione<n><f>$
+#\^.\<sent\> edilizia<n><f>/edificio<n><m>/edificazione<n><f>$
+#\^.\<sent\> edilizia<n><f>/edificio<n><m>/edificazione<n><f>$
 #\^.\<sent\> colpo<n><m>/bernoccolo<n><m>$
 #\^.\<sent\> colpo<n><m>/bernoccolo<n><m>$
-#\^.\<sent\> funerale<n><m>/sepoltura<n><f>$
-#\^.\<sent\> funerale<n><m>/sepoltura<n><f>$
 #\^.\<sent\> natica<n><f>/chiappa<n><f>$
 #\^.\<sent\> natica<n><f>/chiappa<n><f>$
 #\^.\<sent\> acquirente<n><mf>/compratore<n><GD>$
@@ -36157,10 +36124,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> competenza<n><f>/concorrenza<n><f>/competizione<n><f>$
 #\^.\<sent\> camerata<n><m>/camerata<n><f>$
 #\^.\<sent\> camerata<n><m>/camerata<n><f>$
-#\^.\<sent\> concerto<n><m>/trattativa<n><f>$
-#\^.\<sent\> concerto<n><m>/trattativa<n><f>$
-#\^.\<sent\> concerto<n><m>/trattativa<n><f>$
-#\^.\<sent\> concerto<n><m>/trattativa<n><f>$
+#\^.\<sent\> trattativa<n><f>/negoziazione<n><f>$
 #\^.\<sent\> fiducia<n><f>/confidenza<n><f>$
 #\^.\<sent\> fiducia<n><f>/confidenza<n><f>$
 #\^.\<sent\> caso<n><m>/confermazione<n><f>$
@@ -36400,8 +36364,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> frigorifero<n><m>/frigorifero<n><f>$
 #\^.\<sent\> arredo<n><m>/arredamento<n><m>$
 #\^.\<sent\> arredo<n><m>/arredamento<n><m>$
-#\^.\<sent\> utile<n><m>/beneficio<n><m>$
-#\^.\<sent\> utile<n><m>/beneficio<n><m>$
 #\^.\<sent\> buco<n><m>/vuoto<n><m>$
 #\^.\<sent\> buco<n><m>/vuoto<n><m>$
 #\^.\<sent\> porta<n><f>/paratoia<n><f>$
@@ -36630,32 +36592,15 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> nazionalista<n><GD>/nazionalista<n><mf>/nazionalista<n><m>$
 #\^.\<sent\> indigeno<n><m>/indigeno<n><f>$
 #\^.\<sent\> indigeno<n><m>/indigeno<n><f>$
+#\^.\<sent\> trattativa<n><f>/negoziazione<n><f>$
 #\^.\<sent\> vicinato<n><m>/quartiere<n><m>$
 #\^.\<sent\> vicinato<n><m>/quartiere<n><m>$
-#\^.\<sent\> diario<n><m>/giornale<n><m>/quotidiano<n><m>$
-#\^.\<sent\> diario<n><m>/giornale<n><m>/quotidiano<n><m>$
-#\^.\<sent\> diario<n><m>/giornale<n><m>/quotidiano<n><m>$
 #\^.\<sent\> prosieguo<n><m>/nomenclatura<n><f>$
 #\^.\<sent\> prosieguo<n><m>/nomenclatura<n><f>$
-#\^.\<sent\> naso<n><m>/narice<n><f>$
-#\^.\<sent\> naso<n><m>/narice<n><f>$
-#\^.\<sent\> nota<n><f>/banconota<n><f>$
-#\^.\<sent\> nota<n><f>/banconota<n><f>$
-#\^.\<sent\> idea<n><f>/nozione<n><f>$
-#\^.\<sent\> idea<n><f>/nozione<n><f>$
-#\^.\<sent\> obbligo<n><m>/obbligazione<n><f>$
-#\^.\<sent\> obbligo<n><m>/obbligazione<n><f>$
 #\^.\<sent\> odontologia<n><f>/odontoiatria<n><f>$
 #\^.\<sent\> odontologia<n><f>/odontoiatria<n><f>$
-#\^.\<sent\> ufficio<n><m>/capannone<n><f>$
-#\^.\<sent\> ufficio<n><m>/capannone<n><f>$
 #\^.\<sent\> ufficiale<n><mf>/ufficiale<n><m>$
 #\^.\<sent\> ufficiale<n><mf>/ufficiale<n><m>$
-#\^.\<sent\> olio<n><m>/petrolio<n><m>$
-#\^.\<sent\> olio<n><m>/petrolio<n><m>$
-#\^.\<sent\> ulivo<n><m>/olivo<n><m>/oliva<n><f>$
-#\^.\<sent\> ulivo<n><m>/olivo<n><m>/oliva<n><f>$
-#\^.\<sent\> ulivo<n><m>/olivo<n><m>/oliva<n><f>$
 #\^.\<sent\> operazione<n><f>/funzionamento<n><m>$
 #\^.\<sent\> operazione<n><f>/funzionamento<n><m>$
 #\^.\<sent\> parere<n><m>/opinione<n><f>$
@@ -37017,18 +36962,10 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> rapidit√†<n><f><sp>/velocit√†<n><f><sp>$
 #\^.\<sent\> rapidit√†<n><f><sp>/velocit√†<n><f><sp>$
 #\^.\<sent\> rapidit√†<n><f><sp>/velocit√†<n><f><sp>$
-#\^.\<sent\> cucchiaio<n><m>/cucchiaio<n><f>$
-#\^.\<sent\> cucchiaio<n><m>/cucchiaio<n><f>$
-#\^.\<sent\> sportivo<n><f>/sportivo<n><m>$
-#\^.\<sent\> sportivo<n><f>/sportivo<n><m>$
 #\^.\<sent\> posto<n><m>/granito<n><m>$
 #\^.\<sent\> posto<n><m>/granito<n><m>$
-#\^.\<sent\> fonte<n><f>/primavera<n><f>$
-#\^.\<sent\> fonte<n><f>/primavera<n><f>$
 #\^.\<sent\> astro<n><m>/stella<n><f>$
 #\^.\<sent\> astro<n><m>/stella<n><f>$
-#\^.\<sent\> avvio<n><m>/inizio<n><m>$
-#\^.\<sent\> avvio<n><m>/inizio<n><m>$
 #\^.\<sent\> enunciazione<n><f>/dichiarazione<n><f>$
 #\^.\<sent\> enunciazione<n><f>/dichiarazione<n><f>$
 #\^.\<sent\> stazione<n><f>/stagione<n><f>$

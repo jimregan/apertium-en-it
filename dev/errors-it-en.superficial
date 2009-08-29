@@ -213,8 +213,12 @@
 ^.<sent>$ ^bagattella<n><f><sg>$	. \@Bagattella\<n\>\<sg\>
 ^.<sent>$ ^balia<n><f><pl>$	. \@Balia\<n\>\<pl\>
 ^.<sent>$ ^balia<n><f><sg>$	. \@Balia\<n\>\<sg\>
+^.<sent>$ ^balneazione<n><f><pl>$	. #Bathing\<n\>\<pl\>
+^.<sent>$ ^balneazione<n><f><sg>$	. #Bathing\<n\>\<sg\>
 ^.<sent>$ ^banale<n><mf><pl>$	. \@Banale\<n\>\<pl\>
 ^.<sent>$ ^banale<n><mf><sg>$	. \@Banale\<n\>\<sg\>
+^.<sent>$ ^banconota<n><f><pl>$	. #Banknote\<n\>\<pl\>
+^.<sent>$ ^banconota<n><f><sg>$	. #Banknote\<n\>\<sg\>
 ^.<sent>$ ^barbiere<n><m><pl>$	. #Barber\<n\>\<pl\>
 ^.<sent>$ ^barbiere<n><m><sg>$	. #Barber\<n\>\<sg\>
 ^.<sent>$ ^barocco<n><m><pl>$	. #Baroque\<n\>\<pl\>
@@ -460,6 +464,8 @@
 ^.<sent>$ ^guardia<n><f><sg>$	. \@Guardia\<n\>\<sg\>
 ^.<sent>$ ^guarnigione<n><f><pl>$	. \@Guarnigione\<n\>\<pl\>
 ^.<sent>$ ^guarnigione<n><f><sg>$	. \@Guarnigione\<n\>\<sg\>
+^.<sent>$ ^guinzaglio<n><m><pl>$	. #Leash\<n\>\<pl\>
+^.<sent>$ ^guinzaglio<n><m><sg>$	. #Leash\<n\>\<sg\>
 ^.<sent>$ ^hacker<n><mf><sp>$	. \@Hacker\<n\>\<sp\>
 ^.<sent>$ ^imboscata<n><f><pl>$	. \@Imboscata\<n\>\<pl\>
 ^.<sent>$ ^imboscata<n><f><sg>$	. \@Imboscata\<n\>\<sg\>
@@ -636,6 +642,8 @@
 ^.<sent>$ ^oligarca<n><mf><pl>$	. \@Oligarca\<n\>\<pl\>
 ^.<sent>$ ^oligarca<n><mf><sg>$	. \@Oligarca\<n\>\<sg\>
 ^.<sent>$ ^olimpiade<n><f><sg>$	. #Olympics\<n\>\<sg\>
+^.<sent>$ ^olivo<n><m><pl>$	. #Olive tree\<n\>\<pl\>
+^.<sent>$ ^olivo<n><m><sg>$	. #Olive tree\<n\>\<sg\>
 ^.<sent>$ ^onorario<n><m><pl>$	. \@Onorario\<n\>\<pl\>
 ^.<sent>$ ^onorario<n><m><sg>$	. \@Onorario\<n\>\<sg\>
 ^.<sent>$ ^orafo<n><m><pl>$	. \@Orafo\<n\>\<pl\>
@@ -672,6 +680,8 @@
 ^.<sent>$ ^percorrenza<n><f><sg>$	. \@Percorrenza\<n\>\<sg\>
 ^.<sent>$ ^persiana<n><f><pl>$	. \@Persiana\<n\>\<pl\>
 ^.<sent>$ ^persiana<n><f><sg>$	. \@Persiana\<n\>\<sg\>
+^.<sent>$ ^petrolio<n><m><pl>$	. #Petroleum\<n\>\<pl\>
+^.<sent>$ ^petrolio<n><m><sg>$	. #Petroleum\<n\>\<sg\>
 ^.<sent>$ ^pettine<n><m><pl>$	. #Comb\<n\>\<pl\>
 ^.<sent>$ ^pettine<n><m><sg>$	. #Comb\<n\>\<sg\>
 ^.<sent>$ ^piagnisteo<n><m><pl>$	. #Whine\<n\>\<pl\>
@@ -698,7 +708,7 @@
 ^.<sent>$ ^polizza<n><f><sg>$	. \@Polizza\<n\>\<sg\>
 ^.<sent>$ ^porcile<n><m><pl>$	. #Pigsty\<n\>\<pl\>
 ^.<sent>$ ^porcile<n><m><sg>$	. #Pigsty\<n\>\<sg\>
-^.<sent>$ ^portavoce<n><mf><sp>$	. #Spokeswoman\<n\>
+^.<sent>$ ^portavoce<n><mf><sp>$	. #Spokesperson\<n\>
 ^.<sent>$ ^portinaio<n><m><pl>$	. #Concierge\<n\>\<pl\>
 ^.<sent>$ ^portinaio<n><m><sg>$	. #Concierge\<n\>\<sg\>
 ^.<sent>$ ^possibile<n><m><pl>$	. #Possible\<n\>\<pl\>
@@ -795,6 +805,8 @@
 ^.<sent>$ ^spira<n><f><sg>$	. \@Spira\<n\>\<sg\>
 ^.<sent>$ ^spirale<n><f><pl>$	. \@Spirale\<n\>\<pl\>
 ^.<sent>$ ^spirale<n><f><sg>$	. \@Spirale\<n\>\<sg\>
+^.<sent>$ ^sportivo<n><f><sg>$	. #Sportswoman\<n\>\<sg\>
+^.<sent>$ ^sportivo<n><f><pl>$	. #Sportswoman\<n\>\<pl\>
 ^.<sent>$ ^spumante<n><m><pl>$	. \@Spumante\<n\>\<pl\>
 ^.<sent>$ ^spumante<n><m><sg>$	. \@Spumante\<n\>\<sg\>
 ^.<sent>$ ^spunto<n><m><pl>$	. #Cue\<n\>\<pl\>
@@ -877,6 +889,8 @@
 ^.<sent>$ ^valvola<n><f><sg>$	. \@Valvola\<n\>\<sg\>
 ^.<sent>$ ^vaniglia<n><f><pl>$	. \@Vaniglia\<n\>\<pl\>
 ^.<sent>$ ^vaniglia<n><f><sg>$	. \@Vaniglia\<n\>\<sg\>
+^.<sent>$ ^vasca<n><f><sg>$	. \@Vasca\<n\>\<sg\>
+^.<sent>$ ^vasca<n><f><pl>$	. \@Vasca\<n\>\<pl\>
 ^.<sent>$ ^vasectomia<n><f><pl>$	. \@Vasectomia\<n\>\<pl\>
 ^.<sent>$ ^vasectomia<n><f><sg>$	. \@Vasectomia\<n\>\<sg\>
 ^.<sent>$ ^veglia<n><f><pl>$	. \@Veglia\<n\>\<pl\>
@@ -10365,7 +10379,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> amount<n>/quantity<n>$
 #\^.\<sent\> ascendant<n>/ancestor<n>$
 #\^.\<sent\> rabies<n>/rage<n>/anger<n>/hydrophobia<n>$
-#\^.\<sent\> rabies<n>/rage<n>/anger<n>/hydrophobia<n>$
 #\^.\<sent\> angle<n>/corner<n>$
 #\^.\<sent\> ad<n>/commercial<n>/announcement<n>/advertisement<n>$
 #\^.\<sent\> invitation<n>/announcement<n>$
@@ -10424,20 +10437,11 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> bargain<n>/business<n>$
 #\^.\<sent\> base<n>/basis<n>/rooting<n>$
 #\^.\<sent\> base<n>/basis<n>/rooting<n>$
-#\^.\<sent\> bath<n>/bathroom<n>$
-#\^.\<sent\> bathroom<n>/bath<n>$
-#\^.\<sent\> bath<n>/bathroom<n>$
-#\^.\<sent\> bathroom<n>/bath<n>$
 #\^.\<sent\> pile<n>/battery<n>$
-#\^.\<sent\> bay<n>/laurel<n>$
 #\^.\<sent\> bead<n>/account<n>$
 #\^.\<sent\> mulch<n>/bed<n>$
 #\^.\<sent\> camera<n>/bedroom<n>$
-#\^.\<sent\> start<n>/beginning<n>$
-#\^.\<sent\> conduct<n>/behaviour<n>$
 #\^.\<sent\> curve<n>/bend<n>$
-#\^.\<sent\> benefit<n>/gain<n>$
-#\^.\<sent\> benefit<n>/gain<n>$
 #\^.\<sent\> benzine<n>/gasoline<n>/petrol<n>$
 #\^.\<sent\> betting<n>/bet<n>/gamble<n>$
 #\^.\<sent\> betting<n>/bet<n>/gamble<n>$
@@ -10455,8 +10459,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> cover<n>/blanket<n>$
 #\^.\<sent\> burst<n>/blast<n>/explosion<n>$
 #\^.\<sent\> block<n>/blocking<n>/blockade<n>$
-#\^.\<sent\> block<n>/blocking<n>/blockade<n>$
-#\^.\<sent\> block<n>/blocking<n>/blockade<n>$
 #\^.\<sent\> bloodsucker<n>/leech<n>$
 #\^.\<sent\> hit<n>/coup<n>/stroke<n>/knock<n>/bump<n>/blow<n>$
 #\^.\<sent\> blueberry<n>/cranberry<n>$
@@ -10467,7 +10469,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> facility<n><pl>/boiler<n>/plantation<n>/installation<n>$
 #\^.\<sent\> bomb<n>/pump<n>$
 #\^.\<sent\> stone<n>/bone<n>$
-#\^.\<sent\> stone<n>/bone<n>$
 #\^.\<sent\> hat<n>/bonnet<n>$
 #\^.\<sent\> impulse<n>/lift<n>/boost<n>/urge<n>/spurt<n>$
 #\^.\<sent\> frontier<n>/boundary<n>/border<n>$
@@ -10477,7 +10478,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> tie<n>/noose<n>/bow<n>$
 #\^.\<sent\> ball<n>/bowl<n>$
 #\^.\<sent\> boy<n>/child<n>$
-#\^.\<sent\> groom<n>/bridegroom<n>/boyfriend<n>$
 #\^.\<sent\> groom<n>/bridegroom<n>/boyfriend<n>$
 #\^.\<sent\> mark<n>/make<n>/brand<n>/trademark<n>$
 #\^.\<sent\> mark<n>/make<n>/brand<n>/trademark<n>$
@@ -10493,12 +10493,10 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> budget<n><ND>/estimate<n><ND>/supposition<n><ND>$
 #\^.\<sent\> budget<n><ND>/estimate<n><ND>/supposition<n><ND>$
 #\^.\<sent\> building<n>/construction<n>$
-#\^.\<sent\> nave<n>/ship<n>/building<n>$
 #\^.\<sent\> hit<n>/coup<n>/stroke<n>/knock<n>/bump<n>/blow<n>$
 #\^.\<sent\> bunch<n>/bouquet<n>$
 #\^.\<sent\> freight<n>/charge<n>/load<n>/burden<n>$
 #\^.\<sent\> agency<n>/bureau<n>$
-#\^.\<sent\> funeral<n>/burial<n>$
 #\^.\<sent\> burst<n>/blast<n>/explosion<n>$
 #\^.\<sent\> bargain<n>/business<n>$
 #\^.\<sent\> buyer<n>/purchaser<n>$
@@ -10586,11 +10584,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> compassion<n>/sympathy<n>$
 #\^.\<sent\> complaint<n>/denunciation<n>$
 #\^.\<sent\> concern<n>/worry<n>$
-#\^.\<sent\> concerto<n>/concert<n>$
-#\^.\<sent\> concerto<n>/concert<n>$
-#\^.\<sent\> concerto<n>/concert<n>$
-#\^.\<sent\> concerto<n>/concert<n>$
-#\^.\<sent\> conduct<n>/behaviour<n>$
 #\^.\<sent\> conference<n>/lecture<n>$
 #\^.\<sent\> trust<n>/confidence<n>$
 #\^.\<sent\> case<n>/chance<n>/instance<n>/confirmation<n>$
@@ -10685,7 +10678,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> diagram<n>/scheme<n>$
 #\^.\<sent\> dialogue<n>/dialog<n>$
 #\^.\<sent\> dialogue<n>/dialog<n>$
-#\^.\<sent\> diary<n>/newspaper<n>$
 #\^.\<sent\> nut<n>/die<n>$
 #\^.\<sent\> regime<n>/diet<n>/luck<n>$
 #\^.\<sent\> finger<n>/flip<n>/finger<n><sg>$
@@ -10695,7 +10687,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> sense<n>/direction<n>$
 #\^.\<sent\> disc<n>/disk<n>$
 #\^.\<sent\> extent<n>/scope<n>/range<n>/discharge<n>$
-#\^.\<sent\> speech<n>/discourse<n>$
 #\^.\<sent\> disease<n>/illness<n>$
 #\^.\<sent\> plate<n>/cymbal<n>/dish<n>$
 #\^.\<sent\> disc<n>/disk<n>$
@@ -10853,8 +10844,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> function<n>/role<n>$
 #\^.\<sent\> functioning<n>/operation<n>$
 #\^.\<sent\> fund<n>/bottom<n>/background<n>$
-#\^.\<sent\> funeral<n>/burial<n>$
-#\^.\<sent\> benefit<n>/gain<n>$
 #\^.\<sent\> profit<n>/gain<n>$
 #\^.\<sent\> gallery<n>/tunnel<n>$
 #\^.\<sent\> gallon<n>/chevron<n>$
@@ -10935,7 +10924,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> hut<n>/cabin<n>/shed<n>$
 #\^.\<sent\> rabies<n>/rage<n>/anger<n>/hydrophobia<n>$
 #\^.\<sent\> hyphen<n>/script<n>$
-#\^.\<sent\> idea<n>/notion<n>/insight<n>$
+#\^.\<sent\> idea<n>/insight<n>$
 #\^.\<sent\> disease<n>/illness<n>$
 #\^.\<sent\> hit<n>/impact<n>$
 #\^.\<sent\> implication<n>/involvement<n>$
@@ -10956,7 +10945,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> enquiry<n>/surgery<n>/inquiry<n>/query<n>/consultation<n>$
 #\^.\<sent\> research<n>/inquiry<n>/enquiry<n>/search<n>/pursuit<n>/investigation<n>$
 #\^.\<sent\> interior<n>/inside<n>$
-#\^.\<sent\> idea<n>/notion<n>/insight<n>$
+#\^.\<sent\> idea<n>/insight<n>$
 #\^.\<sent\> insolation<n>/sunstroke<n>$
 #\^.\<sent\> inspection<n>/examination<n>$
 #\^.\<sent\> facility<n><pl>/boiler<n>/plantation<n>/installation<n>$
@@ -11018,7 +11007,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> laugh<n>/laughter<n>$
 #\^.\<sent\> launch<n>/launching<n>$
 #\^.\<sent\> launch<n>/launching<n>$
-#\^.\<sent\> bay<n>/laurel<n>$
 #\^.\<sent\> right<n>/law<n>/legislation<n>$
 #\^.\<sent\> law<n>/act<n>$
 #\^.\<sent\> lawn<n>/meadow<n>/grassland<n>$
@@ -11077,7 +11065,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> mark<n>/make<n>/brand<n>/trademark<n>$
 #\^.\<sent\> maker<n>/manufacturer<n>$
 #\^.\<sent\> administration<n>/management<n>/dispensation<n>$
-#\^.\<sent\> management<n><sg>/negotiation<n><pl>$
 #\^.\<sent\> manner<n>/way<n>$
 #\^.\<sent\> factory<n>/manufacture<n>/manufacturing<n>$
 #\^.\<sent\> maker<n>/manufacturer<n>$
@@ -11146,24 +11133,21 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> murmur<n>/whisper<n>$
 #\^.\<sent\> nail<n>/toenail<n>$
 #\^.\<sent\> nanny<n>/nursemaid<n>$
-#\^.\<sent\> nave<n>/ship<n>/building<n>$
 #\^.\<sent\> navigation<n>/sailing<n>/positioning<n>$
 #\^.\<sent\> negation<n>/refusal<n>$
 #\^.\<sent\> negligence<n>/neglect<n>$
 #\^.\<sent\> negligence<n>/neglect<n>$
-#\^.\<sent\> management<n><sg>/negotiation<n><pl>$
 #\^.\<sent\> quarter<n>/neighbourhood<n>$
 #\^.\<sent\> net<n>/network<n>$
 #\^.\<sent\> net<n>/network<n>$
-#\^.\<sent\> diary<n>/newspaper<n>$
 #\^.\<sent\> newspaper<n>/daily newspaper<n>$
 #\^.\<sent\> zero<n>/nil<n>$
 #\^.\<sent\> node<n>/knot<n>$
 #\^.\<sent\> tie<n>/noose<n>/bow<n>$
-#\^.\<sent\> note<n>/ticket<n>$
+#\^.\<sent\> banknote<n>/ticket<n>$
 #\^.\<sent\> note<n>/grade<n>$
 #\^.\<sent\> notice<n>/warning<n>$
-#\^.\<sent\> idea<n>/notion<n>/insight<n>$
+#\^.\<sent\> idea<n>/insight<n>$
 #\^.\<sent\> substantive<n>/noun<n>$
 #\^.\<sent\> nucleus<n>/core<n>$
 #\^.\<sent\> nanny<n>/nursemaid<n>$
@@ -11232,7 +11216,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> photograph<n>/photography<n>/picture<n>$
 #\^.\<sent\> photograph<n>/photography<n>/picture<n>$
 #\^.\<sent\> cake<n>/pie<n>$
-#\^.\<sent\> pig<n>/pork<n>/swine<n>$
 #\^.\<sent\> pile<n>/battery<n>$
 #\^.\<sent\> tone<n>/pitch<n>/key<n>$
 #\^.\<sent\> pity<n><sg>/penalty<n><sg>$
@@ -11264,7 +11247,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> poll<n>/survey<n>$
 #\^.\<sent\> group<n>/cluster<n>/pool<n>$
 #\^.\<sent\> pool<n>/swimming pool<n>$
-#\^.\<sent\> pig<n>/pork<n>/swine<n>$
 #\^.\<sent\> port<n>/harbour<n>$
 #\^.\<sent\> position<n>/stand<n>$
 #\^.\<sent\> navigation<n>/sailing<n>/positioning<n>$
@@ -11494,16 +11476,11 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> soya<n>/soybean<n>$
 #\^.\<sent\> space<n>/blank<n>$
 #\^.\<sent\> aircraft<n>/spacecraft<n>$
-#\^.\<sent\> speech<n>/discourse<n>$
 #\^.\<sent\> speech<n>/word<n>$
 #\^.\<sent\> period<n>/spell<n>/chronology<n>$
-#\^.\<sent\> spokeswoman<n>/spokesman<n>/spokesperson<n>$
-#\^.\<sent\> spokeswoman<n>/spokesman<n>/spokesperson<n>$
-#\^.\<sent\> spokeswoman<n>/spokesman<n>/spokesperson<n>$
 #\^.\<sent\> granite<n>/spot<n>$
 #\^.\<sent\> place<n>/site<n>/spot<n>$
 #\^.\<sent\> distortion<n>/sprain<n>$
-#\^.\<sent\> font<n>/source<n>/spring<n>/fountain<n>$
 #\^.\<sent\> impulse<n>/lift<n>/boost<n>/urge<n>/spurt<n>$
 #\^.\<sent\> stable<n>/cowshed<n>$
 #\^.\<sent\> personnel<n><pl>/staff<n><pl>$
@@ -11511,7 +11488,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> participation<n>/stake<n>/share<n>$
 #\^.\<sent\> stamp<n>/seal<n>$
 #\^.\<sent\> position<n>/stand<n>$
-#\^.\<sent\> start<n>/beginning<n>$
 #\^.\<sent\> state<n>/status<n>$
 #\^.\<sent\> season<n>/station<n>$
 #\^.\<sent\> height<n>/stature<n>$
@@ -11560,7 +11536,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> surname<n>/lineage<n>$
 #\^.\<sent\> poll<n>/survey<n>$
 #\^.\<sent\> pool<n>/swimming pool<n>$
-#\^.\<sent\> pig<n>/pork<n>/swine<n>$
 #\^.\<sent\> change<n>/shift<n>/swing<n>/switch<n>/exchange<n>/transmission<n>/foreign exchange<n>$
 #\^.\<sent\> change<n>/shift<n>/swing<n>/switch<n>/exchange<n>/transmission<n>/foreign exchange<n>$
 #\^.\<sent\> compassion<n>/sympathy<n>$
@@ -11587,7 +11562,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> proof<n>/trial<n>/test<n>/exhibit<n>$
 #\^.\<sent\> emotion<n>/thrill<n>/excitement<n>$
 #\^.\<sent\> ray<n>/thunderbolt<n>$
-#\^.\<sent\> note<n>/ticket<n>$
+#\^.\<sent\> banknote<n>/ticket<n>$
 #\^.\<sent\> entrance<n>/entry<n>/entry<n><sg>/income<n>/input<n>/ticket<n>/revenue<n><pl>/revenue<n><sg>/earnings<n><pl>$
 #\^.\<sent\> tie<n>/noose<n>/bow<n>$
 #\^.\<sent\> time<n>/hour<n>$
