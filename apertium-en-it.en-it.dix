@@ -13802,10 +13802,9 @@
 <e r="LR"><p><l>anaesthetist<s n="n"/></l><r>anestesista<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>analogy<s n="n"/></l><r>analogia<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>analysis<s n="n"/><s n="pl"/></l><r>analisi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e><p><l>analysis<s n="n"/><s n="ND"/></l><r>analisi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e><p><l>analyst<s n="n"/></l><r>analista<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>analyst<s n="n"/></l><r>analista<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>analyst<s n="n"/></l><r>analista<s n="n"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>analysis<s n="n"/><s n="ND"/></l><r>analisi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>analyst<s n="n"/></l><r>analista<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>analyst<s n="n"/></l><r>analista<s n="n"/></r></p></e>
 <e><p><l>anarchism<s n="n"/></l><r>anarchismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>anarchist<s n="n"/></l><r>anarchico<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>anathema<s n="n"/></l><r>anatema<s n="n"/><s n="m"/></r></p></e>
@@ -13816,7 +13815,6 @@
 <e><p><l>ancient<s n="n"/></l><r>antico<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>anecdote<s n="n"/></l><r>aneddoto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>angel<s n="n"/></l><r>angelo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>anger<s n="n"/></l><r>rabbia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>anger<s n="n"/></l><r>rabbia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>angle<s n="n"/></l><r>angolo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>angle<s n="n"/></l><r>angolazione<s n="n"/><s n="f"/></r></p></e>
@@ -14419,7 +14417,6 @@
 <e r="RL"><p><l>budgie<s n="n"/></l><r>pappagallino<s n="n"/></r></p></e>
 <e><p><l>building<s n="n"/></l><r>edilizia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>building<s n="n"/></l><r>edificio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>building<s n="n"/></l><r>capannone<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>building<s n="n"/></l><r>edificazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bulimia<s n="n"/></l><r>bulimia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bull<s n="n"/></l><r>toro<s n="n"/><s n="m"/></r></p></e>
@@ -15009,10 +15006,9 @@
 <e><p><l>conception<s n="n"/></l><r>concezione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>concern<s n="n"/></l><r>preoccupazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>concert<s n="n"/></l><r>concerto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>concert<s n="n"/></l><r>trattativa<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>negotiation<s n="n"/></l><r>trattativa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>concertation<s n="n"/></l><r>concertazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>concerto<s n="n"/></l><r>concerto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>concerto<s n="n"/></l><r>trattativa<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>concerto<s n="n"/></l><r>concerto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>concession<s n="n"/></l><r>concessione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>concierge<s n="n"/></l><r>portinaio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>conciliation<s n="n"/></l><r>conciliazione<s n="n"/><s n="f"/></r></p></e>
@@ -15596,7 +15592,7 @@
 <e r="LR"><p><l>discontinuity<s n="n"/><s n="pl"/></l><r>discontinuità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>discord<s n="n"/></l><r>discordia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>discotheque<s n="n"/></l><r>discoteca<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>discourse<s n="n"/></l><r>allocuzione<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>discourse<s n="n"/></l><r>allocuzione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>discovery<s n="n"/></l><r>scoperta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>discretion<s n="n"/></l><r>discrezione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>discrimination<s n="n"/></l><r>discriminazione<s n="n"/><s n="f"/></r></p></e>
@@ -16415,7 +16411,7 @@
 <e><p><l>future<s n="n"/></l><r>futuro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>futurism<s n="n"/></l><r>futurismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>gadolinium<s n="n"/></l><r>gadolinio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>gain<s n="n"/></l><r>beneficio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>benefit<s n="n"/></l><r>beneficio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>gain<s n="n"/></l><r>utile<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>galaxy<s n="n"/></l><r>galassia<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>galician<s n="n"/></l><r>galiziano<s n="n"/></r></p></e>
@@ -16618,6 +16614,7 @@
 <e r="LR"><p><l>habitat<s n="n"/><s n="sg"/></l><r>habitat<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>habitat<s n="n"/><s n="pl"/></l><r>habitat<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>habitat<s n="n"/><s n="ND"/></l><r>habitat<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e><p><l>hacker<s n="n"/></l><r>hacker<s n="n"/><s n="mf"/></r></p><par n="SP"/></e>
 <e><p><l>hafnium<s n="n"/></l><r>afnio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hair<s n="n"/></l><r>capello<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hair<s n="n"/></l><r>pelo<s n="n"/><s n="m"/></r></p></e>
@@ -17940,7 +17937,6 @@
 <e><p><l>negation<s n="n"/></l><r>negazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>neglect<s n="n"/></l><r>negligenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>negligence<s n="n"/></l><r>negligenza<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>negotiation<s n="n"/><s n="pl"/></l><r>gestione<s n="n"/></r></p></e>
 <e><p><l>negotiation<s n="n"/></l><r>negoziazione<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>neighbour<s n="n"/></l><r>vicino<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>neighbour<s n="n"/></l><r>vicino<s n="n"/></r></p></e>
@@ -17969,8 +17965,8 @@
 <e r="RL"><p><l>news<s n="n"/><s n="ND"/></l><r>novità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>news<s n="n"/><s n="sg"/></l><r>novità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>news<s n="n"/><s n="pl"/></l><r>novità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e><p><l>newspaper<s n="n"/></l><r>diario<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>newspaper<s n="n"/></l><r>quotidiano<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>diary<s n="n"/></l><r>diario<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>newspaper<s n="n"/></l><r>quotidiano<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>newspaper<s n="n"/></l><r>giornale<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>niche<s n="n"/></l><r>nicchia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>nicotine<s n="n"/></l><r>nicotina<s n="n"/><s n="f"/></r></p></e>
@@ -17996,8 +17992,6 @@
 <e><p><l>nominalism<s n="n"/></l><r>nominalismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>nomination<s n="n"/></l><r>nomina<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>nomination<s n="n"/><s n="ND"/></l><r>nomination<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>nomination<s n="n"/><s n="sg"/></l><r>nomination<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>nomination<s n="n"/><s n="pl"/></l><r>nomination<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>nominee<s n="n"/></l><r>candidato<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>noose<s n="n"/></l><r>collante<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>norm<s n="n"/></l><r>norma<s n="n"/><s n="f"/></r></p></e>
@@ -18007,16 +18001,16 @@
 <e r="RL"><p><l>normality<s n="n"/><s n="ND"/></l><r>normalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>north<s n="n"/></l><r>nord<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>nose<s n="n"/></l><r>naso<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>nose<s n="n"/></l><r>narice<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>nostril<s n="n"/></l><r>narice<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>nostalgia<s n="n"/></l><r>nostalgia<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>notary<s n="n"/></l><r>notaio<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>notary<s n="n"/></l><r>notaio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>notation<s n="n"/></l><r>notazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>note<s n="n"/></l><r>banconota<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>banknote<s n="n"/></l><r>banconota<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>note<s n="n"/></l><r>nota<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>notice<s n="n"/></l><r>avviso<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>notification<s n="n"/></l><r>notifica<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>notion<s n="n"/></l><r>idea<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>idea<s n="n"/></l><r>idea<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>notion<s n="n"/></l><r>nozione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>nougat<s n="n"/></l><r>torrone<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>noun<s n="n"/></l><r>sostantivo<s n="n"/><s n="m"/></r></p></e>
@@ -18050,7 +18044,7 @@
 <e><p><l>object<s n="n"/></l><r>oggetto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>objection<s n="n"/></l><r>obiezione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>objective<s n="n"/></l><r>obiettivo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>obligation<s n="n"/></l><r>obbligazione<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>obligation<s n="n"/></l><r>obbligazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>obligation<s n="n"/></l><r>obbligo<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>obliged<s n="n"/></l><r>obbligato<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>obliged<s n="n"/></l><r>obbligato<s n="n"/></r></p></e>
@@ -18078,16 +18072,15 @@
 <e><p><l>odontology<s n="n"/></l><r>odontologia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>odyssey<s n="n"/></l><r>odissea<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>offer<s n="n"/></l><r>offerta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>office<s n="n"/></l><r>capannone<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>office<s n="n"/></l><r>ufficio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>official<s n="n"/></l><r>ufficiale<s n="n"/><s n="mf"/></r></p></e>
 <e r="RL"><p><l>official<s n="n"/></l><r>amministrativo<s n="n"/></r></p></e>
 <e><p><l>official<s n="n"/></l><r>ufficiale<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>oil<s n="n"/></l><r>olio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>oil<s n="n"/></l><r>petrolio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>petroleum<s n="n"/></l><r>petrolio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>olive<s n="n"/></l><r>oliva<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>olive<s n="n"/></l><r>olivo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>olive<s n="n"/></l><r>ulivo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>olive<b/>tree<s n="n"/></l><r>olivo<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>olive<s n="n"/></l><r>ulivo<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>omnivore<s n="n"/></l><r>onnivoro<s n="n"/></r></p></e>
 <e r="LR"><p><l>omnivore<s n="n"/></l><r>onnivoro<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>onion<s n="n"/></l><r>cipolla<s n="n"/><s n="f"/></r></p></e>
@@ -18483,7 +18476,7 @@
 <e><p><l>piece<s n="n"/></l><r>pezzetto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>piece<s n="n"/></l><r>pezzo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>piece<g><b/>of<b/>furniture</g><s n="n"/></l><r>mobile<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>pig<s n="n"/></l><r>porco<s n="n"/><s n="m"/></r></p></e>
+<e srl="pig D"><p><l>pig<s n="n"/></l><r>porco<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>pigeon<s n="n"/></l><r>piccione<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>pigeon<s n="n"/></l><r>piccione<s n="n"/></r></p></e>
 <e><p><l>pigmentation<s n="n"/></l><r>pigmentazione<s n="n"/><s n="f"/></r></p></e>
@@ -18617,7 +18610,7 @@
 <e r="RL"><p><l>popularity<s n="n"/><s n="ND"/></l><r>popolarità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>population<s n="n"/></l><r>popolazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>populism<s n="n"/></l><r>populismo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>pork<s n="n"/></l><r>porco<s n="n"/><s n="m"/></r></p></e>
+<e srl="pork"><p><l>pork<s n="n"/></l><r>porco<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>porno<s n="n"/><s n="ND"/></l><r>porno<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>porno<s n="n"/><s n="sg"/></l><r>porno<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>porno<s n="n"/><s n="pl"/></l><r>porno<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -19517,7 +19510,6 @@
 <e><p><l>shine<s n="n"/></l><r>luccichio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ship<s n="n"/></l><r>barca<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ship<s n="n"/></l><r>nave<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>ship<s n="n"/></l><r>capannone<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>shipment<s n="n"/></l><r>spedizione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>shipwreck<s n="n"/></l><r>naufragio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>shirt<s n="n"/></l><r>camicia<s n="n"/><s n="f"/></r></p></e>
@@ -20112,11 +20104,9 @@
 <e r="LR"><p><l>tenacity<s n="n"/><s n="pl"/></l><r>tenacità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>tendency<s n="n"/></l><r>tendenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tender<s n="n"/></l><r>offerta<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>tennis<s n="n"/><s n="sg"/></l><r>tennis<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>tennis<s n="n"/><s n="pl"/></l><r>tennis<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e><p><l>tennis<s n="n"/><s n="ND"/></l><r>tennis<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e><p><l>tennist<s n="n"/></l><r>tennista<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>tennist<s n="n"/></l><r>tennista<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>tennis<s n="n"/></l><r>tennis<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+<e r="LR"><p><l>tennist<s n="n"/></l><r>tennista<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>tennist<s n="n"/></l><r>tennista<s n="n"/></r></p></e>
 <e><p><l>tenor<s n="n"/></l><r>tenore<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tension<s n="n"/></l><r>tensione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tent<s n="n"/></l><r>negozio<s n="n"/><s n="m"/></r></p></e>
@@ -20169,7 +20159,6 @@
 <e><p><l>thulium<s n="n"/></l><r>tulio<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
 <e><p><l>thunder<s n="n"/></l><r>tuono<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>thunderbolt<s n="n"/></l><r>fulmine<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>ticket<s n="n"/></l><r>banconota<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ticket<s n="n"/></l><r>entrata<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ticket<b/>office<s n="n"/></l><r>biglietteria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tide<s n="n"/></l><r>marea<s n="n"/><s n="f"/></r></p></e>
@@ -20481,6 +20470,7 @@
 <e r="LR"><p><l>variety<s n="n"/><s n="pl"/></l><r>varietà<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>variety<s n="n"/><s n="ND"/></l><r>varietà<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>vase<s n="n"/></l><r>vaso<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>vasectomy<s n="n"/></l><r>vasectomia<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>vastness<s n="n"/><s n="ND"/></l><r>vastità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>vastness<s n="n"/><s n="sg"/></l><r>vastità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>vastness<s n="n"/><s n="pl"/></l><r>vastità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
