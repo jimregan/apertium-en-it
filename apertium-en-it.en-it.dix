@@ -9953,9 +9953,7 @@
 <e><p><l>great<s n="adj"/><s n="sint"/></l><r>grande<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>great<s n="adj"/><s n="sint"/><s n="comp"/></l><r>maggiore<s n="adj"/></r></p></e>
 <e><p><l>greek<s n="adj"/></l><r>greco<s n="adj"/></r></p></e>
-<e><p><l>grey<s n="adj"/><s n="sint"/></l><r>grigio<s n="adj"/><s n="GD"/></r></p></e>
-<e><p><l>grey<s n="adj"/><s n="sint"/></l><r>grigio<s n="adj"/><s n="m"/></r></p></e>
-<e><p><l>grey<s n="adj"/><s n="sint"/></l><r>grigio<s n="adj"/><s n="f"/></r></p></e>
+<e><p><l>grey<s n="adj"/><s n="sint"/></l><r>grigio<s n="adj"/></r></p></e>
 <e><p><l>grim<s n="adj"/><s n="sint"/></l><r>sinistro<s n="adj"/></r></p></e>
 <e><p><l>groundless<s n="adj"/></l><r>infondato<s n="adj"/></r></p></e>
 <e><p><l>guilty<s n="adj"/><s n="sint"/></l><r>colpevole<s n="adj"/><s n="mf"/></r></p></e>
@@ -9966,7 +9964,6 @@
 <e><p><l>handwritten<s n="adj"/></l><r>manoscritto<s n="adj"/></r></p></e>
 <e><p><l>happy<s n="adj"/><s n="sint"/></l><r>felice<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>hard<s n="adj"/><s n="sint"/></l><r>duro<s n="adj"/></r></p></e>
-<e><p><l>hard<s n="adj"/><s n="sint"/></l><r>duro<s n="adj"/></r></p></e>
 <e><p><l>harsh<s n="adj"/><s n="sint"/></l><r>duro<s n="adj"/></r></p></e>
 <e><p><l>hateful<s n="adj"/></l><r>odioso<s n="adj"/></r></p></e>
 <e><p><l>hazardous<s n="adj"/></l><r>pericoloso<s n="adj"/></r></p></e>
@@ -9976,16 +9973,16 @@
 <e><p><l>helpful<s n="adj"/></l><r>utile<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>hereditary<s n="adj"/></l><r>ereditario<s n="adj"/></r></p></e>
 <e><p><l>hermetical<s n="adj"/></l><r>ermetico<s n="adj"/></r></p></e>
-<e><p><l>hers<s n="adj"/></l><r>suo<s n="adj"/></r></p></e>
+<e r="LR"><p><l>hers<s n="adj"/></l><r>suo<s n="adj"/></r></p></e>
 <e><p><l>hesitant<s n="adj"/></l><r>indeciso<s n="adj"/></r></p></e>
 <e><p><l>heterosexual<s n="adj"/></l><r>eterosessuale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>high<s n="adj"/><s n="sint"/></l><r>alto<s n="adj"/></r></p></e>
-<e><p><l>high<s n="adj"/><s n="sint"/><s n="sup"/></l><r>summo<s n="adj"/></r></p></e>
+<e r="LR"><p><l>high<s n="adj"/><s n="sint"/><s n="sup"/></l><r>summo<s n="adj"/></r></p></e>
 <e c="traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="adj"/></l><r>suo<s n="adj"/></r></p></e>
 <e><p><l>historical<s n="adj"/></l><r>storico<s n="adj"/></r></p></e>
 <e><p><l>hollow<s n="adj"/></l><r>vuoto<s n="adj"/></r></p></e>
 <e><p><l>holy<s n="adj"/><s n="sint"/></l><r>sacro<s n="adj"/></r></p></e>
-<e c="check"><p><l>holy<s n="adj"/></l><r>santo<s n="adj"/></r></p></e>
+<e c="check" r="LR"><p><l>holy<s n="adj"/></l><r>santo<s n="adj"/></r></p></e>
 <e c="check"><p><l>home-made<s n="adj"/></l><r>casereccio<s n="adj"/></r></p></e>
 <e><p><l>homoeopathic<s n="adj"/></l><r>omeopatico<s n="adj"/></r></p></e>
 <e><p><l>homonym<s n="adj"/></l><r>omonimo<s n="adj"/></r></p></e>
@@ -9996,9 +9993,7 @@
 <e><p><l>horizontal<s n="adj"/></l><r>orizzontale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>hostile<s n="adj"/></l><r>ostile<s n="adj"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>hot<s n="adj"/><s n="sint"/></l><r>caldo<s n="adj"/></r></p></e>
-<e><p><l>hot<s n="adj"/><s n="sint"/></l><r>caldo<s n="adj"/><s n="m"/></r></p></e>
-<e><p><l>hot<s n="adj"/><s n="sint"/></l><r>caldo<s n="adj"/><s n="f"/></r></p></e>
-<e><p><l>hot<s n="adj"/><s n="sint"/></l><r>caldo<s n="adj"/><s n="GD"/></r></p></e>
+<e><p><l>hot<s n="adj"/><s n="sint"/></l><r>caldo<s n="adj"/></r></p></e>
 <e><p><l>huge<s n="adj"/></l><r>enorme<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>human<s n="adj"/></l><r>umano<s n="adj"/></r></p></e>
 <e><p><l>humanitarian<s n="adj"/></l><r>umanitario<s n="adj"/></r></p></e>
@@ -10012,7 +10007,7 @@
 <e><p><l>identical<s n="adj"/></l><r>identico<s n="adj"/></r></p></e>
 <e c="check"><p><l>idiot<s n="adj"/></l><r>idiota<s n="adj"/></r></p></e>
 <e><p><l>ill<s n="adj"/><s n="sint"/></l><r>malato<s n="adj"/></r></p></e>
-<e><p><l>ill<s n="adj"/><s n="sint"/></l><r>ammalato<s n="adj"/></r></p></e>
+<e r="RL"><p><l>ill<s n="adj"/><s n="sint"/></l><r>ammalato<s n="adj"/></r></p></e>
 <e><p><l>illegal<s n="adj"/></l><r>illegale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>illegitimate<s n="adj"/></l><r>illegittimo<s n="adj"/></r></p></e>
 <e><p><l>illiterate<s n="adj"/></l><r>analfabeta<s n="adj"/></r></p></e>
@@ -10049,7 +10044,6 @@
 <e><p><l>indian<s n="adj"/></l><r>indio<s n="adj"/></r></p></e>
 <e><p><l>indicative<s n="adj"/></l><r>indicativo<s n="adj"/></r></p></e>
 <e><p><l>indicator<s n="adj"/></l><r>indicatore<s n="adj"/></r></p></e>
-<e><p><l>indispensable<s n="adj"/></l><r>indispensabile<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>indispensable<s n="adj"/></l><r>indispensabile<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>individual<s n="adj"/></l><r>individuale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>indivisible<s n="adj"/></l><r>indivisibile<s n="adj"/><s n="mf"/></r></p></e>
@@ -10092,7 +10086,7 @@
 <e><p><l>interesting<s n="adj"/></l><r>interessante<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>intergovernmental<s n="adj"/></l><r>intergovernativo<s n="adj"/></r></p></e>
 <e><p><l>intermediate<s n="adj"/></l><r>intermedio<s n="adj"/></r></p></e>
-<e><p><l>intermediate<s n="adj"/></l><r>intermediario<s n="adj"/></r></p></e>
+<e r="RL"><p><l>intermediate<s n="adj"/></l><r>intermediario<s n="adj"/></r></p></e>
 <e><p><l>intermittent<s n="adj"/></l><r>intermittente<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>international<s n="adj"/></l><r>internazionale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>interprofessional<s n="adj"/></l><r>interprofessionale<s n="adj"/><s n="mf"/></r></p></e>
