@@ -10135,7 +10135,7 @@
 <e><p><l>latter<s n="adj"/></l><r>ultimo<s n="adj"/></r></p></e>
 <e><p><l>lawful<s n="adj"/></l><r>lecito<s n="adj"/></r></p></e>
 <e><p><l>lawless<s n="adj"/></l><r>anarchico<s n="adj"/></r></p></e>
-<e><p><l>leading<s n="adj"/></l><r>principale<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>leading<s n="adj"/></l><r>principale<s n="adj"/><s n="mf"/></r></p></e>
 <e c="check"><p><l>leading<s n="adj"/></l><r>protagonista<s n="adj"/><s n="m"/></r></p></e>
 <e c="check"><p><l>leading<s n="adj"/></l><r>protagonista<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>legal<s n="adj"/></l><r>legale<s n="adj"/><s n="mf"/></r></p></e>
@@ -10184,9 +10184,8 @@
 <e><p><l>magistral<s n="adj"/></l><r>magistrale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>magnetic<s n="adj"/></l><r>magnetico<s n="adj"/></r></p></e>
 <e><p><l>maiden<s n="adj"/></l><r>verginale<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>main<s n="adj"/></l><r>maggiore<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>main<s n="adj"/></l><r>principale<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>main<s n="adj"/></l><r>capitale<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>main<s n="adj"/></l><r>maggiore<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>capital<s n="adj"/></l><r>capitale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>major<s n="adj"/></l><r>importante<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>majority<s n="adj"/></l><r>maggioritario<s n="adj"/></r></p></e>
 <e><p><l>male<s n="adj"/></l><r>maschile<s n="adj"/><s n="mf"/></r></p></e>
@@ -14306,8 +14305,8 @@
 <e r="LR"><p><l>bloc<s n="n"/><s n="sg"/></l><r>bloc<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>bloc<s n="n"/><s n="pl"/></l><r>bloc<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>block<s n="n"/></l><r>blocco<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>blockade<s n="n"/></l><r>blocco<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>blocking<s n="n"/></l><r>blocco<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>blockade<s n="n"/></l><r>blocco<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>blocking<s n="n"/></l><r>blocco<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>blog<s n="n"/><s n="sg"/></l><r>blog<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>blog<s n="n"/><s n="pl"/></l><r>blog<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>blog<s n="n"/><s n="ND"/></l><r>blog<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -18002,6 +18001,7 @@
 <e r="RL"><p><l>notary<s n="n"/></l><r>notaio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>notation<s n="n"/></l><r>notazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>banknote<s n="n"/></l><r>banconota<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>bank<b/>note<s n="n"/></l><r>banconota<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>note<s n="n"/></l><r>nota<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>notice<s n="n"/></l><r>avviso<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>notification<s n="n"/></l><r>notifica<s n="n"/><s n="f"/></r></p></e>
@@ -20035,8 +20035,15 @@
 <e r="LR"><p><l>tandem<s n="n"/><s n="sg"/></l><r>tandem<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>tandem<s n="n"/><s n="pl"/></l><r>tandem<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>tangent<s n="n"/></l><r>tangente<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>tank<s n="n"/></l><r>deposito<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>tank<s n="n"/></l><r>custodia<s n="n"/><s n="f"/></r></p></e>
+<e slr="contenitore D" r="LR"><p><l>tank<s n="n"/></l><r>contenitore<s n="n"/><s n="m"/></r></p></e>
+<e slr="carro armato" r="LR"><p><l>tank<s n="n"/></l><r>carro<b/>armato<s n="n"/><s n="m"/></r></p></e>
+<e slr="acquario" r="LR"><p><l>tank<s n="n"/></l><r>acquario<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>aquarium<s n="n"/></l><r>acquario<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>fishtank<s n="n"/></l><r>acquario<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>fish<b/>tank<s n="n"/></l><r>acquario<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>armoured<b/>car<s n="n"/></l><r>carro<b/>armato<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>deposit<s n="n"/></l><r>deposito<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>custody<s n="n"/></l><r>custodia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tantalum<s n="n"/></l><r>tantalio<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
 <e><p><l>tap<s n="n"/></l><r>grifone<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tap<s n="n"/></l><r>rubinetto<s n="n"/><s n="m"/></r></p></e>
@@ -20046,7 +20053,7 @@
 <e><p><l>tar<s n="n"/></l><r>catrame<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>target<s n="n"/></l><r>bianco<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>target<s n="n"/></l><r>diana<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>target<s n="n"/></l><r>obiettivo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>objective<s n="n"/></l><r>obiettivo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>task<s n="n"/></l><r>lavoro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>taste<s n="n"/></l><r>gusto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tasting<s n="n"/></l><r>degustazione<s n="n"/><s n="f"/></r></p></e>
@@ -20054,15 +20061,14 @@
 <e><p><l>tax<s n="n"/></l><r>imposta<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>tax<s n="n"/></l><r>tasso<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>tax<s n="n"/></l><r>tasso<s n="n"/></r></p></e>
-<e><p><l>taxation<s n="n"/><s n="sg"/></l><r>imposta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>taxation<s n="n"/><s n="pl"/></l><r>imposta<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>taxation<s n="n"/></l><r>imposta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>taxation<s n="n"/></l><r>imposizione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>taxation<s n="n"/></l><r>tassazione<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>taxi<s n="n"/><s n="sg"/></l><r>taxi<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>taxi<s n="n"/><s n="pl"/></l><r>taxi<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>taxi<s n="n"/><s n="ND"/></l><r>taxi<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e><p><l>taxi<b/>driver<s n="n"/></l><r>tassista<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>taxi<b/>driver<s n="n"/></l><r>tassista<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>taxi<b/>driver<s n="n"/></l><r>tassista<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>taxi<b/>driver<s n="n"/></l><r>tassista<s n="n"/></r></p></e>
 <e><p><l>taxpayer<s n="n"/></l><r>contribuente<s n="n"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>tea<s n="n"/><s n="sg"/></l><r>tè<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>tea<s n="n"/><s n="pl"/></l><r>tè<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -20071,10 +20077,9 @@
 <e r="LR"><p><l>teacher<s n="n"/></l><r>professore<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>teacher's<b/>pet<s n="n"/></l><r>beniamino<s n="n"/></r></p></e>
 <e r="LR"><p><l>teacher's<b/>pet<s n="n"/></l><r>beniamino<s n="n"/><s n="GD"/></r></p></e>
-<e><p><l>teaching<s n="n"/></l><r>insegnamento<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>teaching<s n="n"/></l><r>insegnamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>team<s n="n"/></l><r>squadra<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>team<s n="n"/></l><r>maestranze<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>team<s n="n"/></l><r>maestranze<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tear<s n="n"/></l><r>lacrima<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>technician<s n="n"/></l><r>tecnico<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>technician<s n="n"/></l><r>tecnico<s n="n"/><s n="m"/></r></p></e>
@@ -20109,7 +20114,6 @@
 <e c="Ling."><p><l>term<s n="n"/></l><r>termine<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>term<g><b/>of<b/>office</g><s n="n"/></l><r>legislatura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>terminal<s n="n"/></l><r>terminale<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>terminal<s n="n"/></l><r>terminale<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>termination<s n="n"/></l><r>terminazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>terminology<s n="n"/></l><r>terminologia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>terrace<s n="n"/></l><r>terrazza<s n="n"/><s n="f"/></r></p></e>
@@ -20134,10 +20138,8 @@
 <e><p><l>thesis<s n="n"/><s n="ND"/></l><r>tesi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>thesis<s n="n"/><s n="sg"/></l><r>tesi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>thesis<s n="n"/><s n="pl"/></l><r>tesi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e><p><l>thief<s n="n"/></l><r>ladro<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>thief<s n="n"/></l><r>ladro<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>thief<s n="n"/></l><r>ladro<s n="n"/></r></p></e>
-<e><p><l>thief<s n="n"/></l><r>ladro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>thing<s n="n"/></l><r>cosa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>third<s n="n"/></l><r>terzo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>thorium<s n="n"/></l><r>torio<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
