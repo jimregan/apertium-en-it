@@ -11532,7 +11532,7 @@
 <e r="RL"><p><l>give<s n="vblex"/></l><r>regalare<s n="vblex"/></r></p></e>
 <e><p><l>impart<s n="vblex"/></l><r>impartire<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>give<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>lasciare<s n="vblex"/></r></p></e>
-<e><p><l>glance<s n="vblex"/></l><r>guardare<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>glance<s n="vblex"/></l><r>guardare<s n="vblex"/></r></p></e>
 <e><p><l>glimpse<s n="vblex"/></l><r>intravedere<s n="vblex"/></r></p></e>
 <e><p><l>glorify<s n="vblex"/></l><r>glorificare<s n="vblex"/></r></p></e>
 <e><p><l>go<s n="vblex"/></l><r>andare<s n="vblex"/></r></p></e>
@@ -12300,7 +12300,7 @@
 <e><p><l>wash<s n="vblex"/></l><r>strofinare<s n="vblex"/></r></p></e>
 <e><p><l>wash<s n="vblex"/></l><r>lavare<s n="vblex"/></r></p></e>
 <e><p><l>waste<s n="vblex"/></l><r>sprecare<s n="vblex"/></r></p></e>
-<e c="(television)"><p><l>watch<s n="vblex"/></l><r>guardare<s n="vblex"/></r></p></e>
+<e c="(television)" i="yes"><p><l>watch<s n="vblex"/></l><r>guardare<s n="vblex"/></r></p></e>
 <e><p><l>watch<s n="vblex"/></l><r>vigilare<s n="vblex"/></r></p></e>
 <e><p><l>water<s n="vblex"/></l><r>abbeverare<s n="vblex"/></r></p></e>
 <e><p><l>wave<s n="vblex"/></l><r>agitare<s n="vblex"/></r></p></e>
