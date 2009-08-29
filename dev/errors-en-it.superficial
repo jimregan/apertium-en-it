@@ -962,11 +962,6 @@
 ^.<sent>$ ^liveliness<n><pl>$ ^'s<gen>$	. \@Liveliness\<n\> 
 ^.<sent>$ ^liveliness<n><sg>$	. \@Liveliness\<n\>
 ^.<sent>$ ^liveliness<n><pl>$	. \@Liveliness\<n\>
-^.<sent>$ ^blockade<n><sg>$	. \@Blockade\<n\>
-^.<sent>$ ^blockade<n><pl>$	. \@Blockade\<n\>
-^.<sent>$ ^blockade<n><pl>$ ^'s<gen>$	. \@Blockade\<n\> 
-^.<sent>$ ^blockade<n><sg>$	. \@Blockade\<n\>
-^.<sent>$ ^blockade<n><pl>$	. \@Blockade\<n\>
 ^.<sent>$ ^bloodletting<n><sg>$	. \@Bloodletting\<n\>
 ^.<sent>$ ^bloodletting<n><pl>$	. \@Bloodletting\<n\>
 ^.<sent>$ ^bloodletting<n><pl>$ ^'s<gen>$	. \@Bloodletting\<n\> 
@@ -7943,11 +7938,6 @@
 ^.<sent>$ ^income tax<n><pl>$ ^'s<gen>$	. \@Income tax\<n\> 
 ^.<sent>$ ^income tax<n><sg>$	. \@Income tax\<n\>
 ^.<sent>$ ^income tax<n><pl>$	. \@Income tax\<n\>
-^.<sent>$ ^taxation<n><sg>$	. #Imposta\<n\>\<f\>
-^.<sent>$ ^taxation<n><pl>$	. #Imposta\<n\>\<f\>
-^.<sent>$ ^taxation<n><pl>$ ^'s<gen>$	. #Imposta\<n\>\<f\> 
-^.<sent>$ ^taxation<n><sg>$	. #Imposta\<n\>\<f\>
-^.<sent>$ ^taxation<n><pl>$	. #Imposta\<n\>\<f\>
 ^.<sent>$ ^teledetection<n><sg>$	. \@Teledetection\<n\>
 ^.<sent>$ ^teledetection<n><pl>$	. \@Teledetection\<n\>
 ^.<sent>$ ^teledetection<n><pl>$ ^'s<gen>$	. \@Teledetection\<n\> 
@@ -16791,20 +16781,6 @@
 ^.<sent>$ ^North Atlantic Treaty Organization<np><al><sg>$	. \@North Atlantic Treaty Organization\<np\>\<al\>
 ^.<sent>$ ^International Monetary Fund<np><al><sg>$	. \@International Monetary Fund\<np\>\<al\>
 ^.<sent>$ ^Treaty of Friendship, Cooperation and Mutual Assistance<np><al><sg>$	. \@Treaty of Friendship, Cooperation and Mutual Assistance\<np\>\<al\>
-^.<sent>$ ^reserve currency<n><sg>$	. \@Reserve currency\<n\>
-^.<sent>$ ^reserve currency<n><pl>$	. \@Reserve currency\<n\>
-^.<sent>$ ^reserve currency<n><pl>$	. \@Reserve currency\<n\>
-^.<sent>$ ^reserve currency<n><pl>$ ^'s<gen>$	. \@Reserve currency\<n\> 
-^.<sent>$ ^reserve currency<n><pl>$ ^'s<gen>$	. \@Reserve currency\<n\> 
-^.<sent>$ ^reserve currency<n><sg>$	. \@Reserve currency\<n\>
-^.<sent>$ ^reserve currency<n><pl>$	. \@Reserve currency\<n\>
-^.<sent>$ ^anchor currency<n><sg>$	. \@Anchor currency\<n\>
-^.<sent>$ ^anchor currency<n><pl>$	. \@Anchor currency\<n\>
-^.<sent>$ ^anchor currency<n><pl>$	. \@Anchor currency\<n\>
-^.<sent>$ ^anchor currency<n><pl>$ ^'s<gen>$	. \@Anchor currency\<n\> 
-^.<sent>$ ^anchor currency<n><pl>$ ^'s<gen>$	. \@Anchor currency\<n\> 
-^.<sent>$ ^anchor currency<n><sg>$	. \@Anchor currency\<n\>
-^.<sent>$ ^anchor currency<n><pl>$	. \@Anchor currency\<n\>
 ^.<sent>$ ^microwave oven<n><sg>$	. \@Microwave oven\<n\>
 ^.<sent>$ ^microwave oven<n><pl>$	. \@Microwave oven\<n\>
 ^.<sent>$ ^microwave oven<n><pl>$ ^'s<gen>$	. \@Microwave oven\<n\> 
@@ -18937,11 +18913,6 @@
 ^.<sent>$ ^blende<n><pl>$ ^'s<gen>$	. \@Blende\<n\> 
 ^.<sent>$ ^blende<n><sg>$	. \@Blende\<n\>
 ^.<sent>$ ^blende<n><pl>$	. \@Blende\<n\>
-^.<sent>$ ^blocking<n><sg>$	. \@Blocking\<n\>
-^.<sent>$ ^blocking<n><pl>$	. \@Blocking\<n\>
-^.<sent>$ ^blocking<n><pl>$ ^'s<gen>$	. \@Blocking\<n\> 
-^.<sent>$ ^blocking<n><sg>$	. \@Blocking\<n\>
-^.<sent>$ ^blocking<n><pl>$	. \@Blocking\<n\>
 ^.<sent>$ ^bloodless<adj>$	. \@Bloodless\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^blunder<n><sg>$	. \@Blunder\<n\>
 ^.<sent>$ ^blunder<n><pl>$	. \@Blunder\<n\>
@@ -35500,17 +35471,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> diverso<det><ind><GD><ND>/diverso<det><ind><m><sg>/diverso<det><ind><f><sg>/differente<adj><mf>$
 #\^.\<sent\> vuoto<adj>/deserto<adj>$
 #\^.\<sent\> vuoto<adj>/deserto<adj>$
-#\^.\<sent\> grigio<adj><GD>/grigio<adj><m>/grigio<adj><f>$
-#\^.\<sent\> grigio<adj><GD>/grigio<adj><m>/grigio<adj><f>$
-#\^.\<sent\> grigio<adj><GD>/grigio<adj><m>/grigio<adj><f>$
-#\^.\<sent\> caldo<adj>/caldo<adj><GD>/caldo<adj><m>/caldo<adj><f>$
-#\^.\<sent\> caldo<adj>/caldo<adj><GD>/caldo<adj><m>/caldo<adj><f>$
-#\^.\<sent\> caldo<adj>/caldo<adj><GD>/caldo<adj><m>/caldo<adj><f>$
-#\^.\<sent\> caldo<adj>/caldo<adj><GD>/caldo<adj><m>/caldo<adj><f>$
-#\^.\<sent\> malato<adj>/ammalato<adj>$
-#\^.\<sent\> malato<adj>/ammalato<adj>$
-#\^.\<sent\> intermedio<adj>/intermediario<adj>$
-#\^.\<sent\> intermedio<adj>/intermediario<adj>$
 #\^.\<sent\> tardio<adj>/tardivo<adj>$
 #\^.\<sent\> tardio<adj>/tardivo<adj>$
 #\^.\<sent\> principale<adj><mf>/protagonista<adj><m>/protagonista<adj><f>$
@@ -35518,9 +35478,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> principale<adj><mf>/protagonista<adj><m>/protagonista<adj><f>$
 #\^.\<sent\> chiaro<adj>/leggero<adj>$
 #\^.\<sent\> chiaro<adj>/leggero<adj>$
-#\^.\<sent\> maggiore<adj><mf>/capitale<adj><mf>/principale<adj><mf>$
-#\^.\<sent\> maggiore<adj><mf>/capitale<adj><mf>/principale<adj><mf>$
-#\^.\<sent\> maggiore<adj><mf>/capitale<adj><mf>/principale<adj><mf>$
 #\^.\<sent\> marginale<adj><mf>/insignificante<adj><mf>$
 #\^.\<sent\> marginale<adj><mf>/insignificante<adj><mf>$
 #\^.\<sent\> nativo<adj>/indigeno<adj>$
@@ -35635,10 +35592,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> riunire<vblex>/congregare<vblex>$
 #\^.\<sent\> ricevere<vblex>/raggiungere<vblex>$
 #\^.\<sent\> ricevere<vblex>/raggiungere<vblex>$
-#\^.\<sent\> dare<vblex>/regalare<vblex>/impartire<vblex>$
-#\^.\<sent\> dare<vblex>/regalare<vblex>/impartire<vblex>$
-#\^.\<sent\> dare<vblex>/regalare<vblex>/impartire<vblex>$
-#\^.\<sent\> dare<vblex>/regalare<vblex>/impartire<vblex>$
 #\^.\<sent\> scendere<vblex>/abbassare<vblex>$
 #\^.\<sent\> scendere<vblex>/abbassare<vblex>$
 #\^.\<sent\> crescere<vblex>/coltivare<vblex>$
@@ -35811,9 +35764,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> vigilare<vblex>/guardare<vblex>$
 #\^.\<sent\> debilitare<vblex>/indebolire<vblex>$
 #\^.\<sent\> debilitare<vblex>/indebolire<vblex>$
-#\^.\<sent\> aggravare<vblex>/peggiorare<vblex>$
-#\^.\<sent\> aggravare<vblex>/peggiorare<vblex>$
-#\^.\<sent\> aggravare<vblex>/peggiorare<vblex>$
 #\^.\<sent\> bene<preadv>/molto<preadv>$
 #\^.\<sent\> bene<preadv>/molto<preadv>$
 #\^.\<sent\> but<cnjcoo>/ma<cnjcoo>$
@@ -37013,32 +36963,16 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> tavolo<n><GD>/tavolo<n><m>/tavolo<n><f>/tavola<n><f>$
 #\^.\<sent\> tavolo<n><GD>/tavolo<n><m>/tavolo<n><f>/tavola<n><f>$
 #\^.\<sent\> tavolo<n><GD>/tavolo<n><m>/tavolo<n><f>/tavola<n><f>$
-#\^.\<sent\> custodia<n><f>/deposito<n><m>$
-#\^.\<sent\> custodia<n><f>/deposito<n><m>$
+#\^.\<sent\> deposito<n><m>/custodia<n><f>$
 #\^.\<sent\> grifone<n><m>/rubinetto<n><m>$
 #\^.\<sent\> grifone<n><m>/rubinetto<n><m>$
-#\^.\<sent\> diana<n><f>/bianco<n><m>/obiettivo<n><m>$
-#\^.\<sent\> diana<n><f>/bianco<n><m>/obiettivo<n><m>$
-#\^.\<sent\> diana<n><f>/bianco<n><m>/obiettivo<n><m>$
+#\^.\<sent\> diana<n><f>/bianco<n><m>$
+#\^.\<sent\> diana<n><f>/bianco<n><m>$
 #\^.\<sent\> tasso<n><GD>/imposta<n><f>$
 #\^.\<sent\> tasso<n><GD>/imposta<n><f>$
-#\^.\<sent\> tassazione<n><f>/imposizione<n><f>$
-#\^.\<sent\> tassazione<n><f>/imposizione<n><f>$
-#\^.\<sent\> tassista<n><m>/tassista<n><f>$
-#\^.\<sent\> tassista<n><m>/tassista<n><f>$
-#\^.\<sent\> insegnamento<n><m>/insegnamento<n><f>$
-#\^.\<sent\> insegnamento<n><m>/insegnamento<n><f>$
-#\^.\<sent\> squadra<n><f>/maestranze<n><f>$
-#\^.\<sent\> squadra<n><f>/maestranze<n><f>$
-#\^.\<sent\> tennista<n><m>/tennista<n><f>$
-#\^.\<sent\> tennista<n><m>/tennista<n><f>$
-#\^.\<sent\> terminale<n><m>/terminale<n><f>$
-#\^.\<sent\> terminale<n><m>/terminale<n><f>$
-#\^.\<sent\> ladro<n><GD>/ladro<n><m>/ladro<n><f>$
-#\^.\<sent\> ladro<n><GD>/ladro<n><m>/ladro<n><f>$
-#\^.\<sent\> ladro<n><GD>/ladro<n><m>/ladro<n><f>$
-#\^.\<sent\> entrata<n><f>/banconota<n><f>$
-#\^.\<sent\> entrata<n><f>/banconota<n><f>$
+#\^.\<sent\> imposta<n><f>/tassazione<n><f>/imposizione<n><f>$
+#\^.\<sent\> imposta<n><f>/tassazione<n><f>/imposizione<n><f>$
+#\^.\<sent\> imposta<n><f>/tassazione<n><f>/imposizione<n><f>$
 #\^.\<sent\> cravatta<n><f>/collante<n><m>/pareggio<n><m>$
 #\^.\<sent\> cravatta<n><f>/collante<n><m>/pareggio<n><m>$
 #\^.\<sent\> cravatta<n><f>/collante<n><m>/pareggio<n><m>$

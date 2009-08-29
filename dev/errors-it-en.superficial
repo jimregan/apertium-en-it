@@ -87,14 +87,9 @@
 ^.<sent>$ ^Navarro<np><ant><m><sg>$	. \@Navarro\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Athletic<np><ant><m><sg>$	. \@Athletic\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Maragall<np><ant><m><sg>$	. \@Maragall\<np\>\<ant\>\<m\>\<sg\>
-^.<sent>$ ^Jos√©<np><ant><m><sg>$	. #Jos√©\<np\>\<ant\>\<m\>\<sg\>\/Jos√©\<np\>\<m\>\<sg\>
-^.<sent>$ ^Luis<np><ant><m><sg>$	. #Luis\<np\>\<ant\>\<m\>\<sg\>\/Luis\<np\>\<m\>\<sg\>
-^.<sent>$ ^Manuel<np><ant><m><sg>$	. #Manuel\<np\>\<ant\>\<m\>\<sg\>\/Manuel\<np\>\<m\>\<sg\>
-^.<sent>$ ^Mart√≠n<np><ant><m><sg>$	. #Mart√≠n\<np\>\<ant\>\<m\>\<sg\>\/Mart√≠n\<np\>\<m\>\<sg\>
+^.<sent>$ ^Jos√©<np><ant><m><sg>$	. #Jos√©\<np\>\<m\>\<sg\>\/Jos√©\<np\>\<ant\>\<m\>\<sg\>
 ^.<sent>$ ^Wikipedia<np><ant><f><sg>$	. \@Wikipedia\<np\>\<ant\>\<f\>\<sg\>
-^.<sent>$ ^Mar√≠a<np><ant><f><sg>$	. #Mar√≠a\<np\>\<ant\>\<f\>\<sg\>\/Mar√≠a\<np\>\<f\>\<sg\>
 ^.<sent>$ ^ABC<np><al><m><sg>$	. \@ABC\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Anna<np><loc><m><sg>$	. #Anna\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^Bar√ßa<np><al><m><sg>$	. \@Bar√ßa\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^BSCH<np><al><m><sg>$	. \@BSCH\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Batasuna<np><al><m><sg>$	. \@Batasuna\<np\>\<al\>\<m\>\<sg\>
@@ -124,7 +119,6 @@
 ^.<sent>$ ^Generalitat<np><loc><m><sg>$	. \@Generalitat\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^Giordania<np><loc><m><sg>$	. \@Giordania\<np\>\<loc\>\<sg\>
 ^.<sent>$ ^Marte<np><al><m><sg>$	. \@Marte\<np\>\<al\>\<m\>\<sg\>
-^.<sent>$ ^Mar√≠a<np><ant><f><sg>$	. #Mar√≠a\<np\>\<ant\>\<f\>\<sg\>\/Mar√≠a\<np\>\<f\>\<sg\>
 ^.<sent>$ ^Mestre<np><al><m><sg>$	. \@Mestre\<np\>\<al\>\<m\>\<sg\>
 ^.<sent>$ ^Milo≈°eviƒá<np><cog><mf><sp>$	. #Milosevic\<np\>\<cog\>\<sg\>\/Milo≈°eviƒá\<np\>\<cog\>\<sg\>
 ^.<sent>$ ^Moncada<np><loc><m><sg>$	. \@Moncada\<np\>\<loc\>\<sg\>
@@ -217,10 +211,6 @@
 ^.<sent>$ ^balneazione<n><f><sg>$	. #Bathing\<n\>\<sg\>
 ^.<sent>$ ^banale<n><mf><pl>$	. \@Banale\<n\>\<pl\>
 ^.<sent>$ ^banale<n><mf><sg>$	. \@Banale\<n\>\<sg\>
-^.<sent>$ ^banconota<n><f><pl>$	. #Banknote\<n\>\<pl\>
-^.<sent>$ ^banconota<n><f><sg>$	. #Banknote\<n\>\<sg\>
-^.<sent>$ ^barbiere<n><m><pl>$	. #Barber\<n\>\<pl\>
-^.<sent>$ ^barbiere<n><m><sg>$	. #Barber\<n\>\<sg\>
 ^.<sent>$ ^barocco<n><m><pl>$	. #Baroque\<n\>\<pl\>
 ^.<sent>$ ^barocco<n><m><sg>$	. #Baroque\<n\>\<sg\>
 ^.<sent>$ ^battente<n><f><pl>$	. \@Battente\<n\>\<pl\>
@@ -466,7 +456,6 @@
 ^.<sent>$ ^guarnigione<n><f><sg>$	. \@Guarnigione\<n\>\<sg\>
 ^.<sent>$ ^guinzaglio<n><m><pl>$	. #Leash\<n\>\<pl\>
 ^.<sent>$ ^guinzaglio<n><m><sg>$	. #Leash\<n\>\<sg\>
-^.<sent>$ ^hacker<n><mf><sp>$	. \@Hacker\<n\>\<sp\>
 ^.<sent>$ ^imboscata<n><f><pl>$	. \@Imboscata\<n\>\<pl\>
 ^.<sent>$ ^imboscata<n><f><sg>$	. \@Imboscata\<n\>\<sg\>
 ^.<sent>$ ^imene<n><m><pl>$	. #Hymen\<n\>\<pl\>
@@ -642,8 +631,6 @@
 ^.<sent>$ ^oligarca<n><mf><pl>$	. \@Oligarca\<n\>\<pl\>
 ^.<sent>$ ^oligarca<n><mf><sg>$	. \@Oligarca\<n\>\<sg\>
 ^.<sent>$ ^olimpiade<n><f><sg>$	. #Olympics\<n\>\<sg\>
-^.<sent>$ ^olivo<n><m><pl>$	. #Olive tree\<n\>\<pl\>
-^.<sent>$ ^olivo<n><m><sg>$	. #Olive tree\<n\>\<sg\>
 ^.<sent>$ ^onorario<n><m><pl>$	. \@Onorario\<n\>\<pl\>
 ^.<sent>$ ^onorario<n><m><sg>$	. \@Onorario\<n\>\<sg\>
 ^.<sent>$ ^orafo<n><m><pl>$	. \@Orafo\<n\>\<pl\>
@@ -680,8 +667,6 @@
 ^.<sent>$ ^percorrenza<n><f><sg>$	. \@Percorrenza\<n\>\<sg\>
 ^.<sent>$ ^persiana<n><f><pl>$	. \@Persiana\<n\>\<pl\>
 ^.<sent>$ ^persiana<n><f><sg>$	. \@Persiana\<n\>\<sg\>
-^.<sent>$ ^petrolio<n><m><pl>$	. #Petroleum\<n\>\<pl\>
-^.<sent>$ ^petrolio<n><m><sg>$	. #Petroleum\<n\>\<sg\>
 ^.<sent>$ ^pettine<n><m><pl>$	. #Comb\<n\>\<pl\>
 ^.<sent>$ ^pettine<n><m><sg>$	. #Comb\<n\>\<sg\>
 ^.<sent>$ ^piagnisteo<n><m><pl>$	. #Whine\<n\>\<pl\>
@@ -891,8 +876,6 @@
 ^.<sent>$ ^vaniglia<n><f><sg>$	. \@Vaniglia\<n\>\<sg\>
 ^.<sent>$ ^vasca<n><f><sg>$	. \@Vasca\<n\>\<sg\>
 ^.<sent>$ ^vasca<n><f><pl>$	. \@Vasca\<n\>\<pl\>
-^.<sent>$ ^vasectomia<n><f><pl>$	. \@Vasectomia\<n\>\<pl\>
-^.<sent>$ ^vasectomia<n><f><sg>$	. \@Vasectomia\<n\>\<sg\>
 ^.<sent>$ ^veglia<n><f><pl>$	. \@Veglia\<n\>\<pl\>
 ^.<sent>$ ^veglia<n><f><sg>$	. \@Veglia\<n\>\<sg\>
 ^.<sent>$ ^verbale<n><m><pl>$	. \@Verbale\<n\>\<pl\>
@@ -1645,10 +1628,6 @@
 ^.<sent>$ ^questo<adj><m><sg>$	. \@Questo\<adj\>
 ^.<sent>$ ^questo<adj><f><pl>$	. \@Questo\<adj\>
 ^.<sent>$ ^questo<adj><f><sg>$	. \@Questo\<adj\>
-^.<sent>$ ^santo<adj><m><pl>$	. #Holy\<adj\>
-^.<sent>$ ^santo<adj><m><sg>$	. #Holy\<adj\>
-^.<sent>$ ^santo<adj><f><pl>$	. #Holy\<adj\>
-^.<sent>$ ^santo<adj><f><sg>$	. #Holy\<adj\>
 ^.<sent>$ ^sessantesimo<adj><m><pl>$	. \@Sessantesimo\<adj\>
 ^.<sent>$ ^sessantesimo<adj><m><sg>$	. \@Sessantesimo\<adj\>
 ^.<sent>$ ^sessantesimo<adj><f><pl>$	. \@Sessantesimo\<adj\>
@@ -9169,16 +9148,8 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> such<det>/such<det><ind><sp>/such a<det><ind>$
 #\^.\<sent\> such<det>/such<det><ind><sp>/such a<det><ind>$
 #\^.\<sent\> either<det><ind>/whatever<det><ind>$
-#\^.\<sent\> Jos√©<np><ant>/Jos√©<np>$
-#\^.\<sent\> Jos√©<np><ant>/Jos√©<np>$
-#\^.\<sent\> Luis<np><ant>/Luis<np>$
-#\^.\<sent\> Luis<np><ant>/Luis<np>$
-#\^.\<sent\> Manuel<np><ant>/Manuel<np>$
-#\^.\<sent\> Manuel<np><ant>/Manuel<np>$
-#\^.\<sent\> Mart√≠n<np><ant>/Mart√≠n<np>$
-#\^.\<sent\> Mart√≠n<np><ant>/Mart√≠n<np>$
-#\^.\<sent\> Mar√≠a<np><ant>/Mar√≠a<np>$
-#\^.\<sent\> Mar√≠a<np><ant>/Mar√≠a<np>$
+#\^.\<sent\> Jos√©<np>/Jos√©<np><ant>$
+#\^.\<sent\> Jos√©<np>/Jos√©<np><ant>$
 #\^.\<sent\> Milosevic<np><cog><sg>/Milo≈°eviƒá<np><cog><sg>$
 #\^.\<sent\> Milosevic<np><cog><sg>/Milo≈°eviƒá<np><cog><sg>$
 #\^.\<sent\> Milosevic<np><cog><sg>/Milo≈°eviƒá<np><cog><sg>$
@@ -9208,11 +9179,10 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> posterior<adj>/back<adj>$
 #\^.\<sent\> nasty<adj><sint>/mean<adj><sint>/bad<adj><sint>$
 #\^.\<sent\> pretty<adj>/beautiful<adj>$
-#\^.\<sent\> great<adj><sint>/large<adj><sint>/elder<adj>/big<adj><sint>$
+#\^.\<sent\> large<adj><sint>/great<adj><sint>/elder<adj>/big<adj><sint>$
 #\^.\<sent\> odd<adj><sint>/weird<adj>/bizarre<adj>/strange<adj><sint>/peculiar<adj>$
 #\^.\<sent\> inferior<adj>/bottom<adj>$
 #\^.\<sent\> capable<adj>/able<adj><sint>$
-#\^.\<sent\> capital<adj>/main<adj>$
 #\^.\<sent\> economic<adj>/cheap<adj><sint>/economical<adj>/inexpensive<adj>$
 #\^.\<sent\> citric<adj>/citrus<adj>$
 #\^.\<sent\> citric<adj>/citrus<adj>$
@@ -9245,7 +9215,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> economic<adj>/cheap<adj><sint>/economical<adj>/inexpensive<adj>$
 #\^.\<sent\> economic<adj>/cheap<adj><sint>/economical<adj>/inexpensive<adj>$
 #\^.\<sent\> efficient<adj>/effective<adj>$
-#\^.\<sent\> great<adj><sint>/large<adj><sint>/elder<adj>/big<adj><sint>$
+#\^.\<sent\> large<adj><sint>/great<adj><sint>/elder<adj>/big<adj><sint>$
 #\^.\<sent\> empty<adj><sint>/hollow<adj>$
 #\^.\<sent\> huge<adj>/enormous<adj>$
 #\^.\<sent\> entire<adj>/whole<adj>$
@@ -9270,21 +9240,19 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> good<adj><sint>/nice<adj><sint>$
 #\^.\<sent\> good<adj><sint><comp>/good<adj><sint><sup>$
 #\^.\<sent\> good<adj><sint><comp>/good<adj><sint><sup>$
-#\^.\<sent\> great<adj><sint>/large<adj><sint>/elder<adj>/big<adj><sint>$
+#\^.\<sent\> large<adj><sint>/great<adj><sint>/elder<adj>/big<adj><sint>$
 #\^.\<sent\> sinister<adj>/grim<adj><sint>$
-#\^.\<sent\> hard<adj><sint>/stark<adj><sint>/tough<adj><sint>/harsh<adj><sint>$
 #\^.\<sent\> hard<adj><sint>/stark<adj><sint>/tough<adj><sint>/harsh<adj><sint>$
 #\^.\<sent\> hard<adj><sint>/stark<adj><sint>/tough<adj><sint>/harsh<adj><sint>$
 #\^.\<sent\> dangerous<adj>/hazardous<adj>$
 #\^.\<sent\> hebrew<adj>/jewish<adj>$
 #\^.\<sent\> useful<adj>/helpful<adj>$
-#\^.\<sent\> his<adj>/hers<adj>/theirs<adj>$
+#\^.\<sent\> his<adj>/theirs<adj>$
 #\^.\<sent\> hesitant<adj>/undecided<adj>$
 #\^.\<sent\> tall<adj><sint>/high<adj><sint>$
-#\^.\<sent\> his<adj>/hers<adj>/theirs<adj>$
+#\^.\<sent\> his<adj>/theirs<adj>$
 #\^.\<sent\> empty<adj><sint>/hollow<adj>$
 #\^.\<sent\> holy<adj><sint>/sacred<adj>$
-#\^.\<sent\> holy<adj>/saint<adj>$
 #\^.\<sent\> huge<adj>/enormous<adj>$
 #\^.\<sent\> sick<adj><sint>/ill<adj><sint>$
 #\^.\<sent\> impermeable<adj>/waterproof<adj>$
@@ -9300,12 +9268,11 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> interesting<adj>/worthwhile<adj>$
 #\^.\<sent\> hebrew<adj>/jewish<adj>$
 #\^.\<sent\> just<adj><sint>/fair<adj><sint>$
-#\^.\<sent\> great<adj><sint>/large<adj><sint>/elder<adj>/big<adj><sint>$
+#\^.\<sent\> large<adj><sint>/great<adj><sint>/elder<adj>/big<adj><sint>$
 #\^.\<sent\> latter<adj>/last<adj>$
 #\^.\<sent\> latter<adj>/last<adj>$
 #\^.\<sent\> licit<adj>/lawful<adj>$
 #\^.\<sent\> anarchic<adj>/lawless<adj>$
-#\^.\<sent\> leading<adj>/principal<adj>/main<adj>$
 #\^.\<sent\> long<adj><sint>/lengthy<adj>$
 #\^.\<sent\> lesser<adj>/minor<adj>$
 #\^.\<sent\> licit<adj>/lawful<adj>$
@@ -9323,8 +9290,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> low<adj><sint>/short<adj><sint>$
 #\^.\<sent\> ligthful<adj>/luminous<adj>$
 #\^.\<sent\> magistral<adj>/masterful<adj>$
-#\^.\<sent\> leading<adj>/principal<adj>/main<adj>$
-#\^.\<sent\> capital<adj>/main<adj>$
 #\^.\<sent\> important<adj>/major<adj>$
 #\^.\<sent\> insignificant<adj>/marginal<adj>$
 #\^.\<sent\> marvellous<adj>/wonderful<adj>$
@@ -9374,7 +9339,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> pretty<adj>/beautiful<adj>$
 #\^.\<sent\> previous<adj>/former<adj>$
 #\^.\<sent\> prior<adj>/previous<adj>$
-#\^.\<sent\> leading<adj>/principal<adj>/main<adj>$
 #\^.\<sent\> prior<adj>/previous<adj>$
 #\^.\<sent\> likely<adj>/probable<adj>/prospective<adj>$
 #\^.\<sent\> profound<adj>/deep<adj><sint>$
@@ -9395,7 +9359,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> real<adj>/royal<adj>/actual<adj>$
 #\^.\<sent\> cruel<adj>/ruthless<adj>$
 #\^.\<sent\> holy<adj><sint>/sacred<adj>$
-#\^.\<sent\> holy<adj>/saint<adj>$
 #\^.\<sent\> shallow<adj>/superficial<adj>$
 #\^.\<sent\> low<adj><sint>/short<adj><sint>$
 #\^.\<sent\> sick<adj><sint>/ill<adj><sint>$
@@ -9426,7 +9389,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> sweet<adj><sint>/mellow<adj>$
 #\^.\<sent\> tall<adj><sint>/high<adj><sint>$
 #\^.\<sent\> provisional<adj>/temporary<adj>$
-#\^.\<sent\> his<adj>/hers<adj>/theirs<adj>$
+#\^.\<sent\> his<adj>/theirs<adj>$
 #\^.\<sent\> therapeutic<adj>/remedial<adj>$
 #\^.\<sent\> near<adj><sint>/nearby<adj>/close<adj><sint>/together<adj>/neighbouring<adj>$
 #\^.\<sent\> top<adj>/superior<adj>/upper<adj>$
@@ -9476,7 +9439,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> affirm<vblex>/assert<vblex>/claim<vblex>$
 #\^.\<sent\> afflict<vblex>/distress<vblex>$
 #\^.\<sent\> permit<vblex>/allow<vblex>/afford<vblex>$
-#\^.\<sent\> aggravate<vblex>/worsen<vblex>$
 #\^.\<sent\> agitate<vblex>/wave<vblex>$
 #\^.\<sent\> agree<vblex>/remember<vblex>/remind<vblex>$
 #\^.\<sent\> point<vblex>/back<vblex>$
@@ -9682,12 +9644,9 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> enhance<vblex>/improve<vblex>$
 #\^.\<sent\> go# in<vblex>/get# in<vblex>/come# in<vblex>/step# into<vblex>$
 #\^.\<sent\> go# up<vblex>/undergo<vblex>/get# on<vblex>$
-#\^.\<sent\> get# worse<vblex>/worsen<vblex>$
-#\^.\<sent\> get# worse<vblex>/worsen<vblex>$
-#\^.\<sent\> give<vblex>/donate<vblex>$
 #\^.\<sent\> give<vblex>/donate<vblex>$
 #\^.\<sent\> let<vblex>/abandon<vblex>$
-#\^.\<sent\> glance<vblex>/look<vblex>/watch<vblex>$
+#\^.\<sent\> look<vblex>/glance<vblex>/watch<vblex>$
 #\^.\<sent\> go# back<vblex>/get# back<vblex>/come# back<vblex>$
 #\^.\<sent\> go# in<vblex>/get# in<vblex>/come# in<vblex>/step# into<vblex>$
 #\^.\<sent\> go# up<vblex>/undergo<vblex>/get# on<vblex>$
@@ -9746,7 +9705,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> fancy<vblex>/like<vblex>/please<vblex>/enjoy<vblex>$
 #\^.\<sent\> limit<vblex>/confine<vblex>$
 #\^.\<sent\> locate<vblex>/trace<vblex>$
-#\^.\<sent\> glance<vblex>/look<vblex>/watch<vblex>$
+#\^.\<sent\> look<vblex>/glance<vblex>/watch<vblex>$
 #\^.\<sent\> look<vblex>/seem<vblex>/look# like<vblex>$
 #\^.\<sent\> look<vblex>/seem<vblex>/look# like<vblex>$
 #\^.\<sent\> seem<vblex>/look# like<vblex>$
@@ -9968,7 +9927,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> love<vblex>/want<vblex>$
 #\^.\<sent\> warm<vblex>/encourage<vblex>$
 #\^.\<sent\> heat<vblex>/warm<vblex>$
-#\^.\<sent\> glance<vblex>/look<vblex>/watch<vblex>$
+#\^.\<sent\> look<vblex>/glance<vblex>/watch<vblex>$
 #\^.\<sent\> agitate<vblex>/wave<vblex>$
 #\^.\<sent\> bring<vblex>/carry<vblex>/wear<vblex>$
 #\^.\<sent\> cry<vblex>/weep<vblex>$
@@ -9976,9 +9935,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> earn<vblex>/win<vblex>/overcome<vblex>$
 #\^.\<sent\> recall<vblex>/remove<vblex>/withdraw<vblex>$
 #\^.\<sent\> testify<vblex>/attest<vblex>/witness<vblex>$
-#\^.\<sent\> aggravate<vblex>/worsen<vblex>$
-#\^.\<sent\> get# worse<vblex>/worsen<vblex>$
-#\^.\<sent\> get# worse<vblex>/worsen<vblex>$
 #\^.\<sent\> type<vblex>/write<vblex>$
 #\^.\<sent\> surround<vblex>/zone<vblex>$
 #\^.\<sent\> nor<cnjcoo>/neither<cnjcoo>$
@@ -10368,10 +10324,10 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> agriculture<n>/farming<n>$
 #\^.\<sent\> aid<n>/help<n>$
 #\^.\<sent\> aid<n>/help<n>$
-#\^.\<sent\> target<n>/objective<n>/aim<n>/goal<n>$
+#\^.\<sent\> objective<n>/aim<n>/goal<n>$
 #\^.\<sent\> plane<n>/airliner<n>/airplane<n>$
 #\^.\<sent\> plane<n>/airliner<n>/airplane<n>$
-#\^.\<sent\> pension<n>/allowance<n>/guesthouse<n>/retirement<n>$
+#\^.\<sent\> pension<n>/allowance<n>/retirement<n>/guesthouse<n>$
 #\^.\<sent\> alloy<n>/league<n>$
 #\^.\<sent\> conflict<n>/altercation<n>$
 #\^.\<sent\> aluminum<n>/aluminium<n>$
@@ -10458,7 +10414,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> space<n>/blank<n>$
 #\^.\<sent\> cover<n>/blanket<n>$
 #\^.\<sent\> burst<n>/blast<n>/explosion<n>$
-#\^.\<sent\> block<n>/blocking<n>/blockade<n>$
 #\^.\<sent\> bloodsucker<n>/leech<n>$
 #\^.\<sent\> hit<n>/coup<n>/stroke<n>/knock<n>/bump<n>/blow<n>$
 #\^.\<sent\> blueberry<n>/cranberry<n>$
@@ -10572,7 +10527,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> coat<n>/layer<n>$
 #\^.\<sent\> web<n>/cobweb<n>$
 #\^.\<sent\> code<n>/key<n>$
-#\^.\<sent\> money<n>/coin<n>/currency<n>$
+#\^.\<sent\> money<n>/coin<n>$
 #\^.\<sent\> chill<n>/cold<n>$
 #\^.\<sent\> catarrh<n>/cold<n>$
 #\^.\<sent\> order<n>/command<n>$
@@ -10638,11 +10593,10 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> cabinet<n>/cupboard<n>/closet<n>/wardrobe<n>$
 #\^.\<sent\> care<n>/cure<n>/priest<n>$
 #\^.\<sent\> priest<n>/cure<n>$
-#\^.\<sent\> money<n>/coin<n>/currency<n>$
 #\^.\<sent\> current<n>/stream<n>$
 #\^.\<sent\> imprecation<n>/curse<n>$
 #\^.\<sent\> curve<n>/bend<n>$
-#\^.\<sent\> tank<n>/custody<n>/deposit<n>/safekeeping<n>$
+#\^.\<sent\> custody<n>/deposit<n>/safekeeping<n>$
 #\^.\<sent\> custom<n>/habit<n>$
 #\^.\<sent\> client<n>/customer<n>$
 #\^.\<sent\> cut<n>/edge<n>/strand<n>$
@@ -10661,8 +10615,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> demonstration<n>/protest<n>$
 #\^.\<sent\> complaint<n>/denunciation<n>$
 #\^.\<sent\> march<n>/course<n>/gear<n>/departure<n>$
-#\^.\<sent\> deposit<n>/tank<n>$
-#\^.\<sent\> tank<n>/custody<n>/deposit<n>/safekeeping<n>$
+#\^.\<sent\> custody<n>/deposit<n>/safekeeping<n>$
 #\^.\<sent\> assistant<n>/deputy<n>$
 #\^.\<sent\> dehydration<n>/desiccation<n>$
 #\^.\<sent\> dried<n>/desiccation<n>$
@@ -10721,7 +10674,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> edge<n>/singing<n>$
 #\^.\<sent\> cut<n>/edge<n>/strand<n>$
 #\^.\<sent\> education<n>/training<n>/formation<n>$
-#\^.\<sent\> education<n>/teaching<n>$
 #\^.\<sent\> election<n>/choice<n>$
 #\^.\<sent\> element<n>/item<n>$
 #\^.\<sent\> elevator<n>/lift<n>$
@@ -10864,7 +10816,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> girlfriend<n>/bride<n>$
 #\^.\<sent\> top<n>/glass<n>/cup<n>$
 #\^.\<sent\> glass<n>/crystal<n>$
-#\^.\<sent\> target<n>/objective<n>/aim<n>/goal<n>$
+#\^.\<sent\> objective<n>/aim<n>/goal<n>$
 #\^.\<sent\> gobernante<n>/ruler<n>$
 #\^.\<sent\> grade<n>/rank<n>/degree<n>$
 #\^.\<sent\> note<n>/grade<n>$
@@ -10874,7 +10826,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> grandparent<n>/grandfather<n>$
 #\^.\<sent\> granite<n>/spot<n>$
 #\^.\<sent\> graphics<n>/chart<n>$
-#\^.\<sent\> grassland<n>/meadow<n>$
+#\^.\<sent\> meadow<n>/grassland<n>$
 #\^.\<sent\> lawn<n>/meadow<n>/grassland<n>$
 #\^.\<sent\> grease<n>/fat<n>$
 #\^.\<sent\> tap<n>/griffin<n>$
@@ -10886,7 +10838,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> guard<n>/policeman<n>$
 #\^.\<sent\> supposition<n>/assumption<n>/guess<n>$
 #\^.\<sent\> hostess<n>/guest<n>$
-#\^.\<sent\> pension<n>/allowance<n>/guesthouse<n>/retirement<n>$
+#\^.\<sent\> pension<n>/allowance<n>/retirement<n>/guesthouse<n>$
 #\^.\<sent\> type<n>/guy<n>$
 #\^.\<sent\> custom<n>/habit<n>$
 #\^.\<sent\> hall<n>/room<n>$
@@ -11086,7 +11038,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> stuff<n>/material<n>$
 #\^.\<sent\> stuff<n>/subject<n>/material<n>/matter<n>$
 #\^.\<sent\> stuff<n>/subject<n>/material<n>/matter<n>$
-#\^.\<sent\> grassland<n>/meadow<n>$
+#\^.\<sent\> meadow<n>/grassland<n>$
 #\^.\<sent\> lawn<n>/meadow<n>/grassland<n>$
 #\^.\<sent\> food<n>/meal<n>/lunch<n>$
 #\^.\<sent\> means<n>/medium<n>$
@@ -11114,7 +11066,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> module<n>/form<n>$
 #\^.\<sent\> cast<n>/mould<n>/mold<n>$
 #\^.\<sent\> monarchy<n>/coronation<n>$
-#\^.\<sent\> money<n>/coin<n>/currency<n>$
+#\^.\<sent\> money<n>/coin<n>$
 #\^.\<sent\> screen<n>/monitor<n>$
 #\^.\<sent\> hold<n>/check<n>/control<n>/monitoring<n>/auditing<n>/audit<n>/regulation<n>$
 #\^.\<sent\> memorial<n>/monument<n>$
@@ -11144,7 +11096,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> zero<n>/nil<n>$
 #\^.\<sent\> node<n>/knot<n>$
 #\^.\<sent\> tie<n>/noose<n>/bow<n>$
-#\^.\<sent\> banknote<n>/ticket<n>$
 #\^.\<sent\> note<n>/grade<n>$
 #\^.\<sent\> notice<n>/warning<n>$
 #\^.\<sent\> idea<n>/insight<n>$
@@ -11152,7 +11103,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> nucleus<n>/core<n>$
 #\^.\<sent\> nanny<n>/nursemaid<n>$
 #\^.\<sent\> nut<n>/die<n>$
-#\^.\<sent\> target<n>/objective<n>/aim<n>/goal<n>$
+#\^.\<sent\> objective<n>/aim<n>/goal<n>$
 #\^.\<sent\> employment<n>/occupation<n>/railroad<n>/railway<n>$
 #\^.\<sent\> tender<n>/offer<n>/bid<n>$
 #\^.\<sent\> opera<n>/work<n>$
@@ -11195,7 +11146,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> pity<n><sg>/penalty<n><sg>$
 #\^.\<sent\> pencil<n>/pencil<n><ND>$
 #\^.\<sent\> pencil<n>/pencil<n><ND>$
-#\^.\<sent\> pension<n>/allowance<n>/guesthouse<n>/retirement<n>$
+#\^.\<sent\> pension<n>/allowance<n>/retirement<n>/guesthouse<n>$
 #\^.\<sent\> percentage<n>/percent<n>$
 #\^.\<sent\> percentage<n>/percent<n>$
 #\^.\<sent\> show<n>/performance<n>/gig<n>$
@@ -11368,7 +11319,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> response<n>/reply<n>/answer<n>$
 #\^.\<sent\> rest<n>/remains<n>/remainder<n>$
 #\^.\<sent\> result<n>/outcome<n>$
-#\^.\<sent\> pension<n>/allowance<n>/guesthouse<n>/retirement<n>$
+#\^.\<sent\> pension<n>/allowance<n>/retirement<n>/guesthouse<n>$
 #\^.\<sent\> return<n>/turn<n>$
 #\^.\<sent\> entrance<n>/entry<n>/entry<n><sg>/income<n>/input<n>/ticket<n>/revenue<n><pl>/revenue<n><sg>/earnings<n><pl>$
 #\^.\<sent\> entrance<n>/entry<n>/entry<n><sg>/income<n>/input<n>/ticket<n>/revenue<n><pl>/revenue<n><sg>/earnings<n><pl>$
@@ -11396,7 +11347,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> gobernante<n>/ruler<n>$
 #\^.\<sent\> career<n>/race<n>/run<n>$
 #\^.\<sent\> sadomasochism<n>/masochism<n>$
-#\^.\<sent\> tank<n>/custody<n>/deposit<n>/safekeeping<n>$
+#\^.\<sent\> custody<n>/deposit<n>/safekeeping<n>$
 #\^.\<sent\> safety<n>/security<n>$
 #\^.\<sent\> candle<n>/sail<n>$
 #\^.\<sent\> navigation<n>/sailing<n>/positioning<n>$
@@ -11540,18 +11491,14 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> change<n>/shift<n>/swing<n>/switch<n>/exchange<n>/transmission<n>/foreign exchange<n>$
 #\^.\<sent\> compassion<n>/sympathy<n>$
 #\^.\<sent\> talk<n>/chat<n>$
-#\^.\<sent\> deposit<n>/tank<n>$
-#\^.\<sent\> tank<n>/custody<n>/deposit<n>/safekeeping<n>$
+#\^.\<sent\> custody<n>/deposit<n>/safekeeping<n>$
 #\^.\<sent\> tap<n>/griffin<n>$
 #\^.\<sent\> target<n>/white<n>$
-#\^.\<sent\> target<n>/objective<n>/aim<n>/goal<n>$
+#\^.\<sent\> objective<n>/aim<n>/goal<n>$
 #\^.\<sent\> labour<n>/task<n>/work<n>/job<n>/undertaking<n>$
-#\^.\<sent\> tax<n>/taxation<n><sg>/taxation<n><pl>$
-#\^.\<sent\> tax<n>/taxation<n><sg>/taxation<n><pl>$
-#\^.\<sent\> tax<n>/taxation<n><sg>/taxation<n><pl>$
-#\^.\<sent\> education<n>/teaching<n>$
+#\^.\<sent\> taxation<n>/tax<n>$
+#\^.\<sent\> taxation<n>/tax<n>$
 #\^.\<sent\> team<n>/gear<n>$
-#\^.\<sent\> staff<n>/team<n>/template<n>$
 #\^.\<sent\> telephone<n>/phone<n>$
 #\^.\<sent\> staff<n>/team<n>/template<n>$
 #\^.\<sent\> tendency<n>/trend<n>$
@@ -11562,7 +11509,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> proof<n>/trial<n>/test<n>/exhibit<n>$
 #\^.\<sent\> emotion<n>/thrill<n>/excitement<n>$
 #\^.\<sent\> ray<n>/thunderbolt<n>$
-#\^.\<sent\> banknote<n>/ticket<n>$
 #\^.\<sent\> entrance<n>/entry<n>/entry<n><sg>/income<n>/input<n>/ticket<n>/revenue<n><pl>/revenue<n><sg>/earnings<n><pl>$
 #\^.\<sent\> tie<n>/noose<n>/bow<n>$
 #\^.\<sent\> time<n>/hour<n>$
