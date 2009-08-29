@@ -11526,13 +11526,11 @@
 <e r="LR"><p><l>get<g><b/>out</g><s n="vblex"/></l><r>uscire<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>get<g><b/>sick</g><s n="vblex"/></l><r>vomitare<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>get<g><b/>started</g><s n="vblex"/></l><r>iniziare<s n="vblex"/></r></p></e>
-<e><p><l>get<g><b/>worse</g><s n="vblex"/></l><r>peggiorare<s n="vblex"/></r></p></e>
-<e><p><l>get<g><b/>worse</g><s n="vblex"/></l><r>peggiorare<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>get<g><b/>worse</g><s n="vblex"/></l><r>peggiorare<s n="vblex"/></r></p></e>
 <e><p><l>gild<s n="vblex"/></l><r>dorare<s n="vblex"/></r></p></e>
 <e><p><l>give<s n="vblex"/></l><r>dare<s n="vblex"/></r></p></e>
-<e><p><l>give<s n="vblex"/></l><r>regalare<s n="vblex"/></r></p></e>
-<e><p><l>give<s n="vblex"/></l><r>dare<s n="vblex"/></r></p></e>
-<e><p><l>give<s n="vblex"/></l><r>impartire<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>give<s n="vblex"/></l><r>regalare<s n="vblex"/></r></p></e>
+<e><p><l>impart<s n="vblex"/></l><r>impartire<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>give<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>lasciare<s n="vblex"/></r></p></e>
 <e><p><l>glance<s n="vblex"/></l><r>guardare<s n="vblex"/></r></p></e>
 <e><p><l>glimpse<s n="vblex"/></l><r>intravedere<s n="vblex"/></r></p></e>
@@ -15265,7 +15263,9 @@
 <e r="LR"><p><l>curiosity<s n="n"/><s n="pl"/></l><r>curiosità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>curium<s n="n"/></l><r>curio<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
 <e srl="curl D"><p><l>curl<s n="n"/></l><r>riccio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>currency<s n="n"/></l><r>moneta<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>currency<s n="n"/></l><r>valuta<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>reserve<b/>currency<s n="n"/></l><r>valuta<g><b/>di<b/>reserva</g><s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>anchor<b/>currency<s n="n"/></l><r>valuta<g><b/>di<b/>reserva</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>current<s n="n"/></l><r>corrente<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>curriculum<s n="n"/></l><r>curriculum<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>curse<s n="n"/></l><r>maledizione<s n="n"/><s n="f"/></r></p></e>
