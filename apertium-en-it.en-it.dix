@@ -11412,7 +11412,9 @@
 <e><p><l>evoke<s n="vblex"/></l><r>evocare<s n="vblex"/></r></p></e>
 <e><p><l>evolve<s n="vblex"/></l><r>evolvere<s n="vblex"/></r></p></e>
 <e><p><l>exaggerate<s n="vblex"/></l><r>esagerare<s n="vblex"/></r></p></e>
-<e><p><l>examine<s n="vblex"/></l><r>visionare<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>examine<s n="vblex"/></l><r>visionare<s n="vblex"/></r></p></e>
+<e><p><l>examine<s n="vblex"/></l><r>esaminare<s n="vblex"/></r></p></e>
+<e><p><l>reexamine<s n="vblex"/></l><r>riesaminare<s n="vblex"/></r></p></e>
 <e><p><l>excavate<s n="vblex"/></l><r>scavare<s n="vblex"/></r></p></e>
 <e><p><l>exceed<s n="vblex"/></l><r>superare<s n="vblex"/></r></p></e>
 <e><p><l>except<s n="vblex"/></l><r>eccettuare<s n="vblex"/></r></p></e>
@@ -12303,7 +12305,10 @@
 <e><p><l>watch<g><b/>television</g><s n="vblex"/></l><r>guardare<g><b/>la<b/>televisione</g><s n="vblex"/></r></p></e>
 <e><p><l>watch<s n="vblex"/></l><r>vigilare<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>concern<s n="vblex"/></l><r>riguardare<s n="vblex"/></r></p></e>
-<e><p><l>confes<s n="vblex"/></l><r>confessare<s n="vblex"/></r></p></e>
+<e><p><l>confess<s n="vblex"/></l><r>confessare<s n="vblex"/></r></p></e>
+<e><p><l>compute<s n="vblex"/></l><r>computare<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>calculate<s n="vblex"/></l><r>computare<s n="vblex"/></r></p></e>
+<e><p><l>conciliate<s n="vblex"/></l><r>conciliare<s n="vblex"/></r></p></e>
 <e><p><l>configure<s n="vblex"/></l><r>configurare<s n="vblex"/></r></p></e>
 <e><p><l>contract<s n="vblex"/></l><r>contrarre<s n="vblex"/></r></p></e>
 <e><p><l>converge<s n="vblex"/></l><r>convergere<s n="vblex"/></r></p></e>
