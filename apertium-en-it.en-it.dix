@@ -11924,7 +11924,8 @@
 <e><p><l>purchase<s n="vblex"/></l><r>rilevare<s n="vblex"/></r></p></e>
 <e><p><l>pursue<s n="vblex"/></l><r>perseguire<s n="vblex"/></r></p></e>
 <e c="empujar la puerta"><p><l>push<s n="vblex"/></l><r>spingere<s n="vblex"/></r></p></e>
-<e c="pulsar un botón"><p><l>push<s n="vblex"/></l><r>pulsare<s n="vblex"/></r></p></e>
+<e c="pulsar un botón" i="yes"><p><l>push<s n="vblex"/></l><r>premere<s n="vblex"/></r></p></e>
+<e><p><l>pulsate<s n="vblex"/></l><r>pulsare<s n="vblex"/></r></p></e>
 <e><p><l>put<s n="vblex"/></l><r>mettere<s n="vblex"/></r></p></e>
 <e><p><l>put<s n="vblex"/></l><r>porre<s n="vblex"/></r></p></e>
 <e><p><l>qualify<s n="vblex"/></l><r>qualificare<s n="vblex"/></r></p></e>
@@ -11944,11 +11945,11 @@
 <e><p><l>react<s n="vblex"/></l><r>reagire<s n="vblex"/></r></p></e>
 <e><p><l>read<s n="vblex"/></l><r>leggere<s n="vblex"/></r></p></e>
 <e><p><l>realise<s n="vblex"/></l><r>realizzare<s n="vblex"/></r></p></e>
-<e><p><l>recall<s n="vblex"/></l><r>ritirare<s n="vblex"/></r></p></e>
+<e><p><l>retract<s n="vblex"/></l><r>ritirare<s n="vblex"/></r></p></e>
 <e><p><l>recall<s n="vblex"/></l><r>ricordare<s n="vblex"/></r></p></e>
 <e><p><l>receive<s n="vblex"/></l><r>ricevere<s n="vblex"/></r></p></e>
 <e><p><l>recite<s n="vblex"/></l><r>recitare<s n="vblex"/></r></p></e>
-<e><p><l>reckon<s n="vblex"/></l><r>considerare<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>reckon<s n="vblex"/></l><r>considerare<s n="vblex"/></r></p></e>
 <e><p><l>recognise<s n="vblex"/></l><r>riconoscere<s n="vblex"/></r></p></e>
 <e><p><l>reconcile<s n="vblex"/></l><r>riconciliare<s n="vblex"/></r></p></e>
 <e><p><l>reconstitute<s n="vblex"/></l><r>ricostituire<s n="vblex"/></r></p></e>
@@ -11959,11 +11960,10 @@
 <e><p><l>reduce<s n="vblex"/></l><r>ridurre<s n="vblex"/></r></p></e>
 <e><p><l>refer<s n="vblex"/></l><r>riferire<s n="vblex"/></r></p></e>
 <e><p><l>refuse<s n="vblex"/></l><r>rifiutare<s n="vblex"/></r></p></e>
-<e><p><l>regard<s n="vblex"/></l><r>considerare<s n="vblex"/></r></p></e>
 <e><p><l>register<s n="vblex"/></l><r>registrare<s n="vblex"/></r></p></e>
 <e><p><l>regret<s n="vblex"/></l><r>lamentare<s n="vblex"/></r></p></e>
 <e><p><l>regulate<s n="vblex"/></l><r>regolare<s n="vblex"/></r></p></e>
-<e><p><l>regulate<s n="vblex"/></l><r>regolamentare<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>regulate<s n="vblex"/></l><r>regolamentare<s n="vblex"/></r></p></e>
 <e><p><l>reign<s n="vblex"/></l><r>regnare<s n="vblex"/></r></p></e>
 <e><p><l>reinvest<s n="vblex"/></l><r>reinvestire<s n="vblex"/></r></p></e>
 <e><p><l>relate<s n="vblex"/></l><r>relazionare<s n="vblex"/></r></p></e>
@@ -12276,7 +12276,7 @@
 <e><p><l>validate<s n="vblex"/></l><r>validare<s n="vblex"/></r></p></e>
 <e><p><l>value<s n="vblex"/></l><r>valutare<s n="vblex"/></r></p></e>
 <e><p><l>vaporise<s n="vblex"/></l><r>vaporizzare<s n="vblex"/></r></p></e>
-<e><p><l>vary<s n="vblex"/></l><r>variare<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>vary<s n="vblex"/></l><r>variare<s n="vblex"/></r></p></e>
 <e><p><l>venerate<s n="vblex"/></l><r>venerare<s n="vblex"/></r></p></e>
 <e><p><l>ventilate<s n="vblex"/></l><r>ventilare<s n="vblex"/></r></p></e>
 <e><p><l>verify<s n="vblex"/></l><r>verificare<s n="vblex"/></r></p></e>
