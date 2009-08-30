@@ -19791,9 +19791,9 @@
 <e><p><l>starch<s n="n"/></l><r>fecola<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>start<s n="n"/></l><r>avvio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>state<s n="n"/></l><r>stato<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>statement<s n="n"/></l><r>dichiarazione<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>statement<s n="n"/></l><r>dichiarazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>statement<s n="n"/></l><r>enunciazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>station<s n="n"/></l><r>stagione<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>station<s n="n"/></l><r>stagione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>station<s n="n"/></l><r>stazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>statism<s n="n"/></l><r>statalismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>statue<s n="n"/></l><r>statua<s n="n"/><s n="f"/></r></p></e>
@@ -19830,12 +19830,12 @@
 <e><p><l>stoicism<s n="n"/></l><r>stoicismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>stomach<s n="n"/></l><r>stomaco<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>stone<s n="n"/></l><r>osso<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>stone<s n="n"/></l><r>pietra<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>stone<s n="n"/></l><r>pietra<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>stop<s n="n"/><s n="ND"/></l><r>stop<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>stop<s n="n"/><s n="sg"/></l><r>stop<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>stop<s n="n"/><s n="pl"/></l><r>stop<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>stop<s n="n"/></l><r>fermata<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>storage<s n="n"/></l><r>immagazzinamento<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>storage<s n="n"/></l><r>immagazzinamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>storage<s n="n"/></l><r>archiviazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>store<s n="n"/></l><r>negozio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>stork<s n="n"/></l><r>cicogna<s n="n"/><s n="f"/></r></p></e>
@@ -19854,13 +19854,11 @@
 <e><p><l>straw<b/>pulp<s n="n"/></l><r>pasta<g><b/>di<b/>paglia</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>stream<s n="n"/></l><r>corrente<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>street<s n="n"/></l><r>strada<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>street<s n="n"/></l><r>strada<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>streetcar<s n="n"/><s n="sg"/></l><r>tram<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>streetcar<s n="n"/><s n="pl"/></l><r>tram<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>strength<s n="n"/></l><r>forza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>stress<s n="n"/><s n="sg"/></l><r>stress<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>stress<s n="n"/></l><r>tensione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>strike<s n="n"/></l><r>sciopero<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>strike<s n="n"/></l><r>sciopero<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>string<s n="n"/></l><r>corda<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>stroke<s n="n"/></l><r>attacco<s n="n"/><s n="m"/></r></p></e>
@@ -19869,18 +19867,17 @@
 <e><p><l>stroke<s n="n"/></l><r>tratto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>strontium<s n="n"/></l><r>stronzio<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
 <e><p><l>structure<s n="n"/></l><r>struttura<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>structure<s n="n"/></l><r>compagine<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>structure<s n="n"/></l><r>compagine<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>structuring<s n="n"/></l><r>strutturazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>struggle<s n="n"/></l><r>lotta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>stucco<s n="n"/></l><r>stucco<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>student<s n="n"/></l><r>alunno<s n="n"/></r></p></e>
-<e><p><l>student<s n="n"/></l><r>studente<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>student<s n="n"/></l><r>studente<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>student<s n="n"/></l><r>studente<s n="n"/></r></p></e>
+<e r="LR"><p><l>student<s n="n"/></l><r>studente<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>student<s n="n"/></l><r>allievo<s n="n"/></r></p></e>
-<e r="LR"><p><l>student<s n="n"/></l><r>allievo<s n="n"/><s n="GD"/></r></p></e>
-<e><p><l>studio<s n="n"/></l><r>studio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>study<s n="n"/></l><r>studio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>stuff<s n="n"/></l><r>materiale<s n="n"/><s n="m"/></r></p></e>
+<e srl="studio"><p><l>studio<s n="n"/></l><r>studio<s n="n"/><s n="m"/></r></p></e>
+<e srl="study D"><p><l>study<s n="n"/></l><r>studio<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>stuff<s n="n"/></l><r>materiale<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>stuff<s n="n"/></l><r>materia<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>stump<s n="n"/></l><r>moncherino<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>stump<s n="n"/></l><r>moncone<s n="n"/><s n="m"/></r></p></e>
@@ -19912,7 +19909,7 @@
 <e><p><l>subtraction<s n="n"/></l><r>sottrazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>subway<s n="n"/></l><r>metro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>success<s n="n"/></l><r>successo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>success<s n="n"/></l><r>esito<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>success<s n="n"/></l><r>esito<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>successor<s n="n"/></l><r>successore<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>successor<s n="n"/></l><r>successore<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>suffering<s n="n"/></l><r>sofferenza<s n="n"/><s n="f"/></r></p></e>
@@ -19923,8 +19920,8 @@
 <e><p><l>suggestion<s n="n"/></l><r>suggerimento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>suicide<s n="n"/></l><r>suicidio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>suicide<s n="n"/></l><r>suicida<s n="n"/><s n="m"/></r></p></e>
-<e c="Jur."><p><l>suit<s n="n"/></l><r>contenzioso<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>suit<s n="n"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e>
+<e c="Jur." slr="contenzioso"><p><l>suit<s n="n"/></l><r>contenzioso<s n="n"/><s n="m"/></r></p></e>
+<e slr="vestito D"><p><l>suit<s n="n"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>suitability<s n="n"/></l><r>convenienza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>suitcase<s n="n"/></l><r>valigia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>summary<s n="n"/></l><r>sommario<s n="n"/><s n="m"/></r></p></e>
