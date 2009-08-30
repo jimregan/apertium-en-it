@@ -11906,9 +11906,9 @@
 <e><p><l>propose<s n="vblex"/></l><r>proporre<s n="vblex"/></r></p></e>
 <e><p><l>prosper<s n="vblex"/></l><r>prosperare<s n="vblex"/></r></p></e>
 <e><p><l>prostitute<s n="vblex"/></l><r>prostituire<s n="vblex"/></r></p></e>
-<e><p><l>protect<s n="vblex"/></l><r>cautelare<s n="vblex"/></r></p></e>
+<e><p><l>caution<s n="vblex"/></l><r>cautelare<s n="vblex"/></r></p></e>
 <e><p><l>protect<s n="vblex"/></l><r>proteggere<s n="vblex"/></r></p></e>
-<e><p><l>protect<s n="vblex"/></l><r>tutelare<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>protect<s n="vblex"/></l><r>tutelare<s n="vblex"/></r></p></e>
 <e><p><l>protest<s n="vblex"/></l><r>protestare<s n="vblex"/></r></p></e>
 <e><p><l>prove<s n="vblex"/></l><r>comprovare<s n="vblex"/></r></p></e>
 <e><p><l>provide<s n="vblex"/></l><r>fornire<s n="vblex"/></r></p></e>
@@ -11919,7 +11919,7 @@
 <e><p><l>pump<s n="vblex"/></l><r>pompare<s n="vblex"/></r></p></e>
 <e><p><l>punch<s n="vblex"/></l><r>attaccare<s n="vblex"/></r></p></e>
 <e><p><l>puncture<s n="vblex"/></l><r>pungere<s n="vblex"/></r></p></e>
-<e><p><l>punish<s n="vblex"/></l><r>castigare<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>punish<s n="vblex"/></l><r>castigare<s n="vblex"/></r></p></e>
 <e><p><l>punish<s n="vblex"/></l><r>punire<s n="vblex"/></r></p></e>
 <e><p><l>purchase<s n="vblex"/></l><r>rilevare<s n="vblex"/></r></p></e>
 <e><p><l>pursue<s n="vblex"/></l><r>perseguire<s n="vblex"/></r></p></e>
@@ -11934,7 +11934,7 @@
 <e><p><l>quote<s n="vblex"/></l><r>citare<s n="vblex"/></r></p></e>
 <e><p><l>race<s n="vblex"/></l><r>correre<s n="vblex"/></r></p></e>
 <e><p><l>rain<s n="vblex"/></l><r>piovere<s n="vblex"/></r></p></e>
-<e><p><l>raise<s n="vblex"/></l><r>aumentare<s n="vblex"/></r></p></e>
+<e><p><l>augment<s n="vblex"/></l><r>aumentare<s n="vblex"/></r></p></e>
 <e><p><l>raise<s n="vblex"/></l><r>alzare<s n="vblex"/></r></p></e>
 <e><p><l>range<s n="vblex"/></l><r>variare<s n="vblex"/></r></p></e>
 <e r="LR" c="alinear o colocar"><p><l>range<s n="vblex"/></l><r>allineare<s n="vblex"/></r></p></e>
@@ -11969,23 +11969,21 @@
 <e><p><l>relate<s n="vblex"/></l><r>relazionare<s n="vblex"/></r></p></e>
 <e><p><l>release<s n="vblex"/></l><r>liberare<s n="vblex"/></r></p></e>
 <e><p><l>relieve<s n="vblex"/></l><r>rilevare<s n="vblex"/></r></p></e>
-<e><p><l>relieve<s n="vblex"/></l><r>alleviare<s n="vblex"/></r></p></e>
+<e><p><l>alleviate<s n="vblex"/></l><r>alleviare<s n="vblex"/></r></p></e>
 <e><p><l>rely<s n="vblex"/></l><r>affidare<s n="vblex"/></r></p></e>
-<e><p><l>remain<s n="vblex"/></l><r>permanere<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>remain<s n="vblex"/></l><r>permanere<s n="vblex"/></r></p></e>
 <e><p><l>remain<s n="vblex"/></l><r>restare<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>remain<s n="vblex"/></l><r>rimanere<s n="vblex"/></r></p></e>
 <e><p><l>remain<s n="vblex"/></l><r>restare<s n="vblex"/></r></p></e>
-<e><p><l>remember<s n="vblex"/></l><r>accordare<s n="vblex"/></r></p></e>
+<e><p><l>concede<s n="vblex"/></l><r>accordare<s n="vblex"/></r></p></e>
 <e><p><l>remember<s n="vblex"/></l><r>ricordare<s n="vblex"/></r></p></e>
-<e><p><l>remind<s n="vblex"/></l><r>accordare<s n="vblex"/></r></p></e>
-<e><p><l>remind<s n="vblex"/></l><r>ricordare<s n="vblex"/></r></p></e>
-<e><p><l>remove<s n="vblex"/></l><r>ritirare<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>remind<s n="vblex"/></l><r>ricordare<s n="vblex"/></r></p></e>
 <e><p><l>remove<s n="vblex"/></l><r>togliere<s n="vblex"/></r></p></e>
 <e><p><l>renegotiate<s n="vblex"/></l><r>rinegoziare<s n="vblex"/></r></p></e>
 <e><p><l>renew<s n="vblex"/></l><r>rinnovare<s n="vblex"/></r></p></e>
 <e><p><l>reopen<s n="vblex"/></l><r>riaprire<s n="vblex"/></r></p></e>
 <e><p><l>reorganise<s n="vblex"/></l><r>riorganizzare<s n="vblex"/></r></p></e>
-<e><p><l>reorganise<s n="vblex"/></l><r>ridimensionare<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>reorganise<s n="vblex"/></l><r>ridimensionare<s n="vblex"/></r></p></e>
 <e><p><l>reorient<s n="vblex"/></l><r>riorientare<s n="vblex"/></r></p></e>
 <e><p><l>repair<s n="vblex"/></l><r>riparare<s n="vblex"/></r></p></e>
 <e><p><l>repatriate<s n="vblex"/></l><r>rimpatriare<s n="vblex"/></r></p></e>
@@ -12329,7 +12327,7 @@
 <e><p><l>win<s n="vblex"/></l><r>vincere<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>win<s n="vblex"/></l><r>guadagnare<s n="vblex"/></r></p></e>
 <e><p><l>wish<s n="vblex"/></l><r>desiderare<s n="vblex"/></r></p></e>
-<e><p><l>withdraw<s n="vblex"/></l><r>ritirare<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>withdraw<s n="vblex"/></l><r>ritirare<s n="vblex"/></r></p></e>
 <e><p><l>witness<s n="vblex"/></l><r>testimoniare<s n="vblex"/></r></p></e>
 <e><p><l>wonder<s n="vblex"/></l><r>domandarsi<s n="vblex"/></r></p></e>
 <e><p><l>work<s n="vblex"/></l><r>lavorare<s n="vblex"/></r></p></e>
@@ -15749,7 +15747,7 @@
 <e><p><l>eardrum<s n="n"/></l><r>timpano<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>earl<s n="n"/></l><r>conte<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>earl<s n="n"/></l><r>conte<s n="n"/></r></p></e>
-<e><p><l>earnings<s n="n"/><s n="pl"/></l><r>entrata<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>earnings<s n="n"/><s n="pl"/></l><r>entrata<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>earring<s n="n"/></l><r>orecchino<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>earth<s n="n"/></l><r>terra<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>earthquake<s n="n"/></l><r>terremoto<s n="n"/><s n="m"/></r></p></e>
@@ -15914,8 +15912,7 @@
 <e r="LR"><p><l>entity<s n="n"/><s n="sg"/></l><r>entità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>entity<s n="n"/><s n="pl"/></l><r>entità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>entrance<s n="n"/></l><r>entrata<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>entry<s n="n"/></l><r>entrata<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>entry<s n="n"/><s n="sg"/></l><r>entrata<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>entry<s n="n"/></l><r>entrata<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>enumeration<s n="n"/></l><r>elencazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>envelope<s n="n"/></l><r>dotazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>environment<s n="n"/></l><r>ambiente<s n="n"/><s n="m"/></r></p></e>
@@ -16943,7 +16940,6 @@
 <e><p><l>incineration<s n="n"/></l><r>incenerimento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>incitement<s n="n"/></l><r>incitamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>inclination<s n="n"/></l><r>inclinazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>income<s n="n"/></l><r>entrata<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>income<s n="n"/></l><r>reddito<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>incompatibility<s n="n"/><s n="ND"/></l><r>incompatibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>incompatibility<s n="n"/><s n="sg"/></l><r>incompatibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -17013,9 +17009,8 @@
 <e><p><l>innervation<s n="n"/></l><r>innervazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>innocence<s n="n"/></l><r>innocenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>innovation<s n="n"/></l><r>innovazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>input<s n="n"/></l><r>entrata<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>input<s n="n"/></l><r>entrata<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>inquiry<s n="n"/></l><r>consulta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>inquiry<s n="n"/></l><r>ricerca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>insect<s n="n"/></l><r>insetto<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>insertion<s n="n"/></l><r>inserimento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>insertion<s n="n"/></l><r>inserzione<s n="n"/><s n="f"/></r></p></e>
@@ -19187,8 +19182,7 @@
 <e><p><l>revaluation<s n="n"/></l><r>rivalutazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>revelation<s n="n"/></l><r>rivelazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>revelation<s n="n"/></l><r>rivelazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>revenue<s n="n"/><s n="sg"/></l><r>entrata<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>revenue<s n="n"/><s n="pl"/></l><r>entrata<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>revenue<s n="n"/></l><r>entrata<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>review<s n="n"/></l><r>rivista<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>revisitation<s n="n"/></l><r>rivisitazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>revitalisation<s n="n"/></l><r>rilancio<s n="n"/><s n="m"/></r></p></e>
@@ -19937,8 +19931,8 @@
 <e><p><l>summation<s n="n"/></l><r>sommazione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>summation<s n="n"/></l><r>sommatoria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>summer<s n="n"/></l><r>estate<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>summit<s n="n"/></l><r>vertice<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>summit<s n="n"/></l><r>vertice<s n="n"/><s n="m"/></r></p></e>
+<e srl="summt D"><p><l>summit<s n="n"/></l><r>vertice<s n="n"/><s n="m"/></r></p></e>
+<e srl="vertex"><p><l>vertex<s n="n"/></l><r>vertice<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>summit<s n="n"/><s n="ND"/></l><r>sommità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>summit<s n="n"/><s n="sg"/></l><r>sommità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>summit<s n="n"/><s n="pl"/></l><r>sommità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -19955,12 +19949,11 @@
 <e><p><l>supply<s n="n"/></l><r>provvista<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>support<s n="n"/></l><r>appoggio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>supposition<s n="n"/></l><r>supposizione<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>supposition<s n="n"/><s n="ND"/></l><r>budget<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>surface<s n="n"/></l><r>superficie<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>surgeon<s n="n"/></l><r>chirurgo<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>surgeon<s n="n"/></l><r>chirurgo<s n="n"/></r></p></e>
-<e><p><l>surgery<s n="n"/></l><r>consulta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>surgery<s n="n"/></l><r>chirurgia<s n="n"/><s n="f"/></r></p></e>
+<e slr="consulta"><p><l>surgery<s n="n"/></l><r>consulta<s n="n"/><s n="f"/></r></p></e>
+<e slr="chirurgia D"><p><l>surgery<s n="n"/></l><r>chirurgia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>surname<s n="n"/></l><r>cognome<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>surplus<s n="n"/><s n="ND"/></l><r>surplus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>surplus<s n="n"/><s n="sg"/></l><r>surplus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -19982,9 +19975,10 @@
 <e><p><l>swimming<b/>pool<s n="n"/></l><r>piscina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>swindle<s n="n"/></l><r>truffa<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>swine<s n="n"/></l><r>porco<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>swing<s n="n"/></l><r>cambio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>swing<s n="n"/></l><r>altalena<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>swing<s n="n"/></l><r>oscillazione<s n="n"/><s n="f"/></r></p></e>
+<e slr="cambio" r="LR"><p><l>swing<s n="n"/></l><r>cambio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>change<s n="n"/></l><r>cambio<s n="n"/><s n="m"/></r></p></e>
+<e slr="altalena"><p><l>swing<s n="n"/></l><r>altalena<s n="n"/><s n="f"/></r></p></e>
+<e slr="oscillazione D"><p><l>swing<s n="n"/></l><r>oscillazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>switch<s n="n"/></l><r>cambio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>switching<s n="n"/></l><r>commutazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>sword<s n="n"/></l><r>spada<s n="n"/><s n="f"/></r></p></e>
@@ -20001,7 +19995,6 @@
 <e><p><l>syncretism<s n="n"/></l><r>sincretismo<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>syndicalist<s n="n"/></l><r>sindacalista<s n="n"/></r></p></e>
 <e r="LR"><p><l>syndicalist<s n="n"/></l><r>sindacalista<s n="n"/><s n="GD"/></r></p></e>
-<e><p><l>syndrome<s n="n"/></l><r>sindrome<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>syndrome<s n="n"/></l><r>sindrome<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>synonym<s n="n"/></l><r>sinonimo<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>syntax<s n="n"/><s n="ND"/></l><r>sintassi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -20010,10 +20003,8 @@
 <e><p><l>syringe<s n="n"/></l><r>siringa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>system<s n="n"/></l><r>sistema<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>systematisation<s n="n"/></l><r>sistematizzazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>table<s n="n"/></l><r>tavolo<s n="n"/><s n="GD"/></r></p></e>
-<e><p><l>table<s n="n"/></l><r>tavolo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>table<s n="n"/></l><r>tavolo<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>table<s n="n"/></l><r>tavola<s n="n"/><s n="f"/></r></p></e>
+<e slr="tavolo D"><p><l>table<s n="n"/></l><r>tavolo<s n="n"/><s n="m"/></r></p></e>
+<e slr="tavola"><p><l>table<s n="n"/></l><r>tavola<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tableware<s n="n"/></l><r>vasellame<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>taboo<s n="n"/><s n="ND"/></l><r>tabù<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>taboo<s n="n"/><s n="sg"/></l><r>tabù<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -20048,18 +20039,17 @@
 <e r="RL"><p><l>tap<b/>dancer<s n="n"/></l><r>ballerino<g><b/>di<b/>tip<b/>tap</g><s n="n"/></r></p></e>
 <e><p><l>tapestry<s n="n"/></l><r>arazzo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tar<s n="n"/></l><r>catrame<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>target<s n="n"/></l><r>bianco<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>target<s n="n"/></l><r>diana<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>white<s n="n"/></l><r>bianco<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>target<s n="n"/></l><r>bersaglio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>objective<s n="n"/></l><r>obiettivo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>task<s n="n"/></l><r>lavoro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>taste<s n="n"/></l><r>gusto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tasting<s n="n"/></l><r>degustazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tavern<s n="n"/></l><r>taverna<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>tax<s n="n"/></l><r>imposta<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>tax<s n="n"/></l><r>imposta<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>tax<s n="n"/></l><r>tasso<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>tax<s n="n"/></l><r>tasso<s n="n"/></r></p></e>
-<e><p><l>taxation<s n="n"/></l><r>imposta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>taxation<s n="n"/></l><r>imposizione<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>taxation<s n="n"/></l><r>imposizione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>taxation<s n="n"/></l><r>tassazione<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>taxi<s n="n"/><s n="sg"/></l><r>taxi<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>taxi<s n="n"/><s n="pl"/></l><r>taxi<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -20077,7 +20067,8 @@
 <e><p><l>teaching<s n="n"/></l><r>insegnamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>team<s n="n"/></l><r>squadra<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>team<s n="n"/></l><r>maestranze<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>tear<s n="n"/></l><r>lacrima<s n="n"/><s n="f"/></r></p></e>
+<e slr="lacrima D"><p><l>tear<s n="n"/></l><r>lacrima<s n="n"/><s n="f"/></r></p></e>
+<e slr="strappo"><p><l>tear<s n="n"/></l><r>strappo<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>technician<s n="n"/></l><r>tecnico<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>technician<s n="n"/></l><r>tecnico<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>technology<s n="n"/></l><r>tecnologia<s n="n"/><s n="f"/></r></p></e>
@@ -20103,7 +20094,8 @@
 <e><p><l>tender<s n="n"/></l><r>offerta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tennis<s n="n"/></l><r>tennis<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
 <e r="LR"><p><l>tennist<s n="n"/></l><r>tennista<s n="n"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>tennist<s n="n"/></l><r>tennista<s n="n"/></r></p></e>
+<e r="LR"><p><l>tennis<b/>player<s n="n"/></l><r>tennista<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>tennis<b/>player<s n="n"/></l><r>tennista<s n="n"/></r></p></e>
 <e><p><l>tenor<s n="n"/></l><r>tenore<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tension<s n="n"/></l><r>tensione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tent<s n="n"/></l><r>negozio<s n="n"/><s n="m"/></r></p></e>
@@ -20132,7 +20124,7 @@
 <e><p><l>therapy<s n="n"/></l><r>terapia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>thermodynamics<s n="n"/></l><r>termodinamica<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>thermometer<s n="n"/></l><r>termometro<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>thesis<s n="n"/><s n="ND"/></l><r>tesi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+<e r="RL"><p><l>thesis<s n="n"/><s n="ND"/></l><r>tesi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>thesis<s n="n"/><s n="sg"/></l><r>tesi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>thesis<s n="n"/><s n="pl"/></l><r>tesi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>thief<s n="n"/></l><r>ladro<s n="n"/><s n="GD"/></r></p></e>
@@ -20153,18 +20145,20 @@
 <e><p><l>thulium<s n="n"/></l><r>tulio<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
 <e><p><l>thunder<s n="n"/></l><r>tuono<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>thunderbolt<s n="n"/></l><r>fulmine<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>ticket<s n="n"/></l><r>entrata<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>ticket<s n="n"/></l><r>biglietto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ticket<b/>office<s n="n"/></l><r>biglietteria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tide<s n="n"/></l><r>marea<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>tie<s n="n"/></l><r>cravatta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>tie<s n="n"/></l><r>pareggio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>tie<s n="n"/></l><r>collante<s n="n"/><s n="m"/></r></p></e>
+<e slr="cravatta D"><p><l>tie<s n="n"/></l><r>cravatta<s n="n"/><s n="f"/></r></p></e>
+<e slr="pareggio"><p><l>tie<s n="n"/></l><r>pareggio<s n="n"/><s n="m"/></r></p></e>
+<e slr="collante"><p><l>tie<s n="n"/></l><r>collante<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tiger<s n="n"/></l><r>tigre<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>time<s n="n"/></l><r>ora<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>time<s n="n"/></l><r>tempo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
-<e r="RL"><p><l>time<s n="n"/><s n="ND"/></l><r>tempo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-<e r="RL"><p><l>time<s n="n"/><s n="ND"/></l><r>tempo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e><p><l>time<s n="n"/></l><r>volta<s n="n"/><s n="f"/></r></p></e>
+<e slr="ora"><p><l>time<s n="n"/></l><r>ora<s n="n"/><s n="f"/></r></p></e>
+<e slr="tempo D"><p><l>time<s n="n"/></l><r>tempo<s n="n"/><s n="m"/></r></p></e>
+<e slr="volta" srl="time D"><p><l>time<s n="n"/></l><r>volta<s n="n"/><s n="f"/></r></p></e>
+<e slr="volta D" srl="vault"><p><l>vault<s n="n"/></l><r>volta<s n="n"/><s n="f"/></r></p></e>
+<e slr="tomba" r="LR"><p><l>vault<s n="n"/></l><r>tomba<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>tomb<s n="n"/></l><r>tomba<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>crypt<s n="n"/></l><r>cripta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>timetable<s n="n"/></l><r>orario<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tin<s n="n"/></l><r>stagno<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tin<s n="n"/></l><r>latta<s n="n"/><s n="f"/></r></p></e>
