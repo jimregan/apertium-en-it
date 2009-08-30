@@ -10832,14 +10832,6 @@
 ^.<sent>$ ^come# close<vblex><ger>$	. #Avvicinarsi\<vblex\>\<ger\>
 ^.<sent>$ ^come# close<vblex><pprs>$	. #Avvicinarsi\<vblex\>\<ger\>
 ^.<sent>$ ^come# close<vblex><subs>$	. #Avvicinarsi\<vblex\>\<inf\>
-^.<sent>$ ^calculate<vblex><inf>$	. \@Calculate\<vblex\>\<inf\>
-^.<sent>$ ^calculate<vblex><pres>$	. \@Calculate\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^calculate<vblex><pri><p3><sg>$	. \@Calculate\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^calculate<vblex><past>$	. \@Calculate\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^calculate<vblex><pp>$	. \@Calculate\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^calculate<vblex><ger>$	. \@Calculate\<vblex\>\<ger\>
-^.<sent>$ ^calculate<vblex><pprs>$	. \@Calculate\<vblex\>\<ger\>
-^.<sent>$ ^calculate<vblex><subs>$	. \@Calculate\<vblex\>\<inf\>
 ^.<sent>$ ^campaign<vblex><inf>$	. \@Campaign\<vblex\>\<inf\>
 ^.<sent>$ ^campaign<vblex><pres>$	. \@Campaign\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^campaign<vblex><pri><p3><sg>$	. \@Campaign\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -11170,32 +11162,8 @@
 ^.<sent>$ ^complement<vblex><ger>$	. \@Complement\<vblex\>\<ger\>
 ^.<sent>$ ^complement<vblex><pprs>$	. \@Complement\<vblex\>\<ger\>
 ^.<sent>$ ^complement<vblex><subs>$	. \@Complement\<vblex\>\<inf\>
-^.<sent>$ ^compute<vblex><inf>$	. \@Compute\<vblex\>\<inf\>
-^.<sent>$ ^compute<vblex><pres>$	. \@Compute\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^compute<vblex><pri><p3><sg>$	. \@Compute\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^compute<vblex><past>$	. \@Compute\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^compute<vblex><pp>$	. \@Compute\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^compute<vblex><ger>$	. \@Compute\<vblex\>\<ger\>
-^.<sent>$ ^compute<vblex><pprs>$	. \@Compute\<vblex\>\<ger\>
-^.<sent>$ ^compute<vblex><subs>$	. \@Compute\<vblex\>\<inf\>
 ^.<sent>$ ^conceive<vblex><pres>$	. Concepe/Concepisce
 ^.<sent>$ ^conceive<vblex><pri><p3><sg>$	. Concepe/Concepisce
-^.<sent>$ ^concern<vblex><inf>$	. \@Concern\<vblex\>\<inf\>
-^.<sent>$ ^concern<vblex><pres>$	. \@Concern\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^concern<vblex><pri><p3><sg>$	. \@Concern\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^concern<vblex><past>$	. \@Concern\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^concern<vblex><pp>$	. \@Concern\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^concern<vblex><ger>$	. \@Concern\<vblex\>\<ger\>
-^.<sent>$ ^concern<vblex><pprs>$	. \@Concern\<vblex\>\<ger\>
-^.<sent>$ ^concern<vblex><subs>$	. \@Concern\<vblex\>\<inf\>
-^.<sent>$ ^conciliate<vblex><inf>$	. \@Conciliate\<vblex\>\<inf\>
-^.<sent>$ ^conciliate<vblex><pres>$	. \@Conciliate\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^conciliate<vblex><pri><p3><sg>$	. \@Conciliate\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^conciliate<vblex><past>$	. \@Conciliate\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^conciliate<vblex><pp>$	. \@Conciliate\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^conciliate<vblex><ger>$	. \@Conciliate\<vblex\>\<ger\>
-^.<sent>$ ^conciliate<vblex><pprs>$	. \@Conciliate\<vblex\>\<ger\>
-^.<sent>$ ^conciliate<vblex><subs>$	. \@Conciliate\<vblex\>\<inf\>
 ^.<sent>$ ^condition<vblex><inf>$	. \@Condition\<vblex\>\<inf\>
 ^.<sent>$ ^condition<vblex><pres>$	. \@Condition\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^condition<vblex><pri><p3><sg>$	. \@Condition\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -11204,39 +11172,7 @@
 ^.<sent>$ ^condition<vblex><ger>$	. \@Condition\<vblex\>\<ger\>
 ^.<sent>$ ^condition<vblex><pprs>$	. \@Condition\<vblex\>\<ger\>
 ^.<sent>$ ^condition<vblex><subs>$	. \@Condition\<vblex\>\<inf\>
-^.<sent>$ ^confess<vblex><inf>$	. \@Confess\<vblex\>\<inf\>
-^.<sent>$ ^confess<vblex><pres>$	. \@Confess\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^confess<vblex><pri><p3><sg>$	. \@Confess\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^confess<vblex><past>$	. \@Confess\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^confess<vblex><pp>$	. \@Confess\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^confess<vblex><ger>$	. \@Confess\<vblex\>\<ger\>
-^.<sent>$ ^confess<vblex><pprs>$	. \@Confess\<vblex\>\<ger\>
-^.<sent>$ ^confess<vblex><subs>$	. \@Confess\<vblex\>\<inf\>
-^.<sent>$ ^configure<vblex><inf>$	. \@Configure\<vblex\>\<inf\>
-^.<sent>$ ^configure<vblex><pres>$	. \@Configure\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^configure<vblex><pri><p3><sg>$	. \@Configure\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^configure<vblex><past>$	. \@Configure\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^configure<vblex><pp>$	. \@Configure\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^configure<vblex><ger>$	. \@Configure\<vblex\>\<ger\>
-^.<sent>$ ^configure<vblex><pprs>$	. \@Configure\<vblex\>\<ger\>
-^.<sent>$ ^configure<vblex><subs>$	. \@Configure\<vblex\>\<inf\>
 ^.<sent>$ ^consist<vblex><past>$	. Consist√®/Sistette
-^.<sent>$ ^constrain<vblex><inf>$	. #Costringere\<vblex\>\<inf\>
-^.<sent>$ ^constrain<vblex><pres>$	. #Costringere\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^constrain<vblex><pri><p3><sg>$	. #Costringere\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^constrain<vblex><past>$	. #Costringere\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^constrain<vblex><pp>$	. #Costringere\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^constrain<vblex><ger>$	. #Costringere\<vblex\>\<ger\>
-^.<sent>$ ^constrain<vblex><pprs>$	. #Costringere\<vblex\>\<ger\>
-^.<sent>$ ^constrain<vblex><subs>$	. #Costringere\<vblex\>\<inf\>
-^.<sent>$ ^contract<vblex><inf>$	. \@Contract\<vblex\>\<inf\>
-^.<sent>$ ^contract<vblex><pres>$	. \@Contract\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^contract<vblex><pri><p3><sg>$	. \@Contract\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^contract<vblex><past>$	. \@Contract\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^contract<vblex><pp>$	. \@Contract\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^contract<vblex><ger>$	. \@Contract\<vblex\>\<ger\>
-^.<sent>$ ^contract<vblex><pprs>$	. \@Contract\<vblex\>\<ger\>
-^.<sent>$ ^contract<vblex><subs>$	. \@Contract\<vblex\>\<inf\>
 ^.<sent>$ ^contravene<vblex><inf>$	. \@Contravene\<vblex\>\<inf\>
 ^.<sent>$ ^contravene<vblex><pres>$	. \@Contravene\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^contravene<vblex><pri><p3><sg>$	. \@Contravene\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -11245,14 +11181,6 @@
 ^.<sent>$ ^contravene<vblex><ger>$	. \@Contravene\<vblex\>\<ger\>
 ^.<sent>$ ^contravene<vblex><pprs>$	. \@Contravene\<vblex\>\<ger\>
 ^.<sent>$ ^contravene<vblex><subs>$	. \@Contravene\<vblex\>\<inf\>
-^.<sent>$ ^converge<vblex><inf>$	. \@Converge\<vblex\>\<inf\>
-^.<sent>$ ^converge<vblex><pres>$	. \@Converge\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^converge<vblex><pri><p3><sg>$	. \@Converge\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^converge<vblex><past>$	. \@Converge\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^converge<vblex><pp>$	. \@Converge\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^converge<vblex><ger>$	. \@Converge\<vblex\>\<ger\>
-^.<sent>$ ^converge<vblex><pprs>$	. \@Converge\<vblex\>\<ger\>
-^.<sent>$ ^converge<vblex><subs>$	. \@Converge\<vblex\>\<inf\>
 ^.<sent>$ ^counter<vblex><inf>$	. \@Counter\<vblex\>\<inf\>
 ^.<sent>$ ^counter<vblex><pres>$	. \@Counter\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^counter<vblex><pri><p3><sg>$	. \@Counter\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -33336,22 +33264,6 @@
 ^.<sent>$ ^reedit<vblex><ger>$	. \@Reedit\<vblex\>\<ger\>
 ^.<sent>$ ^reedit<vblex><pprs>$	. \@Reedit\<vblex\>\<ger\>
 ^.<sent>$ ^reedit<vblex><subs>$	. \@Reedit\<vblex\>\<inf\>
-^.<sent>$ ^rearm<vblex><inf>$	. \@Rearm\<vblex\>\<inf\>
-^.<sent>$ ^rearm<vblex><pres>$	. \@Rearm\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^rearm<vblex><pri><p3><sg>$	. \@Rearm\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^rearm<vblex><past>$	. \@Rearm\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^rearm<vblex><pp>$	. \@Rearm\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^rearm<vblex><ger>$	. \@Rearm\<vblex\>\<ger\>
-^.<sent>$ ^rearm<vblex><pprs>$	. \@Rearm\<vblex\>\<ger\>
-^.<sent>$ ^rearm<vblex><subs>$	. \@Rearm\<vblex\>\<inf\>
-^.<sent>$ ^reexamine<vblex><inf>$	. \@Reexamine\<vblex\>\<inf\>
-^.<sent>$ ^reexamine<vblex><pres>$	. \@Reexamine\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^reexamine<vblex><pri><p3><sg>$	. \@Reexamine\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^reexamine<vblex><past>$	. \@Reexamine\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^reexamine<vblex><pp>$	. \@Reexamine\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^reexamine<vblex><ger>$	. \@Reexamine\<vblex\>\<ger\>
-^.<sent>$ ^reexamine<vblex><pprs>$	. \@Reexamine\<vblex\>\<ger\>
-^.<sent>$ ^reexamine<vblex><subs>$	. \@Reexamine\<vblex\>\<inf\>
 ^.<sent>$ ^rerun<vblex><inf>$	. \@Rerun\<vblex\>\<inf\>
 ^.<sent>$ ^rerun<vblex><pres>$	. \@Rerun\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^rerun<vblex><pri><p3><sg>$	. \@Rerun\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -35681,18 +35593,12 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> tutelare<vblex>/cautelare<vblex>/proteggere<vblex>$
 #\^.\<sent\> punire<vblex>/castigare<vblex>$
 #\^.\<sent\> punire<vblex>/castigare<vblex>$
-#\^.\<sent\> pulsare<vblex>/spingere<vblex>$
-#\^.\<sent\> pulsare<vblex>/spingere<vblex>$
 #\^.\<sent\> porre<vblex>/mettere<vblex>$
 #\^.\<sent\> porre<vblex>/mettere<vblex>$
 #\^.\<sent\> alzare<vblex>/aumentare<vblex>$
 #\^.\<sent\> alzare<vblex>/aumentare<vblex>$
 #\^.\<sent\> variare<vblex>/allineare<vblex>$
 #\^.\<sent\> variare<vblex>/allineare<vblex>$
-#\^.\<sent\> ritirare<vblex>/ricordare<vblex>$
-#\^.\<sent\> ritirare<vblex>/ricordare<vblex>$
-#\^.\<sent\> regolare<vblex>/regolamentare<vblex>$
-#\^.\<sent\> regolare<vblex>/regolamentare<vblex>$
 #\^.\<sent\> rilevare<vblex>/alleviare<vblex>$
 #\^.\<sent\> rilevare<vblex>/alleviare<vblex>$
 #\^.\<sent\> restare<vblex>/rimanere<vblex>/permanere<vblex>$
@@ -35760,8 +35666,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> animare<vblex>/riscaldare<vblex>$
 #\^.\<sent\> lavare<vblex>/strofinare<vblex>$
 #\^.\<sent\> lavare<vblex>/strofinare<vblex>$
-#\^.\<sent\> vigilare<vblex>/guardare<vblex>$
-#\^.\<sent\> vigilare<vblex>/guardare<vblex>$
 #\^.\<sent\> debilitare<vblex>/indebolire<vblex>$
 #\^.\<sent\> debilitare<vblex>/indebolire<vblex>$
 #\^.\<sent\> bene<preadv>/molto<preadv>$
