@@ -15671,10 +15671,9 @@
 <e r="LR"><p><l>donor<s n="n"/></l><r>donatore<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>donor<s n="n"/></l><r>donatore<s n="n"/></r></p></e>
 <e><p><l>door<s n="n"/></l><r>porta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>doping<s n="n"/></l><r>dopaggio<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>doping<s n="n"/><s n="ND"/></l><r>doping<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e><p><l>doping<s n="n"/></l><r>dopaggio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
 <e><p><l>dormitory<s n="n"/></l><r>dormitorio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>dose<s n="n"/></l><r>dose<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+<e><p><l>dose<s n="n"/></l><r>dose<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>dossier<s n="n"/><s n="ND"/></l><r>dossier<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>dossier<s n="n"/><s n="sg"/></l><r>dossier<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>dossier<s n="n"/><s n="pl"/></l><r>dossier<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -16001,7 +16000,8 @@
 <e><p><l>excrement<s n="n"/></l><r>escremento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>excretion<s n="n"/></l><r>escrezione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>execution<s n="n"/></l><r>esecuzione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>executive<s n="n"/></l><r>esecutivo<s n="n"/></r></p></e>
+<e r="RL"><p><l>executive<s n="n"/></l><r>esecutivo<s n="n"/></r></p></e>
+<e r="LR"><p><l>executive<s n="n"/></l><r>esecutivo<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>exemption<s n="n"/></l><r>esenzione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>exercise<s n="n"/></l><r>esercizio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>exhibit<s n="n"/></l><r>esposto<s n="n"/><s n="m"/></r></p></e>
@@ -16011,7 +16011,6 @@
 <e><p><l>exhortation<s n="n"/></l><r>esortazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>exile<s n="n"/></l><r>esilio<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>exile<s n="n"/></l><r>esiliato<s n="n"/></r></p></e>
-<e r="LR"><p><l>exile<s n="n"/></l><r>esiliato<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>existence<s n="n"/></l><r>esistenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>existentialism<s n="n"/></l><r>esistenzialismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>exodus<s n="n"/></l><r>esodo<s n="n"/><s n="m"/></r></p></e>
@@ -16369,10 +16368,10 @@
 <e><p><l>funeral<s n="n"/></l><r>funerale<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fungus<s n="n"/></l><r>fungo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>funicular<s n="n"/></l><r>funicolare<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>fur<s n="n"/></l><r>corteccia<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>cortex<s n="n"/></l><r>corteccia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fur<s n="n"/></l><r>pellicceria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>furniture<s n="n"/></l><r>arredo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>furniture<s n="n"/></l><r>arredamento<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>furniture<s n="n"/></l><r>arredamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fury<s n="n"/></l><r>furia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fuse<s n="n"/></l><r>stoppino<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fuselage<s n="n"/></l><r>fusoliera<s n="n"/><s n="f"/></r></p></e>
@@ -17273,13 +17272,12 @@
 <e><p><l>leader<s n="n"/></l><r>dirigente<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>leader<s n="n"/></l><r>leader<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>leaf<s n="n"/></l><r>foglia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>leaf<s n="n"/></l><r>foglio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>sheet<g><b/>of<b/>paper</g><s n="n"/></l><r>foglio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>league<s n="n"/></l><r>lega<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>leak<s n="n"/></l><r>filtrazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>leap<s n="n"/></l><r>salto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>learning<s n="n"/></l><r>apprendimento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>lease<s n="n"/></l><r>locazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>leather<s n="n"/></l><r>corteccia<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>leather<s n="n"/></l><r>pelle<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>leave<s n="n"/></l><r>congedo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>lecture<s n="n"/></l><r>conferenza<s n="n"/><s n="f"/></r></p></e>
@@ -18823,7 +18821,7 @@
 <e r="LR"><p><l>pudding<s n="n"/><s n="pl"/></l><r>pudding<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>puddle<s n="n"/></l><r>pozzanghera<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>pulley<s n="n"/></l><r>carrucola<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>pulse<s n="n"/></l><r>pulsazione<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>pulsation<s n="n"/></l><r>pulsazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>pulverisation<s n="n"/></l><r>polverizzazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>pump<s n="n"/></l><r>bomba<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>punishment<s n="n"/></l><r>castigo<s n="n"/><s n="m"/></r></p></e>
@@ -19544,7 +19542,6 @@
 <e r="RL"><p><l>skier<s n="n"/></l><r>sciatore<s n="n"/></r></p></e>
 <e r="LR"><p><l>skill<s n="n"/><s n="sg"/></l><r>abilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>skill<s n="n"/><s n="pl"/></l><r>abilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e><p><l>skin<s n="n"/></l><r>corteccia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>skin<s n="n"/></l><r>pelle<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>skirt<s n="n"/></l><r>gonna<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>skittle<s n="n"/></l><r>birillo<s n="n"/><s n="m"/></r></p></e>
