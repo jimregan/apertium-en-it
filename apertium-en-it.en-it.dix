@@ -14735,7 +14735,6 @@
 <e><p><l>choreography<s n="n"/></l><r>coreografia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>chorus<s n="n"/></l><r>coro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>christianisation<s n="n"/></l><r>cristianizzazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>christianization<s n="n"/></l><r>cristianizzazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>christmas<s n="n"/></l><r>natale<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>chromium<s n="n"/></l><r>cromo<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
 <e><p><l>chromosome<s n="n"/></l><r>cromosoma<s n="n"/><s n="m"/></r></p></e>
@@ -16073,15 +16072,8 @@
 <e r="LR"><p><l>extremity<s n="n"/><s n="pl"/></l><r>estremità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>extremity<s n="n"/><s n="ND"/></l><r>estremità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>eye<s n="n"/></l><r>occhio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>eyebrow<s n="n"/></l><r>sopracciglio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e><p><l>eyebrow<s n="n"/></l><r>sopracciglio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-<e><p><l>eyebrow<s n="n"/></l><r>sopracciglio<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>eyebrow<s n="n"/></l><r>sopracciglio<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
 <e><p><l>eyebrow<s n="n"/></l><r>sopracciglio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>eyelash<s n="n"/></l><r>ciglio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e><p><l>eyelash<s n="n"/></l><r>ciglio<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>eyelash<s n="n"/><s n="sg"/></l><r>ciglio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e><p><l>eyelash<s n="n"/><s n="pl"/></l><r>ciglio<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>eyelash<s n="n"/></l><r>ciglio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fabric<s n="n"/></l><r>tessuto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>face<s n="n"/></l><r>faccia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>face<s n="n"/></l><r>viso<s n="n"/><s n="m"/></r></p></e>
@@ -17217,14 +17209,9 @@
 <e><p><l>kinship<s n="n"/></l><r>parentela<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>kiosk<s n="n"/></l><r>chiosco<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>kiss<s n="n"/></l><r>bacio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>kiss<s n="n"/></l><r>bacetto<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>kiss<s n="n"/></l><r>bacetto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>kitchen<s n="n"/></l><r>cucina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>kite<s n="n"/></l><r>aquilone<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>knee<s n="n"/></l><r>ginocchio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e><p><l>knee<s n="n"/></l><r>ginocchio<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>knee<s n="n"/></l><r>ginocchio<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>knee<s n="n"/></l><r>ginocchio<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>knee<s n="n"/><s n="pl"/></l><r>ginocchio<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e><p><l>knee<s n="n"/></l><r>ginocchio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>knife<s n="n"/></l><r>coltello<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>knight<s n="n"/></l><r>cavaliere<s n="n"/><s n="m"/></r></p></e>
@@ -17507,7 +17494,7 @@
 <e r="LR" c="en masculí per defecte"><p><l>manager<s n="n"/></l><r>direttore<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL" c="en masculí per defecte"><p><l>manager<s n="n"/></l><r>direttore<s n="n"/></r></p></e>
 <e><p><l>manager<s n="n"/></l><r>responsabile<s n="n"/><s n="mf"/></r></p></e>
-<e><p><l>managership<s n="n"/></l><r>dirigenza<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>management<s n="n"/></l><r>dirigenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>manbag<s n="n"/></l><r>borsello<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>mandate<s n="n"/></l><r>mandato<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>mane<s n="n"/></l><r>criniera<s n="n"/><s n="f"/></r></p></e>
@@ -19911,12 +19898,14 @@
 <e><p><l>suffrage<s n="n"/></l><r>suffragio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>sugar<s n="n"/></l><r>zucchero<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>suggestion<s n="n"/></l><r>suggerimento<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>suicide<s n="n"/></l><r>suicidio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>suicide<s n="n"/></l><r>suicida<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>suicide<s n="n"/></l><r>suicidio<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>suicide<s n="n"/></l><r>suicida<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>suicide<s n="n"/></l><r>suicida<s n="n"/></r></p></e>
 <e c="Jur." slr="contenzioso"><p><l>suit<s n="n"/></l><r>contenzioso<s n="n"/><s n="m"/></r></p></e>
 <e slr="vestito D"><p><l>suit<s n="n"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>suitability<s n="n"/></l><r>convenienza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>suitcase<s n="n"/></l><r>valigia<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>vodka<s n="n"/></l><r>vodka<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>summary<s n="n"/></l><r>sommario<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>summation<s n="n"/></l><r>sommazione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>summation<s n="n"/></l><r>sommatoria<s n="n"/><s n="f"/></r></p></e>
@@ -20091,7 +20080,7 @@
 <e><p><l>tent<s n="n"/></l><r>negozio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>terbium<s n="n"/></l><r>terbio<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
 <e c="Ling."><p><l>term<s n="n"/></l><r>termine<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>term<g><b/>of<b/>office</g><s n="n"/></l><r>legislatura<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>term<g><b/>of<b/>office</g><s n="n"/></l><r>legislatura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>terminal<s n="n"/></l><r>terminale<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>termination<s n="n"/></l><r>terminazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>terminology<s n="n"/></l><r>terminologia<s n="n"/><s n="f"/></r></p></e>
@@ -20709,10 +20698,8 @@
 <e><p><l>yeast<s n="n"/></l><r>lievito<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>yeast<s n="n"/></l><r>lievito<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>yield<s n="n"/></l><r>raccolto<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>yoghourt<s n="n"/><s n="sg"/></l><r>yogurt<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>yoghourt<s n="n"/><s n="pl"/></l><r>yogurt<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e><p><l>yoghourt<s n="n"/></l><r>yogurt<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e><p><l>yoghurt<s n="n"/></l><r>yogurt<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>yoghurt<s n="n"/><s n="sg"/></l><r>yogurt<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>yoghurt<s n="n"/><s n="pl"/></l><r>yogurt<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>youngster<s n="n"/></l><r>giovane<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>youth<s n="n"/></l><r>giovinezza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>yttrium<s n="n"/></l><r>ittrio<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
