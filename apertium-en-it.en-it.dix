@@ -20821,7 +20821,7 @@
 <e><p><l>zirconium<s n="n"/></l><r>zirconio<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
 <e><p><l>zone<s n="n"/></l><r>zona<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bye<s n="ij"/></l><r>arrivederci<s n="ij"/></r></p></e>
-<e><p><l>goodbye<s n="ij"/></l><r>arrivederci<s n="ij"/></r></p></e>
+<e r="LR"><p><l>goodbye<s n="ij"/></l><r>arrivederci<s n="ij"/></r></p></e>
 <e><p><l>-<s n="guio"/></l><r>-<s n="guio"/></r></p></e>
 <e><re>[\)\]]</re><p><l><s n="rpar"/></l><r><s n="rpar"/></r></p></e>
 <e r="LR"><p><l>although<s n="cnjadv"/></l><r>malgrado<s n="cnjadv"/></r></p></e>
@@ -20851,7 +20851,7 @@
 <e><p><l>so<b/>that<s n="cnjadv"/></l><r>in<b/>modo<b/>che<s n="cnjadv"/></r></p></e>
 <e><p><l>then<s n="cnjadv"/></l><r>allora<s n="cnjadv"/></r></p></e>
 <e><p><l>therefore<s n="cnjadv"/></l><r>conseguentemente<s n="cnjadv"/></r></p></e>
-<e><p><l>therefore<s n="cnjadv"/></l><r>pertanto<s n="cnjadv"/></r></p></e>
+<e r="RL"><p><l>therefore<s n="cnjadv"/></l><r>pertanto<s n="cnjadv"/></r></p></e>
 <e><p><l>though<s n="cnjadv"/></l><r>nonostante<s n="cnjsub"/></r></p></e>
 <e><p><l>unless<s n="cnjadv"/></l><r>a<b/>meno<b/>che<s n="adv"/></r></p></e>
 <e><p><l>when<s n="cnjadv"/></l><r>quando<s n="rel"/><s n="adv"/></r></p></e>
@@ -20869,7 +20869,7 @@
 <e><p><l></l><r>£</r></p><re>[0-9]+([. ,][0-9][0-9][0-9])*([.,][0-9]+)?</re><p><l>£<s n="num"/><s n="mon"/></l><r><s n="num"/><s n="mon"/></r></p></e>
 <e><p><l></l><r>£</r></p><re>[0-9]+([. ,][0-9][0-9][0-9])*([.,][0-9]+)?m</re><p><l>£<s n="num"/><s n="mon"/></l><r><s n="num"/><s n="mon"/></r></p></e>
 <e><re>[0-9]+[.:][0-5][0-9](pm|PM|am|AM)</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-<e><p><l>ten<b/>hundred<s n="num"/></l><r>mille<s n="num"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>ten<b/>hundred<s n="num"/></l><r>mille<s n="num"/><s n="mf"/></r></p></e>
 <e><p><l>thousand<s n="num"/></l><r>mille<s n="num"/><s n="mf"/></r></p></e>
 <e><p><l>zero<s n="num"/></l><r>zero<s n="num"/><s n="mf"/></r></p></e>
 <e r="LR" c="traducció buida"><p><l>do<s n="vbdo"/><s n="pres"/></l><r></r></p></e>
@@ -20878,7 +20878,6 @@
 <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
 <e><re>[\(\[]</re><p><l><s n="lpar"/></l><r><s n="lpar"/></r></p></e>
 <e><re>[¿¡]</re><p><l><s n="lquest"/></l><r><s n="lquest"/></r></p></e>
-<e><re>[Â¿Â¡]</re><p><l><s n="lquest"/></l><r><s n="lquest"/></r></p></e>
 <e r="LR"><p><l>all<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>tutto<s n="prn"/><s n="tn"/><s n="m"/><s n="ND"/></r></p></e>
 <e><p><l>another<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></l><r>altro<s n="prn"/><s n="tn"/></r></p></e>
 <e c="preguntes, negatives. EN-CA: per trànsfer (fr negatives)"><p><l>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>nessuno<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
