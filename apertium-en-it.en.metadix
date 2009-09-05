@@ -9298,8 +9298,8 @@
       </e>
       <e r="RL" alt="en_US">
 	<p>
-	  <l>ll</l>
-	  <r>l</r>
+	  <l>l</l>
+	  <r>ll</r>
 	</p>
       </e>
     </pardef>
@@ -19193,6 +19193,9 @@
     <e lm="eccentricity"><i>eccentricit</i><par n="bab/y__n"/>    </e>
     <e lm="echelon"><i>echelon</i><par n="house__n"/>    </e>
     <e lm="annal"><i>annal</i><par n="house__n"/>    </e>
+    <e lm="foot-and-mouth disease"><i>foot-and-mouth<b/>disease</i><par n="house__n"/>    </e>
+    <e lm="aphthous ulcer"><i>aphthous<b/>ulcer</i><par n="house__n"/>    </e>
+    <e lm="haematoma"><i>h</i><par n="e_ae"/><i>matoma</i><par n="house__n"/>    </e>
     <e lm="echo" a="carmentano"><i>echo</i><par n="house__n"/>    </e>
     <e lm="echography"><i>echograph</i><par n="bab/y__n"/>    </e>
     <e lm="ecology"><i>ecolog</i><par n="bab/y__n"/>    </e>
