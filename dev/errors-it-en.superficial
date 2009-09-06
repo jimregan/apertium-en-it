@@ -500,6 +500,8 @@
 ^.<sent>$ ^levante<n><m><sg>$	. #Levant\<n\>\<sg\>
 ^.<sent>$ ^levita<n><mf><pl>$	. \@Levita\<n\>\<pl\>
 ^.<sent>$ ^levita<n><mf><sg>$	. \@Levita\<n\>\<sg\>
+^.<sent>$ ^liberalismo<n><m><pl>$	. #Liberalism\<n\>\<pl\>
+^.<sent>$ ^liberalismo<n><m><sg>$	. #Liberalism\<n\>\<sg\>
 ^.<sent>$ ^libertinaggio<n><m><pl>$	. #Libertinism\<n\>\<pl\>
 ^.<sent>$ ^libertinaggio<n><m><sg>$	. #Libertinism\<n\>\<sg\>
 ^.<sent>$ ^lince<n><f><pl>$	. \@Lince\<n\>\<pl\>
@@ -810,8 +812,6 @@
 ^.<sent>$ ^tossicodipendenza<n><f><sg>$	. #Drug addiction\<n\>\<sg\>
 ^.<sent>$ ^tossicomane<n><mf><pl>$	. \@Tossicomane\<n\>\<pl\>
 ^.<sent>$ ^tossicomane<n><mf><sg>$	. \@Tossicomane\<n\>\<sg\>
-^.<sent>$ ^fratellastroo<n><m><pl>$	. \@Fratellastroo\<n\>\<pl\>
-^.<sent>$ ^fratellastroo<n><m><sg>$	. \@Fratellastroo\<n\>\<sg\>
 ^.<sent>$ ^traghetto<n><m><pl>$	. #Ferry\<n\>\<pl\>
 ^.<sent>$ ^traghetto<n><m><sg>$	. #Ferry\<n\>\<sg\>
 ^.<sent>$ ^transito<n><m><pl>$	. #Transit\<n\>\<pl\>
@@ -9154,6 +9154,8 @@
 ^.<sent>$ ^insenatura<n><f><sg>$	. #Inlet\<n\>\<sg\>
 ^.<sent>$ ^pugilato<n><m><pl>$	. #Boxing\<n\>\<pl\>
 ^.<sent>$ ^malleabilit√†<n><f><sp>$	. \@Malleabilit√†\<n\>\<sp\>
+^.<sent>$ ^liberalismo<n><m><pl>$	. #Liberalism\<n\>\<pl\>
+^.<sent>$ ^liberalismo<n><m><sg>$	. #Liberalism\<n\>\<sg\>
 ^.<sent>$ ^patrono<n><m><pl>$	. #Patron\<n\>\<pl\>
 ^.<sent>$ ^patrono<n><m><sg>$	. #Patron\<n\>\<sg\>
 ^.<sent>$ ^aminnoacido<n><m><pl>$	. \@Aminnoacido\<n\>\<pl\>
@@ -10343,7 +10345,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> access<n>/approach<n>$
 #\^.\<sent\> accident<n>/incident<n>/crash<n>$
 #\^.\<sent\> housing<n>/accommodation<n>$
-#\^.\<sent\> accord<n>/agreement<n>$
 #\^.\<sent\> bead<n>/account<n>$
 #\^.\<sent\> attainment<n>/achievement<n>$
 #\^.\<sent\> shopping<n><sg>/purchase<n><sg>/acquisition<n>$
@@ -10358,8 +10359,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> end<n>/affection<n>$
 #\^.\<sent\> agency<n>/bureau<n>$
 #\^.\<sent\> degradation<n>/aggravation<n>$
-#\^.\<sent\> accord<n>/agreement<n>$
-#\^.\<sent\> contract<n>/agreement<n>/contracting<n>$
+#\^.\<sent\> contract<n>/agreement<n>$
 #\^.\<sent\> convention<n>/agreement<n>$
 #\^.\<sent\> agriculture<n>/farming<n>$
 #\^.\<sent\> aid<n>/help<n>$
@@ -10389,7 +10389,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> approach<n>/approximation<n>$
 #\^.\<sent\> arm<n><pl>/weapon<n><sg>/weapon<n><pl>$
 #\^.\<sent\> army<n>/military<n>$
-#\^.\<sent\> accord<n>/agreement<n>$
 #\^.\<sent\> detention<n>/arrest<n>$
 #\^.\<sent\> arrival<n>/finish<n>$
 #\^.\<sent\> article<n>/paper<n>$
@@ -10475,7 +10474,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> tie<n>/noose<n>/bow<n>$
 #\^.\<sent\> ball<n>/bowl<n>$
 #\^.\<sent\> boy<n>/child<n>$
-#\^.\<sent\> groom<n>/bridegroom<n>/boyfriend<n>$
+#\^.\<sent\> groom<n>/boyfriend<n>$
 #\^.\<sent\> mark<n>/make<n>/brand<n>/trademark<n>$
 #\^.\<sent\> mark<n>/make<n>/brand<n>/trademark<n>$
 #\^.\<sent\> breast<n>/chest<n>$
@@ -10484,7 +10483,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> breathing<n>/breath<n>$
 #\^.\<sent\> race<n>/breed<n>$
 #\^.\<sent\> girlfriend<n>/bride<n>$
-#\^.\<sent\> groom<n>/bridegroom<n>/boyfriend<n>$
+#\^.\<sent\> groom<n>/boyfriend<n>$
 #\^.\<sent\> broadcast<n>/emission<n>/release<n>$
 #\^.\<sent\> cube<n>/pail<n>/bin<n>/bucket<n>$
 #\^.\<sent\> budget<n><ND>/estimate<n><ND>$
@@ -10587,8 +10586,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> building<n>/construction<n>$
 #\^.\<sent\> surgery<n>/inquiry<n>/query<n>/consultation<n>$
 #\^.\<sent\> contest<n>/opposition<n>$
-#\^.\<sent\> contour<n>/outline<n>$
-#\^.\<sent\> contract<n>/agreement<n>/contracting<n>$
+#\^.\<sent\> contract<n>/agreement<n>$
 #\^.\<sent\> hold<n>/check<n>/control<n>/monitoring<n>/auditing<n>/audit<n>/regulation<n>$
 #\^.\<sent\> convention<n>/agreement<n>$
 #\^.\<sent\> cooker<n>/cooking<n>/stove<n>/kitchen<n>$
@@ -10620,7 +10618,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> smash<n>/crash<n>$
 #\^.\<sent\> creature<n>/baby<n>$
 #\^.\<sent\> harvest<n>/yield<n>/crop<n>$
-#\^.\<sent\> lever<n>/crowbar<n>$
 #\^.\<sent\> shout<n>/scream<n>/cry<n>/cry<n><sg>$
 #\^.\<sent\> shout<n>/scream<n>/cry<n>/cry<n><pl>$
 #\^.\<sent\> shout<n>/scream<n>/cry<n>/cry<n><sg>$
@@ -10754,8 +10751,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> destination<n>/fate<n>$
 #\^.\<sent\> father<n>/parent<n>$
 #\^.\<sent\> feature<n>/characteristic<n>$
-#\^.\<sent\> fertility<n><ND>/fecundity<n><ND>$
-#\^.\<sent\> fertility<n><ND>/fecundity<n><ND>$
 #\^.\<sent\> field<n>/countryside<n>$
 #\^.\<sent\> domain<n>/field<n>$
 #\^.\<sent\> fight<n>/struggle<n>$
@@ -10839,7 +10834,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> graphics<n>/chart<n>$
 #\^.\<sent\> grease<n>/fat<n>$
 #\^.\<sent\> tap<n>/griffin<n>$
-#\^.\<sent\> groom<n>/bridegroom<n>/boyfriend<n>$
+#\^.\<sent\> groom<n>/boyfriend<n>$
 #\^.\<sent\> earth<n>/ground<n>/land<n>$
 #\^.\<sent\> set<n>/group<n>$
 #\^.\<sent\> group<n>/cluster<n>/pool<n>$
@@ -10976,11 +10971,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> lethargy<n>/hibernation<n>$
 #\^.\<sent\> card<n>/menu<n>/paper<n>/letter<n>$
 #\^.\<sent\> letter<n>/handwriting<n>$
-#\^.\<sent\> leukemia<n>/leukaemia<n>$
-#\^.\<sent\> leukemia<n>/leukaemia<n>$
-#\^.\<sent\> lever<n>/crowbar<n>$
 #\^.\<sent\> link<n>/liaison<n>$
-#\^.\<sent\> liberality<n>/liberalism<n>$
 #\^.\<sent\> liberation<n>/release<n>$
 #\^.\<sent\> licence<n>/license<n>$
 #\^.\<sent\> licence<n>/license<n>$
@@ -11099,7 +11090,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> order<n>/command<n>$
 #\^.\<sent\> address<n>/direction<n>/orientation<n>$
 #\^.\<sent\> result<n>/outcome<n>$
-#\^.\<sent\> contour<n>/outline<n>$
 #\^.\<sent\> production<n>/output<n>$
 #\^.\<sent\> sty<n>/owl<n>$
 #\^.\<sent\> pace<n>/step<n>/passing<n>/passage<n>$

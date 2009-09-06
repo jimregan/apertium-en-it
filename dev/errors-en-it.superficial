@@ -5220,13 +5220,6 @@
 ^.<sent>$ ^oval<n><pl>$ ^'s<gen>$	. \@Oval\<n\> 
 ^.<sent>$ ^oval<n><sg>$	. \@Oval\<n\>
 ^.<sent>$ ^oval<n><pl>$	. \@Oval\<n\>
-^.<sent>$ ^ovary<n><sg>$	. #Ovaia\<n\>\<m\>\<sg\>
-^.<sent>$ ^ovary<n><pl>$	. #Ovaia\<n\>\<m\>\<pl\>
-^.<sent>$ ^ovary<n><pl>$	. #Ovaia\<n\>\<m\>\<pl\>
-^.<sent>$ ^ovary<n><pl>$ ^'s<gen>$	. #Ovaia\<n\>\<m\>\<pl\> 
-^.<sent>$ ^ovary<n><pl>$ ^'s<gen>$	. #Ovaia\<n\>\<m\>\<pl\> 
-^.<sent>$ ^ovary<n><sg>$	. #Ovaia\<n\>\<m\>\<sg\>
-^.<sent>$ ^ovary<n><pl>$	. #Ovaia\<n\>\<m\>\<pl\>
 ^.<sent>$ ^ovation<n><sg>$	. \@Ovation\<n\>
 ^.<sent>$ ^ovation<n><pl>$	. \@Ovation\<n\>
 ^.<sent>$ ^ovation<n><pl>$ ^'s<gen>$	. \@Ovation\<n\> 
@@ -5791,16 +5784,6 @@
 ^.<sent>$ ^privacy<n><pl>$ ^'s<gen>$	. \@Privacy\<n\> 
 ^.<sent>$ ^privacy<n><sg>$	. \@Privacy\<n\>
 ^.<sent>$ ^privacy<n><pl>$	. \@Privacy\<n\>
-^.<sent>$ ^Nobel prize<n><sg>$	. \@Nobel prize\<n\>
-^.<sent>$ ^Nobel prize<n><pl>$	. \@Nobel prize\<n\>
-^.<sent>$ ^Nobel prize<n><pl>$ ^'s<gen>$	. \@Nobel prize\<n\> 
-^.<sent>$ ^Nobel prize<n><sg>$	. \@Nobel prize\<n\>
-^.<sent>$ ^Nobel prize<n><pl>$	. \@Nobel prize\<n\>
-^.<sent>$ ^Nobel Peace prize<n><sg>$	. \@Nobel Peace prize\<n\>
-^.<sent>$ ^Nobel Peace prize<n><pl>$	. \@Nobel Peace prize\<n\>
-^.<sent>$ ^Nobel Peace prize<n><pl>$ ^'s<gen>$	. \@Nobel Peace prize\<n\> 
-^.<sent>$ ^Nobel Peace prize<n><sg>$	. \@Nobel Peace prize\<n\>
-^.<sent>$ ^Nobel Peace prize<n><pl>$	. \@Nobel Peace prize\<n\>
 ^.<sent>$ ^probe<n><sg>$	. \@Probe\<n\>
 ^.<sent>$ ^probe<n><pl>$	. \@Probe\<n\>
 ^.<sent>$ ^probe<n><pl>$ ^'s<gen>$	. \@Probe\<n\> 
@@ -7066,11 +7049,6 @@
 ^.<sent>$ ^speciality<n><pl>$ ^'s<gen>$	. \@Speciality\<n\> 
 ^.<sent>$ ^speciality<n><sg>$	. \@Speciality\<n\>
 ^.<sent>$ ^speciality<n><pl>$	. \@Speciality\<n\>
-^.<sent>$ ^speed# of light<n><sg>$	. \@Speed\<n\># of light
-^.<sent>$ ^speed# of light<n><pl>$	. \@Speed\<n\># of light
-^.<sent>$ ^speed# of light<n><pl>$ ^'s<gen>$	. \@Speed\<n\># of light 
-^.<sent>$ ^speed# of light<n><sg>$	. \@Speed\<n\># of light
-^.<sent>$ ^speed# of light<n><pl>$	. \@Speed\<n\># of light
 ^.<sent>$ ^permittivity<n><sg>$	. \@Permittivity\<n\>
 ^.<sent>$ ^permittivity<n><pl>$	. \@Permittivity\<n\>
 ^.<sent>$ ^permittivity<n><pl>$	. \@Permittivity\<n\>
@@ -16065,11 +16043,6 @@
 ^.<sent>$ ^Jacobite<n><pl>$ ^'s<gen>$	. \@Jacobite\<n\> 
 ^.<sent>$ ^Jacobite<n><sg>$	. \@Jacobite\<n\>
 ^.<sent>$ ^Jacobite<n><pl>$	. \@Jacobite\<n\>
-^.<sent>$ ^solar cooker<n><sg>$	. \@Solar cooker\<n\>
-^.<sent>$ ^solar cooker<n><pl>$	. \@Solar cooker\<n\>
-^.<sent>$ ^solar cooker<n><pl>$ ^'s<gen>$	. \@Solar cooker\<n\> 
-^.<sent>$ ^solar cooker<n><sg>$	. \@Solar cooker\<n\>
-^.<sent>$ ^solar cooker<n><pl>$	. \@Solar cooker\<n\>
 ^.<sent>$ ^stock exchange<n><sg>$	. \@Stock exchange\<n\>
 ^.<sent>$ ^stock exchange<n><pl>$	. \@Stock exchange\<n\>
 ^.<sent>$ ^stock exchange<n><pl>$ ^'s<gen>$	. \@Stock exchange\<n\> 
@@ -17068,11 +17041,6 @@
 ^.<sent>$ ^amine<n><pl>$ ^'s<gen>$	. \@Amine\<n\> 
 ^.<sent>$ ^amine<n><sg>$	. \@Amine\<n\>
 ^.<sent>$ ^amine<n><pl>$	. \@Amine\<n\>
-^.<sent>$ ^amino acid<n><sg>$	. #Amminoacido\<n\>\<m\>\<sg\>
-^.<sent>$ ^amino acid<n><pl>$	. #Amminoacido\<n\>\<m\>\<pl\>
-^.<sent>$ ^amino acid<n><pl>$ ^'s<gen>$	. #Amminoacido\<n\>\<m\>\<pl\> 
-^.<sent>$ ^amino acid<n><sg>$	. #Amminoacido\<n\>\<m\>\<sg\>
-^.<sent>$ ^amino acid<n><pl>$	. #Amminoacido\<n\>\<m\>\<pl\>
 ^.<sent>$ ^ammonia<n><sg>$	. \@Ammonia\<n\>
 ^.<sent>$ ^ammonia<n><pl>$	. \@Ammonia\<n\>
 ^.<sent>$ ^ammonia<n><pl>$ ^'s<gen>$	. \@Ammonia\<n\> 
@@ -31848,11 +31816,6 @@
 ^.<sent>$ ^payday<n><pl>$ ^'s<gen>$	. \@Payday\<n\> 
 ^.<sent>$ ^payday<n><sg>$	. \@Payday\<n\>
 ^.<sent>$ ^payday<n><pl>$	. \@Payday\<n\>
-^.<sent>$ ^recording studio<n><sg>$	. \@Recording studio\<n\>
-^.<sent>$ ^recording studio<n><pl>$	. \@Recording studio\<n\>
-^.<sent>$ ^recording studio<n><pl>$ ^'s<gen>$	. \@Recording studio\<n\> 
-^.<sent>$ ^recording studio<n><sg>$	. \@Recording studio\<n\>
-^.<sent>$ ^recording studio<n><pl>$	. \@Recording studio\<n\>
 ^.<sent>$ ^enrich<vblex><inf>$	. \@Enrich\<vblex\>\<inf\>
 ^.<sent>$ ^enrich<vblex><pres>$	. \@Enrich\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^enrich<vblex><pri><p3><sg>$	. \@Enrich\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -32923,11 +32886,6 @@
 ^.<sent>$ ^vigorously<adv>$	. \@Vigorously\<adv\>
 ^.<sent>$ ^forcefully<adv>$	. \@Forcefully\<adv\>
 ^.<sent>$ ^with energy<adv>$	. \@With energy\<adv\>
-^.<sent>$ ^bar code reader<n><sg>$	. \@Bar code reader\<n\>
-^.<sent>$ ^bar code reader<n><pl>$	. \@Bar code reader\<n\>
-^.<sent>$ ^bar code reader<n><pl>$ ^'s<gen>$	. \@Bar code reader\<n\> 
-^.<sent>$ ^bar code reader<n><sg>$	. \@Bar code reader\<n\>
-^.<sent>$ ^bar code reader<n><pl>$	. \@Bar code reader\<n\>
 ^.<sent>$ ^Colorado<np><loc><sg>$	. \@Colorado\<np\>\<loc\>
 ^.<sent>$ ^Delaware<np><loc><sg>$	. \@Delaware\<np\>\<loc\>
 ^.<sent>$ ^Hawaii<np><loc><sg>$	. \@Hawaii\<np\>\<loc\>
@@ -33595,11 +33553,6 @@
 ^.<sent>$ ^baking soda<n><pl>$ ^'s<gen>$	. \@Baking soda\<n\> 
 ^.<sent>$ ^baking soda<n><sg>$	. \@Baking soda\<n\>
 ^.<sent>$ ^baking soda<n><pl>$	. \@Baking soda\<n\>
-^.<sent>$ ^MP3 player<n><sg>$	. \@MP3 player\<n\>
-^.<sent>$ ^MP3 player<n><pl>$	. \@MP3 player\<n\>
-^.<sent>$ ^MP3 player<n><pl>$ ^'s<gen>$	. \@MP3 player\<n\> 
-^.<sent>$ ^MP3 player<n><sg>$	. \@MP3 player\<n\>
-^.<sent>$ ^MP3 player<n><pl>$	. \@MP3 player\<n\>
 ^.<sent>$ ^mobile phone<n><pl>$ ^'s<gen>$	. \@Mobile phone\<n\> 
 ^.<sent>$ ^mobile phone<n><sg>$	. \@Mobile phone\<n\>
 ^.<sent>$ ^mobile phone<n><pl>$	. \@Mobile phone\<n\>
@@ -33741,11 +33694,6 @@
 ^.<sent>$ ^narcosis<n><pl>$	. \@Narcosis\<n\>
 ^.<sent>$ ^narcosis<n><sg>$ ^'s<gen>$	. \@Narcosis\<n\> 
 ^.<sent>$ ^narcosis<n><pl>$ ^'s<gen>$	. \@Narcosis\<n\> 
-^.<sent>$ ^fertilization<n><sg>$	. \@Fertilization\<n\>
-^.<sent>$ ^fertilization<n><pl>$	. \@Fertilization\<n\>
-^.<sent>$ ^fertilization<n><pl>$ ^'s<gen>$	. \@Fertilization\<n\> 
-^.<sent>$ ^fertilization<n><sg>$	. \@Fertilization\<n\>
-^.<sent>$ ^fertilization<n><pl>$	. \@Fertilization\<n\>
 ^.<sent>$ ^adaptative<adj>$	. \@Adaptative\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^interrelationship<n><sg>$	. \@Interrelationship\<n\>
 ^.<sent>$ ^interrelationship<n><pl>$	. \@Interrelationship\<n\>
@@ -33819,11 +33767,6 @@
 ^.<sent>$ ^Thebes<np><loc><sg>$	. \@Thebes\<np\>\<loc\>
 ^.<sent>$ ^coming<adj>$	. \@Coming\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^prematurely<adv>$	. \@Prematurely\<adv\>
-^.<sent>$ ^stepbrother<n><sg>$	. #Fratellastro\<n\>\<m\>\<sg\>
-^.<sent>$ ^stepbrother<n><pl>$	. #Fratellastro\<n\>\<m\>\<pl\>
-^.<sent>$ ^stepbrother<n><pl>$ ^'s<gen>$	. #Fratellastro\<n\>\<m\>\<pl\> 
-^.<sent>$ ^stepbrother<n><sg>$	. #Fratellastro\<n\>\<m\>\<sg\>
-^.<sent>$ ^stepbrother<n><pl>$	. #Fratellastro\<n\>\<m\>\<pl\>
 ^.<sent>$ ^usurper<n><sg>$	. \@Usurper\<n\>
 ^.<sent>$ ^usurper<n><pl>$	. \@Usurper\<n\>
 ^.<sent>$ ^usurper<n><pl>$ ^'s<gen>$	. \@Usurper\<n\> 
@@ -34690,7 +34633,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> colpa<n><f>/mancanza<n><f>$
 #\^.\<sent\> paura<n><m>/paura<n><f>$
 #\^.\<sent\> paura<n><m>/paura<n><f>$
-#\^.\<sent\> stimolo<n><m>/incentivazione<n><f>$
 #\^.\<sent\> fecondazione<n><f>/fertilizzazione<n><f>$
 #\^.\<sent\> fecondazione<n><f>/fertilizzazione<n><f>$
 #\^.\<sent\> campo<n><m>/ambito<n><m>$
@@ -34950,10 +34892,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> indirizzo<n><m>/orientamento<n><f>/orientazione<n><f>$
 #\^.\<sent\> ornamento<n><m>/abbellimento<n><m>$
 #\^.\<sent\> ornamento<n><m>/abbellimento<n><m>$
-#\^.\<sent\> abbozzo<n><m>/contorno<n><m>$
-#\^.\<sent\> abbozzo<n><m>/contorno<n><m>$
-#\^.\<sent\> ovaia<n><m>/ovaia<n><f>$
-#\^.\<sent\> ovaia<n><m>/ovaia<n><f>$
 #\^.\<sent\> pacchetto<n><m>/confezione<n><f>$
 #\^.\<sent\> pacchetto<n><m>/confezione<n><f>$
 #\^.\<sent\> vernice<n><f>/prodotto<n><m>$
@@ -35263,7 +35201,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> palo<n><m>/pylon<n><m>/pertica<n><f>$
 #\^.\<sent\> palo<n><m>/pylon<n><m>/pertica<n><f>$
 #\^.\<sent\> palo<n><m>/pylon<n><m>/pertica<n><f>$
-#\^.\<sent\> stimolo<n><m>/incentivazione<n><f>$
 #\^.\<sent\> bufera<n><f>/tormenta<n><f>$
 #\^.\<sent\> bufera<n><f>/tormenta<n><f>$
 #\^.\<sent\> stufa<n><f>/cucina<n><f>$
