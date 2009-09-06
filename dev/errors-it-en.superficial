@@ -189,6 +189,8 @@
 ^.<sent>$ ^alluminio<n><m><sg>$	. #Aluminum\<n\>\<sg\>
 ^.<sent>$ ^ampliamento<n><m><pl>$	. \@Ampliamento\<n\>\<pl\>
 ^.<sent>$ ^ampliamento<n><m><sg>$	. \@Ampliamento\<n\>\<sg\>
+^.<sent>$ ^apparato<n><m><pl>$	. #Apparatus\<n\>\<pl\>
+^.<sent>$ ^apparato<n><m><sg>$	. #Apparatus\<n\>\<sg\>
 ^.<sent>$ ^appartenente<n><mf><pl>$	. \@Appartenente\<n\>\<pl\>
 ^.<sent>$ ^appartenente<n><mf><sg>$	. \@Appartenente\<n\>\<sg\>
 ^.<sent>$ ^appassionato<n><m><pl>$	. #Passionate\<n\>\<pl\>
@@ -207,6 +209,8 @@
 ^.<sent>$ ^bagagliaio<n><m><sg>$	. \@Bagagliaio\<n\>\<sg\>
 ^.<sent>$ ^bagattella<n><f><pl>$	. \@Bagattella\<n\>\<pl\>
 ^.<sent>$ ^bagattella<n><f><sg>$	. \@Bagattella\<n\>\<sg\>
+^.<sent>$ ^balaustra<n><f><pl>$	. #Balustrade\<n\>\<pl\>
+^.<sent>$ ^balaustra<n><f><sg>$	. #Balustrade\<n\>\<sg\>
 ^.<sent>$ ^balia<n><f><pl>$	. #Wet nurse\<n\>\<pl\>
 ^.<sent>$ ^balia<n><f><sg>$	. #Wet nurse\<n\>\<sg\>
 ^.<sent>$ ^balneazione<n><f><pl>$	. #Bathing\<n\>\<pl\>
@@ -674,6 +678,8 @@
 ^.<sent>$ ^possibile<n><m><sg>$	. #Possible\<n\>\<sg\>
 ^.<sent>$ ^pozzo<n><m><pl>$	. #Well\<n\>\<pl\>
 ^.<sent>$ ^pozzo<n><m><sg>$	. #Well\<n\>\<sg\>
+^.<sent>$ ^prateria<n><f><pl>$	. #Prairie\<n\>\<pl\>
+^.<sent>$ ^prateria<n><f><sg>$	. #Prairie\<n\>\<sg\>
 ^.<sent>$ ^precedente<n><mf><pl>$	. \@Precedente\<n\>\<pl\>
 ^.<sent>$ ^precedente<n><mf><sg>$	. \@Precedente\<n\>\<sg\>
 ^.<sent>$ ^precipizio<n><m><pl>$	. #Precipice\<n\>\<pl\>
@@ -9146,8 +9152,12 @@
 ^.<sent>$ ^pastsciutta<n><f><pl>$	. \@Pastsciutta\<n\>\<pl\>
 ^.<sent>$ ^pastsciutta<n><f><sg>$	. \@Pastsciutta\<n\>\<sg\>
 ^.<sent>$ ^Abdul-Hamid<np><ant><m><sg>$	. #Abdul Hamid\<np\>\<ant\>\<m\>\<sg\>
+^.<sent>$ ^arresto<n><f><sg>$	. #Arrested\<n\>\<sg\>
+^.<sent>$ ^arresto<n><f><pl>$	. #Arrested\<n\>\<pl\>
 ^.<sent>$ ^insenatura<n><f><pl>$	. #Inlet\<n\>\<pl\>
 ^.<sent>$ ^insenatura<n><f><sg>$	. #Inlet\<n\>\<sg\>
+^.<sent>$ ^pugilato<n><m><pl>$	. #Boxing\<n\>\<pl\>
+^.<sent>$ ^malleabilit√†<n><f><sp>$	. \@Malleabilit√†\<n\>\<sp\>
 ^.<sent>$ ^ne<prn><pro><adv>$	. \@ne\<prn\>\<pro\>\<adv\>
 ^.<sent>$ ^quello<det><dem><mf><sg>$	. #That\<sg\>
 ^.<sent>$ ^questo<det><dem><mf><sg>$	. #This\<sg\>
@@ -10364,7 +10374,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> aluminum<n>/aluminium<n>$
 #\^.\<sent\> amount<n>/quantity<n>$
 #\^.\<sent\> ascendant<n>/ancestor<n>$
-#\^.\<sent\> rabies<n>/rage<n>/anger<n>/hydrophobia<n>$
+#\^.\<sent\> rabies<n>/anger<n>/hydrophobia<n>$
 #\^.\<sent\> angle<n>/corner<n>$
 #\^.\<sent\> ad<n>/commercial<n>/announcement<n>/advertisement<n>$
 #\^.\<sent\> invitation<n>/announcement<n>$
@@ -10415,11 +10425,11 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> balloon<n>/ball<n>$
 #\^.\<sent\> balloon<n>/ball<n>$
 #\^.\<sent\> ban<n>/prohibition<n>$
+#\^.\<sent\> bracelet<n>/bangle<n>$
 #\^.\<sent\> exile<n>/banishment<n>$
 #\^.\<sent\> bank<n>/banking<n>$
 #\^.\<sent\> bank<n>/banking<n>$
 #\^.\<sent\> failure<n>/bankruptcy<n>$
-#\^.\<sent\> bar<n>/rail<n>$
 #\^.\<sent\> bargain<n>/business<n>$
 #\^.\<sent\> base<n>/basis<n>/rooting<n>$
 #\^.\<sent\> base<n>/basis<n>/rooting<n>$
@@ -10437,6 +10447,8 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> bicycle<n>/bike<n>$
 #\^.\<sent\> invoice<n>/bill<n>$
 #\^.\<sent\> cube<n>/pail<n>/bin<n>/bucket<n>$
+#\^.\<sent\> natality<n><ND>/birth<n><ND>$
+#\^.\<sent\> natality<n><ND>/birth<n><ND>$
 #\^.\<sent\> biscuit<n>/cookie<n>$
 #\^.\<sent\> bite<n>/snack<n>$
 #\^.\<sent\> leaf<n>/blade<n>$
@@ -10450,7 +10462,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> project<n>/blueprint<n>$
 #\^.\<sent\> tip<n>/council<n>/counsel<n>/advice<n>/board<n>/joint<n>$
 #\^.\<sent\> boat<n>/vessel<n>$
-#\^.\<sent\> corps<n>/mass<n>/body<n>$
+#\^.\<sent\> corps<n>/body<n>$
 #\^.\<sent\> facility<n><pl>/boiler<n>/plantation<n>/installation<n>$
 #\^.\<sent\> bomb<n>/pump<n>$
 #\^.\<sent\> stone<n>/bone<n>$
@@ -10587,7 +10599,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> angle<n>/corner<n>$
 #\^.\<sent\> monarchy<n>/coronation<n>$
 #\^.\<sent\> firm<n>/company<n>/enterprise<n>/corporation<n>$
-#\^.\<sent\> corps<n>/mass<n>/body<n>$
+#\^.\<sent\> corps<n>/body<n>$
 #\^.\<sent\> fee<n>/cost<n>$
 #\^.\<sent\> costume<n>/clothes<n><pl>/clothing<n>/cloth<n><pl>/suit<n>$
 #\^.\<sent\> cough<n>/coughing<n>$
@@ -10702,7 +10714,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> broadcast<n>/emission<n>/release<n>$
 #\^.\<sent\> emotion<n>/thrill<n>/excitement<n>$
 #\^.\<sent\> use<n>/employment<n>$
-#\^.\<sent\> occupation<n>/railroad<n>/railway<n>$
 #\^.\<sent\> end<n>/affection<n>$
 #\^.\<sent\> approval<n>/endorsement<n>$
 #\^.\<sent\> energy<n>/power<n>$
@@ -10747,6 +10758,8 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> feature<n>/characteristic<n>$
 #\^.\<sent\> fee<n>/cost<n>$
 #\^.\<sent\> female<n>/wife<n>/woman<n>$
+#\^.\<sent\> fertility<n><ND>/fecundity<n><ND>$
+#\^.\<sent\> fertility<n><ND>/fecundity<n><ND>$
 #\^.\<sent\> field<n>/countryside<n>$
 #\^.\<sent\> domain<n>/field<n>$
 #\^.\<sent\> fight<n>/struggle<n>$
@@ -10828,7 +10841,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> grandparent<n>/grandfather<n>$
 #\^.\<sent\> granite<n>/spot<n>$
 #\^.\<sent\> graphics<n>/chart<n>$
-#\^.\<sent\> meadow<n>/grassland<n>$
+#\^.\<sent\> prairie<n>/grassland<n>$
 #\^.\<sent\> lawn<n>/meadow<n>/grassland<n>$
 #\^.\<sent\> grease<n>/fat<n>$
 #\^.\<sent\> tap<n>/griffin<n>$
@@ -10874,7 +10887,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> housing<n>/accommodation<n>$
 #\^.\<sent\> humour<n>/mood<n>$
 #\^.\<sent\> hut<n>/cabin<n>/shed<n>$
-#\^.\<sent\> rabies<n>/rage<n>/anger<n>/hydrophobia<n>$
+#\^.\<sent\> rabies<n>/anger<n>/hydrophobia<n>$
 #\^.\<sent\> hyphen<n>/script<n>$
 #\^.\<sent\> idea<n>/insight<n>$
 #\^.\<sent\> disease<n>/illness<n>$
@@ -11015,22 +11028,15 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> maker<n>/manufacturer<n>$
 #\^.\<sent\> map<n>/chart<n>$
 #\^.\<sent\> march<n>/course<n>/gear<n>/departure<n>$
-#\^.\<sent\> marquise<n>/marchioness<n>$
-#\^.\<sent\> mark<n>/make<n>/brand<n>/trademark<n>$
 #\^.\<sent\> mark<n>/make<n>/brand<n>/trademark<n>$
 #\^.\<sent\> marquise<n>/marchioness<n>$
-#\^.\<sent\> sadomasochism<n>/masochism<n>$
-#\^.\<sent\> corps<n>/mass<n>/body<n>$
-#\^.\<sent\> party<n>/match<n>$
 #\^.\<sent\> stuff<n>/material<n>$
 #\^.\<sent\> stuff<n>/subject<n>/material<n>/matter<n>$
-#\^.\<sent\> stuff<n>/subject<n>/material<n>/matter<n>$
-#\^.\<sent\> meadow<n>/grassland<n>$
+#\^.\<sent\> prairie<n>/grassland<n>$
 #\^.\<sent\> lawn<n>/meadow<n>/grassland<n>$
 #\^.\<sent\> food<n>/meal<n>/lunch<n>$
 #\^.\<sent\> means<n>/medium<n>$
-#\^.\<sent\> size<n>/measure<n>/measurement<n>$
-#\^.\<sent\> size<n>/measure<n>/measurement<n>$
+#\^.\<sent\> size<n>/measure<n>$
 #\^.\<sent\> flesh<n>/meat<n>$
 #\^.\<sent\> medicine<n>/remedy<n>$
 #\^.\<sent\> means<n>/medium<n>$
@@ -11091,7 +11097,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> nanny<n>/nursemaid<n>$
 #\^.\<sent\> nut<n>/die<n>$
 #\^.\<sent\> objective<n>/aim<n>/goal<n>$
-#\^.\<sent\> occupation<n>/railroad<n>/railway<n>$
 #\^.\<sent\> tender<n>/offer<n>/bid<n>$
 #\^.\<sent\> opera<n>/work<n>$
 #\^.\<sent\> functioning<n>/operation<n>$
@@ -11120,7 +11125,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> package<n>/packet<n>/pack<n>/parcel<n>$
 #\^.\<sent\> father<n>/parent<n>$
 #\^.\<sent\> participation<n>/stake<n>/share<n>$
-#\^.\<sent\> party<n>/match<n>$
 #\^.\<sent\> pace<n>/step<n>/passing<n>/passage<n>$
 #\^.\<sent\> demise<n>/death<n>/passing<n>$
 #\^.\<sent\> pace<n>/step<n>/passing<n>/passage<n>$
@@ -11241,19 +11245,12 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> problem<n>/trouble<n>/question<n>$
 #\^.\<sent\> demand<n>/question<n>$
 #\^.\<sent\> quotation<n>/appointment<n>$
-#\^.\<sent\> rabies<n>/rage<n>/anger<n>/hydrophobia<n>$
+#\^.\<sent\> rabies<n>/anger<n>/hydrophobia<n>$
 #\^.\<sent\> race<n>/breed<n>$
 #\^.\<sent\> career<n>/race<n>/run<n>$
 #\^.\<sent\> radio<n><ND>/radium<n>$
 #\^.\<sent\> radio<n><ND>/radium<n>$
 #\^.\<sent\> radio<n><ND>/radium<n>$
-#\^.\<sent\> rabies<n>/rage<n>/anger<n>/hydrophobia<n>$
-#\^.\<sent\> bar<n>/rail<n>$
-#\^.\<sent\> railroad<n>/railway<n>$
-#\^.\<sent\> occupation<n>/railroad<n>/railway<n>$
-#\^.\<sent\> railroad<n>/railway<n>$
-#\^.\<sent\> occupation<n>/railroad<n>/railway<n>$
-#\^.\<sent\> road<n>/railway<n>$
 #\^.\<sent\> ray<n>/range<n>/scope<n>$
 #\^.\<sent\> extent<n>/scope<n>/range<n>/discharge<n>$
 #\^.\<sent\> grade<n>/rank<n>/degree<n>$
@@ -11313,7 +11310,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> circle<n>/ring<n>$
 #\^.\<sent\> rise<n>/increase<n>$
 #\^.\<sent\> road<n>/street<n>$
-#\^.\<sent\> road<n>/railway<n>$
 #\^.\<sent\> rock<n><pl>/rock<n><sg>$
 #\^.\<sent\> rock<n><pl>/rock<n><sg>$
 #\^.\<sent\> function<n>/role<n>$
@@ -11329,7 +11325,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> principle<n>/rule<n>$
 #\^.\<sent\> gobernante<n>/ruler<n>$
 #\^.\<sent\> career<n>/race<n>/run<n>$
-#\^.\<sent\> sadomasochism<n>/masochism<n>$
 #\^.\<sent\> custody<n>/deposit<n>/safekeeping<n>$
 #\^.\<sent\> safety<n>/security<n>$
 #\^.\<sent\> candle<n>/sail<n>$
@@ -11390,7 +11385,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> edge<n>/singing<n>$
 #\^.\<sent\> heart<n>/sinus<n>/breast<n>$
 #\^.\<sent\> place<n>/site<n>/spot<n>$
-#\^.\<sent\> size<n>/measure<n>/measurement<n>$
+#\^.\<sent\> size<n>/measure<n>$
 #\^.\<sent\> heaven<n>/sky<n>$
 #\^.\<sent\> aspect<n>/look<n>/appearance<n>$
 #\^.\<sent\> recession<n>/slump<n>$
@@ -11423,6 +11418,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> wheel<n>/steering wheel<n>$
 #\^.\<sent\> root<n>/stem<n>$
 #\^.\<sent\> pace<n>/step<n>/passing<n>/passage<n>$
+#\^.\<sent\> sternum<n>/breastbone<n>$
 #\^.\<sent\> pole<n>/post<n>/stick<n>$
 #\^.\<sent\> post<n>/pole<n>/stick<n>$
 #\^.\<sent\> stockholder<n>/shareholder<n>$
