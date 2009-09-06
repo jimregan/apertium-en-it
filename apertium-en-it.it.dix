@@ -92287,7 +92287,13 @@
     <e lm="tradizione"><i>tradizion</i><par n="abbreviazion/e__n"/></e>
     <e lm="traduttore"><i>tradutt</i><par n="agricolt/ore__n"/></e>
     <e lm="traduzione"><i>traduzion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="fratellastro"><i>fratellastro</i><par n="abbain/o__n"/></e>
+    <e lm="sorellastra"><i>sorellastr</i><par n="cas/a__n"/></e>
     <e lm="traffico"><i>traffic</i><par n="abbain/o__n"/></e>
+    <e lm="narcotraffico"><i>narcotraffic</i><par n="abbain/o__n"/></e>
+    <e lm="traffico di droga"><i>traffic</i><par n="abbain/o__n"/><p><l><b/>di<b/>droga</l><r><g><b/>di<b/>droga</g></r></p></e>
+    <e lm="traffico della droga"><i>traffic</i><par n="abbain/o__n"/><p><l><b/>della<b/>droga</l><r><g><b/>della<b/>droga</g></r></p></e>
+    <e lm="traffico di stupefacent"><i>traffic</i><par n="abbain/o__n"/><p><l><b/>di<b/>stupefacent</l><r><g><b/>di<b/>stupefacent</g></r></p></e>
     <e lm="trafficante"><i>trafficant</i><par n="abat/e__n"/></e>
     <e lm="tragedia"><i>tragedi</i><par n="cas/a__n"/></e>
     <e lm="traghetto"><i>traghett</i><par n="abbain/o__n"/></e>
@@ -96964,6 +96970,16 @@
 <e lm="carro armato"><p><l>carri<b/>armati</l><r>carro<b/>armato<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="afta epizootica"><p><l>afta<b/>epizootica</l><r>afta<b/>epizootica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="afta epizootica"><p><l>afte<b/>epizootiche</l><r>afta<b/>epizootica<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="sorella mezza"><p><l>sorella<b/>mezza</l><r>sorella<b/>mezza<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="sorella mezza"><p><l>sorelle<b/>mezze</l><r>sorella<b/>mezza<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="fratello mezzo"><p><l>fratello<b/>mezzo</l><r>fratello<b/>mezzo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="fratello mezzo"><p><l>fratelli<b/>mezzi</l><r>fratello<b/>mezzo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="arma biologica"><p><l>arma<b/>biologica</l><r>arma<b/>biologica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="arma biologica"><p><l>armi<b/>biologiche</l><r>arma<b/>biologica<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="arma chimica"><p><l>arma<b/>chimica</l><r>arma<b/>chimica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="arma chimica"><p><l>armi<b/>chimiche</l><r>arma<b/>chimica<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="arma nucleara"><p><l>arma<b/>nucleara</l><r>arma<b/>nucleara<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="arma nucleara"><p><l>armi<b/>nucleare</l><r>arma<b/>nucleara<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
     <e lm="pasta all'uovo"><i>past</i><par n="cas/a__n"/><p><l><b/>all'uovo</l><r><g><b/>all'uovo</g></r></p></e>
     <e lm="pasta di legno"><i>past</i><par n="cas/a__n"/><p><l><b/>di<b/>legno</l><r><g><b/>di<b/>legno</g></r></p></e>
@@ -98247,6 +98263,7 @@
     <e lm="sostantivo"><i>sostantiv</i><par n="abbain/o__n"/></e>
     <e lm="nucleolo"><i>nucleol</i><par n="abbain/o__n"/></e>
     <e lm="numero"><i>numer</i><par n="abbain/o__n"/></e>
+    <e lm="numero di Avogadro"><i>numer</i><par n="abbain/o__n"/><p><l><b/>di<b/>Avogadro</l><r><g><b/>di<b/>Avogadro<</g></r></p></e>
     <e lm="estrogeno"><i>estrogen</i><par n="abbain/o__n"/></e>
     <e lm="oracolo"><i>oracol</i><par n="abbain/o__n"/></e>
     <e lm="organulo"><i>organul</i><par n="abbain/o__n"/></e>
@@ -98374,6 +98391,7 @@
     <e lm="strutto"><i>strutt<par n="abbain/o__n"/></e>
     <e lm="tovagliolo"><i>tovagliol<par n="abbain/o__n"/></e>
     <e lm="zaino"><i>zain<par n="abbain/o__n"/></e>
+    <e lm="amminoacido"><i>aminnoacid<par n="abbain/o__n"/></e>
 	</section>
 
 
