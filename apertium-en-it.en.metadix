@@ -20326,9 +20326,9 @@
     <e lm="library"><i>librar</i><par n="bab/y__n"/>    </e>
     <e lm="librarian"><i>librarian</i><par n="house__n"/>    </e>
     <e lm="licence" r="LR"><i>licence</i><par n="house__n"/>    </e>
-    <e lm="license" r="LR"><p><l>license</l><r>licence</l></p><par n="house__n"/>    </e>
+    <e lm="license" r="LR"><p><l>license</l><r>licence</r></p><par n="house__n"/>    </e>
     <e lm="licence" r="RL" alt="en_GB"><i>licence</i><par n="house__n"/>    </e>
-    <e lm="license" r="RL" alt="en_US"><p><l>license</l><r>licence</l></p><par n="house__n"/>    </e>
+    <e lm="license" r="RL" alt="en_US"><p><l>license</l><r>licence</r></p><par n="house__n"/>    </e>
     <e lm="licking"><i>licking</i><par n="house__n"/>    </e>
     <e lm="lid"><i>lid</i><par n="house__n"/>    </e>
     <e lm="lie"><i>lie</i><par n="house__n"/>    </e>
@@ -30614,6 +30614,21 @@
     <e lm="of late"><i>of<b/>late</i><par n="maybe__adv"/>     </e>
     <e lm="sweetly"><i>sweetly</i><par n="maybe__adv"/>     </e>
     <e lm="etcetera"><i>etcetera</i><par n="maybe__adv"/>     </e>
+    <e lm="etc"><i>etc</i><par n="maybe__adv"/>     </e>
+    <e lm="in absolute"><i>in<b/>absolute</i><par n="maybe__adv"/>     </e>
+    <e lm="in consequence"><i>in<b/>consequence</i><par n="maybe__adv"/>     </e>
+    <e lm="in difficulty"><i>in<b/>difficulty</i><par n="maybe__adv"/>     </e>
+    <e lm="on line"><i>on<b/>line</i><par n="maybe__adv"/>     </e>
+    <e lm="little by little"><i>little<b/>by<b/>little</i><par n="maybe__adv"/>     </e>
+    <e lm="with much enthusiasm"><i>with<b/>much<b/>enthusiasm</i><par n="maybe__adv"/>     </e>
+    <e lm="with any certainty"><i>with<b/>any<b/>certainty</i><par n="maybe__adv"/>     </e>
+    <e lm="integrally"><i>integrally</i><par n="maybe__adv"/>     </e>
+    <e lm="humanly"><i>humanly</i><par n="maybe__adv"/>     </e>
+    <e lm="per second"><i>per<b/>second</i><par n="maybe__adv"/>     </e>
+    <e lm="judicially"><i>judicially</i><par n="maybe__adv"/>     </e>
+    <e lm="gravitationally"><i>gravitationally</i><par n="maybe__adv"/>     </e>
+    <e lm="generically"><i>generically</i><par n="maybe__adv"/>     </e>
+    <e lm="analogously"><i>analogously</i><par n="maybe__adv"/>     </e>
     <e lm="forcedly"><i>forcedly</i><par n="maybe__adv"/>     </e>
     <e lm="juridically"><i>juridically</i><par n="maybe__adv"/>     </e>
     <e lm="gratefully"><i>gratefully</i><par n="maybe__adv"/>     </e>
@@ -30628,6 +30643,13 @@
     <e lm="opportunely"><i>opportunely</i><par n="maybe__adv"/>     </e>
     <e lm="preferentially"><i>preferentially</i><par n="maybe__adv"/>     </e>
     <e lm="batter"><i>batter</i><par n="house__n"/>     </e>
+    <e lm="wet nurse"><i>wet<b/>nurse</i><par n="house__n"/>     </e>
+    <e lm="absorption"><i>absorption</i><par n="house__n"/>     </e>
+    <e lm="absorbent"><i>absorbent</i><par n="house__n"/>     </e>
+    <e lm="self-financing"><i>self-financing</i><par n="house__n"/>     </e>
+    <e lm="wild boar"><i>wild<b/>boar</i><par n="house__n"/>     </e>
+    <e lm="teaching staff"><i>teaching<b/>staff</i><par n="staff__n"/>     </e>
+    <e lm="lightning conductor"><i>lightning<b/>conductor</i><par n="house__n"/>     </e>
     <e lm="antipode"><i>antipode</i><par n="house__n"/>     </e>
     <e lm="alembic"><i>alembic</i><par n="house__n"/>     </e>
     <e lm="anathema"><i>anathema</i><par n="house__n"/>     </e>
