@@ -89134,6 +89134,7 @@
     <e lm="camomilla"><i>camomill</i><par n="cas/a__n"/></e>
     <e lm="camorra"><i>camorr</i><par n="cas/a__n"/></e>
     <e lm="campo"><i>camp</i><par n="abbain/o__n"/></e>
+    <e lm="campo per rifugiati"><i>camp</i><par n="abbain/o__n"/><p><l><b/>per<b/>rifugiati</l><r><g><b/>per<b/>rifugiati</g></r></p></e>
     <e lm="campagna"><i>campagn</i><par n="cas/a__n"/></e>
     <e lm="campana"><i>campan</i><par n="cas/a__n"/></e>
     <e lm="campanile"><i>campanil</i><par n="abat/e__n"/></e>
@@ -89603,6 +89604,7 @@
     <e lm="cosmonauta"><i>cosmonaut</i><par n="suicid/a__n"/></e>
     <e lm="costa"><i>cost</i><par n="cas/a__n"/></e>
     <e lm="costante"><i>costant</i><par n="abbreviazion/e__n"/></e>
+    <e lm="costante di Planck"><i>costant</i><par n="abbreviazion/e__n"/><p><l><b/>di<b/>Planck</l><r><g><b/>di<b/>Planck</g></r></p></e>
     <e lm="costo"><i>cost</i><par n="abbain/o__n"/></e>
     <e lm="costellazione"><i>costellazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="costituzione"><i>costituzion</i><par n="abbreviazion/e__n"/></e>
@@ -90166,6 +90168,7 @@
     <e lm="formica"><i>formic</i><par n="tasc/a__n"/></e>
     <e lm="formula"><i>formul</i><par n="cas/a__n"/></e>
     <e lm="forno"><i>forn</i><par n="abbain/o__n"/></e>
+    <e lm="forno a microonde"><i>forn</i><par n="abbain/o__n"/><p><l><b/>a<b/>microonde</l><r><g><b/>a<b/>microonde</g></r></p></e>
     <e lm="fornello"><i>fornell</i><par n="abbain/o__n"/></e>
     <e lm="forte"><i>fort</i><par n="abat/e__n"/></e>
     <e lm="fortezza"><i>fortezz</i><par n="cas/a__n"/></e>
@@ -90988,6 +90991,7 @@
     <e lm="motocicletta"><i>motociclett</i><par n="cas/a__n"/></e>
     <e lm="motociclismo"><i>motociclism</i><par n="abbain/o__n"/></e>
     <e lm="motore"><i>motor</i><par n="abat/e__n"/></e>
+    <e lm="motore di ricerca"><i>motor</i><par n="abat/e__n"/><p><l><b/>di<b/>ricerca</l><r><g><b/>di<b/>ricerca</g></r></p></e>
     <e lm="motto"><i>mott</i><par n="abbain/o__n"/></e>
     <e lm="movimento"><i>moviment</i><par n="abbain/o__n"/></e>
     <e lm="mucchio"><i>mucchi</i><par n="abbagli/o__n"/></e>
@@ -92124,6 +92128,7 @@
     <e lm="stereotipo"><i>stereotip</i><par n="abbain/o__n"/></e>
     <e lm="sterilità"><i>sterilità</i><par n="abilità__n"/></e>
     <e lm="stile"><i>stil</i><par n="abat/e__n"/></e>
+    <e lm="stile di vita"><i>stil</i><par n="abat/e__n"/><p><l><b/>di<b/>vita</l><r><g><b/>di<b/>vita</g></r></p></e>
     <e lm="stima"><i>stim</i><par n="cas/a__n"/></e>
     <e lm="stipendio"><i>stipendi</i><par n="abbagli/o__n"/></e>
     <e lm="stomaco"><i>stomac</i><par n="abbain/o__n"/></e>
@@ -96989,6 +96994,18 @@
 <e lm="arma nucleara"><p><l>armi<b/>nucleare</l><r>arma<b/>nucleara<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="forno solare"><p><l>forno<b/>solare</l><r>forno<b/>solare<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="forno solare"><p><l>forni<b/>solari</l><r>forno<b/>solare<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="persona giuridica"><p><l>persona<b/>giuridica</l><r>persona<b/>giuridica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="persona giuridica"><p><l>persone<b/>giuridiche</l><r>persona<b/>giuridica<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="primo ministro"><p><l>primo<b/>ministro</l><r>primo<b/>ministro<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="primo ministro"><p><l>primi<b/>ministri</l><r>primo<b/>ministro<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="primo ministro"><p><l>prima<b/>ministra</l><r>primo<b/>ministro<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="primo ministro"><p><l>prime<b/>ministre</l><r>primo<b/>ministro<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="piccola e media impresa"><p><l>piccola<b/>e<b/>media<b/>impresa</l><r>piccola<b/>e<b/>media<b/>impresa<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="piccola e media impresa"><p><l>piccole<b/>e<b/>medie<b/>imprese</l><r>piccola<b/>e<b/>media<b/>impresa<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="disturbo ossessivo-compulsivo"><p><l>disturbo<b/>ossessivo-compulsivo</l><r>disturbo<b/>ossessivo-compulsivo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="disturbo ossessivo-compulsivo"><p><l>disturbi<b/>ossessivi-compulsivi</l><r>disturbo<b/>ossessivo-compulsivo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="disturbo ossessivo compulsivo"><p><l>disturbo<b/>ossessivo<b/>compulsivo</l><r>disturbo<b/>ossessivo<b/>compulsivo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="disturbo ossessivo compulsivo"><p><l>disturbi<b/>ossessivi<b/>compulsivi</l><r>disturbo<b/>ossessivo<b/>compulsivo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 
     <e lm="pasta all'uovo"><i>past</i><par n="cas/a__n"/><p><l><b/>all'uovo</l><r><g><b/>all'uovo</g></r></p></e>
     <e lm="pasta di legno"><i>past</i><par n="cas/a__n"/><p><l><b/>di<b/>legno</l><r><g><b/>di<b/>legno</g></r></p></e>
