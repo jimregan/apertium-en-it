@@ -197,18 +197,10 @@
 ^.<sent>$ ^approfondimento<n><m><sg>$	. #Deepening\<n\>\<sg\>
 ^.<sent>$ ^arcaico<n><m><pl>$	. #Archaic\<n\>\<pl\>
 ^.<sent>$ ^arcaico<n><m><sg>$	. #Archaic\<n\>\<sg\>
-^.<sent>$ ^assorbente<n><m><pl>$	. #Absorbent\<n\>\<pl\>
-^.<sent>$ ^assorbente<n><m><sg>$	. #Absorbent\<n\>\<sg\>
-^.<sent>$ ^assorbimento<n><m><pl>$	. #Absorption\<n\>\<pl\>
-^.<sent>$ ^assorbimento<n><m><sg>$	. #Absorption\<n\>\<sg\>
-^.<sent>$ ^autofinanziamento<n><m><pl>$	. #Self-financing\<n\>\<pl\>
-^.<sent>$ ^autofinanziamento<n><m><sg>$	. #Self-financing\<n\>\<sg\>
 ^.<sent>$ ^bagagliaio<n><m><pl>$	. \@Bagagliaio\<n\>\<pl\>
 ^.<sent>$ ^bagagliaio<n><m><sg>$	. \@Bagagliaio\<n\>\<sg\>
 ^.<sent>$ ^bagattella<n><f><pl>$	. \@Bagattella\<n\>\<pl\>
 ^.<sent>$ ^bagattella<n><f><sg>$	. \@Bagattella\<n\>\<sg\>
-^.<sent>$ ^balia<n><f><pl>$	. #Wet nurse\<n\>\<pl\>
-^.<sent>$ ^balia<n><f><sg>$	. #Wet nurse\<n\>\<sg\>
 ^.<sent>$ ^balneazione<n><f><pl>$	. #Bathing\<n\>\<pl\>
 ^.<sent>$ ^balneazione<n><f><sg>$	. #Bathing\<n\>\<sg\>
 ^.<sent>$ ^banale<n><mf><pl>$	. \@Banale\<n\>\<pl\>
@@ -263,8 +255,6 @@
 ^.<sent>$ ^chiaro<n><m><sg>$	. \@Chiaro\<n\>\<sg\>
 ^.<sent>$ ^cinescopio<n><m><pl>$	. #Kinescope\<n\>\<pl\>
 ^.<sent>$ ^cinescopio<n><m><sg>$	. #Kinescope\<n\>\<sg\>
-^.<sent>$ ^cinghiale<n><m><pl>$	. #Wild boar\<n\>\<pl\>
-^.<sent>$ ^cinghiale<n><m><sg>$	. #Wild boar\<n\>\<sg\>
 ^.<sent>$ ^clausura<n><f><pl>$	. \@Clausura\<n\>\<pl\>
 ^.<sent>$ ^clausura<n><f><sg>$	. \@Clausura\<n\>\<sg\>
 ^.<sent>$ ^collegiale<n><mf><pl>$	. \@Collegiale\<n\>\<pl\>
@@ -296,8 +286,6 @@
 ^.<sent>$ ^cordone<n><m><sg>$	. \@Cordone\<n\>\<sg\>
 ^.<sent>$ ^cordovese<n><mf><pl>$	. \@Cordovese\<n\>\<pl\>
 ^.<sent>$ ^cordovese<n><mf><sg>$	. \@Cordovese\<n\>\<sg\>
-^.<sent>$ ^corpo# insegnante<n><m><pl>$	. #Teaching staff\<n\>\<pl\>
-^.<sent>$ ^corpo# insegnante<n><m><sg>$	. #Teaching staff\<n\>\<sg\>
 ^.<sent>$ ^corridoio<n><m><pl>$	. \@Corridoio\<n\>\<pl\>
 ^.<sent>$ ^corridoio<n><m><sg>$	. \@Corridoio\<n\>\<sg\>
 ^.<sent>$ ^corteccia<n><f><pl>$	. #Cortex\<n\>\<pl\>
@@ -629,8 +617,6 @@
 ^.<sent>$ ^paracadutismo<n><m><sg>$	. #Parachuting\<n\>\<sg\>
 ^.<sent>$ ^paradosso<n><m><pl>$	. #Paradox\<n\>\<pl\>
 ^.<sent>$ ^paradosso<n><m><sg>$	. #Paradox\<n\>\<sg\>
-^.<sent>$ ^parafulmine<n><m><pl>$	. #Lightning conductor\<n\>\<pl\>
-^.<sent>$ ^parafulmine<n><m><sg>$	. #Lightning conductor\<n\>\<sg\>
 ^.<sent>$ ^parassita<n><m><pl>$	. #Parasite\<n\>\<pl\>
 ^.<sent>$ ^parassita<n><m><sg>$	. #Parasite\<n\>\<sg\>
 ^.<sent>$ ^paziente<n><mf><pl>$	. \@Paziente\<n\>\<pl\>
@@ -9047,8 +9033,6 @@
 ^.<sent>$ ^come per esempio<adv>$	. \@Come per esempio\<adv\>
 ^.<sent>$ ^come se<adv>$	. #As if
 ^.<sent>$ ^rotondamente<adv>$	. \@Rotondamente\<adv\>
-^.<sent>$ ^con molto entusiasmo<adv>$	. #With much enthusiasm\<adv\>
-^.<sent>$ ^con tutta la certezza<adv>$	. #With any certainty\<adv\>
 ^.<sent>$ ^con virilità<adv>$	. \@Con virilità\<adv\>
 ^.<sent>$ ^così come<adv>$	. \@Così come\<adv\>
 ^.<sent>$ ^d'ogni modo<adv>$	. \@D'ogni modo\<adv\>
@@ -9066,15 +9050,11 @@
 ^.<sent>$ ^di seguito<adv>$	. \@Di seguito\<adv\>
 ^.<sent>$ ^dopo di ché<adv>$	. \@Dopo di ché\<adv\>
 ^.<sent>$ ^dopodiché<adv>$	. \@Dopodiché\<adv\>
-^.<sent>$ ^etc<adv>$	. #Etc\<adv\>
 ^.<sent>$ ^eventualmente<adv>$	. \@Eventualmente\<adv\>
 ^.<sent>$ ^frontalmente<adv>$	. \@Frontalmente\<adv\>
-^.<sent>$ ^in assoluto<adv>$	. #In absolute\<adv\>
 ^.<sent>$ ^a digiuno<adv>$	. \@A digiuno\<adv\>
 ^.<sent>$ ^in certa misura<adv>$	. \@In certa misura\<adv\>
-^.<sent>$ ^in conseguenza<adv>$	. #In consequence\<adv\>
 ^.<sent>$ ^in contromano<adv>$	. \@In contromano\<adv\>
-^.<sent>$ ^in difficoltà<adv>$	. #In difficulty\<adv\>
 ^.<sent>$ ^in esclusiva<adv>$	. \@In esclusiva\<adv\>
 ^.<sent>$ ^in filiera<adv>$	. \@In filiera\<adv\>
 ^.<sent>$ ^in interdizione<adv>$	. \@In interdizione\<adv\>
@@ -9088,7 +9068,6 @@
 ^.<sent>$ ^ininterrottamente<adv>$	. \@Ininterrottamente\<adv\>
 ^.<sent>$ ^insieme<adv>$	. \@Insieme\<adv\>
 ^.<sent>$ ^intanto<adv>$	. \@Intanto\<adv\>
-^.<sent>$ ^integralmente<adv>$	. #Integrally\<adv\>
 ^.<sent>$ ^lamentabilmente<adv>$	. \@Lamentabilmente\<adv\>
 ^.<sent>$ ^maggiormente<adv>$	. \@Maggiormente\<adv\>
 ^.<sent>$ ^migliore<adv>$	. #Good
@@ -9099,7 +9078,6 @@
 ^.<sent>$ ^obbligatoriamente<adv>$	. \@Obbligatoriamente\<adv\>
 ^.<sent>$ ^occhio vigile<adv>$	. \@Occhio vigile\<adv\>
 ^.<sent>$ ^ogni primavera<adv>$	. \@Ogni primavera\<adv\>
-^.<sent>$ ^on line<adv>$	. #On line\<adv\>
 ^.<sent>$ ^onoratamente<adv>$	. \@Onoratamente\<adv\>
 ^.<sent>$ ^ovunque<adv>$	. \@Ovunque\<adv\>
 ^.<sent>$ ^passeggiando<adv>$	. \@Passeggiando\<adv\>
@@ -9109,13 +9087,9 @@
 ^.<sent>$ ^per di qui<adv>$	. \@Per di qui\<adv\>
 ^.<sent>$ ^per magia<adv>$	. \@Per magia\<adv\>
 ^.<sent>$ ^per scontato<adv>$	. \@Per scontato\<adv\>
-^.<sent>$ ^per secondo<adv>$	. #Per second\<adv\>
 ^.<sent>$ ^per sentito dire<adv>$	. \@Per sentito dire\<adv\>
 ^.<sent>$ ^percento<adv>$	. \@Percento\<adv\>
 ^.<sent>$ ^più di<adv>$	. \@Più di\<adv\>
-^.<sent>$ ^poco a poco<adv>$	. #Little by little\<adv\>
-^.<sent>$ ^umanamente<adv>$	. #Humanly\<adv\>
-^.<sent>$ ^giudiziariamente<adv>$	. #Judicially\<adv\>
 ^.<sent>$ ^paulatinamente<adv>$	. \@Paulatinamente\<adv\>
 ^.<sent>$ ^purtroppo<adv>$	. \@Purtroppo\<adv\>
 ^.<sent>$ ^può darsi<adv>$	. \@Può darsi\<adv\>
@@ -9131,13 +9105,10 @@
 ^.<sent>$ ^su Internet<adv>$	. \@Su Internet\<adv\>
 ^.<sent>$ ^verace<adv>$	. \@Verace\<adv\>
 ^.<sent>$ ^oltre<adv>$	. \@Oltre\<adv\>
-^.<sent>$ ^analogamente<adv>$	. #Analogously\<adv\>
 ^.<sent>$ ^certosinamente<adv>$	. \@Certosinamente\<adv\>
 ^.<sent>$ ^dettagliatamente<adv>$	. #In detail\<adv\>
 ^.<sent>$ ^equamente <adv>$	. \@Equamente \<adv\>
 ^.<sent>$ ^finemente<adv>$	. \@Finemente\<adv\>
-^.<sent>$ ^genericamente<adv>$	. #Generically\<adv\>
-^.<sent>$ ^gravitazionalmente<adv>$	. #Gravitationally\<adv\>
 ^.<sent>$ ^lungamente<adv>$	. \@Lungamente\<adv\>
 ^.<sent>$ ^parallelamente<adv>$	. \@Parallelamente\<adv\>
 ^.<sent>$ ^precocemente<adv>$	. \@Precocemente\<adv\>
@@ -9152,7 +9123,6 @@
 ^.<sent>$ ^arresto<n><f><pl>$	. #Arrested\<n\>\<pl\>
 ^.<sent>$ ^insenatura<n><f><pl>$	. #Inlet\<n\>\<pl\>
 ^.<sent>$ ^insenatura<n><f><sg>$	. #Inlet\<n\>\<sg\>
-^.<sent>$ ^pugilato<n><m><pl>$	. #Boxing\<n\>\<pl\>
 ^.<sent>$ ^malleabilità<n><f><sp>$	. \@Malleabilità\<n\>\<sp\>
 ^.<sent>$ ^liberalismo<n><m><pl>$	. #Liberalism\<n\>\<pl\>
 ^.<sent>$ ^liberalismo<n><m><sg>$	. #Liberalism\<n\>\<sg\>
@@ -10973,8 +10943,6 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> letter<n>/handwriting<n>$
 #\^.\<sent\> link<n>/liaison<n>$
 #\^.\<sent\> liberation<n>/release<n>$
-#\^.\<sent\> licence<n>/license<n>$
-#\^.\<sent\> licence<n>/license<n>$
 #\^.\<sent\> elevator<n>/lift<n>$
 #\^.\<sent\> impulse<n>/lift<n>/boost<n>/urge<n>/spurt<n>$
 #\^.\<sent\> lime<n>/file<n>$
