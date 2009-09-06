@@ -16261,16 +16261,15 @@
 <e><p><l>feature<s n="n"/></l><r>caratteristica<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>federalism<s n="n"/></l><r>federalismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>federation<s n="n"/></l><r>federazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>fee<s n="n"/></l><r>costo<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>fee<s n="n"/></l><r>costo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>feed<s n="n"/></l><r>mangime<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>feeling<s n="n"/></l><r>sensazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>feeling<s n="n"/></l><r>stimolo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>sensation<s n="n"/></l><r>sensazione<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>stimulus<s n="n"/></l><r>stimolo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>feeling<s n="n"/></l><r>sentimento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>female<s n="n"/></l><r>femmina<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>female<s n="n"/></l><r>donna<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>feminism<s n="n"/></l><r>femminismo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>feminist<s n="n"/></l><r>femminista<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>feminist<s n="n"/></l><r>femminista<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>feminist<s n="n"/></l><r>femminista<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>feminist<s n="n"/></l><r>femminista<s n="n"/></r></p></e>
 <e><p><l>fence<s n="n"/></l><r>siepe<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fencing<s n="n"/></l><r>scherma<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fennel<s n="n"/></l><r>finocchio<s n="n"/><s n="m"/></r></p></e>
@@ -16279,12 +16278,12 @@
 <e><p><l>ferromagnetism<s n="n"/></l><r>ferromagnetismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ferry<s n="n"/></l><r>traghetto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fertilisation<s n="n"/></l><r>fertilizzazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>fertilisation<s n="n"/></l><r>concimazione<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>fertilisation<s n="n"/></l><r>concimazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fertiliser<s n="n"/></l><r>concime<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>fertility<s n="n"/><s n="ND"/></l><r>fertilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>fertility<s n="n"/><s n="sg"/></l><r>fertilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>fertility<s n="n"/><s n="pl"/></l><r>fertilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e><p><l>fertilization<s n="n"/></l><r>fecondazione<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>fertilisation<s n="n"/></l><r>fecondazione<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>festival<s n="n"/><s n="sg"/></l><r>festival<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>festival<s n="n"/><s n="pl"/></l><r>festival<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>festival<s n="n"/><s n="ND"/></l><r>festival<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -16650,8 +16649,7 @@
 <e><p><l>grape<s n="n"/></l><r>uva<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>graphics<s n="n"/></l><r>grafico<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>grass<s n="n"/></l><r>erba<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>grassland<s n="n"/></l><r>prateria<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>grassland<s n="n"/></l><r>prato<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>grassland<s n="n"/></l><r>prateria<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>gratuity<s n="n"/><s n="ND"/></l><r>gratuità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>gratuity<s n="n"/><s n="sg"/></l><r>gratuità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>gratuity<s n="n"/><s n="pl"/></l><r>gratuità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -18116,7 +18114,7 @@
 <e r="LR"><p><l>numismatist<s n="n"/></l><r>numismatico<s n="n"/><s n="GD"/></r></p></e>
 <e r="LR"><p><l>nurse<s n="n"/></l><r>infermiere<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>nurse<s n="n"/></l><r>infermiere<s n="n"/></r></p></e>
-<e><p><l>nursemaid<s n="n"/></l><r>bambinaia<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>nursemaid<s n="n"/></l><r>bambinaia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>nursery<s n="n"/></l><r>vivaio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>nut<s n="n"/></l><r>dado<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>nutrition<s n="n"/></l><r>nutrizione<s n="n"/><s n="f"/></r></p></e>
@@ -21274,7 +21272,7 @@
 <e><p><l>boron<s n="n"/></l><r>boro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>boxing<s n="n"/></l><r>pugilato<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bracelet<s n="n"/></l><r>braccialetto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>breastbone<s n="n"/></l><r>sterno<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>breastbone<s n="n"/></l><r>sterno<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>brocade<s n="n"/></l><r>broccato<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bromide<s n="n"/></l><r>bromuro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bromine<s n="n"/></l><r>bromo<s n="n"/><s n="m"/></r></p></e>
