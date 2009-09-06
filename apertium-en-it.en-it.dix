@@ -14513,7 +14513,7 @@
 <e><p><l>bricklayer<s n="n"/></l><r>muratore<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bricklayer<s n="n"/></l><r>paletta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bride<s n="n"/></l><r>fidanzato<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>bridegroom<s n="n"/></l><r>fidanzato<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>bridegroom<s n="n"/></l><r>fidanzato<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bridge<s n="n"/></l><r>ponte<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>broadcast<s n="n"/></l><r>emissione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bronze<s n="n"/></l><r>bronzo<s n="n"/><s n="m"/></r></p></e>
@@ -15368,7 +15368,7 @@
 <e><p><l>cross<s n="n"/></l><r>croce<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>cross<s n="n"/><s n="ND"/></l><r>cross<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>crossing<s n="n"/></l><r>attraversamento<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>crowbar<s n="n"/></l><r>leva<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>crowbar<s n="n"/></l><r>leva<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>crown<s n="n"/></l><r>corona<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>crucifix<s n="n"/></l><r>crocifisso<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>cruelty<s n="n"/><s n="ND"/></l><r>crudeltà<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -17450,7 +17450,6 @@
 <e><p><l>letter<s n="n"/></l><r>lettera<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>lettuce<s n="n"/></l><r>lattuga<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>leukaemia<s n="n"/></l><r>leucemia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>leukemia<s n="n"/></l><r>leucemia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>level<s n="n"/></l><r>livello<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>lever<s n="n"/></l><r>leva<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>levitation<s n="n"/></l><r>levitazione<s n="n"/><s n="f"/></r></p></e>
@@ -19900,7 +19899,7 @@
 <e><p><l>stick<s n="n"/></l><r>pylon<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>stick<s n="n"/></l><r>pertica<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>stimulation<s n="n"/></l><r>stimolazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>stimulus<s n="n"/></l><r>incentivazione<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>incentivisation<s n="n"/></l><r>incentivazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>stipulation<s n="n"/></l><r>stipulazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>stir<s n="n"/></l><r>agitamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>stock<s n="n"/></l><r>scorta<s n="n"/><s n="f"/></r></p></e>
@@ -21289,7 +21288,7 @@
 <e r="LR"><p><l>ductility<s n="n"/></l><r>malleabilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
 <e><p><l>electronegativity<s n="n"/></l><r>elettronegatività<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
 <e><p><l>externality<s n="n"/></l><r>esternalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
-<e><p><l>fecundity<s n="n"/></l><r>fertilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+<e r="LR"><p><l>fecundity<s n="n"/></l><r>fertilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
 <e><p><l>hospitality<s n="n"/></l><r>ospitalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
 <e><p><l>immortality<s n="n"/></l><r>immortalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
 <e><p><l>intentionality<s n="n"/></l><r>intenzionalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
