@@ -90667,6 +90667,8 @@
     <e lm="letteratura"><i>letteratur</i><par n="cas/a__n"/></e>
     <e lm="lettura"><i>lettur</i><par n="cas/a__n"/></e>
     <e lm="lettore"><i>lett</i><par n="agricolt/ore__n"/></e>
+    <e lm="lettore di codice a barre"><i>lettor</i><par n="abat/e__n"/><p><l><b/>di<b/>codice<b/>a<b/>barre</l><r><g><b/>di<b/>codice<b/>a<b/>barre</g></r></p></e>
+    <e lm="lettore MP3"><i>lettor</i><par n="abat/e__n"/><p><l><b/>MP3</l><r><g><b/>MP3</g></r></p></e>
     <e lm="leucemia"><i>leucemi</i><par n="cas/a__n"/></e>
     <e lm="leva"><i>lev</i><par n="cas/a__n"/></e>
     <e lm="levante"><i>levant</i><par n="abat/e__n"/></e>
@@ -91522,6 +91524,8 @@
     <e lm="preludio"><i>preludi</i><par n="abbagli/o__n"/></e>
     <e lm="premessa"><i>premess</i><par n="cas/a__n"/></e>
     <e lm="premio"><i>premi</i><par n="abbagli/o__n"/></e>
+    <e lm="premio Nobel"><i>premi</i><par n="abbagli/o__n"/><p><l><b/>Nobel</l><r><g><b/>Nobel</g></r></p></e>
+    <e lm="premio Nobel per la pace"><i>premi</i><par n="abbagli/o__n"/><p><l><b/>Nobel<b/>per<b/>la<b/>pace</l><r><g><b/>Nobel<b/>per<b/>la<b/>pace</g></r></p></e>
     <e lm="preoccupazione"><i>preoccupazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="preposizione"><i>preposizion</i><par n="abbreviazion/e__n"/></e>
     <e lm="preposto"><i>prepost</i><par n="bambin/o__n"/></e>
@@ -92140,6 +92144,7 @@
     <e lm="stucco"><i>stucc</i><par n="fung/o__n"/></e>
     <e lm="studente"><i>student</i><par n="baron/e__n"/></e>
     <e lm="studio"><i>studi</i><par n="abbagli/o__n"/></e>
+    <e lm="studio di registrazione"><i>studi</i><par n="abbagli/o__n"/><p><l><b/>di<b/>registrazione</l><r><g><b/>di<b/>registrazione</g></r></p></e>
     <e lm="stufa"><i>stuf</i><par n="cas/a__n"/></e>
     <e lm="stupore"><i>stupor</i><par n="abat/e__n"/></e>
     <e lm="stupro"><i>stupr</i><par n="abbain/o__n"/></e>
@@ -92423,6 +92428,7 @@
     <e lm="veleno"><i>velen</i><par n="abbain/o__n"/></e>
     <e lm="velivolo"><i>velivol</i><par n="abbain/o__n"/></e>
     <e lm="velocità"><i>velocità</i><par n="abilità__n"/></e>
+    <e lm="velocità della luce"><i>velocità<b/>della<b/>luce</i><par n="abilità__n"/></e>
     <e lm="vena"><i>ven</i><par n="cas/a__n"/></e>
     <e lm="vendita"><i>vendit</i><par n="cas/a__n"/></e>
     <e lm="venerdì"><i>venerdì</i><par n="albatros__n"/></e>
@@ -96981,6 +96987,8 @@
 <e lm="arma chimica"><p><l>armi<b/>chimiche</l><r>arma<b/>chimica<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="arma nucleara"><p><l>arma<b/>nucleara</l><r>arma<b/>nucleara<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="arma nucleara"><p><l>armi<b/>nucleare</l><r>arma<b/>nucleara<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="forno solare"><p><l>forno<b/>solare</l><r>forno<b/>solare<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="forno solare"><p><l>forni<b/>solari</l><r>forno<b/>solare<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 
     <e lm="pasta all'uovo"><i>past</i><par n="cas/a__n"/><p><l><b/>all'uovo</l><r><g><b/>all'uovo</g></r></p></e>
     <e lm="pasta di legno"><i>past</i><par n="cas/a__n"/><p><l><b/>di<b/>legno</l><r><g><b/>di<b/>legno</g></r></p></e>
