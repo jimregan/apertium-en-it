@@ -89605,6 +89605,8 @@
     <e lm="costa"><i>cost</i><par n="cas/a__n"/></e>
     <e lm="costante"><i>costant</i><par n="abbreviazion/e__n"/></e>
     <e lm="costante di Planck"><i>costant</i><par n="abbreviazion/e__n"/><p><l><b/>di<b/>Planck</l><r><g><b/>di<b/>Planck</g></r></p></e>
+    <e lm="costante di gravitazione universale"><i>costant</i><par n="abbreviazion/e__n"/><p><l><b/>di<b/>gravitazione<b/>universale</l><r><g><b/>di<b/>gravitazione<b/>universale</g></r></p></e>
+    <e lm="costante di gravitazione"><i>costant</i><par n="abbreviazion/e__n"/><p><l><b/>di<b/>gravitazione</l><r><g><b/>di<b/>gravitazione</g></r></p></e>
     <e lm="costo"><i>cost</i><par n="abbain/o__n"/></e>
     <e lm="costellazione"><i>costellazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="costituzione"><i>costituzion</i><par n="abbreviazion/e__n"/></e>
@@ -90872,6 +90874,7 @@
     <e lm="mercatino"><i>mercatin</i><par n="abbain/o__n"/></e>
     <e lm="mercenario"><i>mercenari</i><par n="abbagli/o__n"/></e>
     <e lm="mercoledì"><i>mercoledì</i><par n="albatros__n"/></e>
+    <e lm="Mercoledì delle Ceneri"><i>Mercoledì<b/>delle<b/>Ceneri</i><par n="albatros__n"/></e>
     <e lm="mercurio"><i>mercuri</i><par n="abbagli/o__n"/></e>
     <e lm="merda"><i>merd</i><par n="cas/a__n"/></e>
     <e lm="meridiano"><i>meridian</i><par n="abbain/o__n"/></e>
@@ -92601,6 +92604,7 @@
     <e lm="ortaggio"><i>ortaggi</i><par n="abbagli/o__n"/></e>
     <e lm="imbarcazione"><i>imbarcazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="significazione"><i>significazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="festival cinematografico"><i>festival<b/>cinematografic</i><par n="abbain/o__n"/></e>
 
 <!--zione-->
 
@@ -97006,6 +97010,8 @@
 <e lm="disturbo ossessivo-compulsivo"><p><l>disturbi<b/>ossessivi-compulsivi</l><r>disturbo<b/>ossessivo-compulsivo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="disturbo ossessivo compulsivo"><p><l>disturbo<b/>ossessivo<b/>compulsivo</l><r>disturbo<b/>ossessivo<b/>compulsivo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="disturbo ossessivo compulsivo"><p><l>disturbi<b/>ossessivi<b/>compulsivi</l><r>disturbo<b/>ossessivo<b/>compulsivo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="forza armata"><p><l>forza<b/>armata</l><r>forza<b/>armata<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="forza armata"><p><l>forze<b/>armate</l><r>forza<b/>armata<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
     <e lm="pasta all'uovo"><i>past</i><par n="cas/a__n"/><p><l><b/>all'uovo</l><r><g><b/>all'uovo</g></r></p></e>
     <e lm="pasta di legno"><i>past</i><par n="cas/a__n"/><p><l><b/>di<b/>legno</l><r><g><b/>di<b/>legno</g></r></p></e>
