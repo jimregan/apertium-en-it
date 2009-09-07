@@ -12341,6 +12341,8 @@
 <e><p><l>yawn<s n="vblex"/></l><r>sbadigliare<s n="vblex"/></r></p></e>
 <e><p><l>yield<s n="vblex"/></l><r>cedere<s n="vblex"/></r></p></e>
 <e><p><l>zone<s n="vblex"/></l><r>circondare<s n="vblex"/></r></p></e>
+<e><p><l>recreate<s n="vblex"/></l><r>ricreare<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>re-create<s n="vblex"/></l><r>ricreare<s n="vblex"/></r></p></e>
 <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
 <e><p><l>'<s n="apos"/></l><r>'<s n="apos"/></r></p></e>
 <e r="LR"><p><l>any<s n="preadv"/></l><r>molto<s n="preadv"/></r></p></e>
