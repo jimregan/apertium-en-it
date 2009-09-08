@@ -11281,7 +11281,7 @@
 <e><p><l>disarm<s n="vblex"/></l><r>disarmare<s n="vblex"/></r></p></e>
 <e><p><l>disassemble<s n="vblex"/></l><r>smontare<s n="vblex"/></r></p></e>
 <e><p><l>disburse<s n="vblex"/></l><r>sborsare<s n="vblex"/></r></p></e>
-<e><p><l>discern<s n="vblex"/></l><r>percepire<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>discern<s n="vblex"/></l><r>percepire<s n="vblex"/></r></p></e>
 <e c="liberar presos"><p><l>discharge<s n="vblex"/></l><r>liberare<s n="vblex"/></r></p></e>
 <e><p><l>discipline<s n="vblex"/></l><r>disciplinare<s n="vblex"/></r></p></e>
 <e><p><l>disclose<s n="vblex"/></l><r>rivelare<s n="vblex"/></r></p></e>
@@ -12408,7 +12408,7 @@
 <e><p><l>disagree<s n="vblex"/></l><r>discordare<s n="vblex"/></r></p></e>
 <e><p><l>divert<s n="vblex"/></l><r>deviare<s n="vblex"/></r></p></e>
 <e><p><l>divorce<s n="vblex"/></l><r>divorziare<s n="vblex"/></r></p></e>
-<e><p><l>dope<s n="vblex"/></l><r>drogare<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>dope<s n="vblex"/></l><r>drogare<s n="vblex"/></r></p></e>
 <e><p><l>double<s n="vblex"/></l><r>raddoppiare<s n="vblex"/></r></p></e>
 <e><p><l>doubt<s n="vblex"/></l><r>dubitare<s n="vblex"/></r></p></e>
 <e><p><l>download<s n="vblex"/></l><r>scaricare<s n="vblex"/></r></p></e>
@@ -12572,7 +12572,7 @@
 <e><p><l>but<s n="cnjcoo"/></l><r>ma<s n="cnjcoo"/></r></p></e>
 <e r="LR" c="either... or... : o... o..."><p><l>either<s n="cnjcoo"/></l><r>o<s n="cnjcoo"/></r></p></e>
 <e c="MG: neither... nor; not... or :en el trànsfer"><p><l>neither<s n="cnjcoo"/></l><r>né<s n="cnjcoo"/></r></p></e>
-<e r="RL"><p><l>nor<s n="cnjcoo"/></l><r>né<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>nor<s n="cnjcoo"/></l><r>né<s n="cnjcoo"/></r></p></e>
 <e><p><l>or<s n="cnjcoo"/></l><r>o<s n="cnjcoo"/></r></p></e>
 <e><p><l>God<b/>willing<s n="adv"/></l><r>a<b/>Dio<b/>piacendo<s n="adv"/></r></p></e>
 <e><p><l>a<b/>bit<s n="adv"/></l><r>un<b/>pò<s n="adv"/></r></p></e>
@@ -13668,7 +13668,6 @@
 <e r="LR" c="traducció per defecte en masculí, per ara"><p><l>American<s n="n"/></l><r>americano<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL" c="traducció per defecte en masculí, per ara"><p><l>American<s n="n"/></l><r>americano<s n="n"/></r></p></e>
 <e><p><l>Anglo-Saxon<s n="n"/></l><r>anglosassone<s n="n"/><s n="mf"/></r></p></e>
-<e><p><l>Annunciation<s n="n"/></l><r>annunciazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>April<s n="n"/></l><r>aprile<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>Arab<s n="n"/></l><r>arabo<s n="n"/></r></p></e>
 <e r="LR"><p><l>Arab<s n="n"/></l><r>arabo<s n="n"/><s n="GD"/></r></p></e>
@@ -13717,7 +13716,7 @@
 <e><p><l>February<s n="n"/></l><r>febbraio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>Finn<s n="n"/></l><r>finlandese<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>Franco's<b/>regime<s n="n"/></l><r>franchismo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Franco<b/>regime<s n="n"/></l><r>franchismo<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>Franco<b/>regime<s n="n"/></l><r>franchismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>Frechman<s n="n"/></l><r>gallico<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>Frechwoman<s n="n"/></l><r>gallico<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>French<s n="n"/></l><r>francese<s n="n"/><s n="mf"/></r></p></e>
@@ -13810,8 +13809,8 @@
 <e r="RL"><p><l>Thursday<s n="n"/><s n="ND"/></l><r>giovedì<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>Tuesday<s n="n"/><s n="sg"/></l><r>martedì<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>Tuesday<s n="n"/><s n="pl"/></l><r>martedì<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e><p><l>Tuesday<s n="n"/><s n="ND"/></l><r>martedì<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e><p><l>U.N.<s n="n"/><s n="acr"/></l><r>ONU<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>Tuesday<s n="n"/><s n="ND"/></l><r>martedì<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>U.N.<s n="n"/><s n="acr"/></l><r>ONU<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 <e><p><l>UA<s n="n"/><s n="acr"/></l><r>UA<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>UEFA<s n="n"/><s n="acr"/></l><r>UEFA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 <e><p><l>UGT<s n="n"/><s n="acr"/></l><r>UGT<s n="n"/><s n="f"/></r></p></e>
@@ -13924,17 +13923,15 @@
 <e r="LR"><p><l>activity<s n="n"/><s n="sg"/></l><r>attività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>activity<s n="n"/><s n="pl"/></l><r>attività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>actor<s n="n"/></l><r>attore<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>actor<s n="n"/></l><r>attore<s n="n"/></r></p></e>
-<e r="LR"><p><l>actor<s n="n"/></l><r>attore<s n="n"/><s n="GD"/></r></p></e>
+<e><p><l>actor<s n="n"/></l><r>attore<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>actress<s n="n"/></l><r>attore<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>actuality<s n="n"/><s n="ND"/></l><r>attualità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>actuality<s n="n"/><s n="sg"/></l><r>attualità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>actuality<s n="n"/><s n="pl"/></l><r>attualità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>acupuncture<s n="n"/></l><r>agopuntura<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>ad<s n="n"/></l><r>annuncio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>adaptation<s n="n"/></l><r>adattamento<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>adaptation<s n="n"/></l><r>adeguamento<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>ad<s n="n"/></l><r>annuncio<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>adaptation<s n="n"/></l><r>adeguamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>adaptation<s n="n"/></l><r>adattamento<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>addict<s n="n"/></l><r>dipendente<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>addict<s n="n"/></l><r>dipendente<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>addition<s n="n"/></l><r>addizione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>additive<s n="n"/></l><r>additivo<s n="n"/><s n="m"/></r></p></e>
@@ -13946,7 +13943,6 @@
 <e r="RL"><p><l>administration<s n="n"/></l><r>somministrazione<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>administrator<s n="n"/></l><r>amministratore<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>administrator<s n="n"/></l><r>amministratore<s n="n"/></r></p></e>
-<e><p><l>admiral<s n="n"/></l><r>ammiraglio<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>admiral<s n="n"/></l><r>ammiraglio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>admiration<s n="n"/></l><r>ammirazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>adolescence<s n="n"/></l><r>adolescenza<s n="n"/><s n="f"/></r></p></e>
@@ -13978,8 +13974,7 @@
 <e r="RL"><p><l>affability<s n="n"/><s n="ND"/></l><r>affabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>affability<s n="n"/><s n="sg"/></l><r>affabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>affability<s n="n"/><s n="pl"/></l><r>affabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e><p><l>affection<s n="n"/></l><r>fine<s n="n"/><s n="mf"/></r></p></e>
-<e><p><l>affection<s n="n"/></l><r>affetto<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>affection<s n="n"/></l><r>affetto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>affection<s n="n"/></l><r>affezione<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>affinity<s n="n"/><s n="sg"/></l><r>affinità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>affinity<s n="n"/><s n="pl"/></l><r>affinità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
