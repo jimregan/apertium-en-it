@@ -15486,8 +15486,8 @@
 <e><p><l>cornice<s n="n"/></l><r>cornice<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>coronation<s n="n"/></l><r>monarchia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>coronation<s n="n"/></l><r>coronazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>coronation<s n="n"/></l><r>incoronazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>corporation<s n="n"/></l><r>impresa<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>coronation<s n="n"/></l><r>incoronazione<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>corporation<s n="n"/></l><r>impresa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>corporatism<s n="n"/></l><r>corporativismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>corps<s n="n"/></l><r>corpo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>corpse<s n="n"/></l><r>carcassa<s n="n"/><s n="f"/></r></p></e>
@@ -15505,9 +15505,6 @@
 <e c="EU"><p><l>costume<s n="n"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cotton<s n="n"/></l><r>cotone<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cough<s n="n"/></l><r>tosse<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>cough<s n="n"/><s n="sg"/></l><r>tosse<s n="n"/></r></p></e>
-<e r="RL"><p><l>cough<s n="n"/><s n="ND"/></l><r>tosse<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e><p><l>cough<s n="n"/><s n="pl"/></l><r>tosse<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e><p><l>coughing<s n="n"/></l><r>tosse<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>council<s n="n"/></l><r>consiglio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>counsel<s n="n"/></l><r>consiglio<s n="n"/><s n="m"/></r></p></e>
@@ -16239,7 +16236,7 @@
 <e><p><l>enmity<s n="n"/></l><r>inimicizia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>enquiry<s n="n"/></l><r>ricerca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>enrichment<s n="n"/></l><r>arricchimento<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>enterprise<s n="n"/></l><r>impresa<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>enterprise<s n="n"/></l><r>impresa<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>entertainer<s n="n"/></l><r>artista<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>entertainment<s n="n"/></l><r>divertimento<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>entity<s n="n"/><s n="ND"/></l><r>entità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -16554,7 +16551,7 @@
 <e><p><l>firewall<s n="n"/></l><r>firewall<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>firewoman<s n="n"/></l><r>vigile<g><b/>del<b/>fuoco</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>firewood<s n="n"/></l><r>legna<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>firm<s n="n"/></l><r>impresa<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>firm<s n="n"/></l><r>impresa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>firmament<s n="n"/></l><r>firmamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fish<s n="n"/></l><r>pesce<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fisherman<s n="n"/></l><r>pescatore<s n="n"/><s n="m"/></r></p></e>
