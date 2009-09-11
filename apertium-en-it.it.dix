@@ -80402,6 +80402,14 @@
 
 
     </pardef>
+    <pardef n="Maldive__np">
+      <e>
+	<p>
+	  <l></l>
+	  <r><s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r>
+	</p>
+      </e>
+    </pardef>
     <pardef n="María__np">
       <e>
 	<p>
@@ -98541,6 +98549,17 @@
     <e lm="decomporre"><i>decompo</i><par n="antepo/rre__vblex"/></e>
     <e lm="deporre"><i>depo</i><par n="antepo/rre__vblex"/></e>
     <e lm="interporre"><i>interpo</i><par n="antepo/rre__vblex"/></e>
+    <e lm="Maldive"><i>Maldive</i><par n="Maldive__np"/></e>
+    <e lm="Isole Aleutine"><i>Isole<b/>Aleutine</i><par n="Maldive__np"/></e>
+    <e lm="Isole Vergini britanniche"><i>Isole<b/>Vergini<b/>britanniche</i><par n="Maldive__np"/></e>
+    <e lm="Isole del Canale"><i>Isole<b/>del<b/>Canale</i><par n="Maldive__np"/></e>
+    <e lm="Isole Cook"><i>Isole<b/>Cook</i><par n="Maldive__np"/></e>
+    <e lm="Isole Falkland"><i>Isole<b/>Falkland</i><par n="Maldive__np"/></e>
+    <e lm="Isole Ionie"><i>Isole<b/>Ionie</i><par n="Maldive__np"/></e>
+    <e lm="Isole Marianne"><i>Isole<b/>Marianne</i><par n="Maldive__np"/></e>
+    <e lm="Isole Marchesi"><i>Isole<b/>Marchesi</i><par n="Maldive__np"/></e>
+    <e lm="Isole Marshall"><i>Isole<b/>Marshall</i><par n="Maldive__np"/></e>
+    <e lm="Isole della Nuova Siberia"><i>Isole<b/>della<b/>Nuova<b/>Siberia</i><par n="Maldive__np"/></e>
 	</section>
 
 
