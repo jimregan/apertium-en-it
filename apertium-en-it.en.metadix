@@ -20196,8 +20196,10 @@
     <e lm="journey"><i>journey</i><par n="house__n"/>    </e>
     <e lm="joy"><i>joy</i><par n="house__n"/>    </e>
     <e lm="judge"><i>judge</i><par n="house__n"/>    </e>
-    <e lm="judgement"><i>judgement</i><par n="house__n"/>    </e>
-    <e lm="judgment"><i>judgment</i><par n="house__n"/>    </e>
+    <e lm="judgement" r="LR"><i>judgement</i><par n="house__n"/>    </e>
+    <e lm="judgment" r="LR"><p><l>judgment</l><r>judgement</l></p><par n="house__n"/>    </e>
+    <e lm="judgement" r="RL" alt="en_GB"><i>judgement</i><par n="house__n"/>    </e>
+    <e lm="judgment" r="RL" alt="en_US"><p><l>judgment</l><r>judgement</l></p><par n="house__n"/>    </e>
     <e lm="judicature"><i>judicature</i><par n="house__n"/>    </e>
     <e lm="juggler"><i>juggler</i><par n="house__n"/>    </e>
     <e lm="juice"><i>juice</i><par n="house__n"/>    </e>
@@ -35073,6 +35075,32 @@
     <e lm="willow"><i>willow</i><par n="house__n"/></e>
     <e lm="weeping willow"><i>weeping<b/>willow</i><par n="house__n"/></e>
     <e lm="plethora"><i>plethora</i><par n="house__n"/></e>
+
+    <e lm="C"><i>C</i><par n="million__num"/></e>
+    <e lm="D"><i>D</i><par n="million__num"/></e>
+    <e lm="I"><i>I</i><par n="million__num"/></e>
+    <e lm="II"><i>II</i><par n="million__num"/></e>
+    <e lm="III"><i>III</i><par n="million__num"/></e>
+    <e lm="IV"><i>IV</i><par n="million__num"/></e>
+    <e lm="IX"><i>IX</i><par n="million__num"/></e>
+    <e lm="L"><i>L</i><par n="million__num"/></e>
+    <e lm="M"><i>M</i><par n="million__num"/></e>
+    <e lm="V"><i>V</i><par n="million__num"/></e>
+    <e lm="VI"><i>VI</i><par n="million__num"/></e>
+    <e lm="VII"><i>VII</i><par n="million__num"/></e>
+    <e lm="VIII"><i>VIII</i><par n="million__num"/></e>
+    <e lm="X"><i>X</i><par n="million__num"/></e>
+    <e lm="XI"><i>XI</i><par n="million__num"/></e>
+    <e lm="XII"><i>XII</i><par n="million__num"/></e>
+    <e lm="XIII"><i>XIII</i><par n="million__num"/></e>
+    <e lm="XIV"><i>XIV</i><par n="million__num"/></e>
+    <e lm="XIX"><i>XIX</i><par n="million__num"/></e>
+    <e lm="XV"><i>XV</i><par n="million__num"/></e>
+    <e lm="XVI"><i>XVI</i><par n="million__num"/></e>
+    <e lm="XVII"><i>XVII</i><par n="million__num"/></e>
+    <e lm="XVIII"><i>XVIII</i><par n="million__num"/></e>
+    <e lm="XX"><i>XX</i><par n="million__num"/></e>
+    <e lm="XXI"><i>XXI</i><par n="million__num"/></e>
   </section>
 
   <section id="apostrophes" type="preblank">
