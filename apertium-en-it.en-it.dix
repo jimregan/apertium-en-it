@@ -15486,7 +15486,7 @@
 <e><p><l>cornice<s n="n"/></l><r>cornice<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>coronation<s n="n"/></l><r>monarchia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>coronation<s n="n"/></l><r>coronazione<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>coronation<s n="n"/></l><r>incoronazione<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>coronation<s n="n"/></l><r>incoronazione<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>corporation<s n="n"/></l><r>impresa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>corporatism<s n="n"/></l><r>corporativismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>corps<s n="n"/></l><r>corpo<s n="n"/><s n="m"/></r></p></e>
@@ -21671,25 +21671,25 @@
     <e><p><l>XVIII<s n="num"/><s n="sp"/></l><r>XVIII<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>XX<s n="num"/><s n="sp"/></l><r>XX<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>XXI<s n="num"/><s n="sp"/></l><r>XXI<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><p><l>Aleutian<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Aleutine<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>British<b/>Virgin<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Vergini<b/>britanniche<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>British<b/>West<b/>Indies<s n="np"/><s n="loc"/></l><r>Indie<b/>Occidentali<b/>Britanniche<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Central<b/>African<b/>Republic<s n="np"/><s n="loc"/></l><r>Repubblica<b/>Centrafricana<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Channel<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>del<b/>Canale<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Cook<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Cook<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Easter<b/>Island<s n="np"/><s n="loc"/></l><r>Isola<b/>di<b/>Pasqua<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Falkland<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Falkland<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>Falklands<s n="np"/><s n="loc"/></l><r>Isole<b/>Falkland<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Ionian<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Ionie<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Ivory<b/>Coast<s n="np"/><s n="loc"/></l><r>Costa<b/>d'Avorio<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Maldives<s n="np"/><s n="loc"/></l><r>Maldive<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Mariana<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Marianne<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Marquesas<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Marchesi<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Marshall<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Marshall<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>New<b/>Caledonia<s n="np"/><s n="loc"/></l><r>Nuova<b/>Caledonia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>New<b/>Siberian<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>della<b/>Nuova<b/>Siberia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>New<b/>Zealand<s n="np"/><s n="loc"/></l><r>Nuova<b/>Zelanda<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Northern<b/>Ireland<s n="np"/><s n="loc"/></l><r>Irlanda<b/>del<b/>Nord<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>North<b/>Island<s n="np"/><s n="loc"/></l><r>Isola<b/>del<b/>Nord<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Aleutian<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Aleutine<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>British<b/>Virgin<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Vergini<b/>britanniche<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>British<b/>West<b/>Indies<s n="np"/><s n="loc"/></l><r>Indie<b/>Occidentali<b/>Britanniche<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Central<b/>African<b/>Republic<s n="np"/><s n="loc"/></l><r>Repubblica<b/>Centrafricana<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Channel<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>del<b/>Canale<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Cook<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Cook<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Easter<b/>Island<s n="np"/><s n="loc"/></l><r>Isola<b/>di<b/>Pasqua<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Falkland<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Falkland<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>Falklands<s n="np"/><s n="loc"/></l><r>Isole<b/>Falkland<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Ionian<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Ionie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Ivory<b/>Coast<s n="np"/><s n="loc"/></l><r>Costa<b/>d'Avorio<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Maldives<s n="np"/><s n="loc"/></l><r>Maldive<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Mariana<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Marianne<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Marquesas<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Marchesi<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Marshall<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Marshall<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>New<b/>Caledonia<s n="np"/><s n="loc"/></l><r>Nuova<b/>Caledonia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>New<b/>Siberian<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>della<b/>Nuova<b/>Siberia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>New<b/>Zealand<s n="np"/><s n="loc"/></l><r>Nuova<b/>Zelanda<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Northern<b/>Ireland<s n="np"/><s n="loc"/></l><r>Irlanda<b/>del<b/>Nord<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>North<b/>Island<s n="np"/><s n="loc"/></l><r>Isola<b/>del<b/>Nord<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
   </section>
 </dictionary>
