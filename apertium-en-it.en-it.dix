@@ -17469,26 +17469,21 @@
 <e><p><l>jest<s n="n"/></l><r>scherzo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>jester<s n="n"/></l><r>giullare<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>jewel<s n="n"/></l><r>gioiello<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>jewellery<s n="n"/><s n="sg"/></l><r>gioiello<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>jewellery<s n="n"/><s n="pl"/></l><r>gioiello<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>jewellery<s n="n"/></l><r>gioielleria<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>jewelry<s n="n"/><s n="sg"/></l><r>gioiello<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>jewelry<s n="n"/><s n="pl"/></l><r>gioiello<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>jewellery<s n="n"/><s n="sg"/></l><r>gioiello<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>jewellery<s n="n"/><s n="pl"/></l><r>gioiello<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>jewellery<s n="n"/></l><r>gioielleria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>job<s n="n"/></l><r>lavoro<s n="n"/><s n="m"/></r></p></e>
-<e c="Anat."><p><l>joint<s n="n"/></l><r>giuntura<s n="n"/><s n="f"/></r></p></e>
-<e c="Téc."><p><l>joint<s n="n"/></l><r>consiglio<s n="n"/><s n="m"/></r></p></e>
+<e c="Anat." slr="giuntura D"><p><l>joint<s n="n"/></l><r>giuntura<s n="n"/><s n="f"/></r></p></e>
+<e c="Téc." slr="consiglio"><p><l>joint<s n="n"/></l><r>consiglio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>joke<s n="n"/></l><r>barzelletta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>journal<s n="n"/></l><r>rivista<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>journalism<s n="n"/></l><r>giornalismo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>journalist<s n="n"/></l><r>giornalista<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>journalist<s n="n"/></l><r>giornalista<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>journalist<s n="n"/></l><r>giornalista<s n="n"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>journalist<s n="n"/></l><r>giornalista<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>journalist<s n="n"/></l><r>giornalista<s n="n"/></r></p></e>
 <e><p><l>journey<s n="n"/></l><r>viaggio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>judge<s n="n"/></l><r>magistrato<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>judgement<s n="n"/></l><r>giudizio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>judgement<s n="n"/></l><r>sentenza<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>judgment<s n="n"/></l><r>giudizio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>judgment<s n="n"/></l><r>sentenza<s n="n"/><s n="f"/></r></p></e>
+<e slr="giudizio D"><p><l>judgement<s n="n"/></l><r>giudizio<s n="n"/><s n="m"/></r></p></e>
+<e slr="sentenza" r="LR"><p><l>judgement<s n="n"/></l><r>sentenza<s n="n"/><s n="f"/></r></p></e>
 <e c="de carne"><p><l>juice<s n="n"/></l><r>succo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>jump<s n="n"/></l><r>salto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>jumper<s n="n"/></l><r>maglione<s n="n"/><s n="m"/></r></p></e>
