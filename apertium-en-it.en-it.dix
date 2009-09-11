@@ -204,7 +204,8 @@
 <e r="RL"><p><l>millionth<s n="det"/></l><r>milionesimo<s n="det"/></r></p></e>
 <e><p><l>much<s n="det"/><s n="qnt"/></l><r>molto<s n="det"/><s n="ind"/></r></p></e>
 <e r="RL"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mio<s n="det"/><s n="pos"/></r></p></e>
-<e r="RL"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>mio<s n="det"/><s n="pos"/></r></p></e>
+<e r="RL"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="pl"/></r></p></e>
 <e r="LR"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="LR"><p><l>nine<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>novecentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>nine<b/>hundredth<s n="det"/></l><r>novecentesimo<s n="det"/></r></p></e>
@@ -14625,7 +14626,7 @@
 <e r="RL"><p><l>black<s n="n"/></l><r>nero<s n="n"/></r></p></e>
 <e><p><l>blade<s n="n"/></l><r>foglia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>blade<s n="n"/></l><r>foglio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>blandishments<s n="n"/></l><r>blandimento<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>blandishment<s n="n"/></l><r>blandimento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>blank<s n="n"/></l><r>spazio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>blanket<s n="n"/></l><r>coperta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>blast<s n="n"/></l><r>esplosione<s n="n"/><s n="f"/></r></p></e>
@@ -14656,13 +14657,13 @@
 <e r="RL"><p><l>bluff<s n="n"/><s n="ND"/></l><r>bluff<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>bluff<s n="n"/><s n="sg"/></l><r>bluff<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>bluff<s n="n"/><s n="pl"/></l><r>bluff<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e><p><l>board<s n="n"/></l><r>consiglio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>board<s n="n"/></l><r>bordo<s n="n"/><s n="m"/></r></p></e>
+<e slr="consiglio"><p><l>board<s n="n"/></l><r>consiglio<s n="n"/><s n="m"/></r></p></e>
+<e slr="bordo D"><p><l>board<s n="n"/></l><r>bordo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>boarding<s n="n"/></l><r>abbordaggio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>boat<s n="n"/></l><r>barca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>body<s n="n"/></l><r>corpo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>boiler<s n="n"/></l><r>caldaia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>boiler<s n="n"/></l><r>impianto<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>implant<s n="n"/></l><r>impianto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>boiling<s n="n"/></l><r>ebollizione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>bolivian<s n="n"/></l><r>boliviano<s n="n"/></r></p></e>
 <e r="LR"><p><l>bolivian<s n="n"/></l><r>boliviano<s n="n"/><s n="GD"/></r></p></e>
@@ -14689,14 +14690,13 @@
 <e r="RL"><p><l>bourgeois<s n="n"/></l><r>borghese<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bourgeoisie<s n="n"/></l><r>borghesia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bow<s n="n"/></l><r>collante<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>bowel<s n="n"/></l><r>intestino<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>intestine<s n="n"/></l><r>intestino<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bowel<s n="n"/></l><r>sfilata<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>bowl<s n="n"/></l><r>palla<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bowl<s n="n"/></l><r>scodella<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>box<s n="n"/></l><r>scatola<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>boxer<s n="n"/></l><r>pugile<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>boy<s n="n"/></l><r>ragazzo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>boy<s n="n"/></l><r>bambino<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>boy<s n="n"/></l><r>bambino<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>boycott<s n="n"/></l><r>boicottaggio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>boyfriend<s n="n"/></l><r>fidanzato<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bra<s n="n"/></l><r>reggiseno<s n="n"/><s n="m"/></r></p></e>
@@ -14705,11 +14705,11 @@
 <e><p><l>brake<s n="n"/></l><r>freno<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bran<s n="n"/></l><r>crusca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>branch<s n="n"/></l><r>diramazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>brand<s n="n"/></l><r>marca<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>brand<s n="n"/></l><r>marchio<s n="n"/><s n="m"/></r></p></e>
+<e srl="brand"><p><l>brand<s n="n"/></l><r>marca<s n="n"/><s n="f"/></r></p></e>
+<e srl="brand D"><p><l>brand<s n="n"/></l><r>marchio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>brandy<s n="n"/></l><r>acquavite<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bread<s n="n"/></l><r>pane<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>breakfast<s n="n"/></l><r>spuntino<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>snack<s n="n"/></l><r>spuntino<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>breakfast<s n="n"/></l><r>colazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>breast<s n="n"/></l><r>petto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>breast<s n="n"/></l><r>seno<s n="n"/><s n="m"/></r></p></e>
@@ -17795,12 +17795,11 @@
 <e r="RL"><p><l>majordomo<s n="n"/></l><r>maggiordomo<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>majordomo<s n="n"/></l><r>maggiordomo<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>majority<s n="n"/></l><r>maggioranza<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>make<s n="n"/></l><r>marca<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>make<s n="n"/></l><r>marchio<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>make<s n="n"/></l><r>marchio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>maker<s n="n"/></l><r>fabbricante<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>male<s n="n"/></l><r>maschio<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>male chauvinist<s n="n"/></l><r>maschilista<s n="n"/></r></p></e>
-<e r="LR"><p><l>male chauvinist<s n="n"/></l><r>maschilista<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>male<b/>chauvinist<s n="n"/></l><r>maschilista<s n="n"/></r></p></e>
+<e r="LR"><p><l>male<b/>chauvinist<s n="n"/></l><r>maschilista<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>malformation<s n="n"/></l><r>malformazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>malice<s n="n"/></l><r>malizia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>maliciousness<s n="n"/></l><r>cattiveria<s n="n"/><s n="f"/></r></p></e>
@@ -17845,8 +17844,8 @@
 <e><p><l>margin<s n="n"/></l><r>margine<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>marginalisation<s n="n"/></l><r>emarginazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>marijuana<s n="n"/></l><r>marijuana<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>mark<s n="n"/></l><r>marca<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>mark<s n="n"/></l><r>marchio<s n="n"/><s n="m"/></r></p></e>
+<e srl="mark D"><p><l>mark<s n="n"/></l><r>marca<s n="n"/><s n="f"/></r></p></e>
+<e srl="mark"><p><l>mark<s n="n"/></l><r>marchio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>marker<s n="n"/></l><r>marcatore<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>market<s n="n"/></l><r>mercato<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>marketing<s n="n"/><s n="sg"/></l><r>marketing<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -19635,13 +19634,13 @@
 <e><p><l>scar<s n="n"/></l><r>cicatrice<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>scarf<s n="n"/></l><r>sciarpa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>scarification<s n="n"/></l><r>scarificazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>scenario<s n="n"/></l><r>palcoscenico<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>scenario<s n="n"/></l><r>palco<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>stage<s n="n"/></l><r>palcoscenico<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>scenario<s n="n"/></l><r>scenario<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>stage<s n="n"/></l><r>palco<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>scene<s n="n"/></l><r>scena<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>scenography<s n="n"/></l><r>scenografia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>scepticism<s n="n"/></l><r>scetticismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>schedule<s n="n"/></l><r>orario<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>schedule<s n="n"/></l><r>programma<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>scheme<s n="n"/></l><r>schema<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>schizophrenia<s n="n"/></l><r>schizofrenia<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>scholar<s n="n"/></l><r>erudito<s n="n"/><s n="GD"/></r></p></e>
@@ -19654,14 +19653,12 @@
 <e r="LR"><p><l>scientific<b/>character<s n="n"/><s n="sg"/></l><r>scientificità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>scientist<s n="n"/></l><r>scienziato<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>scientist<s n="n"/></l><r>scienziato<s n="n"/></r></p></e>
-<e><p><l>scope<s n="n"/></l><r>raggio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>scope<s n="n"/></l><r>portata<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>scrap<s n="n"/></l><r>spazzatura<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>scream<s n="n"/></l><r>grido<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e><p><l>scream<s n="n"/></l><r>grido<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>scream<s n="n"/><s n="sg"/></l><r>grido<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e><p><l>scream<s n="n"/><s n="pl"/></l><r>grido<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e><p><l>screen<s n="n"/></l><r>schermo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>screening<s n="n"/></l><r>esplorazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>screw<s n="n"/></l><r>vite<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>screw<s n="n"/></l><r>vite<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>screwdriver<s n="n"/></l><r>cacciavite<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>script<s n="n"/></l><r>sceneggiatura<s n="n"/><s n="f"/></r></p></e>
@@ -19669,7 +19666,6 @@
 <e r="LR"><p><l>sculptor<s n="n"/></l><r>scultore<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>sculptor<s n="n"/></l><r>scultore<s n="n"/></r></p></e>
 <e><p><l>sculpture<s n="n"/></l><r>scultura<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>sea<s n="n"/></l><r>mare<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>sea<s n="n"/></l><r>mare<s n="n"/><s n="m"/></r></p></e>
 <e c="check"><p><l>seaboard<s n="n"/></l><r>litorale<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>seafood<s n="n"/></l><r>frutto<g><b/>di<b/>mare</g><s n="n"/><s n="m"/></r></p></e>
@@ -20504,8 +20500,7 @@
 <e><p><l>tractor<s n="n"/></l><r>trattore<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>trade<s n="n"/></l><r>commercio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>trade-off<s n="n"/></l><r>bilanciamento<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>trademark<s n="n"/></l><r>marca<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>trademark<s n="n"/></l><r>marchio<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" srl="trademark"><p><l>trademark<s n="n"/></l><r>marca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>trader<s n="n"/></l><r>commerciante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>trading<s n="n"/></l><r>commercio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tradition<s n="n"/></l><r>tradizione<s n="n"/><s n="f"/></r></p></e>
