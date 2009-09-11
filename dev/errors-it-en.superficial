@@ -916,6 +916,8 @@
 ^.<sent>$ ^fagocitazione<n><f><sg>$	. \@Fagocitazione\<n\>\<sg\>
 ^.<sent>$ ^filiazione<n><f><pl>$	. \@Filiazione\<n\>\<pl\>
 ^.<sent>$ ^filiazione<n><f><sg>$	. \@Filiazione\<n\>\<sg\>
+^.<sent>$ ^incoronazione<n><f><pl>$	. \@Incoronazione\<n\>\<pl\>
+^.<sent>$ ^incoronazione<n><f><sg>$	. \@Incoronazione\<n\>\<sg\>
 ^.<sent>$ ^infeudazione<n><f><pl>$	. #Fiefdom\<n\>\<pl\>
 ^.<sent>$ ^infeudazione<n><f><sg>$	. #Fiefdom\<n\>\<sg\>
 ^.<sent>$ ^insolazione<n><f><pl>$	. #Insolation\<n\>\<pl\>
@@ -1579,10 +1581,6 @@
 ^.<sent>$ ^ventesimo<adj><m><sg>$	. \@Ventesimo\<adj\>
 ^.<sent>$ ^ventesimo<adj><f><pl>$	. \@Ventesimo\<adj\>
 ^.<sent>$ ^ventesimo<adj><f><sg>$	. \@Ventesimo\<adj\>
-^.<sent>$ ^seduttore<adj><m><pl>$	. \@Seduttore\<adj\>
-^.<sent>$ ^seduttore<adj><m><sg>$	. \@Seduttore\<adj\>
-^.<sent>$ ^seduttore<adj><f><pl>$	. \@Seduttore\<adj\>
-^.<sent>$ ^seduttore<adj><f><sg>$	. \@Seduttore\<adj\>
 ^.<sent>$ ^essere necessario<vbmod><inf>$	. \@Essere necessario\<vbmod\>\<inf\>
 ^.<sent>$ ^essere necessario<vbmod><ifi><p1><sg>$	. I \@essere necessario\<vbmod\>\<past\>
 ^.<sent>$ ^essere necessario<vbmod><ifi><p2><sg>$	. You \@essere necessario\<vbmod\>\<past\>
@@ -6440,31 +6438,6 @@
 ^.<sent>$ ^siglare<vblex><pri><p2><sg>$	. You \@siglare\<vblex\>\<pres\>
 ^.<sent>$ ^siglare<vblex><inf>$	. \@Siglare\<vblex\>\<inf\>
 ^.<sent>$ ^lo<detnt>$	. \@lo\<detnt\>
-^.<sent>$ ^C<num><mf><sp>$	. \@C\<num\>\<mf\>\<sp\>
-^.<sent>$ ^D<num><mf><sp>$	. \@D\<num\>\<mf\>\<sp\>
-^.<sent>$ ^I<num><mf><sp>$	. \@I\<num\>\<mf\>\<sp\>
-^.<sent>$ ^II<num><mf><sp>$	. \@II\<num\>\<mf\>\<sp\>
-^.<sent>$ ^III<num><mf><sp>$	. \@III\<num\>\<mf\>\<sp\>
-^.<sent>$ ^IV<num><mf><sp>$	. \@IV\<num\>\<mf\>\<sp\>
-^.<sent>$ ^IX<num><mf><sp>$	. \@IX\<num\>\<mf\>\<sp\>
-^.<sent>$ ^L<num><mf><sp>$	. \@L\<num\>\<mf\>\<sp\>
-^.<sent>$ ^M<num><mf><sp>$	. \@M\<num\>\<mf\>\<sp\>
-^.<sent>$ ^V<num><mf><sp>$	. \@V\<num\>\<mf\>\<sp\>
-^.<sent>$ ^VI<num><mf><sp>$	. \@VI\<num\>\<mf\>\<sp\>
-^.<sent>$ ^VII<num><mf><sp>$	. \@VII\<num\>\<mf\>\<sp\>
-^.<sent>$ ^VIII<num><mf><sp>$	. \@VIII\<num\>\<mf\>\<sp\>
-^.<sent>$ ^X<num><mf><sp>$	. \@X\<num\>\<mf\>\<sp\>
-^.<sent>$ ^XI<num><mf><sp>$	. \@XI\<num\>\<mf\>\<sp\>
-^.<sent>$ ^XII<num><mf><sp>$	. \@XII\<num\>\<mf\>\<sp\>
-^.<sent>$ ^XIII<num><mf><sp>$	. \@XIII\<num\>\<mf\>\<sp\>
-^.<sent>$ ^XIV<num><mf><sp>$	. \@XIV\<num\>\<mf\>\<sp\>
-^.<sent>$ ^XIX<num><mf><sp>$	. \@XIX\<num\>\<mf\>\<sp\>
-^.<sent>$ ^XV<num><mf><sp>$	. \@XV\<num\>\<mf\>\<sp\>
-^.<sent>$ ^XVI<num><mf><sp>$	. \@XVI\<num\>\<mf\>\<sp\>
-^.<sent>$ ^XVII<num><mf><sp>$	. \@XVII\<num\>\<mf\>\<sp\>
-^.<sent>$ ^XVIII<num><mf><sp>$	. \@XVIII\<num\>\<mf\>\<sp\>
-^.<sent>$ ^XX<num><mf><sp>$	. \@XX\<num\>\<mf\>\<sp\>
-^.<sent>$ ^XXI<num><mf><sp>$	. \@XXI\<num\>\<mf\>\<sp\>
 ^.<sent>$ ^decine<num><mf><sp>$	. \@Decine\<num\>\<mf\>\<sp\>
 ^.<sent>$ ^mille<num><mf><pl>$	. #Thousand\<num\>\<pl\>
 ^.<sent>$ ^mille<num><mf><sp>$	. #Thousand\<num\>\<sp\>
@@ -8738,7 +8711,6 @@
 ^.<sent>$ ^voi<prn><tn><p2><mf><pl>$	. \@voi\<prn\>\<tn\>\<p2\>\<mf\>\<pl\>
 ^.<sent>$ ^√® giusto dire<cnjcoo>$	. \@√à giusto dire\<cnjcoo\>
 ^.<sent>$ ^mentre<cnjcoo>$	. \@Mentre\<cnjcoo\>
-^.<sent>$ ^n√©<cnjcoo>$	. #Nor\<cnjcoo\>\/neither\<cnjcoo\>
 ^.<sent>$ ^ossia<cnjcoo>$	. \@Ossia\<cnjcoo\>
 ^.<sent>$ ^alla vista di<pr>$	. #At the sight of\<pr\>
 ^.<sent>$ ^alla vista di<pr>$ ^il<det><def><f><sg>$	. #At the sight of\<pr\> the
@@ -8906,6 +8878,7 @@
 ^.<sent>$ ^liberalismo<n><m><sg>$	. #Liberalism\<n\>\<sg\>
 ^.<sent>$ ^patrono<n><m><pl>$	. #Patron\<n\>\<pl\>
 ^.<sent>$ ^patrono<n><m><sg>$	. #Patron\<n\>\<sg\>
+^.<sent>$ ^Maldive<np><loc><f><pl>$	. #Maldives\<np\>\<loc\>\<pl\>
 ^.<sent>$ ^ne<prn><pro><adv>$	. \@ne\<prn\>\<pro\>\<adv\>
 ^.<sent>$ ^quello<det><dem><mf><sg>$	. #That\<sg\>
 ^.<sent>$ ^questo<det><dem><mf><sg>$	. #This\<sg\>
@@ -9348,7 +9321,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> dig<vblex>/excavate<vblex>/undermine<vblex>$
 #\^.\<sent\> direct<vblex>/aim<vblex>/address<vblex>/conduct<vblex>/lead<vblex>/manage<vblex>$
 #\^.\<sent\> dismantle<vblex>/disassemble<vblex>$
-#\^.\<sent\> perceive<vblex>/discern<vblex>$
 #\^.\<sent\> release<vblex>/unchain<vblex>/drop<vblex>/free<vblex>/discharge<vblex>$
 #\^.\<sent\> reveal<vblex>/disclose<vblex>$
 #\^.\<sent\> interrupt<vblex>/discontinue<vblex>$
@@ -9710,8 +9682,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> darken<vblex>/obscure<vblex>$
 #\^.\<sent\> defy<vblex>/challenge<vblex>$
 #\^.\<sent\> merit<vblex>/deserve<vblex>$
-#\^.\<sent\> drug<vblex>/dope<vblex>$
-#\^.\<sent\> drug<vblex>/dope<vblex>$
 #\^.\<sent\> hamper<vblex>/hinder<vblex>$
 #\^.\<sent\> handle<vblex>/manipulate<vblex>$
 #\^.\<sent\> hamper<vblex>/hinder<vblex>$
@@ -9719,11 +9689,9 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> handle<vblex>/manipulate<vblex>$
 #\^.\<sent\> merit<vblex>/deserve<vblex>$
 #\^.\<sent\> darken<vblex>/obscure<vblex>$
-#\^.\<sent\> perceive<vblex>/discern<vblex>$
 #\^.\<sent\> obtain<vblex>/gain<vblex>$
 #\^.\<sent\> happen<vblex>/succeed<vblex>$
 #\^.\<sent\> reconstruct<vblex>/rebuild<vblex>$
-#\^.\<sent\> nor<cnjcoo>/neither<cnjcoo>$
 #\^.\<sent\> a bit<adv>/some<adv>/mildly<adv>/somewhat<adv>$
 #\^.\<sent\> a bit<adv>/some<adv>/mildly<adv>/somewhat<adv>$
 #\^.\<sent\> a lot<adv>/much<adv>/hugely<adv>/dearly<adv>/awfully<adv>/greatly<adv>/very much<adv>$
@@ -10082,12 +10050,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> orienteering<n>/guidance<n>$
 #\^.\<sent\> neolithic<n>/Neolithic<n>$
 #\^.\<sent\> orienteering<n>/guidance<n>$
-#\^.\<sent\> annunciation<n>/Annunciation<n>$
-#\^.\<sent\> Franco regime<n>/Franco's regime<n>$
-#\^.\<sent\> Franco regime<n>/Franco's regime<n>$
 #\^.\<sent\> Inquisition<n>/Inquisition<n>$
-#\^.\<sent\> UN<n><acr>/U.N.<n><acr>$
-#\^.\<sent\> UN<n><acr>/U.N.<n><acr>$
 #\^.\<sent\> abbreviation<n>/shortening<n>$
 #\^.\<sent\> abundance<n>/plenty<n>$
 #\^.\<sent\> abuse<n>/misuse<n>$
@@ -10098,13 +10061,12 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> attainment<n>/achievement<n>$
 #\^.\<sent\> shopping<n><sg>/purchase<n><sg>/acquisition<n>$
 #\^.\<sent\> act<n>/record<n>$
-#\^.\<sent\> ad<n>/commercial<n>/announcement<n>/advertisement<n>$
+#\^.\<sent\> commercial<n>/announcement<n>/advertisement<n>$
 #\^.\<sent\> address<n>/orientation<n>$
 #\^.\<sent\> administration<n>/dispensation<n>$
 #\^.\<sent\> adoration<n>/worship<n>$
-#\^.\<sent\> ad<n>/commercial<n>/announcement<n>/advertisement<n>$
+#\^.\<sent\> commercial<n>/announcement<n>/advertisement<n>$
 #\^.\<sent\> tip<n>/council<n>/counsel<n>/advice<n>/board<n>/joint<n>$
-#\^.\<sent\> end<n>/affection<n>$
 #\^.\<sent\> agency<n>/bureau<n>$
 #\^.\<sent\> degradation<n>/aggravation<n>$
 #\^.\<sent\> contract<n>/agreement<n>$
@@ -10122,9 +10084,8 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> ascendant<n>/ancestor<n>$
 #\^.\<sent\> rabies<n>/anger<n>/hydrophobia<n>$
 #\^.\<sent\> angle<n>/corner<n>$
-#\^.\<sent\> ad<n>/commercial<n>/announcement<n>/advertisement<n>$
+#\^.\<sent\> commercial<n>/announcement<n>/advertisement<n>$
 #\^.\<sent\> invitation<n>/announcement<n>$
-#\^.\<sent\> annunciation<n>/Annunciation<n>$
 #\^.\<sent\> response<n>/reply<n>/answer<n>$
 #\^.\<sent\> anxiety<n>/eagerness<n>$
 #\^.\<sent\> aspect<n>/look<n>/appearance<n>$
@@ -10317,9 +10278,8 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> order<n>/command<n>$
 #\^.\<sent\> order<n>/command<n>$
 #\^.\<sent\> trade<n>/trading<n>/commerce<n>$
-#\^.\<sent\> ad<n>/commercial<n>/announcement<n>/advertisement<n>$
+#\^.\<sent\> commercial<n>/announcement<n>/advertisement<n>$
 #\^.\<sent\> engagement<n>/commitment<n>$
-#\^.\<sent\> firm<n>/company<n>/enterprise<n>/corporation<n>$
 #\^.\<sent\> compassion<n>/sympathy<n>$
 #\^.\<sent\> complaint<n>/denunciation<n>$
 #\^.\<sent\> concern<n>/worry<n>$
@@ -10342,7 +10302,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> nucleus<n>/core<n>$
 #\^.\<sent\> angle<n>/corner<n>$
 #\^.\<sent\> monarchy<n>/coronation<n>$
-#\^.\<sent\> firm<n>/company<n>/enterprise<n>/corporation<n>$
 #\^.\<sent\> corps<n>/body<n>$
 #\^.\<sent\> costume<n>/clothes<n><pl>/clothing<n>/cloth<n><pl>/suit<n>$
 #\^.\<sent\> cough<n>/coughing<n>$
@@ -10453,14 +10412,12 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> broadcast<n>/emission<n>/release<n>$
 #\^.\<sent\> emotion<n>/thrill<n>/excitement<n>$
 #\^.\<sent\> use<n>/employment<n>$
-#\^.\<sent\> end<n>/affection<n>$
 #\^.\<sent\> approval<n>/endorsement<n>$
 #\^.\<sent\> energy<n>/power<n>$
 #\^.\<sent\> engagement<n>/commitment<n>$
 #\^.\<sent\> engine<n>/motor<n>$
 #\^.\<sent\> ingeniero<n>/engineer<n>$
 #\^.\<sent\> research<n>/enquiry<n>/search<n>/pursuit<n>/investigation<n>$
-#\^.\<sent\> firm<n>/company<n>/enterprise<n>/corporation<n>$
 #\^.\<sent\> entertainment<n>/enjoyment<n>/fun<n>$
 #\^.\<sent\> balance<n>/equilibrium<n>$
 #\^.\<sent\> essay<n>/rehearsal<n>$
@@ -10506,7 +10463,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> arrival<n>/finish<n>$
 #\^.\<sent\> fireman<n>/firewoman<n>$
 #\^.\<sent\> fireman<n>/firewoman<n>$
-#\^.\<sent\> firm<n>/company<n>/enterprise<n>/corporation<n>$
 #\^.\<sent\> peach<n>/fishing<n>$
 #\^.\<sent\> flag<n>/pavilion<n>$
 #\^.\<sent\> flame<n>/llama<n>$
@@ -10663,21 +10619,12 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> lockup<n>/prison<n>/jail<n>$
 #\^.\<sent\> aspic<n>/jelly<n>$
 #\^.\<sent\> prank<n>/jest<n>$
-#\^.\<sent\> jewelry<n><pl>/jewelry<n><sg>/jewel<n>/jewellery<n><sg>/jewellery<n><pl>$
-#\^.\<sent\> jewelry<n><pl>/jewelry<n><sg>/jewel<n>/jewellery<n><sg>/jewellery<n><pl>$
-#\^.\<sent\> jewelry<n><pl>/jewelry<n><sg>/jewel<n>/jewellery<n><sg>/jewellery<n><pl>$
-#\^.\<sent\> jewelry<n><pl>/jewelry<n><sg>/jewel<n>/jewellery<n><sg>/jewellery<n><pl>$
-#\^.\<sent\> jewelry<n><pl>/jewelry<n><sg>/jewel<n>/jewellery<n><sg>/jewellery<n><pl>$
 #\^.\<sent\> labour<n>/task<n>/work<n>/job<n>/undertaking<n>$
 #\^.\<sent\> joint<n>/articulation<n>$
-#\^.\<sent\> tip<n>/council<n>/counsel<n>/advice<n>/board<n>/joint<n>$
 #\^.\<sent\> review<n>/magazine<n>/journal<n>$
 #\^.\<sent\> travel<n>/trip<n>/voyage<n>/journey<n>$
 #\^.\<sent\> magistrate<n>/judge<n>$
-#\^.\<sent\> trial<n>/judgement<n>/judgment<n>$
-#\^.\<sent\> sentence<n>/judgement<n>/judgment<n>$
-#\^.\<sent\> trial<n>/judgement<n>/judgment<n>$
-#\^.\<sent\> sentence<n>/judgement<n>/judgment<n>$
+#\^.\<sent\> trial<n>/judgement<n>$
 #\^.\<sent\> leap<n>/jump<n>$
 #\^.\<sent\> junior<n>/youngster<n>$
 #\^.\<sent\> inequity<n>/injustice<n>/justice<n>$
@@ -11077,7 +11024,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> season<n>/station<n>$
 #\^.\<sent\> safety<n>/security<n>$
 #\^.\<sent\> earthquake<n>/seism<n>$
-#\^.\<sent\> sentence<n>/judgement<n>/judgment<n>$
 #\^.\<sent\> set<n>/group<n>$
 #\^.\<sent\> shade<n>/shadow<n>$
 #\^.\<sent\> shade<n>/shadow<n>$
@@ -11230,7 +11176,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> trap<n>/cheat<n>$
 #\^.\<sent\> travel<n>/trip<n>/voyage<n>/journey<n>$
 #\^.\<sent\> tendency<n>/trend<n>$
-#\^.\<sent\> trial<n>/judgement<n>/judgment<n>$
+#\^.\<sent\> trial<n>/judgement<n>$
 #\^.\<sent\> proof<n>/trial<n>/test<n>$
 #\^.\<sent\> travel<n>/trip<n>/voyage<n>/journey<n>$
 #\^.\<sent\> problem<n>/trouble<n>/question<n>$

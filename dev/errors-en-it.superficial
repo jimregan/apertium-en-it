@@ -101,15 +101,9 @@
 ^.<sent>$ ^Ferrari<np><cog><pl>$ ^'s<gen>$	. #Ferrari\<np\>\<cog\>\<mf\>\<sp\> 
 ^.<sent>$ ^Ferrari<np><cog><sg>$	. #Ferrari\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Ferrari<np><cog><pl>$	. #Ferrari\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Channel Islands<np><loc><pl>$	. \@Channel Islands\<np\>\<loc\>
-^.<sent>$ ^Channel Islands<np><loc><pl>$ ^'s<gen>$	. \@Channel Islands\<np\>\<loc\> 
-^.<sent>$ ^Channel Islands<np><loc><pl>$	. \@Channel Islands\<np\>\<loc\>
 ^.<sent>$ ^Virgin Islands<np><loc><pl>$	. \@Virgin Islands\<np\>\<loc\>
 ^.<sent>$ ^Virgin Islands<np><loc><pl>$ ^'s<gen>$	. \@Virgin Islands\<np\>\<loc\> 
 ^.<sent>$ ^Virgin Islands<np><loc><pl>$	. \@Virgin Islands\<np\>\<loc\>
-^.<sent>$ ^British Virgin Islands<np><loc><pl>$	. \@British Virgin Islands\<np\>\<loc\>
-^.<sent>$ ^British Virgin Islands<np><loc><pl>$ ^'s<gen>$	. \@British Virgin Islands\<np\>\<loc\> 
-^.<sent>$ ^British Virgin Islands<np><loc><pl>$	. \@British Virgin Islands\<np\>\<loc\>
 ^.<sent>$ ^United States Virgin Islands<np><loc><pl>$	. \@United States Virgin Islands\<np\>\<loc\>
 ^.<sent>$ ^United States Virgin Islands<np><loc><pl>$ ^'s<gen>$	. \@United States Virgin Islands\<np\>\<loc\> 
 ^.<sent>$ ^United States Virgin Islands<np><loc><pl>$	. \@United States Virgin Islands\<np\>\<loc\>
@@ -120,14 +114,10 @@
 ^.<sent>$ ^South Island<np><loc><sg>$	. \@South Island\<np\>\<loc\>
 ^.<sent>$ ^Marchena Island<np><loc><sg>$	. \@Marchena Island\<np\>\<loc\>
 ^.<sent>$ ^Isla Marchena<np><loc><sg>$	. \@Isla Marchena\<np\>\<loc\>
-^.<sent>$ ^North Island<np><loc><sg>$	. \@North Island\<np\>\<loc\>
-^.<sent>$ ^Easter Island<np><loc><sg>$	. \@Easter Island\<np\>\<loc\>
+^.<sent>$ ^North Island<np><loc><sg>$	. #Isola del Nord\<np\>\<loc\>\<f\>\<sg\>
 ^.<sent>$ ^British Isles<np><loc><pl>$	. \@British Isles\<np\>\<loc\>
 ^.<sent>$ ^British Isles<np><loc><pl>$ ^'s<gen>$	. \@British Isles\<np\>\<loc\> 
 ^.<sent>$ ^British Isles<np><loc><pl>$	. \@British Isles\<np\>\<loc\>
-^.<sent>$ ^Aleutian Islands<np><loc><pl>$	. \@Aleutian Islands\<np\>\<loc\>
-^.<sent>$ ^Aleutian Islands<np><loc><pl>$ ^'s<gen>$	. \@Aleutian Islands\<np\>\<loc\> 
-^.<sent>$ ^Aleutian Islands<np><loc><pl>$	. \@Aleutian Islands\<np\>\<loc\>
 ^.<sent>$ ^Canaries<np><loc><pl>$	. #Canarie\<np\>\<loc\>\<f\>\<pl\>
 ^.<sent>$ ^Canaries<np><loc><pl>$ ^'s<gen>$	. #Canarie\<np\>\<loc\>\<f\>\<pl\> 
 ^.<sent>$ ^Canaries<np><loc><pl>$	. #Canarie\<np\>\<loc\>\<f\>\<pl\>
@@ -140,24 +130,6 @@
 ^.<sent>$ ^Friendly Islands<np><loc><pl>$	. \@Friendly Islands\<np\>\<loc\>
 ^.<sent>$ ^Friendly Islands<np><loc><pl>$ ^'s<gen>$	. \@Friendly Islands\<np\>\<loc\> 
 ^.<sent>$ ^Friendly Islands<np><loc><pl>$	. \@Friendly Islands\<np\>\<loc\>
-^.<sent>$ ^New Siberian Islands<np><loc><pl>$	. \@New Siberian Islands\<np\>\<loc\>
-^.<sent>$ ^New Siberian Islands<np><loc><pl>$ ^'s<gen>$	. \@New Siberian Islands\<np\>\<loc\> 
-^.<sent>$ ^New Siberian Islands<np><loc><pl>$	. \@New Siberian Islands\<np\>\<loc\>
-^.<sent>$ ^Ionian Islands<np><loc><pl>$	. \@Ionian Islands\<np\>\<loc\>
-^.<sent>$ ^Ionian Islands<np><loc><pl>$ ^'s<gen>$	. \@Ionian Islands\<np\>\<loc\> 
-^.<sent>$ ^Ionian Islands<np><loc><pl>$	. \@Ionian Islands\<np\>\<loc\>
-^.<sent>$ ^Falkland Islands<np><loc><pl>$	. \@Falkland Islands\<np\>\<loc\>
-^.<sent>$ ^Falkland Islands<np><loc><pl>$ ^'s<gen>$	. \@Falkland Islands\<np\>\<loc\> 
-^.<sent>$ ^Falkland Islands<np><loc><pl>$	. \@Falkland Islands\<np\>\<loc\>
-^.<sent>$ ^Falklands<np><loc><pl>$	. \@Falklands\<np\>\<loc\>
-^.<sent>$ ^Falklands<np><loc><pl>$ ^'s<gen>$	. \@Falklands\<np\>\<loc\> 
-^.<sent>$ ^Falklands<np><loc><pl>$	. \@Falklands\<np\>\<loc\>
-^.<sent>$ ^Mariana Islands<np><loc><pl>$	. \@Mariana Islands\<np\>\<loc\>
-^.<sent>$ ^Mariana Islands<np><loc><pl>$ ^'s<gen>$	. \@Mariana Islands\<np\>\<loc\> 
-^.<sent>$ ^Mariana Islands<np><loc><pl>$	. \@Mariana Islands\<np\>\<loc\>
-^.<sent>$ ^Marquesas Islands<np><loc><pl>$	. \@Marquesas Islands\<np\>\<loc\>
-^.<sent>$ ^Marquesas Islands<np><loc><pl>$ ^'s<gen>$	. \@Marquesas Islands\<np\>\<loc\> 
-^.<sent>$ ^Marquesas Islands<np><loc><pl>$	. \@Marquesas Islands\<np\>\<loc\>
 ^.<sent>$ ^Maluku Islands<np><loc><pl>$	. \@Maluku Islands\<np\>\<loc\>
 ^.<sent>$ ^Maluku Islands<np><loc><pl>$ ^'s<gen>$	. \@Maluku Islands\<np\>\<loc\> 
 ^.<sent>$ ^Maluku Islands<np><loc><pl>$	. \@Maluku Islands\<np\>\<loc\>
@@ -186,7 +158,6 @@
 ^.<sent>$ ^Hong Kong<np><loc><sg>$	. \@Hong Kong\<np\>\<loc\>
 ^.<sent>$ ^Houston<np><loc><sg>$	. \@Houston\<np\>\<loc\>
 ^.<sent>$ ^Indiana<np><loc><sg>$	. #Indiana\<np\>\<loc\>\<f\>\<sg\>
-^.<sent>$ ^Northern Ireland<np><loc><sg>$	. \@Northern Ireland\<np\>\<loc\>
 ^.<sent>$ ^La Palma<np><loc><sg>$	. \@La Palma\<np\>\<loc\>
 ^.<sent>$ ^Islamabad<np><loc><sg>$	. \@Islamabad\<np\>\<loc\>
 ^.<sent>$ ^Jordan<np><loc><sg>$	. #Giordania\<np\>\<loc\>\<f\>\<sg\>
@@ -209,7 +180,6 @@
 ^.<sent>$ ^Morocco<np><loc><sg>$	. \@Morocco\<np\>\<loc\>
 ^.<sent>$ ^Munich<np><loc><sg>$	. \@Munich\<np\>\<loc\>
 ^.<sent>$ ^Navarra<np><loc><sg>$	. \@Navarra\<np\>\<loc\>
-^.<sent>$ ^New Zealand<np><loc><sg>$	. \@New Zealand\<np\>\<loc\>
 ^.<sent>$ ^Nicaragua<np><loc><sg>$	. \@Nicaragua\<np\>\<loc\>
 ^.<sent>$ ^Queensland<np><loc><sg>$	. \@Queensland\<np\>\<loc\>
 ^.<sent>$ ^Rabat<np><loc><sg>$	. \@Rabat\<np\>\<loc\>
@@ -1929,10 +1899,6 @@
 ^.<sent>$ ^correspondent<n><sg>$	. \@Correspondent\<n\>
 ^.<sent>$ ^correspondent<n><pl>$	. \@Correspondent\<n\>
 ^.<sent>$ ^cosmos<n><sg>$	. \@Cosmos\<n\>
-^.<sent>$ ^cough<n><sg>$	. #Tosse\<n\>
-^.<sent>$ ^cough<n><sg>$	. #Tosse\<n\>
-^.<sent>$ ^cough<n><sg>$	. #Tosse\<n\>
-^.<sent>$ ^cough<n><sg>$	. #Tosse\<n\>
 ^.<sent>$ ^councillor<n><sg>$	. \@Councillor\<n\>
 ^.<sent>$ ^councillor<n><pl>$	. \@Councillor\<n\>
 ^.<sent>$ ^councillor<n><pl>$ ^'s<gen>$	. \@Councillor\<n\> 
@@ -4216,25 +4182,6 @@
 ^.<sent>$ ^jersey<n><pl>$ ^'s<gen>$	. \@Jersey\<n\> 
 ^.<sent>$ ^jersey<n><sg>$	. \@Jersey\<n\>
 ^.<sent>$ ^jersey<n><pl>$	. \@Jersey\<n\>
-^.<sent>$ ^jewellery<n><sg>$	. #Gioiello\<n\>\<m\>
-^.<sent>$ ^jewellery<n><pl>$	. #Gioiello\<n\>\<m\>
-^.<sent>$ ^jewellery<n><pl>$	. #Gioiello\<n\>\<m\>
-^.<sent>$ ^jewellery<n><pl>$ ^'s<gen>$	. #Gioiello\<n\>\<m\> 
-^.<sent>$ ^jewellery<n><pl>$ ^'s<gen>$	. #Gioiello\<n\>\<m\> 
-^.<sent>$ ^jewellery<n><sg>$	. #Gioiello\<n\>\<m\>
-^.<sent>$ ^jewellery<n><pl>$	. #Gioiello\<n\>\<m\>
-^.<sent>$ ^jewelry<n><sg>$	. #Gioiello\<n\>\<m\>
-^.<sent>$ ^jewelry<n><pl>$	. #Gioiello\<n\>\<m\>
-^.<sent>$ ^jewelry<n><pl>$	. #Gioiello\<n\>\<m\>
-^.<sent>$ ^jewelry<n><pl>$ ^'s<gen>$	. #Gioiello\<n\>\<m\> 
-^.<sent>$ ^jewelry<n><pl>$ ^'s<gen>$	. #Gioiello\<n\>\<m\> 
-^.<sent>$ ^jewelry<n><sg>$	. #Gioiello\<n\>\<m\>
-^.<sent>$ ^jewelry<n><pl>$	. #Gioiello\<n\>\<m\>
-^.<sent>$ ^journalist<n><sg>$	. #Giornalista\<n\>\<mf\>\<sg\>
-^.<sent>$ ^journalist<n><pl>$	. #Giornalista\<n\>\<mf\>\<pl\>
-^.<sent>$ ^journalist<n><pl>$ ^'s<gen>$	. #Giornalista\<n\>\<mf\>\<pl\> 
-^.<sent>$ ^journalist<n><sg>$	. #Giornalista\<n\>\<mf\>\<sg\>
-^.<sent>$ ^journalist<n><pl>$	. #Giornalista\<n\>\<mf\>\<pl\>
 ^.<sent>$ ^joy<n><sg>$	. \@Joy\<n\>
 ^.<sent>$ ^joy<n><pl>$	. \@Joy\<n\>
 ^.<sent>$ ^joy<n><pl>$ ^'s<gen>$	. \@Joy\<n\> 
@@ -6590,16 +6537,6 @@
 ^.<sent>$ ^sedition<n><pl>$ ^'s<gen>$	. \@Sedition\<n\> 
 ^.<sent>$ ^sedition<n><sg>$	. \@Sedition\<n\>
 ^.<sent>$ ^sedition<n><pl>$	. \@Sedition\<n\>
-^.<sent>$ ^seducer<n><sg>$	. #Seduttore\<n\>\<m\>\<sg\>
-^.<sent>$ ^seducer<n><pl>$	. #Seduttore\<n\>\<m\>\<pl\>
-^.<sent>$ ^seducer<n><pl>$ ^'s<gen>$	. #Seduttore\<n\>\<m\>\<pl\> 
-^.<sent>$ ^seducer<n><sg>$	. #Seduttore\<n\>\<m\>\<sg\>
-^.<sent>$ ^seducer<n><pl>$	. #Seduttore\<n\>\<m\>\<pl\>
-^.<sent>$ ^seductress<n><sg>$	. #Seduttore\<n\>\<f\>\<sg\>
-^.<sent>$ ^seductress<n><pl>$	. #Seduttore\<n\>\<f\>\<pl\>
-^.<sent>$ ^seductress<n><pl>$ ^'s<gen>$	. #Seduttore\<n\>\<f\>\<pl\> 
-^.<sent>$ ^seductress<n><sg>$	. #Seduttore\<n\>\<f\>\<sg\>
-^.<sent>$ ^seductress<n><pl>$	. #Seduttore\<n\>\<f\>\<pl\>
 ^.<sent>$ ^seer<n><sg>$	. \@Seer\<n\>
 ^.<sent>$ ^seer<n><pl>$	. \@Seer\<n\>
 ^.<sent>$ ^seer<n><pl>$ ^'s<gen>$	. \@Seer\<n\> 
@@ -8530,7 +8467,6 @@
 ^.<sent>$ ^High Contracting Party<n><sg>$	. \@High Contracting Party\<n\>
 ^.<sent>$ ^High Contracting Party<n><pl>$	. \@High Contracting Party\<n\>
 ^.<sent>$ ^context-based machine translation<n><sg>$	. \@Context-based machine translation\<n\>
-^.<sent>$ ^BBC<n><acr><sg>$	. \@BBC\<n\>\<acr\>
 ^.<sent>$ ^CD<n><acr><sg>$	. \@CD\<n\>\<acr\>
 ^.<sent>$ ^CDC<n><acr><sg>$	. \@CDC\<n\>\<acr\>
 ^.<sent>$ ^DNA<n><acr><sg>$	. \@DNA\<n\>\<acr\>
@@ -9819,7 +9755,6 @@
 ^.<sent>$ ^bake<vblex><ger>$	. #Cuocere\<vblex\>\<ger\>
 ^.<sent>$ ^bake<vblex><pprs>$	. #Cuocere\<vblex\>\<ger\>
 ^.<sent>$ ^bake<vblex><subs>$	. #Cuocere\<vblex\>\<inf\>
-^.<sent>$ ^believe<vblex><past>$	. Credette/Cred√®
 ^.<sent>$ ^besiege<vblex><inf>$	. #Assediare\<vblex\>\<inf\>
 ^.<sent>$ ^besiege<vblex><pres>$	. #Assediare\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^besiege<vblex><pri><p3><sg>$	. #Assediare\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -10149,14 +10084,6 @@
 ^.<sent>$ ^pull# down<vblex><sep><subs>$ ^this<prn><tn><mf><pl>$	. Abbattere #questo\<prn\>\<tn\>\<m\>
 ^.<sent>$ ^pull# down<vblex><sep><subs>$ ^that<prn><tn><mf><sg>$	. Abbattere #quello\<prn\>\<tn\>\<nt\>
 ^.<sent>$ ^pull# down<vblex><sep><subs>$ ^that<prn><tn><mf><pl>$	. Abbattere #quello\<prn\>\<tn\>\<m\>
-^.<sent>$ ^rebuild<vblex><inf>$	. #Ricostruire\<vblex\>\<inf\>
-^.<sent>$ ^rebuild<vblex><pres>$	. #Ricostruire\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^rebuild<vblex><pri><p3><sg>$	. #Ricostruire\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^rebuild<vblex><past>$	. #Ricostruire\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^rebuild<vblex><pp>$	. #Ricostruire\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^rebuild<vblex><ger>$	. #Ricostruire\<vblex\>\<ger\>
-^.<sent>$ ^rebuild<vblex><pprs>$	. #Ricostruire\<vblex\>\<ger\>
-^.<sent>$ ^rebuild<vblex><subs>$	. #Ricostruire\<vblex\>\<inf\>
 ^.<sent>$ ^spoil<vblex><inf>$	. #Viziare\<vblex\>\<inf\>
 ^.<sent>$ ^spoil<vblex><pres>$	. #Viziare\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^spoil<vblex><pri><p3><sg>$	. #Viziare\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -10426,14 +10353,6 @@
 ^.<sent>$ ^contravene<vblex><ger>$	. #Contravvenire\<vblex\>\<ger\>
 ^.<sent>$ ^contravene<vblex><pprs>$	. #Contravvenire\<vblex\>\<ger\>
 ^.<sent>$ ^contravene<vblex><subs>$	. #Contravvenire\<vblex\>\<inf\>
-^.<sent>$ ^counter<vblex><inf>$	. #Opporre\<vblex\>\<inf\>
-^.<sent>$ ^counter<vblex><pres>$	. #Opporre\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^counter<vblex><pri><p3><sg>$	. #Opporre\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^counter<vblex><past>$	. #Opporre\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^counter<vblex><pp>$	. #Opporre\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^counter<vblex><ger>$	. #Opporre\<vblex\>\<ger\>
-^.<sent>$ ^counter<vblex><pprs>$	. #Opporre\<vblex\>\<ger\>
-^.<sent>$ ^counter<vblex><subs>$	. #Opporre\<vblex\>\<inf\>
 ^.<sent>$ ^crash<vblex><inf>$	. #Scontrarsi\<vblex\>\<inf\>
 ^.<sent>$ ^crash<vblex><pres>$	. #Scontrarsi\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^crash<vblex><pri><p3><sg>$	. #Scontrarsi\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -10442,7 +10361,6 @@
 ^.<sent>$ ^crash<vblex><ger>$	. #Scontrarsi\<vblex\>\<ger\>
 ^.<sent>$ ^crash<vblex><pprs>$	. #Scontrarsi\<vblex\>\<ger\>
 ^.<sent>$ ^crash<vblex><subs>$	. #Scontrarsi\<vblex\>\<inf\>
-^.<sent>$ ^credit<vblex><past>$	. Credette/Cred√®
 ^.<sent>$ ^crush<vblex><inf>$	. #Schiacciare\<vblex\>\<inf\>
 ^.<sent>$ ^crush<vblex><pres>$	. #Schiacciare\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^crush<vblex><pri><p3><sg>$	. #Schiacciare\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -10483,14 +10401,6 @@
 ^.<sent>$ ^debate<vblex><ger>$	. #Dibattere\<vblex\>\<ger\>
 ^.<sent>$ ^debate<vblex><pprs>$	. #Dibattere\<vblex\>\<ger\>
 ^.<sent>$ ^debate<vblex><subs>$	. #Dibattere\<vblex\>\<inf\>
-^.<sent>$ ^decompose<vblex><inf>$	. #Decomporre\<vblex\>\<inf\>
-^.<sent>$ ^decompose<vblex><pres>$	. #Decomporre\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^decompose<vblex><pri><p3><sg>$	. #Decomporre\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^decompose<vblex><past>$	. #Decomporre\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^decompose<vblex><pp>$	. #Decomporre\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^decompose<vblex><ger>$	. #Decomporre\<vblex\>\<ger\>
-^.<sent>$ ^decompose<vblex><pprs>$	. #Decomporre\<vblex\>\<ger\>
-^.<sent>$ ^decompose<vblex><subs>$	. #Decomporre\<vblex\>\<inf\>
 ^.<sent>$ ^deduce<vblex><inf>$	. #Dedurre\<vblex\>\<inf\>
 ^.<sent>$ ^deduce<vblex><pres>$	. #Dedurre\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^deduce<vblex><pri><p3><sg>$	. #Dedurre\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -10523,14 +10433,6 @@
 ^.<sent>$ ^derail<vblex><ger>$	. #Deragliare\<vblex\>\<ger\>
 ^.<sent>$ ^derail<vblex><pprs>$	. #Deragliare\<vblex\>\<ger\>
 ^.<sent>$ ^derail<vblex><subs>$	. #Deragliare\<vblex\>\<inf\>
-^.<sent>$ ^derogate<vblex><inf>$	. #Sminuire\<vblex\>\<inf\>
-^.<sent>$ ^derogate<vblex><pres>$	. #Sminuire\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^derogate<vblex><pri><p3><sg>$	. #Sminuire\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^derogate<vblex><past>$	. #Sminuire\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^derogate<vblex><pp>$	. #Sminuire\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^derogate<vblex><ger>$	. #Sminuire\<vblex\>\<ger\>
-^.<sent>$ ^derogate<vblex><pprs>$	. #Sminuire\<vblex\>\<ger\>
-^.<sent>$ ^derogate<vblex><subs>$	. #Sminuire\<vblex\>\<inf\>
 ^.<sent>$ ^descend<vblex><inf>$	. #Discendere\<vblex\>\<inf\>
 ^.<sent>$ ^descend<vblex><pres>$	. #Discendere\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^descend<vblex><pri><p3><sg>$	. #Discendere\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -10788,14 +10690,6 @@
 ^.<sent>$ ^flatter<vblex><ger>$	. \@Flatter\<vblex\>\<ger\>
 ^.<sent>$ ^flatter<vblex><pprs>$	. \@Flatter\<vblex\>\<ger\>
 ^.<sent>$ ^flatter<vblex><subs>$	. \@Flatter\<vblex\>\<inf\>
-^.<sent>$ ^flow<vblex><inf>$	. #Fluire\<vblex\>\<inf\>
-^.<sent>$ ^flow<vblex><pres>$	. #Fluire\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^flow<vblex><pri><p3><sg>$	. #Fluire\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^flow<vblex><past>$	. #Fluire\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^flow<vblex><pp>$	. #Fluire\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^flow<vblex><ger>$	. #Fluire\<vblex\>\<ger\>
-^.<sent>$ ^flow<vblex><pprs>$	. #Fluire\<vblex\>\<ger\>
-^.<sent>$ ^flow<vblex><subs>$	. #Fluire\<vblex\>\<inf\>
 ^.<sent>$ ^frame<vblex><inf>$	. #Incorniciare\<vblex\>\<inf\>
 ^.<sent>$ ^frame<vblex><pres>$	. #Incorniciare\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^frame<vblex><pri><p3><sg>$	. #Incorniciare\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -11051,14 +10945,6 @@
 ^.<sent>$ ^insist<vblex><ger>$	. #Insistere\<vblex\>\<ger\>
 ^.<sent>$ ^insist<vblex><pprs>$	. #Insistere\<vblex\>\<ger\>
 ^.<sent>$ ^insist<vblex><subs>$	. #Insistere\<vblex\>\<inf\>
-^.<sent>$ ^instruct<vblex><inf>$	. #Istruire\<vblex\>\<inf\>
-^.<sent>$ ^instruct<vblex><pres>$	. #Istruire\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^instruct<vblex><pri><p3><sg>$	. #Istruire\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^instruct<vblex><past>$	. #Istruire\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^instruct<vblex><pp>$	. #Istruire\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^instruct<vblex><ger>$	. #Istruire\<vblex\>\<ger\>
-^.<sent>$ ^instruct<vblex><pprs>$	. #Istruire\<vblex\>\<ger\>
-^.<sent>$ ^instruct<vblex><subs>$	. #Istruire\<vblex\>\<inf\>
 ^.<sent>$ ^interfere<vblex><inf>$	. #Interferire\<vblex\>\<inf\>
 ^.<sent>$ ^interfere<vblex><pres>$	. #Interferire\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^interfere<vblex><pri><p3><sg>$	. #Interferire\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -11067,14 +10953,6 @@
 ^.<sent>$ ^interfere<vblex><ger>$	. #Interferire\<vblex\>\<ger\>
 ^.<sent>$ ^interfere<vblex><pprs>$	. #Interferire\<vblex\>\<ger\>
 ^.<sent>$ ^interfere<vblex><subs>$	. #Interferire\<vblex\>\<inf\>
-^.<sent>$ ^interpose<vblex><inf>$	. #Interporre\<vblex\>\<inf\>
-^.<sent>$ ^interpose<vblex><pres>$	. #Interporre\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^interpose<vblex><pri><p3><sg>$	. #Interporre\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^interpose<vblex><past>$	. #Interporre\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^interpose<vblex><pp>$	. #Interporre\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^interpose<vblex><ger>$	. #Interporre\<vblex\>\<ger\>
-^.<sent>$ ^interpose<vblex><pprs>$	. #Interporre\<vblex\>\<ger\>
-^.<sent>$ ^interpose<vblex><subs>$	. #Interporre\<vblex\>\<inf\>
 ^.<sent>$ ^intervene<vblex><inf>$	. #Intervenire\<vblex\>\<inf\>
 ^.<sent>$ ^intervene<vblex><pres>$	. #Intervenire\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^intervene<vblex><pri><p3><sg>$	. #Intervenire\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -11356,14 +11234,6 @@
 ^.<sent>$ ^object<vblex><ger>$	. \@Object\<vblex\>\<ger\>
 ^.<sent>$ ^object<vblex><pprs>$	. \@Object\<vblex\>\<ger\>
 ^.<sent>$ ^object<vblex><subs>$	. \@Object\<vblex\>\<inf\>
-^.<sent>$ ^obstruct<vblex><inf>$	. #Ostruire\<vblex\>\<inf\>
-^.<sent>$ ^obstruct<vblex><pres>$	. #Ostruire\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^obstruct<vblex><pri><p3><sg>$	. #Ostruire\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^obstruct<vblex><past>$	. #Ostruire\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^obstruct<vblex><pp>$	. #Ostruire\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^obstruct<vblex><ger>$	. #Ostruire\<vblex\>\<ger\>
-^.<sent>$ ^obstruct<vblex><pprs>$	. #Ostruire\<vblex\>\<ger\>
-^.<sent>$ ^obstruct<vblex><subs>$	. #Ostruire\<vblex\>\<inf\>
 ^.<sent>$ ^omit<vblex><inf>$	. #Omettere\<vblex\>\<inf\>
 ^.<sent>$ ^omit<vblex><pres>$	. #Omettere\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^omit<vblex><pri><p3><sg>$	. #Omettere\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -11788,14 +11658,6 @@
 ^.<sent>$ ^rebound<vblex><ger>$	. \@Rebound\<vblex\>\<ger\>
 ^.<sent>$ ^rebound<vblex><pprs>$	. \@Rebound\<vblex\>\<ger\>
 ^.<sent>$ ^rebound<vblex><subs>$	. \@Rebound\<vblex\>\<inf\>
-^.<sent>$ ^reconstruct<vblex><inf>$	. #Ricostruire\<vblex\>\<inf\>
-^.<sent>$ ^reconstruct<vblex><pres>$	. #Ricostruire\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^reconstruct<vblex><pri><p3><sg>$	. #Ricostruire\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^reconstruct<vblex><past>$	. #Ricostruire\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^reconstruct<vblex><pp>$	. #Ricostruire\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^reconstruct<vblex><ger>$	. #Ricostruire\<vblex\>\<ger\>
-^.<sent>$ ^reconstruct<vblex><pprs>$	. #Ricostruire\<vblex\>\<ger\>
-^.<sent>$ ^reconstruct<vblex><subs>$	. #Ricostruire\<vblex\>\<inf\>
 ^.<sent>$ ^reconvert<vblex><inf>$	. #Riconvertire\<vblex\>\<inf\>
 ^.<sent>$ ^reconvert<vblex><pres>$	. #Riconvertire\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^reconvert<vblex><pri><p3><sg>$	. #Riconvertire\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -14332,7 +14194,6 @@
 ^.<sent>$ ^both<cnjcoo>$	. \@Both\<cnjcoo\>
 ^.<sent>$ ^but<cnjcoo>$	. #But\<cnjcoo\>\/ma\<cnjcoo\>
 ^.<sent>$ ^but rather<cnjcoo>$	. \@But rather\<cnjcoo\>
-^.<sent>$ ^nor<cnjcoo>$	. \@Nor\<cnjcoo\>
 ^.<sent>$ ^than<cnjcoo>$	. \@Than\<cnjcoo\>
 ^.<sent>$ ^after<cnjadv>$	. \@After\<cnjadv\>
 ^.<sent>$ ^as well as<cnjadv>$	. \@As well as\<cnjadv\>
@@ -14778,9 +14639,6 @@
 ^.<sent>$ ^Bretton Woods<np><loc><sg>$	. \@Bretton Woods\<np\>\<loc\>
 ^.<sent>$ ^Bretton Woods<np><loc><sg>$ ^'s<gen>$	. \@Bretton Woods\<np\>\<loc\> 
 ^.<sent>$ ^Bretton Woods<np><loc><sg>$	. \@Bretton Woods\<np\>\<loc\>
-^.<sent>$ ^British West Indies<np><loc><pl>$	. \@British West Indies\<np\>\<loc\>
-^.<sent>$ ^British West Indies<np><loc><pl>$ ^'s<gen>$	. \@British West Indies\<np\>\<loc\> 
-^.<sent>$ ^British West Indies<np><loc><pl>$	. \@British West Indies\<np\>\<loc\>
 ^.<sent>$ ^Czechoslovakia<np><loc><sg>$	. \@Czechoslovakia\<np\>\<loc\>
 ^.<sent>$ ^Dow Jones<np><al><sg>$	. \@Dow Jones\<np\>\<al\>
 ^.<sent>$ ^First World War<np><al><sg>$	. \@First World War\<np\>\<al\>
@@ -15227,12 +15085,8 @@
 ^.<sent>$ ^Cayman Islands<np><loc><pl>$	. \@Cayman Islands\<np\>\<loc\>
 ^.<sent>$ ^Cayman Islands<np><loc><pl>$ ^'s<gen>$	. \@Cayman Islands\<np\>\<loc\> 
 ^.<sent>$ ^Cayman Islands<np><loc><pl>$	. \@Cayman Islands\<np\>\<loc\>
-^.<sent>$ ^Central African Republic<np><loc><sg>$	. \@Central African Republic\<np\>\<loc\>
 ^.<sent>$ ^Central America<np><loc><sg>$	. \@Central America\<np\>\<loc\>
 ^.<sent>$ ^Ceylon<np><loc><sg>$	. \@Ceylon\<np\>\<loc\>
-^.<sent>$ ^Cook Islands<np><loc><pl>$	. \@Cook Islands\<np\>\<loc\>
-^.<sent>$ ^Cook Islands<np><loc><pl>$ ^'s<gen>$	. \@Cook Islands\<np\>\<loc\> 
-^.<sent>$ ^Cook Islands<np><loc><pl>$	. \@Cook Islands\<np\>\<loc\>
 ^.<sent>$ ^Djibouti<np><loc><sg>$	. \@Djibouti\<np\>\<loc\>
 ^.<sent>$ ^Eritrea<np><loc><sg>$	. \@Eritrea\<np\>\<loc\>
 ^.<sent>$ ^Fiji<np><loc><sg>$	. \@Fiji\<np\>\<loc\>
@@ -15250,7 +15104,6 @@
 ^.<sent>$ ^Honduras<np><loc><sg>$	. \@Honduras\<np\>\<loc\>
 ^.<sent>$ ^Honduras<np><loc><sg>$ ^'s<gen>$	. \@Honduras\<np\>\<loc\> 
 ^.<sent>$ ^Honduras<np><loc><sg>$	. \@Honduras\<np\>\<loc\>
-^.<sent>$ ^Ivory Coast<np><loc><sg>$	. \@Ivory Coast\<np\>\<loc\>
 ^.<sent>$ ^Jakarta<np><loc><sg>$	. \@Jakarta\<np\>\<loc\>
 ^.<sent>$ ^Jersey<np><loc><sg>$	. \@Jersey\<np\>\<loc\>
 ^.<sent>$ ^Kazakhstan<np><loc><sg>$	. \@Kazakhstan\<np\>\<loc\>
@@ -15264,13 +15117,10 @@
 ^.<sent>$ ^Maine<np><loc><sg>$	. \@Maine\<np\>\<loc\>
 ^.<sent>$ ^Mainz<np><loc><sg>$	. \@Mainz\<np\>\<loc\>
 ^.<sent>$ ^Malawi<np><loc><sg>$	. \@Malawi\<np\>\<loc\>
-^.<sent>$ ^Maldives<np><loc><sg>$	. \@Maldives\<np\>\<loc\>
-^.<sent>$ ^Maldives<np><loc><sg>$ ^'s<gen>$	. \@Maldives\<np\>\<loc\> 
-^.<sent>$ ^Maldives<np><loc><sg>$	. \@Maldives\<np\>\<loc\>
+^.<sent>$ ^Maldives<np><loc><sg>$	. #Maldive\<np\>\<loc\>\<f\>\<sg\>
+^.<sent>$ ^Maldives<np><loc><sg>$ ^'s<gen>$	. #Maldive\<np\>\<loc\>\<f\>\<sg\> 
+^.<sent>$ ^Maldives<np><loc><sg>$	. #Maldive\<np\>\<loc\>\<f\>\<sg\>
 ^.<sent>$ ^Mali<np><loc><sg>$	. \@Mali\<np\>\<loc\>
-^.<sent>$ ^Marshall Islands<np><loc><pl>$	. \@Marshall Islands\<np\>\<loc\>
-^.<sent>$ ^Marshall Islands<np><loc><pl>$ ^'s<gen>$	. \@Marshall Islands\<np\>\<loc\> 
-^.<sent>$ ^Marshall Islands<np><loc><pl>$	. \@Marshall Islands\<np\>\<loc\>
 ^.<sent>$ ^Martinique<np><loc><sg>$	. \@Martinique\<np\>\<loc\>
 ^.<sent>$ ^Melanesia<np><loc><sg>$	. \@Melanesia\<np\>\<loc\>
 ^.<sent>$ ^Micronesia<np><loc><sg>$	. \@Micronesia\<np\>\<loc\>
@@ -15281,7 +15131,6 @@
 ^.<sent>$ ^Montpellier<np><loc><sg>$	. \@Montpellier\<np\>\<loc\>
 ^.<sent>$ ^Mozambique<np><loc><sg>$	. \@Mozambique\<np\>\<loc\>
 ^.<sent>$ ^Namibia<np><loc><sg>$	. \@Namibia\<np\>\<loc\>
-^.<sent>$ ^New Caledonia<np><loc><sg>$	. \@New Caledonia\<np\>\<loc\>
 ^.<sent>$ ^Niger<np><loc><sg>$	. \@Niger\<np\>\<loc\>
 ^.<sent>$ ^Nikosea<np><loc><sg>$	. \@Nikosea\<np\>\<loc\>
 ^.<sent>$ ^Normandy<np><loc><sg>$	. \@Normandy\<np\>\<loc\>
@@ -15499,11 +15348,6 @@
 ^.<sent>$ ^actinium<n><pl>$ ^'s<gen>$	. #Attinio\<n\>\<m\>\<pl\> 
 ^.<sent>$ ^actinium<n><sg>$	. #Attinio\<n\>\<m\>\<sg\>
 ^.<sent>$ ^actinium<n><pl>$	. #Attinio\<n\>\<m\>\<pl\>
-^.<sent>$ ^actress<n><sg>$	. \@Actress\<n\>
-^.<sent>$ ^actress<n><pl>$	. \@Actress\<n\>
-^.<sent>$ ^actress<n><pl>$ ^'s<gen>$	. \@Actress\<n\> 
-^.<sent>$ ^actress<n><sg>$	. \@Actress\<n\>
-^.<sent>$ ^actress<n><pl>$	. \@Actress\<n\>
 ^.<sent>$ ^actuarial<adj>$	. \@Actuarial\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^actuator<n><sg>$	. \@Actuator\<n\>
 ^.<sent>$ ^actuator<n><pl>$	. \@Actuator\<n\>
@@ -15579,11 +15423,6 @@
 ^.<sent>$ ^adjustment<n><pl>$ ^'s<gen>$	. \@Adjustment\<n\> 
 ^.<sent>$ ^adjustment<n><sg>$	. \@Adjustment\<n\>
 ^.<sent>$ ^adjustment<n><pl>$	. \@Adjustment\<n\>
-^.<sent>$ ^admiral<n><sg>$	. #Ammiraglio\<n\>\<mf\>\<sg\>
-^.<sent>$ ^admiral<n><pl>$	. #Ammiraglio\<n\>\<mf\>\<pl\>
-^.<sent>$ ^admiral<n><pl>$ ^'s<gen>$	. #Ammiraglio\<n\>\<mf\>\<pl\> 
-^.<sent>$ ^admiral<n><sg>$	. #Ammiraglio\<n\>\<mf\>\<sg\>
-^.<sent>$ ^admiral<n><pl>$	. #Ammiraglio\<n\>\<mf\>\<pl\>
 ^.<sent>$ ^admonitory<adj>$	. \@Admonitory\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^adret<n><sg>$	. \@Adret\<n\>
 ^.<sent>$ ^adret<n><pl>$	. \@Adret\<n\>
@@ -18348,10 +18187,6 @@
 ^.<sent>$ ^cougar<n><pl>$ ^'s<gen>$	. \@Cougar\<n\> 
 ^.<sent>$ ^cougar<n><sg>$	. \@Cougar\<n\>
 ^.<sent>$ ^cougar<n><pl>$	. \@Cougar\<n\>
-^.<sent>$ ^cough<n><sg>$	. #Tosse\<n\>
-^.<sent>$ ^cough<n><sg>$	. #Tosse\<n\>
-^.<sent>$ ^cough<n><sg>$	. #Tosse\<n\>
-^.<sent>$ ^cough<n><sg>$	. #Tosse\<n\>
 ^.<sent>$ ^coulomb<n><sg>$	. \@Coulomb\<n\>
 ^.<sent>$ ^coulomb<n><pl>$	. \@Coulomb\<n\>
 ^.<sent>$ ^coulomb<n><pl>$ ^'s<gen>$	. \@Coulomb\<n\> 
@@ -30621,14 +30456,6 @@
 ^.<sent>$ ^rerun<vblex><ger>$	. \@Rerun\<vblex\>\<ger\>
 ^.<sent>$ ^rerun<vblex><pprs>$	. \@Rerun\<vblex\>\<ger\>
 ^.<sent>$ ^rerun<vblex><subs>$	. \@Rerun\<vblex\>\<inf\>
-^.<sent>$ ^redistribute<vblex><inf>$	. #Redistribuire\<vblex\>\<inf\>
-^.<sent>$ ^redistribute<vblex><pres>$	. #Redistribuire\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^redistribute<vblex><pri><p3><sg>$	. #Redistribuire\<vblex\>\<pri\>\<p3\>\<sg\>
-^.<sent>$ ^redistribute<vblex><past>$	. #Redistribuire\<vblex\>\<ifi\>\<p3\>\<sg\>
-^.<sent>$ ^redistribute<vblex><pp>$	. #Redistribuire\<vblex\>\<pp\>\<m\>\<sg\>
-^.<sent>$ ^redistribute<vblex><ger>$	. #Redistribuire\<vblex\>\<ger\>
-^.<sent>$ ^redistribute<vblex><pprs>$	. #Redistribuire\<vblex\>\<ger\>
-^.<sent>$ ^redistribute<vblex><subs>$	. #Redistribuire\<vblex\>\<inf\>
 ^.<sent>$ ^remodel<vblex><inf>$	. \@Remodel\<vblex\>\<inf\>
 ^.<sent>$ ^remodel<vblex><pres>$	. \@Remodel\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^remodel<vblex><pri><p3><sg>$	. \@Remodel\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -32928,7 +32755,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> spia<n><f>/spionaggio<n><m>$
 #\^.\<sent\> spira<n><f>/bobina<n><f>$
 #\^.\<sent\> terme<n><f>/terme<n><f><pl>$
-#\^.\<sent\> annunciazione<n><f>/Annunciazione<n><f>$
 #\^.\<sent\> Inquisizione<n><f>/Inquisizione<n><f>$
 #\^.\<sent\> marzo<n><m>/Marcia<n><f>$
 #\^.\<sent\> nazista<n><GD>/Nazista<n><GD>$
@@ -32946,18 +32772,8 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> attivista<n><mf>/attivista<n><m>/attivista<n><f>/combattente<n><mf>$
 #\^.\<sent\> attivista<n><mf>/attivista<n><m>/attivista<n><f>/combattente<n><mf>$
 #\^.\<sent\> attivista<n><mf>/attivista<n><m>/attivista<n><f>/combattente<n><mf>$
-#\^.\<sent\> attore<n><GD>/attore<n><m>$
-#\^.\<sent\> attore<n><GD>/attore<n><m>$
-#\^.\<sent\> adattamento<n><m>/adattamento<n><f>/adeguamento<n><m>$
-#\^.\<sent\> adattamento<n><m>/adattamento<n><f>/adeguamento<n><m>$
-#\^.\<sent\> adattamento<n><m>/adattamento<n><f>/adeguamento<n><m>$
-#\^.\<sent\> ammiraglio<n><mf>/ammiraglio<n><m>$
-#\^.\<sent\> ammiraglio<n><mf>/ammiraglio<n><m>$
 #\^.\<sent\> consiglio<n><m>/consulenza<n><f>$
 #\^.\<sent\> consiglio<n><m>/consulenza<n><f>$
-#\^.\<sent\> affetto<n><m>/fine<n><mf>/affezione<n><f>$
-#\^.\<sent\> affetto<n><m>/fine<n><mf>/affezione<n><f>$
-#\^.\<sent\> affetto<n><m>/fine<n><mf>/affezione<n><f>$
 #\^.\<sent\> accordo<n><m>/contratto<n><m>/convenzione<n><m>/convenzione<n><f>$
 #\^.\<sent\> accordo<n><m>/contratto<n><m>/convenzione<n><m>/convenzione<n><f>$
 #\^.\<sent\> accordo<n><m>/contratto<n><m>/convenzione<n><m>/convenzione<n><f>$
@@ -33415,15 +33231,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> asse<n><mf>/ferro<n><m>$
 #\^.\<sent\> irrigazione<n><m>/irrigazione<n><f>$
 #\^.\<sent\> irrigazione<n><m>/irrigazione<n><f>$
-#\^.\<sent\> giuntura<n><f>/consiglio<n><m>$
-#\^.\<sent\> giuntura<n><f>/consiglio<n><m>$
-#\^.\<sent\> giornalista<n><mf>/giornalista<n><m>/giornalista<n><f>$
-#\^.\<sent\> giornalista<n><mf>/giornalista<n><m>/giornalista<n><f>$
-#\^.\<sent\> giornalista<n><mf>/giornalista<n><m>/giornalista<n><f>$
-#\^.\<sent\> giudizio<n><m>/sentenza<n><f>$
-#\^.\<sent\> giudizio<n><m>/sentenza<n><f>$
-#\^.\<sent\> giudizio<n><m>/sentenza<n><f>$
-#\^.\<sent\> giudizio<n><m>/sentenza<n><f>$
 #\^.\<sent\> tastiera<n><m>/tastiera<n><f>$
 #\^.\<sent\> tastiera<n><m>/tastiera<n><f>$
 #\^.\<sent\> assassinio<n><m>/abbattimento<n><m>$
