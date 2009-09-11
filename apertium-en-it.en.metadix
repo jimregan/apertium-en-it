@@ -20183,8 +20183,10 @@
     <e lm="jerrycan"><i>jerrycan</i><par n="house__n"/>    </e>
     <e lm="jersey" a="doriua"><i>jersey</i><par n="house__n"/>    </e>
     <e lm="jewel"><i>jewel</i><par n="house__n"/>    </e>
-    <e lm="jewellery"><i>jeweller</i><par n="bab/y__n"/>    </e>
-    <e lm="jewelry"><i>jewelr</i><par n="bab/y__n"/>    </e>
+    <e lm="jewellery" r="LR"><i>jeweller</i><par n="bab/y__n"/>    </e>
+    <e lm="jewelry" r="LR"><p><l>jewelr</l><r>jeweller</r></p><par n="bab/y__n"/>    </e>
+    <e lm="jewellery" r="RL" alt="en_GB"><i>jeweller</i><par n="bab/y__n"/>    </e>
+    <e lm="jewelry" r="RL" alt="en_US"><p><l>jewelr</l><r>jeweller</r></p><par n="bab/y__n"/>    </e>
     <e lm="job"><i>job</i><par n="house__n"/>    </e>
     <e lm="joint"><i>joint</i><par n="house__n"/>    </e>
     <e lm="joint"><i>joint</i><par n="house__n"/>    </e>
@@ -20197,9 +20199,9 @@
     <e lm="joy"><i>joy</i><par n="house__n"/>    </e>
     <e lm="judge"><i>judge</i><par n="house__n"/>    </e>
     <e lm="judgement" r="LR"><i>judgement</i><par n="house__n"/>    </e>
-    <e lm="judgment" r="LR"><p><l>judgment</l><r>judgement</l></p><par n="house__n"/>    </e>
+    <e lm="judgment" r="LR"><p><l>judgment</l><r>judgement</r></p><par n="house__n"/>    </e>
     <e lm="judgement" r="RL" alt="en_GB"><i>judgement</i><par n="house__n"/>    </e>
-    <e lm="judgment" r="RL" alt="en_US"><p><l>judgment</l><r>judgement</l></p><par n="house__n"/>    </e>
+    <e lm="judgment" r="RL" alt="en_US"><p><l>judgment</l><r>judgement</r></p><par n="house__n"/>    </e>
     <e lm="judicature"><i>judicature</i><par n="house__n"/>    </e>
     <e lm="juggler"><i>juggler</i><par n="house__n"/>    </e>
     <e lm="juice"><i>juice</i><par n="house__n"/>    </e>
