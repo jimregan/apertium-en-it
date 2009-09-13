@@ -14442,7 +14442,7 @@
 <e r="RL"><p><l>baby<s n="n"/></l><r>neonato<s n="n"/></r></p></e>
 <e><p><l>bacillus<s n="n"/></l><r>bacillo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>back<s n="n"/></l><r>schiena<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>background<s n="n"/></l><r>fondo<s n="n"/><s n="m"/></r></p></e>
+<e srl="background"><p><l>background<s n="n"/></l><r>fondo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>backrest<s n="n"/></l><r>schienale<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>backrest<s n="n"/></l><r>sostegno<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>backside<s n="n"/></l><r>didietro<s n="n"/><s n="m"/></r></p></e>
@@ -14682,7 +14682,7 @@
 <e r="RL"><p><l>botanist<s n="n"/></l><r>botanico<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>botany<s n="n"/></l><r>botanica<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bottle<s n="n"/></l><r>bottiglia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>bottom<s n="n"/></l><r>fondo<s n="n"/><s n="m"/></r></p></e>
+<e srl="bottom D"><p><l>bottom<s n="n"/></l><r>fondo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>boundary<s n="n"/></l><r>frontiera<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bouquet<s n="n"/></l><r>ramo<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>bourgeois<s n="n"/></l><r>borghese<s n="n"/><s n="GD"/></r></p></e>
@@ -15910,7 +15910,7 @@
 <e><p><l>disapproval<s n="n"/></l><r>disapprovazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>disaster<s n="n"/></l><r>disastro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>disc<s n="n"/></l><r>disco<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>discharge<s n="n"/></l><r>portata<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>discharge<s n="n"/></l><r>portata<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>disciple<s n="n"/></l><r>discepolo<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>disciple<s n="n"/></l><r>discepolo<s n="n"/></r></p></e>
 <e><p><l>disclosure<s n="n"/></l><r>divulgazione<s n="n"/><s n="f"/></r></p></e>
@@ -16383,7 +16383,7 @@
 <e><p><l>expulsion<s n="n"/></l><r>espulsione<s n="n"/><s n="f"/></r></p></e>
 <e srl="ray D"><p><l>ray<s n="n"/></l><r>raggio<s n="n"/><s n="m"/></r></p></e>
 <e srl="radius"><p><l>radius<s n="n"/></l><r>raggio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>extent<s n="n"/></l><r>portata<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>extent<s n="n"/></l><r>portata<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>extension<s n="n"/></l><r>estensione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>extinction<s n="n"/></l><r>estinzione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>extinguisher<s n="n"/></l><r>estintore<s n="n"/><s n="m"/></r></p></e>
@@ -16436,7 +16436,7 @@
 <e r="RL"><p><l>farmer<s n="n"/><s n="ND"/></l><r>labrador<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>farmer<s n="n"/><s n="sg"/></l><r>labrador<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>farmer<s n="n"/><s n="pl"/></l><r>labrador<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
-<e><p><l>farming<s n="n"/></l><r>agricoltura<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>farming<s n="n"/></l><r>agricoltura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fart<s n="n"/></l><r>peto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fascism<s n="n"/></l><r>fascismo<s n="n"/><s n="m"/></r></p></e>
 <e c="check"><p><l>fascist<s n="n"/></l><r>fascista<s n="n"/><s n="mf"/></r></p></e>
@@ -16698,7 +16698,7 @@
 <e r="LR"><p><l>functionality<s n="n"/><s n="sg"/></l><r>funzionalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>functionality<s n="n"/><s n="pl"/></l><r>funzionalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>functioning<s n="n"/></l><r>funzionamento<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>fund<s n="n"/></l><r>fondo<s n="n"/><s n="m"/></r></p></e>
+<e srl="fund"><p><l>fund<s n="n"/></l><r>fondo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fundamentalism<s n="n"/></l><r>fondamentalismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fundamentalist<s n="n"/></l><r>fondamentalista<s n="n"/><s n="mf"/></r></p></e>
 <e r="RL"><p><l>funding<s n="n"/></l><r>finanziamento<s n="n"/><s n="f"/></r></p></e>
@@ -17267,7 +17267,7 @@
 <e><p><l>indentation<s n="n"/></l><r>indentazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>independence<s n="n"/></l><r>indipendenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>independentism<s n="n"/></l><r>indipendentismo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>index<s n="n"/></l><r>indice<s n="n"/><s n="m"/></r></p></e>
+<e srl="index D"><p><l>index<s n="n"/></l><r>indice<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>index<b/>finger<s n="n"/></l><r>dito<b/>indice<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>indication<s n="n"/></l><r>indicazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>indicative<s n="n"/></l><r>indicativo<s n="n"/><s n="m"/></r></p></e>
@@ -17331,7 +17331,7 @@
 <e r="RL"><p><l>insertion<s n="n"/></l><r>inserimento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>insertion<s n="n"/></l><r>inserzione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>inside<s n="n"/></l><r>interiore<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>insight<s n="n"/></l><r>idea<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>insight<s n="n"/></l><r>idea<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>insistence<s n="n"/></l><r>insistenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>insolation<s n="n"/></l><r>insolazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>inspection<s n="n"/></l><r>ispezione<s n="n"/><s n="f"/></r></p></e>
@@ -19241,20 +19241,20 @@
 <e><p><l>rally<s n="n"/></l><r>rally<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ramification<s n="n"/></l><r>ramificazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>randomisation<s n="n"/></l><r>randomizzazione<s n="n"/><s n="f"/></r></p></e>
-<e c="Mil."><p><l>range<s n="n"/></l><r>raggio<s n="n"/><s n="m"/></r></p></e>
-<e c="Mil."><p><l>range<s n="n"/></l><r>portata<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>range<s n="n"/></l><r>gamma<s n="n"/><s n="f"/></r></p></e>
+<e c="Mil." slr="raggio" srl="range"><p><l>range<s n="n"/></l><r>raggio<s n="n"/><s n="m"/></r></p></e>
+<e c="Mil." slr="portata D"><p><l>range<s n="n"/></l><r>portata<s n="n"/><s n="f"/></r></p></e>
+<e slr="gamma"><p><l>range<s n="n"/></l><r>gamma<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>rank<s n="n"/></l><r>grado<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>rank<s n="n"/></l><r>rango<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>rank<s n="n"/></l><r>rango<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>rape<s n="n"/></l><r>stupro<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>rape<s n="n"/></l><r>violazione<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>violation<s n="n"/></l><r>violazione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>rapist<s n="n"/></l><r>stupratore<s n="n"/></r></p></e>
 <e r="LR"><p><l>rapist<s n="n"/></l><r>stupratore<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>raspberry<s n="n"/></l><r>lampone<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>rate<s n="n"/></l><r>ritmo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>rate<s n="n"/></l><r>indice<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>rate<s n="n"/></l><r>aliquota<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>rating<s n="n"/></l><r>indice<s n="n"/><s n="m"/></r></p></e>
+<e slr="ritmo"><p><l>rate<s n="n"/></l><r>ritmo<s n="n"/><s n="m"/></r></p></e>
+<e slr="indice D" srl="rate"><p><l>rate<s n="n"/></l><r>indice<s n="n"/><s n="m"/></r></p></e>
+<e slr="aliquota"><p><l>rate<s n="n"/></l><r>aliquota<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>rating<s n="n"/></l><r>indice<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ratio<s n="n"/></l><r>proporzione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>rationalisation<s n="n"/></l><r>razionalizzazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>rationalism<s n="n"/></l><r>razionalismo<s n="n"/><s n="m"/></r></p></e>
@@ -19650,7 +19650,7 @@
 <e r="LR"><p><l>scientific<b/>character<s n="n"/><s n="sg"/></l><r>scientificità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>scientist<s n="n"/></l><r>scienziato<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>scientist<s n="n"/></l><r>scienziato<s n="n"/></r></p></e>
-<e><p><l>scope<s n="n"/></l><r>portata<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>scope<s n="n"/></l><r>portata<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>scrap<s n="n"/></l><r>spazzatura<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>scream<s n="n"/><s n="sg"/></l><r>grido<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e r="LR"><p><l>scream<s n="n"/><s n="pl"/></l><r>grido<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
