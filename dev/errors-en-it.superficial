@@ -114,7 +114,6 @@
 ^.<sent>$ ^South Island<np><loc><sg>$	. \@South Island\<np\>\<loc\>
 ^.<sent>$ ^Marchena Island<np><loc><sg>$	. \@Marchena Island\<np\>\<loc\>
 ^.<sent>$ ^Isla Marchena<np><loc><sg>$	. \@Isla Marchena\<np\>\<loc\>
-^.<sent>$ ^North Island<np><loc><sg>$	. #Isola del Nord\<np\>\<loc\>\<f\>\<sg\>
 ^.<sent>$ ^British Isles<np><loc><pl>$	. \@British Isles\<np\>\<loc\>
 ^.<sent>$ ^British Isles<np><loc><pl>$ ^'s<gen>$	. \@British Isles\<np\>\<loc\> 
 ^.<sent>$ ^British Isles<np><loc><pl>$	. \@British Isles\<np\>\<loc\>
@@ -3755,11 +3754,6 @@
 ^.<sent>$ ^impetus<n><pl>$ ^'s<gen>$	. \@Impetus\<n\> 
 ^.<sent>$ ^impetus<n><sg>$	. \@Impetus\<n\>
 ^.<sent>$ ^impetus<n><pl>$	. \@Impetus\<n\>
-^.<sent>$ ^implant<n><sg>$	. \@Implant\<n\>
-^.<sent>$ ^implant<n><pl>$	. \@Implant\<n\>
-^.<sent>$ ^implant<n><pl>$ ^'s<gen>$	. \@Implant\<n\> 
-^.<sent>$ ^implant<n><sg>$	. \@Implant\<n\>
-^.<sent>$ ^implant<n><pl>$	. \@Implant\<n\>
 ^.<sent>$ ^implantation<n><sg>$	. \@Implantation\<n\>
 ^.<sent>$ ^implantation<n><pl>$	. \@Implantation\<n\>
 ^.<sent>$ ^implantation<n><pl>$ ^'s<gen>$	. \@Implantation\<n\> 
@@ -6455,11 +6449,6 @@
 ^.<sent>$ ^scratch<n><pl>$ ^'s<gen>$	. \@Scratch\<n\> 
 ^.<sent>$ ^scratch<n><sg>$	. \@Scratch\<n\>
 ^.<sent>$ ^scratch<n><pl>$	. \@Scratch\<n\>
-^.<sent>$ ^screw<n><sg>$	. #Vite\<n\>\<m\>\<sg\>
-^.<sent>$ ^screw<n><pl>$	. #Vite\<n\>\<m\>\<pl\>
-^.<sent>$ ^screw<n><pl>$ ^'s<gen>$	. #Vite\<n\>\<m\>\<pl\> 
-^.<sent>$ ^screw<n><sg>$	. #Vite\<n\>\<m\>\<sg\>
-^.<sent>$ ^screw<n><pl>$	. #Vite\<n\>\<m\>\<pl\>
 ^.<sent>$ ^scruple<n><sg>$	. \@Scruple\<n\>
 ^.<sent>$ ^scruple<n><pl>$	. \@Scruple\<n\>
 ^.<sent>$ ^scruple<n><pl>$ ^'s<gen>$	. \@Scruple\<n\> 
@@ -6475,11 +6464,6 @@
 ^.<sent>$ ^scupper<n><pl>$ ^'s<gen>$	. \@Scupper\<n\> 
 ^.<sent>$ ^scupper<n><sg>$	. \@Scupper\<n\>
 ^.<sent>$ ^scupper<n><pl>$	. \@Scupper\<n\>
-^.<sent>$ ^sea<n><sg>$	. #Mare\<n\>\<mf\>\<sg\>
-^.<sent>$ ^sea<n><pl>$	. #Mare\<n\>\<mf\>\<pl\>
-^.<sent>$ ^sea<n><pl>$ ^'s<gen>$	. #Mare\<n\>\<mf\>\<pl\> 
-^.<sent>$ ^sea<n><sg>$	. #Mare\<n\>\<mf\>\<sg\>
-^.<sent>$ ^sea<n><pl>$	. #Mare\<n\>\<mf\>\<pl\>
 ^.<sent>$ ^searcher<n><sg>$	. \@Searcher\<n\>
 ^.<sent>$ ^searcher<n><pl>$	. \@Searcher\<n\>
 ^.<sent>$ ^searcher<n><pl>$ ^'s<gen>$	. \@Searcher\<n\> 
@@ -14559,7 +14543,7 @@
 ^.<sent>$ ^many<prn><tn><mf><pl>$	. \@Many\<prn\>\<tn\>\<mf\>\<pl\>
 ^.<sent>$ ^few<prn><tn><mf><pl>$	. \@Few\<prn\>\<tn\>\<mf\>\<pl\>
 ^.<sent>$ ^hers<prn><pos><mf><sp>$	. #Il suo\<prn\>\<pos\>\<m\>\<sg\>
-^.<sent>$ ^his<prn><pos><mf><sp>$	. #Il suo\<prn\>\<pos\>\<m\>\<sg\>
+^.<sent>$ ^his<prn><pos><mf><sp>$	. #Il suo\<prn\>\<sp\>
 ^.<sent>$ ^how many<prn><itg><mf><pl>$	. #Quanto\<prn\>\<itg\>
 ^.<sent>$ ^how much<prn><itg><mf><sg>$	. #Quanto\<prn\>\<itg\>
 ^.<sent>$ ^mine<prn><pos><mf><sp>$	. #Il mio\<prn\>\<pos\>\<m\>\<sg\>
@@ -15117,9 +15101,6 @@
 ^.<sent>$ ^Maine<np><loc><sg>$	. \@Maine\<np\>\<loc\>
 ^.<sent>$ ^Mainz<np><loc><sg>$	. \@Mainz\<np\>\<loc\>
 ^.<sent>$ ^Malawi<np><loc><sg>$	. \@Malawi\<np\>\<loc\>
-^.<sent>$ ^Maldives<np><loc><sg>$	. #Maldive\<np\>\<loc\>\<f\>\<sg\>
-^.<sent>$ ^Maldives<np><loc><sg>$ ^'s<gen>$	. #Maldive\<np\>\<loc\>\<f\>\<sg\> 
-^.<sent>$ ^Maldives<np><loc><sg>$	. #Maldive\<np\>\<loc\>\<f\>\<sg\>
 ^.<sent>$ ^Mali<np><loc><sg>$	. \@Mali\<np\>\<loc\>
 ^.<sent>$ ^Martinique<np><loc><sg>$	. \@Martinique\<np\>\<loc\>
 ^.<sent>$ ^Melanesia<np><loc><sg>$	. \@Melanesia\<np\>\<loc\>
@@ -32741,6 +32722,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> neolitico<n><m>/Neolitico<n><m>$
 #\^.\<sent\> impiego<n><m>/utilizzo<n><m>$
 #\^.\<sent\> catarro<n><m>/raffreddore<n><m>$
+#\^.\<sent\> natica<n><f>/culo<n><m>/chiappa<n><f>$
 #\^.\<sent\> gasolio<n><m>/benzina<n><f>$
 #\^.\<sent\> asola<n><f>/occhiello<n><m>$
 #\^.\<sent\> divisa<n><f>/uniforme<n><f>$
@@ -32861,20 +32843,8 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> boccone<n><m>/morsicatura<n><f>$
 #\^.\<sent\> foglio<n><m>/foglia<n><f>$
 #\^.\<sent\> foglio<n><m>/foglia<n><f>$
-#\^.\<sent\> bordo<n><m>/consiglio<n><m>$
-#\^.\<sent\> bordo<n><m>/consiglio<n><m>$
-#\^.\<sent\> caldaia<n><f>/impianto<n><m>$
-#\^.\<sent\> caldaia<n><f>/impianto<n><m>$
-#\^.\<sent\> sfilata<n><f>/intestino<n><m>$
-#\^.\<sent\> sfilata<n><f>/intestino<n><m>$
-#\^.\<sent\> palla<n><f>/scodella<n><f>$
-#\^.\<sent\> palla<n><f>/scodella<n><f>$
-#\^.\<sent\> bambino<n><m>/ragazzo<n><m>$
-#\^.\<sent\> bambino<n><m>/ragazzo<n><m>$
 #\^.\<sent\> marca<n><f>/marchio<n><m>$
 #\^.\<sent\> marca<n><f>/marchio<n><m>$
-#\^.\<sent\> spuntino<n><m>/colazione<n><f>$
-#\^.\<sent\> spuntino<n><m>/colazione<n><f>$
 #\^.\<sent\> seno<n><m>/petto<n><m>$
 #\^.\<sent\> seno<n><m>/petto<n><m>$
 #\^.\<sent\> muratore<n><m>/paletta<n><f>$
@@ -32888,8 +32858,8 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> edilizia<n><f>/edificio<n><m>/edificazione<n><f>$
 #\^.\<sent\> colpo<n><m>/bernoccolo<n><m>$
 #\^.\<sent\> colpo<n><m>/bernoccolo<n><m>$
-#\^.\<sent\> natica<n><f>/chiappa<n><f>$
-#\^.\<sent\> natica<n><f>/chiappa<n><f>$
+#\^.\<sent\> natica<n><f>/culo<n><m>/chiappa<n><f>$
+#\^.\<sent\> natica<n><f>/culo<n><m>/chiappa<n><f>$
 #\^.\<sent\> asola<n><f>/occhiello<n><m>$
 #\^.\<sent\> acquirente<n><mf>/compratore<n><GD>$
 #\^.\<sent\> acquirente<n><mf>/compratore<n><GD>$
@@ -33006,9 +32976,8 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> coordinamento<n><m>/coordinazione<n><f>$
 #\^.\<sent\> copia<n><f>/esemplare<n><m>$
 #\^.\<sent\> copia<n><f>/esemplare<n><m>$
-#\^.\<sent\> monarchia<n><f>/coronazione<n><f>/incoronazione<n><f>$
-#\^.\<sent\> monarchia<n><f>/coronazione<n><f>/incoronazione<n><f>$
-#\^.\<sent\> monarchia<n><f>/coronazione<n><f>/incoronazione<n><f>$
+#\^.\<sent\> monarchia<n><f>/coronazione<n><f>$
+#\^.\<sent\> monarchia<n><f>/coronazione<n><f>$
 #\^.\<sent\> bancone<n><m>/contatore<n><m>$
 #\^.\<sent\> bancone<n><m>/contatore<n><m>$
 #\^.\<sent\> corso<n><m>/marcia<n><f>$
@@ -33026,8 +32995,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> crimine<n><m>/delitto<n><m>$
 #\^.\<sent\> raccolto<n><m>/coltivazione<n><f>$
 #\^.\<sent\> raccolto<n><m>/coltivazione<n><f>$
-#\^.\<sent\> grido<n><m><sg>/grido<n><f><pl>$
-#\^.\<sent\> grido<n><m><sg>/grido<n><f><pl>$
 #\^.\<sent\> cura<n><f>/prete<n><m>$
 #\^.\<sent\> cura<n><f>/prete<n><m>$
 #\^.\<sent\> sipario<n><m>/sipario<n><f>/tamponamento<n><m>$
@@ -33273,14 +33240,14 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> cibo<n><m>/pranzo<n><m>$
 #\^.\<sent\> posta<n><f>/messaggeria<n><f>$
 #\^.\<sent\> posta<n><f>/messaggeria<n><f>$
-#\^.\<sent\> marca<n><f>/marchio<n><m>$
-#\^.\<sent\> marca<n><f>/marchio<n><m>$
 #\^.\<sent\> criniera<n><f>/capigliatura<n><f>$
 #\^.\<sent\> criniera<n><f>/capigliatura<n><f>$
 #\^.\<sent\> umanit√†<n><f><sp>/humanit√†<n><f><sp>$
 #\^.\<sent\> umanit√†<n><f><sp>/humanit√†<n><f><sp>$
 #\^.\<sent\> umanit√†<n><f><sp>/humanit√†<n><f><sp>$
 #\^.\<sent\> umanit√†<n><f><sp>/humanit√†<n><f><sp>$
+#\^.\<sent\> marca<n><f>/marchio<n><m>$
+#\^.\<sent\> marca<n><f>/marchio<n><m>$
 #\^.\<sent\> massa<n><f>/messa<n><f>$
 #\^.\<sent\> festa<n><f>/partito<n><m>$
 #\^.\<sent\> significato<n><m>/importanza<n><f>$
@@ -33506,16 +33473,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> domanda<n><f>/problema<n><m>/questione<n><f>/interrogativo<n><m>/interrogazione<n><f>$
 #\^.\<sent\> razza<n><f>/carriera<n><f>$
 #\^.\<sent\> razza<n><f>/carriera<n><f>$
-#\^.\<sent\> gamma<n><f>/raggio<n><m>/portata<n><f>$
-#\^.\<sent\> gamma<n><f>/raggio<n><m>/portata<n><f>$
-#\^.\<sent\> gamma<n><f>/raggio<n><m>/portata<n><f>$
-#\^.\<sent\> rango<n><m>/grado<n><m>$
-#\^.\<sent\> rango<n><m>/grado<n><m>$
-#\^.\<sent\> stupro<n><m>/violazione<n><f>$
-#\^.\<sent\> stupro<n><m>/violazione<n><f>$
-#\^.\<sent\> ritmo<n><m>/indice<n><m>/aliquota<n><f>$
-#\^.\<sent\> ritmo<n><m>/indice<n><m>/aliquota<n><f>$
-#\^.\<sent\> ritmo<n><m>/indice<n><m>/aliquota<n><f>$
 #\^.\<sent\> raggio<n><m>/fulmine<n><m>$
 #\^.\<sent\> motivo<n><m>/ragione<n><f>$
 #\^.\<sent\> motivo<n><m>/ragione<n><f>$
@@ -33596,18 +33553,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> regola<n><f>/principio<n><m>$
 #\^.\<sent\> salario<n><m>/stipendio<n><m>$
 #\^.\<sent\> salario<n><m>/stipendio<n><m>$
-#\^.\<sent\> palco<n><m>/palcoscenico<n><m>$
-#\^.\<sent\> palco<n><m>/palcoscenico<n><m>$
-#\^.\<sent\> orario<n><m>/programma<n><m>$
-#\^.\<sent\> orario<n><m>/programma<n><m>$
-#\^.\<sent\> raggio<n><m>/portata<n><f>$
-#\^.\<sent\> raggio<n><m>/portata<n><f>$
-#\^.\<sent\> grido<n><m><sg>/grido<n><f><pl>$
-#\^.\<sent\> grido<n><m><sg>/grido<n><f><pl>$
-#\^.\<sent\> vite<n><m>/vite<n><f>$
-#\^.\<sent\> vite<n><m>/vite<n><f>$
-#\^.\<sent\> mare<n><mf>/mare<n><m>$
-#\^.\<sent\> mare<n><mf>/mare<n><m>$
+#\^.\<sent\> tappa<n><f>/palcoscenico<n><m>$
 #\^.\<sent\> foca<n><f>/francobollo<n><m>$
 #\^.\<sent\> foca<n><f>/francobollo<n><m>$
 #\^.\<sent\> laicizzazione<n><f>/secolarizzazione<n><f>$
@@ -33658,6 +33604,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> terme<n><f>/terme<n><f><pl>$
 #\^.\<sent\> posto<n><m>/granito<n><m>$
 #\^.\<sent\> posto<n><m>/granito<n><m>$
+#\^.\<sent\> tappa<n><f>/palcoscenico<n><m>$
 #\^.\<sent\> astro<n><m>/stella<n><f>$
 #\^.\<sent\> astro<n><m>/stella<n><f>$
 #\^.\<sent\> palo<n><m>/pylon<n><m>/pertica<n><f>$
@@ -33691,8 +33638,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> turismo<n><m>/autovettura<n><f>$
 #\^.\<sent\> turista<n><m>/turista<n><f>$
 #\^.\<sent\> turista<n><m>/turista<n><f>$
-#\^.\<sent\> marca<n><f>/marchio<n><m>$
-#\^.\<sent\> marca<n><f>/marchio<n><m>$
 #\^.\<sent\> educazione<n><f>/formazione<n><f>/allenamento<n><m>$
 #\^.\<sent\> educazione<n><f>/formazione<n><f>/allenamento<n><m>$
 #\^.\<sent\> educazione<n><f>/formazione<n><f>/allenamento<n><m>$

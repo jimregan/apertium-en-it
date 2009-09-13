@@ -7,10 +7,6 @@
 ^.<sent>$ ^alcun<det><ind><f><sg>$	. #Any\<det\>\<qnt\>\<sg\>
 ^.<sent>$ ^il loro<det><pos><m><pl>$	. #His\<pl\>
 ^.<sent>$ ^il loro<det><pos><m><sg>$	. #His\<sg\>
-^.<sent>$ ^il mio<det><pos><m><pl>$	. #My\<det\>\<pos\>\<sp\>
-^.<sent>$ ^il mio<det><pos><m><sg>$	. #My\<det\>\<pos\>\<sp\>
-^.<sent>$ ^il mio<det><pos><f><pl>$	. #My\<det\>\<pos\>\<sp\>
-^.<sent>$ ^il mio<det><pos><f><sg>$	. #My\<det\>\<pos\>\<sp\>
 ^.<sent>$ ^il suo<det><pos><m><pl>$	. #His\<det\>\<pos\>\<sp\>
 ^.<sent>$ ^il suo<det><pos><m><sg>$	. #His\<det\>\<pos\>\<sp\>
 ^.<sent>$ ^il vostro<det><pos><m><pl>$	. #Your\<det\>\<pos\>\<sp\>
@@ -18,10 +14,6 @@
 ^.<sent>$ ^il vostro<det><pos><f><pl>$	. #Your\<det\>\<pos\>\<sp\>
 ^.<sent>$ ^il vostro<det><pos><f><sg>$	. #Your\<det\>\<pos\>\<sp\>
 ^.<sent>$ ^loro<det><pos><mf><sp>$	. #His
-^.<sent>$ ^mio<det><pos><m><pl>$	. #My\<det\>\<pos\>\<sp\>
-^.<sent>$ ^mio<det><pos><m><sg>$	. #My\<det\>\<pos\>\<sp\>
-^.<sent>$ ^mio<det><pos><f><pl>$	. #My\<det\>\<pos\>\<sp\>
-^.<sent>$ ^mio<det><pos><f><sg>$	. #My\<det\>\<pos\>\<sp\>
 ^.<sent>$ ^molto<det><ind><m><sg>$	. #Many\<det\>\<qnt\>\<sg\>
 ^.<sent>$ ^molto<det><ind><f><sg>$	. #Many\<det\>\<qnt\>\<sg\>
 ^.<sent>$ ^nostro<det><pos><m><pl>$	. #Our\<pl\>
@@ -207,8 +199,8 @@
 ^.<sent>$ ^barocco<n><m><sg>$	. #Baroque\<n\>\<sg\>
 ^.<sent>$ ^battente<n><f><pl>$	. \@Battente\<n\>\<pl\>
 ^.<sent>$ ^battente<n><f><sg>$	. \@Battente\<n\>\<sg\>
-^.<sent>$ ^blandimento<n><m><pl>$	. #Blandishments\<n\>\<pl\>
-^.<sent>$ ^blandimento<n><m><sg>$	. #Blandishments\<n\>\<sg\>
+^.<sent>$ ^blandimento<n><m><pl>$	. #Blandishment\<n\>\<pl\>
+^.<sent>$ ^blandimento<n><m><sg>$	. #Blandishment\<n\>\<sg\>
 ^.<sent>$ ^blasone<n><m><pl>$	. #Blazon\<n\>\<pl\>
 ^.<sent>$ ^blasone<n><m><sg>$	. #Blazon\<n\>\<sg\>
 ^.<sent>$ ^bloc notes<n><m><sp>$	. \@Bloc notes\<n\>\<sp\>
@@ -468,6 +460,8 @@
 ^.<sent>$ ^insorgenza<n><f><sg>$	. \@Insorgenza\<n\>\<sg\>
 ^.<sent>$ ^integrante<n><mf><pl>$	. \@Integrante\<n\>\<pl\>
 ^.<sent>$ ^integrante<n><mf><sg>$	. \@Integrante\<n\>\<sg\>
+^.<sent>$ ^intestino<n><m><pl>$	. #Intestine\<n\>\<pl\>
+^.<sent>$ ^intestino<n><m><sg>$	. #Intestine\<n\>\<sg\>
 ^.<sent>$ ^intreccio<n><m><pl>$	. #Celtic knot\<n\>\<pl\>
 ^.<sent>$ ^intreccio<n><m><sg>$	. #Celtic knot\<n\>\<sg\>
 ^.<sent>$ ^iride<n><f><pl>$	. \@Iride\<n\>\<pl\>
@@ -865,8 +859,6 @@
 ^.<sent>$ ^tariffa<n><f><sg>$	. \@Tariffa\<n\>\<sg\>
 ^.<sent>$ ^freschezza<n><f><pl>$	. \@Freschezza\<n\>\<pl\>
 ^.<sent>$ ^freschezza<n><f><sg>$	. \@Freschezza\<n\>\<sg\>
-^.<sent>$ ^scenario<n><m><pl>$	. \@Scenario\<n\>\<pl\>
-^.<sent>$ ^scenario<n><m><sg>$	. \@Scenario\<n\>\<sg\>
 ^.<sent>$ ^soprattassa<n><f><pl>$	. \@Soprattassa\<n\>\<pl\>
 ^.<sent>$ ^soprattassa<n><f><sg>$	. \@Soprattassa\<n\>\<sg\>
 ^.<sent>$ ^ginocchio<n><f><pl>$	. \@Ginocchio\<n\>\<pl\>
@@ -916,8 +908,6 @@
 ^.<sent>$ ^fagocitazione<n><f><sg>$	. \@Fagocitazione\<n\>\<sg\>
 ^.<sent>$ ^filiazione<n><f><pl>$	. \@Filiazione\<n\>\<pl\>
 ^.<sent>$ ^filiazione<n><f><sg>$	. \@Filiazione\<n\>\<sg\>
-^.<sent>$ ^incoronazione<n><f><pl>$	. \@Incoronazione\<n\>\<pl\>
-^.<sent>$ ^incoronazione<n><f><sg>$	. \@Incoronazione\<n\>\<sg\>
 ^.<sent>$ ^infeudazione<n><f><pl>$	. #Fiefdom\<n\>\<pl\>
 ^.<sent>$ ^infeudazione<n><f><sg>$	. #Fiefdom\<n\>\<sg\>
 ^.<sent>$ ^insolazione<n><f><pl>$	. #Insolation\<n\>\<pl\>
@@ -8878,7 +8868,6 @@
 ^.<sent>$ ^liberalismo<n><m><sg>$	. #Liberalism\<n\>\<sg\>
 ^.<sent>$ ^patrono<n><m><pl>$	. #Patron\<n\>\<pl\>
 ^.<sent>$ ^patrono<n><m><sg>$	. #Patron\<n\>\<sg\>
-^.<sent>$ ^Maldive<np><loc><f><pl>$	. #Maldives\<np\>\<loc\>\<pl\>
 ^.<sent>$ ^ne<prn><pro><adv>$	. \@ne\<prn\>\<pro\>\<adv\>
 ^.<sent>$ ^quello<det><dem><mf><sg>$	. #That\<sg\>
 ^.<sent>$ ^questo<det><dem><mf><sg>$	. #This\<sg\>
@@ -10124,10 +10113,8 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> prize<n>/award<n>$
 #\^.\<sent\> axis<n>/iron<n>$
 #\^.\<sent\> creature<n>/baby<n>$
-#\^.\<sent\> fund<n>/bottom<n>/background<n>$
 #\^.\<sent\> baggage<n>/luggage<n>$
 #\^.\<sent\> balance<n>/equilibrium<n>$
-#\^.\<sent\> ball<n>/bowl<n>$
 #\^.\<sent\> balloon<n>/ball<n>$
 #\^.\<sent\> balloon<n>/ball<n>$
 #\^.\<sent\> ban<n>/prohibition<n>$
@@ -10166,24 +10153,18 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> hit<n>/coup<n>/stroke<n>/knock<n>/bump<n>/blow<n>$
 #\^.\<sent\> blueberry<n>/cranberry<n>$
 #\^.\<sent\> project<n>/blueprint<n>$
-#\^.\<sent\> tip<n>/council<n>/counsel<n>/advice<n>/board<n>/joint<n>$
 #\^.\<sent\> boat<n>/vessel<n>$
 #\^.\<sent\> corps<n>/body<n>$
-#\^.\<sent\> facility<n><pl>/boiler<n>/plantation<n>/installation<n>$
+#\^.\<sent\> implant<n>/facility<n><pl>/plantation<n>/installation<n>$
 #\^.\<sent\> bomb<n>/pump<n>$
 #\^.\<sent\> stone<n>/bone<n>$
 #\^.\<sent\> hat<n>/bonnet<n>$
 #\^.\<sent\> impulse<n>/lift<n>/boost<n>/urge<n>/spurt<n>$
 #\^.\<sent\> frontier<n>/boundary<n>/border<n>$
-#\^.\<sent\> fund<n>/bottom<n>/background<n>$
 #\^.\<sent\> frontier<n>/boundary<n>/border<n>$
 #\^.\<sent\> bunch<n>/bouquet<n>$
 #\^.\<sent\> tie<n>/noose<n>/bow<n>$
-#\^.\<sent\> ball<n>/bowl<n>$
-#\^.\<sent\> boy<n>/child<n>$
 #\^.\<sent\> groom<n>/boyfriend<n>$
-#\^.\<sent\> mark<n>/make<n>/brand<n>/trademark<n>$
-#\^.\<sent\> mark<n>/make<n>/brand<n>/trademark<n>$
 #\^.\<sent\> breast<n>/chest<n>$
 #\^.\<sent\> heart<n>/sinus<n>/breast<n>$
 #\^.\<sent\> breathing<n>/breath<n>$
@@ -10323,10 +10304,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> smash<n>/crash<n>$
 #\^.\<sent\> creature<n>/baby<n>$
 #\^.\<sent\> harvest<n>/yield<n>/crop<n>$
-#\^.\<sent\> shout<n>/scream<n>/cry<n>/cry<n><sg>$
-#\^.\<sent\> shout<n>/scream<n>/cry<n>/cry<n><pl>$
-#\^.\<sent\> shout<n>/scream<n>/cry<n>/cry<n><sg>$
-#\^.\<sent\> shout<n>/scream<n>/cry<n>/cry<n><pl>$
 #\^.\<sent\> glass<n>/crystal<n>$
 #\^.\<sent\> cube<n>/pail<n>/bin<n>/bucket<n>$
 #\^.\<sent\> top<n>/glass<n>/cup<n>$
@@ -10434,14 +10411,14 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> exploration<n>/screening<n>$
 #\^.\<sent\> burst<n>/blast<n>/explosion<n>$
 #\^.\<sent\> exposure<n>/exhibition<n>$
-#\^.\<sent\> ray<n>/range<n>/scope<n>$
-#\^.\<sent\> ray<n>/range<n>/scope<n>$
+#\^.\<sent\> ray<n>/range<n>$
+#\^.\<sent\> ray<n>/range<n>$
 #\^.\<sent\> extent<n>/scope<n>/range<n>/discharge<n>$
 #\^.\<sent\> extraction<n>/removal<n>$
 #\^.\<sent\> tissue<n>/fabric<n>$
 #\^.\<sent\> facility<n><pl>/facility<n><sg>/ease<n><ND>$
 #\^.\<sent\> facility<n><pl>/facility<n><sg>/ease<n><ND>$
-#\^.\<sent\> facility<n><pl>/boiler<n>/plantation<n>/installation<n>$
+#\^.\<sent\> implant<n>/facility<n><pl>/plantation<n>/installation<n>$
 #\^.\<sent\> factory<n>/manufacture<n>$
 #\^.\<sent\> failure<n>/bankruptcy<n>$
 #\^.\<sent\> agriculture<n>/farming<n>$
@@ -10500,7 +10477,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> entertainment<n>/enjoyment<n>/fun<n>$
 #\^.\<sent\> function<n>/role<n>$
 #\^.\<sent\> functioning<n>/operation<n>$
-#\^.\<sent\> fund<n>/bottom<n>/background<n>$
 #\^.\<sent\> profit<n>/gain<n>$
 #\^.\<sent\> gallery<n>/tunnel<n>$
 #\^.\<sent\> gallon<n>/chevron<n>$
@@ -10597,7 +10573,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> interior<n>/inside<n>$
 #\^.\<sent\> idea<n>/insight<n>$
 #\^.\<sent\> insolation<n>/sunstroke<n>$
-#\^.\<sent\> facility<n><pl>/boiler<n>/plantation<n>/installation<n>$
+#\^.\<sent\> implant<n>/facility<n><pl>/plantation<n>/installation<n>$
 #\^.\<sent\> case<n>/chance<n>/instance<n>/confirmation<n>$
 #\^.\<sent\> institute<n>/institution<n>$
 #\^.\<sent\> institute<n>/institution<n>$
@@ -10681,7 +10657,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> flame<n>/llama<n>$
 #\^.\<sent\> freight<n>/charge<n>/load<n>/burden<n>$
 #\^.\<sent\> lockup<n>/prison<n>/jail<n>$
-#\^.\<sent\> loge<n>/stage<n>/scenario<n>$
 #\^.\<sent\> aspect<n>/look<n>/appearance<n>$
 #\^.\<sent\> truck<n>/lorry<n>$
 #\^.\<sent\> regime<n>/diet<n>/luck<n>$
@@ -10693,8 +10668,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> folly<n>/madness<n>$
 #\^.\<sent\> review<n>/magazine<n>/journal<n>$
 #\^.\<sent\> post<n>/mail<n>$
-#\^.\<sent\> mark<n>/make<n>/brand<n>/trademark<n>$
-#\^.\<sent\> mark<n>/make<n>/brand<n>/trademark<n>$
 #\^.\<sent\> maker<n>/manufacturer<n>$
 #\^.\<sent\> administration<n>/dispensation<n>$
 #\^.\<sent\> manner<n>/way<n>$
@@ -10702,7 +10675,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> maker<n>/manufacturer<n>$
 #\^.\<sent\> map<n>/chart<n>$
 #\^.\<sent\> march<n>/course<n>/gear<n>/departure<n>$
-#\^.\<sent\> mark<n>/make<n>/brand<n>/trademark<n>$
 #\^.\<sent\> marquise<n>/marchioness<n>$
 #\^.\<sent\> stuff<n>/material<n>$
 #\^.\<sent\> stuff<n>/subject<n>/material<n>/matter<n>$
@@ -10835,7 +10807,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> plane<n>/plan<n>$
 #\^.\<sent\> plane<n>/airliner<n>/airplane<n>$
 #\^.\<sent\> plane<n>/plan<n>$
-#\^.\<sent\> facility<n><pl>/boiler<n>/plantation<n>/installation<n>$
+#\^.\<sent\> implant<n>/facility<n><pl>/plantation<n>/installation<n>$
 #\^.\<sent\> plate<n>/cymbal<n>/dish<n>$
 #\^.\<sent\> game<n>/play<n>/gambling<n>$
 #\^.\<sent\> interpreter<n>/performer<n>/player<n>$
@@ -10889,8 +10861,8 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> produce<n>/product<n>/painting<n>/paint<n>$
 #\^.\<sent\> production<n>/output<n>$
 #\^.\<sent\> profit<n>/gain<n>$
-#\^.\<sent\> programme<n>/program<n>/schedule<n>$
-#\^.\<sent\> programme<n>/program<n>/schedule<n>$
+#\^.\<sent\> programme<n>/program<n>$
+#\^.\<sent\> programme<n>/program<n>$
 #\^.\<sent\> ban<n>/prohibition<n>$
 #\^.\<sent\> project<n>/blueprint<n>$
 #\^.\<sent\> promenade<n>/drive<n>/ride<n>/walk<n>$
@@ -10922,7 +10894,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> radio<n><ND>/radium<n>$
 #\^.\<sent\> radio<n><ND>/radium<n>$
 #\^.\<sent\> radio<n><ND>/radium<n>$
-#\^.\<sent\> ray<n>/range<n>/scope<n>$
+#\^.\<sent\> ray<n>/range<n>$
 #\^.\<sent\> extent<n>/scope<n>/range<n>/discharge<n>$
 #\^.\<sent\> grade<n>/rank<n>/degree<n>$
 #\^.\<sent\> rhythm<n>/rate<n>$
@@ -11006,15 +10978,9 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> scanner<n><ND>/scan<n><ND>$
 #\^.\<sent\> scanner<n><ND>/scan<n><ND>$
 #\^.\<sent\> scarification<n>/cicatrisation<n>$
-#\^.\<sent\> stage<n>/scenario<n>$
-#\^.\<sent\> loge<n>/stage<n>/scenario<n>$
 #\^.\<sent\> schedule<n>/timetable<n>$
-#\^.\<sent\> programme<n>/program<n>/schedule<n>$
 #\^.\<sent\> diagram<n>/scheme<n>$
-#\^.\<sent\> ray<n>/range<n>/scope<n>$
 #\^.\<sent\> extent<n>/scope<n>/range<n>/discharge<n>$
-#\^.\<sent\> shout<n>/scream<n>/cry<n>/cry<n><sg>$
-#\^.\<sent\> shout<n>/scream<n>/cry<n>/cry<n><pl>$
 #\^.\<sent\> screen<n>/monitor<n>$
 #\^.\<sent\> exploration<n>/screening<n>$
 #\^.\<sent\> hyphen<n>/script<n>$
@@ -11044,8 +11010,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> shopping<n><sg>/purchase<n><sg>/acquisition<n>$
 #\^.\<sent\> shopping<n><sg>/purchase<n><sg>$
 #\^.\<sent\> abbreviation<n>/shortening<n>$
-#\^.\<sent\> shout<n>/scream<n>/cry<n>/cry<n><sg>$
-#\^.\<sent\> shout<n>/scream<n>/cry<n>/cry<n><pl>$
 #\^.\<sent\> show<n>/performance<n>/gig<n>$
 #\^.\<sent\> side<n>/canton<n>$
 #\^.\<sent\> signal<n>/sign<n>$
@@ -11059,7 +11023,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> aspect<n>/look<n>/appearance<n>$
 #\^.\<sent\> recession<n>/slump<n>$
 #\^.\<sent\> smash<n>/crash<n>$
-#\^.\<sent\> bite<n>/snack<n>$
 #\^.\<sent\> soil<n>/floor<n>$
 #\^.\<sent\> earth<n>/ground<n>/land<n>$
 #\^.\<sent\> solfege<n>/solf√®ge<n>$
@@ -11162,8 +11125,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> trace<n>/stroke<n>$
 #\^.\<sent\> clue<n>/track<n>/hint<n>$
 #\^.\<sent\> trade<n>/trading<n>/commerce<n>$
-#\^.\<sent\> mark<n>/make<n>/brand<n>/trademark<n>$
-#\^.\<sent\> mark<n>/make<n>/brand<n>/trademark<n>$
 #\^.\<sent\> trader<n>/dealer<n>$
 #\^.\<sent\> trade<n>/trading<n>/commerce<n>$
 #\^.\<sent\> traffic<n>/trafficking<n>$
