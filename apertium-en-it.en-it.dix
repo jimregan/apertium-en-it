@@ -203,9 +203,8 @@
 <e r="LR"><p><l>millionth<s n="det"/><s n="ord"/><s n="sp"/></l><r>milionesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>millionth<s n="det"/></l><r>milionesimo<s n="det"/></r></p></e>
 <e><p><l>much<s n="det"/><s n="qnt"/></l><r>molto<s n="det"/><s n="ind"/></r></p></e>
-<e r="RL"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mio<s n="det"/><s n="pos"/></r></p></e>
-<e r="RL"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="sg"/></r></p></e>
-<e r="RL"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>my<s n="det"/></l><r>mio<s n="det"/></r></p></e>
+<e r="RL"><p><l>my<s n="det"/></l><r>il<b/>mio<s n="det"/></r></p></e>
 <e r="LR"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="LR"><p><l>nine<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>novecentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>nine<b/>hundredth<s n="det"/></l><r>novecentesimo<s n="det"/></r></p></e>
@@ -15584,8 +15583,6 @@
 <e><p><l>cruiser<s n="n"/></l><r>incrociatore<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>crusade<s n="n"/></l><r>crociata<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>crushing<s n="n"/></l><r>frantumazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>cry<s n="n"/></l><r>grido<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e><p><l>cry<s n="n"/></l><r>grido<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e><p><l>cry<s n="n"/><s n="sg"/></l><r>grido<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e><p><l>cry<s n="n"/><s n="pl"/></l><r>grido<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>cry<s n="n"/><s n="pl"/></l><r>grido<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -17728,7 +17725,7 @@
 <e><p><l>lockup<s n="n"/></l><r>prigione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>locomotion<s n="n"/></l><r>locomozione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>locomotive<s n="n"/></l><r>locomotiva<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>loge<s n="n"/></l><r>palco<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>loge<s n="n"/></l><r>palco<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>logic<s n="n"/></l><r>logica<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>logistics<s n="n"/></l><r>logistica<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>logotype<s n="n"/></l><r>logo<s n="n"/><s n="m"/></r></p></e>
@@ -19655,8 +19652,8 @@
 <e r="RL"><p><l>scientist<s n="n"/></l><r>scienziato<s n="n"/></r></p></e>
 <e><p><l>scope<s n="n"/></l><r>portata<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>scrap<s n="n"/></l><r>spazzatura<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>scream<s n="n"/><s n="sg"/></l><r>grido<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e><p><l>scream<s n="n"/><s n="pl"/></l><r>grido<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>scream<s n="n"/><s n="sg"/></l><r>grido<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>scream<s n="n"/><s n="pl"/></l><r>grido<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e><p><l>screen<s n="n"/></l><r>schermo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>screening<s n="n"/></l><r>esplorazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>screw<s n="n"/></l><r>vite<s n="n"/><s n="f"/></r></p></e>
@@ -19809,12 +19806,10 @@
 <e><p><l>shortening<s n="n"/></l><r>abbreviazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>shot<s n="n"/></l><r>tiro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>shoulder<s n="n"/></l><r>spalla<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>shout<s n="n"/></l><r>grido<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e><p><l>shout<s n="n"/></l><r>grido<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>shout<s n="n"/></l><r>grido<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>shout<s n="n"/></l><r>grido<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e><p><l>show<s n="n"/></l><r>spettacolo<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>show<s n="n"/><s n="ND"/></l><r>show<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>show<s n="n"/><s n="sg"/></l><r>show<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>show<s n="n"/><s n="pl"/></l><r>show<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>shower<s n="n"/></l><r>doccia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>shrimp<s n="n"/></l><r>gambero<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>side<s n="n"/></l><r>lato<s n="n"/><s n="m"/></r></p></e>
@@ -19906,7 +19901,7 @@
 <e r="LR"><p><l>smoker<s n="n"/></l><r>fumatore<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>smoking<s n="n"/></l><r>tabagismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>smuggling<s n="n"/></l><r>contrabbando<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>snack<s n="n"/></l><r>boccone<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>snack<s n="n"/></l><r>boccone<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>snail<s n="n"/></l><r>lumaca<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>snail<s n="n"/></l><r>chiocciola<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>snake<s n="n"/></l><r>serpente<s n="n"/><s n="m"/></r></p></e>
@@ -21097,7 +21092,7 @@
 <e><p><l>himself<s n="prn"/><s n="ref"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>sè<s n="prn"/><s n="tn"/></r></p></e>
 <e r="LR"><p><l>himself<s n="prn"/><s n="ref"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/></r></p></e>
 <e r="RL"><p><l>himself<s n="prn"/><s n="ref"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>sì<s n="prn"/><s n="tn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
-<e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></l><r>il<b/>suo<s n="prn"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
+<e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="prn"/><s n="pos"/><s n="sp"/></l><r>il<b/>suo<s n="prn"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
 <e c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="prn"/><s n="pos"/></l><r>il<b/>suo<s n="prn"/></r></p></e>
 <e c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="prn"/><s n="pos"/></l><r>il<b/>loro<s n="prn"/></r></p></e>
 <e><p><l>how<b/>many<s n="prn"/><s n="itg"/><s n="mf"/><s n="pl"/></l><r>quanto<s n="prn"/><s n="itg"/></r></p></e>
