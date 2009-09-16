@@ -15515,10 +15515,10 @@
 <e><p><l>coup<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e>
 <e c="a married couple"><p><l>couple<s n="n"/></l><r>coppia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>coupon<s n="n"/></l><r>buono<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>courage<s n="n"/></l><r>valore<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>courage<s n="n"/></l><r>valore<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>course<s n="n"/></l><r>corso<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>course<s n="n"/></l><r>marcia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>court<s n="n"/></l><r>tribunale<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>tribunal<s n="n"/></l><r>tribunale<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>court<s n="n"/></l><r>taglio<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>courtship<s n="n"/></l><r>corteggiamento<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>courtyard<s n="n"/></l><r>cortile<s n="n"/><s n="m"/></r></p></e>
@@ -15529,7 +15529,7 @@
 <e><p><l>cover<s n="n"/></l><r>copertina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>lid<s n="n"/></l><r>coperchio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>coverage<s n="n"/></l><r>copertura<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>covering<s n="n"/></l><r>copertura<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>covering<s n="n"/></l><r>copertura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cowshed<s n="n"/></l><r>stalla<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>crab<s n="n"/></l><r>granchio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>crack<s n="n"/></l><r>crepa<s n="n"/><s n="f"/></r></p></e>
@@ -20898,8 +20898,7 @@
 <e r="RL"><p><l>weather<s n="n"/><s n="ND"/></l><r>tempo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>weather<s n="n"/><s n="ND"/></l><r>tempo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e><p><l>web<s n="n"/></l><r>ragnatela<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>web<s n="n"/></l><r>web<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>wedding<s n="n"/></l><r>nozze<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<er="RL"><p><l>web<s n="n"/></l><r>web<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>wedding<s n="n"/><s n="ND"/></l><r>nozze<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e r="LR"><p><l>wedding<s n="n"/><s n="sg"/></l><r>nozze<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e r="LR"><p><l>wedding<s n="n"/><s n="pl"/></l><r>nozze<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
