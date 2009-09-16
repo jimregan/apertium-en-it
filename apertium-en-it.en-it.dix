@@ -15521,10 +15521,13 @@
 <e><p><l>court<s n="n"/></l><r>tribunale<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>court<s n="n"/></l><r>taglio<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>courtship<s n="n"/></l><r>corteggiamento<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>courtyard<s n="n"/></l><r>cortile<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>courtyard<s n="n"/></l><r>cortile<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cover<s n="n"/></l><r>coperta<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>cover<s n="n"/></l><r>copertina<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>book<b/>cover<s n="n"/></l><r>copertina<g><b/>del<b/>libro</g><s n="n"/><s n="f"/></r></p></e>
+<e><p><l>book<b/>jacket<s n="n"/></l><r>copertina<g><b/>di<b/>libro</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cover<s n="n"/></l><r>copertina<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>cover<s n="n"/></l><r>coperchio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>lid<s n="n"/></l><r>coperchio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>coverage<s n="n"/></l><r>copertura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>covering<s n="n"/></l><r>copertura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cowshed<s n="n"/></l><r>stalla<s n="n"/><s n="f"/></r></p></e>
@@ -18256,7 +18259,7 @@
 <e><p><l>nightingale<s n="n"/></l><r>usignolo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>nightmare<s n="n"/></l><r>incubo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>nihilism<s n="n"/></l><r>nichilismo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>nil<s n="n"/></l><r>zero<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>nil<s n="n"/></l><r>zero<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>niobium<s n="n"/></l><r>niobio<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
 <e><p><l>nitrate<s n="n"/></l><r>nitrato<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>nitrification<s n="n"/></l><r>nitratazione<s n="n"/><s n="f"/></r></p></e>
