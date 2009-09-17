@@ -20317,7 +20317,7 @@
 <e><p><l>white<s n="n"/></l><r>bianco<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>target<s n="n"/></l><r>bersaglio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>objective<s n="n"/></l><r>obiettivo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>task<s n="n"/></l><r>lavoro<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>task<s n="n"/></l><r>lavoro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>taste<s n="n"/></l><r>gusto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tasting<s n="n"/></l><r>degustazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tavern<s n="n"/></l><r>taverna<s n="n"/><s n="f"/></r></p></e>
@@ -20641,7 +20641,6 @@
 <e><p><l>understanding<s n="n"/></l><r>comprensione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>understanding<s n="n"/></l><r>intendimento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>undertaking<s n="n"/></l><r>garanzia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>undertaking<s n="n"/></l><r>lavoro<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>unemployed<s n="n"/><s n="pl"/></l><r>disoccupato<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>unemployed<s n="n"/><s n="pl"/></l><r>disoccupato<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e r="LR"><p><l>unemployed<b/>person<s n="n"/><s n="sg"/></l><r>disoccupato<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
@@ -20958,8 +20957,8 @@
 <e><p><l>wood<b/>pulp<s n="n"/></l><r>pasta<g><b/>di<b/>legno</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>wool<s n="n"/></l><r>lana<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>word<s n="n"/></l><r>parola<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>work<s n="n"/></l><r>opera<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>work<s n="n"/></l><r>lavoro<s n="n"/><s n="m"/></r></p></e>
+<e slr="opera"><p><l>work<s n="n"/></l><r>opera<s n="n"/><s n="f"/></r></p></e>
+<e slr="lavoro D"><p><l>work<s n="n"/></l><r>lavoro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>worker<s n="n"/></l><r>lavorante<s n="n"/><s n="mf"/></r></p></e>
 <e r="RL"><p><l>worker<s n="n"/></l><r>operaio<s n="n"/></r></p></e>
 <e><p><l>world<s n="n"/></l><r>mondo<s n="n"/><s n="m"/></r></p></e>
