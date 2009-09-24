@@ -221,9 +221,9 @@
 <e r="RL"><p><l>other<s n="det"/><s n="ind"/><s n="pl"/></l><r>altro<s n="adj"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
 <e><p><l>other<s n="det"/><s n="ind"/><s n="pl"/></l><r>un<b/>altro<s n="det"/><s n="ind"/></r></p></e>
 <e><p><l>other<s n="det"/><s n="ind"/><s n="sp"/></l><r>un<b/>altro<s n="det"/><s n="ind"/></r></p></e>
-<e><p><l>our<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>nostro<s n="det"/><s n="pos"/></r></p></e>
-<e><p><l>our<s n="det"/></l><r>il<b/>nostro<s n="det"/><s n="pos"/></r></p></e>
-<e><p><l>our<s n="det"/></l><r>nostro<s n="det"/><s n="pos"/></r></p></e>
+<e r="LR"><p><l>our<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>nostro<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
+<e r="RL"><p><l>our<s n="det"/></l><r>il<b/>nostro<s n="det"/><s n="pos"/></r></p></e>
+<e r="RL"><p><l>our<s n="det"/></l><r>nostro<s n="det"/><s n="pos"/></r></p></e>
 <e r="LR"><p><l>second<s n="det"/><s n="ord"/><s n="sp"/></l><r>secondo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>second<s n="det"/></l><r>secondo<s n="det"/></r></p></e>
 <e r="LR"><p><l>seven<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>settecentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -9610,6 +9610,7 @@
 <e><p><l>collective<s n="adj"/></l><r>collettivo<s n="adj"/></r></p></e>
 <e><p><l>college<s n="adj"/></l><r>universitario<s n="adj"/></r></p></e>
 <e><p><l>collegiate<s n="adj"/></l><r>collegiale<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>school<b/>child<s n="n"/></l><r>collegiale<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>colloquial<s n="adj"/></l><r>colloquiale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>colombian<s n="adj"/></l><r>colombiano<s n="adj"/></r></p></e>
 <e><p><l>colossal<s n="adj"/></l><r>colossale<s n="adj"/><s n="mf"/></r></p></e>
@@ -9719,9 +9720,6 @@
 <e><p><l>diagnostic<s n="adj"/></l><r>diagnostico<s n="adj"/></r></p></e>
 <e><p><l>dialectal<s n="adj"/></l><r>dialettale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>different<s n="adj"/></l><r>differente<s n="adj"/><s n="mf"/></r></p></e>
-<e lm="LR"><p><l>different<s n="adj"/></l><r>diverso<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
-<e lm="RL"><p><l>different<s n="adj"/></l><r>diverso<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
-<e lm="RL"><p><l>different<s n="adj"/></l><r>diverso<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
 <e><p><l>difficult<s n="adj"/></l><r>difficile<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>digital<s n="adj"/></l><r>digitale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>diluent<s n="adj"/></l><r>diluente<s n="adj"/><s n="mf"/></r></p></e>
@@ -13011,7 +13009,7 @@
 <e><p><l>instantaneously<s n="adv"/></l><r>istantaneamente<s n="adv"/></r></p></e>
 <e><p><l>instantly<s n="adv"/></l><r>istantaneamente<s n="adv"/></r></p></e>
 <e><p><l>instead<s n="adv"/></l><r>in<b/>cambio<s n="adv"/></r></p></e>
-<e><p><l>instead<s n="adv"/></l><r>tuttavia<s n="adv"/></r></p></e>
+<e r="RL"><p><l>instead<s n="adv"/></l><r>tuttavia<s n="adv"/></r></p></e>
 <e><p><l>insufficiently<s n="adv"/></l><r>insufficientemente<s n="adv"/></r></p></e>
 <e><p><l>integrally<s n="adv"/></l><r>integralmente<s n="adv"/></r></p></e>
 <e><p><l>intensely<s n="adv"/></l><r>intensamente<s n="adv"/></r></p></e>
@@ -13019,7 +13017,7 @@
 <e><p><l>intentionally<s n="adv"/></l><r>intenzionalmente<s n="adv"/></r></p></e>
 <e r="RL"><p><l>intentionally<s n="adv"/></l><r>volutamente<s n="adv"/></r></p></e>
 <e><p><l>interestingly<s n="adv"/></l><r>curiosamente<s n="adv"/></r></p></e>
-<e><p><l>interestingly<b/>enough<s n="adv"/></l><r>curiosamente<s n="adv"/></r></p></e>
+<e r="LR"><p><l>interestingly<b/>enough<s n="adv"/></l><r>curiosamente<s n="adv"/></r></p></e>
 <e><p><l>internally<s n="adv"/></l><r>internamente<s n="adv"/></r></p></e>
 <e><p><l>internationally<s n="adv"/></l><r>internazionalmente<s n="adv"/></r></p></e>
 <e><p><l>intimately<s n="adv"/></l><r>intimamente<s n="adv"/></r></p></e>
@@ -13051,7 +13049,7 @@
 <e c="per al superlatiu: the least interesting - el menys interessant, i tb adv normal - what I like least"><p><l>least<s n="adv"/></l><r>meno<s n="adv"/></r></p></e>
 <e><p><l>legally<s n="adv"/></l><r>legalmente<s n="adv"/></r></p></e>
 <e><p><l>legitimately<s n="adv"/></l><r>legittimamente<s n="adv"/></r></p></e>
-<e><p><l>less<s n="adv"/></l><r>di<b/>meno<s n="adv"/></r></p></e>
+<e r="RL"><p><l>less<s n="adv"/></l><r>di<b/>meno<s n="adv"/></r></p></e>
 <e><p><l>less<s n="adv"/></l><r>meno<s n="adv"/></r></p></e>
 <e><p><l>liberally<s n="adv"/></l><r>liberamente<s n="adv"/></r></p></e>
 <e><p><l>lightly<s n="adv"/></l><r>leggermente<s n="adv"/></r></p></e>
@@ -13536,6 +13534,7 @@
 <e><p><l>teaching<b/>staff<s n="n"/></l><r>corpo<g><b/>insegnante</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>annal<s n="n"/></l><r>annale<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>boyar<s n="n"/></l><r>boiaro<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>census<s n="n"/></l><r>censo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>carmine<s n="n"/></l><r>carminio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>poultice<s n="n"/></l><r>cataplasma<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>catarrh<s n="n"/></l><r>catarro<s n="n"/><s n="m"/></r></p></e>
@@ -15516,7 +15515,7 @@
 <e><p><l>course<s n="n"/></l><r>corso<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>course<s n="n"/></l><r>marcia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tribunal<s n="n"/></l><r>tribunale<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>court<s n="n"/></l><r>taglio<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>court<s n="n"/></l><r>taglio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>courtship<s n="n"/></l><r>corteggiamento<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>courtyard<s n="n"/></l><r>cortile<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cover<s n="n"/></l><r>coperta<s n="n"/><s n="f"/></r></p></e>
@@ -15616,8 +15615,7 @@
 <e><p><l>current<s n="n"/></l><r>corrente<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>curriculum<s n="n"/></l><r>curriculum<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>curse<s n="n"/></l><r>maledizione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>curtain<s n="n"/></l><r>sipario<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>curtain<s n="n"/></l><r>tamponamento<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>curtain<s n="n"/></l><r>tamponamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>curtain<s n="n"/></l><r>sipario<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>curve<s n="n"/></l><r>curva<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>custody<s n="n"/></l><r>custodia<s n="n"/><s n="f"/></r></p></e>
@@ -15630,11 +15628,10 @@
 <e><p><l>cutlet<s n="n"/></l><r>cotoletta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cyanide<s n="n"/></l><r>cianuro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cybernetics<s n="n"/></l><r>cibernetica<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>cybernetics<s n="n"/><s n="sg"/></l><r>cibernetica<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e><p><l>cycle<s n="n"/></l><r>ciclo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cycling<s n="n"/></l><r>ciclismo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>cyclist<s n="n"/></l><r>ciclista<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>cyclist<s n="n"/></l><r>ciclista<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>cyclist<s n="n"/></l><r>ciclista<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>cyclist<s n="n"/></l><r>ciclista<s n="n"/></r></p></e>
 <e><p><l>cyclone<s n="n"/></l><r>ciclone<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cylinder<s n="n"/></l><r>cilindro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cymbal<s n="n"/></l><r>piatto<s n="n"/><s n="m"/></r></p></e>
