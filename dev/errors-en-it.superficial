@@ -16,10 +16,6 @@
 ^.<sent>$ ^our<det><pos><sp>$	. #Il nostro\<det\>\<pos\>
 ^.<sent>$ ^so much<det><qnt><sg>$	. \@So much\<det\>
 ^.<sent>$ ^some<det><qnt><sp>$	. #Alcun\<det\>\<ind\>
-^.<sent>$ ^this<det><dem><sg>$	. #Questo\<det\>\<dem\>
-^.<sent>$ ^this<det><dem><pl>$	. #Questo\<det\>\<dem\>
-^.<sent>$ ^that<det><dem><sg>$	. #Quello\<det\>\<dem\>
-^.<sent>$ ^that<det><dem><pl>$	. #Quello\<det\>\<dem\>
 ^.<sent>$ ^the same<det><ind><sp>$	. \@The same\<det\>\<ind\>\<sp\>
 ^.<sent>$ ^third<det><ord><sp>$	. #Terzo\<det\>\<ord\>\<m\>\<sg\>
 ^.<sent>$ ^too much<det><qnt><sg>$	. \@Too much\<det\>
@@ -1928,6 +1924,11 @@
 ^.<sent>$ ^counterweight<n><pl>$ ^'s<gen>$	. \@Counterweight\<n\> 
 ^.<sent>$ ^counterweight<n><sg>$	. \@Counterweight\<n\>
 ^.<sent>$ ^counterweight<n><pl>$	. \@Counterweight\<n\>
+^.<sent>$ ^courage<n><sg>$	. \@Courage\<n\>
+^.<sent>$ ^courage<n><pl>$	. \@Courage\<n\>
+^.<sent>$ ^courage<n><pl>$ ^'s<gen>$	. \@Courage\<n\> 
+^.<sent>$ ^courage<n><sg>$	. \@Courage\<n\>
+^.<sent>$ ^courage<n><pl>$	. \@Courage\<n\>
 ^.<sent>$ ^court<n><sg>$	. #Taglio\<n\>\<f\>\<sg\>
 ^.<sent>$ ^court<n><pl>$	. #Taglio\<n\>\<f\>\<pl\>
 ^.<sent>$ ^court<n><pl>$ ^'s<gen>$	. #Taglio\<n\>\<f\>\<pl\> 
@@ -1939,6 +1940,11 @@
 ^.<sent>$ ^cousin<n><pl>$ ^'s<gen>$	. \@Cousin\<n\> 
 ^.<sent>$ ^cousin<n><sg>$	. \@Cousin\<n\>
 ^.<sent>$ ^cousin<n><pl>$	. \@Cousin\<n\>
+^.<sent>$ ^covering<n><sg>$	. \@Covering\<n\>
+^.<sent>$ ^covering<n><pl>$	. \@Covering\<n\>
+^.<sent>$ ^covering<n><pl>$ ^'s<gen>$	. \@Covering\<n\> 
+^.<sent>$ ^covering<n><sg>$	. \@Covering\<n\>
+^.<sent>$ ^covering<n><pl>$	. \@Covering\<n\>
 ^.<sent>$ ^cow<n><sg>$	. \@Cow\<n\>
 ^.<sent>$ ^cow<n><pl>$	. \@Cow\<n\>
 ^.<sent>$ ^cow<n><pl>$ ^'s<gen>$	. \@Cow\<n\> 
@@ -14034,13 +14040,10 @@
 ^.<sent>$ ^in bold strokes<adv>$	. \@In bold strokes\<adv\>
 ^.<sent>$ ^in broad day light<adv>$	. \@In broad day light\<adv\>
 ^.<sent>$ ^in command<adv>$	. \@In command\<adv\>
-^.<sent>$ ^in fact<adv>$	. #Di fatto\<adv\>\/in effetti\<adv\>
 ^.<sent>$ ^in favour<adv>$	. \@In favour\<adv\>
 ^.<sent>$ ^in favour<adv>$	. \@In favour\<adv\>
 ^.<sent>$ ^in for a penny<adv>$	. \@In for a penny\<adv\>
-^.<sent>$ ^in front<adv>$	. #A fronte\<adv\>\/davanti\<adv\>\/di fronte\<adv\>
 ^.<sent>$ ^in great quantity<adv>$	. \@In great quantity\<adv\>
-^.<sent>$ ^in no uncertain terms<adv>$	. #Senza giri\<adv\>\/senza peli sulla lingua\<adv\>
 ^.<sent>$ ^in such a case<adv>$	. \@In such a case\<adv\>
 ^.<sent>$ ^in the afternoon<adv>$	. \@In the afternoon\<adv\>
 ^.<sent>$ ^in the long run<adv>$	. \@In the long run\<adv\>
@@ -14753,6 +14756,9 @@
 ^.<sent>$ ^International Monetary Fund<np><al><sg>$	. \@International Monetary Fund\<np\>\<al\>
 ^.<sent>$ ^Treaty of Friendship, Cooperation and Mutual Assistance<np><al><sg>$	. \@Treaty of Friendship, Cooperation and Mutual Assistance\<np\>\<al\>
 ^.<sent>$ ^Buckingham Palace<np><loc><sg>$	. \@Buckingham Palace\<np\>\<loc\>
+^.<sent>$ ^unemployed<n><pl>$	. \@Unemployed\<n\>
+^.<sent>$ ^unemployed<n><pl>$ ^'s<gen>$	. \@Unemployed\<n\> 
+^.<sent>$ ^unemployed<n><pl>$	. \@Unemployed\<n\>
 ^.<sent>$ ^impaler<n><sg>$	. \@Impaler\<n\>
 ^.<sent>$ ^impaler<n><pl>$	. \@Impaler\<n\>
 ^.<sent>$ ^impaler<n><pl>$ ^'s<gen>$	. \@Impaler\<n\> 
@@ -32367,9 +32373,9 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> nessuno<det><ind>/qualsiasi<det><ind><mf>$
 #\^.\<sent\> nostro<det><pos>/il nostro<det><pos>$
 #\^.\<sent\> nostro<det><pos>/il nostro<det><pos>$
-#\^.\<sent\> diverso<det><ind><GD><GD>/diverso<det><ind><m><pl>/diverso<det><ind><f><pl>$
-#\^.\<sent\> diverso<det><ind><GD><GD>/diverso<det><ind><m><pl>/diverso<det><ind><f><pl>$
-#\^.\<sent\> diverso<det><ind><GD><GD>/diverso<det><ind><m><pl>/diverso<det><ind><f><pl>$
+#\^.\<sent\> diverso<det><ind><GD><pl>/diverso<det><ind><m><pl>/diverso<det><ind><f><pl>$
+#\^.\<sent\> diverso<det><ind><GD><pl>/diverso<det><ind><m><pl>/diverso<det><ind><f><pl>$
+#\^.\<sent\> diverso<det><ind><GD><pl>/diverso<det><ind><m><pl>/diverso<det><ind><f><pl>$
 #\^.\<sent\> alcun<det><ind>/qualche<det><ind><mf>$
 #\^.\<sent\> alcun<det><ind>/qualche<det><ind><mf>$
 #\^.\<sent\> certo<det><ind>/taluno<det><ind>$
@@ -32677,13 +32683,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> fortemente<adv>/pesantemente<adv>$
 #\^.\<sent\> l√¨<adv>/qui<adv>$
 #\^.\<sent\> l√¨<adv>/qui<adv>$
-#\^.\<sent\> di fatto<adv>/in effetti<adv>$
-#\^.\<sent\> di fatto<adv>/in effetti<adv>$
-#\^.\<sent\> a fronte<adv>/davanti<adv>/di fronte<adv>$
-#\^.\<sent\> a fronte<adv>/davanti<adv>/di fronte<adv>$
-#\^.\<sent\> a fronte<adv>/davanti<adv>/di fronte<adv>$
-#\^.\<sent\> senza giri<adv>/senza peli sulla lingua<adv>$
-#\^.\<sent\> senza giri<adv>/senza peli sulla lingua<adv>$
 #\^.\<sent\> invano<adv>/in inutile<adv>$
 #\^.\<sent\> invano<adv>/in inutile<adv>$
 #\^.\<sent\> inclusive<adv>/inclusivamente<adv>$
@@ -32982,19 +32981,15 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> bancone<n><m>/contatore<n><m>$
 #\^.\<sent\> corso<n><m>/marcia<n><f>$
 #\^.\<sent\> corso<n><m>/marcia<n><f>$
-#\^.\<sent\> taglio<n><f>/tribunale<n><m>$
-#\^.\<sent\> taglio<n><f>/tribunale<n><m>$
-#\^.\<sent\> coperta<n><f>/copertina<n><f>/coperchio<n><m>$
-#\^.\<sent\> coperta<n><f>/copertina<n><f>/coperchio<n><m>$
-#\^.\<sent\> coperta<n><f>/copertina<n><f>/coperchio<n><m>$
+#\^.\<sent\> coperta<n><f>/copertina<n><f>$
+#\^.\<sent\> coperta<n><f>/copertina<n><f>$
+#\^.\<sent\> palpebra<n><f>/coperchio<n><m>$
 #\^.\<sent\> scontro<n><m>/incidente<n><m>$
 #\^.\<sent\> scontro<n><m>/incidente<n><m>$
 #\^.\<sent\> creazione<n><f>/avviamento<n><m>$
 #\^.\<sent\> creazione<n><f>/avviamento<n><m>$
 #\^.\<sent\> crimine<n><m>/delitto<n><m>$
 #\^.\<sent\> crimine<n><m>/delitto<n><m>$
-#\^.\<sent\> raccolto<n><m>/coltivazione<n><f>$
-#\^.\<sent\> raccolto<n><m>/coltivazione<n><f>$
 #\^.\<sent\> cura<n><f>/prete<n><m>$
 #\^.\<sent\> cura<n><f>/prete<n><m>$
 #\^.\<sent\> sipario<n><m>/sipario<n><f>/tamponamento<n><m>$
@@ -33225,6 +33220,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> durata<n><f>/longitudine<n><f>$
 #\^.\<sent\> carta<n><f>/lettera<n><f>$
 #\^.\<sent\> carta<n><f>/lettera<n><f>$
+#\^.\<sent\> palpebra<n><f>/coperchio<n><m>$
 #\^.\<sent\> impulso<n><m>/ascensore<n><m>$
 #\^.\<sent\> impulso<n><m>/ascensore<n><m>$
 #\^.\<sent\> labbro<n><m><sg>/labbro<n><f><pl>$
@@ -33656,13 +33652,10 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> prova<n><f>/giudizio<n><m>$
 #\^.\<sent\> tunnel<n><m>/galleria<n><f>$
 #\^.\<sent\> tunnel<n><m>/galleria<n><f>$
-#\^.\<sent\> tunnel<n><m>/galleria<n><f>$
 #\^.\<sent\> turno<n><m>/ritorno<n><m>$
 #\^.\<sent\> turno<n><m>/ritorno<n><m>$
 #\^.\<sent\> comprensione<n><f>/intendimento<n><m>$
 #\^.\<sent\> comprensione<n><f>/intendimento<n><m>$
-#\^.\<sent\> lavoro<n><m>/garanzia<n><f>$
-#\^.\<sent\> lavoro<n><m>/garanzia<n><f>$
 #\^.\<sent\> divisa<n><f>/uniforme<n><f>$
 #\^.\<sent\> unione<n><f>/sindacato<n><m>$
 #\^.\<sent\> unione<n><f>/sindacato<n><m>$
@@ -33689,8 +33682,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> modo<n><m>/cammino<n><m>/maniera<n><f>$
 #\^.\<sent\> modo<n><m>/cammino<n><m>/maniera<n><f>$
 #\^.\<sent\> modo<n><m>/cammino<n><m>/maniera<n><f>$
-#\^.\<sent\> web<n><m>/ragnatela<n><f>$
-#\^.\<sent\> web<n><m>/ragnatela<n><f>$
 #\^.\<sent\> finestra<n><f>/finestrino<n><m>$
 #\^.\<sent\> finestra<n><f>/finestrino<n><m>$
 #\^.\<sent\> bosco<n>/legno<n>/legname<n><m>/foresta<n><f>$
@@ -33699,10 +33690,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> bosco<n><m><sg>/foresta<n><f>$
 #\^.\<sent\> bosco<n>/legno<n>/legname<n><m>/foresta<n><f>$
 #\^.\<sent\> bosco<n>/legno<n>/legname<n><m>/foresta<n><f>$
-#\^.\<sent\> opera<n><f>/lavoro<n><m>$
-#\^.\<sent\> opera<n><f>/lavoro<n><m>$
-#\^.\<sent\> polso<n><m>/bambola<n><f>$
-#\^.\<sent\> polso<n><m>/bambola<n><f>$
 #\^.\<sent\> panfilo<n><m>/imbarcazione<n><f>$
 #\^.\<sent\> panfilo<n><m>/imbarcazione<n><f>$
 #\^.\<sent\> tra poco<adv>/prossimamente<adv>$
