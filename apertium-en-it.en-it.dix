@@ -145,7 +145,6 @@
 <e c="afirmatives"><p><l>any<s n="det"/><s n="ind"/><s n="sp"/></l><r>qualunque<s n="det"/><s n="ind"/></r></p></e>
 <e c="frases negatives. EN-CA: per trànsfer"><p><l>any<s n="det"/><s n="ind"/></l><r>nessuno<s n="det"/><s n="ind"/></r></p></e>
 <e><p><l>both<s n="det"/><s n="ind"/></l><r>entrambi<b/>i<s n="det"/><s n="ind"/></r></p></e>
-<e><p><l>both<s n="det"/></l><r>entrambi<b/>i<s n="det"/><s n="ind"/></r></p></e>
 <e c="té polisèmia amb 'every', però no he posat marca de polisèmia"><p><l>each<s n="det"/><s n="ind"/></l><r>ogni<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
 <e c="té polisèmia amb 'every', però no he posat marca de polisèmia"><p><l>each<s n="det"/><s n="ind"/></l><r>ciascuno<s n="det"/><s n="ind"/><s n="m"/></r></p></e>
 <e c="té polisèmia amb 'every', però no he posat marca de polisèmia"><p><l>each<s n="det"/><s n="ind"/></l><r>ciascuno<s n="det"/><s n="ind"/><s n="f"/></r></p></e>
@@ -235,7 +234,7 @@
 <e r="RL"><p><l>seventh<s n="det"/></l><r>settimo<s n="det"/></r></p></e>
 <e r="LR"><p><l>seventieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>settantesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>seventieth<s n="det"/></l><r>settantesimo<s n="det"/></r></p></e>
-<e lm="LR"><p><l>several<s n="det"/><s n="ind"/><s n="pl"/></l><r>diverso<s n="det"/><s n="ind"/><s n="GD"/><s n="GD"/></r></p></e>
+<e lm="LR"><p><l>several<s n="det"/><s n="ind"/><s n="pl"/></l><r>diverso<s n="det"/><s n="ind"/><s n="GD"/><s n="pl"/></r></p></e>
 <e lm="RL"><p><l>several<s n="det"/><s n="ind"/><s n="pl"/></l><r>diverso<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="RL"><p><l>several<s n="det"/><s n="ind"/><s n="pl"/></l><r>diverso<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
 <e r="LR"><p><l>six<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>seicentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -258,9 +257,8 @@
 <e><p><l>such<b/>a<s n="det"/><s n="ind"/></l><r>tale<s n="det"/></r></p></e>
 <e r="LR"><p><l>tenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>decimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>tenth<s n="det"/></l><r>decimo<s n="det"/></r></p></e>
-<e><p><l>that<s n="det"/><s n="dem"/></l><r>quello<s n="det"/><s n="dem"/></r></p></e>
+<e r="LR"><p><l>that<s n="det"/><s n="dem"/></l><r>quello<s n="det"/><s n="dem"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>that<s n="det"/></l><r>quello<s n="det"/></r></p></e>
-<e><p><l>that<s n="det"/></l><r>quello<s n="det"/><s n="dem"/><s n="mf"/></r></p></e>
 <e r="RL"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>il<s n="det"/><s n="def"/></r></p></e>
 <e r="LR"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>il<s n="det"/><s n="def"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>their<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>suo<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -270,9 +268,8 @@
 <e r="RL"><p><l>thirteenth<s n="det"/></l><r>tredicesimo<s n="det"/></r></p></e>
 <e r="LR"><p><l>thirtieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>trentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>thirtieth<s n="det"/></l><r>trentesimo<s n="det"/></r></p></e>
-<e><p><l>this<s n="det"/><s n="dem"/></l><r>questo<s n="det"/><s n="dem"/></r></p></e>
 <e r="RL"><p><l>this<s n="det"/></l><r>questo<s n="det"/></r></p></e>
-<e><p><l>this<s n="det"/></l><r>questo<s n="det"/><s n="dem"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>this<s n="det"/></l><r>questo<s n="det"/><s n="dem"/><s n="GD"/></r></p></e>
 <e r="LR"><p><l>thousandth<s n="det"/><s n="ord"/><s n="sp"/></l><r>millesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>thousandth<s n="det"/></l><r>millesimo<s n="det"/></r></p></e>
 <e r="LR"><p><l>three<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>trecentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -12960,18 +12957,18 @@
 <e><p><l>in<b/>detail<s n="adv"/></l><r>dettagliatamente<s n="adv"/></r></p></e>
 <e><p><l>in<b/>difficulty<s n="adv"/></l><r>in<b/>difficoltà<s n="adv"/></r></p></e>
 <e><p><l>in<b/>earnest<s n="adv"/></l><r>seriamente<s n="adv"/></r></p></e>
-<e><p><l>in<b/>fact<s n="adv"/></l><r>in<b/>effetti<s n="adv"/></r></p></e>
+<e r="RL"><p><l>in<b/>fact<s n="adv"/></l><r>in<b/>effetti<s n="adv"/></r></p></e>
 <e><p><l>in<b/>fact<s n="adv"/></l><r>di<b/>fatto<s n="adv"/></r></p></e>
 <e><p><l>in<b/>fairness<s n="adv"/></l><r>sinceramente<s n="adv"/></r></p></e>
 <e><p><l>in<b/>front<s n="adv"/></l><r>davanti<s n="adv"/></r></p></e>
-<e><p><l>in<b/>front<s n="adv"/></l><r>a<b/>fronte<s n="adv"/></r></p></e>
-<e><p><l>in<b/>front<s n="adv"/></l><r>di<b/>fronte<s n="adv"/></r></p></e>
+<e r="RL"><p><l>in<b/>front<s n="adv"/></l><r>a<b/>fronte<s n="adv"/></r></p></e>
+<e r="RL"><p><l>in<b/>front<s n="adv"/></l><r>di<b/>fronte<s n="adv"/></r></p></e>
 <e><p><l>in<b/>general<s n="adv"/></l><r>in<b/>generale<s n="adv"/></r></p></e>
 <e><p><l>in<b/>hand<s n="adv"/></l><r>a<b/>mano<s n="adv"/></r></p></e>
 <e><p><l>in<b/>kind<s n="adv"/></l><r>amabilmente<s n="adv"/></r></p></e>
 <e><p><l>in<b/>last<b/>place<s n="adv"/></l><r>in<b/>ultimo<b/>luogo<s n="adv"/></r></p></e>
 <e><p><l>in<b/>no<b/>uncertain<b/>terms<s n="adv"/></l><r>senza<b/>giri<s n="adv"/></r></p></e>
-<e><p><l>in<b/>no<b/>uncertain<b/>terms<s n="adv"/></l><r>senza<b/>peli<b/>sulla<b/>lingua<s n="adv"/></r></p></e>
+<e r="RL"><p><l>in<b/>no<b/>uncertain<b/>terms<s n="adv"/></l><r>senza<b/>peli<b/>sulla<b/>lingua<s n="adv"/></r></p></e>
 <e><p><l>in<b/>no<b/>way<s n="adv"/></l><r>in<b/>nessun<b/>modo<s n="adv"/></r></p></e>
 <e><p><l>in<b/>other<b/>times<s n="adv"/></l><r>in<b/>altri<b/>tempi<s n="adv"/></r></p></e>
 <e><p><l>in<b/>peace<s n="adv"/></l><r>in<b/>pace<s n="adv"/></r></p></e>
