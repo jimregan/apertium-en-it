@@ -13852,15 +13852,15 @@
 <e><p><l>abundance<s n="n"/></l><r>abbondanza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>abuse<s n="n"/></l><r>abuso<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>abuse<g><b/>of<b/>power</g><s n="n"/></l><r>sopraffazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>abyss<s n="n"/></l><r>baratro<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>abyss<s n="n"/></l><r>baratro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>abyss<s n="n"/></l><r>abisso<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>academy<s n="n"/></l><r>accademia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>acceleration<s n="n"/></l><r>accelerazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>acceleration<s n="n"/></l><r>velocizzazione<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>acceleration<s n="n"/></l><r>velocizzazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>accent<s n="n"/></l><r>accento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>accentuation<s n="n"/></l><r>accentuazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>acceptance<s n="n"/></l><r>accettazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>acceptance<s n="n"/></l><r>assunzione<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>acceptance<s n="n"/></l><r>assunzione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>access<s n="n"/></l><r>accesso<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>accessibility<s n="n"/><s n="ND"/></l><r>accessibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>accessibility<s n="n"/><s n="sg"/></l><r>accessibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -21212,7 +21212,6 @@
 <e><p><l>above<s n="pr"/></l><r>sopra<s n="pr"/></r></p></e>
 <e r="LR"><p><l>according<s n="pr"/></l><r>secondo<s n="pr"/></r></p></e>
 <e><p><l>according<b/>to<s n="pr"/></l><r>secondo<s n="pr"/></r></p></e>
-<e><p><l>according<b/>to<s n="pr"/></l><r>secondo<s n="pr"/></r></p></e>
 <e><p><l>across<s n="pr"/></l><r>attraverso<b/>a<s n="pr"/></r></p></e>
 <e><p><l>after<s n="pr"/></l><r>dopo<s n="pr"/></r></p></e>
 <e><p><l>against<s n="pr"/></l><r>contro<s n="pr"/></r></p></e>
@@ -21220,14 +21219,14 @@
 <e><p><l>along<b/>with<s n="pr"/></l><r>insieme<b/>a<s n="pr"/></r></p></e>
 <e r="LR"><p><l>amid<s n="pr"/></l><r>tra<s n="pr"/></r></p></e>
 <e r="LR"><p><l>among<s n="pr"/></l><r>tra<s n="pr"/></r></p></e>
-<e><p><l>among<s n="pr"/></l><r>fra<s n="pr"/></r></p></e>
+<e r="RL"><p><l>among<s n="pr"/></l><r>fra<s n="pr"/></r></p></e>
+<e><p><l>among<s n="pr"/></l><r>entri<s n="pr"/></r></p></e>
 <e r="LR"><p><l>amongst<s n="pr"/></l><r>tra<s n="pr"/></r></p></e>
 <e><p><l>apart<b/>from<s n="pr"/></l><r>fuorché<s n="pr"/></r></p></e>
 <e><p><l>around<s n="pr"/></l><r>intorno<b/>a<s n="pr"/></r></p></e>
-<e><p><l>around<s n="pr"/></l><r>attorno<b/>a<s n="pr"/></r></p></e>
-<e><p><l>around<s n="pr"/></l><r>circa<s n="pr"/></r></p></e>
-<e><p><l>around<s n="pr"/></l><r>intorno<b/>a<s n="pr"/></r></p></e>
-<e><p><l>around<s n="pr"/></l><r>nonostante<s n="pr"/></r></p></e>
+<e r="RL"><p><l>around<s n="pr"/></l><r>attorno<b/>a<s n="pr"/></r></p></e>
+<e r="RL"><p><l>around<s n="pr"/></l><r>circa<s n="pr"/></r></p></e>
+<e r="RL"><p><l>around<s n="pr"/></l><r>nonostante<s n="pr"/></r></p></e>
 <e r="LR" c="as you - com tu"><p><l>as<s n="pr"/></l><r>come<s n="pr"/></r></p></e>
 <e r="LR" c="MG: 'Such thing as a computer' = 'com un' - arreglar si es pot"><p><l>as<b/>a<s n="pr"/></l><r>come<s n="pr"/></r></p></e>
 <e><p><l>as<b/>a<b/>result<b/>of<s n="pr"/></l><r>a<b/>seguito<b/>di<s n="pr"/></r></p></e>
