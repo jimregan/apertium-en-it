@@ -13896,7 +13896,7 @@
 <e><p><l>acorn<s n="n"/></l><r>ghianda<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>acoustics<s n="n"/></l><r>acustica<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>acquisition<s n="n"/></l><r>acquisizione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>acquisition<s n="n"/></l><r>acquisto<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>acquisition<s n="n"/></l><r>acquisto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>acrimony<s n="n"/></l><r>acrimonia<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>acrobat<s n="n"/></l><r>acrobata<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>acrobat<s n="n"/></l><r>acrobata<s n="n"/></r></p></e>
@@ -13911,14 +13911,12 @@
 <e><p><l>action<s n="n"/></l><r>azione<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>activation<s n="n"/></l><r>attivazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>activism<s n="n"/></l><r>attivismo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>activist<s n="n"/></l><r>attivista<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>activist<s n="n"/></l><r>attivista<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>activist<s n="n"/></l><r>attivista<s n="n"/><s n="mf"/></r></p></e>
-<e><p><l>activist<s n="n"/></l><r>combattente<s n="n"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>activist<s n="n"/></l><r>attivista<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>activist<s n="n"/></l><r>attivista<s n="n"/></r></p></e>
+<e r="RL"><p><l>activist<s n="n"/></l><r>combattente<s n="n"/><s n="mf"/></r></p></e>
 <e r="RL"><p><l>activity<s n="n"/><s n="ND"/></l><r>attività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>activity<s n="n"/><s n="sg"/></l><r>attività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>activity<s n="n"/><s n="pl"/></l><r>attività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e><p><l>actor<s n="n"/></l><r>attore<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>actor<s n="n"/></l><r>attore<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>actress<s n="n"/></l><r>attore<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>actuality<s n="n"/><s n="ND"/></l><r>attualità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -13961,7 +13959,7 @@
 <e r="LR"><p><l>advertising<b/>agent<s n="n"/></l><r>pubblicitario<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>advertising<b/>agent<s n="n"/></l><r>pubblicitario<s n="n"/></r></p></e>
 <e><p><l>advice<s n="n"/></l><r>consiglio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>advice<s n="n"/></l><r>consulenza<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>advice<s n="n"/></l><r>consulenza<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>adviser<s n="n"/></l><r>consigliere<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>advocacy<s n="n"/></l><r>avvocatura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>aerodynamic<s n="n"/></l><r>aerodinamica<s n="n"/><s n="f"/></r></p></e>
@@ -13999,9 +13997,8 @@
 <e><p><l>agnosticism<s n="n"/></l><r>agnosticismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>agony<s n="n"/></l><r>agonia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>agreement<s n="n"/></l><r>accordo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>agreement<s n="n"/></l><r>contratto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>agreement<s n="n"/></l><r>convenzione<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>agreement<s n="n"/></l><r>convenzione<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>contract<s n="n"/></l><r>contratto<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>agreement<s n="n"/></l><r>convenzione<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>agriculturalist<s n="n"/></l><r>agricoltore<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>agriculturalist<s n="n"/></l><r>agricoltore<s n="n"/></r></p></e>
 <e><p><l>agriculture<s n="n"/></l><r>agricoltura<s n="n"/><s n="f"/></r></p></e>
@@ -14009,20 +14006,18 @@
 <e r="RL"><p><l>agrochemist<s n="n"/></l><r>agrochimico<s n="n"/></r></p></e>
 <e><p><l>agronomy<s n="n"/></l><r>agronomia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>aid<s n="n"/></l><r>aiuto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>aid<s n="n"/></l><r>aiuto<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>aim<s n="n"/></l><r>obiettivo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>aim<s n="n"/></l><r>scopo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>aim<s n="n"/></l><r>mira<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>air<s n="n"/></l><r>aria<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>aim<s n="n"/></l><r>scopo<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>aim<s n="n"/></l><r>mira<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>air<s n="n"/></l><r>aria<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>aircraft<s n="n"/></l><r>velivolo<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>aircraft<s n="n"/></l><r>aeromobile<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>airfield<s n="n"/></l><r>aerodromo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>airliner<s n="n"/></l><r>aereo<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>airliner<s n="n"/></l><r>aereo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>airplane<s n="n"/></l><r>aereo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>airplane<s n="n"/></l><r>aeroplano<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>airplane<s n="n"/></l><r>velivolo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>airport<s n="n"/></l><r>aeroporto<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>airplane<s n="n"/></l><r>aeroplano<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>airplane<s n="n"/></l><r>velivolo<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>airport<s n="n"/></l><r>aeroporto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>airport<s n="n"/></l><r>aerostazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>airship<s n="n"/></l><r>dirigibile<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>alarm<s n="n"/></l><r>allarme<s n="n"/><s n="m"/></r></p></e>
@@ -14069,7 +14064,7 @@
 <e r="RL"><p><l>ally<s n="n"/></l><r>alleato<s n="n"/></r></p></e>
 <e><p><l>almanac<s n="n"/></l><r>almanacco<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>almond<s n="n"/></l><r>mandorla<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>almond<s n="n"/></l><r>mandorlo<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>almond<s n="n"/></l><r>mandorlo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>almond<b/>paste<s n="n"/></l><r>pasta<g><b/>di<b/>mandorle</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>alms<s n="n"/><s n="pl"/></l><r>elemosina<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e r="RL"><p><l>alms<s n="n"/><s n="pl"/></l><r>elemosina<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -14143,7 +14138,7 @@
 <e><p><l>angel<s n="n"/></l><r>angelo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>anger<s n="n"/></l><r>rabbia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>angle<s n="n"/></l><r>angolo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>angle<s n="n"/></l><r>angolazione<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>angling<s n="n"/></l><r>angolazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>anglicism<s n="n"/></l><r>anglicismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>animal<s n="n"/></l><r>animale<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>animation<s n="n"/></l><r>animazione<s n="n"/><s n="f"/></r></p></e>
@@ -14183,7 +14178,7 @@
 <e><p><l>antibiotic<s n="n"/></l><r>antibiotico<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>antibody<s n="n"/></l><r>anticorpo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>anticipation<s n="n"/></l><r>anticipazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>anticipation<s n="n"/></l><r>anticipo<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>anticipation<s n="n"/></l><r>anticipo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>anticoagulant<s n="n"/></l><r>anticoagulante<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>anticyclone<s n="n"/></l><r>anticiclone<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>antidote<s n="n"/></l><r>antidoto<s n="n"/><s n="m"/></r></p></e>
@@ -14218,7 +14213,7 @@
 <e slr="appello D"><p><l>appeal<s n="n"/></l><r>appello<s n="n"/><s n="m"/></r></p></e>
 <e slr="attrazione"><p><l>appeal<s n="n"/></l><r>attrazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>appearance<s n="n"/></l><r>aspetto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>appearance<s n="n"/></l><r>apparenza<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>appearance<s n="n"/></l><r>apparenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>appendix<s n="n"/></l><r>appendice<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>appetiser<s n="n"/></l><r>aperitivo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>appetite<s n="n"/></l><r>appetito<s n="n"/><s n="m"/></r></p></e>
@@ -14230,18 +14225,17 @@
 <e r="LR"><p><l>applicability<s n="n"/><s n="sg"/></l><r>applicabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>applicability<s n="n"/><s n="pl"/></l><r>applicabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>application<s n="n"/></l><r>applicazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>appointment<s n="n"/></l><r>citazione<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>appointment<s n="n"/></l><r>citazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>appointment<s n="n"/></l><r>appuntamento<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>apprentice<s n="n"/></l><r>apprendista<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>apprentice<s n="n"/></l><r>apprendista<s n="n"/></r></p></e>
 <e><p><l>approach<s n="n"/></l><r>ravvicinamento<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>approach<s n="n"/></l><r>accesso<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>approach<s n="n"/></l><r>avvicinamento<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>approach<s n="n"/></l><r>approccio<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>approach<s n="n"/></l><r>accesso<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>approach<s n="n"/></l><r>avvicinamento<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>approach<s n="n"/></l><r>approccio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>approval<s n="n"/></l><r>approvazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>approximation<s n="n"/></l><r>ravvicinamento<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>approximation<s n="n"/></l><r>approssimazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>apricot<s n="n"/></l><r>albicocca<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>approximation<s n="n"/></l><r>approssimazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>apricot<s n="n"/></l><r>albicocca<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>apéritif<s n="n"/></l><r>aperitivo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>aquarium<s n="n"/></l><r>acquario<s n="n"/><s n="m"/></r></p></e>
@@ -14266,8 +14260,8 @@
 <e r="LR" slr="ragionamento"><p><l>argument<s n="n"/></l><r>ragionamento<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>argument<s n="n"/></l><r>argomentazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>aristocracy<s n="n"/></l><r>aristocrazia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>aristocrat<s n="n"/></l><r>aristocratico<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>aristocrat<s n="n"/></l><r>aristocratico<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>aristocrat<s n="n"/></l><r>aristocratico<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>aristocrat<s n="n"/></l><r>aristocratico<s n="n"/></r></p></e>
 <e><p><l>arithmetic<s n="n"/></l><r>aritmetica<s n="n"/><s n="f"/></r></p></e>
 <e c="(només en plural, arms (en-ca). En plural serà polisèmica de en a ca, (braços, armes) i en sg es traduirà només com a 'braç')"><p><l>arm<s n="n"/><s n="pl"/></l><r>arma<s n="n"/></r></p></e>
 <e><p><l>arm<s n="n"/><s n="sg"/></l><r>braccio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -14277,7 +14271,7 @@
 <e><p><l>armistice<s n="n"/></l><r>armistizio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>armpit<s n="n"/></l><r>ascella<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>army<s n="n"/></l><r>esercito<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>army<s n="n"/></l><r>armata<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>army<s n="n"/></l><r>armata<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>aroma<s n="n"/></l><r>aroma<s n="n"/><s n="m"/></r></p></e>
 <e r="LR" slr="accordo D"><p><l>arrangement<s n="n"/></l><r>accordo<s n="n"/><s n="m"/></r></p></e>
 <e slr="sistemazione"><p><l>arrangement<s n="n"/></l><r>sistemazione<s n="n"/><s n="f"/></r></p></e>
@@ -14286,14 +14280,13 @@
 <e r="LR"><p><l>array<s n="n"/><s n="sg"/></l><r>varietà<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>array<s n="n"/><s n="pl"/></l><r>varietà<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>arrest<s n="n"/></l><r>arresto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>arrest<s n="n"/></l><r>detenzione<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>detention<s n="n"/></l><r>detenzione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>arrival<s n="n"/></l><r>arrivo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>arrow<s n="n"/></l><r>freccia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>arsenal<s n="n"/></l><r>arsenale<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>arsenic<s n="n"/></l><r>arsenico<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>art<s n="n"/></l><r>arte<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>art<s n="n"/></l><r>attrezzo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>art<s n="n"/></l><r>arte<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>art<s n="n"/></l><r>arte<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>artery<s n="n"/></l><r>arteria<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>arthrosis<s n="n"/><s n="ND"/></l><r>artrosi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>arthrosis<s n="n"/><s n="sg"/></l><r>artrosi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -14301,7 +14294,7 @@
 <e><p><l>artichoke<s n="n"/></l><r>carciofo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>article<s n="n"/></l><r>articolo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>articulation<s n="n"/></l><r>giuntura<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>articulation<s n="n"/></l><r>articolazione<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>articulation<s n="n"/></l><r>articolazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>artifice<s n="n"/></l><r>artificio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>artillery<s n="n"/></l><r>artiglieria<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>artisan<s n="n"/></l><r>artigiano<s n="n"/><s n="GD"/></r></p></e>
@@ -14309,7 +14302,7 @@
 <e r="RL"><p><l>artist<s n="n"/></l><r>artista<s n="n"/></r></p></e>
 <e r="LR"><p><l>artist<s n="n"/></l><r>artista<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>asbestos<s n="n"/></l><r>asbesto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>asbestos<s n="n"/></l><r>amianto<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>asbestos<s n="n"/></l><r>amianto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ascendant<s n="n"/></l><r>ascendente<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>asceticism<s n="n"/></l><r>ascetismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ash<s n="n"/></l><r>cenere<s n="n"/><s n="f"/></r></p></e>
@@ -14356,11 +14349,11 @@
 <e r="LR"><p><l>atrocity<s n="n"/><s n="pl"/></l><r>atrocità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>attachment<s n="n"/></l><r>attaccamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>attack<s n="n"/></l><r>attacco<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>attack<s n="n"/></l><r>attentato<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>attack<s n="n"/></l><r>attentato<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>attainment<s n="n"/></l><r>conseguimento<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>attempt<s n="n"/></l><r>attentato<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>attempt<s n="n"/></l><r>attentato<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>attempt<s n="n"/></l><r>intento<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>attempt<s n="n"/></l><r>tentativo<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>attempt<s n="n"/></l><r>tentativo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>attendance<s n="n"/></l><r>frequentazione<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>attendant<s n="n"/></l><r>incaricato<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>attendant<s n="n"/></l><r>incaricato<s n="n"/></r></p></e>
@@ -14369,7 +14362,7 @@
 <e><p><l>attestation<s n="n"/></l><r>attestazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>attic<s n="n"/></l><r>attico<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>attitude<s n="n"/></l><r>atteggiamento<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>attitude<s n="n"/></l><r>attitudine<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>attitude<s n="n"/></l><r>attitudine<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>attorney<s n="n"/></l><r>avvocato<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>attorney<s n="n"/></l><r>avvocato<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>attribute<s n="n"/></l><r>attributo<s n="n"/><s n="m"/></r></p></e>
@@ -14379,10 +14372,9 @@
 <e r="LR"><p><l>audience<s n="n"/><s n="pl"/></l><r>audience<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>audience<s n="n"/><s n="ND"/></l><r>audience<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>audience<s n="n"/></l><r>udienza<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>audit<s n="n"/></l><r>audit<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>audit<s n="n"/></l><r>audit<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>audit<s n="n"/></l><r>controllo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>auditing<s n="n"/></l><r>audit<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>auditing<s n="n"/></l><r>controllo<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>auditing<s n="n"/></l><r>controllo<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>auditorium<s n="n"/><s n="sg"/></l><r>auditorium<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>auditorium<s n="n"/><s n="pl"/></l><r>auditorium<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>auditorium<s n="n"/><s n="ND"/></l><r>auditorium<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -14428,7 +14420,6 @@
 <e><p><l>award<s n="n"/></l><r>premio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>awe<s n="n"/></l><r>soggezione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>axe<s n="n"/></l><r>ascia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>axis<s n="n"/></l><r>asse<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>axis<s n="n"/></l><r>asse<s n="n"/><s n="mf"/></r></p></e>
 <e r="RL"><p><l>azimuth<s n="n"/><s n="ND"/></l><r>azimut<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>azimuth<s n="n"/><s n="sg"/></l><r>azimut<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -21218,7 +21209,7 @@
 <e><p><l>along<s n="pr"/></l><r>lungo<s n="pr"/></r></p></e>
 <e><p><l>along<b/>with<s n="pr"/></l><r>insieme<b/>a<s n="pr"/></r></p></e>
 <e r="LR"><p><l>amid<s n="pr"/></l><r>tra<s n="pr"/></r></p></e>
-<e r="LR"><p><l>among<s n="pr"/></l><r>tra<s n="pr"/></r></p></e>
+<e r="RL"><p><l>among<s n="pr"/></l><r>tra<s n="pr"/></r></p></e>
 <e r="RL"><p><l>among<s n="pr"/></l><r>fra<s n="pr"/></r></p></e>
 <e><p><l>among<s n="pr"/></l><r>entri<s n="pr"/></r></p></e>
 <e r="LR"><p><l>amongst<s n="pr"/></l><r>tra<s n="pr"/></r></p></e>
