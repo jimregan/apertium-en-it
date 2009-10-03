@@ -11112,7 +11112,6 @@
 <e><p><l>computerise<s n="vblex"/></l><r>informatizzare<s n="vblex"/></r></p></e>
 <e><p><l>concatenate<s n="vblex"/></l><r>concatenare<s n="vblex"/></r></p></e>
 <e><p><l>conceal<s n="vblex"/></l><r>nascondere<s n="vblex"/></r></p></e>
-<e><p><l>concede<s n="vblex"/></l><r>ammettere<s n="vblex"/></r></p></e>
 <e><p><l>concede<s n="vblex"/></l><r>concedere<s n="vblex"/></r></p></e>
 <e><p><l>conceive<s n="vblex"/></l><r>concepire<s n="vblex"/></r></p></e>
 <e><p><l>conclude<s n="vblex"/></l><r>concludere<s n="vblex"/></r></p></e>
@@ -12880,8 +12879,8 @@
 <e><p><l>from<b/>about<s n="adv"/></l><r>da<b/>circa<s n="adv"/></r></p></e>
 <e><p><l>from<b/>abroad<s n="adv"/></l><r>dall'estero<s n="adv"/></r></p></e>
 <e><p><l>from<b/>now<b/>on<s n="adv"/></l><r>d'ora<b/>in<b/>avanti<s n="adv"/></r></p></e>
-<e><p><l>from<b/>now<b/>on<s n="adv"/></l><r>d'ora<b/>in<b/>poi<s n="adv"/></r></p></e>
-<e><p><l>from<b/>time<b/>to<b/>time<s n="adv"/></l><r>ogni<b/>tanto<s n="adv"/></r></p></e>
+<e r="RL"><p><l>from<b/>now<b/>on<s n="adv"/></l><r>d'ora<b/>in<b/>poi<s n="adv"/></r></p></e>
+<e r="RL"><p><l>from<b/>time<b/>to<b/>time<s n="adv"/></l><r>ogni<b/>tanto<s n="adv"/></r></p></e>
 <e><p><l>from<b/>time<b/>to<b/>time<s n="adv"/></l><r>di<b/>tanto<b/>in<b/>quando<s n="adv"/></r></p></e>
 <e r="LR"><p><l>full<b/>blast<s n="adv"/></l><r>rapidamente<s n="adv"/></r></p></e>
 <e><p><l>fully<s n="adv"/></l><r>pienamente<s n="adv"/></r></p></e>
@@ -12911,13 +12910,13 @@
 <e><p><l>harshly<s n="adv"/></l><r>aspramente<s n="adv"/></r></p></e>
 <e><p><l>heavily<s n="adv"/></l><r>fortemente<s n="adv"/></r></p></e>
 <e><p><l>heavily<s n="adv"/></l><r>pesantemente<s n="adv"/></r></p></e>
-<e><p><l>henceforth<s n="adv"/></l><r>d'ora<b/>in<b/>avanti<s n="adv"/></r></p></e>
-<e><p><l>henceforward<s n="adv"/></l><r>d'ora<b/>in<b/>avanti<s n="adv"/></r></p></e>
+<e r="LR"><p><l>henceforth<s n="adv"/></l><r>d'ora<b/>in<b/>avanti<s n="adv"/></r></p></e>
+<e r="LR"><p><l>henceforward<s n="adv"/></l><r>d'ora<b/>in<b/>avanti<s n="adv"/></r></p></e>
 <e><p><l>here<s n="adv"/></l><r>qui<s n="adv"/></r></p></e>
 <e><p><l>here<s n="adv"/></l><r>lì<s n="adv"/></r></p></e>
-<e><p><l>hereafter<s n="adv"/></l><r>d'ora<b/>in<b/>avanti<s n="adv"/></r></p></e>
-<e><p><l>hereby<s n="adv"/></l><r>d'ora<b/>in<b/>avanti<s n="adv"/></r></p></e>
-<e><p><l>hereinafter<s n="adv"/></l><r>d'ora<b/>in<b/>avanti<s n="adv"/></r></p></e>
+<e r="LR"><p><l>hereafter<s n="adv"/></l><r>d'ora<b/>in<b/>avanti<s n="adv"/></r></p></e>
+<e r="LR"><p><l>hereby<s n="adv"/></l><r>d'ora<b/>in<b/>avanti<s n="adv"/></r></p></e>
+<e r="LR"><p><l>hereinafter<s n="adv"/></l><r>d'ora<b/>in<b/>avanti<s n="adv"/></r></p></e>
 <e><p><l>heretofore<s n="adv"/></l><r>finora<s n="adv"/></r></p></e>
 <e><p><l>high<b/>and<b/>low<s n="adv"/></l><r>alti<b/>e<b/>bassi<s n="adv"/></r></p></e>
 <e><p><l>highly<s n="adv"/></l><r>altamente<s n="adv"/></r></p></e>
