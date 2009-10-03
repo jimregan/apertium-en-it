@@ -14444,7 +14444,7 @@
 <e slr="saldo"><p><l>balance<s n="n"/></l><r>saldo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>balcony<s n="n"/></l><r>balcone<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>balkanisation<s n="n"/></l><r>balcanizzazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>ball<s n="n"/></l><r>palla<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>ball<s n="n"/></l><r>palla<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ball<s n="n"/></l><r>pallone<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ballast<s n="n"/></l><r>zavorra<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>ballerina<s n="n"/></l><r>ballerino<s n="n"/><s n="f"/></r></p></e>
@@ -14460,7 +14460,6 @@
 <e r="LR"><p><l>bamboo<s n="n"/><s n="pl"/></l><r>bambù<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>bamboo<s n="n"/><s n="ND"/></l><r>bambù<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>ban<s n="n"/></l><r>divieto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>banana<s n="n"/></l><r>banana<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>banana<s n="n"/></l><r>banana<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>band<s n="n"/></l><r>banda<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bangle<s n="n"/></l><r>braccialetto<s n="n"/><s n="m"/></r></p></e>
@@ -14475,8 +14474,8 @@
 <e><p><l>baptism<s n="n"/></l><r>battesimo<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>bar<s n="n"/><s n="ND"/></l><r>bar<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>bar<s n="n"/></l><r>barra<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>bar<s n="n"/></l><r>sbarra<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>bar<s n="n"/></l><r>bancone<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>bar<s n="n"/></l><r>sbarra<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>bar<s n="n"/></l><r>bancone<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>barbarism<s n="n"/><s n="ND"/></l><r>barbarie<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>barbarism<s n="n"/><s n="sg"/></l><r>barbarie<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>barbarism<s n="n"/><s n="pl"/></l><r>barbarie<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -14571,7 +14570,7 @@
 <e><p><l>bibliography<s n="n"/></l><r>bibliografia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bicameralism<s n="n"/></l><r>bicameralismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bicycle<s n="n"/></l><r>bicicletta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>bid<s n="n"/></l><r>intento<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>bid<s n="n"/></l><r>intento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bid<s n="n"/></l><r>offerta<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>bidet<s n="n"/><s n="ND"/></l><r>bidet<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>bidet<s n="n"/><s n="sg"/></l><r>bidet<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -14583,7 +14582,7 @@
 <e><p><l>bike<s n="n"/></l><r>bicicletta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bilingualism<s n="n"/></l><r>bilinguismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bill<s n="n"/></l><r>fattura<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>bill<s n="n"/></l><r>bolletta<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>bill<s n="n"/></l><r>bolletta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>billiard<s n="n"/></l><r>biliardo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bin<s n="n"/></l><r>cubo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>biodegradation<s n="n"/></l><r>biodegradazione<s n="n"/><s n="f"/></r></p></e>
@@ -14595,13 +14594,11 @@
 <e r="RL"><p><l>biologist<s n="n"/></l><r>biologo<s n="n"/></r></p></e>
 <e><p><l>biology<s n="n"/></l><r>biologia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>biopsy<s n="n"/></l><r>biopsia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>bird<s n="n"/></l><r>passero<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>bird<s n="n"/></l><r>passero<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bird<s n="n"/></l><r>uccello<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>bird<s n="n"/></l><r>volatile<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>bird<s n="n"/></l><r>volatile<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>birth<s n="n"/></l><r>nascita<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>birth<s n="n"/><s n="ND"/></l><r>natalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>birth<s n="n"/><s n="sg"/></l><r>natalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>birth<s n="n"/><s n="pl"/></l><r>natalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>birthday<s n="n"/></l><r>compleanno<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>birthday<s n="n"/><s n="ND"/></l><r>compleanno<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>biscuit<s n="n"/></l><r>biscotto<s n="n"/><s n="m"/></r></p></e>
@@ -14609,7 +14606,7 @@
 <e><p><l>bite<s n="n"/></l><r>boccone<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>black<s n="n"/></l><r>nero<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>black<s n="n"/></l><r>nero<s n="n"/></r></p></e>
-<e><p><l>blade<s n="n"/></l><r>foglia<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>blade<s n="n"/></l><r>foglia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>blade<s n="n"/></l><r>foglio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>blandishment<s n="n"/></l><r>blandimento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>blank<s n="n"/></l><r>spazio<s n="n"/><s n="m"/></r></p></e>
@@ -16431,20 +16428,16 @@
 <e><p><l>fat<s n="n"/></l><r>grasso<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fatalism<s n="n"/></l><r>fatalismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fate<s n="n"/></l><r>destino<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>fate<s n="n"/></l><r>destinazione<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>fate<s n="n"/></l><r>destinazione<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>fate<s n="n"/></l><r>destinazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>father<s n="n"/></l><r>padre<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>father<s n="n"/><s n="sg"/></l><r>padre<s n="n"/></r></p></e>
-<e><p><l>fault<s n="n"/></l><r>mancanza<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>fault<s n="n"/></l><r>mancanza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fault<s n="n"/></l><r>colpa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fauna<s n="n"/></l><r>fauna<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>favour<s n="n"/></l><r>favore<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>favour<s n="n"/></l><r>favore<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>fax<s n="n"/><s n="ND"/></l><r>fax<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>fax<s n="n"/><s n="sg"/></l><r>fax<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>fax<s n="n"/><s n="pl"/></l><r>fax<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>façade<s n="n"/></l><r>facciata<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>fear<s n="n"/></l><r>paura<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fear<s n="n"/></l><r>paura<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>feasibility<s n="n"/><s n="ND"/></l><r>fattibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>feasibility<s n="n"/><s n="sg"/></l><r>fattibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -21016,7 +21009,7 @@
 <e><p><l>when<s n="cnjadv"/></l><r>quando<s n="rel"/><s n="adv"/></r></p></e>
 <e r="LR" c="MG: Generalment després de verb o pronom personal (I doubt whether.../ Tell me whether...)"><p><l>whether<s n="cnjadv"/></l><r>se<s n="cnjadv"/></r></p></e>
 <e><p><l>while<s n="cnjadv"/></l><r>nella<b/>misura<b/>in<b/>cui<s n="cnjadv"/></r></p></e>
-<e><p><l>be<s n="vbser"/></l><r>essere<s n="vbser"/><s n="auxser"/></r></p></e>
+<e r="RL"><p><l>be<s n="vbser"/></l><r>essere<s n="vbser"/><s n="auxser"/></r></p></e>
 <e r="RL"><p><l>be<s n="vbser"/></l><r>stare<s n="vbser"/></r></p></e>
 <e><p><l>be<s n="vbser"/></l><r>essere<s n="vbser"/></r></p></e>
 <e><p><l>that<s n="cnjsub"/></l><r>che<s n="cnjsub"/></r></p></e>
@@ -21056,12 +21049,9 @@
 <e c="preguntes, condicional"><p><l>anything<s n="prn"/><s n="tn"/></l><r>qualcosa<s n="prn"/></r></p></e>
 <e c="frases negatives"><p><l>anything<s n="prn"/><s n="tn"/></l><r>niente<s n="prn"/></r></p></e>
 <e><p><l>both<s n="prn"/><s n="tn"/><s n="mf"/></l><r>entrambi<s n="prn"/></r></p></e>
-<e><p><l>both<s n="prn"/><s n="tn"/><s n="mf"/></l><r>tutti<b/>e<b/>due<s n="prn"/></r></p></e>
+<e r="RL"><p><l>both<s n="prn"/><s n="tn"/><s n="mf"/></l><r>tutti<b/>e<b/>due<s n="prn"/></r></p></e>
 <e><p><l>each<s n="prn"/></l><r>ognuno<s n="prn"/><s n="tn"/><s n="GD"/></r></p></e>
 <e><p><l>either<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>qualunque<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
-<e><p><l>either<s n="prn"/></l><r>nessuno<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
-<e><p><l>either<s n="prn"/></l><r>nessuno<s n="prn"/><s n="tn"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>either<s n="prn"/></l><r>nessuno<s n="prn"/></r></p></e>
 <e r="LR"><p><l>everybody<s n="prn"/></l><r>tutti<b/>quanti<s n="prn"/></r></p></e>
 <e r="LR"><p><l>everyone<s n="prn"/></l><r>tutti<b/>quanti<s n="prn"/></r></p></e>
 <e><p><l>everyone<s n="prn"/></l><r>tutti<b/>quanti<s n="prn"/></r></p></e>
@@ -21228,19 +21218,14 @@
 <e><p><l>before<s n="pr"/></l><r>prima<b/>di<s n="pr"/></r></p></e>
 <e><p><l>behind<s n="pr"/></l><r>dietro<s n="pr"/></r></p></e>
 <e><p><l>below<s n="pr"/></l><r>sotto<s n="pr"/></r></p></e>
-<e><p><l>beside<s n="pr"/></l><r>presso<s n="pr"/></r></p></e>
+<e r="RL"><p><l>beside<s n="pr"/></l><r>presso<s n="pr"/></r></p></e>
 <e><p><l>beside<s n="pr"/></l><r>accanto<b/>a<s n="pr"/></r></p></e>
-<e><p><l>beside<s n="pr"/></l><r>assieme<b/>a<s n="pr"/></r></p></e>
-<e><p><l>between<s n="pr"/></l><r>fra<s n="pr"/></r></p></e>
-<e><p><l>between<s n="pr"/></l><r>tra<s n="pr"/></r></p></e>
-<e><p><l>between<s n="pr"/></l><r>tra<s n="pr"/></r></p></e>
-<e><p><l>between<s n="pr"/></l><r>fra<s n="pr"/></r></p></e>
+<e r="RL"><p><l>beside<s n="pr"/></l><r>assieme<b/>a<s n="pr"/></r></p></e>
 <e><p><l>but<s n="pr"/></l><r>tranne<s n="pr"/></r></p></e>
 <e><p><l>by<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
 <e><p><l>by<b/>means<b/>of<s n="pr"/></l><r>mediante<s n="pr"/></r></p></e>
 <e r="RL"><p><l>by<b/>means<b/>of<s n="pr"/></l><r>tramite<s n="pr"/></r></p></e>
 <e><p><l>despite<s n="pr"/></l><r>nonostante<s n="pr"/></r></p></e>
-<e><p><l>during<s n="pr"/></l><r>durante<s n="pr"/></r></p></e>
 <e><p><l>during<s n="pr"/></l><r>durante<s n="pr"/></r></p></e>
 <e><p><l>except<s n="pr"/></l><r>eccetto<s n="pr"/></r></p></e>
 <e><p><l>except<s n="pr"/></l><r>tranne<s n="pr"/></r></p></e>
