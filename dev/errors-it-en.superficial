@@ -1,12 +1,9 @@
-^.<sent>$ ^alcun<det><ind><m><pl>$	. #Any\<det\>\<qnt\>\<pl\>
-^.<sent>$ ^alcun<det><ind><f><pl>$	. #Any\<det\>\<qnt\>\<pl\>
-^.<sent>$ ^alcun<det><ind><f><sg>$	. #Any\<det\>\<qnt\>\<sg\>
-^.<sent>$ ^alcun<det><ind><m><sg>$	. #Any\<det\>\<qnt\>\<sg\>
-^.<sent>$ ^alcun<det><ind><m><pl>$	. #Any\<det\>\<qnt\>\<pl\>
-^.<sent>$ ^alcun<det><ind><f><pl>$	. #Any\<det\>\<qnt\>\<pl\>
-^.<sent>$ ^alcun<det><ind><f><sg>$	. #Any\<det\>\<qnt\>\<sg\>
 ^.<sent>$ ^il loro<det><pos><m><pl>$	. #His\<pl\>
 ^.<sent>$ ^il loro<det><pos><m><sg>$	. #His\<sg\>
+^.<sent>$ ^il nostro<det><pos><m><pl>$	. #Our\<pl\>
+^.<sent>$ ^il nostro<det><pos><m><sg>$	. #Our\<sg\>
+^.<sent>$ ^il nostro<det><pos><f><pl>$	. #Our\<pl\>
+^.<sent>$ ^il nostro<det><pos><f><sg>$	. #Our\<sg\>
 ^.<sent>$ ^il suo<det><pos><m><pl>$	. #His\<det\>\<pos\>\<sp\>
 ^.<sent>$ ^il suo<det><pos><m><sg>$	. #His\<det\>\<pos\>\<sp\>
 ^.<sent>$ ^il vostro<det><pos><m><pl>$	. #Your\<det\>\<pos\>\<sp\>
@@ -223,20 +220,19 @@
 ^.<sent>$ ^castiglionese<n><mf><sg>$	. \@Castiglionese\<n\>\<sg\>
 ^.<sent>$ ^catrame<n><m><pl>$	. #Tar\<n\>\<pl\>
 ^.<sent>$ ^catrame<n><m><sg>$	. #Tar\<n\>\<sg\>
-^.<sent>$ ^censo<n><m><pl>$	. \@Censo\<n\>\<pl\>
-^.<sent>$ ^censo<n><m><sg>$	. \@Censo\<n\>\<sg\>
 ^.<sent>$ ^ceppo<n><m><pl>$	. \@Ceppo\<n\>\<pl\>
 ^.<sent>$ ^ceppo<n><m><sg>$	. \@Ceppo\<n\>\<sg\>
 ^.<sent>$ ^cherubino<n><m><pl>$	. #Cherub\<n\>\<pl\>
 ^.<sent>$ ^cherubino<n><m><sg>$	. #Cherub\<n\>\<sg\>
 ^.<sent>$ ^chiaro<n><m><pl>$	. \@Chiaro\<n\>\<pl\>
 ^.<sent>$ ^chiaro<n><m><sg>$	. \@Chiaro\<n\>\<sg\>
+^.<sent>$ ^cibernetica<n><f><pl>$	. #Cybernetics\<n\>\<pl\>
 ^.<sent>$ ^cinescopio<n><m><pl>$	. #Kinescope\<n\>\<pl\>
 ^.<sent>$ ^cinescopio<n><m><sg>$	. #Kinescope\<n\>\<sg\>
 ^.<sent>$ ^clausura<n><f><pl>$	. \@Clausura\<n\>\<pl\>
 ^.<sent>$ ^clausura<n><f><sg>$	. \@Clausura\<n\>\<sg\>
-^.<sent>$ ^collegiale<n><mf><pl>$	. \@Collegiale\<n\>\<pl\>
-^.<sent>$ ^collegiale<n><mf><sg>$	. \@Collegiale\<n\>\<sg\>
+^.<sent>$ ^collegiale<n><mf><pl>$	. #School child\<n\>\<pl\>
+^.<sent>$ ^collegiale<n><mf><sg>$	. #School child\<n\>\<sg\>
 ^.<sent>$ ^colmo<n><m><pl>$	. \@Colmo\<n\>\<pl\>
 ^.<sent>$ ^colmo<n><m><sg>$	. \@Colmo\<n\>\<sg\>
 ^.<sent>$ ^coltivazione<n><f><pl>$	. #Cultivation\<n\>\<pl\>
@@ -625,6 +621,8 @@
 ^.<sent>$ ^planetario<n><m><sg>$	. #Planetarium\<n\>\<sg\>
 ^.<sent>$ ^plebe<n><f><pl>$	. #Plebian\<n\>\<pl\>
 ^.<sent>$ ^plebe<n><f><sg>$	. #Plebian\<n\>\<sg\>
+^.<sent>$ ^podere<n><m><pl>$	. \@Podere\<n\>\<pl\>
+^.<sent>$ ^podere<n><m><sg>$	. \@Podere\<n\>\<sg\>
 ^.<sent>$ ^porcile<n><m><pl>$	. #Pigsty\<n\>\<pl\>
 ^.<sent>$ ^porcile<n><m><sg>$	. #Pigsty\<n\>\<sg\>
 ^.<sent>$ ^portavoce<n><mf><sp>$	. #Spokesperson\<n\>
@@ -848,6 +846,8 @@
 ^.<sent>$ ^ginocchio<n><f><pl>$	. \@Ginocchio\<n\>\<pl\>
 ^.<sent>$ ^ammissione<n><f><pl>$	. \@Ammissione\<n\>\<pl\>
 ^.<sent>$ ^ammissione<n><f><sg>$	. \@Ammissione\<n\>\<sg\>
+^.<sent>$ ^angolazione<n><f><pl>$	. #Angling\<n\>\<pl\>
+^.<sent>$ ^angolazione<n><f><sg>$	. #Angling\<n\>\<sg\>
 ^.<sent>$ ^autenticazione<n><f><pl>$	. #Authentication\<n\>\<pl\>
 ^.<sent>$ ^autenticazione<n><f><sg>$	. #Authentication\<n\>\<sg\>
 ^.<sent>$ ^autolimitazione<n><f><pl>$	. #Self-limitation\<n\>\<pl\>
@@ -8694,7 +8694,6 @@
 ^.<sent>$ ^alla vista di<pr>$ ^il<det><def><m><sg>$	. #At the sight of\<pr\> the
 ^.<sent>$ ^alla vista di<pr>$ ^il<det><def><m><sg>$	. #At the sight of\<pr\> the
 ^.<sent>$ ^sotto<pr>$	. #Under\<pr\>\/below\<pr\>
-^.<sent>$ ^fra<pr>$	. #Among\<pr\>\/between\<pr\>
 ^.<sent>$ ^fuori<pr>$	. #Out\<pr\>\/out of\<pr\>\/outside\<pr\>
 ^.<sent>$ ^in attesa di<pr>$	. #In hope of\<pr\>
 ^.<sent>$ ^in attesa di<pr>$ ^il<det><def><f><sg>$	. #In hope of\<pr\> the
@@ -8858,9 +8857,7 @@ ALTRES ERRADES DE BILINGÜE
 ==========================
 #\^.\<sent\> many<det><qnt>/much<det><qnt>/a lot of<det>/lots of<det><qnt><sp>/a lot of<det><qnt><sp>$
 #\^.\<sent\> many<det><qnt>/much<det><qnt>/a lot of<det>/lots of<det><qnt><sp>/a lot of<det><qnt><sp>$
-#\^.\<sent\> any<det>/some<det>/some<det><qnt><sp>$
 #\^.\<sent\> any<det>/some<det>$
-#\^.\<sent\> no<det><ind><sp>/any<det><ind>/either<det><ind>$
 #\^.\<sent\> each<det><ind>/every<det><ind>$
 #\^.\<sent\> no<det><ind><sp>/any<det><ind>/either<det><ind>$
 #\^.\<sent\> either<det><ind>/whatever<det><ind>$
@@ -8875,10 +8872,8 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> no<det><ind><sp>/any<det><ind>/either<det><ind>$
 #\^.\<sent\> other<det><ind><sp>/other<det><ind><pl>$
 #\^.\<sent\> other<det><ind><sp>/other<det><ind><pl>$
-#\^.\<sent\> our<det>/our<det><pos><sp>$
-#\^.\<sent\> our<det>/our<det><pos><sp>$
-#\^.\<sent\> any<det>/some<det>/some<det><qnt><sp>$
-#\^.\<sent\> any<det>/some<det>/some<det><qnt><sp>$
+#\^.\<sent\> some<det>/some<det><qnt><sp>$
+#\^.\<sent\> some<det>/some<det><qnt><sp>$
 #\^.\<sent\> any<det>/some<det>$
 #\^.\<sent\> such<det>/such<det><ind><sp>/such a<det><ind>$
 #\^.\<sent\> such<det>/such<det><ind><sp>/such a<det><ind>$
@@ -8898,7 +8893,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> capable<adj>/able<adj><sint>$
 #\^.\<sent\> accurate<adj>/attentive<adj>$
 #\^.\<sent\> real<adj>/royal<adj>/actual<adj>$
-#\^.\<sent\> adequate<adj>/suitable<adj>/felicitous<adj>$
+#\^.\<sent\> suitable<adj>/adequate<adj>/felicitous<adj>$
 #\^.\<sent\> advisable<adj>/advisory<adj>$
 #\^.\<sent\> advisable<adj>/advisory<adj>$
 #\^.\<sent\> rich<adj><sint>/wealthy<adj><sint>$
@@ -8907,7 +8902,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> anarchic<adj>/lawless<adj>$
 #\^.\<sent\> anarchic<adj>/lawless<adj>$
 #\^.\<sent\> antique<adj>/ancient<adj>$
-#\^.\<sent\> annual<adj>/yearly<adj>$
+#\^.\<sent\> yearly<adj>/annual<adj>$
 #\^.\<sent\> antecedent<adj>/precedent<adj>$
 #\^.\<sent\> antique<adj>/ancient<adj>$
 #\^.\<sent\> accurate<adj>/attentive<adj>$
@@ -8942,10 +8937,8 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> delicious<adj>/delightful<adj>$
 #\^.\<sent\> delicious<adj>/delightful<adj>$
 #\^.\<sent\> different<adj>/unlike<adj>$
-#\^.\<sent\> diverse<adj>/different<adj>$
 #\^.\<sent\> disgruntled<adj>/dissatisfied<adj>$
 #\^.\<sent\> disgruntled<adj>/dissatisfied<adj>$
-#\^.\<sent\> diverse<adj>/different<adj>$
 #\^.\<sent\> double<adj>/twofold<adj>$
 #\^.\<sent\> eastern<adj>/oriental<adj>$
 #\^.\<sent\> economic<adj>/cheap<adj><sint>/economical<adj>/inexpensive<adj>$
@@ -8965,7 +8958,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> rapid<adj>/fast<adj><sint>/quick<adj><sint>$
 #\^.\<sent\> feasible<adj>/workable<adj>$
 #\^.\<sent\> feeble<adj><sint>/weak<adj><sint>$
-#\^.\<sent\> adequate<adj>/suitable<adj>/felicitous<adj>$
+#\^.\<sent\> suitable<adj>/adequate<adj>/felicitous<adj>$
 #\^.\<sent\> flexible<adj>/floppy<adj>$
 #\^.\<sent\> flexible<adj>/floppy<adj>$
 #\^.\<sent\> silly<adj><sint>/foolish<adj>$
@@ -9119,7 +9112,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> sincere<adj>/sincere<adj><sint>/straightforward<adj>$
 #\^.\<sent\> odd<adj><sint>/weird<adj>/bizarre<adj>/strange<adj><sint>/peculiar<adj>$
 #\^.\<sent\> underground<adj>/subterranean<adj>$
-#\^.\<sent\> adequate<adj>/suitable<adj>/felicitous<adj>$
+#\^.\<sent\> suitable<adj>/adequate<adj>/felicitous<adj>$
 #\^.\<sent\> shallow<adj>/superficial<adj>$
 #\^.\<sent\> top<adj>/superior<adj>/upper<adj>$
 #\^.\<sent\> sweet<adj><sint>/mellow<adj>$
@@ -9157,45 +9150,45 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> world<adj>/world-wide<adj>$
 #\^.\<sent\> world<adj>/world-wide<adj>$
 #\^.\<sent\> interesting<adj>/worthwhile<adj>$
-#\^.\<sent\> annual<adj>/yearly<adj>$
+#\^.\<sent\> yearly<adj>/annual<adj>$
 #\^.\<sent\> abash<vblex>/baffle<vblex>$
 #\^.\<sent\> support<vblex>/abide<vblex>$
-#\^.\<sent\> accelerate<vblex>/speed<vblex>$
-#\^.\<sent\> acclaim<vblex>/cheer<vblex>$
+#\^.\<sent\> speed<vblex>/accelerate<vblex>$
+#\^.\<sent\> cheer<vblex>/acclaim<vblex>$
 #\^.\<sent\> fulfil<vblex>/meet<vblex>/accomplish<vblex>$
 #\^.\<sent\> manage<vblex>/achieve<vblex>/get<vblex>$
 #\^.\<sent\> recognise<vblex>/acknowledge<vblex>$
 #\^.\<sent\> direct<vblex>/aim<vblex>/address<vblex>/conduct<vblex>/lead<vblex>/manage<vblex>$
 #\^.\<sent\> correct<vblex>/adjust<vblex>$
-#\^.\<sent\> admit<vblex>/concede<vblex>$
+#\^.\<sent\> concede<vblex>/admit<vblex>$
 #\^.\<sent\> announce<vblex>/advertise<vblex>$
 #\^.\<sent\> counsel<vblex>/advise<vblex>$
 #\^.\<sent\> defend<vblex>/advocate<vblex>/back<vblex>$
-#\^.\<sent\> affirm<vblex>/assert<vblex>/claim<vblex>$
+#\^.\<sent\> claim<vblex>/affirm<vblex>/assert<vblex>$
 #\^.\<sent\> afflict<vblex>/distress<vblex>$
 #\^.\<sent\> permit<vblex>/allow<vblex>/afford<vblex>$
 #\^.\<sent\> agitate<vblex>/wave<vblex>$
-#\^.\<sent\> agree<vblex>/concede<vblex>$
+#\^.\<sent\> concede<vblex>/agree<vblex>$
 #\^.\<sent\> point<vblex>/back<vblex>$
 #\^.\<sent\> direct<vblex>/aim<vblex>/address<vblex>/conduct<vblex>/lead<vblex>/manage<vblex>$
 #\^.\<sent\> declare<vblex>/state<vblex>/allege<vblex>$
-#\^.\<sent\> alleviate<vblex>/ease<vblex>$
+#\^.\<sent\> ease<vblex>/alleviate<vblex>$
 #\^.\<sent\> permit<vblex>/allow<vblex>/afford<vblex>$
 #\^.\<sent\> anger<vblex>/irritate<vblex>$
 #\^.\<sent\> announce<vblex>/advertise<vblex>$
 #\^.\<sent\> annoy<vblex>/bother<vblex>$
 #\^.\<sent\> respond<vblex>/reply<vblex>/answer<vblex>$
-#\^.\<sent\> apply<vblex>/enforce<vblex>$
+#\^.\<sent\> enforce<vblex>/apply<vblex>$
 #\^.\<sent\> nominate<vblex>/name<vblex>/appoint<vblex>$
 #\^.\<sent\> value<vblex>/assess<vblex>$
-#\^.\<sent\> affirm<vblex>/assert<vblex>/claim<vblex>$
+#\^.\<sent\> claim<vblex>/affirm<vblex>/assert<vblex>$
 #\^.\<sent\> value<vblex>/assess<vblex>$
-#\^.\<sent\> assure<vblex>/ensure<vblex>/insure<vblex>/secure<vblex>$
+#\^.\<sent\> ensure<vblex>/insure<vblex>/secure<vblex>/assure<vblex>$
 #\^.\<sent\> reach<vblex>/attain<vblex>$
 #\^.\<sent\> tempt<vblex>/try<vblex>/attempt<vblex>$
 #\^.\<sent\> testify<vblex>/attest<vblex>/witness<vblex>$
 #\^.\<sent\> verify<vblex>/check<vblex>$
-#\^.\<sent\> await<vblex>/hope<vblex>/expect<vblex>/wait<vblex>$
+#\^.\<sent\> hope<vblex>/expect<vblex>/await<vblex>/wait<vblex>$
 #\^.\<sent\> awake<vblex>/wake<vblex>$
 #\^.\<sent\> defend<vblex>/advocate<vblex>/back<vblex>$
 #\^.\<sent\> abash<vblex>/baffle<vblex>$
@@ -9208,7 +9201,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> tie<vblex>/bind<vblex>/bequeath<vblex>$
 #\^.\<sent\> blast<vblex>/fly<vblex>$
 #\^.\<sent\> reserve<vblex>/book<vblex>$
-#\^.\<sent\> augment<vblex>/rise<vblex>/increase<vblex>/boost<vblex>$
+#\^.\<sent\> rise<vblex>/increase<vblex>/augment<vblex>/boost<vblex>$
 #\^.\<sent\> annoy<vblex>/bother<vblex>$
 #\^.\<sent\> incline<vblex>/bow<vblex>/bend<vblex>$
 #\^.\<sent\> confront<vblex>/brave<vblex>/face<vblex>$
@@ -9216,28 +9209,28 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> report<vblex>/inform<vblex>/brief<vblex>$
 #\^.\<sent\> bring<vblex>/carry<vblex>/wear<vblex>$
 #\^.\<sent\> enlarge<vblex>/expand<vblex>/broaden<vblex>$
-#\^.\<sent\> capsize<vblex>/change<vblex>/shift<vblex>/switch<vblex>$
+#\^.\<sent\> change<vblex>/capsize<vblex>/shift<vblex>/switch<vblex>$
 #\^.\<sent\> bring<vblex>/carry<vblex>/wear<vblex>$
 #\^.\<sent\> launch<vblex>/cast<vblex>/sling<vblex>/back<vblex>$
 #\^.\<sent\> provoke<vblex>/trigger<vblex>$
 #\^.\<sent\> focus<vblex>/centre<vblex>$
 #\^.\<sent\> defy<vblex>/challenge<vblex>$
-#\^.\<sent\> capsize<vblex>/change<vblex>/shift<vblex>/switch<vblex>$
+#\^.\<sent\> change<vblex>/capsize<vblex>/shift<vblex>/switch<vblex>$
 #\^.\<sent\> earn<vblex>/charge<vblex>$
 #\^.\<sent\> pursue<vblex>/chase<vblex>$
 #\^.\<sent\> trick<vblex>/deceive<vblex>/dupe<vblex>/cheat<vblex>$
 #\^.\<sent\> verify<vblex>/check<vblex>$
-#\^.\<sent\> acclaim<vblex>/cheer<vblex>$
+#\^.\<sent\> cheer<vblex>/acclaim<vblex>$
 #\^.\<sent\> elect<vblex>/choose<vblex>/pick<vblex>$
 #\^.\<sent\> cite<vblex>/quote<vblex>$
-#\^.\<sent\> affirm<vblex>/assert<vblex>/claim<vblex>$
+#\^.\<sent\> claim<vblex>/affirm<vblex>/assert<vblex>$
 #\^.\<sent\> demand<vblex>/claim<vblex>$
 #\^.\<sent\> colour<vblex>/dye<vblex>$
 #\^.\<sent\> combat<vblex>/struggle<vblex>$
 #\^.\<sent\> go# back<vblex>/get# back<vblex>/come# back<vblex>$
 #\^.\<sent\> go# in<vblex>/get# in<vblex>/come# in<vblex>/step# into<vblex>$
 #\^.\<sent\> conceal<vblex>/hide<vblex>$
-#\^.\<sent\> admit<vblex>/concede<vblex>$
+#\^.\<sent\> concede<vblex>/admit<vblex>$
 #\^.\<sent\> grant<vblex>/concede<vblex>$
 #\^.\<sent\> conceive<vblex>/devise<vblex>$
 #\^.\<sent\> condemn<vblex>/convict<vblex>$
@@ -9313,7 +9306,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> earn<vblex>/charge<vblex>$
 #\^.\<sent\> earn<vblex>/win<vblex>/overcome<vblex>$
 #\^.\<sent\> earn<vblex>/win<vblex>$
-#\^.\<sent\> alleviate<vblex>/ease<vblex>$
+#\^.\<sent\> ease<vblex>/alleviate<vblex>$
 #\^.\<sent\> eat<vblex>/lunch<vblex>$
 #\^.\<sent\> repeat<vblex>/echo<vblex>$
 #\^.\<sent\> elect<vblex>/choose<vblex>/pick<vblex>$
@@ -9323,11 +9316,11 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> emigrate<vblex>/migrate<vblex>$
 #\^.\<sent\> employ<vblex>/use<vblex>$
 #\^.\<sent\> warm<vblex>/encourage<vblex>$
-#\^.\<sent\> apply<vblex>/enforce<vblex>$
+#\^.\<sent\> enforce<vblex>/apply<vblex>$
 #\^.\<sent\> enhance<vblex>/improve<vblex>$
 #\^.\<sent\> fancy<vblex>/like<vblex>/please<vblex>/enjoy<vblex>$
 #\^.\<sent\> enlarge<vblex>/expand<vblex>/broaden<vblex>$
-#\^.\<sent\> assure<vblex>/ensure<vblex>/insure<vblex>/secure<vblex>$
+#\^.\<sent\> ensure<vblex>/insure<vblex>/secure<vblex>/assure<vblex>$
 #\^.\<sent\> introduce<vblex>/enter<vblex>$
 #\^.\<sent\> trust<vblex>/entrust<vblex>/rely<vblex>$
 #\^.\<sent\> heave<vblex>/erect<vblex>/raise<vblex>$
@@ -9338,7 +9331,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> exceed<vblex>/surpass<vblex>$
 #\^.\<sent\> trade<vblex>/exchange<vblex>$
 #\^.\<sent\> enlarge<vblex>/expand<vblex>/broaden<vblex>$
-#\^.\<sent\> await<vblex>/hope<vblex>/expect<vblex>/wait<vblex>$
+#\^.\<sent\> hope<vblex>/expect<vblex>/await<vblex>/wait<vblex>$
 #\^.\<sent\> explain<vblex>/count<vblex>$
 #\^.\<sent\> explain<vblex>/count<vblex>$
 #\^.\<sent\> exploit<vblex>/explode<vblex>$
@@ -9389,16 +9382,16 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> heat<vblex>/warm<vblex>$
 #\^.\<sent\> heave<vblex>/erect<vblex>/raise<vblex>$
 #\^.\<sent\> conceal<vblex>/hide<vblex>$
-#\^.\<sent\> await<vblex>/hope<vblex>/expect<vblex>/wait<vblex>$
+#\^.\<sent\> hope<vblex>/expect<vblex>/await<vblex>/wait<vblex>$
 #\^.\<sent\> imply<vblex>/involve<vblex>$
 #\^.\<sent\> enhance<vblex>/improve<vblex>$
 #\^.\<sent\> incite<vblex>/prompt<vblex>$
 #\^.\<sent\> incline<vblex>/bow<vblex>/bend<vblex>$
-#\^.\<sent\> augment<vblex>/rise<vblex>/increase<vblex>/boost<vblex>$
+#\^.\<sent\> rise<vblex>/increase<vblex>/augment<vblex>/boost<vblex>$
 #\^.\<sent\> report<vblex>/inform<vblex>/brief<vblex>$
 #\^.\<sent\> inhume<vblex>/inter<vblex>$
 #\^.\<sent\> pioneer<vblex>/initiate<vblex>$
-#\^.\<sent\> assure<vblex>/ensure<vblex>/insure<vblex>/secure<vblex>$
+#\^.\<sent\> ensure<vblex>/insure<vblex>/secure<vblex>/assure<vblex>$
 #\^.\<sent\> pretend<vblex>/intend<vblex>$
 #\^.\<sent\> inhume<vblex>/inter<vblex>$
 #\^.\<sent\> interrogate<vblex>/interview<vblex>$
@@ -9496,7 +9489,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> cite<vblex>/quote<vblex>$
 #\^.\<sent\> race<vblex>/run<vblex>$
 #\^.\<sent\> shower<vblex>/rain<vblex>$
-#\^.\<sent\> augment<vblex>/rise<vblex>/increase<vblex>/boost<vblex>$
+#\^.\<sent\> rise<vblex>/increase<vblex>/augment<vblex>/boost<vblex>$
 #\^.\<sent\> heave<vblex>/erect<vblex>/raise<vblex>$
 #\^.\<sent\> rate<vblex>/estimate<vblex>$
 #\^.\<sent\> reach<vblex>/attain<vblex>$
@@ -9509,11 +9502,11 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> register<vblex>/record<vblex>/scour<vblex>$
 #\^.\<sent\> release<vblex>/unchain<vblex>/drop<vblex>/free<vblex>/discharge<vblex>$
 #\^.\<sent\> relieve<vblex>/purchase<vblex>$
-#\^.\<sent\> alleviate<vblex>/ease<vblex>$
+#\^.\<sent\> ease<vblex>/alleviate<vblex>$
 #\^.\<sent\> trust<vblex>/entrust<vblex>/rely<vblex>$
 #\^.\<sent\> remain<vblex>/stay<vblex>/subtract<vblex>/be# left<vblex>$
 #\^.\<sent\> remain<vblex>/stay<vblex>/subtract<vblex>/be# left<vblex>$
-#\^.\<sent\> agree<vblex>/concede<vblex>$
+#\^.\<sent\> concede<vblex>/agree<vblex>$
 #\^.\<sent\> recall<vblex>/remember<vblex>/agree<vblex>$
 #\^.\<sent\> recall<vblex>/remember<vblex>/agree<vblex>$
 #\^.\<sent\> repeat<vblex>/echo<vblex>$
@@ -9533,13 +9526,13 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> reverse<vblex>/invest<vblex>$
 #\^.\<sent\> reverse<vblex>/invest<vblex>$
 #\^.\<sent\> mount<vblex>/ride<vblex>$
-#\^.\<sent\> augment<vblex>/rise<vblex>/increase<vblex>/boost<vblex>$
+#\^.\<sent\> rise<vblex>/increase<vblex>/augment<vblex>/boost<vblex>$
 #\^.\<sent\> race<vblex>/run<vblex>$
 #\^.\<sent\> say<vblex>/tell<vblex>$
 #\^.\<sent\> score<vblex>/mark<vblex>$
 #\^.\<sent\> register<vblex>/record<vblex>/scour<vblex>$
 #\^.\<sent\> seat<vblex>/sit<vblex>/sit# down<vblex>$
-#\^.\<sent\> assure<vblex>/ensure<vblex>/insure<vblex>/secure<vblex>$
+#\^.\<sent\> ensure<vblex>/insure<vblex>/secure<vblex>/assure<vblex>$
 #\^.\<sent\> view<vblex>/see<vblex>$
 #\^.\<sent\> look<vblex>/seem<vblex>/look# like<vblex>$
 #\^.\<sent\> seem<vblex>/look# like<vblex>$
@@ -9553,7 +9546,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> mount<vblex>/ride<vblex>$
 #\^.\<sent\> resolve<vblex>/settle<vblex>/solve<vblex>$
 #\^.\<sent\> peel<vblex>/shell<vblex>$
-#\^.\<sent\> capsize<vblex>/change<vblex>/shift<vblex>/switch<vblex>$
+#\^.\<sent\> change<vblex>/capsize<vblex>/shift<vblex>/switch<vblex>$
 #\^.\<sent\> embark<vblex>/ship<vblex>$
 #\^.\<sent\> shout<vblex>/cry<vblex>$
 #\^.\<sent\> show<vblex>/demonstrate<vblex>$
@@ -9570,7 +9563,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> sort<vblex>/order<vblex>$
 #\^.\<sent\> touch<vblex>/sound<vblex>/play<vblex>$
 #\^.\<sent\> speak<vblex>/discuss<vblex>/talk<vblex>$
-#\^.\<sent\> accelerate<vblex>/speed<vblex>$
+#\^.\<sent\> speed<vblex>/accelerate<vblex>$
 #\^.\<sent\> pass<vblex>/spend<vblex>/happen<vblex>$
 #\^.\<sent\> spin<vblex>/turn<vblex>$
 #\^.\<sent\> spread<vblex>/popularise<vblex>/disseminate<vblex>$
@@ -9590,7 +9583,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> exceed<vblex>/surpass<vblex>$
 #\^.\<sent\> surround<vblex>/zone<vblex>$
 #\^.\<sent\> vow<vblex>/swear<vblex>$
-#\^.\<sent\> capsize<vblex>/change<vblex>/shift<vblex>/switch<vblex>$
+#\^.\<sent\> change<vblex>/capsize<vblex>/shift<vblex>/switch<vblex>$
 #\^.\<sent\> participate<vblex>/take# part<vblex>$
 #\^.\<sent\> speak<vblex>/discuss<vblex>/talk<vblex>$
 #\^.\<sent\> touch<vblex>/tap<vblex>/play<vblex>$
@@ -9628,7 +9621,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> view<vblex>/see<vblex>$
 #\^.\<sent\> tour<vblex>/visit<vblex>$
 #\^.\<sent\> vow<vblex>/swear<vblex>$
-#\^.\<sent\> await<vblex>/hope<vblex>/expect<vblex>/wait<vblex>$
+#\^.\<sent\> hope<vblex>/expect<vblex>/await<vblex>/wait<vblex>$
 #\^.\<sent\> awake<vblex>/wake<vblex>$
 #\^.\<sent\> awake<vblex>/wake<vblex>$
 #\^.\<sent\> awake<vblex>/wake<vblex>$
@@ -9661,8 +9654,8 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> a bit<adv>/some<adv>/mildly<adv>/somewhat<adv>$
 #\^.\<sent\> a lot<adv>/much<adv>/hugely<adv>/dearly<adv>/awfully<adv>/greatly<adv>/very much<adv>$
 #\^.\<sent\> approximately<adv>/about<adv>$
-#\^.\<sent\> above<adv>/uppermost<adv>/on<adv>/over<adv>$
-#\^.\<sent\> absolutely<adv>/utterly<adv>$
+#\^.\<sent\> uppermost<adv>/on<adv>/over<adv>/above<adv>$
+#\^.\<sent\> utterly<adv>/absolutely<adv>$
 #\^.\<sent\> actually<adv>/in fact<adv>/indeed<adv>/as a matter of fact<adv>$
 #\^.\<sent\> profoundly<adv>/acutely<adv>/deeply<adv>$
 #\^.\<sent\> moreover<adv>/besides<adv>/there again<adv>/in addition<adv>/furthermore<adv>/additionally<adv>/into the bargain<adv>$
@@ -9671,7 +9664,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> ahead<adv>/forth<adv>/forward<adv>$
 #\^.\<sent\> everywhere<adv>/all around<adv>$
 #\^.\<sent\> all in all<adv>/in general<adv>/in the main<adv>/overall<adv>/on the whole<adv>/by and large<adv>/in the generality<adv>/generally speaking<adv>$
-#\^.\<sent\> on impulse<adv>/suddenly<adv>/all of a sudden<adv>/out of the blue<adv>$
+#\^.\<sent\> on impulse<adv>/suddenly<adv>/out of the blue<adv>/all of a sudden<adv>$
 #\^.\<sent\> throughout<adv>/all over<adv>$
 #\^.\<sent\> good<adv>/fine<adv>/well<adv>/right<adv>/alright<adv>/all right<adv>$
 #\^.\<sent\> miles better<adv>/much better<adv>/all the better<adv>$
@@ -9685,7 +9678,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> too<adv>/also<adv>/as well<adv>$
 #\^.\<sent\> else<adv>/best<adv>/most<adv>/more<adv>/any more<adv>$
 #\^.\<sent\> aside<adv>/apart<adv>$
-#\^.\<sent\> apparently<adv>/seemingly<adv>$
+#\^.\<sent\> seemingly<adv>/apparently<adv>$
 #\^.\<sent\> approximately<adv>/about<adv>$
 #\^.\<sent\> circa<adv>/around<adv>$
 #\^.\<sent\> actually<adv>/in fact<adv>/indeed<adv>/as a matter of fact<adv>$
@@ -9693,17 +9686,17 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> too<adv>/also<adv>/as well<adv>$
 #\^.\<sent\> as yet<adv>/up to now<adv>/heretofore<adv>/up till now<adv>/up until now<adv>/to this very day<adv>/up to the present<adv>$
 #\^.\<sent\> aside<adv>/apart<adv>$
-#\^.\<sent\> at once<adv>/right away<adv>/right off<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
+#\^.\<sent\> at once<adv>/right off<adv>/right away<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
 #\^.\<sent\> at the same time<adv>/at a time<adv>$
 #\^.\<sent\> each time<adv>/every time<adv>/at every turn<adv>$
-#\^.\<sent\> at hand<adv>/in hand<adv>/on hand<adv>/by hand<adv>/up for grabs<adv>/close at hand<adv>$
+#\^.\<sent\> in hand<adv>/on hand<adv>/at hand<adv>/by hand<adv>/up for grabs<adv>/close at hand<adv>$
 #\^.\<sent\> lastly<adv>/at last<adv>/finally<adv>/eventually<adv>/ultimately<adv>/at long last<adv>$
 #\^.\<sent\> lastly<adv>/at last<adv>/finally<adv>/eventually<adv>/ultimately<adv>/at long last<adv>$
 #\^.\<sent\> at night<adv>/overnight<adv>/during the night<adv>$
-#\^.\<sent\> at once<adv>/right away<adv>/right off<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
-#\^.\<sent\> at present<adv>/currently<adv>$
+#\^.\<sent\> at once<adv>/right off<adv>/right away<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
+#\^.\<sent\> currently<adv>/at present<adv>$
 #\^.\<sent\> initially<adv>/at the beginning<adv>$
-#\^.\<sent\> rapidly<adv>/swiftly<adv>/fast<adv>/full blast<adv>/quickly<adv>/on the doble<adv>/at the double<adv>/on the double<adv>/hand over fist<adv>$
+#\^.\<sent\> rapidly<adv>/quickly<adv>$
 #\^.\<sent\> in front<adv>/to the fore<adv>/in the lead<adv>/to the front<adv>/at the front<adv>$
 #\^.\<sent\> away<adv>/out<adv>/off<adv>/outside<adv>$
 #\^.\<sent\> a lot<adv>/much<adv>/hugely<adv>/dearly<adv>/awfully<adv>/greatly<adv>/very much<adv>$
@@ -9719,23 +9712,20 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> cheerfully<adv>/breezily<adv>$
 #\^.\<sent\> all in all<adv>/in general<adv>/in the main<adv>/overall<adv>/on the whole<adv>/by and large<adv>/in the generality<adv>/generally speaking<adv>$
 #\^.\<sent\> gradually<adv>/by degrees<adv>$
-#\^.\<sent\> at hand<adv>/in hand<adv>/on hand<adv>/by hand<adv>/up for grabs<adv>/close at hand<adv>$
-#\^.\<sent\> at hand<adv>/in hand<adv>/on hand<adv>/by hand<adv>/up for grabs<adv>/close at hand<adv>$
+#\^.\<sent\> in hand<adv>/on hand<adv>/at hand<adv>/by hand<adv>/up for grabs<adv>/close at hand<adv>$
+#\^.\<sent\> in hand<adv>/on hand<adv>/at hand<adv>/by hand<adv>/up for grabs<adv>/close at hand<adv>$
 #\^.\<sent\> frankly<adv>/candidly<adv>/outright<adv>$
 #\^.\<sent\> cheerfully<adv>/breezily<adv>$
 #\^.\<sent\> principally<adv>/chiefly<adv>/mainly<adv>$
 #\^.\<sent\> clearly<adv>/distinctly<adv>$
-#\^.\<sent\> at hand<adv>/in hand<adv>/on hand<adv>/by hand<adv>/up for grabs<adv>/close at hand<adv>$
+#\^.\<sent\> in hand<adv>/on hand<adv>/at hand<adv>/by hand<adv>/up for grabs<adv>/close at hand<adv>$
 #\^.\<sent\> tightly<adv>/closely<adv>$
 #\^.\<sent\> to capacity<adv>/to the ground<adv>/wholly<adv>/flatly<adv>/completely<adv>/all the way<adv>/right through<adv>/roundly<adv>/straight through<adv>$
 #\^.\<sent\> to capacity<adv>/to the ground<adv>/wholly<adv>/flatly<adv>/completely<adv>/all the way<adv>/right through<adv>/roundly<adv>/straight through<adv>$
 #\^.\<sent\> to capacity<adv>/to the ground<adv>/wholly<adv>/flatly<adv>/completely<adv>/all the way<adv>/right through<adv>/roundly<adv>/straight through<adv>$
-#\^.\<sent\> continually<adv>/continuously<adv>/week in week out<adv>/every now and again<adv>$
-#\^.\<sent\> continually<adv>/continuously<adv>/week in week out<adv>/every now and again<adv>$
 #\^.\<sent\> instead<adv>/conversely<adv>$
 #\^.\<sent\> correctly<adv>/rightly<adv>/just right<adv>$
-#\^.\<sent\> correctly<adv>/rightly<adv>/just right<adv>$
-#\^.\<sent\> at present<adv>/currently<adv>$
+#\^.\<sent\> currently<adv>/at present<adv>$
 #\^.\<sent\> daily<adv>/on a day-to-day basis<adv>$
 #\^.\<sent\> a lot<adv>/much<adv>/hugely<adv>/dearly<adv>/awfully<adv>/greatly<adv>/very much<adv>$
 #\^.\<sent\> profoundly<adv>/acutely<adv>/deeply<adv>$
@@ -9759,15 +9749,13 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> yet<adv>/even<adv>/still<adv>$
 #\^.\<sent\> lastly<adv>/at last<adv>/finally<adv>/eventually<adv>/ultimately<adv>/at long last<adv>$
 #\^.\<sent\> ever<adv>/never<adv>$
-#\^.\<sent\> continually<adv>/continuously<adv>/week in week out<adv>/every now and again<adv>$
-#\^.\<sent\> on occasion<adv>/now and then<adv>/now and again<adv>/every so often<adv>/once in a while<adv>/from time to time<adv>/every now and then<adv>$
-#\^.\<sent\> on occasion<adv>/now and then<adv>/now and again<adv>/every so often<adv>/once in a while<adv>/from time to time<adv>/every now and then<adv>$
+#\^.\<sent\> on occasion<adv>/now and then<adv>/now and again<adv>/every so often<adv>/once in a while<adv>/from time to time<adv>$
+#\^.\<sent\> on occasion<adv>/now and then<adv>/now and again<adv>/every so often<adv>/once in a while<adv>/from time to time<adv>$
 #\^.\<sent\> each time<adv>/every time<adv>/at every turn<adv>$
 #\^.\<sent\> everywhere<adv>/all around<adv>$
 #\^.\<sent\> extremely<adv>/exceedingly<adv>/monumentally<adv>$
 #\^.\<sent\> extremely<adv>/exceedingly<adv>/monumentally<adv>$
-#\^.\<sent\> rapidly<adv>/swiftly<adv>/fast<adv>/full blast<adv>/quickly<adv>/on the doble<adv>/at the double<adv>/on the double<adv>/hand over fist<adv>$
-#\^.\<sent\> lastly<adv>/at last<adv>/finally<adv>/eventually<adv>/ultimately<adv>/at long last<adv>$
+#\^.\<sent\> rapidly<adv>/quickly<adv>$
 #\^.\<sent\> good<adv>/fine<adv>/well<adv>/right<adv>/alright<adv>/all right<adv>$
 #\^.\<sent\> firstly<adv>/in the first place<adv>/first and foremost<adv>$
 #\^.\<sent\> firstly<adv>/in the first place<adv>/first and foremost<adv>$
@@ -9779,38 +9767,38 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> mostly<adv>/for the most part<adv>$
 #\^.\<sent\> previously<adv>/formerly<adv>$
 #\^.\<sent\> ahead<adv>/forth<adv>/forward<adv>$
-#\^.\<sent\> at once<adv>/right away<adv>/right off<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
+#\^.\<sent\> at once<adv>/right off<adv>/right away<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
 #\^.\<sent\> fortunately<adv>/happily<adv>/thankfully<adv>/luckily<adv>$
 #\^.\<sent\> ahead<adv>/forth<adv>/forward<adv>$
 #\^.\<sent\> frankly<adv>/to tell the truth<adv>$
 #\^.\<sent\> frankly<adv>/candidly<adv>/outright<adv>$
 #\^.\<sent\> recently<adv>/freshly<adv>$
-#\^.\<sent\> from now on<adv>/henceforth<adv>/henceforward<adv>/hereafter<adv>/hereinafter<adv>/hereby<adv>$
-#\^.\<sent\> on occasion<adv>/now and then<adv>/now and again<adv>/every so often<adv>/once in a while<adv>/from time to time<adv>/every now and then<adv>$
-#\^.\<sent\> rapidly<adv>/swiftly<adv>/fast<adv>/full blast<adv>/quickly<adv>/on the doble<adv>/at the double<adv>/on the double<adv>/hand over fist<adv>$
+#\^.\<sent\> from now on<adv>/henceforth<adv>/henceforward<adv>/hereinafter<adv>/hereafter<adv>/hereby<adv>$
+#\^.\<sent\> on occasion<adv>/now and then<adv>/now and again<adv>/every so often<adv>/once in a while<adv>/from time to time<adv>$
+#\^.\<sent\> rapidly<adv>/quickly<adv>$
 #\^.\<sent\> moreover<adv>/besides<adv>/there again<adv>/in addition<adv>/furthermore<adv>/additionally<adv>/into the bargain<adv>$
 #\^.\<sent\> all in all<adv>/in general<adv>/in the main<adv>/overall<adv>/on the whole<adv>/by and large<adv>/in the generality<adv>/generally speaking<adv>$
 #\^.\<sent\> earnestly<adv>/sincerely<adv>/in fairness<adv>/genuinely<adv>/in all conscience<adv>$
 #\^.\<sent\> good<adv>/fine<adv>/well<adv>/right<adv>/alright<adv>/all right<adv>$
 #\^.\<sent\> gradually<adv>/by degrees<adv>$
 #\^.\<sent\> a lot<adv>/much<adv>/hugely<adv>/dearly<adv>/awfully<adv>/greatly<adv>/very much<adv>$
-#\^.\<sent\> rapidly<adv>/swiftly<adv>/fast<adv>/full blast<adv>/quickly<adv>/on the doble<adv>/at the double<adv>/on the double<adv>/hand over fist<adv>$
+#\^.\<sent\> rapidly<adv>/quickly<adv>$
 #\^.\<sent\> fortunately<adv>/happily<adv>/thankfully<adv>/luckily<adv>$
 #\^.\<sent\> heavily<adv>/strongly<adv>$
-#\^.\<sent\> from now on<adv>/henceforth<adv>/henceforward<adv>/hereafter<adv>/hereinafter<adv>/hereby<adv>$
-#\^.\<sent\> from now on<adv>/henceforth<adv>/henceforward<adv>/hereafter<adv>/hereinafter<adv>/hereby<adv>$
+#\^.\<sent\> from now on<adv>/henceforth<adv>/henceforward<adv>/hereinafter<adv>/hereafter<adv>/hereby<adv>$
+#\^.\<sent\> from now on<adv>/henceforth<adv>/henceforward<adv>/hereinafter<adv>/hereafter<adv>/hereby<adv>$
 #\^.\<sent\> here<adv>/over here<adv>/up to here<adv>$
 #\^.\<sent\> here<adv>/there<adv>/out there<adv>/over there<adv>$
-#\^.\<sent\> from now on<adv>/henceforth<adv>/henceforward<adv>/hereafter<adv>/hereinafter<adv>/hereby<adv>$
-#\^.\<sent\> from now on<adv>/henceforth<adv>/henceforward<adv>/hereafter<adv>/hereinafter<adv>/hereby<adv>$
-#\^.\<sent\> from now on<adv>/henceforth<adv>/henceforward<adv>/hereafter<adv>/hereinafter<adv>/hereby<adv>$
+#\^.\<sent\> from now on<adv>/henceforth<adv>/henceforward<adv>/hereinafter<adv>/hereafter<adv>/hereby<adv>$
+#\^.\<sent\> from now on<adv>/henceforth<adv>/henceforward<adv>/hereinafter<adv>/hereafter<adv>/hereby<adv>$
+#\^.\<sent\> from now on<adv>/henceforth<adv>/henceforward<adv>/hereinafter<adv>/hereafter<adv>/hereby<adv>$
 #\^.\<sent\> as yet<adv>/up to now<adv>/heretofore<adv>/up till now<adv>/up until now<adv>/to this very day<adv>/up to the present<adv>$
 #\^.\<sent\> totally<adv>/hopelessly<adv>$
 #\^.\<sent\> a lot<adv>/much<adv>/hugely<adv>/dearly<adv>/awfully<adv>/greatly<adv>/very much<adv>$
-#\^.\<sent\> at once<adv>/right away<adv>/right off<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
+#\^.\<sent\> at once<adv>/right off<adv>/right away<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
 #\^.\<sent\> in Indian file<adv>/single file<adv>$
 #\^.\<sent\> in a big way<adv>/on a mass scale<adv>/on a large-scale<adv>/on a large scale<adv>$
-#\^.\<sent\> at once<adv>/right away<adv>/right off<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
+#\^.\<sent\> at once<adv>/right off<adv>/right away<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
 #\^.\<sent\> moreover<adv>/besides<adv>/there again<adv>/in addition<adv>/furthermore<adv>/additionally<adv>/into the bargain<adv>$
 #\^.\<sent\> earnestly<adv>/sincerely<adv>/in fairness<adv>/genuinely<adv>/in all conscience<adv>$
 #\^.\<sent\> in conjunction<adv>/jointly<adv>$
@@ -9819,9 +9807,9 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> earnestly<adv>/sincerely<adv>/in fairness<adv>/genuinely<adv>/in all conscience<adv>$
 #\^.\<sent\> in front<adv>/to the fore<adv>/in the lead<adv>/to the front<adv>/at the front<adv>$
 #\^.\<sent\> all in all<adv>/in general<adv>/in the main<adv>/overall<adv>/on the whole<adv>/by and large<adv>/in the generality<adv>/generally speaking<adv>$
-#\^.\<sent\> at hand<adv>/in hand<adv>/on hand<adv>/by hand<adv>/up for grabs<adv>/close at hand<adv>$
+#\^.\<sent\> in hand<adv>/on hand<adv>/at hand<adv>/by hand<adv>/up for grabs<adv>/close at hand<adv>$
 #\^.\<sent\> in kind<adv>/nicely<adv>/kindly<adv>$
-#\^.\<sent\> at once<adv>/right away<adv>/right off<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
+#\^.\<sent\> at once<adv>/right off<adv>/right away<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
 #\^.\<sent\> firstly<adv>/in the first place<adv>/first and foremost<adv>$
 #\^.\<sent\> all in all<adv>/in general<adv>/in the main<adv>/overall<adv>/on the whole<adv>/by and large<adv>/in the generality<adv>/generally speaking<adv>$
 #\^.\<sent\> meantime<adv>/in the interim<adv>/in the meantime<adv>/in the meanwhile<adv>$
@@ -9839,8 +9827,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> instantaneously<adv>/instantly<adv>$
 #\^.\<sent\> instantaneously<adv>/instantly<adv>$
 #\^.\<sent\> instead<adv>/conversely<adv>$
-#\^.\<sent\> interestingly<adv>/interestingly enough<adv>$
-#\^.\<sent\> interestingly<adv>/interestingly enough<adv>$
 #\^.\<sent\> moreover<adv>/besides<adv>/there again<adv>/in addition<adv>/furthermore<adv>/additionally<adv>/into the bargain<adv>$
 #\^.\<sent\> in conjunction<adv>/jointly<adv>$
 #\^.\<sent\> correctly<adv>/rightly<adv>/just right<adv>$
@@ -9852,7 +9838,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> less<adv>/least<adv>$
 #\^.\<sent\> thus<adv>/thereby<adv>/like this<adv>$
 #\^.\<sent\> likely<adv>/probably<adv>$
-#\^.\<sent\> at hand<adv>/in hand<adv>/on hand<adv>/by hand<adv>/up for grabs<adv>/close at hand<adv>$
+#\^.\<sent\> in hand<adv>/on hand<adv>/at hand<adv>/by hand<adv>/up for grabs<adv>/close at hand<adv>$
 #\^.\<sent\> low<adv>/down<adv>/below<adv>/downward<adv>/downstairs<adv>/down below<adv>$
 #\^.\<sent\> fortunately<adv>/happily<adv>/thankfully<adv>/luckily<adv>$
 #\^.\<sent\> principally<adv>/chiefly<adv>/mainly<adv>$
@@ -9875,17 +9861,17 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> near<adv>/near here<adv>$
 #\^.\<sent\> neither<adv>/either<adv>$
 #\^.\<sent\> ever<adv>/never<adv>$
-#\^.\<sent\> next week<adv>/the next week<adv>$
-#\^.\<sent\> next year<adv>/the next year<adv>$
+#\^.\<sent\> the next week<adv>/next week<adv>$
+#\^.\<sent\> the next year<adv>/next year<adv>$
 #\^.\<sent\> in kind<adv>/nicely<adv>/kindly<adv>$
 #\^.\<sent\> barely<adv>/just<adv>/no sooner<adv>/as soon as<adv>$
 #\^.\<sent\> normally<adv>/ordinarily<adv>$
 #\^.\<sent\> normally<adv>/ordinarily<adv>$
-#\^.\<sent\> on occasion<adv>/now and then<adv>/now and again<adv>/every so often<adv>/once in a while<adv>/from time to time<adv>/every now and then<adv>$
-#\^.\<sent\> on occasion<adv>/now and then<adv>/now and again<adv>/every so often<adv>/once in a while<adv>/from time to time<adv>/every now and then<adv>$
+#\^.\<sent\> on occasion<adv>/now and then<adv>/now and again<adv>/every so often<adv>/once in a while<adv>/from time to time<adv>$
+#\^.\<sent\> on occasion<adv>/now and then<adv>/now and again<adv>/every so often<adv>/once in a while<adv>/from time to time<adv>$
 #\^.\<sent\> away<adv>/out<adv>/off<adv>/outside<adv>$
 #\^.\<sent\> officially<adv>/on record<adv>$
-#\^.\<sent\> above<adv>/uppermost<adv>/on<adv>/over<adv>$
+#\^.\<sent\> uppermost<adv>/on<adv>/over<adv>/above<adv>$
 #\^.\<sent\> daily<adv>/on a day-to-day basis<adv>$
 #\^.\<sent\> in a big way<adv>/on a mass scale<adv>/on a large-scale<adv>/on a large scale<adv>$
 #\^.\<sent\> in a big way<adv>/on a mass scale<adv>/on a large-scale<adv>/on a large scale<adv>$
@@ -9893,26 +9879,24 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> on a small scale<adv>/in the short term<adv>/on a short-term basis<adv>$
 #\^.\<sent\> on a small scale<adv>/in the short term<adv>/on a short-term basis<adv>$
 #\^.\<sent\> individually<adv>/on an individual basis<adv>$
-#\^.\<sent\> at hand<adv>/in hand<adv>/on hand<adv>/by hand<adv>/up for grabs<adv>/close at hand<adv>$
-#\^.\<sent\> on impulse<adv>/suddenly<adv>/all of a sudden<adv>/out of the blue<adv>$
-#\^.\<sent\> on occasion<adv>/now and then<adv>/now and again<adv>/every so often<adv>/once in a while<adv>/from time to time<adv>/every now and then<adv>$
+#\^.\<sent\> in hand<adv>/on hand<adv>/at hand<adv>/by hand<adv>/up for grabs<adv>/close at hand<adv>$
+#\^.\<sent\> on impulse<adv>/suddenly<adv>/out of the blue<adv>/all of a sudden<adv>$
+#\^.\<sent\> on occasion<adv>/now and then<adv>/now and again<adv>/every so often<adv>/once in a while<adv>/from time to time<adv>$
 #\^.\<sent\> on purpose<adv>/purposely<adv>$
 #\^.\<sent\> officially<adv>/on record<adv>$
-#\^.\<sent\> rapidly<adv>/swiftly<adv>/fast<adv>/full blast<adv>/quickly<adv>/on the doble<adv>/at the double<adv>/on the double<adv>/hand over fist<adv>$
-#\^.\<sent\> rapidly<adv>/swiftly<adv>/fast<adv>/full blast<adv>/quickly<adv>/on the doble<adv>/at the double<adv>/on the double<adv>/hand over fist<adv>$
-#\^.\<sent\> on the other side<adv>/on the other hand<adv>$
-#\^.\<sent\> on the other side<adv>/on the other hand<adv>$
+#\^.\<sent\> rapidly<adv>/quickly<adv>$
+#\^.\<sent\> rapidly<adv>/quickly<adv>$
 #\^.\<sent\> all in all<adv>/in general<adv>/in the main<adv>/overall<adv>/on the whole<adv>/by and large<adv>/in the generality<adv>/generally speaking<adv>$
 #\^.\<sent\> aloft<adv>/up<adv>/upward<adv>/on top<adv>$
-#\^.\<sent\> on occasion<adv>/now and then<adv>/now and again<adv>/every so often<adv>/once in a while<adv>/from time to time<adv>/every now and then<adv>$
+#\^.\<sent\> on occasion<adv>/now and then<adv>/now and again<adv>/every so often<adv>/once in a while<adv>/from time to time<adv>$
 #\^.\<sent\> solely<adv>/alone<adv>/only<adv>/just<adv>$
 #\^.\<sent\> normally<adv>/ordinarily<adv>$
 #\^.\<sent\> away<adv>/out<adv>/off<adv>/outside<adv>$
-#\^.\<sent\> on impulse<adv>/suddenly<adv>/all of a sudden<adv>/out of the blue<adv>$
+#\^.\<sent\> on impulse<adv>/suddenly<adv>/out of the blue<adv>/all of a sudden<adv>$
 #\^.\<sent\> here<adv>/there<adv>/out there<adv>/over there<adv>$
 #\^.\<sent\> frankly<adv>/candidly<adv>/outright<adv>$
 #\^.\<sent\> away<adv>/out<adv>/off<adv>/outside<adv>$
-#\^.\<sent\> above<adv>/uppermost<adv>/on<adv>/over<adv>$
+#\^.\<sent\> uppermost<adv>/on<adv>/over<adv>/above<adv>$
 #\^.\<sent\> here<adv>/over here<adv>/up to here<adv>$
 #\^.\<sent\> here<adv>/there<adv>/out there<adv>/over there<adv>$
 #\^.\<sent\> all in all<adv>/in general<adv>/in the main<adv>/overall<adv>/on the whole<adv>/by and large<adv>/in the generality<adv>/generally speaking<adv>$
@@ -9925,10 +9909,10 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> likely<adv>/probably<adv>$
 #\^.\<sent\> profoundly<adv>/acutely<adv>/deeply<adv>$
 #\^.\<sent\> on purpose<adv>/purposely<adv>$
-#\^.\<sent\> rapidly<adv>/swiftly<adv>/fast<adv>/full blast<adv>/quickly<adv>/on the doble<adv>/at the double<adv>/on the double<adv>/hand over fist<adv>$
-#\^.\<sent\> rapidly<adv>/swiftly<adv>/fast<adv>/full blast<adv>/quickly<adv>/on the doble<adv>/at the double<adv>/on the double<adv>/hand over fist<adv>$
+#\^.\<sent\> rapidly<adv>/quickly<adv>$
+#\^.\<sent\> rapidly<adv>/quickly<adv>$
 #\^.\<sent\> enough<adv>/rather<adv>/quite a lot<adv>$
-#\^.\<sent\> rapidly<adv>/swiftly<adv>/fast<adv>/full blast<adv>/quickly<adv>/on the doble<adv>/at the double<adv>/on the double<adv>/hand over fist<adv>$
+#\^.\<sent\> rapidly<adv>/quickly<adv>$
 #\^.\<sent\> rarely<adv>/seldom<adv>$
 #\^.\<sent\> enough<adv>/rather<adv>/quite a lot<adv>$
 #\^.\<sent\> reasonably<adv>/within reason<adv>$
@@ -9937,14 +9921,14 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> all in all<adv>/in general<adv>/in the main<adv>/overall<adv>/on the whole<adv>/by and large<adv>/in the generality<adv>/generally speaking<adv>$
 #\^.\<sent\> repeatedly<adv>/time and time again<adv>$
 #\^.\<sent\> good<adv>/fine<adv>/well<adv>/right<adv>/alright<adv>/all right<adv>$
-#\^.\<sent\> at once<adv>/right away<adv>/right off<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
-#\^.\<sent\> at once<adv>/right away<adv>/right off<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
+#\^.\<sent\> at once<adv>/right off<adv>/right away<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
+#\^.\<sent\> at once<adv>/right off<adv>/right away<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
 #\^.\<sent\> to capacity<adv>/to the ground<adv>/wholly<adv>/flatly<adv>/completely<adv>/all the way<adv>/right through<adv>/roundly<adv>/straight through<adv>$
 #\^.\<sent\> correctly<adv>/rightly<adv>/just right<adv>$
 #\^.\<sent\> approximately<adv>/about<adv>$
 #\^.\<sent\> circa<adv>/around<adv>$
 #\^.\<sent\> to capacity<adv>/to the ground<adv>/wholly<adv>/flatly<adv>/completely<adv>/all the way<adv>/right through<adv>/roundly<adv>/straight through<adv>$
-#\^.\<sent\> apparently<adv>/seemingly<adv>$
+#\^.\<sent\> seemingly<adv>/apparently<adv>$
 #\^.\<sent\> rarely<adv>/seldom<adv>$
 #\^.\<sent\> seriously<adv>/in earnest<adv>/to be serious<adv>/seriously now<adv>$
 #\^.\<sent\> seriously<adv>/in earnest<adv>/to be serious<adv>/seriously now<adv>$
@@ -9960,20 +9944,20 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> especially<adv>/specially<adv>$
 #\^.\<sent\> yet<adv>/even<adv>/still<adv>$
 #\^.\<sent\> directly<adv>/straight<adv>$
-#\^.\<sent\> at once<adv>/right away<adv>/right off<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
+#\^.\<sent\> at once<adv>/right off<adv>/right away<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
 #\^.\<sent\> to capacity<adv>/to the ground<adv>/wholly<adv>/flatly<adv>/completely<adv>/all the way<adv>/right through<adv>/roundly<adv>/straight through<adv>$
 #\^.\<sent\> heavily<adv>/strongly<adv>$
 #\^.\<sent\> later<adv>/subsequently<adv>$
 #\^.\<sent\> allegedly<adv>/supposedly<adv>$
 #\^.\<sent\> sure<adv>/for sure<adv>$
-#\^.\<sent\> rapidly<adv>/swiftly<adv>/fast<adv>/full blast<adv>/quickly<adv>/on the doble<adv>/at the double<adv>/on the double<adv>/hand over fist<adv>$
+#\^.\<sent\> rapidly<adv>/quickly<adv>$
 #\^.\<sent\> fortunately<adv>/happily<adv>/thankfully<adv>/luckily<adv>$
-#\^.\<sent\> next week<adv>/the next week<adv>$
-#\^.\<sent\> next year<adv>/the next year<adv>$
-#\^.\<sent\> at once<adv>/right away<adv>/right off<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
+#\^.\<sent\> the next week<adv>/next week<adv>$
+#\^.\<sent\> the next year<adv>/next year<adv>$
+#\^.\<sent\> at once<adv>/right off<adv>/right away<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
 #\^.\<sent\> here<adv>/there<adv>/out there<adv>/over there<adv>$
 #\^.\<sent\> moreover<adv>/besides<adv>/there again<adv>/in addition<adv>/furthermore<adv>/additionally<adv>/into the bargain<adv>$
-#\^.\<sent\> at once<adv>/right away<adv>/right off<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
+#\^.\<sent\> at once<adv>/right off<adv>/right away<adv>/immediately<adv>/in short order<adv>/forthwith<adv>/then and there<adv>/there and then<adv>/in a little while<adv>/at a moment's notice<adv>$
 #\^.\<sent\> after<adv>/thereafter<adv>/afterwards<adv>$
 #\^.\<sent\> thus<adv>/thereby<adv>/like this<adv>$
 #\^.\<sent\> throughout<adv>/all over<adv>$
@@ -9995,16 +9979,15 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> under<adv>/below<adv>/beneath<adv>/underneath<adv>$
 #\^.\<sent\> under<adv>/below<adv>/beneath<adv>/underneath<adv>$
 #\^.\<sent\> aloft<adv>/up<adv>/upward<adv>/on top<adv>$
-#\^.\<sent\> at hand<adv>/in hand<adv>/on hand<adv>/by hand<adv>/up for grabs<adv>/close at hand<adv>$
+#\^.\<sent\> in hand<adv>/on hand<adv>/at hand<adv>/by hand<adv>/up for grabs<adv>/close at hand<adv>$
 #\^.\<sent\> as yet<adv>/up to now<adv>/heretofore<adv>/up till now<adv>/up until now<adv>/to this very day<adv>/up to the present<adv>$
 #\^.\<sent\> here<adv>/over here<adv>/up to here<adv>$
 #\^.\<sent\> as yet<adv>/up to now<adv>/heretofore<adv>/up till now<adv>/up until now<adv>/to this very day<adv>/up to the present<adv>$
 #\^.\<sent\> as yet<adv>/up to now<adv>/heretofore<adv>/up till now<adv>/up until now<adv>/to this very day<adv>/up to the present<adv>$
-#\^.\<sent\> above<adv>/uppermost<adv>/on<adv>/over<adv>$
+#\^.\<sent\> uppermost<adv>/on<adv>/over<adv>/above<adv>$
 #\^.\<sent\> aloft<adv>/up<adv>/upward<adv>/on top<adv>$
-#\^.\<sent\> absolutely<adv>/utterly<adv>$
+#\^.\<sent\> utterly<adv>/absolutely<adv>$
 #\^.\<sent\> a lot<adv>/much<adv>/hugely<adv>/dearly<adv>/awfully<adv>/greatly<adv>/very much<adv>$
-#\^.\<sent\> continually<adv>/continuously<adv>/week in week out<adv>/every now and again<adv>$
 #\^.\<sent\> good<adv>/fine<adv>/well<adv>/right<adv>/alright<adv>/all right<adv>$
 #\^.\<sent\> to capacity<adv>/to the ground<adv>/wholly<adv>/flatly<adv>/completely<adv>/all the way<adv>/right through<adv>/roundly<adv>/straight through<adv>$
 #\^.\<sent\> inside<adv>/within<adv>$
@@ -10016,15 +9999,12 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> neolithic<n>/Neolithic<n>$
 #\^.\<sent\> orienteering<n>/guidance<n>$
 #\^.\<sent\> Inquisition<n>/Inquisition<n>$
-#\^.\<sent\> abbreviation<n>/shortening<n>$
 #\^.\<sent\> abundance<n>/plenty<n>$
-#\^.\<sent\> abuse<n>/misuse<n>$
 #\^.\<sent\> access<n>/approach<n>$
 #\^.\<sent\> accident<n>/incident<n>/crash<n>$
 #\^.\<sent\> housing<n>/accommodation<n>$
 #\^.\<sent\> bead<n>/account<n>$
 #\^.\<sent\> attainment<n>/achievement<n>$
-#\^.\<sent\> shopping<n><sg>/purchase<n><sg>/acquisition<n>$
 #\^.\<sent\> act<n>/record<n>$
 #\^.\<sent\> commercial<n>/announcement<n>/advertisement<n>$
 #\^.\<sent\> address<n>/orientation<n>$
@@ -10033,33 +10013,27 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> tip<n>/council<n>/counsel<n>/advice<n>/board<n>/joint<n>$
 #\^.\<sent\> agency<n>/bureau<n>$
 #\^.\<sent\> degradation<n>/aggravation<n>$
-#\^.\<sent\> contract<n>/agreement<n>$
-#\^.\<sent\> convention<n>/agreement<n>$
-#\^.\<sent\> aid<n>/help<n>$
-#\^.\<sent\> aid<n>/help<n>$
+#\^.\<sent\> help<n>/aid<n>$
 #\^.\<sent\> objective<n>/aim<n>/goal<n>$
-#\^.\<sent\> plane<n>/airliner<n>/airplane<n>$
-#\^.\<sent\> plane<n>/airliner<n>/airplane<n>$
+#\^.\<sent\> plane<n>/airplane<n>$
+#\^.\<sent\> plane<n>/airplane<n>$
 #\^.\<sent\> pension<n>/allowance<n>/retirement<n>/guesthouse<n>$
 #\^.\<sent\> alloy<n>/league<n>$
 #\^.\<sent\> conflict<n>/altercation<n>$
 #\^.\<sent\> amount<n>/quantity<n>$
 #\^.\<sent\> ascendant<n>/ancestor<n>$
 #\^.\<sent\> rabies<n>/anger<n>/hydrophobia<n>$
-#\^.\<sent\> angle<n>/corner<n>$
+#\^.\<sent\> corner<n>/angle<n>$
 #\^.\<sent\> commercial<n>/announcement<n>/advertisement<n>$
 #\^.\<sent\> invitation<n>/announcement<n>$
 #\^.\<sent\> response<n>/reply<n>/answer<n>$
 #\^.\<sent\> anxiety<n>/eagerness<n>$
 #\^.\<sent\> aspect<n>/look<n>/appearance<n>$
-#\^.\<sent\> quotation<n>/appointment<n>$
 #\^.\<sent\> approach<n>/approximation<n>$
-#\^.\<sent\> access<n>/approach<n>$
-#\^.\<sent\> approval<n>/endorsement<n>$
+#\^.\<sent\> endorsement<n>/approval<n>$
 #\^.\<sent\> approach<n>/approximation<n>$
 #\^.\<sent\> arm<n><pl>/weapon<n><sg>/weapon<n><pl>$
 #\^.\<sent\> army<n>/military<n>$
-#\^.\<sent\> detention<n>/arrest<n>$
 #\^.\<sent\> arrival<n>/finish<n>$
 #\^.\<sent\> article<n>/paper<n>$
 #\^.\<sent\> joint<n>/articulation<n>$
@@ -10070,22 +10044,16 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> assistant<n>/deputy<n>$
 #\^.\<sent\> supposition<n>/assumption<n>/guess<n>$
 #\^.\<sent\> assurance<n>/guarantee<n>/warranty<n>/undertaking<n>$
-#\^.\<sent\> attack<n>/stroke<n>$
-#\^.\<sent\> attempt<n>/attack<n>$
+#\^.\<sent\> stroke<n>/attack<n>$
 #\^.\<sent\> attainment<n>/achievement<n>$
-#\^.\<sent\> attempt<n>/attack<n>$
 #\^.\<sent\> attempt<n>/bid<n>$
 #\^.\<sent\> audience<n><ND>/high court<n><ND>$
 #\^.\<sent\> audience<n><ND>/high court<n><ND>$
-#\^.\<sent\> audit<n>/auditing<n>$
-#\^.\<sent\> hold<n>/check<n>/control<n>/monitoring<n>/auditing<n>/audit<n>/regulation<n>$
-#\^.\<sent\> audit<n>/auditing<n>$
-#\^.\<sent\> hold<n>/check<n>/control<n>/monitoring<n>/auditing<n>/audit<n>/regulation<n>$
 #\^.\<sent\> authorisation<n>/permit<n>/permission<n>$
 #\^.\<sent\> auto<n>/machine<n>/car<n>$
-#\^.\<sent\> aversion<n>/hatred<n>/dislike<n>$
+#\^.\<sent\> hatred<n>/aversion<n>/dislike<n>$
 #\^.\<sent\> prize<n>/award<n>$
-#\^.\<sent\> axis<n>/iron<n>$
+#\^.\<sent\> iron<n>/axis<n>$
 #\^.\<sent\> creature<n>/baby<n>$
 #\^.\<sent\> baggage<n>/luggage<n>$
 #\^.\<sent\> balance<n>/equilibrium<n>$
@@ -10109,16 +10077,12 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> betting<n>/bet<n>/gamble<n>$
 #\^.\<sent\> betting<n>/bet<n>/gamble<n>$
 #\^.\<sent\> bicycle<n>/bike<n>$
-#\^.\<sent\> attempt<n>/bid<n>$
 #\^.\<sent\> tender<n>/offer<n>/bid<n>$
 #\^.\<sent\> bicycle<n>/bike<n>$
 #\^.\<sent\> invoice<n>/bill<n>$
 #\^.\<sent\> cube<n>/pail<n>/bin<n>/bucket<n>$
-#\^.\<sent\> natality<n><ND>/birth<n><ND>$
-#\^.\<sent\> natality<n><ND>/birth<n><ND>$
 #\^.\<sent\> biscuit<n>/cookie<n>$
 #\^.\<sent\> bite<n>/snack<n>$
-#\^.\<sent\> leaf<n>/blade<n>$
 #\^.\<sent\> sheet<n>/blade<n>/sheet# of paper<n>$
 #\^.\<sent\> space<n>/blank<n>$
 #\^.\<sent\> cover<n>/blanket<n>$
@@ -10173,14 +10137,14 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> auto<n>/machine<n>/car<n>$
 #\^.\<sent\> card<n>/menu<n>/paper<n>/letter<n>$
 #\^.\<sent\> care<n>/cure<n>/priest<n>$
-#\^.\<sent\> career<n>/race<n>/run<n>$
+#\^.\<sent\> career<n>/run<n>/race<n>$
 #\^.\<sent\> transport<n>/carriage<n>/transportation<n>$
 #\^.\<sent\> case<n>/chance<n>/instance<n>/confirmation<n>$
 #\^.\<sent\> case<n>/suitcase<n>$
 #\^.\<sent\> casserole<n>/pan<n>$
 #\^.\<sent\> cast<n>/mould<n>/mold<n>$
 #\^.\<sent\> foundry<n>/casting<n>$
-#\^.\<sent\> catarrh<n>/cold<n>$
+#\^.\<sent\> cold<n>/catarrh<n>$
 #\^.\<sent\> cattle<n>/livestock<n>$
 #\^.\<sent\> roof<n>/ceiling<n>$
 #\^.\<sent\> transfer<n>/removal<n>/cession<n>$
@@ -10199,7 +10163,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> persecution<n>/pursuit<n>/chase<n>$
 #\^.\<sent\> talk<n>/chat<n>$
 #\^.\<sent\> trap<n>/cheat<n>$
-#\^.\<sent\> hold<n>/check<n>/control<n>/monitoring<n>/auditing<n>/audit<n>/regulation<n>$
 #\^.\<sent\> pharmacy<n>/chemist's<n>/drugstore<n>$
 #\^.\<sent\> breast<n>/chest<n>$
 #\^.\<sent\> gallon<n>/chevron<n>$
@@ -10229,7 +10192,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> code<n>/key<n>$
 #\^.\<sent\> money<n>/coin<n>$
 #\^.\<sent\> chill<n>/cold<n>$
-#\^.\<sent\> catarrh<n>/cold<n>$
+#\^.\<sent\> cold<n>/catarrh<n>$
 #\^.\<sent\> order<n>/command<n>$
 #\^.\<sent\> order<n>/command<n>$
 #\^.\<sent\> trade<n>/trading<n>/commerce<n>$
@@ -10247,15 +10210,13 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> building<n>/construction<n>$
 #\^.\<sent\> surgery<n>/inquiry<n>/query<n>/consultation<n>$
 #\^.\<sent\> contest<n>/opposition<n>$
-#\^.\<sent\> contract<n>/agreement<n>$
-#\^.\<sent\> hold<n>/check<n>/control<n>/monitoring<n>/auditing<n>/audit<n>/regulation<n>$
 #\^.\<sent\> convention<n>/agreement<n>$
 #\^.\<sent\> cooker<n>/cooking<n>/stove<n>/kitchen<n>$
 #\^.\<sent\> biscuit<n>/cookie<n>$
 #\^.\<sent\> cooker<n>/cooking<n>/stove<n>/kitchen<n>$
 #\^.\<sent\> choral<n>/coral<n>$
 #\^.\<sent\> nucleus<n>/core<n>$
-#\^.\<sent\> angle<n>/corner<n>$
+#\^.\<sent\> corner<n>/angle<n>$
 #\^.\<sent\> monarchy<n>/coronation<n>$
 #\^.\<sent\> corps<n>/body<n>$
 #\^.\<sent\> costume<n>/clothes<n><pl>/clothing<n>/cloth<n><pl>/suit<n>$
@@ -10267,6 +10228,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> hit<n>/coup<n>/stroke<n>/knock<n>/bump<n>/blow<n>$
 #\^.\<sent\> coupon<n>/voucher<n>$
 #\^.\<sent\> march<n>/course<n>/gear<n>/departure<n>$
+#\^.\<sent\> cut<n>/court<n>$
 #\^.\<sent\> yard<n>/playground<n>$
 #\^.\<sent\> cover<n>/blanket<n>$
 #\^.\<sent\> covering<n>/coverage<n>$
@@ -10287,6 +10249,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> custody<n>/deposit<n>/safekeeping<n>$
 #\^.\<sent\> custom<n>/habit<n>$
 #\^.\<sent\> client<n>/customer<n>$
+#\^.\<sent\> cut<n>/court<n>$
 #\^.\<sent\> cut<n>/edge<n>/strand<n>$
 #\^.\<sent\> plate<n>/cymbal<n>/dish<n>$
 #\^.\<sent\> newspaper<n>/daily newspaper<n>$
@@ -10312,9 +10275,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> desktop<n>/desk<n>$
 #\^.\<sent\> fate<n>/destination<n>$
 #\^.\<sent\> destination<n>/fate<n>$
-#\^.\<sent\> destination<n>/fate<n>$
 #\^.\<sent\> investigator<n>/detective<n>$
-#\^.\<sent\> detention<n>/arrest<n>$
 #\^.\<sent\> uncoiling<n>/development<n>$
 #\^.\<sent\> diagram<n>/scheme<n>$
 #\^.\<sent\> dialogue<n>/dialog<n>$
@@ -10327,7 +10288,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> disease<n>/illness<n>$
 #\^.\<sent\> plate<n>/cymbal<n>/dish<n>$
 #\^.\<sent\> disc<n>/disk<n>$
-#\^.\<sent\> aversion<n>/hatred<n>/dislike<n>$
+#\^.\<sent\> hatred<n>/aversion<n>/dislike<n>$
 #\^.\<sent\> disorder<n>/mess<n>$
 #\^.\<sent\> administration<n>/dispensation<n>$
 #\^.\<sent\> disposal<n>/distribution<n>/regulation<n>/willingness<n>$
@@ -10358,7 +10319,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> broadcast<n>/emission<n>/release<n>$
 #\^.\<sent\> emotion<n>/thrill<n>/excitement<n>$
 #\^.\<sent\> use<n>/employment<n>$
-#\^.\<sent\> approval<n>/endorsement<n>$
+#\^.\<sent\> endorsement<n>/approval<n>$
 #\^.\<sent\> energy<n>/power<n>$
 #\^.\<sent\> engagement<n>/commitment<n>$
 #\^.\<sent\> engine<n>/motor<n>$
@@ -10389,8 +10350,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> failure<n>/bankruptcy<n>$
 #\^.\<sent\> grease<n>/fat<n>$
 #\^.\<sent\> fate<n>/destination<n>$
-#\^.\<sent\> destination<n>/fate<n>$
-#\^.\<sent\> destination<n>/fate<n>$
 #\^.\<sent\> father<n>/parent<n>$
 #\^.\<sent\> feature<n>/characteristic<n>$
 #\^.\<sent\> field<n>/countryside<n>$
@@ -10490,14 +10449,13 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> letter<n>/handwriting<n>$
 #\^.\<sent\> port<n>/harbour<n>$
 #\^.\<sent\> hat<n>/bonnet<n>$
-#\^.\<sent\> aversion<n>/hatred<n>/dislike<n>$
+#\^.\<sent\> hatred<n>/aversion<n>/dislike<n>$
 #\^.\<sent\> holder<n>/headline<n>$
 #\^.\<sent\> heart<n>/sinus<n>/breast<n>$
 #\^.\<sent\> heating<n>/warming<n>$
 #\^.\<sent\> heaven<n>/sky<n>$
 #\^.\<sent\> height<n>/stature<n>$
-#\^.\<sent\> aid<n>/help<n>$
-#\^.\<sent\> aid<n>/help<n>$
+#\^.\<sent\> help<n>/aid<n>$
 #\^.\<sent\> lethargy<n>/hibernation<n>$
 #\^.\<sent\> clue<n>/track<n>/hint<n>$
 #\^.\<sent\> hire<n>/rental<n>/rent<n>$
@@ -10505,7 +10463,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> hit<n>/coup<n>/stroke<n>/knock<n>/bump<n>/blow<n>$
 #\^.\<sent\> hit<n>/impact<n>$
 #\^.\<sent\> hit<n>/success<n>$
-#\^.\<sent\> hold<n>/check<n>/control<n>/monitoring<n>/auditing<n>/audit<n>/regulation<n>$
 #\^.\<sent\> holder<n>/headline<n>$
 #\^.\<sent\> house<n>/home<n>/household<n>$
 #\^.\<sent\> hostess<n>/guest<n>$
@@ -10549,17 +10506,15 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> invitation<n>/announcement<n>$
 #\^.\<sent\> invoice<n>/bill<n>$
 #\^.\<sent\> implication<n>/involvement<n>$
-#\^.\<sent\> axis<n>/iron<n>$
+#\^.\<sent\> iron<n>/axis<n>$
 #\^.\<sent\> irrigation<n>/watering<n>$
 #\^.\<sent\> irrigation<n>/watering<n>$
 #\^.\<sent\> element<n>/item<n>$
 #\^.\<sent\> lockup<n>/prison<n>/jail<n>$
 #\^.\<sent\> aspic<n>/jelly<n>$
 #\^.\<sent\> prank<n>/jest<n>$
-#\^.\<sent\> labour<n>/work<n>/job<n>$
 #\^.\<sent\> joint<n>/articulation<n>$
 #\^.\<sent\> review<n>/magazine<n>/journal<n>$
-#\^.\<sent\> travel<n>/trip<n>/voyage<n>/journey<n>$
 #\^.\<sent\> magistrate<n>/judge<n>$
 #\^.\<sent\> trial<n>/judgement<n>$
 #\^.\<sent\> leap<n>/jump<n>$
@@ -10574,7 +10529,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> node<n>/knot<n>$
 #\^.\<sent\> laboratory<n>/lab<n>$
 #\^.\<sent\> laboratory<n>/lab<n>$
-#\^.\<sent\> labour<n>/work<n>/job<n>$
 #\^.\<sent\> tin<n>/lake<n>$
 #\^.\<sent\> earth<n>/ground<n>/land<n>$
 #\^.\<sent\> way<n>/path<n>/lane<n>$
@@ -10598,13 +10552,11 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> lethargy<n>/hibernation<n>$
 #\^.\<sent\> card<n>/menu<n>/paper<n>/letter<n>$
 #\^.\<sent\> letter<n>/handwriting<n>$
-#\^.\<sent\> link<n>/liaison<n>$
 #\^.\<sent\> liberation<n>/release<n>$
 #\^.\<sent\> elevator<n>/lift<n>$
 #\^.\<sent\> impulse<n>/lift<n>/boost<n>/urge<n>/spurt<n>$
 #\^.\<sent\> lime<n>/file<n>$
 #\^.\<sent\> surname<n>/lineage<n>$
-#\^.\<sent\> link<n>/liaison<n>$
 #\^.\<sent\> connection<n>/linkage<n>$
 #\^.\<sent\> lip<n>/lip<n><sg>$
 #\^.\<sent\> lip<n>/lip<n><pl>$
@@ -10659,7 +10611,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> microwave<n>/microwave<n><ND>$
 #\^.\<sent\> army<n>/military<n>$
 #\^.\<sent\> fog<n>/mist<n>$
-#\^.\<sent\> abuse<n>/misuse<n>$
 #\^.\<sent\> mix<n>/melange<n>$
 #\^.\<sent\> mode<n>/mood<n>/way<n>$
 #\^.\<sent\> module<n>/form<n>$
@@ -10667,7 +10618,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> monarchy<n>/coronation<n>$
 #\^.\<sent\> money<n>/coin<n>$
 #\^.\<sent\> screen<n>/monitor<n>$
-#\^.\<sent\> hold<n>/check<n>/control<n>/monitoring<n>/auditing<n>/audit<n>/regulation<n>$
 #\^.\<sent\> memorial<n>/monument<n>$
 #\^.\<sent\> humour<n>/mood<n>$
 #\^.\<sent\> mode<n>/mood<n>/way<n>$
@@ -10762,16 +10712,16 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> tone<n>/pitch<n>/key<n>$
 #\^.\<sent\> pity<n><sg>/penalty<n><sg>$
 #\^.\<sent\> place<n>/site<n>/spot<n>$
-#\^.\<sent\> placer<n>/pleasure<n>$
+#\^.\<sent\> pleasure<n>/placer<n>$
 #\^.\<sent\> plane<n>/plan<n>$
-#\^.\<sent\> plane<n>/airliner<n>/airplane<n>$
+#\^.\<sent\> plane<n>/airplane<n>$
 #\^.\<sent\> plane<n>/plan<n>$
 #\^.\<sent\> implant<n>/facility<n><pl>/plantation<n>/installation<n>$
 #\^.\<sent\> plate<n>/cymbal<n>/dish<n>$
 #\^.\<sent\> game<n>/play<n>/gambling<n>$
 #\^.\<sent\> interpreter<n>/performer<n>/player<n>$
 #\^.\<sent\> yard<n>/playground<n>$
-#\^.\<sent\> placer<n>/pleasure<n>$
+#\^.\<sent\> pleasure<n>/placer<n>$
 #\^.\<sent\> promise<n>/pledge<n>/pledging<n>$
 #\^.\<sent\> promise<n>/pledge<n>/pledging<n>$
 #\^.\<sent\> abundance<n>/plenty<n>$
@@ -10849,7 +10799,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> quotation<n>/appointment<n>$
 #\^.\<sent\> rabies<n>/anger<n>/hydrophobia<n>$
 #\^.\<sent\> race<n>/breed<n>$
-#\^.\<sent\> career<n>/race<n>/run<n>$
+#\^.\<sent\> career<n>/run<n>/race<n>$
 #\^.\<sent\> radio<n><ND>/radium<n>$
 #\^.\<sent\> radio<n><ND>/radium<n>$
 #\^.\<sent\> radio<n><ND>/radium<n>$
@@ -10870,7 +10820,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> consideration<n>/regard<n>$
 #\^.\<sent\> regime<n>/diet<n>/luck<n>$
 #\^.\<sent\> register<n>/recording<n>/record<n>$
-#\^.\<sent\> hold<n>/check<n>/control<n>/monitoring<n>/auditing<n>/audit<n>/regulation<n>$
 #\^.\<sent\> disposal<n>/distribution<n>/regulation<n>/willingness<n>$
 #\^.\<sent\> essay<n>/rehearsal<n>$
 #\^.\<sent\> relation<n>/report<n>/account<n>/relationship<n>$
@@ -10921,7 +10870,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> rubbish<n><sg>/garbage<n><sg>$
 #\^.\<sent\> principle<n>/rule<n>$
 #\^.\<sent\> gobernante<n>/ruler<n>$
-#\^.\<sent\> career<n>/race<n>/run<n>$
+#\^.\<sent\> career<n>/run<n>/race<n>$
 #\^.\<sent\> custody<n>/deposit<n>/safekeeping<n>$
 #\^.\<sent\> safety<n>/security<n>$
 #\^.\<sent\> candle<n>/sail<n>$
@@ -10962,7 +10911,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> expense<n>/shopping<n>/purchase<n>$
 #\^.\<sent\> shopping<n><sg>/purchase<n><sg>/acquisition<n>$
 #\^.\<sent\> shopping<n><sg>/purchase<n><sg>$
-#\^.\<sent\> abbreviation<n>/shortening<n>$
 #\^.\<sent\> show<n>/performance<n>/gig<n>$
 #\^.\<sent\> side<n>/canton<n>$
 #\^.\<sent\> signal<n>/sign<n>$
@@ -11017,7 +10965,7 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> force<n>/strength<n>$
 #\^.\<sent\> tension<n>/stress<n>/strain<n>$
 #\^.\<sent\> string<n>/rope<n>$
-#\^.\<sent\> attack<n>/stroke<n>$
+#\^.\<sent\> stroke<n>/attack<n>$
 #\^.\<sent\> hit<n>/coup<n>/stroke<n>/knock<n>/bump<n>/blow<n>$
 #\^.\<sent\> trace<n>/stroke<n>$
 #\^.\<sent\> structure<n>/frame<n>$
@@ -11044,7 +10992,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> custody<n>/deposit<n>/safekeeping<n>$
 #\^.\<sent\> tap<n>/griffin<n>$
 #\^.\<sent\> objective<n>/aim<n>/goal<n>$
-#\^.\<sent\> labour<n>/work<n>/job<n>$
 #\^.\<sent\> team<n>/gear<n>$
 #\^.\<sent\> telephone<n>/phone<n>$
 #\^.\<sent\> staff<n>/team<n>/template<n>$
@@ -11088,11 +11035,9 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> transport<n>/carriage<n>/transportation<n>$
 #\^.\<sent\> transport<n>/carriage<n>/transportation<n>$
 #\^.\<sent\> trap<n>/cheat<n>$
-#\^.\<sent\> travel<n>/trip<n>/voyage<n>/journey<n>$
 #\^.\<sent\> tendency<n>/trend<n>$
 #\^.\<sent\> trial<n>/judgement<n>$
 #\^.\<sent\> proof<n>/trial<n>/test<n>$
-#\^.\<sent\> travel<n>/trip<n>/voyage<n>/journey<n>$
 #\^.\<sent\> problem<n>/trouble<n>/question<n>$
 #\^.\<sent\> pants<n>/trousers<n>$
 #\^.\<sent\> truck<n>/lorry<n>$
@@ -11114,7 +11059,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> version<n>/release<n>$
 #\^.\<sent\> boat<n>/vessel<n>$
 #\^.\<sent\> coupon<n>/voucher<n>$
-#\^.\<sent\> travel<n>/trip<n>/voyage<n>/journey<n>$
 #\^.\<sent\> salary<n>/wage<n>$
 #\^.\<sent\> promenade<n>/drive<n>/ride<n>/walk<n>$
 #\^.\<sent\> cabinet<n>/cupboard<n>/closet<n>/wardrobe<n>$
@@ -11142,7 +11086,6 @@ ALTRES ERRADES DE BILINGÜE
 #\^.\<sent\> forest<n>/wood<n><pl>/wood<n><sg>$
 #\^.\<sent\> forest<n>/wood<n><pl>/wood<n><sg>$
 #\^.\<sent\> lumber<n>/wood<n><sg>$
-#\^.\<sent\> labour<n>/work<n>/job<n>$
 #\^.\<sent\> concern<n>/worry<n>$
 #\^.\<sent\> total<n>/value<n>/courage<n>/worth<n>$
 #\^.\<sent\> doll<n>/wrist<n>$

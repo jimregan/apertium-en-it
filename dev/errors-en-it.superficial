@@ -13,7 +13,6 @@
 ^.<sent>$ ^much<det><qnt><sg>$	. #Molto\<det\>\<ind\>
 ^.<sent>$ ^no<det><ind><sp>$	. #Nessuno\<det\>\<ind\>
 ^.<sent>$ ^other<det><ind><sp>$	. #Un altro\<det\>\<ind\>
-^.<sent>$ ^our<det><pos><sp>$	. #Il nostro\<det\>\<pos\>
 ^.<sent>$ ^so much<det><qnt><sg>$	. \@So much\<det\>
 ^.<sent>$ ^some<det><qnt><sp>$	. #Alcun\<det\>\<ind\>
 ^.<sent>$ ^the same<det><ind><sp>$	. \@The same\<det\>\<ind\>\<sp\>
@@ -289,11 +288,6 @@
 ^.<sent>$ ^accountant<n><pl>$ ^'s<gen>$	. \@Accountant\<n\> 
 ^.<sent>$ ^accountant<n><sg>$	. \@Accountant\<n\>
 ^.<sent>$ ^accountant<n><pl>$	. \@Accountant\<n\>
-^.<sent>$ ^activist<n><sg>$	. #Attivista\<n\>\<mf\>\<sg\>
-^.<sent>$ ^activist<n><pl>$	. #Attivista\<n\>\<mf\>\<pl\>
-^.<sent>$ ^activist<n><pl>$ ^'s<gen>$	. #Attivista\<n\>\<mf\>\<pl\> 
-^.<sent>$ ^activist<n><sg>$	. #Attivista\<n\>\<mf\>\<sg\>
-^.<sent>$ ^activist<n><pl>$	. #Attivista\<n\>\<mf\>\<pl\>
 ^.<sent>$ ^adapter<n><sg>$	. \@Adapter\<n\>
 ^.<sent>$ ^adapter<n><pl>$	. \@Adapter\<n\>
 ^.<sent>$ ^adapter<n><pl>$ ^'s<gen>$	. \@Adapter\<n\> 
@@ -398,11 +392,6 @@
 ^.<sent>$ ^aide<n><pl>$ ^'s<gen>$	. \@Aide\<n\> 
 ^.<sent>$ ^aide<n><sg>$	. \@Aide\<n\>
 ^.<sent>$ ^aide<n><pl>$	. \@Aide\<n\>
-^.<sent>$ ^air<n><sg>$	. #Aria\<n\>\<m\>\<sg\>
-^.<sent>$ ^air<n><pl>$	. #Aria\<n\>\<m\>\<pl\>
-^.<sent>$ ^air<n><pl>$ ^'s<gen>$	. #Aria\<n\>\<m\>\<pl\> 
-^.<sent>$ ^air<n><sg>$	. #Aria\<n\>\<m\>\<sg\>
-^.<sent>$ ^air<n><pl>$	. #Aria\<n\>\<m\>\<pl\>
 ^.<sent>$ ^alarmism<n><sg>$	. \@Alarmism\<n\>
 ^.<sent>$ ^alarmism<n><pl>$	. \@Alarmism\<n\>
 ^.<sent>$ ^alarmism<n><pl>$ ^'s<gen>$	. \@Alarmism\<n\> 
@@ -520,11 +509,6 @@
 ^.<sent>$ ^appropriation<n><pl>$ ^'s<gen>$	. \@Appropriation\<n\> 
 ^.<sent>$ ^appropriation<n><sg>$	. \@Appropriation\<n\>
 ^.<sent>$ ^appropriation<n><pl>$	. \@Appropriation\<n\>
-^.<sent>$ ^apricot<n><sg>$	. #Albicocca\<n\>\<m\>\<sg\>
-^.<sent>$ ^apricot<n><pl>$	. #Albicocca\<n\>\<m\>\<pl\>
-^.<sent>$ ^apricot<n><pl>$ ^'s<gen>$	. #Albicocca\<n\>\<m\>\<pl\> 
-^.<sent>$ ^apricot<n><sg>$	. #Albicocca\<n\>\<m\>\<sg\>
-^.<sent>$ ^apricot<n><pl>$	. #Albicocca\<n\>\<m\>\<pl\>
 ^.<sent>$ ^aptitude<n><sg>$	. \@Aptitude\<n\>
 ^.<sent>$ ^aptitude<n><pl>$	. \@Aptitude\<n\>
 ^.<sent>$ ^aptitude<n><pl>$ ^'s<gen>$	. \@Aptitude\<n\> 
@@ -560,11 +544,6 @@
 ^.<sent>$ ^arrested person<n><pl>$ ^'s<gen>$	. \@Arrested person\<n\> 
 ^.<sent>$ ^arrested person<n><sg>$	. \@Arrested person\<n\>
 ^.<sent>$ ^arrested person<n><pl>$	. \@Arrested person\<n\>
-^.<sent>$ ^art<n><sg>$	. #Arte\<n\>\<mf\>\<sg\>
-^.<sent>$ ^art<n><pl>$	. #Arte\<n\>\<mf\>\<pl\>
-^.<sent>$ ^art<n><pl>$ ^'s<gen>$	. #Arte\<n\>\<mf\>\<pl\> 
-^.<sent>$ ^art<n><sg>$	. #Arte\<n\>\<mf\>\<sg\>
-^.<sent>$ ^art<n><pl>$	. #Arte\<n\>\<mf\>\<pl\>
 ^.<sent>$ ^artifact<n><sg>$	. \@Artifact\<n\>
 ^.<sent>$ ^artifact<n><pl>$	. \@Artifact\<n\>
 ^.<sent>$ ^artifact<n><pl>$ ^'s<gen>$	. \@Artifact\<n\> 
@@ -615,16 +594,6 @@
 ^.<sent>$ ^audio<n><pl>$ ^'s<gen>$	. \@Audio\<n\> 
 ^.<sent>$ ^audio<n><sg>$	. \@Audio\<n\>
 ^.<sent>$ ^audio<n><pl>$	. \@Audio\<n\>
-^.<sent>$ ^audit<n><sg>$	. #Audit\<n\>\<f\>\<sg\>
-^.<sent>$ ^audit<n><pl>$	. #Audit\<n\>\<f\>\<pl\>
-^.<sent>$ ^audit<n><pl>$ ^'s<gen>$	. #Audit\<n\>\<f\>\<pl\> 
-^.<sent>$ ^audit<n><sg>$	. #Audit\<n\>\<f\>\<sg\>
-^.<sent>$ ^audit<n><pl>$	. #Audit\<n\>\<f\>\<pl\>
-^.<sent>$ ^auditing<n><sg>$	. #Audit\<n\>\<f\>\<sg\>
-^.<sent>$ ^auditing<n><pl>$	. #Audit\<n\>\<f\>\<pl\>
-^.<sent>$ ^auditing<n><pl>$ ^'s<gen>$	. #Audit\<n\>\<f\>\<pl\> 
-^.<sent>$ ^auditing<n><sg>$	. #Audit\<n\>\<f\>\<sg\>
-^.<sent>$ ^auditing<n><pl>$	. #Audit\<n\>\<f\>\<pl\>
 ^.<sent>$ ^auditor<n><sg>$	. \@Auditor\<n\>
 ^.<sent>$ ^auditor<n><pl>$	. \@Auditor\<n\>
 ^.<sent>$ ^auditor<n><pl>$ ^'s<gen>$	. \@Auditor\<n\> 
@@ -692,11 +661,6 @@
 ^.<sent>$ ^bakery<n><pl>$ ^'s<gen>$	. \@Bakery\<n\> 
 ^.<sent>$ ^bakery<n><sg>$	. \@Bakery\<n\>
 ^.<sent>$ ^bakery<n><pl>$	. \@Bakery\<n\>
-^.<sent>$ ^banana<n><sg>$	. #Banana\<n\>\<m\>\<sg\>
-^.<sent>$ ^banana<n><pl>$	. #Banana\<n\>\<m\>\<pl\>
-^.<sent>$ ^banana<n><pl>$ ^'s<gen>$	. #Banana\<n\>\<m\>\<pl\> 
-^.<sent>$ ^banana<n><sg>$	. #Banana\<n\>\<m\>\<sg\>
-^.<sent>$ ^banana<n><pl>$	. #Banana\<n\>\<m\>\<pl\>
 ^.<sent>$ ^bang<n><sg>$	. \@Bang\<n\>
 ^.<sent>$ ^bang<n><pl>$	. \@Bang\<n\>
 ^.<sent>$ ^bang<n><pl>$ ^'s<gen>$	. \@Bang\<n\> 
@@ -1929,11 +1893,6 @@
 ^.<sent>$ ^courage<n><pl>$ ^'s<gen>$	. \@Courage\<n\> 
 ^.<sent>$ ^courage<n><sg>$	. \@Courage\<n\>
 ^.<sent>$ ^courage<n><pl>$	. \@Courage\<n\>
-^.<sent>$ ^court<n><sg>$	. #Taglio\<n\>\<f\>\<sg\>
-^.<sent>$ ^court<n><pl>$	. #Taglio\<n\>\<f\>\<pl\>
-^.<sent>$ ^court<n><pl>$ ^'s<gen>$	. #Taglio\<n\>\<f\>\<pl\> 
-^.<sent>$ ^court<n><sg>$	. #Taglio\<n\>\<f\>\<sg\>
-^.<sent>$ ^court<n><pl>$	. #Taglio\<n\>\<f\>\<pl\>
 ^.<sent>$ ^high court<n><sg>$	. \@High court\<n\>
 ^.<sent>$ ^cousin<n><sg>$	. \@Cousin\<n\>
 ^.<sent>$ ^cousin<n><pl>$	. \@Cousin\<n\>
@@ -3020,19 +2979,12 @@
 ^.<sent>$ ^fast<n><pl>$ ^'s<gen>$	. \@Fast\<n\> 
 ^.<sent>$ ^fast<n><sg>$	. \@Fast\<n\>
 ^.<sent>$ ^fast<n><pl>$	. \@Fast\<n\>
-^.<sent>$ ^father<n><sg>$	. #Padre\<n\>
-^.<sent>$ ^father<n><sg>$	. #Padre\<n\>
 ^.<sent>$ ^favouritism<n><pl>$ ^'s<gen>$	. \@Favouritism\<n\> 
 ^.<sent>$ ^favouritism<n><pl>$ ^'s<gen>$	. \@Favouritism\<n\> 
 ^.<sent>$ ^favouritism<n><sg>$	. \@Favouritism\<n\>
 ^.<sent>$ ^favouritism<n><pl>$	. \@Favouritism\<n\>
 ^.<sent>$ ^favouritism<n><sg>$	. \@Favouritism\<n\>
 ^.<sent>$ ^favouritism<n><pl>$	. \@Favouritism\<n\>
-^.<sent>$ ^fear<n><sg>$	. #Paura\<n\>\<m\>\<sg\>
-^.<sent>$ ^fear<n><pl>$	. #Paura\<n\>\<m\>\<pl\>
-^.<sent>$ ^fear<n><pl>$ ^'s<gen>$	. #Paura\<n\>\<m\>\<pl\> 
-^.<sent>$ ^fear<n><sg>$	. #Paura\<n\>\<m\>\<sg\>
-^.<sent>$ ^fear<n><pl>$	. #Paura\<n\>\<m\>\<pl\>
 ^.<sent>$ ^feces<n><pl>$	. \@Feces\<n\>
 ^.<sent>$ ^feces<n><pl>$ ^'s<gen>$	. \@Feces\<n\> 
 ^.<sent>$ ^feces<n><pl>$	. \@Feces\<n\>
@@ -8867,7 +8819,6 @@
 ^.<sent>$ ^dictatorial<adj>$	. \@Dictatorial\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^didactic<adj>$	. \@Didactic\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^dietary<adj>$	. \@Dietary\<adj\>\<m\>\<sg\>
-^.<sent>$ ^different<adj>$	. #Diverso\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^differential<adj>$	. \@Differential\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^digestive<adj>$	. \@Digestive\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^dirty<adj><sint>$	. \@Dirty\<adj\>\<m\>\<sg\>
@@ -13938,7 +13889,7 @@
 ^.<sent>$ ^alike<adv>$	. \@Alike\<adv\>
 ^.<sent>$ ^all in one breath<adv>$	. \@All in one breath\<adv\>
 ^.<sent>$ ^amid a lot of hype<adv>$	. \@Amid a lot of hype\<adv\>
-^.<sent>$ ^around<adv>$	. #Circa\<adv\>\/attorno\<adv\>\/intorno\<adv\>
+^.<sent>$ ^around<adv>$	. #Circa\<adv\>\/intorno\<adv\>\/attorno\<adv\>
 ^.<sent>$ ^aside<adv>$	. #A parte\<adv\>\/da parte\<adv\>
 ^.<sent>$ ^at all<adv>$	. \@At all\<adv\>
 ^.<sent>$ ^at one stroke<adv>$	. \@At one stroke\<adv\>
@@ -13991,12 +13942,8 @@
 ^.<sent>$ ^even<adv>$	. #Ancora\<adv\>\/incluso\<adv\>
 ^.<sent>$ ^ever before<adv>$	. \@Ever before\<adv\>
 ^.<sent>$ ^never before<adv>$	. \@Never before\<adv\>
+^.<sent>$ ^every now and again<adv>$	. \@Every now and again\<adv\>
 ^.<sent>$ ^falsely<adv>$	. \@Falsely\<adv\>
-^.<sent>$ ^finally<adv>$	. #Infine\<adv\>\/finalmente\<adv\>
-^.<sent>$ ^finally<adv>$	. #Infine\<adv\>\/finalmente\<adv\>
-^.<sent>$ ^finally<adv>$	. #Infine\<adv\>\/finalmente\<adv\>
-^.<sent>$ ^finally<adv>$	. #Infine\<adv\>\/finalmente\<adv\>
-^.<sent>$ ^finally<adv>$	. #Infine\<adv\>\/finalmente\<adv\>
 ^.<sent>$ ^first<adv>$	. \@First\<adv\>
 ^.<sent>$ ^first come, first served<adv>$	. \@First come, first served\<adv\>
 ^.<sent>$ ^first of all<adv>$	. \@First of all\<adv\>
@@ -14057,14 +14004,12 @@
 ^.<sent>$ ^indiscriminately<adv>$	. \@Indiscriminately\<adv\>
 ^.<sent>$ ^inexplicably<adv>$	. \@Inexplicably\<adv\>
 ^.<sent>$ ^inside and out<adv>$	. \@Inside and out\<adv\>
-^.<sent>$ ^instead<adv>$	. #Tuttavia\<adv\>\/in cambio\<adv\>
 ^.<sent>$ ^it's no use crying over spilt milk<adv>$	. \@It's no use crying over spilt milk\<adv\>
 ^.<sent>$ ^jealously<adv>$	. \@Jealously\<adv\>
 ^.<sent>$ ^just in case<adv>$	. \@Just in case\<adv\>
 ^.<sent>$ ^knowingly<adv>$	. \@Knowingly\<adv\>
 ^.<sent>$ ^largely<adv>$	. \@Largely\<adv\>
 ^.<sent>$ ^left<adv>$	. \@Left\<adv\>
-^.<sent>$ ^less<adv>$	. #Meno\<adv\>\/di meno\<adv\>
 ^.<sent>$ ^likewise<adv>$	. \@Likewise\<adv\>
 ^.<sent>$ ^long<adv>$	. \@Long\<adv\>
 ^.<sent>$ ^manifestly<adv>$	. \@Manifestly\<adv\>
@@ -14090,8 +14035,8 @@
 ^.<sent>$ ^on foot<adv>$	. \@On foot\<adv\>
 ^.<sent>$ ^on my own<adv>$	. \@On my own\<adv\>
 ^.<sent>$ ^over time<adv>$	. \@Over time\<adv\>
-^.<sent>$ ^on the other hand<adv>$	. #Dall'altro lato\<adv\>\/d'altro canto\<adv\>\/d'altro lato\<adv\>\/d'altra parte\<adv\>
-^.<sent>$ ^on the other hand<adv>$	. #Dall'altro lato\<adv\>\/d'altro canto\<adv\>\/d'altro lato\<adv\>\/d'altra parte\<adv\>
+^.<sent>$ ^on the other hand<adv>$	. #D'altro lato\<adv\>
+^.<sent>$ ^on the other hand<adv>$	. #D'altro lato\<adv\>
 ^.<sent>$ ^on the sly<adv>$	. \@On the sly\<adv\>
 ^.<sent>$ ^on your own<adv>$	. \@On your own\<adv\>
 ^.<sent>$ ^once<adv>$	. \@Once\<adv\>
@@ -14586,8 +14531,7 @@
 ^.<sent>$ ^via<pr>$	. \@Via\<pr\>
 ^.<sent>$ ^telephonically<adv>$	. \@Telephonically\<adv\>
 ^.<sent>$ ^shortly after<pr>$	. \@Shortly after\<pr\>
-^.<sent>$ ^among<pr>$	. #Tra\<pr\>\/fra\<pr\>
-^.<sent>$ ^around<pr>$	. #Circa\<pr\>\/attorno a\<pr\>\/intorno a\<pr\>\/nonostante\<pr\>
+^.<sent>$ ^among<pr>$	. #Entri\<pr\>
 ^.<sent>$ ^as for<pr>$	. \@As for\<pr\>
 ^.<sent>$ ^as regards<pr>$	. \@As regards\<pr\>
 ^.<sent>$ ^with regard to<pr>$	. \@With regard to\<pr\>
@@ -14595,8 +14539,7 @@
 ^.<sent>$ ^at the beginning of<pr>$	. \@At the beginning of\<pr\>
 ^.<sent>$ ^because of<pr>$	. \@Because of\<pr\>
 ^.<sent>$ ^shortly before<pr>$	. \@Shortly before\<pr\>
-^.<sent>$ ^beside<pr>$	. #Presso\<pr\>\/accanto a\<pr\>\/assieme a\<pr\>
-^.<sent>$ ^between<pr>$	. #Tra\<pr\>\/fra\<pr\>
+^.<sent>$ ^between<pr>$	. \@Between\<pr\>
 ^.<sent>$ ^concerning<pr>$	. \@Concerning\<pr\>
 ^.<sent>$ ^due to<pr>$	. \@Due to\<pr\>
 ^.<sent>$ ^except<pr>$	. #Tranne\<pr\>\/eccetto\<pr\>
@@ -32362,8 +32305,6 @@
 ==========================
 ALTRES ERRADES DE BILING‹E
 ==========================
-#\^.\<sent\> alcun<det><ind>/qualche<det><ind><mf>$
-#\^.\<sent\> alcun<det><ind>/qualche<det><ind><mf>$
 #\^.\<sent\> qualsiasi<det><ind>/qualunque<det><ind>$
 #\^.\<sent\> qualsiasi<det><ind>/qualunque<det><ind>$
 #\^.\<sent\> ogni<det><ind><mf>/ciascuno<det><ind><m>/ciascuno<det><ind><f>$
@@ -32371,8 +32312,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> ogni<det><ind><mf>/ciascuno<det><ind><m>/ciascuno<det><ind><f>$
 #\^.\<sent\> nessuno<det><ind>/qualsiasi<det><ind><mf>$
 #\^.\<sent\> nessuno<det><ind>/qualsiasi<det><ind><mf>$
-#\^.\<sent\> nostro<det><pos>/il nostro<det><pos>$
-#\^.\<sent\> nostro<det><pos>/il nostro<det><pos>$
 #\^.\<sent\> diverso<det><ind><GD><pl>/diverso<det><ind><m><pl>/diverso<det><ind><f><pl>$
 #\^.\<sent\> diverso<det><ind><GD><pl>/diverso<det><ind><m><pl>/diverso<det><ind><f><pl>$
 #\^.\<sent\> diverso<det><ind><GD><pl>/diverso<det><ind><m><pl>/diverso<det><ind><f><pl>$
@@ -32381,10 +32320,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> certo<det><ind>/taluno<det><ind>$
 #\^.\<sent\> certo<det><ind>/taluno<det><ind>$
 #\^.\<sent\> laburista<adj>/Lavorativo<adj>$
-#\^.\<sent\> diverso<det><ind><GD><ND>/diverso<det><ind><m><sg>/diverso<det><ind><f><sg>/differente<adj><mf>$
-#\^.\<sent\> diverso<det><ind><GD><ND>/diverso<det><ind><m><sg>/diverso<det><ind><f><sg>/differente<adj><mf>$
-#\^.\<sent\> diverso<det><ind><GD><ND>/diverso<det><ind><m><sg>/diverso<det><ind><f><sg>/differente<adj><mf>$
-#\^.\<sent\> diverso<det><ind><GD><ND>/diverso<det><ind><m><sg>/diverso<det><ind><f><sg>/differente<adj><mf>$
 #\^.\<sent\> vuoto<adj>/deserto<adj>$
 #\^.\<sent\> vuoto<adj>/deserto<adj>$
 #\^.\<sent\> tardio<adj>/tardivo<adj>$
@@ -32650,9 +32585,9 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> bene<preadv>/molto<preadv>$
 #\^.\<sent\> but<cnjcoo>/ma<cnjcoo>$
 #\^.\<sent\> but<cnjcoo>/ma<cnjcoo>$
-#\^.\<sent\> circa<adv>/attorno<adv>/intorno<adv>$
-#\^.\<sent\> circa<adv>/attorno<adv>/intorno<adv>$
-#\^.\<sent\> circa<adv>/attorno<adv>/intorno<adv>$
+#\^.\<sent\> circa<adv>/intorno<adv>/attorno<adv>$
+#\^.\<sent\> circa<adv>/intorno<adv>/attorno<adv>$
+#\^.\<sent\> circa<adv>/intorno<adv>/attorno<adv>$
 #\^.\<sent\> a parte<adv>/da parte<adv>$
 #\^.\<sent\> a parte<adv>/da parte<adv>$
 #\^.\<sent\> con cura<adv>/accuratamente<adv>/con attenzione<adv>$
@@ -32666,8 +32601,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> piuttosto<adv>/abbastanza<adv>$
 #\^.\<sent\> ancora<adv>/incluso<adv>$
 #\^.\<sent\> ancora<adv>/incluso<adv>$
-#\^.\<sent\> infine<adv>/finalmente<adv>$
-#\^.\<sent\> infine<adv>/finalmente<adv>$
 #\^.\<sent\> primamente<adv>/in primo luogo<adv>$
 #\^.\<sent\> primamente<adv>/in primo luogo<adv>$
 #\^.\<sent\> francamente<adv>/per dire alla verit√†<adv>$
@@ -32687,10 +32620,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> invano<adv>/in inutile<adv>$
 #\^.\<sent\> inclusive<adv>/inclusivamente<adv>$
 #\^.\<sent\> inclusive<adv>/inclusivamente<adv>$
-#\^.\<sent\> tuttavia<adv>/in cambio<adv>$
-#\^.\<sent\> tuttavia<adv>/in cambio<adv>$
-#\^.\<sent\> meno<adv>/di meno<adv>$
-#\^.\<sent\> meno<adv>/di meno<adv>$
 #\^.\<sent\> massivamente<adv>/massicciamente<adv>$
 #\^.\<sent\> massivamente<adv>/massicciamente<adv>$
 #\^.\<sent\> molto meno<adv>/molto di meno<adv>$
@@ -32701,10 +32630,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> no<adv>/non<adv>$
 #\^.\<sent\> a grande scala<adv>/su grande scala<adv>$
 #\^.\<sent\> a grande scala<adv>/su grande scala<adv>$
-#\^.\<sent\> dall'altro lato<adv>/d'altro canto<adv>/d'altro lato<adv>/d'altra parte<adv>$
-#\^.\<sent\> dall'altro lato<adv>/d'altro canto<adv>/d'altro lato<adv>/d'altra parte<adv>$
-#\^.\<sent\> dall'altro lato<adv>/d'altro canto<adv>/d'altro lato<adv>/d'altra parte<adv>$
-#\^.\<sent\> dall'altro lato<adv>/d'altro canto<adv>/d'altro lato<adv>/d'altra parte<adv>$
 #\^.\<sent\> solo<adv>/soltanto<adv>/solamente<adv>/unicamente<adv>$
 #\^.\<sent\> solo<adv>/soltanto<adv>/solamente<adv>/unicamente<adv>$
 #\^.\<sent\> solo<adv>/soltanto<adv>/solamente<adv>/unicamente<adv>$
@@ -32720,6 +32645,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> allora<adv>/a quel tempo<adv>$
 #\^.\<sent\> neolitico<n><m>/Neolitico<n><m>$
 #\^.\<sent\> impiego<n><m>/utilizzo<n><m>$
+#\^.\<sent\> censo<n><m>/censimento<n><m>$
 #\^.\<sent\> catarro<n><m>/raffreddore<n><m>$
 #\^.\<sent\> natica<n><f>/culo<n><m>/chiappa<n><f>$
 #\^.\<sent\> gasolio<n><m>/benzina<n><f>$
@@ -32729,7 +32655,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> giorno<n><m>/giornata<n><f>$
 #\^.\<sent\> locale<n><mf>/grotta<n><f>/caverna<n><f>$
 #\^.\<sent\> carrozza<n><f>/trasporto<n><m>$
-#\^.\<sent\> massa<n><f>/messa<n><f>$
 #\^.\<sent\> moneta<n><f>/monetazione<n><f>$
 #\^.\<sent\> boccone<n><m>/morsicatura<n><f>$
 #\^.\<sent\> rimozione<n><f>/estrazione<n><f>/asportazione<n><f>/trasferimento<n><m>$
@@ -32739,109 +32664,20 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> Inquisizione<n><f>/Inquisizione<n><f>$
 #\^.\<sent\> marzo<n><m>/Marcia<n><f>$
 #\^.\<sent\> nazista<n><GD>/Nazista<n><GD>$
-#\^.\<sent\> abisso<n><m>/baratro<n><m>$
-#\^.\<sent\> abisso<n><m>/baratro<n><m>$
-#\^.\<sent\> accelerazione<n><f>/velocizzazione<n><f>$
-#\^.\<sent\> accelerazione<n><f>/velocizzazione<n><f>$
-#\^.\<sent\> assunzione<n><f>/accettazione<n><f>$
-#\^.\<sent\> assunzione<n><f>/accettazione<n><f>$
 #\^.\<sent\> alloggio<n><m>/accomodazione<n><f>$
 #\^.\<sent\> alloggio<n><m>/accomodazione<n><f>$
-#\^.\<sent\> acquisto<n><m>/acquisizione<n><f>$
-#\^.\<sent\> acquisto<n><m>/acquisizione<n><f>$
-#\^.\<sent\> attivista<n><mf>/attivista<n><m>/attivista<n><f>/combattente<n><mf>$
-#\^.\<sent\> attivista<n><mf>/attivista<n><m>/attivista<n><f>/combattente<n><mf>$
-#\^.\<sent\> attivista<n><mf>/attivista<n><m>/attivista<n><f>/combattente<n><mf>$
-#\^.\<sent\> attivista<n><mf>/attivista<n><m>/attivista<n><f>/combattente<n><mf>$
-#\^.\<sent\> consiglio<n><m>/consulenza<n><f>$
-#\^.\<sent\> consiglio<n><m>/consulenza<n><f>$
-#\^.\<sent\> accordo<n><m>/contratto<n><m>/convenzione<n><m>/convenzione<n><f>$
-#\^.\<sent\> accordo<n><m>/contratto<n><m>/convenzione<n><m>/convenzione<n><f>$
-#\^.\<sent\> accordo<n><m>/contratto<n><m>/convenzione<n><m>/convenzione<n><f>$
-#\^.\<sent\> accordo<n><m>/contratto<n><m>/convenzione<n><m>/convenzione<n><f>$
-#\^.\<sent\> aiuto<n><m>/aiuto<n><f>$
-#\^.\<sent\> aiuto<n><m>/aiuto<n><f>$
-#\^.\<sent\> mira<n><f>/scopo<n><m>/obiettivo<n><m>$
-#\^.\<sent\> mira<n><f>/scopo<n><m>/obiettivo<n><m>$
-#\^.\<sent\> mira<n><f>/scopo<n><m>/obiettivo<n><m>$
-#\^.\<sent\> aria<n><m>/aria<n><f>$
-#\^.\<sent\> aria<n><m>/aria<n><f>$
-#\^.\<sent\> aereo<n><m>/velivolo<n><m>/aeroplano<n><m>$
-#\^.\<sent\> aereo<n><m>/velivolo<n><m>/aeroplano<n><m>$
-#\^.\<sent\> aereo<n><m>/velivolo<n><m>/aeroplano<n><m>$
-#\^.\<sent\> aeroporto<n><m>/aerostazione<n><f>$
-#\^.\<sent\> aeroporto<n><m>/aerostazione<n><f>$
+#\^.\<sent\> appalto<n><m>/contratto<n><m>$
 #\^.\<sent\> allocazione<n><f>/assegnazione<n><f>$
 #\^.\<sent\> allocazione<n><f>/assegnazione<n><f>$
-#\^.\<sent\> mandorla<n><f>/mandorlo<n><m>$
-#\^.\<sent\> mandorla<n><f>/mandorlo<n><m>$
-#\^.\<sent\> angolo<n><m>/angolazione<n><f>$
-#\^.\<sent\> angolo<n><m>/angolazione<n><f>$
-#\^.\<sent\> annuncio<n><m>/invito<n><m>$
-#\^.\<sent\> annuncio<n><m>/invito<n><m>$
-#\^.\<sent\> anticipo<n><m>/anticipazione<n><f>$
-#\^.\<sent\> anticipo<n><m>/anticipazione<n><f>$
-#\^.\<sent\> apparenza<n><f>/aspetto<n><m>$
-#\^.\<sent\> apparenza<n><f>/aspetto<n><m>$
-#\^.\<sent\> citazione<n><f>/appuntamento<n><m>$
-#\^.\<sent\> citazione<n><f>/appuntamento<n><m>$
-#\^.\<sent\> accesso<n><m>/approccio<n><m>/avvicinamento<n><m>/ravvicinamento<n><m>$
-#\^.\<sent\> accesso<n><m>/approccio<n><m>/avvicinamento<n><m>/ravvicinamento<n><m>$
-#\^.\<sent\> accesso<n><m>/approccio<n><m>/avvicinamento<n><m>/ravvicinamento<n><m>$
-#\^.\<sent\> accesso<n><m>/approccio<n><m>/avvicinamento<n><m>/ravvicinamento<n><m>$
-#\^.\<sent\> ravvicinamento<n><m>/approssimazione<n><f>$
-#\^.\<sent\> ravvicinamento<n><m>/approssimazione<n><f>$
-#\^.\<sent\> albicocca<n><m>/albicocca<n><f>$
-#\^.\<sent\> albicocca<n><m>/albicocca<n><f>$
-#\^.\<sent\> aristocratico<n><m>/aristocratico<n><f>$
-#\^.\<sent\> aristocratico<n><m>/aristocratico<n><f>$
+#\^.\<sent\> invito<n><m>/annuncio<n><m>$
+#\^.\<sent\> invito<n><m>/annuncio<n><m>$
 #\^.\<sent\> arma<n>/braccio<n><f><pl>$
 #\^.\<sent\> arma<n>/braccio<n><f><pl>$
-#\^.\<sent\> armata<n><f>/esercito<n><m>$
-#\^.\<sent\> armata<n><f>/esercito<n><m>$
-#\^.\<sent\> arresto<n><m>/detenzione<n><f>$
-#\^.\<sent\> arresto<n><m>/detenzione<n><f>$
-#\^.\<sent\> arte<n><mf>/arte<n><f>/attrezzo<n><m>$
-#\^.\<sent\> arte<n><mf>/arte<n><f>/attrezzo<n><m>$
-#\^.\<sent\> arte<n><mf>/arte<n><f>/attrezzo<n><m>$
-#\^.\<sent\> giuntura<n><f>/articolazione<n><f>$
-#\^.\<sent\> giuntura<n><f>/articolazione<n><f>$
-#\^.\<sent\> amianto<n><m>/asbesto<n><m>$
-#\^.\<sent\> amianto<n><m>/asbesto<n><m>$
-#\^.\<sent\> attacco<n><m>/attentato<n><m>$
-#\^.\<sent\> attacco<n><m>/attentato<n><m>$
-#\^.\<sent\> intento<n><m>/attentato<n><m>/tentativo<n><m>$
-#\^.\<sent\> intento<n><m>/attentato<n><m>/tentativo<n><m>$
-#\^.\<sent\> intento<n><m>/attentato<n><m>/tentativo<n><m>$
-#\^.\<sent\> attitudine<n><f>/atteggiamento<n><m>$
-#\^.\<sent\> attitudine<n><f>/atteggiamento<n><m>$
-#\^.\<sent\> audit<n><f>/controllo<n><m>$
-#\^.\<sent\> audit<n><f>/controllo<n><m>$
-#\^.\<sent\> audit<n><f>/controllo<n><m>$
-#\^.\<sent\> audit<n><f>/controllo<n><m>$
-#\^.\<sent\> asse<n><mf>/asse<n><m>$
-#\^.\<sent\> asse<n><mf>/asse<n><m>$
 #\^.\<sent\> sostegno<n><m>/schienale<n><m>$
 #\^.\<sent\> sostegno<n><m>/schienale<n><m>$
-#\^.\<sent\> palla<n><f>/pallone<n><m>$
-#\^.\<sent\> palla<n><f>/pallone<n><m>$
-#\^.\<sent\> banana<n><m>/banana<n><f>$
-#\^.\<sent\> banana<n><m>/banana<n><f>$
-#\^.\<sent\> barra<n><f>/sbarra<n><f>/bancone<n><f>$
-#\^.\<sent\> barra<n><f>/sbarra<n><f>/bancone<n><f>$
-#\^.\<sent\> barra<n><f>/sbarra<n><f>/bancone<n><f>$
 #\^.\<sent\> conca<n><f>/bacino<n><m>$
 #\^.\<sent\> conca<n><f>/bacino<n><m>$
-#\^.\<sent\> intento<n><m>/offerta<n><f>$
-#\^.\<sent\> intento<n><m>/offerta<n><f>$
-#\^.\<sent\> fattura<n><f>/bolletta<n><f>$
-#\^.\<sent\> fattura<n><f>/bolletta<n><f>$
-#\^.\<sent\> passero<n><m>/uccello<n><m>/volatile<n><m>$
-#\^.\<sent\> passero<n><m>/uccello<n><m>/volatile<n><m>$
-#\^.\<sent\> passero<n><m>/uccello<n><m>/volatile<n><m>$
 #\^.\<sent\> boccone<n><m>/morsicatura<n><f>$
-#\^.\<sent\> foglio<n><m>/foglia<n><f>$
-#\^.\<sent\> foglio<n><m>/foglia<n><f>$
 #\^.\<sent\> marca<n><f>/marchio<n><m>$
 #\^.\<sent\> marca<n><f>/marchio<n><m>$
 #\^.\<sent\> seno<n><m>/petto<n><m>$
@@ -32887,6 +32723,7 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> catarro<n><m>/raffreddore<n><m>$
 #\^.\<sent\> locale<n><mf>/grotta<n><f>/caverna<n><f>$
 #\^.\<sent\> locale<n><mf>/grotta<n><f>/caverna<n><f>$
+#\^.\<sent\> censo<n><m>/censimento<n><m>$
 #\^.\<sent\> attestato<n><m>/certificato<n><m>$
 #\^.\<sent\> attestato<n><m>/certificato<n><m>$
 #\^.\<sent\> cessione<n><f>/trasferimento<n><m>$
@@ -32902,8 +32739,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> carico<n><m>/carica<n><f>$
 #\^.\<sent\> mappa<n><f>/grafico<n><m>$
 #\^.\<sent\> mappa<n><f>/grafico<n><m>$
-#\^.\<sent\> chimica<n><f>/chimico<n><GD>$
-#\^.\<sent\> chimica<n><f>/chimico<n><GD>$
 #\^.\<sent\> periodo<n><m>/cronologia<n><f>$
 #\^.\<sent\> periodo<n><m>/cronologia<n><f>$
 #\^.\<sent\> citrico<n><GD>/citrico<n><m>/citrico<n><f>$
@@ -32992,13 +32827,8 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> crimine<n><m>/delitto<n><m>$
 #\^.\<sent\> cura<n><f>/prete<n><m>$
 #\^.\<sent\> cura<n><f>/prete<n><m>$
-#\^.\<sent\> sipario<n><m>/sipario<n><f>/tamponamento<n><m>$
-#\^.\<sent\> sipario<n><m>/sipario<n><f>/tamponamento<n><m>$
-#\^.\<sent\> sipario<n><m>/sipario<n><f>/tamponamento<n><m>$
 #\^.\<sent\> filo<n><m>/taglio<n><m>$
 #\^.\<sent\> filo<n><m>/taglio<n><m>$
-#\^.\<sent\> ciclista<n><m>/ciclista<n><f>$
-#\^.\<sent\> ciclista<n><m>/ciclista<n><f>$
 #\^.\<sent\> ciste<n><f>/cisti<n><m>$
 #\^.\<sent\> ciste<n><f>/cisti<n><m>$
 #\^.\<sent\> data<n><f>/dattero<n><m>$
@@ -33055,17 +32885,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> fattore<n><m>/sostanza<n><f>$
 #\^.\<sent\> fallo<n><m>/fallimento<n><m>$
 #\^.\<sent\> fallo<n><m>/fallimento<n><m>$
-#\^.\<sent\> ventaglio<n><m>/ventilatore<n><m>$
-#\^.\<sent\> ventaglio<n><m>/ventilatore<n><m>$
-#\^.\<sent\> podere<n><m>/fattoria<n><f>$
-#\^.\<sent\> podere<n><m>/fattoria<n><f>$
-#\^.\<sent\> destino<n><m>/destinazione<n><m>/destinazione<n><f>$
-#\^.\<sent\> destino<n><m>/destinazione<n><m>/destinazione<n><f>$
-#\^.\<sent\> destino<n><m>/destinazione<n><m>/destinazione<n><f>$
-#\^.\<sent\> colpa<n><f>/mancanza<n><f>$
-#\^.\<sent\> colpa<n><f>/mancanza<n><f>$
-#\^.\<sent\> paura<n><m>/paura<n><f>$
-#\^.\<sent\> paura<n><m>/paura<n><f>$
 #\^.\<sent\> fecondazione<n><f>/fertilizzazione<n><f>$
 #\^.\<sent\> fecondazione<n><f>/fertilizzazione<n><f>$
 #\^.\<sent\> campo<n><m>/ambito<n><m>$
@@ -33244,7 +33063,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> umanit√†<n><f><sp>/humanit√†<n><f><sp>$
 #\^.\<sent\> marca<n><f>/marchio<n><m>$
 #\^.\<sent\> marca<n><f>/marchio<n><m>$
-#\^.\<sent\> massa<n><f>/messa<n><f>$
 #\^.\<sent\> festa<n><f>/partito<n><m>$
 #\^.\<sent\> significato<n><m>/importanza<n><f>$
 #\^.\<sent\> farmaco<n><m>/medicina<n><f>$
@@ -33253,8 +33071,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> memoria<n><f>/ricordo<n><m>$
 #\^.\<sent\> mina<n><f>/miniera<n><f>$
 #\^.\<sent\> mina<n><f>/miniera<n><f>$
-#\^.\<sent\> menta<n><f>/coniazione<n><f>$
-#\^.\<sent\> menta<n><f>/coniazione<n><f>$
 #\^.\<sent\> miscela<n><f>/miscuglio<n><m>$
 #\^.\<sent\> miscela<n><f>/miscuglio<n><m>$
 #\^.\<sent\> modello<n><GD>/modello<n><m>/modello<n><f>$
@@ -33495,9 +33311,8 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> riguardo<n><m>/considerazione<n><f>$
 #\^.\<sent\> iscrizione<n><f>/immatricolazione<n><f>$
 #\^.\<sent\> iscrizione<n><f>/immatricolazione<n><f>$
-#\^.\<sent\> controllo<n><m>/regolamento<n><m>/disposizione<n><f>$
-#\^.\<sent\> controllo<n><m>/regolamento<n><m>/disposizione<n><f>$
-#\^.\<sent\> controllo<n><m>/regolamento<n><m>/disposizione<n><f>$
+#\^.\<sent\> regolamento<n><m>/disposizione<n><f>$
+#\^.\<sent\> regolamento<n><m>/disposizione<n><f>$
 #\^.\<sent\> rilascio<n><m>/versione<n><f>/emissione<n><f>/liberazione<n><f>$
 #\^.\<sent\> rilascio<n><m>/versione<n><f>/emissione<n><f>/liberazione<n><f>$
 #\^.\<sent\> rilascio<n><m>/versione<n><f>/emissione<n><f>/liberazione<n><f>$
@@ -33694,8 +33509,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> panfilo<n><m>/imbarcazione<n><f>$
 #\^.\<sent\> tra poco<adv>/prossimamente<adv>$
 #\^.\<sent\> molto<adv>/grandemente<adv>$
-#\^.\<sent\> essere<vbser>/essere<vbser><auxser>$
-#\^.\<sent\> essere<vbser>/essere<vbser><auxser>$
 #\^.\<sent\> alcuno<prn><tn>/nessuno<prn><tn><m>/nessuno<prn><tn><f>/qualunque<prn><tn><mf><sp>$
 #\^.\<sent\> alcuno<prn><tn>/nessuno<prn><tn><m>/nessuno<prn><tn><f>/qualunque<prn><tn><mf><sp>$
 #\^.\<sent\> alcuno<prn><tn>/nessuno<prn><tn><m>/nessuno<prn><tn><f>/qualunque<prn><tn><mf><sp>$
@@ -33711,11 +33524,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> nessuno<prn><tn><m>/qualcuno<prn><tn><m>/qualunque<prn><tn><mf><sp>$
 #\^.\<sent\> qualcosa<prn>/niente<prn>$
 #\^.\<sent\> qualcosa<prn>/niente<prn>$
-#\^.\<sent\> entrambi<prn>/tutti e due<prn>$
-#\^.\<sent\> entrambi<prn>/tutti e due<prn>$
-#\^.\<sent\> nessuno<prn>/nessuno<prn><tn><m>/nessuno<prn><tn><f>$
-#\^.\<sent\> nessuno<prn>/nessuno<prn><tn><m>/nessuno<prn><tn><f>$
-#\^.\<sent\> nessuno<prn>/nessuno<prn><tn><m>/nessuno<prn><tn><f>$
 #\^.\<sent\> s√©<prn><tn>/s√®<prn><tn>$
 #\^.\<sent\> s√©<prn><tn>/s√®<prn><tn>$
 #\^.\<sent\> il suo<prn>/il loro<prn>$
@@ -33762,20 +33570,6 @@ ALTRES ERRADES DE BILING‹E
 #\^.\<sent\> quello che<rel><nn><m><pl>/quello che<rel><nn><f><pl>/quanto<rel><nn><GD><pl>$
 #\^.\<sent\> quanto<rel>/quello che<rel><an><nt>$
 #\^.\<sent\> quanto<rel>/quello che<rel><an><nt>$
-#\^.\<sent\> tra<pr>/fra<pr>$
-#\^.\<sent\> tra<pr>/fra<pr>$
-#\^.\<sent\> circa<pr>/attorno a<pr>/intorno a<pr>/nonostante<pr>$
-#\^.\<sent\> circa<pr>/attorno a<pr>/intorno a<pr>/nonostante<pr>$
-#\^.\<sent\> circa<pr>/attorno a<pr>/intorno a<pr>/nonostante<pr>$
-#\^.\<sent\> circa<pr>/attorno a<pr>/intorno a<pr>/nonostante<pr>$
-#\^.\<sent\> circa<pr>/attorno a<pr>/intorno a<pr>/nonostante<pr>$
-#\^.\<sent\> presso<pr>/accanto a<pr>/assieme a<pr>$
-#\^.\<sent\> presso<pr>/accanto a<pr>/assieme a<pr>$
-#\^.\<sent\> presso<pr>/accanto a<pr>/assieme a<pr>$
-#\^.\<sent\> tra<pr>/fra<pr>$
-#\^.\<sent\> tra<pr>/fra<pr>$
-#\^.\<sent\> tra<pr>/fra<pr>$
-#\^.\<sent\> tra<pr>/fra<pr>$
 #\^.\<sent\> tranne<pr>/eccetto<pr>$
 #\^.\<sent\> tranne<pr>/eccetto<pr>$
 #\^.\<sent\> innanzi a<pr>/dinanzi a<pr>$
