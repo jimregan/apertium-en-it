@@ -12712,14 +12712,13 @@
 <e><p><l>by<b/>degrees<s n="adv"/></l><r>gradualmente<s n="adv"/></r></p></e>
 <e c="check"><p><l>by<b/>forced<b/>marches<s n="adv"/></l><r>di<b/>fretta<s n="adv"/></r></p></e>
 <e><p><l>by<b/>hand<s n="adv"/></l><r>a<b/>mano<s n="adv"/></r></p></e>
-<e><p><l>by<b/>hand<s n="adv"/></l><r>a<b/>mano<s n="adv"/></r></p></e>
 <e><p><l>by<b/>heart<s n="adv"/></l><r>a<b/>memoria<s n="adv"/></r></p></e>
 <e><p><l>by<b/>telephone<s n="adv"/></l><r>telefonicamente<s n="adv"/></r></p></e>
 <e><p><l>can<b/>be<s n="adv"/></l><r>può<b/>essere<s n="adv"/></r></p></e>
 <e><p><l>candidly<s n="adv"/></l><r>francamente<s n="adv"/></r></p></e>
 <e><p><l>carefully<s n="adv"/></l><r>con<b/>attenzione<s n="adv"/></r></p></e>
-<e><p><l>carefully<s n="adv"/></l><r>con<b/>cura<s n="adv"/></r></p></e>
-<e><p><l>carefully<s n="adv"/></l><r>accuratamente<s n="adv"/></r></p></e>
+<e r="RL"><p><l>carefully<s n="adv"/></l><r>con<b/>cura<s n="adv"/></r></p></e>
+<e><p><l>accurately<s n="adv"/></l><r>accuratamente<s n="adv"/></r></p></e>
 <e><p><l>categorically<s n="adv"/></l><r>categoricamente<s n="adv"/></r></p></e>
 <e><p><l>certainly<s n="adv"/></l><r>certamente<s n="adv"/></r></p></e>
 <e><p><l>cheerfully<s n="adv"/></l><r>allegramente<s n="adv"/></r></p></e>
@@ -12737,9 +12736,6 @@
 <e><p><l>comfortably<s n="adv"/></l><r>comodamente<s n="adv"/></r></p></e>
 <e><p><l>commercially<s n="adv"/></l><r>commercialmente<s n="adv"/></r></p></e>
 <e><p><l>commonly<s n="adv"/></l><r>comunemente<s n="adv"/></r></p></e>
-<e><p><l>commonly<s n="adv"/></l><r>comunemente<s n="adv"/></r></p></e>
-<e><p><l>completely<s n="adv"/></l><r>completamente<s n="adv"/></r></p></e>
-<e><p><l>completely<s n="adv"/></l><r>completamente<s n="adv"/></r></p></e>
 <e><p><l>completely<s n="adv"/></l><r>completamente<s n="adv"/></r></p></e>
 <e r="RL"><p><l>completely<s n="adv"/></l><r>compiutamente<s n="adv"/></r></p></e>
 <e><p><l>conceptually<s n="adv"/></l><r>concettualmente<s n="adv"/></r></p></e>
@@ -14843,9 +14839,9 @@
 <e r="LR"><p><l>captivity<s n="n"/><s n="sg"/></l><r>cattività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>captivity<s n="n"/><s n="pl"/></l><r>cattività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>capture<s n="n"/></l><r>cattura<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>car<s n="n"/></l><r>autovettura<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>car<s n="n"/></l><r>automobile<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>car<s n="n"/></l><r>autoveicolo<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>car<s n="n"/></l><r>autovettura<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>car<s n="n"/></l><r>automobile<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>car<s n="n"/></l><r>autoveicolo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>car<s n="n"/></l><r>macchina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>carafe<s n="n"/></l><r>caraffa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>carat<s n="n"/></l><r>carato<s n="n"/><s n="m"/></r></p></e>
@@ -14874,16 +14870,14 @@
 <e><p><l>carriageway<s n="n"/></l><r>carreggiata<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cart<s n="n"/></l><r>carro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cartel<s n="n"/></l><r>cartello<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>cartilage<s n="n"/></l><r>cartilagine<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cartilage<s n="n"/></l><r>cartilagine<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cartography<s n="n"/></l><r>cartografia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>cartoonist<s n="n"/></l><r>disegno<s n="n"/><s n="mf"/></r></p></e>
-<e><p><l>cartoonist<s n="n"/></l><r>disegnatore<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>cartoonist<s n="n"/></l><r>disegnatore<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>cartridge<s n="n"/></l><r>cartuccia<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>cartoonist<s n="n"/></l><r>disegno<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>cartoonist<s n="n"/></l><r>disegnatore<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>cartoonist<s n="n"/></l><r>disegnatore<s n="n"/></r></p></e>
 <e><p><l>cartridge<s n="n"/></l><r>cartuccia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>case<s n="n"/></l><r>caso<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>case<s n="n"/></l><r>valigia<s n="n"/><s n="f"/></r></p></e>
+<e slr="caso D"><p><l>case<s n="n"/></l><r>caso<s n="n"/><s n="m"/></r></p></e>
+<e slr="valigia"><p><l>case<s n="n"/></l><r>valigia<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>cashier<s n="n"/></l><r>cassiere<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>cashier<s n="n"/></l><r>cassiere<s n="n"/></r></p></e>
 <e><p><l>casino<s n="n"/></l><r>casino<s n="n"/><s n="m"/></r></p></e>
