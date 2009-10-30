@@ -4955,6 +4955,7 @@
 <e><i>John<b/>of<b/>God<s n="np"/><s n="ant"/></i></e>
 <e><i>John<b/>of<b/>Matha<s n="np"/><s n="ant"/></i></e>
 <e><p><l>John<b/>the<b/>Baptist<s n="np"/><s n="ant"/></l><r>Giovanni<b/>Battista<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Christopher<b/>Columbus<s n="np"/><s n="ant"/></l><r>Cristoforo<b/>Colombo<s n="np"/><s n="ant"/></r></p></e>
 <e><i>Johnathan<s n="np"/><s n="ant"/></i></e>
 <e><i>Johnathon<s n="np"/><s n="ant"/></i></e>
 <e><i>Johnnie<s n="np"/><s n="ant"/></i></e>
@@ -20287,6 +20288,9 @@
 <e r="RL"><p><l>tax<s n="n"/></l><r>tasso<s n="n"/></r></p></e>
 <e r="RL"><p><l>taxation<s n="n"/></l><r>imposizione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>taxation<s n="n"/></l><r>tassazione<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>tax<b/>haven<s n="n"/></l><r>paradiso<b/>fiscale<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>haven<s n="n"/></l><r>rifugio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>refuge<s n="n"/></l><r>rifugio<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>taxi<s n="n"/><s n="sg"/></l><r>taxi<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>taxi<s n="n"/><s n="pl"/></l><r>taxi<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>taxi<s n="n"/><s n="ND"/></l><r>taxi<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
