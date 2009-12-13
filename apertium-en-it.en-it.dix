@@ -18863,8 +18863,8 @@
 <e r="LR"><p><l>porno<s n="n"/><s n="pl"/></l><r>porno<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>pornography<s n="n"/></l><r>pornografia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>port<s n="n"/></l><r>porto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>porter<s n="n"/></l><r>portiere<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>porter<s n="n"/></l><r>portiere<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>porter<s n="n"/></l><r>portiere<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>porter<s n="n"/></l><r>portiere<s n="n"/></r></p></e>
 <e><p><l>portion<s n="n"/></l><r>porzione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>portrait<s n="n"/></l><r>ritratto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>position<s n="n"/></l><r>posizione<s n="n"/><s n="f"/></r></p></e>
@@ -18873,10 +18873,10 @@
 <e><p><l>positivism<s n="n"/></l><r>positivismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>possession<s n="n"/></l><r>possesso<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>possible<s n="n"/></l><r>possibile<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>post<s n="n"/></l><r>carico<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>post<s n="n"/></l><r>posta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>post<s n="n"/></l><r>pylon<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>post<s n="n"/></l><r>pertica<s n="n"/><s n="f"/></r></p></e>
+<e slr="carico"><p><l>post<s n="n"/></l><r>carico<s n="n"/><s n="m"/></r></p></e>
+<e slr="posta D"><p><l>post<s n="n"/></l><r>posta<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>pylon<s n="n"/></l><r>pylon<s n="n"/><s n="m"/></r></p></e>
+<e slr="pertica"><p><l>post<s n="n"/></l><r>pertica<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>poster<s n="n"/><s n="ND"/></l><r>poster<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>poster<s n="n"/><s n="sg"/></l><r>poster<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>poster<s n="n"/><s n="pl"/></l><r>poster<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
