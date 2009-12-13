@@ -14,7 +14,6 @@
 ^.<sent>$ ^no<det><ind><sp>$	. #Nessuno\<det\>\<ind\>
 ^.<sent>$ ^other<det><ind><sp>$	. #Un altro\<det\>\<ind\>
 ^.<sent>$ ^so much<det><qnt><sg>$	. \@So much\<det\>
-^.<sent>$ ^some<det><qnt><sp>$	. #Alcun\<det\>\<ind\>
 ^.<sent>$ ^the same<det><ind><sp>$	. \@The same\<det\>\<ind\>\<sp\>
 ^.<sent>$ ^third<det><ord><sp>$	. #Terzo\<det\>\<ord\>\<m\>\<sg\>
 ^.<sent>$ ^too much<det><qnt><sg>$	. \@Too much\<det\>
@@ -22,8 +21,7 @@
 ^.<sent>$ ^what<det><itg><sp>$	. \@What\<det\>\<itg\>\<sp\>
 ^.<sent>$ ^which<det><itg><sp>$	. #Quale\<mf\>\<sg\>
 ^.<sent>$ ^whose<det><itg><sp>$	. \@Whose\<det\>\<itg\>\<sp\>
-^.<sent>$ ^your<det><pos><sp>$	. \@Your\<det\>\<pos\>\<sp\>
-^.<sent>$ ^all<predet><sp>$	. \@All\<predet\>\<sp\>
+^.<sent>$ ^all<predet><sp>$	. #Tutto\<m\>\<sg\>
 ^.<sent>$ ^sixteenth<det><ord><sp>$	. #Sedicesimo\<det\>\<ord\>\<m\>\<sg\>
 ^.<sent>$ ^seventeenth<det><ord><sp>$	. #Diciassettesimo\<det\>\<ord\>\<m\>\<sg\>
 ^.<sent>$ ^eighteenth<det><ord><sp>$	. #Diciottesimo\<det\>\<ord\>\<m\>\<sg\>
@@ -58,8 +56,8 @@
 ^.<sent>$ ^as much<det><qnt><sg>$	. \@As much\<det\>
 ^.<sent>$ ^lots of<det><qnt><sp>$	. #Molto\<det\>\<ind\>
 ^.<sent>$ ^quite a lot of<det><qnt><sp>$	. \@Quite a lot of\<det\>\<sp\>
-^.<sent>$ ^such a<det><ind><sg>$	. #Tale
-^.<sent>$ ^such<det><ind><sp>$	. #Tale
+^.<sent>$ ^such a<det><ind><sg>$	. #Tale\<det\>\<dem\>\<m\>\<sg\>
+^.<sent>$ ^such<det><ind><sp>$	. #Tale\<det\>\<dem\>\<m\>\<sg\>\<sp\>
 ^.<sent>$ ^Venus<np><ant><f><sg>$	. #Venere\<np\>\<ant\>\<f\>\<sg\>
 ^.<sent>$ ^Koran<np><al><sg>$	. \@Koran\<np\>\<al\>
 ^.<sent>$ ^Hermes<np><ant><m><sg>$	. #Ermes\<np\>\<ant\>\<m\>\<sg\>
@@ -96,12 +94,6 @@
 ^.<sent>$ ^Ferrari<np><cog><pl>$ ^'s<gen>$	. #Ferrari\<np\>\<cog\>\<mf\>\<sp\> 
 ^.<sent>$ ^Ferrari<np><cog><sg>$	. #Ferrari\<np\>\<cog\>\<mf\>\<sp\>
 ^.<sent>$ ^Ferrari<np><cog><pl>$	. #Ferrari\<np\>\<cog\>\<mf\>\<sp\>
-^.<sent>$ ^Virgin Islands<np><loc><pl>$	. \@Virgin Islands\<np\>\<loc\>
-^.<sent>$ ^Virgin Islands<np><loc><pl>$ ^'s<gen>$	. \@Virgin Islands\<np\>\<loc\> 
-^.<sent>$ ^Virgin Islands<np><loc><pl>$	. \@Virgin Islands\<np\>\<loc\>
-^.<sent>$ ^United States Virgin Islands<np><loc><pl>$	. \@United States Virgin Islands\<np\>\<loc\>
-^.<sent>$ ^United States Virgin Islands<np><loc><pl>$ ^'s<gen>$	. \@United States Virgin Islands\<np\>\<loc\> 
-^.<sent>$ ^United States Virgin Islands<np><loc><pl>$	. \@United States Virgin Islands\<np\>\<loc\>
 ^.<sent>$ ^Magdalen Islands<np><loc><pl>$	. \@Magdalen Islands\<np\>\<loc\>
 ^.<sent>$ ^Magdalen Islands<np><loc><pl>$ ^'s<gen>$	. \@Magdalen Islands\<np\>\<loc\> 
 ^.<sent>$ ^Magdalen Islands<np><loc><pl>$	. \@Magdalen Islands\<np\>\<loc\>
@@ -1142,16 +1134,6 @@
 ^.<sent>$ ^carrot<n><pl>$ ^'s<gen>$	. \@Carrot\<n\> 
 ^.<sent>$ ^carrot<n><sg>$	. \@Carrot\<n\>
 ^.<sent>$ ^carrot<n><pl>$	. \@Carrot\<n\>
-^.<sent>$ ^cartoonist<n><sg>$	. #Disegno\<n\>\<mf\>\<sg\>
-^.<sent>$ ^cartoonist<n><pl>$	. #Disegno\<n\>\<mf\>\<pl\>
-^.<sent>$ ^cartoonist<n><pl>$ ^'s<gen>$	. #Disegno\<n\>\<mf\>\<pl\> 
-^.<sent>$ ^cartoonist<n><sg>$	. #Disegno\<n\>\<mf\>\<sg\>
-^.<sent>$ ^cartoonist<n><pl>$	. #Disegno\<n\>\<mf\>\<pl\>
-^.<sent>$ ^cartridge<n><sg>$	. #Cartuccia\<n\>\<m\>\<sg\>
-^.<sent>$ ^cartridge<n><pl>$	. #Cartuccia\<n\>\<m\>\<pl\>
-^.<sent>$ ^cartridge<n><pl>$ ^'s<gen>$	. #Cartuccia\<n\>\<m\>\<pl\> 
-^.<sent>$ ^cartridge<n><sg>$	. #Cartuccia\<n\>\<m\>\<sg\>
-^.<sent>$ ^cartridge<n><pl>$	. #Cartuccia\<n\>\<m\>\<pl\>
 ^.<sent>$ ^caste<n><sg>$	. \@Caste\<n\>
 ^.<sent>$ ^caste<n><pl>$	. \@Caste\<n\>
 ^.<sent>$ ^caste<n><pl>$ ^'s<gen>$	. \@Caste\<n\> 
@@ -5757,8 +5739,6 @@
 ^.<sent>$ ^capital punishment<n><pl>$ ^'s<gen>$	. \@Capital punishment\<n\> 
 ^.<sent>$ ^capital punishment<n><sg>$	. \@Capital punishment\<n\>
 ^.<sent>$ ^capital punishment<n><pl>$	. \@Capital punishment\<n\>
-^.<sent>$ ^purchase<n><sg>$	. #Acquisto\<n\>\<m\>
-^.<sent>$ ^purchase<n><sg>$	. #Acquisto\<n\>\<m\>
 ^.<sent>$ ^purgatory<n><sg>$	. \@Purgatory\<n\>
 ^.<sent>$ ^purgatory<n><pl>$	. \@Purgatory\<n\>
 ^.<sent>$ ^purgatory<n><pl>$	. \@Purgatory\<n\>
@@ -6110,11 +6090,6 @@
 ^.<sent>$ ^repurchase<n><pl>$ ^'s<gen>$	. \@Repurchase\<n\> 
 ^.<sent>$ ^repurchase<n><sg>$	. \@Repurchase\<n\>
 ^.<sent>$ ^repurchase<n><pl>$	. \@Repurchase\<n\>
-^.<sent>$ ^reputation<n><sg>$	. \@Reputation\<n\>
-^.<sent>$ ^reputation<n><pl>$	. \@Reputation\<n\>
-^.<sent>$ ^reputation<n><pl>$ ^'s<gen>$	. \@Reputation\<n\> 
-^.<sent>$ ^reputation<n><sg>$	. \@Reputation\<n\>
-^.<sent>$ ^reputation<n><pl>$	. \@Reputation\<n\>
 ^.<sent>$ ^rescission<n><sg>$	. \@Rescission\<n\>
 ^.<sent>$ ^rescission<n><pl>$	. \@Rescission\<n\>
 ^.<sent>$ ^rescission<n><pl>$ ^'s<gen>$	. \@Rescission\<n\> 
@@ -9137,7 +9112,6 @@
 ^.<sent>$ ^sorry<adj><sint>$	. \@Sorry\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^sorry<adj><sint><comp>$	. Più \@sorry\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^sorry<adj><sint><sup>$	. Più \@sorry\<adj\>\<m\>\<sg\>
-^.<sent>$ ^metallic<adj>$	. \@Metallic\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^metaphorical<adj>$	. \@Metaphorical\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^metaphysical<adj>$	. \@Metaphysical\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^meteoric<adj>$	. \@Meteoric\<adj\>\<m\>\<sg\>
@@ -12101,6 +12075,14 @@
 ^.<sent>$ ^seduce<vblex><ger>$	. \@Seduce\<vblex\>\<ger\>
 ^.<sent>$ ^seduce<vblex><pprs>$	. \@Seduce\<vblex\>\<ger\>
 ^.<sent>$ ^seduce<vblex><subs>$	. \@Seduce\<vblex\>\<inf\>
+^.<sent>$ ^seem# like<vblex><inf>$	. \@Seem\<vblex\>\<inf\># like
+^.<sent>$ ^seem# like<vblex><pres>$	. \@Seem\<vblex\>\<pri\>\<p3\>\<sg\># like
+^.<sent>$ ^seem# like<vblex><pri><p3><sg>$	. \@Seem\<vblex\>\<pri\>\<p3\>\<sg\># like
+^.<sent>$ ^seem# like<vblex><past>$	. \@Seem\<vblex\>\<ifi\>\<p3\>\<sg\># like
+^.<sent>$ ^seem# like<vblex><pp>$	. \@Seem\<vblex\>\<pp\>\<m\>\<sg\># like
+^.<sent>$ ^seem# like<vblex><ger>$	. \@Seem\<vblex\>\<ger\># like
+^.<sent>$ ^seem# like<vblex><pprs>$	. \@Seem\<vblex\>\<ger\># like
+^.<sent>$ ^seem# like<vblex><subs>$	. \@Seem\<vblex\>\<inf\># like
 ^.<sent>$ ^select<vblex><inf>$	. \@Select\<vblex\>\<inf\>
 ^.<sent>$ ^select<vblex><pres>$	. \@Select\<vblex\>\<pri\>\<p3\>\<sg\>
 ^.<sent>$ ^select<vblex><pri><p3><sg>$	. \@Select\<vblex\>\<pri\>\<p3\>\<sg\>
@@ -13756,6 +13738,17 @@
 ^.<sent>$ ^be# hungry<vblex><ger>$	. #Avere\<vblex\>\<ger\># fame
 ^.<sent>$ ^be# hungry<vblex><pprs>$	. #Avere\<vblex\>\<ger\># fame
 ^.<sent>$ ^be# hungry<vblex><subs>$	. #Avere\<vblex\>\<inf\># fame
+^.<sent>$ ^be# possible<vblex><inf>$	. \@Be\<vblex\>\<inf\># possible
+^.<sent>$ ^be# possible<vblex><pres>$	. \@Be\<vblex\>\<pri\>\<p3\>\<sg\># possible
+^.<sent>$ ^be# possible<vblex><pri><p1><sg>$	. \@Be\<vblex\>\<pri\>\<p1\>\<sg\># possible
+^.<sent>$ ^be# possible<vblex><pri><p3><sg>$	. \@Be\<vblex\>\<pri\>\<p3\>\<sg\># possible
+^.<sent>$ ^be# possible<vblex><past><p1><sg>$	. \@Be\<vblex\>\<ifi\>\<p3\>\<sg\># possible
+^.<sent>$ ^be# possible<vblex><past><p3><sg>$	. \@Be\<vblex\>\<ifi\>\<p3\>\<sg\># possible
+^.<sent>$ ^be# possible<vblex><past>$	. \@Be\<vblex\>\<ifi\>\<p3\>\<sg\># possible
+^.<sent>$ ^be# possible<vblex><pp>$	. \@Be\<vblex\>\<pp\>\<m\>\<sg\># possible
+^.<sent>$ ^be# possible<vblex><ger>$	. \@Be\<vblex\>\<ger\># possible
+^.<sent>$ ^be# possible<vblex><pprs>$	. \@Be\<vblex\>\<ger\># possible
+^.<sent>$ ^be# possible<vblex><subs>$	. \@Be\<vblex\>\<inf\># possible
 ^.<sent>$ ^pay# cash<vblex><inf>$	. \@Pay\<vblex\>\<inf\># cash
 ^.<sent>$ ^pay# cash<vblex><pres>$	. \@Pay\<vblex\>\<pri\>\<p3\>\<sg\># cash
 ^.<sent>$ ^pay# cash<vblex><pri><p3><sg>$	. \@Pay\<vblex\>\<pri\>\<p3\>\<sg\># cash
@@ -13918,7 +13911,6 @@
 ^.<sent>$ ^by the skin of their teeth<adv>$	. \@By the skin of their teeth\<adv\>
 ^.<sent>$ ^by a hair's breadth<adv>$	. \@By a hair's breadth\<adv\>
 ^.<sent>$ ^by a whisker<adv>$	. \@By a whisker\<adv\>
-^.<sent>$ ^carefully<adv>$	. #Con cura\<adv\>\/accuratamente\<adv\>\/con attenzione\<adv\>
 ^.<sent>$ ^carelessly<adv>$	. \@Carelessly\<adv\>
 ^.<sent>$ ^cautiously<adv>$	. \@Cautiously\<adv\>
 ^.<sent>$ ^consciously<adv>$	. \@Consciously\<adv\>
@@ -13963,7 +13955,6 @@
 ^.<sent>$ ^from beginning to end<adv>$	. \@From beginning to end\<adv\>
 ^.<sent>$ ^from everywhere<adv>$	. \@From everywhere\<adv\>
 ^.<sent>$ ^from the beginning<adv>$	. \@From the beginning\<adv\>
-^.<sent>$ ^from time to time<adv>$	. #Ogni tanto\<adv\>\/di tanto in quando\<adv\>
 ^.<sent>$ ^further<adv>$	. \@Further\<adv\>
 ^.<sent>$ ^gently<adv>$	. \@Gently\<adv\>
 ^.<sent>$ ^greatly<adv>$	. #Molto\<adv\>\/grandemente\<adv\>
@@ -14539,7 +14530,6 @@
 ^.<sent>$ ^at the beginning of<pr>$	. \@At the beginning of\<pr\>
 ^.<sent>$ ^because of<pr>$	. \@Because of\<pr\>
 ^.<sent>$ ^shortly before<pr>$	. \@Shortly before\<pr\>
-^.<sent>$ ^between<pr>$	. \@Between\<pr\>
 ^.<sent>$ ^concerning<pr>$	. \@Concerning\<pr\>
 ^.<sent>$ ^due to<pr>$	. \@Due to\<pr\>
 ^.<sent>$ ^except<pr>$	. #Tranne\<pr\>\/eccetto\<pr\>
@@ -14552,7 +14542,6 @@
 ^.<sent>$ ^out of<pr>$	. #Fuori\<pr\>\/fuori di\<pr\>
 ^.<sent>$ ^regarding<pr>$	. \@Regarding\<pr\>
 ^.<sent>$ ^so as to<pr>$	. \@So as to\<pr\>
-^.<sent>$ ^thanks to<pr>$	. \@Thanks to\<pr\>
 ^.<sent>$ ^through<pr>$	. #Attraverso a\<pr\>\/attraverso di\<pr\>
 ^.<sent>$ ^until<pr>$	. #Fino\<pr\>\/fino a\<pr\>
 ^.<sent>$ ^up<pr>$	. \@Up\<pr\>
@@ -16818,6 +16807,86 @@
 ^.<sent>$ ^bring# down<vblex><sep><subs>$ ^this<prn><tn><mf><pl>$	. Scendere #questo\<prn\>\<tn\>\<m\>
 ^.<sent>$ ^bring# down<vblex><sep><subs>$ ^that<prn><tn><mf><sg>$	. Scendere #quello\<prn\>\<tn\>\<nt\>
 ^.<sent>$ ^bring# down<vblex><sep><subs>$ ^that<prn><tn><mf><pl>$	. Scendere #quello\<prn\>\<tn\>\<m\>
+^.<sent>$ ^bring# back<vblex><sep><inf>$ ^prpers<prn><obj><p1><mf><sg>$	. #Riportare\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<sg\>
+^.<sent>$ ^bring# back<vblex><sep><inf>$ ^prpers<prn><obj><p2><mf><sp>$	. #Riportare\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p2\>\<mf\>\<sg\>
+^.<sent>$ ^bring# back<vblex><sep><inf>$ ^prpers<prn><obj><p3><m><sg>$	. #Riportare\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<m\>\<sg\>
+^.<sent>$ ^bring# back<vblex><sep><inf>$ ^prpers<prn><obj><p3><f><sg>$	. #Riportare\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<f\>\<sg\>
+^.<sent>$ ^bring# back<vblex><sep><inf>$ ^prpers<prn><obj><p3><nt><sg>$	. #Riportare\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><inf>$ ^prpers<prn><obj><p1><mf><pl>$	. #Riportare\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<pl\>
+^.<sent>$ ^bring# back<vblex><sep><inf>$ ^prpers<prn><obj><p3><mf><pl>$	. #Riportare\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<mf\>\<pl\>
+^.<sent>$ ^bring# back<vblex><sep><inf>$ ^this<prn><tn><mf><sg>$	. Riportare #questo\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><inf>$ ^this<prn><tn><mf><pl>$	. Riportare #questo\<prn\>\<tn\>\<m\>
+^.<sent>$ ^bring# back<vblex><sep><inf>$ ^that<prn><tn><mf><sg>$	. Riportare #quello\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><inf>$ ^that<prn><tn><mf><pl>$	. Riportare #quello\<prn\>\<tn\>\<m\>
+^.<sent>$ ^bring# back<vblex><sep><pres>$ ^prpers<prn><obj><p3><m><sg>$	. Gli/~Lo riporta
+^.<sent>$ ^bring# back<vblex><sep><pres>$ ^prpers<prn><obj><p3><f><sg>$	. Le/~La riporta
+^.<sent>$ ^bring# back<vblex><sep><pres>$ ^prpers<prn><obj><p1><mf><pl>$	. #Prpers\<prn\>\<pro\>\<p1\>\<mf\>\<pl\> riporta
+^.<sent>$ ^bring# back<vblex><sep><pres>$ ^prpers<prn><obj><p3><mf><pl>$	. #Prpers\<prn\>\<pro\>\<p3\>\<mf\>\<pl\> riporta
+^.<sent>$ ^bring# back<vblex><sep><pres>$ ^this<prn><tn><mf><sg>$	. Riporta #questo\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><pres>$ ^this<prn><tn><mf><pl>$	. Riporta #questo\<prn\>\<tn\>\<m\>
+^.<sent>$ ^bring# back<vblex><sep><pres>$ ^that<prn><tn><mf><sg>$	. Riporta #quello\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><pres>$ ^that<prn><tn><mf><pl>$	. Riporta #quello\<prn\>\<tn\>\<m\>
+^.<sent>$ ^bring# back<vblex><sep><pri><p3><sg>$ ^prpers<prn><obj><p3><m><sg>$	. Gli/~Lo riporta
+^.<sent>$ ^bring# back<vblex><sep><pri><p3><sg>$ ^prpers<prn><obj><p3><f><sg>$	. Le/~La riporta
+^.<sent>$ ^bring# back<vblex><sep><pri><p3><sg>$ ^prpers<prn><obj><p1><mf><pl>$	. #Prpers\<prn\>\<pro\>\<p1\>\<mf\>\<pl\> riporta
+^.<sent>$ ^bring# back<vblex><sep><pri><p3><sg>$ ^prpers<prn><obj><p3><mf><pl>$	. #Prpers\<prn\>\<pro\>\<p3\>\<mf\>\<pl\> riporta
+^.<sent>$ ^bring# back<vblex><sep><pri><p3><sg>$ ^this<prn><tn><mf><sg>$	. Riporta #questo\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><pri><p3><sg>$ ^this<prn><tn><mf><pl>$	. Riporta #questo\<prn\>\<tn\>\<m\>
+^.<sent>$ ^bring# back<vblex><sep><pri><p3><sg>$ ^that<prn><tn><mf><sg>$	. Riporta #quello\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><pri><p3><sg>$ ^that<prn><tn><mf><pl>$	. Riporta #quello\<prn\>\<tn\>\<m\>
+^.<sent>$ ^bring# back<vblex><sep><past>$ ^prpers<prn><obj><p3><m><sg>$	. Gli/~Lo riportò
+^.<sent>$ ^bring# back<vblex><sep><past>$ ^prpers<prn><obj><p3><f><sg>$	. Le/~La riportò
+^.<sent>$ ^bring# back<vblex><sep><past>$ ^prpers<prn><obj><p1><mf><pl>$	. #Prpers\<prn\>\<pro\>\<p1\>\<mf\>\<pl\> riportò
+^.<sent>$ ^bring# back<vblex><sep><past>$ ^prpers<prn><obj><p3><mf><pl>$	. #Prpers\<prn\>\<pro\>\<p3\>\<mf\>\<pl\> riportò
+^.<sent>$ ^bring# back<vblex><sep><past>$ ^this<prn><tn><mf><sg>$	. Riportò #questo\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><past>$ ^this<prn><tn><mf><pl>$	. Riportò #questo\<prn\>\<tn\>\<m\>
+^.<sent>$ ^bring# back<vblex><sep><past>$ ^that<prn><tn><mf><sg>$	. Riportò #quello\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><past>$ ^that<prn><tn><mf><pl>$	. Riportò #quello\<prn\>\<tn\>\<m\>
+^.<sent>$ ^bring# back<vblex><sep><pp>$	. #Riportare\<m\>\<sg\>
+^.<sent>$ ^bring# back<vblex><sep><pp>$ ^prpers<prn><obj><p1><mf><sg>$	. #Riportare\<m\>\<sg\> ~mi
+^.<sent>$ ^bring# back<vblex><sep><pp>$ ^prpers<prn><obj><p2><mf><sp>$	. #Riportare\<m\>\<sg\> ~ti
+^.<sent>$ ^bring# back<vblex><sep><pp>$ ^prpers<prn><obj><p3><m><sg>$	. #Riportare\<m\>\<sg\> gli/~lo
+^.<sent>$ ^bring# back<vblex><sep><pp>$ ^prpers<prn><obj><p3><f><sg>$	. #Riportare\<m\>\<sg\> le/~la
+^.<sent>$ ^bring# back<vblex><sep><pp>$ ^prpers<prn><obj><p3><nt><sg>$	. #Riportare\<m\>\<sg\> ~lo
+^.<sent>$ ^bring# back<vblex><sep><pp>$ ^prpers<prn><obj><p1><mf><pl>$	. #Riportare\<m\>\<sg\> #prpers\<prn\>\<pro\>\<p1\>\<mf\>\<pl\>
+^.<sent>$ ^bring# back<vblex><sep><pp>$ ^prpers<prn><obj><p3><mf><pl>$	. #Riportare\<m\>\<sg\> #prpers\<prn\>\<pro\>\<p3\>\<mf\>\<pl\>
+^.<sent>$ ^bring# back<vblex><sep><pp>$ ^this<prn><tn><mf><sg>$	. #Riportare\<m\>\<sg\> #questo\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><pp>$ ^this<prn><tn><mf><pl>$	. #Riportare\<m\>\<sg\> #questo\<prn\>\<tn\>\<m\>
+^.<sent>$ ^bring# back<vblex><sep><pp>$ ^that<prn><tn><mf><sg>$	. #Riportare\<m\>\<sg\> #quello\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><pp>$ ^that<prn><tn><mf><pl>$	. #Riportare\<m\>\<sg\> #quello\<prn\>\<tn\>\<m\>
+^.<sent>$ ^bring# back<vblex><sep><ger>$ ^prpers<prn><obj><p1><mf><sg>$	. #Riportare\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<sg\>
+^.<sent>$ ^bring# back<vblex><sep><ger>$ ^prpers<prn><obj><p2><mf><sp>$	. #Riportare\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p2\>\<mf\>\<sg\>
+^.<sent>$ ^bring# back<vblex><sep><ger>$ ^prpers<prn><obj><p3><m><sg>$	. #Riportare\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<m\>\<sg\>
+^.<sent>$ ^bring# back<vblex><sep><ger>$ ^prpers<prn><obj><p3><f><sg>$	. #Riportare\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<f\>\<sg\>
+^.<sent>$ ^bring# back<vblex><sep><ger>$ ^prpers<prn><obj><p3><nt><sg>$	. #Riportare\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><ger>$ ^prpers<prn><obj><p1><mf><pl>$	. #Riportare\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<pl\>
+^.<sent>$ ^bring# back<vblex><sep><ger>$ ^prpers<prn><obj><p3><mf><pl>$	. #Riportare\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<mf\>\<pl\>
+^.<sent>$ ^bring# back<vblex><sep><ger>$ ^this<prn><tn><mf><sg>$	. Riportando #questo\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><ger>$ ^this<prn><tn><mf><pl>$	. Riportando #questo\<prn\>\<tn\>\<m\>
+^.<sent>$ ^bring# back<vblex><sep><ger>$ ^that<prn><tn><mf><sg>$	. Riportando #quello\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><ger>$ ^that<prn><tn><mf><pl>$	. Riportando #quello\<prn\>\<tn\>\<m\>
+^.<sent>$ ^bring# back<vblex><sep><pprs>$ ^prpers<prn><obj><p1><mf><sg>$	. #Riportare\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<sg\>
+^.<sent>$ ^bring# back<vblex><sep><pprs>$ ^prpers<prn><obj><p2><mf><sp>$	. #Riportare\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p2\>\<mf\>\<sg\>
+^.<sent>$ ^bring# back<vblex><sep><pprs>$ ^prpers<prn><obj><p3><m><sg>$	. #Riportare\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<m\>\<sg\>
+^.<sent>$ ^bring# back<vblex><sep><pprs>$ ^prpers<prn><obj><p3><f><sg>$	. #Riportare\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<f\>\<sg\>
+^.<sent>$ ^bring# back<vblex><sep><pprs>$ ^prpers<prn><obj><p3><nt><sg>$	. #Riportare\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><pprs>$ ^prpers<prn><obj><p1><mf><pl>$	. #Riportare\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<pl\>
+^.<sent>$ ^bring# back<vblex><sep><pprs>$ ^prpers<prn><obj><p3><mf><pl>$	. #Riportare\<vblex\>\<ger\>+prpers\<prn\>\<enc\>\<p3\>\<mf\>\<pl\>
+^.<sent>$ ^bring# back<vblex><sep><pprs>$ ^this<prn><tn><mf><sg>$	. Riportando #questo\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><pprs>$ ^this<prn><tn><mf><pl>$	. Riportando #questo\<prn\>\<tn\>\<m\>
+^.<sent>$ ^bring# back<vblex><sep><pprs>$ ^that<prn><tn><mf><sg>$	. Riportando #quello\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><pprs>$ ^that<prn><tn><mf><pl>$	. Riportando #quello\<prn\>\<tn\>\<m\>
+^.<sent>$ ^bring# back<vblex><sep><subs>$ ^prpers<prn><obj><p1><mf><sg>$	. #Riportare\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<sg\>
+^.<sent>$ ^bring# back<vblex><sep><subs>$ ^prpers<prn><obj><p2><mf><sp>$	. #Riportare\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p2\>\<mf\>\<sg\>
+^.<sent>$ ^bring# back<vblex><sep><subs>$ ^prpers<prn><obj><p3><m><sg>$	. #Riportare\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<m\>\<sg\>
+^.<sent>$ ^bring# back<vblex><sep><subs>$ ^prpers<prn><obj><p3><f><sg>$	. #Riportare\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<f\>\<sg\>
+^.<sent>$ ^bring# back<vblex><sep><subs>$ ^prpers<prn><obj><p3><nt><sg>$	. #Riportare\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><subs>$ ^prpers<prn><obj><p1><mf><pl>$	. #Riportare\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p1\>\<mf\>\<pl\>
+^.<sent>$ ^bring# back<vblex><sep><subs>$ ^prpers<prn><obj><p3><mf><pl>$	. #Riportare\<vblex\>\<inf\>+prpers\<prn\>\<enc\>\<p3\>\<mf\>\<pl\>
+^.<sent>$ ^bring# back<vblex><sep><subs>$ ^this<prn><tn><mf><sg>$	. Riportare #questo\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><subs>$ ^this<prn><tn><mf><pl>$	. Riportare #questo\<prn\>\<tn\>\<m\>
+^.<sent>$ ^bring# back<vblex><sep><subs>$ ^that<prn><tn><mf><sg>$	. Riportare #quello\<prn\>\<tn\>\<nt\>
+^.<sent>$ ^bring# back<vblex><sep><subs>$ ^that<prn><tn><mf><pl>$	. Riportare #quello\<prn\>\<tn\>\<m\>
 ^.<sent>$ ^brachistochrone<n><sg>$	. \@Brachistochrone\<n\>
 ^.<sent>$ ^brachistochrone<n><pl>$	. \@Brachistochrone\<n\>
 ^.<sent>$ ^brachistochrone<n><pl>$ ^'s<gen>$	. \@Brachistochrone\<n\> 
@@ -17211,11 +17280,6 @@
 ^.<sent>$ ^carrion<n><pl>$ ^'s<gen>$	. \@Carrion\<n\> 
 ^.<sent>$ ^carrion<n><sg>$	. \@Carrion\<n\>
 ^.<sent>$ ^carrion<n><pl>$	. \@Carrion\<n\>
-^.<sent>$ ^cartilage<n><sg>$	. #Cartilagine\<n\>\<m\>\<sg\>
-^.<sent>$ ^cartilage<n><pl>$	. #Cartilagine\<n\>\<m\>\<pl\>
-^.<sent>$ ^cartilage<n><pl>$ ^'s<gen>$	. #Cartilagine\<n\>\<m\>\<pl\> 
-^.<sent>$ ^cartilage<n><sg>$	. #Cartilagine\<n\>\<m\>\<sg\>
-^.<sent>$ ^cartilage<n><pl>$	. #Cartilagine\<n\>\<m\>\<pl\>
 ^.<sent>$ ^cartographic<adj>$	. \@Cartographic\<adj\>\<m\>\<sg\>
 ^.<sent>$ ^cartwright<n><sg>$	. \@Cartwright\<n\>
 ^.<sent>$ ^cartwright<n><pl>$	. \@Cartwright\<n\>
@@ -20319,10 +20383,8 @@
 ^.<sent>$ ^frigidity<n><pl>$	. \@Frigidity\<n\>
 ^.<sent>$ ^frivolously<adv>$	. \@Frivolously\<adv\>
 ^.<sent>$ ^from beginning to end<adv>$	. \@From beginning to end\<adv\>
-^.<sent>$ ^from now on<adv>$	. #D'ora in poi\<adv\>\/d'ora in avanti\<adv\>
 ^.<sent>$ ^from this time forth<adv>$	. \@From this time forth\<adv\>
 ^.<sent>$ ^from this time on<adv>$	. \@From this time on\<adv\>
-^.<sent>$ ^from time to time<adv>$	. #Ogni tanto\<adv\>\/di tanto in quando\<adv\>
 ^.<sent>$ ^from year to year<adv>$	. \@From year to year\<adv\>
 ^.<sent>$ ^frontispiece<n><sg>$	. \@Frontispiece\<n\>
 ^.<sent>$ ^frontispiece<n><pl>$	. \@Frontispiece\<n\>
@@ -32315,8 +32377,6 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> diverso<det><ind><GD><pl>/diverso<det><ind><m><pl>/diverso<det><ind><f><pl>$
 #\^.\<sent\> diverso<det><ind><GD><pl>/diverso<det><ind><m><pl>/diverso<det><ind><f><pl>$
 #\^.\<sent\> diverso<det><ind><GD><pl>/diverso<det><ind><m><pl>/diverso<det><ind><f><pl>$
-#\^.\<sent\> alcun<det><ind>/qualche<det><ind><mf>$
-#\^.\<sent\> alcun<det><ind>/qualche<det><ind><mf>$
 #\^.\<sent\> certo<det><ind>/taluno<det><ind>$
 #\^.\<sent\> certo<det><ind>/taluno<det><ind>$
 #\^.\<sent\> laburista<adj>/Lavorativo<adj>$
@@ -32383,8 +32443,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> affermare<vblex>/reclamare<vblex>/rivendicare<vblex>$
 #\^.\<sent\> mandare<vblex>/comandare<vblex>$
 #\^.\<sent\> mandare<vblex>/comandare<vblex>$
-#\^.\<sent\> accordare<vblex>/ammettere<vblex>/concedere<vblex>$
-#\^.\<sent\> accordare<vblex>/ammettere<vblex>/concedere<vblex>$
+#\^.\<sent\> accordare<vblex>/concedere<vblex>$
 #\^.\<sent\> guidare<vblex>/dirigere<vblex>$
 #\^.\<sent\> guidare<vblex>/dirigere<vblex>$
 #\^.\<sent\> limitare<vblex>/confinare<vblex>/internare<vblex>$
@@ -32525,7 +32584,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> restare<vblex>/rimanere<vblex>$
 #\^.\<sent\> restare<vblex>/rimanere<vblex>$
 #\^.\<sent\> restare<vblex>/rimanere<vblex>$
-#\^.\<sent\> accordare<vblex>/ammettere<vblex>/concedere<vblex>$
+#\^.\<sent\> accordare<vblex>/concedere<vblex>$
 #\^.\<sent\> informare<vblex>/denunciare<vblex>$
 #\^.\<sent\> informare<vblex>/denunciare<vblex>$
 #\^.\<sent\> chiedere<vblex>/sollecitare<vblex>$
@@ -32557,8 +32616,6 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> restare<vblex>/rimanere<vblex>$
 #\^.\<sent\> restare<vblex>/sottrarre<vblex>$
 #\^.\<sent\> restare<vblex>/sottrarre<vblex>$
-#\^.\<sent\> mediare<vblex>/partecipare<vblex>$
-#\^.\<sent\> mediare<vblex>/partecipare<vblex>$
 #\^.\<sent\> tendere<vblex>/stendere<vblex>$
 #\^.\<sent\> tendere<vblex>/stendere<vblex>$
 #\^.\<sent\> c'è<vblex><pri><p3><sg>/c'è<vblex><pri><p3><pl>$
@@ -32590,9 +32647,6 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> circa<adv>/intorno<adv>/attorno<adv>$
 #\^.\<sent\> a parte<adv>/da parte<adv>$
 #\^.\<sent\> a parte<adv>/da parte<adv>$
-#\^.\<sent\> con cura<adv>/accuratamente<adv>/con attenzione<adv>$
-#\^.\<sent\> con cura<adv>/accuratamente<adv>/con attenzione<adv>$
-#\^.\<sent\> con cura<adv>/accuratamente<adv>/con attenzione<adv>$
 #\^.\<sent\> giù<adv>/abbasso<adv>$
 #\^.\<sent\> giù<adv>/abbasso<adv>$
 #\^.\<sent\> facilmente<adv>/agevolmente<adv>$
@@ -32605,10 +32659,6 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> primamente<adv>/in primo luogo<adv>$
 #\^.\<sent\> francamente<adv>/per dire alla verità<adv>$
 #\^.\<sent\> francamente<adv>/per dire alla verità<adv>$
-#\^.\<sent\> d'ora in poi<adv>/d'ora in avanti<adv>$
-#\^.\<sent\> d'ora in poi<adv>/d'ora in avanti<adv>$
-#\^.\<sent\> ogni tanto<adv>/di tanto in quando<adv>$
-#\^.\<sent\> ogni tanto<adv>/di tanto in quando<adv>$
 #\^.\<sent\> molto<adv>/grandemente<adv>$
 #\^.\<sent\> felicemente<adv>/fortunatamente<adv>$
 #\^.\<sent\> felicemente<adv>/fortunatamente<adv>$
@@ -32666,6 +32716,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> nazista<n><GD>/Nazista<n><GD>$
 #\^.\<sent\> alloggio<n><m>/accomodazione<n><f>$
 #\^.\<sent\> alloggio<n><m>/accomodazione<n><f>$
+#\^.\<sent\> acquisto<n><m>/acquisizione<n><f>$
 #\^.\<sent\> appalto<n><m>/contratto<n><m>$
 #\^.\<sent\> allocazione<n><f>/assegnazione<n><f>$
 #\^.\<sent\> allocazione<n><f>/assegnazione<n><f>$
@@ -32706,20 +32757,7 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> annullamento<n><m>/cancellazione<n><f>$
 #\^.\<sent\> calotta<n><f>/berretto<n><m>$
 #\^.\<sent\> calotta<n><f>/berretto<n><m>$
-#\^.\<sent\> macchina<n><f>/automobile<n><f>/autoveicolo<n><m>/autovettura<n><m>$
-#\^.\<sent\> macchina<n><f>/automobile<n><f>/autoveicolo<n><m>/autovettura<n><m>$
-#\^.\<sent\> macchina<n><f>/automobile<n><f>/autoveicolo<n><m>/autovettura<n><m>$
-#\^.\<sent\> macchina<n><f>/automobile<n><f>/autoveicolo<n><m>/autovettura<n><m>$
 #\^.\<sent\> carrozza<n><f>/trasporto<n><m>$
-#\^.\<sent\> cartilagine<n><m>/cartilagine<n><f>$
-#\^.\<sent\> cartilagine<n><m>/cartilagine<n><f>$
-#\^.\<sent\> disegno<n><mf>/disegnatore<n><m>/disegnatore<n><f>$
-#\^.\<sent\> disegno<n><mf>/disegnatore<n><m>/disegnatore<n><f>$
-#\^.\<sent\> disegno<n><mf>/disegnatore<n><m>/disegnatore<n><f>$
-#\^.\<sent\> cartuccia<n><m>/cartuccia<n><f>$
-#\^.\<sent\> cartuccia<n><m>/cartuccia<n><f>$
-#\^.\<sent\> caso<n><m>/valigia<n><f>$
-#\^.\<sent\> caso<n><m>/valigia<n><f>$
 #\^.\<sent\> catarro<n><m>/raffreddore<n><m>$
 #\^.\<sent\> locale<n><mf>/grotta<n><f>/caverna<n><f>$
 #\^.\<sent\> locale<n><mf>/grotta<n><f>/caverna<n><f>$
@@ -33103,12 +33141,6 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> indigeno<n><m>/indigeno<n><f>$
 #\^.\<sent\> indigeno<n><m>/indigeno<n><f>$
 #\^.\<sent\> trattativa<n><f>/negoziazione<n><f>$
-#\^.\<sent\> vicinato<n><m>/quartiere<n><m>$
-#\^.\<sent\> vicinato<n><m>/quartiere<n><m>$
-#\^.\<sent\> prosieguo<n><m>/nomenclatura<n><f>$
-#\^.\<sent\> prosieguo<n><m>/nomenclatura<n><f>$
-#\^.\<sent\> odontologia<n><f>/odontoiatria<n><f>$
-#\^.\<sent\> odontologia<n><f>/odontoiatria<n><f>$
 #\^.\<sent\> ufficiale<n><mf>/ufficiale<n><m>$
 #\^.\<sent\> ufficiale<n><mf>/ufficiale<n><m>$
 #\^.\<sent\> operazione<n><f>/funzionamento<n><m>$
@@ -33118,10 +33150,6 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> opponente<n><mf>/oppositore<n><GD>/avversario<n><GD>$
 #\^.\<sent\> opponente<n><mf>/oppositore<n><GD>/avversario<n><GD>$
 #\^.\<sent\> opponente<n><mf>/oppositore<n><GD>/avversario<n><GD>$
-#\^.\<sent\> opportunità<n><f><sp>/possibilità<n><f><sp>$
-#\^.\<sent\> opportunità<n><f><sp>/possibilità<n><f><sp>$
-#\^.\<sent\> opportunità<n><f><sp>/possibilità<n><f><sp>$
-#\^.\<sent\> opportunità<n><f><sp>/possibilità<n><f><sp>$
 #\^.\<sent\> concorso<n><m>/opposizione<n><f>$
 #\^.\<sent\> concorso<n><m>/opposizione<n><f>$
 #\^.\<sent\> arancia<n><f>/arancione<n><m>$
@@ -33220,64 +33248,16 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> inquinamento<n><m>/contaminazione<n><f>$
 #\^.\<sent\> gruppo<n><m>/piscina<n><f>$
 #\^.\<sent\> gruppo<n><m>/piscina<n><f>$
-#\^.\<sent\> portiere<n><m>/portiere<n><f>$
-#\^.\<sent\> portiere<n><m>/portiere<n><f>$
 #\^.\<sent\> navigazione<n><f>/posizionamento<n><m>$
 #\^.\<sent\> navigazione<n><f>/posizionamento<n><m>$
-#\^.\<sent\> posta<n><f>/pylon<n><m>/carico<n><m>/pertica<n><f>$
-#\^.\<sent\> posta<n><f>/pylon<n><m>/carico<n><m>/pertica<n><f>$
-#\^.\<sent\> posta<n><f>/pylon<n><m>/carico<n><m>/pertica<n><f>$
-#\^.\<sent\> posta<n><f>/pylon<n><m>/carico<n><m>/pertica<n><f>$
-#\^.\<sent\> potere<n><m>/potenza<n><f>/energia<n><f>$
-#\^.\<sent\> potere<n><m>/potenza<n><f>/energia<n><f>$
-#\^.\<sent\> potere<n><m>/potenza<n><f>/energia<n><f>$
-#\^.\<sent\> predizione<n><f>/previsione<n><f>$
-#\^.\<sent\> predizione<n><f>/previsione<n><f>$
-#\^.\<sent\> prestigio<n><m>/reputazione<n><f>$
-#\^.\<sent\> prestigio<n><m>/reputazione<n><f>$
+#\^.\<sent\> pylon<n><m>/pilone<n><m>$
 #\^.\<sent\> pretesa<n><f>/finta<n><f>$
-#\^.\<sent\> prete<n><m>/cura<n><f>/sacerdote<n><GD>$
-#\^.\<sent\> prete<n><m>/cura<n><f>/sacerdote<n><GD>$
-#\^.\<sent\> prete<n><m>/cura<n><f>/sacerdote<n><GD>$
-#\^.\<sent\> impronta<n><f>/impressione<n><f>$
-#\^.\<sent\> impronta<n><f>/impressione<n><f>$
-#\^.\<sent\> stampa<n><f>/impressione<n><f>$
-#\^.\<sent\> stampa<n><f>/impressione<n><f>$
-#\^.\<sent\> carcere<n><mf>/prigione<n><f>$
-#\^.\<sent\> carcere<n><mf>/prigione<n><f>$
-#\^.\<sent\> lavorazione<n><f>/elaborazione<n><f>$
-#\^.\<sent\> lavorazione<n><f>/elaborazione<n><f>$
-#\^.\<sent\> professionista<n><m>/professionista<n><f>$
-#\^.\<sent\> professionista<n><m>/professionista<n><f>$
-#\^.\<sent\> divieto<n><m>/proibizione<n><f>$
-#\^.\<sent\> divieto<n><m>/proibizione<n><f>$
-#\^.\<sent\> ascenso<n><m>/promozione<n><f>$
-#\^.\<sent\> ascenso<n><m>/promozione<n><f>$
-#\^.\<sent\> prostituta<n><f>/prostituzione<n><f>$
-#\^.\<sent\> prostituta<n><f>/prostituzione<n><f>$
-#\^.\<sent\> protagonista<n><m>/protagonista<n><f>$
-#\^.\<sent\> protagonista<n><m>/protagonista<n><f>$
-#\^.\<sent\> reclamo<n><m>/protesta<n><f>/manifestazione<n><f>$
-#\^.\<sent\> reclamo<n><m>/protesta<n><f>/manifestazione<n><f>$
-#\^.\<sent\> reclamo<n><m>/protesta<n><f>/manifestazione<n><f>$
 #\^.\<sent\> pubblico ministero<n><m>/pubblico ministero<n><f>$
 #\^.\<sent\> pubblico ministero<n><m>/pubblico ministero<n><f>$
-#\^.\<sent\> punizione<n><f>/castigo<n><m>$
-#\^.\<sent\> punizione<n><f>/castigo<n><m>$
-#\^.\<sent\> alunno<n><GD>/pupilla<n><f>/scolare<n><m>/scolare<n><f>$
-#\^.\<sent\> alunno<n><GD>/pupilla<n><f>/scolare<n><m>/scolare<n><f>$
-#\^.\<sent\> alunno<n><GD>/pupilla<n><f>/scolare<n><m>/scolare<n><f>$
-#\^.\<sent\> alunno<n><GD>/pupilla<n><f>/scolare<n><m>/scolare<n><f>$
-#\^.\<sent\> pupazzo<n><m>/marionetta<n><f>$
-#\^.\<sent\> pupazzo<n><m>/marionetta<n><f>$
-#\^.\<sent\> acquisto<n><m>/spesa<n>$
-#\^.\<sent\> acquisto<n><m>/spesa<n>$
+#\^.\<sent\> acquisto<n><m>/acquisizione<n><f>$
 #\^.\<sent\> compratore<n><GD>/acquirente<n><mf>$
 #\^.\<sent\> compratore<n><GD>/acquirente<n><mf>$
-#\^.\<sent\> depurazione<n><f>/purificazione<n><f>$
-#\^.\<sent\> depurazione<n><f>/purificazione<n><f>$
-#\^.\<sent\> ricerca<n><f>/persecuzione<n><f>$
-#\^.\<sent\> ricerca<n><f>/persecuzione<n><f>$
+#\^.\<sent\> pylon<n><m>/pilone<n><m>$
 #\^.\<sent\> domanda<n><f>/problema<n><m>/questione<n><f>/interrogativo<n><m>/interrogazione<n><f>$
 #\^.\<sent\> domanda<n><f>/problema<n><m>/questione<n><f>/interrogativo<n><m>/interrogazione<n><f>$
 #\^.\<sent\> domanda<n><f>/problema<n><m>/questione<n><f>/interrogativo<n><m>/interrogazione<n><f>$
@@ -33425,10 +33405,6 @@ ALTRES ERRADES DE BILING�E
 #\^.\<sent\> bufera<n><f>/tormenta<n><f>$
 #\^.\<sent\> stufa<n><f>/cucina<n><f>$
 #\^.\<sent\> stufa<n><f>/cucina<n><f>$
-#\^.\<sent\> colpo<n><m>/tratto<n><m>/traccia<n><f>/attacco<n><m>$
-#\^.\<sent\> colpo<n><m>/tratto<n><m>/traccia<n><f>/attacco<n><m>$
-#\^.\<sent\> colpo<n><m>/tratto<n><m>/traccia<n><f>/attacco<n><m>$
-#\^.\<sent\> colpo<n><m>/tratto<n><m>/traccia<n><f>/attacco<n><m>$
 #\^.\<sent\> suicida<n><GD>/suicidio<n><m>$
 #\^.\<sent\> suicida<n><GD>/suicidio<n><m>$
 #\^.\<sent\> cambio<n><m>/cambiamento<n><m>$

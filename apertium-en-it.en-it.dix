@@ -11022,7 +11022,7 @@
 <e><p><l>bribe<s n="vblex"/></l><r>corrompere<s n="vblex"/></r></p></e>
 <e><p><l>brief<s n="vblex"/></l><r>informare<s n="vblex"/></r></p></e>
 <e><p><l>bring<s n="vblex"/></l><r>portare<s n="vblex"/></r></p></e>
-<e><p><l>bring<g><b/>back</g><s n="vblex"/></l><r>riportare<s n="vblex"/></r></p></e>
+<e><p><l>bring<g><b/>back</g><s n="vblex"/><s n="sep"/></l><r>riportare<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>bring<g><b/>down</g><s n="vblex"/><s n="sep"/></l><r>scendere<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>bring<g><b/>together</g><s n="vblex"/><s n="sep"/></l><r>riunire<s n="vblex"/></r></p></e>
 <e><p><l>broaden<s n="vblex"/></l><r>ampliare<s n="vblex"/></r></p></e>
@@ -19153,10 +19153,6 @@
 <e><p><l>queen<s n="n"/></l><r>re<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>query<s n="n"/></l><r>consulta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>question<s n="n"/></l><r>questione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>question<s n="n"/></l><r>problema<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>question<s n="n"/></l><r>domanda<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>question<s n="n"/></l><r>interrogazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>question<s n="n"/></l><r>interrogativo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>quorum<s n="n"/></l><r>quorum<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
 <e><p><l>quotation<s n="n"/></l><r>citazione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>quotation<b/>mark<s n="n"/><s n="ND"/></l><r>virgolette<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -20068,10 +20064,9 @@
 <e><p><l>storage<s n="n"/></l><r>archiviazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>store<s n="n"/></l><r>negozio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>stork<s n="n"/></l><r>cicogna<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>storm<s n="n"/></l><r>tormenta<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>storm<s n="n"/></l><r>tormenta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>storm<s n="n"/></l><r>bufera<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>story<s n="n"/></l><r>storia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>stove<s n="n"/></l><r>cucina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>stove<s n="n"/></l><r>stufa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>strain<s n="n"/></l><r>tensione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>strand<s n="n"/></l><r>filo<s n="n"/><s n="m"/></r></p></e>
@@ -20147,8 +20142,8 @@
 <e><p><l>suffrage<s n="n"/></l><r>suffragio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>sugar<s n="n"/></l><r>zucchero<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>suggestion<s n="n"/></l><r>suggerimento<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>suicide<s n="n"/></l><r>suicidio<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>suicide<s n="n"/></l><r>suicida<s n="n"/><s n="GD"/></r></p></e>
+<e slr="suicidio D"><p><l>suicide<s n="n"/></l><r>suicidio<s n="n"/><s n="m"/></r></p></e>
+<e slr="suicida"><p><l>suicide<s n="n"/></l><r>suicida<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>suicide<s n="n"/></l><r>suicida<s n="n"/></r></p></e>
 <e c="Jur." slr="contenzioso"><p><l>suit<s n="n"/></l><r>contenzioso<s n="n"/><s n="m"/></r></p></e>
 <e slr="vestito D"><p><l>suit<s n="n"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e>
