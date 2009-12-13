@@ -18952,8 +18952,8 @@
 <e><p><l>prevention<s n="n"/></l><r>prevenzione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>price<s n="n"/></l><r>prezzo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>pride<s n="n"/></l><r>orgoglio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>priest<s n="n"/></l><r>cura<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>priest<s n="n"/></l><r>prete<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>priest<s n="n"/></l><r>cura<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>priest<s n="n"/></l><r>prete<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>priest<s n="n"/></l><r>sacerdote<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>priest<s n="n"/></l><r>sacerdote<s n="n"/></r></p></e>
 <e><p><l>priesthood<s n="n"/></l><r>sacerdozio<s n="n"/><s n="m"/></r></p></e>
@@ -18964,14 +18964,13 @@
 <e><p><l>princess<s n="n"/></l><r>principe<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>principle<s n="n"/></l><r>principio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>print<s n="n"/></l><r>impressione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>print<s n="n"/></l><r>impronta<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>print<s n="n"/></l><r>impronta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>printer<s n="n"/></l><r>stampante<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>printing<s n="n"/></l><r>stampa<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>printing<s n="n"/></l><r>impressione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>priority<s n="n"/><s n="ND"/></l><r>priorità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>priority<s n="n"/><s n="sg"/></l><r>priorità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>priority<s n="n"/><s n="pl"/></l><r>priorità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e><p><l>prison<s n="n"/></l><r>carcere<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>incarceration<s n="n"/></l><r>carcere<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>prison<s n="n"/></l><r>prigione<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>prisoner<s n="n"/></l><r>prigioniero<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>prisoner<s n="n"/></l><r>prigioniero<s n="n"/></r></p></e>
@@ -18986,7 +18985,7 @@
 <e><p><l>problem<s n="n"/></l><r>problema<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>procedure<s n="n"/></l><r>procedura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>process<s n="n"/></l><r>processo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>processing<s n="n"/></l><r>elaborazione<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>processing<s n="n"/></l><r>elaborazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>processing<s n="n"/></l><r>lavorazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>procession<s n="n"/></l><r>processione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>proclamation<s n="n"/></l><r>proclamazione<s n="n"/><s n="f"/></r></p></e>
@@ -18999,8 +18998,8 @@
 <e r="LR"><p><l>productivity<s n="n"/><s n="sg"/></l><r>produttività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>productivity<s n="n"/><s n="pl"/></l><r>produttività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>productivity<s n="n"/><s n="ND"/></l><r>produttività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e><p><l>professional<s n="n"/></l><r>professionista<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>professional<s n="n"/></l><r>professionista<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>professional<s n="n"/></l><r>professionista<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>professional<s n="n"/></l><r>professionista<s n="n"/></r></p></e>
 <e r="LR"><p><l>professor<s n="n"/></l><r>professore<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>professor<s n="n"/></l><r>professore<s n="n"/></r></p></e>
 <e><p><l>profile<s n="n"/></l><r>profilo<s n="n"/><s n="m"/></r></p></e>
