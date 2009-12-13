@@ -20102,10 +20102,10 @@
 <e><p><l>stress<s n="n"/></l><r>tensione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>strike<s n="n"/></l><r>sciopero<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>string<s n="n"/></l><r>corda<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>stroke<s n="n"/></l><r>attacco<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>stroke<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>stroke<s n="n"/></l><r>traccia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>stroke<s n="n"/></l><r>tratto<s n="n"/><s n="m"/></r></p></e>
+<e slr="attacco D" r="LR"><p><l>stroke<s n="n"/></l><r>attacco<s n="n"/><s n="m"/></r></p></e>
+<e slr="colpo"><p><l>stroke<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e>
+<e slr="traccia"><p><l>stroke<s n="n"/></l><r>traccia<s n="n"/><s n="f"/></r></p></e>
+<e slr="tratto"><p><l>stroke<s n="n"/></l><r>tratto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>strontium<s n="n"/></l><r>stronzio<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
 <e><p><l>structure<s n="n"/></l><r>struttura<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>structure<s n="n"/></l><r>compagine<s n="n"/><s n="f"/></r></p></e>
