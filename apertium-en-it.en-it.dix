@@ -14255,9 +14255,9 @@
 <e r="LR"><p><l>aristocrat<s n="n"/></l><r>aristocratico<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>aristocrat<s n="n"/></l><r>aristocratico<s n="n"/></r></p></e>
 <e><p><l>arithmetic<s n="n"/></l><r>aritmetica<s n="n"/><s n="f"/></r></p></e>
-<e c="(només en plural, arms (en-ca). En plural serà polisèmica de en a ca, (braços, armes) i en sg es traduirà només com a 'braç')"><p><l>arm<s n="n"/><s n="pl"/></l><r>arma<s n="n"/></r></p></e>
+<e c="(només en plural, arms (en-ca). En plural serà polisèmica de en a ca, (braços, armes) i en sg es traduirà només com a 'braç')" slr="arma"><p><l>arm<s n="n"/><s n="pl"/></l><r>arma<s n="n"/></r></p></e>
 <e><p><l>arm<s n="n"/><s n="sg"/></l><r>braccio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e><p><l>arm<s n="n"/><s n="pl"/></l><r>braccio<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e slr="braccio D"><p><l>arm<s n="n"/><s n="pl"/></l><r>braccio<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>arm<s n="n"/><s n="pl"/></l><r>braccio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e><p><l>armament<s n="n"/></l><r>armamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>armistice<s n="n"/></l><r>armistizio<s n="n"/><s n="m"/></r></p></e>
@@ -15147,7 +15147,7 @@
 <e r="RL"><p><l>cobblestone<s n="n"/><s n="ND"/></l><r>pavé<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>cobblestone<s n="n"/><s n="sg"/></l><r>pavé<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>cobblestone<s n="n"/><s n="pl"/></l><r>pavé<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e><p><l>cobweb<s n="n"/></l><r>ragnatela<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>cobweb<s n="n"/></l><r>ragnatela<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cocaine<s n="n"/></l><r>cocaina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cock<s n="n"/></l><r>gallo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cockroach<s n="n"/></l><r>blatta<s n="n"/><s n="f"/></r></p></e>
@@ -17460,7 +17460,7 @@
 <e r="LR"><p><l>kebab<s n="n"/><s n="pl"/></l><r>kebab<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e slr="chiave D"><p><l>key<s n="n"/></l><r>chiave<s n="n"/><s n="f"/></r></p></e>
 <e slr="codice"><p><l>key<s n="n"/></l><r>codice<s n="n"/><s n="m"/></r></p></e>
-<e slr="tono"><p><l>key<s n="n"/></l><r>tono<s n="n"/><s n="m"/></r></p></e>
+<e slr="tono" r="LR"><p><l>key<s n="n"/></l><r>tono<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>keyboard<s n="n"/></l><r>tastiera<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>keyboard<s n="n"/></l><r>tastiera<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>kid<s n="n"/></l><r>bambino<s n="n"/><s n="GD"/></r></p></e>
@@ -17707,8 +17707,7 @@
 <e r="LR"><p><l>lucidity<s n="n"/><s n="pl"/></l><r>lucidità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>luck<s n="n"/></l><r>regime<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>luggage<s n="n"/></l><r>bagaglio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>lumber<s n="n"/></l><r>legno<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>lumber<s n="n"/></l><r>legname<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>lumber<s n="n"/></l><r>legno<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>luminosity<s n="n"/><s n="ND"/></l><r>luminosità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>luminosity<s n="n"/><s n="sg"/></l><r>luminosità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>luminosity<s n="n"/><s n="pl"/></l><r>luminosità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -18105,7 +18104,7 @@
 <e><p><l>murder<s n="n"/></l><r>assassinio<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>murderer<s n="n"/></l><r>assassino<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>murderer<s n="n"/></l><r>assassino<s n="n"/></r></p></e>
-<e><p><l>murmur<s n="n"/></l><r>brusio<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>murmur<s n="n"/></l><r>brusio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>muscle<s n="n"/></l><r>muscolo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>muse<s n="n"/></l><r>musa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>museum<s n="n"/></l><r>museo<s n="n"/><s n="m"/></r></p></e>
@@ -18736,7 +18735,7 @@
 <e><p><l>piracy<s n="n"/></l><r>pirateria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>pirate<s n="n"/></l><r>pirata<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>pirate<s n="n"/></l><r>pirata<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>pitch<s n="n"/></l><r>tono<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>pitch<s n="n"/></l><r>tono<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>pity<s n="n"/><s n="sg"/></l><r>pena<s n="n"/></r></p></e>
 <e><p><l>pizza<s n="n"/></l><r>pizza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>place<s n="n"/></l><r>luogo<s n="n"/><s n="m"/></r></p></e>
@@ -20400,7 +20399,7 @@
 <e r="LR"><p><l>tonality<s n="n"/><s n="pl"/></l><r>tonalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>tone<s n="n"/></l><r>tono<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tongue<s n="n"/></l><r>lingua<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>tonne<s n="n"/></l><r>tonnellata<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>tonne<s n="n"/></l><r>tonnellata<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tool<s n="n"/></l><r>utensile<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tool<s n="n"/></l><r>arnese<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tooth<s n="n"/></l><r>dente<s n="n"/><s n="m"/></r></p></e>
@@ -20819,13 +20818,12 @@
 <e><p><l>waterlily<s n="n"/></l><r>ninfea<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>wave<s n="n"/></l><r>ondata<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>wax<s n="n"/></l><r>cera<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>way<s n="n"/></l><r>cammino<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>way<s n="n"/></l><r>maniera<s n="n"/><s n="f"/></r></p></e>
+<e slr="cammino"><p><l>way<s n="n"/></l><r>cammino<s n="n"/><s n="m"/></r></p></e>
+<e slr="maniera D"><p><l>way<s n="n"/></l><r>maniera<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>way<s n="n"/></l><r>modo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>weakness<s n="n"/></l><r>debolezza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>wealth<s n="n"/></l><r>ricchezza<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>weapon<s n="n"/><s n="sg"/></l><r>arma<s n="n"/></r></p></e>
-<e><p><l>weapon<s n="n"/><s n="pl"/></l><r>arma<s n="n"/></r></p></e>
+<e><p><l>weapon<s n="n"/></l><r>arma<s n="n"/></r></p></e>
 <e><p><l>wear<s n="n"/></l><r>sperpero<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>weather<s n="n"/></l><r>tempo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>weather<s n="n"/><s n="ND"/></l><r>tempo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -20856,10 +20854,10 @@
 <e><p><l>white<b/>wagtail<s n="n"/></l><r>ballerina<b/>bianca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>wholesaler<s n="n"/></l><r>grossista<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>whore<s n="n"/></l><r>puttana<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>widower<s n="n"/></l><r>vedovo<s n="n"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>widower<s n="n"/></l><r>vedovo<s n="n"/></r></p></e>
+<e><p><l>widower<s n="n"/></l><r>vedovo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>widow<s n="n"/></l><r>vedovo<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>width<s n="n"/></l><r>traverso<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>wife<s n="n"/></l><r>donna<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>wife<s n="n"/></l><r>donna<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>wig<s n="n"/></l><r>parrucca<s n="n"/><s n="f"/></r></p></e>
 <e c="Jur."><p><l>will<s n="n"/></l><r>testamento<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>will<s n="n"/><s n="ND"/></l><r>volontà<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -20885,12 +20883,10 @@
 <e r="RL"><p><l>wolf<s n="n"/></l><r>lupo<s n="n"/></r></p></e>
 <e><p><l>woman<s n="n"/></l><r>donna<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>woman<g><b/>in<b/>labour</g><s n="n"/></l><r>partoriente<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>wood<s n="n"/><s n="sg"/></l><r>bosco<s n="n"/></r></p></e>
-<e><p><l>wood<s n="n"/><s n="sg"/></l><r>foresta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>wood<s n="n"/><s n="pl"/></l><r>bosco<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e><p><l>wood<s n="n"/><s n="pl"/></l><r>foresta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>wood<s n="n"/><s n="sg"/></l><r>legno<s n="n"/></r></p></e>
-<e><p><l>wood<s n="n"/><s n="sg"/></l><r>legname<s n="n"/><s n="m"/></r></p></e>
+<e slr="bosco" r="LR"><p><l>wood<s n="n"/><s n="sg"/></l><r>bosco<s n="n"/></r></p></e>
+<e r="LR"><p><l>wood<s n="n"/><s n="pl"/></l><r>bosco<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e slr="legno D"><p><l>wood<s n="n"/><s n="sg"/></l><r>legno<s n="n"/></r></p></e>
+<e r="RL"><p><l>wood<s n="n"/><s n="sg"/></l><r>legname<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>wood<b/>paste<s n="n"/></l><r>pasta<g><b/>da<b/>carta</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>wood<b/>pulp<s n="n"/></l><r>pasta<g><b/>di<b/>legno</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>wool<s n="n"/></l><r>lana<s n="n"/><s n="f"/></r></p></e>
@@ -20908,7 +20904,7 @@
 <e r="LR"><p><l>worship<s n="n"/></l><r>adorazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>worth<s n="n"/></l><r>valore<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>wound<s n="n"/></l><r>ferita<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>wrist<s n="n"/></l><r>bambola<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>wrist<s n="n"/></l><r>polso<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>writer<s n="n"/></l><r>scrittore<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>writer<s n="n"/></l><r>scrittore<s n="n"/></r></p></e>
 <e r="RL"><p><l>writing<s n="n"/></l><r>scritto<s n="n"/></r></p></e>
