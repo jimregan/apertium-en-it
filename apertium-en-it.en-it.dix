@@ -9524,7 +9524,7 @@
 <e><p><l>bilateral<s n="adj"/></l><r>bilaterale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>bimonthly<s n="adj"/></l><r>bimestrale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>biological<s n="adj"/></l><r>biologico<s n="adj"/></r></p></e>
-<e><p><l>bizarre<s n="adj"/></l><r>strano<s n="adj"/></r></p></e>
+<e r="LR"><p><l>bizarre<s n="adj"/></l><r>strano<s n="adj"/></r></p></e>
 <e><p><l>black<s n="adj"/></l><r>nero<s n="adj"/></r></p></e>
 <e><p><l>blind<s n="adj"/><s n="sint"/></l><r>cieco<s n="adj"/></r></p></e>
 <e><p><l>blond<s n="adj"/><s n="sint"/></l><r>biondo<s n="adj"/></r></p></e>
@@ -9854,7 +9854,7 @@
 <e><p><l>fearsome<s n="adj"/></l><r>temibile<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>feasible<s n="adj"/></l><r>fattibile<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>federal<s n="adj"/></l><r>federale<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>feeble<s n="adj"/><s n="sint"/></l><r>debole<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>feeble<s n="adj"/><s n="sint"/></l><r>debole<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>felicitous<s n="adj"/></l><r>adeguato<s n="adj"/></r></p></e>
 <e><p><l>fellow<s n="adj"/></l><r>amico<s n="adj"/></r></p></e>
 <e><p><l>female<s n="adj"/></l><r>femminile<s n="adj"/><s n="mf"/></r></p></e>
@@ -10293,11 +10293,11 @@
 <e r="LR"><p><l>obstinate<s n="adj"/></l><r>ostinato<s n="adj"/></r></p></e>
 <e><p><l>obvious<s n="adj"/></l><r>ovvio<s n="adj"/></r></p></e>
 <e><p><l>occasional<s n="adj"/></l><r>occasionale<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>occidental<s n="adj"/></l><r>occidentale<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>occidental<s n="adj"/></l><r>occidentale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>occupational<s n="adj"/></l><r>occupazionale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>ocular<s n="adj"/></l><r>oculare<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>odd<s n="adj"/><s n="sint"/></l><r>strano<s n="adj"/></r></p></e>
-<e r="RL"><p><l>odd<s n="adj"/><s n="sint"/></l><r>dispari<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
+<e r="LR" slr="strano D"><p><l>odd<s n="adj"/><s n="sint"/></l><r>strano<s n="adj"/></r></p></e>
+<e slr="dispari"><p><l>odd<s n="adj"/><s n="sint"/></l><r>dispari<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>of<b/>note<s n="adj"/></l><r>importante<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>official<s n="adj"/></l><r>ufficiale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>old<s n="adj"/><s n="sint"/></l><r>vecchio<s n="adj"/></r></p></e>
@@ -10350,7 +10350,6 @@
 <e><p><l>patrimonial<s n="adj"/></l><r>patrimoniale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>patron<s n="adj"/></l><r>patronale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>peaceful<s n="adj"/></l><r>pacifico<s n="adj"/></r></p></e>
-<e><p><l>peculiar<s n="adj"/></l><r>strano<s n="adj"/></r></p></e>
 <e><p><l>peculiar<s n="adj"/></l><r>peculiare<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>penal<s n="adj"/></l><r>penale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>peninsular<s n="adj"/></l><r>peninsulare<s n="adj"/><s n="mf"/></r></p></e>
@@ -10406,7 +10405,8 @@
 <e><p><l>presential<s n="adj"/></l><r>presenziale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>presidential<s n="adj"/></l><r>presidenziale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>prestigious<s n="adj"/></l><r>prestigioso<s n="adj"/></r></p></e>
-<e><p><l>pretty<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
+<e><p><l>diplomatic<s n="adj"/></l><r>diplomato<s n="adj"/></r></p></e>
+<e><p><l>pretty<s n="adj"/><s n="sint"/></l><r>bello<s n="adj"/></r></p></e>
 <e><p><l>previous<s n="adj"/></l><r>anteriore<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>previous<s n="adj"/></l><r>previo<s n="adj"/></r></p></e>
 <e><p><l>principal<s n="adj"/></l><r>principale<s n="adj"/><s n="mf"/></r></p></e>
@@ -10586,8 +10586,7 @@
 <e><p><l>state-of-the-art<s n="adj"/></l><r>moderno<s n="adj"/></r></p></e>
 <e><p><l>statistical<s n="adj"/></l><r>statistico<s n="adj"/></r></p></e>
 <e><p><l>stellar<s n="adj"/></l><r>stellare<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>stock<b/>market<s n="adj"/></l><r>borsistico<s n="adj"/><s n="m"/></r></p></e>
-<e><p><l>stock<b/>market<s n="adj"/></l><r>borsistico<s n="adj"/><s n="f"/></r></p></e>
+<e><p><l>stock<b/>market<s n="adj"/></l><r>borsistico<s n="adj"/></r></p></e>
 <e><p><l>straightforward<s n="adj"/></l><r>sincero<s n="adj"/></r></p></e>
 <e><p><l>strange<s n="adj"/><s n="sint"/></l><r>strano<s n="adj"/></r></p></e>
 <e><p><l>strategic<s n="adj"/></l><r>strategico<s n="adj"/></r></p></e>
@@ -10604,7 +10603,7 @@
 <e><p><l>suborbital<s n="adj"/></l><r>suborbitale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>subscriber<s n="adj"/></l><r>abbonato<s n="adj"/></r></p></e>
 <e><p><l>substantial<s n="adj"/></l><r>sostanziale<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>subterranean<s n="adj"/></l><r>sotterraneo<s n="adj"/></r></p></e>
+<e r="LR"><p><l>subterranean<s n="adj"/></l><r>sotterraneo<s n="adj"/></r></p></e>
 <e><p><l>subtle<s n="adj"/><s n="sint"/></l><r>sottile<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>suburban<s n="adj"/></l><r>suburbano<s n="adj"/></r></p></e>
 <e><p><l>succinct<s n="adj"/></l><r>succinto<s n="adj"/></r></p></e>
@@ -10703,7 +10702,7 @@
 <e><p><l>universal<s n="adj"/></l><r>universale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>university<s n="adj"/></l><r>universitario<s n="adj"/></r></p></e>
 <e><p><l>unkind<s n="adj"/><s n="sint"/></l><r>antipatico<s n="adj"/></r></p></e>
-<e><p><l>unlike<s n="adj"/></l><r>differente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>unlike<s n="adj"/></l><r>differente<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>unlikely<s n="adj"/></l><r>inverosimile<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>unnatural<s n="adj"/></l><r>antinaturale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>unpopular<s n="adj"/></l><r>impopolare<s n="adj"/><s n="mf"/></r></p></e>
@@ -10758,9 +10757,9 @@
 <e><p><l>waterproof<s n="adj"/></l><r>impermeabile<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>watery<s n="adj"/></l><r>acquoso<s n="adj"/></r></p></e>
 <e><p><l>weak<s n="adj"/><s n="sint"/></l><r>debole<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>wealthy<s n="adj"/><s n="sint"/></l><r>ricco<s n="adj"/></r></p></e>
+<e r="LR"><p><l>wealthy<s n="adj"/><s n="sint"/></l><r>ricco<s n="adj"/></r></p></e>
 <e><p><l>weekly<s n="adj"/></l><r>settimanale<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>weird<s n="adj"/></l><r>strano<s n="adj"/></r></p></e>
+<e r="LR"><p><l>weird<s n="adj"/></l><r>strano<s n="adj"/></r></p></e>
 <e><p><l>welcome<s n="adj"/></l><r>benvenuto<s n="adj"/></r></p></e>
 <e><p><l>western<s n="adj"/></l><r>occidentale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>wheel<s n="adj"/></l><r>volante<s n="adj"/><s n="mf"/></r></p></e>
@@ -10782,10 +10781,10 @@
 <e><p><l>worthwhile<s n="adj"/></l><r>interessante<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>worthy<s n="adj"/></l><r>degno<s n="adj"/></r></p></e>
 <e><p><l>written<s n="adj"/></l><r>scritto<s n="adj"/></r></p></e>
-<e><p><l>yearly<s n="adj"/></l><r>annuale<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>yearly<s n="adj"/></l><r>annuale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>young<s n="adj"/><s n="sint"/></l><r>giovane<s n="adj"/><s n="mf"/></r></p></e>
 <e c="per ara de en-ca es genera només 'vostre'"><p><l>yours<s n="adj"/></l><r>tuo<s n="adj"/></r></p></e>
-<e><p><l>yours<s n="adj"/></l><r>vostro<s n="adj"/></r></p></e>
+<e r="RL"><p><l>yours<s n="adj"/></l><r>vostro<s n="adj"/></r></p></e>
 <e><p><l>yugoslav<s n="adj"/></l><r>iugoslavo<s n="adj"/></r></p></e>
 <e><p><l>have<s n="vbhaver"/></l><r>avere<s n="vbhaver"/></r></p></e>
 <e><p><l>have<g><b/>to</g><s n="vbmod"/></l><r>dovere<s n="vbmod"/></r></p></e>
@@ -15247,21 +15246,19 @@
 <e><p><l>communication<s n="n"/></l><r>comunicazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>communion<s n="n"/></l><r>comunione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>communism<s n="n"/></l><r>comunismo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>communist<s n="n"/></l><r>comunista<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>communist<s n="n"/></l><r>comunista<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>communist<s n="n"/></l><r>comunista<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>communist<s n="n"/></l><r>comunista<s n="n"/></r></p></e>
 <e r="RL"><p><l>community<s n="n"/><s n="ND"/></l><r>comunità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>community<s n="n"/><s n="sg"/></l><r>comunità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>community<s n="n"/><s n="pl"/></l><r>comunità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>community<s n="n"/><s n="ND"/></l><r>collettività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>community<s n="n"/><s n="sg"/></l><r>collettività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>community<s n="n"/><s n="pl"/></l><r>collettività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>companion<s n="n"/></l><r>compagno<s n="n"/><s n="GD"/></r></p></e>
-<e><p><l>company<s n="n"/></l><r>compagnia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>company<s n="n"/></l><r>azienda<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>company<s n="n"/></l><r>compagnia<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>company<s n="n"/></l><r>azienda<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>company<s n="n"/></l><r>impresa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>comparison<s n="n"/></l><r>comparazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>comparison<s n="n"/></l><r>confronto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>comparison<s n="n"/></l><r>raffronto<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>comparison<s n="n"/></l><r>confronto<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>comparison<s n="n"/></l><r>raffronto<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>compass<s n="n"/></l><r>bussola<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>compass<s n="n"/></l><r>compasso<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>compassion<s n="n"/></l><r>compassione<s n="n"/><s n="f"/></r></p></e>
@@ -15270,9 +15267,8 @@
 <e r="LR"><p><l>compatibility<s n="n"/><s n="pl"/></l><r>compatibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>compendium<s n="n"/></l><r>compendio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>compensation<s n="n"/></l><r>compensazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>competition<s n="n"/></l><r>competenza<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>competition<s n="n"/></l><r>concorrenza<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>competition<s n="n"/></l><r>competizione<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>competition<s n="n"/></l><r>competenza<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>competition<s n="n"/></l><r>concorrenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>competition<s n="n"/></l><r>competizione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>competitiveness<s n="n"/><s n="ND"/></l><r>competitività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>competitiveness<s n="n"/><s n="sg"/></l><r>competitività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -15300,14 +15296,14 @@
 <e><p><l>computation<s n="n"/></l><r>computazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>computer<s n="n"/></l><r>computer<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>computerisation<s n="n"/></l><r>informatizzazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>comrade<s n="n"/></l><r>camerata<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>comrade<s n="n"/></l><r>camerata<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>comrade<s n="n"/></l><r>camerata<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>comrade<s n="n"/></l><r>camerata<s n="n"/></r></p></e>
 <e><p><l>concatenation<s n="n"/></l><r>concatenazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>concealment<s n="n"/></l><r>occultamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>concentration<s n="n"/></l><r>concentrazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>concept<s n="n"/></l><r>concetto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>conception<s n="n"/></l><r>concezione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>concern<s n="n"/></l><r>preoccupazione<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>concern<s n="n"/></l><r>preoccupazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>concert<s n="n"/></l><r>concerto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>negotiation<s n="n"/></l><r>trattativa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>concertation<s n="n"/></l><r>concertazione<s n="n"/><s n="f"/></r></p></e>
@@ -15322,8 +15318,7 @@
 <e><p><l>condensation<s n="n"/></l><r>condensazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>condiment<s n="n"/></l><r>condimento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>condition<s n="n"/></l><r>condizione<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>condom<s n="n"/><s n="ND"/></l><r>condom<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e><p><l>condom<s n="n"/></l><r>profilattico<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>condom<s n="n"/></l><r>profilattico<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
 <e><p><l>condominium<s n="n"/></l><r>condominio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>conduct<s n="n"/></l><r>condotta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>conduction<s n="n"/></l><r>conduzione<s n="n"/><s n="f"/></r></p></e>
@@ -15336,13 +15331,13 @@
 <e><p><l>confederation<s n="n"/></l><r>confederazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>conference<s n="n"/></l><r>conferenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>confession<s n="n"/></l><r>confessione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>confidence<s n="n"/></l><r>fiducia<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>confidence<s n="n"/></l><r>fiducia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>confidence<s n="n"/></l><r>confidenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>configuration<s n="n"/></l><r>configurazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>confirmation<s n="n"/></l><r>confermazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>confirmation<s n="n"/></l><r>caso<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>conflict<s n="n"/></l><r>conflitto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>conflict<s n="n"/></l><r>conflittualità<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>conflict<s n="n"/></l><r>conflittualità<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>confluence<s n="n"/></l><r>confluenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>conformism<s n="n"/></l><r>conformismo<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>conformity<s n="n"/><s n="sg"/></l><r>conformità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -15360,7 +15355,7 @@
 <e><p><l>connotation<s n="n"/></l><r>connotazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>conquest<s n="n"/></l><r>conquista<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>consciousness<s n="n"/></l><r>coscienza<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>consciousness<s n="n"/></l><r>consapevolezza<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>consciousness<s n="n"/></l><r>consapevolezza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>conscription<s n="n"/></l><r>coscrizione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>consecration<s n="n"/></l><r>consacrazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>consensus<s n="n"/></l><r>consenso<s n="n"/><s n="m"/></r></p></e>
@@ -15384,25 +15379,25 @@
 <e><p><l>constellation<s n="n"/></l><r>costellazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>consternation<s n="n"/></l><r>costernazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>constitution<s n="n"/></l><r>costituzione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>construction<s n="n"/></l><r>edilizia<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>construction<s n="n"/></l><r>edilizia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>construction<s n="n"/></l><r>costruzione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>constructivism<s n="n"/></l><r>costruttivismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>consul<s n="n"/></l><r>console<s n="n"/><s n="mf"/></r></p></e>
-<e><p><l>consultation<s n="n"/></l><r>consulta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>consultation<s n="n"/></l><r>consultazione<s n="n"/><s n="f"/></r></p></e>
+<e slr="consulta"><p><l>consultation<s n="n"/></l><r>consulta<s n="n"/><s n="f"/></r></p></e>
+<e slr="consultazione D"><p><l>consultation<s n="n"/></l><r>consultazione<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>consumer<s n="n"/></l><r>consumatore<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>consumer<s n="n"/></l><r>consumatore<s n="n"/></r></p></e>
 <e><p><l>consumerism<s n="n"/></l><r>consumismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>consumption<s n="n"/></l><r>consumo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>contact<s n="n"/></l><r>contatto<s n="n"/><s n="m"/></r></p></e>
 <e c="Transp."><p><l>container<s n="n"/></l><r>contenitore<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>container<s n="n"/></l><r>container<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>container<s n="n"/></l><r>container<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>contemplation<s n="n"/></l><r>contemplazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>contest<s n="n"/></l><r>concorso<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>context<s n="n"/></l><r>contesto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>continent<s n="n"/></l><r>continente<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>contingent<s n="n"/></l><r>contingente<s n="n"/><s n="mf"/></r></p></e>
-<e><p><l>continuation<s n="n"/></l><r>proseguimento<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>continuation<s n="n"/></l><r>proseguimento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>continuation<s n="n"/></l><r>continuazione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>continuity<s n="n"/><s n="ND"/></l><r>continuità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>continuity<s n="n"/><s n="sg"/></l><r>continuità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -15411,7 +15406,7 @@
 <e r="LR"><p><l>contortionist<s n="n"/></l><r>contorsionista<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>contour<s n="n"/></l><r>contorno<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>contract<s n="n"/></l><r>contratto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>contract<s n="n"/></l><r>appalto<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>contract<s n="n"/></l><r>appalto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>contraction<s n="n"/></l><r>contrazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>contradiction<s n="n"/></l><r>contraddizione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>contraindication<s n="n"/></l><r>controindicazione<s n="n"/><s n="f"/></r></p></e>
@@ -15429,22 +15424,22 @@
 <e r="RL"><p><l>convertibility<s n="n"/><s n="ND"/></l><r>convertibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>convertibility<s n="n"/><s n="sg"/></l><r>convertibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>convertibility<s n="n"/><s n="pl"/></l><r>convertibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e><p><l>conviction<s n="n"/></l><r>condanna<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>conviction<s n="n"/></l><r>convinzione<s n="n"/><s n="f"/></r></p></e>
+<e slr="condanna D"><p><l>conviction<s n="n"/></l><r>condanna<s n="n"/><s n="f"/></r></p></e>
+<e slr="convinzione"><p><l>conviction<s n="n"/></l><r>convinzione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>convocation<s n="n"/></l><r>convocazione<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>cook<s n="n"/></l><r>cuoco<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>cook<s n="n"/></l><r>cuoco<s n="n"/></r></p></e>
 <e><p><l>cooker<s n="n"/></l><r>cucina<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>cookie<s n="n"/></l><r>biscotto<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" c="en-US"><p><l>cookie<s n="n"/></l><r>biscotto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cooking<s n="n"/></l><r>cucina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cooperation<s n="n"/></l><r>cooperazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cooperative<s n="n"/></l><r>cooperativa<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>coordination<s n="n"/></l><r>coordinazione<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>coordination<s n="n"/></l><r>coordinazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>coordination<s n="n"/></l><r>coordinamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>copper<s n="n"/></l><r>rame<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>copulation<s n="n"/></l><r>copulazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>copy<s n="n"/></l><r>copia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>copy<s n="n"/></l><r>esemplare<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>copy<s n="n"/></l><r>esemplare<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>copyright<s n="n"/><s n="sg"/></l><r>copyright<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>copyright<s n="n"/><s n="pl"/></l><r>copyright<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>copyright<s n="n"/><s n="ND"/></l><r>copyright<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -15457,7 +15452,7 @@
 <e><p><l>corn<s n="n"/></l><r>callo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>corner<s n="n"/></l><r>angolo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cornice<s n="n"/></l><r>cornice<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>coronation<s n="n"/></l><r>monarchia<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>coronation<s n="n"/></l><r>monarchia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>coronation<s n="n"/></l><r>coronazione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>coronation<s n="n"/></l><r>incoronazione<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>corporation<s n="n"/></l><r>impresa<s n="n"/><s n="f"/></r></p></e>
@@ -15479,10 +15474,10 @@
 <e><p><l>cotton<s n="n"/></l><r>cotone<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cough<s n="n"/></l><r>tosse<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>coughing<s n="n"/></l><r>tosse<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>council<s n="n"/></l><r>consiglio<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" c="seems wrong"><p><l>council<s n="n"/></l><r>consiglio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>counsel<s n="n"/></l><r>consiglio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>counter<s n="n"/></l><r>contatore<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>counter<s n="n"/></l><r>bancone<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>counter<s n="n"/></l><r>bancone<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>country<s n="n"/></l><r>paese<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>countryside<s n="n"/></l><r>campo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>county<s n="n"/></l><r>contea<s n="n"/><s n="f"/></r></p></e>
@@ -15491,7 +15486,7 @@
 <e><p><l>coupon<s n="n"/></l><r>buono<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>courage<s n="n"/></l><r>valore<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>course<s n="n"/></l><r>corso<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>course<s n="n"/></l><r>marcia<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>course<s n="n"/></l><r>marcia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tribunal<s n="n"/></l><r>tribunale<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>court<s n="n"/></l><r>taglio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>courtship<s n="n"/></l><r>corteggiamento<s n="n"/><s n="m"/></r></p></e>
@@ -15513,12 +15508,11 @@
 <e r="LR"><p><l>crane<s n="n"/><s n="sg"/></l><r>gru<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>crane<s n="n"/><s n="pl"/></l><r>gru<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>crane<s n="n"/><s n="ND"/></l><r>gru<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e><p><l>crash<s n="n"/></l><r>incidente<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>crash<s n="n"/></l><r>scontro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>crater<s n="n"/></l><r>cratere<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cream<s n="n"/></l><r>crema<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>creation<s n="n"/></l><r>creazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>creation<s n="n"/></l><r>avviamento<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>creation<s n="n"/></l><r>avviamento<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>creativity<s n="n"/><s n="ND"/></l><r>creatività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>creativity<s n="n"/><s n="sg"/></l><r>creatività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>creativity<s n="n"/><s n="pl"/></l><r>creatività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -15533,9 +15527,7 @@
 <e><p><l>crib<s n="n"/></l><r>presepe<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>crime<s n="n"/></l><r>crimine<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>crime<s n="n"/><s n="ND"/></l><r>criminalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>crime<s n="n"/><s n="sg"/></l><r>criminalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>crime<s n="n"/><s n="pl"/></l><r>criminalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e><p><l>crime<s n="n"/></l><r>delitto<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>crime<s n="n"/></l><r>delitto<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>criminologist<s n="n"/></l><r>criminologo<s n="n"/></r></p></e>
 <e r="LR"><p><l>criminologist<s n="n"/></l><r>criminologo<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>criminology<s n="n"/></l><r>criminologia<s n="n"/><s n="f"/></r></p></e>
@@ -18310,8 +18302,7 @@
 <e><p><l>obstinacy<s n="n"/></l><r>ostinazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>obtaining<s n="n"/></l><r>ottenimento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>occasion<s n="n"/></l><r>occasione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>occident<s n="n"/></l><r>occidente<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>occident<s n="n"/><s n="sg"/></l><r>occidente<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>occident<s n="n"/></l><r>occidente<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>occultation<s n="n"/></l><r>occultazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>occultism<s n="n"/></l><r>occultismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>occupation<s n="n"/></l><r>occupazione<s n="n"/><s n="f"/></r></p></e>
@@ -20040,8 +20031,8 @@
 <e><p><l>stern<s n="n"/></l><r>poppa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>sternum<s n="n"/></l><r>sterno<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>stick<s n="n"/></l><r>palo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>stick<s n="n"/></l><r>pylon<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>stick<s n="n"/></l><r>pertica<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>stick<s n="n"/></l><r>pylon<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>stick<s n="n"/></l><r>pertica<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>stimulation<s n="n"/></l><r>stimolazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>incentivisation<s n="n"/></l><r>incentivazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>stipulation<s n="n"/></l><r>stipulazione<s n="n"/><s n="f"/></r></p></e>
