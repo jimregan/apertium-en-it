@@ -19006,10 +19006,10 @@
 <e><p><l>profit<s n="n"/></l><r>utile<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>prognathism<s n="n"/></l><r>prognatismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>program<s n="n"/></l><r>programma<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>programme<s n="n"/></l><r>programma<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" c="v=en_GB"><p><l>programme<s n="n"/></l><r>programma<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>programming<s n="n"/></l><r>programmazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>progressivism<s n="n"/></l><r>progressismo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>prohibition<s n="n"/></l><r>divieto<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>prohibition<s n="n"/></l><r>divieto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>prohibition<s n="n"/></l><r>proibizione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>project<s n="n"/></l><r>progetto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>projectile<s n="n"/></l><r>proiettile<s n="n"/><s n="m"/></r></p></e>
@@ -19021,7 +19021,7 @@
 <e><p><l>promise<s n="n"/></l><r>promessa<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>promoter<s n="n"/></l><r>promotore<s n="n"/></r></p></e>
 <e r="LR"><p><l>promoter<s n="n"/></l><r>promotore<s n="n"/><s n="GD"/></r></p></e>
-<e><p><l>promotion<s n="n"/></l><r>ascenso<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>ascent<s n="n"/></l><r>ascenso<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>promotion<s n="n"/></l><r>promozione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>promulgation<s n="n"/></l><r>promulgazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>pronoun<s n="n"/></l><r>pronome<s n="n"/><s n="m"/></r></p></e>
@@ -19049,20 +19049,17 @@
 <e r="LR"><p><l>prosperity<s n="n"/><s n="sg"/></l><r>prosperità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>prosperity<s n="n"/><s n="pl"/></l><r>prosperità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>prosperity<s n="n"/><s n="ND"/></l><r>prosperità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e><p><l>prosthesis<s n="n"/><s n="ND"/></l><r>protesi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+<e r="RL"><p><l>prosthesis<s n="n"/><s n="ND"/></l><r>protesi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>prosthesis<s n="n"/><s n="sg"/></l><r>protesi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>prosthesis<s n="n"/><s n="pl"/></l><r>protesi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e><p><l>prostitute<s n="n"/></l><r>prostituzione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>prostitute<s n="n"/></l><r>prostituta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>prostitution<s n="n"/></l><r>prostituzione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>prostration<s n="n"/></l><r>prosternazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>protagonist<s n="n"/></l><r>protagonista<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>protagonist<s n="n"/></l><r>protagonista<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>protagonist<s n="n"/></l><r>protagonista<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>protagonist<s n="n"/></l><r>protagonista<s n="n"/></r></p></e>
 <e><p><l>protection<s n="n"/></l><r>protezione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>protectionism<s n="n"/></l><r>protezionismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>protein<s n="n"/></l><r>proteina<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>protest<s n="n"/></l><r>manifestazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>protest<s n="n"/></l><r>reclamo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>protest<s n="n"/></l><r>protesta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>protestantism<s n="n"/></l><r>protestantesimo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>protocol<s n="n"/></l><r>protocollo<s n="n"/><s n="m"/></r></p></e>
@@ -19108,31 +19105,29 @@
 <e><p><l>pulsation<s n="n"/></l><r>pulsazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>pulverisation<s n="n"/></l><r>polverizzazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>pump<s n="n"/></l><r>bomba<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>punishment<s n="n"/></l><r>castigo<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>punishment<s n="n"/></l><r>castigo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>punishment<s n="n"/></l><r>punizione<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>pupil<s n="n"/></l><r>alunno<s n="n"/><s n="GD"/></r></p></e>
-<e c="check"><p><l>pupil<s n="n"/></l><r>scolare<s n="n"/><s n="m"/></r></p></e>
-<e c="check"><p><l>pupil<s n="n"/></l><r>scolare<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>pupil<s n="n"/></l><r>pupilla<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>puppet<s n="n"/></l><r>marionetta<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>alumnus<s n="n"/></l><r>alunno<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>alumnus<s n="n"/></l><r>alunno<s n="n"/></r></p></e>
+<e slr="scolare D"><p><l>pupil<s n="n"/></l><r>scolare<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>pupil<s n="n"/></l><r>scolare<s n="n"/></r></p></e>
+<e slr="pupilla"><p><l>pupil<s n="n"/></l><r>pupilla<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>marionette<s n="n"/></l><r>marionetta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>puppet<s n="n"/></l><r>pupazzo<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>puppy<s n="n"/></l><r>cucciolo<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>puppy<s n="n"/></l><r>cucciolo<s n="n"/></r></p></e>
 <e><p><l>purchase<s n="n"/></l><r>spesa<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>purchase<s n="n"/><s n="sg"/></l><r>acquisto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>purchase<s n="n"/><s n="sg"/></l><r>spesa<s n="n"/></r></p></e>
+<e><p><l>acquisition<s n="n"/></l><r>acquisto<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>purchaser<s n="n"/></l><r>compratore<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>purchaser<s n="n"/></l><r>acquirente<s n="n"/><s n="mf"/></r></p></e>
 <e r="RL"><p><l>purchaser<s n="n"/></l><r>committente<s n="n"/></r></p></e>
-<e r="RL"><p><l>purchaser<s n="n"/></l><r>acquirente<s n="n"/></r></p></e>
 <e r="RL"><p><l>purchaser<s n="n"/></l><r>compratore<s n="n"/></r></p></e>
-<e><p><l>purification<s n="n"/></l><r>depurazione<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>purification<s n="n"/></l><r>depurazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>purification<s n="n"/></l><r>purificazione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>purist<s n="n"/></l><r>purista<s n="n"/></r></p></e>
 <e r="LR"><p><l>purist<s n="n"/></l><r>purista<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>puritanism<s n="n"/></l><r>puritanismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>purpose<s n="n"/></l><r>proposito<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>pursuit<s n="n"/></l><r>ricerca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>pursuit<s n="n"/></l><r>persecuzione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>pus<s n="n"/><s n="ND"/></l><r>pus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>pus<s n="n"/><s n="sg"/></l><r>pus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
