@@ -24967,8 +24967,10 @@
     <e lm="acclimate"><i>acclimat</i><par n="liv/e__vblex"/>    </e>
     <e lm="accommodate"><i>accommodat</i><par n="liv/e__vblex"/>    </e>
     <e lm="accompany"><i>accompan</i><par n="appl/y__vblex"/>    </e>
+    <e lm="accompany"><i>accompan</i><par n="appl/y__vblex"/>    </e>
     <e lm="accomplish"><i>accomplish</i><par n="approach__vblex"/>    </e>
     <e lm="accredit"><i>accredit</i><par n="accept__vblex"/>    </e>
+    <e lm="caution"><i>caution</i><par n="accept__vblex"/>    </e>
     <e lm="accumulate"><i>accumulat</i><par n="liv/e__vblex"/>    </e>
     <e lm="narrate"><i>narrat</i><par n="liv/e__vblex"/>    </e>
     <e lm="accuse"><i>accus</i><par n="liv/e__vblex"/>    </e>
@@ -26293,10 +26295,12 @@
     <e lm="search"><i>search</i><par n="approach__vblex"/>    </e>
     <e lm="seat"><i>seat</i><par n="accept__vblex"/>    </e>
     <e lm="second"><i>second</i><par n="accept__vblex"/>    </e>
+    <e lm="respond"><i>respond</i><par n="accept__vblex"/>    </e>
     <e lm="secrete"><i>secret</i><par n="liv/e__vblex"/>    </e>
     <e lm="secure"><i>secur</i><par n="liv/e__vblex"/>    </e>
     <e lm="seduce"><i>seduc</i><par n="liv/e__vblex"/>    </e>
     <e lm="seem"><i>seem</i><par n="accept__vblex"/>    </e>
+    <e lm="seem like"><i>seem</i><par n="accept__vblex"/><p><l><b/>like</l><r><g><b/>like</g></r></p>    </e>
     <e lm="seize"><i>seiz</i><par n="liv/e__vblex"/>    </e>
     <e lm="select"><i>select</i><par n="accept__vblex"/>    </e>
     <e lm="send back"><i>sen</i><par n="ben/d__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>back</l><r><g><b/>back</g></r></p></e>
@@ -26440,7 +26444,10 @@
     <e lm="swim"><i>sw</i><par n="sw/im__vblex"/>    </e>
     <e lm="sweep"><i>swe</i><par n="ke/ep__vblex"/>    </e>
     <e lm="sweat"><i>sweat</i><par n="accept__vblex"/>    </e>
+    <e lm="program"><i>program</i><par n="program__vblex"/>    </e>
     <e lm="switch"><i>switch</i><par n="approach__vblex"/>    </e>
+    <e lm="prosper"><i>prosper</i><par n="approach__vblex"/>    </e>
+    <e lm="blackmail"><i>blackmail</i><par n="approach__vblex"/>    </e>
     <e lm="symbolize"><i>symboli</i><par n="organi/ze__vblex"/>    </e>
     <e lm="synchronize"><i>synchroni</i><par n="organi/ze__vblex"/>    </e>
     <e lm="tell"><i>t</i><par n="s/ell__vblex"/>    </e>
@@ -26451,6 +26458,7 @@
     <e lm="take part"><i>t</i><par n="t/ake__vblex"/>      <p>        <l><b/>part</l><r><g><b/>part</g></r></p></e>
     <e lm="take place"><i>t</i><par n="t/ake__vblex"/>      <p>        <l><b/>place</l><r><g><b/>place</g></r></p></e>
     <e lm="tie"><i>t</i><par n="d/ie__vblex"/>    </e>
+    <e lm="lie"><i>l</i><par n="d/ie__vblex"/>    </e>
 	<e lm="table a motion"><i>tabl</i><par n="liv/e__vblex"/><p><l><b/>a<b/>motion</l><r><g><b/>a<b/>motion</g></r></p></e>
 	<e lm="table the motion"><i>tabl</i><par n="liv/e__vblex"/><p><l><b/>the<b/>motion</l><r><g><b/>the<b/>motion</g></r></p></e>
     <e lm="take advantage of"><i>t</i><par n="t/ake__vblex"/>      <p>        <l><b/>advantage<b/>of</l><r><g><b/>advantage<b/>of</g></r></p></e>
@@ -26462,6 +26470,9 @@
     <e lm="tap"><i>tap</i><par n="step__vblex"/>    </e>
     <e lm="target"><i>target</i><par n="accept__vblex"/>    </e>
     <e lm="taste"><i>tast</i><par n="liv/e__vblex"/>    </e>
+    <e lm="repatriate"><i>repatriat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="reconstitute"><i>reconstitut</i><par n="liv/e__vblex"/>    </e>
+    <e lm="shape"><i>shap</i><par n="liv/e__vblex"/>    </e>
     <e lm="tax"><i>tax</i><par n="approach__vblex"/>    </e>
     <e lm="telephone"><i>telephon</i><par n="liv/e__vblex"/>    </e>
     <e lm="televise"><i>televis</i><par n="liv/e__vblex"/>    </e>
@@ -26655,6 +26666,7 @@
     <e lm="annoy" a="ebenimeli"><i>annoy</i><par n="enjoy__vblex"/>    </e>
     <e lm="breach" a="ebenimeli"><i>breach</i><par n="approach__vblex"/>    </e>
     <e lm="be hungry"><par n="/be__vblex"/>      <p>        <l><b/>hungry</l><r><g><b/>hungry</g></r></p></e>
+    <e lm="be possible"><par n="/be__vblex"/>      <p>        <l><b/>possible</l><r><g><b/>possible</g></r></p></e>
     <e lm="be dying"><par n="/be__vblex"/>      <p>        <l><b/>dying</l><r><g><b/>dying</g></r></p></e>
     <e lm="be in decline"><par n="/be__vblex"/>      <p>        <l><b/>in<b/>decline</l><r><g><b/>in<b/>decline</g></r></p></e>
     <e lm="be shipwrecked"><par n="/be__vblex"/>      <p>        <l><b/>shipwrecked</l><r><g><b/>shipwrecked</g></r></p></e>
@@ -28895,6 +28907,7 @@
     <e lm="boulevard"><i>boulevard</i><par n="house__n"/>     </e>
 
     <e lm="bring down"><i>br</i><par n="br/ing__vblex" sa="sep" />         <par n="probj_dem__prn"/>       <p>        <l><b/>down</l><r><g><b/>down</g></r></p></e>
+    <e lm="bring back"><i>br</i><par n="br/ing__vblex" sa="sep" />         <par n="probj_dem__prn"/>       <p>        <l><b/>back</l><r><g><b/>back</g></r></p></e>
     <e lm="bra"><i>bra</i><par n="house__n"/>     </e>
     <e lm="brachistochrone"><i>brachistochrone</i><par n="house__n"/>     </e>
     <e lm="bract"><i>bract</i><par n="house__n"/>     </e>
