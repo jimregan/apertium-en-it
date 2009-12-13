@@ -12036,7 +12036,7 @@
 <e><p><l>scour<s n="vblex"/></l><r>registrare<s n="vblex"/></r></p></e>
 <e><p><l>search<s n="vblex"/></l><r>cercare<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>search<g><b/>for</g><s n="vblex"/></l><r>cercare<s n="vblex"/></r></p></e>
-<e><p><l>seat<s n="vblex"/></l><r>sedere<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>seat<s n="vblex"/></l><r>sedere<s n="vblex"/></r></p></e>
 <e><p><l>secure<s n="vblex"/></l><r>assicurare<s n="vblex"/></r></p></e>
 <e><p><l>see<s n="vblex"/></l><r>vedere<s n="vblex"/></r></p></e>
 <e><p><l>seed<s n="vblex"/></l><r>seminare<s n="vblex"/></r></p></e>
@@ -12162,8 +12162,8 @@
 <e c="(I took him home) slr!" i="yes"><p><l>take<s n="vblex"/></l><r>portare<s n="vblex"/></r></p></e>
 <e c="(a coffee)"><p><l>take<s n="vblex"/></l><r>prendere<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>take<s n="vblex"/></l><r>tardare<s n="vblex"/></r></p></e>
-<e><p><l>take<g><b/>part</g><s n="vblex"/></l><r>mediare<s n="vblex"/></r></p></e>
-<e><p><l>take<g><b/>part</g><s n="vblex"/></l><r>partecipare<s n="vblex"/></r></p></e>
+<e slr="mediare" r="LR"><p><l>take<g><b/>part</g><s n="vblex"/></l><r>mediare<s n="vblex"/></r></p></e>
+<e slr="partecipare D" r="LR"><p><l>take<g><b/>part</g><s n="vblex"/></l><r>partecipare<s n="vblex"/></r></p></e>
 <e><p><l>talk<s n="vblex"/></l><r>parlare<s n="vblex"/></r></p></e>
 <e c="no sé si és bona trad"><p><l>tap<s n="vblex"/></l><r>toccare<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>target<s n="vblex"/></l><r>puntare<s n="vblex"/></r></p></e>
