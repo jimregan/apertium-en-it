@@ -10925,7 +10925,7 @@
 <e><p><l>suppose<s n="vblex"/></l><r>supporre<s n="vblex"/></r></p></e>
 <e><p><l>assume<s n="vblex"/></l><r>assumere<s n="vblex"/></r></p></e>
 <e><p><l>assure<s n="vblex"/></l><r>assicurare<s n="vblex"/></r></p></e>
-<e><p><l>attach<s n="vblex"/></l><r>attaccare<s n="vblex"/></r></p></e>
+<e><p><l>attack<s n="vblex"/></l><r>attaccare<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>attack<s n="vblex"/></l><r>aggredire<s n="vblex"/></r></p></e>
 <e><p><l>attain<s n="vblex"/></l><r>riuscire<s n="vblex"/></r></p></e>
 <e><p><l>attempt<s n="vblex"/></l><r>tentare<s n="vblex"/></r></p></e>
@@ -11808,12 +11808,11 @@
 <e><p><l>paginate<s n="vblex"/></l><r>compaginare<s n="vblex"/></r></p></e>
 <e><p><l>part<s n="vblex"/></l><r>separare<s n="vblex"/></r></p></e>
 <e><p><l>participate<s n="vblex"/></l><r>partecipare<s n="vblex"/></r></p></e>
-<e><p><l>participate<s n="vblex"/></l><r>partecipare<s n="vblex"/></r></p></e>
 <e><p><l>pass<s n="vblex"/></l><r>passare<s n="vblex"/></r></p></e>
 <e><p><l>pass<s n="vblex"/></l><r>transitare<s n="vblex"/></r></p></e>
 <e><p><l>pay<s n="vblex"/></l><r>pagare<s n="vblex"/></r></p></e>
 <e><p><l>peel<s n="vblex"/></l><r>pelare<s n="vblex"/></r></p></e>
-<e><p><l>peel<s n="vblex"/></l><r>mondare<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>peel<s n="vblex"/></l><r>mondare<s n="vblex"/></r></p></e>
 <e><p><l>penetrate<s n="vblex"/></l><r>penetrare<s n="vblex"/></r></p></e>
 <e><p><l>permit<s n="vblex"/></l><r>permettere<s n="vblex"/></r></p></e>
 <e><p><l>perpetrate<s n="vblex"/></l><r>perpetrare<s n="vblex"/></r></p></e>
@@ -11834,7 +11833,7 @@
 <e><p><l>please<s n="vblex"/></l><r>piacere<s n="vblex"/></r></p></e>
 <e><p><l>pledge<s n="vblex"/></l><r>impegnare<s n="vblex"/></r></p></e>
 <e><p><l>plough<s n="vblex"/></l><r>arare<s n="vblex"/></r></p></e>
-<e><p><l>point<s n="vblex"/></l><r>puntare<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>point<s n="vblex"/></l><r>puntare<s n="vblex"/></r></p></e>
 <e><p><l>point<s n="vblex"/></l><r>segnalare<s n="vblex"/></r></p></e>
 <e><p><l>poison<s n="vblex"/></l><r>avvelenare<s n="vblex"/></r></p></e>
 <e><p><l>polarise<s n="vblex"/></l><r>polarizzare<s n="vblex"/></r></p></e>
@@ -16572,10 +16571,10 @@
 <e><p><l>fold<s n="n"/></l><r>piega<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>foliage<s n="n"/></l><r>fogliame<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>folklore<s n="n"/></l><r>folclore<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>folly<s n="n"/></l><r>pazzia<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>folly<s n="n"/></l><r>pazzia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>font<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>food<s n="n"/></l><r>cibo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>food<s n="n"/></l><r>pranzo<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>food<s n="n"/></l><r>cibo<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>food<s n="n"/></l><r>pranzo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>food<s n="n"/></l><r>alimento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>foot<s n="n"/></l><r>piede<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>football<s n="n"/><s n="sg"/></l><r>calcio<s n="n"/></r></p></e>
@@ -17663,13 +17662,12 @@
 <e><p><l>lip<s n="n"/><s n="sg"/></l><r>labbro<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e><p><l>lip<s n="n"/><s n="pl"/></l><r>labbro<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e><p><l>liquefaction<s n="n"/></l><r>liquefazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>liqueur<s n="n"/></l><r>liquore<s n="n"/><s n="m"/></r></p></e>
+<e r="LR" c="en-GB"><p><l>liqueur<s n="n"/></l><r>liquore<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>liquid<s n="n"/></l><r>liquido<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>liquidation<s n="n"/></l><r>liquidazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>liquor<s n="n"/></l><r>liquore<s n="n"/><s n="m"/></r></p></e>
+<e c="en-US"><p><l>liquor<s n="n"/></l><r>liquore<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>list<s n="n"/></l><r>lista<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>list<s n="n"/></l><r>elenco<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>liter<s n="n"/></l><r>litro<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>list<s n="n"/></l><r>elenco<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>literacy<s n="n"/></l><r>alfabetizzazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>literature<s n="n"/></l><r>letteratura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>lithium<s n="n"/></l><r>litio<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
@@ -17693,8 +17691,7 @@
 <e><p><l>logotype<s n="n"/></l><r>logo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>look<s n="n"/></l><r>aspetto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>loophole<s n="n"/></l><r>scappatoia<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>lord<s n="n"/></l><r>signore<s n="n"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>lord<s n="n"/></l><r>signore<s n="n"/></r></p></e>
+<e r="LR"><p><l>lord<s n="n"/></l><r>signore<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>lorry<s n="n"/></l><r>autocarro<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>lorry<s n="n"/><s n="sg"/></l><r>camion<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>lorry<s n="n"/><s n="pl"/></l><r>camion<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -17751,7 +17748,7 @@
 <e r="RL"><p><l>mail<s n="n"/><s n="ND"/></l><r>mail<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>mail<s n="n"/></l><r>messaggeria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>maintenance<s n="n"/></l><r>manutenzione<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>majordomo<s n="n"/></l><r>maggiordomo<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>majordomo<s n="n"/></l><r>maggiordomo<s n="n"/></r></p></e>
 <e r="LR"><p><l>majordomo<s n="n"/></l><r>maggiordomo<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>majority<s n="n"/></l><r>maggioranza<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>make<s n="n"/></l><r>marchio<s n="n"/><s n="m"/></r></p></e>
@@ -17775,7 +17772,7 @@
 <e><p><l>manbag<s n="n"/></l><r>borsello<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>mandate<s n="n"/></l><r>mandato<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>mane<s n="n"/></l><r>criniera<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>mane<s n="n"/></l><r>capigliatura<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>mane<s n="n"/></l><r>capigliatura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>manipulation<s n="n"/></l><r>manipolazione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>mankind<s n="n"/><s n="ND"/></l><r>umanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>mankind<s n="n"/><s n="sg"/></l><r>umanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -17883,7 +17880,7 @@
 <e><p><l>memorial<s n="n"/></l><r>monumento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>memorisation<s n="n"/></l><r>memorizzazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>memory<s n="n"/></l><r>memoria<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>memory<s n="n"/></l><r>ricordo<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>memory<s n="n"/></l><r>ricordo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>mendelevium<s n="n"/></l><r>mendelevio<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
 <e><p><l>menstruation<s n="n"/></l><r>mestruazione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>mentality<s n="n"/><s n="ND"/></l><r>mentalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -21114,9 +21111,10 @@
 <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>theirs<s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></l><r>il<b/>suo<s n="prn"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="LR"><p><l>themselves<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
 <e><p><l>this<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></l><r>questo<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
-<e><p><l>this<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></l><r>questo<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
-<e><p><l>this<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></l><r>questo<s n="prn"/><s n="tn"/><s n="f"/></r></p></e>
-<e><p><l>this<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></l><r>codesto<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
+<e r="RL"><p><l>this<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></l><r>questo<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>this<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></l><r>questo<s n="prn"/><s n="tn"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>this<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></l><r>codesto<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
+<e r="LR"><p><l>this<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></l><r>codesto<s n="prn"/><s n="tn"/><s n="GD"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>this<s n="prn"/><s n="tn"/><s n="mf"/></l><r>questo<s n="prn"/><s n="tn"/><s n="f"/></r></p></e>
 <e><p><l>this<s n="prn"/><s n="tn"/><s n="mf"/></l><r>esso<s n="prn"/></r></p></e>
 <e><p><l>this<s n="prn"/><s n="tn"/><s n="mf"/></l><r>costui<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/></r></p></e>
