@@ -18900,9 +18900,9 @@
 <e r="LR"><p><l>poverty<s n="n"/><s n="pl"/></l><r>povertà<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>poverty<s n="n"/><s n="ND"/></l><r>povertà<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>powder<s n="n"/></l><r>polvere<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>power<s n="n"/></l><r>energia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>power<s n="n"/></l><r>potere<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>power<s n="n"/></l><r>potenza<s n="n"/><s n="f"/></r></p></e>
+<e slr="energia"><p><l>power<s n="n"/></l><r>energia<s n="n"/><s n="f"/></r></p></e>
+<e slr="potere D"><p><l>power<s n="n"/></l><r>potere<s n="n"/><s n="m"/></r></p></e>
+<e slr="potenza"><p><l>power<s n="n"/></l><r>potenza<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>practicality<s n="n"/><s n="ND"/></l><r>praticità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>practicality<s n="n"/><s n="sg"/></l><r>praticità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>practicality<s n="n"/><s n="pl"/></l><r>praticità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -18916,12 +18916,11 @@
 <e><p><l>precipice<s n="n"/></l><r>precipizio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>precipitation<s n="n"/></l><r>precipitazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>predestination<s n="n"/></l><r>predestinazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>prediction<s n="n"/></l><r>previsione<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>prediction<s n="n"/></l><r>previsione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>prediction<s n="n"/></l><r>predizione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>predilection<s n="n"/></l><r>predilezione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>predisposition<s n="n"/></l><r>predisposizione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>preeminence<s n="n"/></l><r>preminenza<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>preface<s n="n"/></l><r>prefazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>preface<s n="n"/></l><r>prefazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>preference<s n="n"/></l><r>preferenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>pregnancy<s n="n"/></l><r>gravidanza<s n="n"/><s n="f"/></r></p></e>
@@ -18943,7 +18942,7 @@
 <e r="RL"><p><l>president<s n="n"/></l><r>presidente<s n="n"/></r></p></e>
 <e><p><l>press<s n="n"/></l><r>stampa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>pressure<s n="n"/></l><r>pressione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>prestige<s n="n"/></l><r>reputazione<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>reputation<s n="n"/></l><r>reputazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>prestige<s n="n"/></l><r>prestigio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>presumption<s n="n"/></l><r>presunzione<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>presupposition<s n="n"/><s n="sg"/></l><r>budget<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -18961,10 +18960,8 @@
 <e><p><l>prima<b/>ballerina<s n="n"/></l><r>primo<b/>ballerino<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>primate<s n="n"/></l><r>primato<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>primer<s n="n"/></l><r>abbecedario<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>prince<s n="n"/></l><r>principe<s n="n"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>prince<s n="n"/></l><r>principe<s n="n"/></r></p></e>
-<e r="LR"><p><l>princess<s n="n"/></l><r>principe<s n="n"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>princess<s n="n"/></l><r>principe<s n="n"/></r></p></e>
+<e><p><l>prince<s n="n"/></l><r>principe<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>princess<s n="n"/></l><r>principe<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>principle<s n="n"/></l><r>principio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>print<s n="n"/></l><r>impressione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>print<s n="n"/></l><r>impronta<s n="n"/><s n="f"/></r></p></e>
