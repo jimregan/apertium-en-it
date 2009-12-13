@@ -246,14 +246,16 @@
 <e r="RL"><p><l>sixtieth<s n="det"/></l><r>sessantesimo<s n="det"/></r></p></e>
 <e r="RL"><p><l>some<s n="det"/><s n="qnt"/><s n="pl"/></l><r>un<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>some<s n="det"/><s n="qnt"/><s n="pl"/></l><r>un<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
-<e c="frases afirmatives"><p><l>some<s n="det"/><s n="qnt"/><s n="sp"/></l><r>alcun<s n="det"/><s n="ind"/></r></p></e>
-<e c="frases afirmatives"><p><l>some<s n="det"/></l><r>alcun<s n="det"/><s n="ind"/></r></p></e>
+<e c="frases afirmatives" r="RL"><p><l>some<s n="det"/><s n="qnt"/><s n="sp"/></l><r>alcun<s n="det"/><s n="ind"/></r></p></e>
+<e r="LR"><p><l>some<s n="det"/><s n="qnt"/><s n="sp"/></l><r>alcun<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
+<e r="LR"><p><l>all<s n="predet"/><s n="sp"/></l><r>tutto<s n="det"/><s n="GD"/><s n="ND"/></r></p></e>
+<e r="RL"><p><l>all<s n="predet"/></l><r>tutto<s n="det"/></r></p></e>
 <e c="frases afirmatives"><p><l>some<s n="det"/></l><r>qualche<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
 <e><p><l>some<s n="det"/><s n="qnt"/></l><r>certo<s n="det"/><s n="ind"/></r></p></e>
 <e><p><l>some<s n="det"/><s n="qnt"/></l><r>taluno<s n="det"/><s n="ind"/></r></p></e>
-<e><p><l>such<s n="det"/><s n="ind"/><s n="sp"/></l><r>tale<s n="det"/></r></p></e>
-<e><p><l>such<s n="det"/></l><r>tale<s n="det"/></r></p></e>
-<e><p><l>such<b/>a<s n="det"/><s n="ind"/></l><r>tale<s n="det"/></r></p></e>
+<e r="LR"><p><l>such<s n="det"/><s n="ind"/></l><r>tale<s n="det"/><s n="dem"/><s n="GD"/><s n="ND"/></r></p></e>
+<e r="RL"><p><l>such<s n="det"/><s n="ind"/><s n="sp"/></l><r>tale<s n="det"/><s n="dem"/></r></p></e>
+<e r="LR"><p><l>such<b/>a<s n="det"/><s n="ind"/></l><r>tale<s n="det"/><s n="dem"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="LR"><p><l>tenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>decimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>tenth<s n="det"/></l><r>decimo<s n="det"/></r></p></e>
 <e r="LR"><p><l>that<s n="det"/><s n="dem"/></l><r>quello<s n="det"/><s n="dem"/><s n="GD"/></r></p></e>
@@ -283,10 +285,9 @@
 <e r="LR"><p><l>which<s n="det"/><s n="itg"/><s n="sp"/></l><r>quale<s n="adj"/><s n="itg"/><s n="mf"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>which<s n="det"/><s n="itg"/><s n="sp"/></l><r>quale<s n="adj"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e>
 <e r="RL"><p><l>which<s n="det"/><s n="itg"/><s n="sp"/></l><r>quale<s n="adj"/><s n="itg"/><s n="mf"/><s n="pl"/></r></p></e>
-<e r="RL" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/><s n="pos"/><s n="mf"/></l><r>il<b/>tuo<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
-<e r="RL" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/><s n="pos"/><s n="mf"/></l><r>il<b/>tuo<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
-<e r="LR" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/><s n="pos"/><s n="mf"/></l><r>il<b/>tuo<s n="det"/><s n="pos"/><s n="GD"/></r></p></e>
-<e r="RL" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/><s n="pos"/><s n="mf"/></l><r>tuo<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
+<e r="RL" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>tuo<s n="det"/><s n="pos"/></r></p></e>
+<e r="RL" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>tuo<s n="det"/><s n="pos"/></r></p></e>
+<e r="LR" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>tuo<s n="det"/><s n="pos"/><s n="GD"/><s n="D"/></r></p></e>
 <e r="RL"><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>vostro<s n="det"/><s n="pos"/></r></p></e>
 <e r="RL"><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>vostro<s n="det"/><s n="pos"/></r></p></e>
 <e><p><l>William<b/>Tell<s n="np"/><s n="ant"/></l><r>Guglielmo<b/>Tell<s n="np"/><s n="ant"/></r></p></e>
