@@ -253,9 +253,9 @@
 <e c="frases afirmatives"><p><l>some<s n="det"/></l><r>qualche<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
 <e><p><l>some<s n="det"/><s n="qnt"/></l><r>certo<s n="det"/><s n="ind"/></r></p></e>
 <e><p><l>some<s n="det"/><s n="qnt"/></l><r>taluno<s n="det"/><s n="ind"/></r></p></e>
-<e r="LR"><p><l>such<s n="det"/><s n="ind"/></l><r>tale<s n="det"/><s n="dem"/><s n="GD"/><s n="ND"/></r></p></e>
-<e r="RL"><p><l>such<s n="det"/><s n="ind"/><s n="sp"/></l><r>tale<s n="det"/><s n="dem"/></r></p></e>
-<e r="LR"><p><l>such<b/>a<s n="det"/><s n="ind"/></l><r>tale<s n="det"/><s n="dem"/><s n="GD"/><s n="ND"/></r></p></e>
+<e r="LR"><p><l>such<s n="det"/><s n="ind"/></l><r>tale<s n="det"/><s n="dem"/><s n="mf"/><s n="ND"/></r></p></e>
+<e r="RL"><p><l>such<s n="det"/><s n="ind"/><s n="sp"/></l><r>tale<s n="det"/><s n="dem"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>such<b/>a<s n="det"/><s n="ind"/></l><r>tale<s n="det"/><s n="dem"/><s n="mf"/><s n="ND"/></r></p></e>
 <e r="LR"><p><l>tenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>decimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>tenth<s n="det"/></l><r>decimo<s n="det"/></r></p></e>
 <e r="LR"><p><l>that<s n="det"/><s n="dem"/></l><r>quello<s n="det"/><s n="dem"/><s n="GD"/></r></p></e>
