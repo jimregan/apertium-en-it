@@ -18186,12 +18186,11 @@
 <e><p><l>needle<s n="n"/></l><r>ago<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>negation<s n="n"/></l><r>negazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>neglect<s n="n"/></l><r>negligenza<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>negligence<s n="n"/></l><r>negligenza<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>negligence<s n="n"/></l><r>negligenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>negotiation<s n="n"/></l><r>negoziazione<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>neighbour<s n="n"/></l><r>vicino<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>neighbour<s n="n"/></l><r>vicino<s n="n"/></r></p></e>
 <e><p><l>neighbourhood<s n="n"/></l><r>quartiere<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>neighbourhood<s n="n"/></l><r>vicinato<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>neoclassicism<s n="n"/></l><r>neoclassicismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>neocolonialism<s n="n"/></l><r>neocolonialismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>neodymium<s n="n"/></l><r>neodimio<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
@@ -18238,7 +18237,6 @@
 <e><p><l>nomad<s n="n"/></l><r>nomade<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>nomadism<s n="n"/></l><r>nomadismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>nomenclature<s n="n"/></l><r>nomenclatura<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>nomenclature<s n="n"/></l><r>prosieguo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>nominalism<s n="n"/></l><r>nominalismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>nomination<s n="n"/></l><r>nomina<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>nomination<s n="n"/><s n="ND"/></l><r>nomination<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -18319,7 +18317,7 @@
 <e><p><l>ocean<s n="n"/></l><r>oceano<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>octagon<s n="n"/></l><r>ottagono<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>octahedron<s n="n"/></l><r>ottaedro<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>odontology<s n="n"/></l><r>odontoiatria<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>odontology<s n="n"/></l><r>odontoiatria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>odontology<s n="n"/></l><r>odontologia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>odyssey<s n="n"/></l><r>odissea<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>offer<s n="n"/></l><r>offerta<s n="n"/><s n="f"/></r></p></e>
@@ -18354,9 +18352,9 @@
 <e><p><l>opponent<s n="n"/></l><r>opponente<s n="n"/><s n="mf"/></r></p></e>
 <e r="RL"><p><l>opponent<s n="n"/></l><r>oppositore<s n="n"/></r></p></e>
 <e r="LR"><p><l>opponent<s n="n"/></l><r>oppositore<s n="n"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>opportunity<s n="n"/><s n="ND"/></l><r>possibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>opportunity<s n="n"/><s n="sg"/></l><r>possibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>opportunity<s n="n"/><s n="pl"/></l><r>possibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+<e r="RL"><p><l>possibility<s n="n"/><s n="ND"/></l><r>possibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>possibility<s n="n"/><s n="sg"/></l><r>possibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>possibility<s n="n"/><s n="pl"/></l><r>possibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>opportunity<s n="n"/><s n="ND"/></l><r>opportunità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>opportunity<s n="n"/><s n="sg"/></l><r>opportunità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>opportunity<s n="n"/><s n="pl"/></l><r>opportunità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -18874,9 +18872,6 @@
 <e><p><l>positioning<s n="n"/></l><r>navigazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>positivism<s n="n"/></l><r>positivismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>possession<s n="n"/></l><r>possesso<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>possibility<s n="n"/><s n="ND"/></l><r>possibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>possibility<s n="n"/><s n="sg"/></l><r>possibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>possibility<s n="n"/><s n="pl"/></l><r>possibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>possible<s n="n"/></l><r>possibile<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>post<s n="n"/></l><r>carico<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>post<s n="n"/></l><r>posta<s n="n"/><s n="f"/></r></p></e>
