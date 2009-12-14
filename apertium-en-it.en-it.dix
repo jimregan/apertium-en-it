@@ -10967,6 +10967,8 @@
 <e><p><l>tropical<s n="adj"/></l><r>tropicale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>true<s n="adj"/><s n="sint"/></l><r>vero<s n="adj"/></r></p></e>
 <e><p><l>turkish<s n="adj"/></l><r>turco<s n="adj"/></r></p></e>
+<e r="LR"><p><l>turkish<s n="n"/></l><r>turco<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>turkish<s n="n"/></l><r>turco<s n="n"/></r></p></e>
 <e><p><l>two-dimensional<s n="adj"/></l><r>bidimensionale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>twofold<s n="adj"/></l><r>doppio<s n="adj"/></r></p></e>
 <e><p><l>typical<s n="adj"/></l><r>tipico<s n="adj"/></r></p></e>
@@ -17699,7 +17701,7 @@
 <e r="RL"><p><l>irregularity<s n="n"/><s n="ND"/></l><r>irregolarità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>irregularity<s n="n"/><s n="sg"/></l><r>irregolarità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>irregularity<s n="n"/><s n="pl"/></l><r>irregolarità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e><p><l>irrigation<s n="n"/></l><r>irrigazione<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>watering<s n="n"/></l><r>irrigazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>irrigation<s n="n"/></l><r>irrigazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>irritation<s n="n"/></l><r>irritazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>irruption<s n="n"/></l><r>irruzione<s n="n"/><s n="f"/></r></p></e>
@@ -17829,7 +17831,8 @@
 <e><p><l>language<s n="n"/></l><r>idioma<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>language<s n="n"/></l><r>lingua<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>language<s n="n"/></l><r>linguaggio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>lantern<s n="n"/></l><r>lanterna<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>lantern<s n="n"/></l><r>lanterna<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>torch<s n="n"/></l><r>lanterna<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>lapidation<s n="n"/></l><r>lapidazione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>lapsus<s n="n"/><s n="ND"/></l><r>lapsus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>lapsus<s n="n"/><s n="sg"/></l><r>lapsus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -21096,13 +21099,13 @@
 <e><p><l>volunteering<s n="n"/></l><r>volontariato<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>vomit<s n="n"/></l><r>vomito<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>vote<s n="n"/></l><r>voto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>vote<s n="n"/></l><r>votazione<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>vote<s n="n"/></l><r>votazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>voucher<s n="n"/></l><r>buono<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>vowel<s n="n"/></l><r>vocale<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>voyage<s n="n"/></l><r>viaggio<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>voyager<s n="n"/></l><r>viaggiatore<s n="n"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>traveller<s n="n"/></l><r>viaggiatore<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>traveller<s n="n"/></l><r>viaggiatore<s n="n"/></r></p></e>
 <e r="RL"><p><l>voyager<s n="n"/></l><r>viaggiatore<s n="n"/></r></p></e>
-<e><p><l>voyeurism<s n="n"/></l><r>voyeurismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>voyeurism<s n="n"/></l><r>voyeurismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>vulcanism<s n="n"/></l><r>vulcanismo<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>vulnerability<s n="n"/><s n="ND"/></l><r>vulnerabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -21863,6 +21866,8 @@
 <e><p><l>Nobel<b/>prize<s n="n"/></l><r>premio<g><b/>Nobel</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>recording<b/>studio<s n="n"/></l><r>studio<g><b/>di<b/>registrazione</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bar<b/>code<b/>reader<s n="n"/></l><r>lettore<g><b/>di<b/>codice<b/>a<b/>barre</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>toothbrush<s n="n"/></l><r>spazzolino<g><b/>da<b/>denti</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>thumb<s n="n"/></l><r>pollice<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>MP3<b/>player<s n="n"/></l><r>lettore<g><b/>MP3</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>legal<b/>person<s n="n"/></l><r>persona<b/>giuridica<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>life<b/>style<s n="n"/></l><r>stile<g><b/>di<b/>vita</g><s n="n"/><s n="m"/></r></p></e>
