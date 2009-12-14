@@ -4,14 +4,11 @@
   <def-label name="QUECNJ" closed="true">
     <tags-item lemma="che" tags="cnjsub"/>
   </def-label>
-  <def-label name="QUEREL" closed="true">
-    <tags-item lemma="che" tags="rel.*"/>
+  <def-label name="SEINUM" closed="true">
+    <tags-item lemma="sei" tags="num.*"/>
   </def-label>
   <def-label name="ACRONIMOM">
     <tags-item tags="n.acr.m.*"/>
-  </def-label>
-  <def-label name="ACRONIMOF">
-    <tags-item tags="n.acr.f.*"/>
   </def-label>
   <def-label name="ACRONIMOMF">
     <tags-item tags="n.acr.mf.*"/>
@@ -21,6 +18,12 @@
   </def-label>
   <def-label name="NOMF">
     <tags-item tags="n.f.*"/>
+  </def-label>
+  <def-label name="NOMMPL">
+    <tags-item tags="n.m.pl"/>
+  </def-label>
+  <def-label name="NOMFPL">
+    <tags-item tags="n.f.pl"/>
   </def-label>
   <def-label name="NOMMF">
     <tags-item tags="n.mf.*"/>
@@ -1802,6 +1805,14 @@
     <label-sequence>
       <label-item label="VSERPFCI_SG"/>
       <label-item label="VLEXPARTPI_PL"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="SEINUM"/>
+      <label-item label="NOMMPL"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="SEINUM"/>
+      <label-item label="NOMFPL"/>
     </label-sequence>
 
   </forbid>
