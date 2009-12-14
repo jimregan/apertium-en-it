@@ -5652,6 +5652,40 @@
 
 
     </pardef>
+    <pardef n="segretari/o__n">
+      <e>
+	<p>
+	  <l></l>
+	  <r>o<s n="n"/><s n="m"/><s n="pl"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>o</l>
+	  <r>o<s n="n"/><s n="m"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>a</l>
+	  <r>o<s n="n"/><s n="f"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>e</l>
+	  <r>o<s n="n"/><s n="f"/><s n="pl"/></r>
+	</p>
+      </e>
+
+
+    </pardef>
     <pardef n="abbagli/o__n">
       <e>
 	<p>
@@ -88816,6 +88850,7 @@
     <e lm="assedio"><i>assedi</i><par n="abbagli/o__n"/></e>
     <e lm="assegnazione"><i>assegnazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="assegno"><i>assegn</i><par n="abbain/o__n"/></e>
+    <e lm="assegno di viaggio"><i>assegn</i><par n="abbain/o__n"/><p><l><b/>di<b/>viaggio</l><r><g><b/>di<b/>viaggio</g></r></p></e>
     <e lm="assemblea"><i>assemble</i><par n="cas/a__n"/></e>
     <e lm="assenteismo"><i>assenteism</i><par n="abbain/o__n"/></e>
     <e lm="assenza"><i>assenz</i><par n="cas/a__n"/></e>
@@ -89052,6 +89087,7 @@
     <e lm="borghese"><i>borghes</i><par n="abat/e__n"/></e>
     <e lm="borghesia"><i>borghesi</i><par n="cas/a__n"/></e>
     <e lm="borsa"><i>bors</i><par n="cas/a__n"/></e>
+    <e lm="borsa valori"><i>bors</i><par n="cas/a__n"/><p><l><b/>valori</l><r><g><b/>valori</g></r></p></e>
     <e lm="borsello"><i>borsell</i><par n="abbain/o__n"/></e>
     <e lm="bosco"><i>bosc</i><par n="fung/o__n"/></e>
     <e lm="botanica"><i>botanic</i><par n="tasc/a__n"/></e>
@@ -91940,7 +91976,7 @@
     <e lm="segno"><i>segn</i><par n="abbain/o__n"/></e>
     <e lm="segnale"><i>segnal</i><par n="abat/e__n"/></e>
     <e lm="segreto"><i>segret</i><par n="abbain/o__n"/></e>
-    <e lm="segretario"><i>segretari</i><par n="bambin/o__n"/></e>
+    <e lm="segretario"><i>segretari</i><par n="segretari/o__n"/></e>
     <e lm="selce"><i>selc</i><par n="abat/e__n"/></e>
     <e lm="selezione"><i>selezion</i><par n="abbreviazion/e__n"/></e>
     <e lm="semantica"><i>semantic</i><par n="tasc/a__n"/></e>
@@ -97070,6 +97106,8 @@
     <e lm="dentifricio"><i>dentifrici</i><par n="abbagli/o__n"/></e>
     <e lm="acquario"><i>acquari</i><par n="abbagli/o__n"/></e>
     <e lm="pastasciutta"><i>pastsciutt</i><par n="cas/a__n"/></e>
+<e lm="rotta commerciale"><p><l>rotta<b/>commerciale</l><r>rotta<b/>commerciale<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="rotta commerciale"><p><l>rotte<b/>commerciali</l><r>rotta<b/>commerciale<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
 
     <e lm="Abdul-Hamid"><i>Abdul-Hamid</i><par n="Juan__np"/></e>
