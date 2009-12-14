@@ -201,14 +201,14 @@
 <e r="LR"><p><l>another<s n="det"/><s n="ind"/></l><r>un<b/>altro<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>another<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<b/>altro<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
 <e r="RL"><p><l>another<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<b/>altro<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
-<e c="interrogatives, condicional"><p><l>any<s n="det"/></l><r>qualche<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
-<e c="afirmatives"><p><l>any<s n="det"/><s n="ind"/><s n="sp"/></l><r>qualsiasi<s n="det"/><s n="ind"/></r></p></e>
+<e c="interrogatives, condicional" r="RL"><p><l>any<s n="det"/><s n="ind"/><s n="sp"/></l><r>qualche<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+<e c="afirmatives" r="RL"><p><l>any<s n="det"/><s n="ind"/><s n="sp"/></l><r>qualsiasi<s n="det"/><s n="ind"/></r></p></e>
 <e c="afirmatives"><p><l>any<s n="det"/><s n="ind"/><s n="sp"/></l><r>qualunque<s n="det"/><s n="ind"/></r></p></e>
 <e c="frases negatives. EN-CA: per trànsfer" r="RL"><p><l>any<s n="det"/><s n="ind"/></l><r>nessuno<s n="det"/><s n="ind"/></r></p></e>
 <e><p><l>both<s n="det"/><s n="ind"/></l><r>entrambi<b/>i<s n="det"/><s n="ind"/></r></p></e>
 <e c="té polisèmia amb 'every', però no he posat marca de polisèmia"><p><l>each<s n="det"/><s n="ind"/></l><r>ogni<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
-<e c="té polisèmia amb 'every', però no he posat marca de polisèmia"><p><l>each<s n="det"/><s n="ind"/></l><r>ciascuno<s n="det"/><s n="ind"/><s n="m"/></r></p></e>
-<e c="té polisèmia amb 'every', però no he posat marca de polisèmia"><p><l>each<s n="det"/><s n="ind"/></l><r>ciascuno<s n="det"/><s n="ind"/><s n="f"/></r></p></e>
+<e c="té polisèmia amb 'every', però no he posat marca de polisèmia" r="RL"><p><l>each<s n="det"/><s n="ind"/></l><r>ciascuno<s n="det"/><s n="ind"/><s n="m"/></r></p></e>
+<e c="té polisèmia amb 'every', però no he posat marca de polisèmia" r="RL"><p><l>each<s n="det"/><s n="ind"/></l><r>ciascuno<s n="det"/><s n="ind"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>eight<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>ottocentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>eight<b/>hundredth<s n="det"/></l><r>ottocentesimo<s n="det"/></r></p></e>
 <e r="LR"><p><l>eighteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>diciottesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -647,7 +647,7 @@
 <e><p><l>Kabul<s n="np"/><s n="loc"/></l><r>Kabul<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Libya<s n="np"/><s n="loc"/></l><r>Libia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Lima<s n="np"/><s n="loc"/></l><r>Lima<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
-<e><p><l>Lorraine<s n="np"/><s n="loc"/></l><r>Lorraine<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>Lorraine<s n="np"/><s n="loc"/></l><r>Lorraine<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Mallorca<s n="np"/><s n="loc"/></l><r>Maiorca<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Manhattan<s n="np"/><s n="loc"/></l><r>Manhattan<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Mars<s n="np"/><s n="loc"/></l><r>Marte<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
@@ -4324,7 +4324,7 @@
 <e><p><l>Guadalajara<s n="np"/><s n="loc"/></l><r>Guadalajara<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Guadalupe<s n="np"/><s n="ant"/></l><r>Guadalupe<s n="np"/><s n="ant"/></r></p></e>
 <e><i>Guadalupe<s n="np"/><s n="ant"/></i></e>
-<e><p><l>Guadeloupe<s n="np"/><s n="loc"/></l><r>Guadalupe<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>Guadeloupe<s n="np"/><s n="loc"/></l><r>Guadalupe<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><i>Gualberto<s n="np"/><s n="ant"/></i></e>
 <e><i>Gualdemar<s n="np"/><s n="ant"/></i></e>
 <e><i>Gualterio<s n="np"/><s n="ant"/></i></e>
@@ -8552,7 +8552,6 @@
 <e><i>Sofanor<s n="np"/><s n="ant"/></i></e>
 <e><i>Soffia<s n="np"/><s n="ant"/></i></e>
 <e><p><l>Sofia<s n="np"/><s n="ant"/></l><r>Sofia<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Sofia<s n="np"/><s n="loc"/></l><r>Sofia<s n="np"/><s n="loc"/></r></p></e>
 <e><i>Sofiel<s n="np"/><s n="ant"/></i></e>
 <e><i>Sofronio<s n="np"/><s n="ant"/></i></e>
 <e><i>Sofía<s n="np"/><s n="ant"/></i></e>
@@ -9648,7 +9647,7 @@
 <e><p><l>Islamist<s n="adj"/></l><r>islamista<s n="adj"/></r></p></e>
 <e><p><l>Kurdish<s n="adj"/></l><r>curdo<s n="adj"/></r></p></e>
 <e><p><l>Kuwaiti<s n="adj"/></l><r>kuwaitiano<s n="adj"/></r></p></e>
-<e><p><l>Labour<s n="adj"/></l><r>laburista<s n="adj"/></r></p></e>
+<e r="RL"><p><l>labour<s n="adj"/></l><r>laburista<s n="adj"/></r></p></e>
 <e><p><l>London<s n="adj"/></l><r>londinese<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>Maghrebian<s n="adj"/></l><r>magrebino<s n="adj"/></r></p></e>
 <e><p><l>Martian<s n="adj"/></l><r>marziano<s n="adj"/></r></p></e>
@@ -10700,10 +10699,10 @@
 <e><p><l>presential<s n="adj"/></l><r>presenziale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>presidential<s n="adj"/></l><r>presidenziale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>prestigious<s n="adj"/></l><r>prestigioso<s n="adj"/></r></p></e>
-<e><p><l>diplomatic<s n="adj"/></l><r>diplomato<s n="adj"/></r></p></e>
+<e r="RL"><p><l>diplomatic<s n="adj"/></l><r>diplomato<s n="adj"/></r></p></e>
 <e><p><l>pretty<s n="adj"/><s n="sint"/></l><r>bello<s n="adj"/></r></p></e>
 <e><p><l>previous<s n="adj"/></l><r>anteriore<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>previous<s n="adj"/></l><r>previo<s n="adj"/></r></p></e>
+<e r="RL"><p><l>previous<s n="adj"/></l><r>previo<s n="adj"/></r></p></e>
 <e><p><l>principal<s n="adj"/></l><r>principale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>prior<s n="adj"/></l><r>previo<s n="adj"/></r></p></e>
 <e><p><l>probable<s n="adj"/></l><r>probabile<s n="adj"/><s n="mf"/></r></p></e>
@@ -16526,7 +16525,7 @@
 <e r="LR"><p><l>equilibrist<s n="n"/></l><r>equilibrista<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>equilibrium<s n="n"/></l><r>equilibrio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>equinox<s n="n"/></l><r>equinozio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>equipment<s n="n"/></l><r>apparecchiatura<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>equipment<s n="n"/></l><r>apparecchiatura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>equipment<s n="n"/></l><r>attrezzatura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>equivalence<s n="n"/></l><r>equivalenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>erbium<s n="n"/></l><r>erbio<s n="n"/><s n="m"/></r></p></e>
