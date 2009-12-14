@@ -89176,6 +89176,7 @@
     <e lm="campus"><i>campus</i><par n="albatros__n"/></e>
     <e lm="camuffamento"><i>camuffament</i><par n="abbain/o__n"/></e>
     <e lm="cane"><i>can</i><par n="ca/ne__n"/></e>
+    <e lm="cane da guardia"><i>can</i><par n="ca/ne__n"/><p><l><b/>da<b/>guardia</l><r><g><b/>da<b/>guardia</g></r></p></e>
     <e lm="canale"><i>canal</i><par n="abat/e__n"/></e>
     <e lm="canalizzazione"><i>canalizzazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="canapa"><i>canap</i><par n="cas/a__n"/></e>
@@ -89311,6 +89312,7 @@
     <e lm="centimetro"><i>centimetr</i><par n="abbain/o__n"/></e>
     <e lm="centinaio"><i>centinai</i><par n="centinai/o__n"/></e>
     <e lm="centro"><i>centr</i><par n="abbain/o__n"/></e>
+    <e lm="centro di lavoro"><i>centr</i><par n="abbain/o__n"/><p><l><b/>di<b/>lavoro</l><r><g><b/>di<b/>lavoro</g></r></p></e>
     <e lm="centrale"><i>central</i><par n="albanes/e__n"/></e>
     <e lm="centralina"><i>centralin</i><par n="cas/a__n"/></e>
     <e lm="centrocampista"><i>centrocampist</i><par n="suicid/a__n"/></e>
@@ -90334,6 +90336,11 @@
     <e lm="gioiello"><i>gioiell</i><par n="abbain/o__n"/></e>
     <e lm="gioielleria"><i>gioielleri</i><par n="cas/a__n"/></e>
     <e lm="giornata"><i>giornat</i><par n="cas/a__n"/></e>
+    <e lm="giornata di lavoro"><i>giornat</i><par n="cas/a__n"/><p><l><b/>di<b/>lavoro</l><r><g><b/>di<b/>lavoro</g></r></p></e>
+    <e lm="giorno di lavoro"><i>giorn</i><par n="abbain/o__n"/><p><l><b/>di<b/>lavoro</l><r><g><b/>di<b/>lavoro</g></r></p></e>
+    <e lm="giorno di nozze"><i>giorn</i><par n="abbain/o__n"/><p><l><b/>di<b/>nozze</l><r><g><b/>di<b/>nozze</g></r></p></e>
+    <e lm="banco di lavoro"><i>banc</i><par n="fung/o__n"/><p><l><b/>di<b/>lavoro</l><r><g><b/>di<b/>lavoro</g></r></p></e>
+    <e lm="fine settimana"><i>fine<b/>settimana</i><par n="abbain/o__n"/></e>
     <e lm="giorno"><i>giorn</i><par n="abbain/o__n"/></e>
     <e lm="giornale"><i>giornal</i><par n="abat/e__n"/></e>
     <e lm="giornalismo"><i>giornalism</i><par n="abbain/o__n"/></e>
@@ -97102,6 +97109,12 @@
 <e lm="cane guida"><p><l>cani<b/>guide</l><r>cane<b/>guida<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="cane guida"><p><l>cagna<b/>guida</l><r>cane<b/>guida<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="cane guida"><p><l>cagne<b/>guide</l><r>cane<b/>guida<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="cane pastore"><p><l>cane<b/>pastore</l><r>cane<b/>pastore<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="cane pastore"><p><l>cani<b/>pastori</l><r>cane<b/>pastore<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="cane pastore"><p><l>cagna<b/>pastore</l><r>cane<b/>pastore<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="cane pastore"><p><l>cagne<b/>pastori</l><r>cane<b/>pastore<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="forza maggiora"><p><l>forza<b/>maggiore</l><r>forza<b/>maggiore<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="forza maggiora"><p><l>forze<b/>maggiori</l><r>forza<b/>maggiore<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
     <e lm="pasta all'uovo"><i>past</i><par n="cas/a__n"/><p><l><b/>all'uovo</l><r><g><b/>all'uovo</g></r></p></e>
     <e lm="pasta di legno"><i>past</i><par n="cas/a__n"/><p><l><b/>di<b/>legno</l><r><g><b/>di<b/>legno</g></r></p></e>
