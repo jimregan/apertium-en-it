@@ -13940,6 +13940,16 @@
 <e><p><l>viper<s n="n"/></l><r>vipera<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>vodka<s n="n"/></l><r>vodka<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>xenophobia<s n="n"/></l><r>xenofobia<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>agoraphobia<s n="n"/></l><r>agorafobia<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>agrology<s n="n"/></l><r>agrologia<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>accountant<s n="n"/></l><r>contabile<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>abdomen<s n="n"/></l><r>addome<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>absorbance<s n="n"/></l><r>assorbanza<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>agate<s n="n"/></l><r>agata<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>aerosol<s n="n"/></l><r>aerosol<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>agent<s n="n"/></l><r>agente<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>agent<s n="n"/></l><r>agente<s n="n"/></r></p></e>
+<e><p><l>amblyopia<s n="n"/></l><r>ambliopia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>mosquito<s n="n"/></l><r>zanzara<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>zarzuela<s n="n"/></l><r>zarzuela<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>shroud<s n="n"/></l><r>sudario<s n="n"/><s n="m"/></r></p></e>
@@ -14385,8 +14395,7 @@
 <e><p><l>amendment<s n="n"/></l><r>emendamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>americium<s n="n"/></l><r>americio<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
 <e><p><l>ammonium<s n="n"/></l><r>ammonio<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>ammunition<s n="n"/></l><r>munizione<s n="n"/></r></p></e>
-<e r="LR"><p><l>ammunition<s n="n"/></l><r>munizione<s n="n"/><s n="GD"/></r></p></e>
+<e><p><l>ammunition<s n="n"/></l><r>munizione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>amnesia<s n="n"/></l><r>amnesia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>amortisation<s n="n"/></l><r>ammortamento<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>amount<s n="n"/><s n="sg"/></l><r>quantità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -20731,6 +20740,7 @@
 <e><p><l>topic<s n="n"/></l><r>tema<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>topic<g><b/>of<b/>conversation</g><s n="n"/></l><r>tema<g><b/>di<b/>conversazione</g><s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>theme<s n="n"/></l><r>tema<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>account<b/>number<s n="n"/></l><r>numero<g><b/>di<b/>conto</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>torso<s n="n"/></l><r>torso<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>torture<s n="n"/></l><r>tortura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>total<s n="n"/></l><r>valore<s n="n"/><s n="m"/></r></p></e>

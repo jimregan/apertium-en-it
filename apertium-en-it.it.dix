@@ -88446,6 +88446,7 @@
     <e lm="TV"><i>TV</i><par n="TV__n"/></e>
     <e lm="abaco"><i>abac</i><par n="fung/o__n"/></e>
     <e lm="abate"><i>abat</i><par n="abat/e__n"/></e>
+    <e lm="contabile"><i>contabil</i><par n="abat/e__n"/></e>
     <e lm="abbandono"><i>abbandon</i><par n="abbain/o__n"/></e>
     <e lm="abbattimento"><i>abbattiment</i><par n="abbain/o__n"/></e>
     <e lm="abbazia"><i>abbazi</i><par n="cas/a__n"/></e>
@@ -88476,6 +88477,7 @@
     <e lm="abitacolo"><i>abitacol</i><par n="abbain/o__n"/></e>
     <e lm="abitante"><i>abitant</i><par n="albanes/e__n"/></e>
     <e lm="abitatore"><i>abitat</i><par n="agricolt/ore__n"/></e>
+    <e lm="attuatore"><i>attuat</i><par n="agricolt/ore__n"/></e>
     <e lm="abitazione"><i>abitazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="abitudine"><i>abitudin</i><par n="abbreviazion/e__n"/></e>
     <e lm="ablazione"><i>ablazion</i><par n="abbreviazion/e__n"/></e>
@@ -88591,6 +88593,7 @@
     <e lm="albanese"><i>albanes</i><par n="albanes/e__n"/></e>
     <e lm="albatros"><i>albatros</i><par n="albatros__n"/></e>
     <e lm="hovercraft"><i>hovercraft</i><par n="albatros__n"/></e>
+    <e lm="aerosol"><i>aerosol</i><par n="albatros__n"/></e>
     <e lm="albergo"><i>alberg</i><par n="fung/o__n"/></e>
     <e lm="albero"><i>alber</i><par n="abbain/o__n"/></e>
     <e lm="albicocca"><i>albicocc</i><par n="tasc/a__n"/></e>
@@ -90212,6 +90215,8 @@
     <e lm="flusso"><i>fluss</i><par n="abbain/o__n"/></e>
     <e lm="fluttuazione"><i>fluttuazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="fobia"><i>fobi</i><par n="cas/a__n"/></e>
+    <e lm="agorafobia"><i>agorafobi</i><par n="cas/a__n"/></e>
+    <e lm="agrologia"><i>agrologi</i><par n="cas/a__n"/></e>
     <e lm="foca"><i>foc</i><par n="cas/a__n"/></e>
     <e lm="foglia"><i>fogli</i><par n="cas/a__n"/></e>
     <e lm="foglio"><i>fogli</i><par n="abbagli/o__n"/></e>
@@ -90260,8 +90265,10 @@
     <e lm="franchista"><i>franchist</i><par n="eremit/a__n"/></e>
     <e lm="frase"><i>fras</i><par n="abbreviazion/e__n"/></e>
     <e lm="frate"><i>frat</i><par n="abat/e__n"/></e>
+    <e lm="addome"><i>addom</i><par n="abat/e__n"/></e>
     <e lm="fratello"><i>fratell</i><par n="abbain/o__n"/></e>
     <e lm="fratellanza"><i>fratellanz</i><par n="cas/a__n"/></e>
+    <e lm="assorbanza"><i>assorbanz</i><par n="cas/a__n"/></e>
     <e lm="frattura"><i>frattur</i><par n="cas/a__n"/></e>
     <e lm="frazione"><i>frazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="freccia"><i>frecc</i><par n="alzatacc/ia__n"/></e>
@@ -91000,6 +91007,7 @@
     <e lm="minuto"><i>minut</i><par n="abbain/o__n"/></e>
     <e lm="miope"><i>miop</i><par n="albanes/e__n"/></e>
     <e lm="miopia"><i>miopi</i><par n="cas/a__n"/></e>
+    <e lm="ambliopia"><i>ambliopi</i><par n="cas/a__n"/></e>
     <e lm="mira"><i>mir</i><par n="cas/a__n"/></e>
     <e lm="miracolo"><i>miracol</i><par n="abbain/o__n"/></e>
     <e lm="miraggio"><i>miraggi</i><par n="abbagli/o__n"/></e>
@@ -91175,6 +91183,7 @@
     <e lm="nube"><i>nub</i><par n="abbreviazion/e__n"/></e>
     <e lm="nucleo"><i>nucle</i><par n="abbain/o__n"/></e>
     <e lm="numero"><i>numer</i><par n="abbain/o__n"/></e>
+    <e lm="numero di conto"><i>numer</i><par n="abbain/o__n"/><p><l><b/>di<b/>conto</l><r><g><b/>di<b/>conto</g></r></p></e>
     <e lm="nuora"><i>nuor</i><par n="cas/a__n"/></e>
     <e lm="nuoto"><i>nuot</i><par n="abbain/o__n"/></e>
     <e lm="nutrizione"><i>nutrizion</i><par n="abbreviazion/e__n"/></e>
@@ -91243,6 +91252,7 @@
     <e lm="orchidea"><i>orchide</i><par n="cas/a__n"/></e>
     <e lm="ordine"><i>ordin</i><par n="abat/e__n"/></e>
     <e lm="ordinanza"><i>ordinanz</i><par n="cas/a__n"/></e>
+    <e lm="assorbanza"><i>assorbanz</i><par n="cas/a__n"/></e>
     <e lm="orecchio"><i>orecchi</i><par n="orecchi/o__n"/></e>
     <e lm="orecchino"><i>orecchin</i><par n="abbain/o__n"/></e>
     <e lm="orfano"><i>orfan</i><par n="bambin/o__n"/></e>
@@ -91767,6 +91777,7 @@
     <e lm="refrigerazione"><i>refrigerazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="regalo"><i>regal</i><par n="abbain/o__n"/></e>
     <e lm="regata"><i>regat</i><par n="cas/a__n"/></e>
+    <e lm="agata"><i>agat</i><par n="cas/a__n"/></e>
     <e lm="reggiseno"><i>reggisen</i><par n="abbain/o__n"/></e>
     <e lm="regime"><i>regim</i><par n="abat/e__n"/></e>
     <e lm="regione"><i>region</i><par n="abbreviazion/e__n"/></e>
