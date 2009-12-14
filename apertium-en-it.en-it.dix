@@ -16897,6 +16897,7 @@
 <e><p><l>formula<s n="n"/></l><r>formula<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>formulation<s n="n"/></l><r>formulazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fortification<s n="n"/></l><r>fortificazione<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>strengthening<s n="n"/></l><r>fortificazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fortress<s n="n"/></l><r>fortezza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fortress<s n="n"/></l><r>potere<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fortune<s n="n"/></l><r>fortuna<s n="n"/><s n="f"/></r></p></e>
@@ -18958,7 +18959,8 @@
 <e r="LR"><p><l>personality<s n="n"/><s n="sg"/></l><r>personalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>personality<s n="n"/><s n="pl"/></l><r>personalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>personification<s n="n"/></l><r>personificazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>personnel<s n="n"/><s n="pl"/></l><r>personale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>personnel<s n="n"/><s n="pl"/></l><r>personale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e><p><l>staff<s n="n"/></l><r>personale<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>perspective<s n="n"/></l><r>prospettiva<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>peseta<s n="n"/></l><r>peseta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>pessimism<s n="n"/></l><r>pessimismo<s n="n"/><s n="m"/></r></p></e>
@@ -20217,6 +20219,7 @@
 <e><p><l>spark<s n="n"/></l><r>scintilla<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>speaker<s n="n"/></l><r>altoparlante<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>force<b/>majeure<s n="n"/></l><r>forza<b/>maggiore<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>structural<b/>calculation<s n="n"/></l><r>calcolo<b/>strutturale<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>work<b/>centre<s n="n"/></l><r>centro<g><b/>di<b/>lavoro</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>working<b/>time<s n="n"/></l><r>giornata<g><b/>di<b/>lavoro</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>workday<s n="n"/></l><r>giorno<g><b/>di<b/>lavoro</g><s n="n"/><s n="m"/></r></p></e>
@@ -20575,6 +20578,7 @@
 <e><p><l>white<s n="n"/></l><r>bianco<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>target<s n="n"/></l><r>bersaglio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>objective<s n="n"/></l><r>obiettivo<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>target<s n="n"/></l><r>obiettivo<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>task<s n="n"/></l><r>lavoro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>taste<s n="n"/></l><r>gusto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tasting<s n="n"/></l><r>degustazione<s n="n"/><s n="f"/></r></p></e>
@@ -20730,6 +20734,9 @@
 <e r="RL"><p><l>toothpaste<s n="n"/></l><r>pasta<b/>dentifricia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>toothpaste<s n="n"/></l><r>dentifricio<s n="n"/><s n="m"/></r></p></e>
 <e c="de un árbol"><p><l>top<s n="n"/></l><r>tazza<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>topic<s n="n"/></l><r>tema<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>topic<g><b/>of<b/>conversation</g><s n="n"/></l><r>tema<g><b/>di<b/>conversazione</g><s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>theme<s n="n"/></l><r>tema<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>torso<s n="n"/></l><r>torso<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>torture<s n="n"/></l><r>tortura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>total<s n="n"/></l><r>valore<s n="n"/><s n="m"/></r></p></e>
