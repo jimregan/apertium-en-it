@@ -80799,6 +80799,7 @@
     <e lm="Dublino"><i>Dublino</i><par n="Afghanistan__np"/></e>
     <e lm="Dénia"><i>Dénia</i><par n="Afghanistan__np"/></e>
     <e lm="USA"><i>USA</i><par n="USA__np"/></e>
+    <e lm="Caraibi"><i>Caraibi</i><par n="USA__np"/></e>
     <e lm="Appalachi"><i>Appalachi</i><par n="USA__np"/></e>
     <e lm="Ecuador"><i>Ecuador</i><par n="Afghanistan__np"/></e>
     <e lm="Egitto"><i>Egitto</i><par n="Afghanistan__np"/></e>
@@ -98593,7 +98594,10 @@
     <e lm="deporre"><i>depo</i><par n="antepo/rre__vblex"/></e>
     <e lm="interporre"><i>interpo</i><par n="antepo/rre__vblex"/></e>
     <e lm="Maldive"><i>Maldive</i><par n="Maldive__np"/></e>
+    <e lm="Molucche"><i>Molucche</i><par n="Maldive__np"/></e>
     <e lm="Isole Cayman"><i>Isole<b/>Cayman</i><par n="Maldive__np"/></e>
+    <e lm="Isole Sopravento meridionali"><i>Isole<b/>Sopravento<b/>meridionali</i><par n="Maldive__np"/></e>
+    <e lm="Isole Sopravento settentrionali"><i>Isole<b/>Sopravento<b/>settentrionali</i><par n="Maldive__np"/></e>
     <e lm="Isole Aleutine"><i>Isole<b/>Aleutine</i><par n="Maldive__np"/></e>
     <e lm="Isole Vergini britanniche"><i>Isole<b/>Vergini<b/>britanniche</i><par n="Maldive__np"/></e>
     <e lm="Isole Vergini americane"><i>Isole<b/>Vergini<b/>americane</i><par n="Maldive__np"/></e>
@@ -98697,6 +98701,8 @@
     <e lm="Normandia"><i>Normandia</i><par n="Europa__np"/></e>
     <e lm="Namibia"><i>Namibia</i><par n="Europa__np"/></e>
     <e lm="America settentrionale"><i>America<b/>settentrionale</i><par n="Europa__np"/></e>
+    <e lm="Isola del Sud"><i>Isola<b/>del<b/>Sud</i><par n="Europa__np"/></e>
+    <e lm="Arcipelago britannico"><i>Arcipelago<b/>britannico</i><par n="Europa__np"/></e>
     <e lm="scenario"><i>scenari</i><par n="abbagli/o__n"/></e>
 	</section>
 
