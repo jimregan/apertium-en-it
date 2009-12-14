@@ -20216,7 +20216,11 @@
 <e><p><l>spacecraft<s n="n"/></l><r>velivolo<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>spark<s n="n"/></l><r>scintilla<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>speaker<s n="n"/></l><r>altoparlante<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>secretary-general<s n="n"/></l><r>segretario<b/>generale<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>secretary-general<s n="n"/></l><r>segretario<b/>generale<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>secretary-general<s n="n"/></l><r>segretario<b/>generale<s n="n"/></r></p></e>
+<e r="LR"><p><l>guide<b/>dog<s n="n"/></l><r>cane<b/>guida<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>guide<b/>dog<s n="n"/></l><r>cane<b/>guida<s n="n"/></r></p></e>
+<e r="LR"><p><l>seeing-eye<b/>dog<s n="n"/></l><r>cane<b/>guida<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>speaker<s n="n"/></l><r>interlocutore<s n="n"/></r></p></e>
 <e><p><l>specialisation<s n="n"/></l><r>specializzazione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>specialist<s n="n"/></l><r>specialista<s n="n"/></r></p></e>
