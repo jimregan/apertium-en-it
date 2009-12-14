@@ -91289,6 +91289,7 @@
     <e lm="osservazione"><i>osservazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="ossidazione"><i>ossidazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="ossido"><i>ossid</i><par n="abbain/o__n"/></e>
+    <e lm="ossido di alluminio"><i>ossid</i><par n="abbain/o__n"/><p><l><b/>di<b/>alluminio</l><r><g><b/>di<b/>alluminio</g></r></p></e>
     <e lm="ossigeno"><i>ossigen</i><par n="abbain/o__n"/></e>
     <e lm="ostacolo"><i>ostacol</i><par n="abbain/o__n"/></e>
     <e lm="ostetricia"><i>ostetricia</i><par n="abilità__n"/></e>
@@ -91402,6 +91403,89 @@
     <e lm="pastore"><i>pastor</i><par n="abat/e__n"/></e>
     <e lm="patata"><i>patat</i><par n="cas/a__n"/></e>
     <e lm="patologia"><i>patologi</i><par n="cas/a__n"/></e>
+    <e lm="ampelografia"><i>ampelografi</i><par n="cas/a__n"/></e>
+    <e lm="biogeografia"><i>biogeografi</i><par n="cas/a__n"/></e>
+    <e lm="calligrafia"><i>calligrafi</i><par n="cas/a__n"/></e>
+    <e lm="coreografia"><i>coreografi</i><par n="cas/a__n"/></e>
+    <e lm="cromatografia"><i>cromatografi</i><par n="cas/a__n"/></e>
+    <e lm="cromatografia"><i>cromatografi</i><par n="cas/a__n"/></e>
+    <e lm="cromatografia"><i>cromatografi</i><par n="cas/a__n"/></e>
+    <e lm="cristallografia"><i>cristallografi</i><par n="cas/a__n"/></e>
+    <e lm="demografia"><i>demografi</i><par n="cas/a__n"/></e>
+    <e lm="elettroencefalografia"><i>elettroencefalografi</i><par n="cas/a__n"/></e>
+    <e lm="epigrafia"><i>epigrafi</i><par n="cas/a__n"/></e>
+    <e lm="ateroma"><i>aterom</i><par n="cas/a__n"/></e>
+    <e lm="autosoma"><i>autosom</i><par n="cas/a__n"/></e>
+    <e lm="assioma"><i>assiom</i><par n="cas/a__n"/></e>
+    <e lm="bioma"><i>biom</i><par n="cas/a__n"/></e>
+    <e lm="carcinoma"><i>carcinom</i><par n="cas/a__n"/></e>
+    <e lm="celoma"><i>celom</i><par n="cas/a__n"/></e>
+    <e lm="centrosoma"><i>centrosom</i><par n="cas/a__n"/></e>
+    <e lm="coma"><i>com</i><par n="cas/a__n"/></e>
+    <e lm="citostoma"><i>citostom</i><par n="cas/a__n"/></e>
+    <e lm="biscroma"><i>biscrom</i><par n="cas/a__n"/></e>
+    <e lm="ciclotimia"><i>ciclotimi</i><par n="cas/a__n"/></e>
+    <e lm="citoplasma"><i>citoplasm</i><par n="cas/a__n"/></e>
+    <e lm="ectoplasma"><i>ectoplasm</i><par n="cas/a__n"/></e>
+    <e lm="ametropia"><i>ametropi</i><par n="cas/a__n"/></e>
+    <e lm="anisotropia"><i>anisotropi</i><par n="cas/a__n"/></e>
+    <e lm="artroscopia"><i>artroscopi</i><par n="cas/a__n"/></e>
+    <e lm="cistoscopia"><i>cistoscopi</i><par n="cas/a__n"/></e>
+    <e lm="endoscopia"><i>endoscopi</i><par n="cas/a__n"/></e>
+    <e lm="entropia"><i>entropi</i><par n="cas/a__n"/></e>
+    <e lm="abiura"><i>abiur</i><par n="cas/a__n"/></e>
+    <e lm="anura"><i>anur</i><par n="cas/a__n"/></e>
+    <e lm="apicoltura"><i>apicoltur</i><par n="cas/a__n"/></e>
+    <e lm="acquacoltura"><i>acquacoltur</i><par n="cas/a__n"/></e>
+    <e lm="arboricoltura"><i>arboricoltur</i><par n="cas/a__n"/></e>
+    <e lm="fasciatura"><i>fasciatur</i><par n="cas/a__n"/></e>
+    <e lm="cesura"><i>cesur</i><par n="cas/a__n"/></e>
+    <e lm="controcultura"><i>controcultur</i><par n="cas/a__n"/></e>
+    <e lm="curvatura"><i>curvatur</i><par n="cas/a__n"/></e>
+    <e lm="tintura"><i>tintur</i><par n="cas/a__n"/></e>
+    <e lm="albumina"><i>albumin</i><par n="cas/a__n"/></e>
+    <e lm="ampicillina"><i>ampicillin</i><par n="cas/a__n"/></e>
+    <e lm="andesina"><i>andesin</i><par n="cas/a__n"/></e>
+    <e lm="angina"><i>angin</i><par n="cas/a__n"/></e>
+    <e lm="atropina"><i>atropin</i><par n="cas/a__n"/></e>
+    <e lm="bacitracina"><i>bacitracin</i><par n="cas/a__n"/></e>
+    <e lm="bilirubina"><i>bilirubin</i><par n="cas/a__n"/></e>
+    <e lm="candeggina"><i>candeggin</i><par n="cas/a__n"/></e>
+    <e lm="caffeina"><i>caffein</i><par n="cas/a__n"/></e>
+    <e lm="caseina"><i>casein</i><par n="cas/a__n"/></e>
+    <e lm="cavatina"><i>cavatin</i><par n="cas/a__n"/></e>
+    <e lm="cheratina"><i>cheratin</i><par n="cas/a__n"/></e>
+    <e lm="chitina"><i>chitin</i><par n="cas/a__n"/></e>
+    <e lm="colina"><i>colin</i><par n="cas/a__n"/></e>
+    <e lm="cromatina"><i>cromatin</i><par n="cas/a__n"/></e>
+    <e lm="olivina"><i>olivin</i><par n="cas/a__n"/></e>
+    <e lm="cisteina"><i>cistein</i><par n="cas/a__n"/></e>
+    <e lm="citosina"><i>citosin</i><par n="cas/a__n"/></e>
+    <e lm="dentina"><i>dentin</i><par n="cas/a__n"/></e>
+    <e lm="dopamina"><i>dopamin</i><par n="cas/a__n"/></e>
+    <e lm="elastina"><i>elastin</i><par n="cas/a__n"/></e>
+    <e lm="endotossina"><i>endotossin</i><par n="cas/a__n"/></e>
+    <e lm="eosina"><i>eosin</i><par n="cas/a__n"/></e>
+    <e lm="adrenalina"><i>adrenalin</i><par n="cas/a__n"/></e>
+    <e lm="anfibologia"><i>anfibologi</i><par n="cas/a__n"/></e>
+    <e lm="andrologia"><i>andrologi</i><par n="cas/a__n"/></e>
+    <e lm="antologia"><i>antologi</i><par n="cas/a__n"/></e>
+    <e lm="antropologia"><i>antropologi</i><par n="cas/a__n"/></e>
+    <e lm="astrologia"><i>astrologi</i><par n="cas/a__n"/></e>
+    <e lm="assiologia"><i>assiologi</i><par n="cas/a__n"/></e>
+    <e lm="biotecnologia"><i>biotecnologi</i><par n="cas/a__n"/></e>
+    <e lm="cosmologia"><i>cosmologi</i><par n="cas/a__n"/></e>
+    <e lm="citologia"><i>citologi</i><par n="cas/a__n"/></e>
+    <e lm="dendrocronologia"><i>dendrocronologi</i><par n="cas/a__n"/></e>
+    <e lm="dendrologia"><i>dendrologi</i><par n="cas/a__n"/></e>
+    <e lm="deontologia"><i>deontologi</i><par n="cas/a__n"/></e>
+    <e lm="dermatologia"><i>dermatologi</i><par n="cas/a__n"/></e>
+    <e lm="dialettologia"><i>dialettologi</i><par n="cas/a__n"/></e>
+    <e lm="ecologia"><i>ecologi</i><par n="cas/a__n"/></e>
+    <e lm="embriologia"><i>embriologi</i><par n="cas/a__n"/></e>
+    <e lm="endocrinologia"><i>endocrinologi</i><par n="cas/a__n"/></e>
+    <e lm="entomologia"><i>entomologi</i><par n="cas/a__n"/></e>
+    <e lm="epidemiologia"><i>epidemiologi</i><par n="cas/a__n"/></e>
     <e lm="patria"><i>patri</i><par n="cas/a__n"/></e>
     <e lm="patriarca"><i>patriarc</i><par n="monarc/a__n"/></e>
     <e lm="patrocinio"><i>patrocini</i><par n="abbagli/o__n"/></e>
