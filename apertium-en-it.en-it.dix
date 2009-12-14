@@ -217,8 +217,8 @@
 <e r="RL"><p><l>eighth<s n="det"/></l><r>ottavo<s n="det"/></r></p></e>
 <e r="LR"><p><l>eightieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>ottantesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>eightieth<s n="det"/></l><r>ottantesimo<s n="det"/></r></p></e>
-<e c="frases negatives"><p><l>either<s n="det"/><s n="ind"/></l><r>nessuno<s n="det"/><s n="ind"/></r></p></e>
-<e><p><l>either<s n="det"/><s n="ind"/></l><r>qualsiasi<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+<e c="frases negatives" r="RL"><p><l>either<s n="det"/><s n="ind"/></l><r>nessuno<s n="det"/><s n="ind"/></r></p></e>
+<e r="RL"><p><l>either<s n="det"/><s n="ind"/></l><r>qualsiasi<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>eleventh<s n="det"/><s n="ord"/><s n="sp"/></l><r>undicesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>eleventh<s n="det"/></l><r>undicesimo<s n="det"/></r></p></e>
 <e><p><l>every<s n="det"/><s n="ind"/></l><r>ogni<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
@@ -280,8 +280,6 @@
 <e r="LR"><p><l>one<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>centesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>other<s n="det"/><s n="ind"/><s n="pl"/></l><r>altro<s n="adj"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>other<s n="det"/><s n="ind"/><s n="pl"/></l><r>altro<s n="adj"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
-<e><p><l>other<s n="det"/><s n="ind"/><s n="pl"/></l><r>un<b/>altro<s n="det"/><s n="ind"/></r></p></e>
-<e><p><l>other<s n="det"/><s n="ind"/><s n="sp"/></l><r>un<b/>altro<s n="det"/><s n="ind"/></r></p></e>
 <e r="LR"><p><l>our<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>nostro<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>our<s n="det"/></l><r>il<b/>nostro<s n="det"/><s n="pos"/></r></p></e>
 <e r="RL"><p><l>our<s n="det"/></l><r>nostro<s n="det"/><s n="pos"/></r></p></e>
@@ -555,7 +553,7 @@
 <e><p><l>San<b/>Diego<s n="np"/><s n="loc"/></l><r>San<b/>Diego<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Baltimore<s n="np"/><s n="loc"/></l><r>Baltimora<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>New<b/>Orleans<s n="np"/><s n="loc"/></l><r>New<b/>Orleans<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
-<e><p><l>Beijing<s n="np"/><s n="loc"/></l><r>Pechino<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>Beijing<s n="np"/><s n="loc"/></l><r>Pechino<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Vatican<s n="np"/><s n="loc"/></l><r>Vaticano<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Vatican<b/>City<s n="np"/><s n="loc"/></l><r>Città<b/>del<b/>Vaticano<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Uganda<s n="np"/><s n="loc"/></l><r>Uganda<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
@@ -10415,8 +10413,7 @@
 <e><p><l>lawful<s n="adj"/></l><r>lecito<s n="adj"/></r></p></e>
 <e><p><l>lawless<s n="adj"/></l><r>anarchico<s n="adj"/></r></p></e>
 <e r="LR"><p><l>leading<s n="adj"/></l><r>principale<s n="adj"/><s n="mf"/></r></p></e>
-<e c="check"><p><l>leading<s n="adj"/></l><r>protagonista<s n="adj"/><s n="m"/></r></p></e>
-<e c="check"><p><l>leading<s n="adj"/></l><r>protagonista<s n="adj"/><s n="f"/></r></p></e>
+<e c="check"><p><l>leading<s n="adj"/></l><r>protagonista<s n="adj"/></r></p></e>
 <e><p><l>legal<s n="adj"/></l><r>legale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>legislative<s n="adj"/></l><r>legislativo<s n="adj"/></r></p></e>
 <e><p><l>lengthy<s n="adj"/></l><r>lungo<s n="adj"/></r></p></e>
@@ -10449,7 +10446,7 @@
 <e><p><l>long<s n="adj"/><s n="sint"/></l><r>lungo<s n="adj"/></r></p></e>
 <e><p><l>longshore<s n="adj"/></l><r>litorale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>lordly<s n="adj"/></l><r>signorile<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>lovely<s n="adj"/><s n="sint"/></l><r>prezioso<s n="adj"/></r></p></e>
+<e r="LR"><p><l>lovely<s n="adj"/><s n="sint"/></l><r>prezioso<s n="adj"/></r></p></e>
 <e><p><l>loving<s n="adj"/></l><r>amante<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>low<s n="adj"/><s n="sint"/><s n="comp"/></l><r>minore<s n="adj"/></r></p></e>
 <e><p><l>low<s n="adj"/><s n="sint"/></l><r>basso<s n="adj"/></r></p></e>
@@ -10487,7 +10484,7 @@
 <e><p><l>mathematical<s n="adj"/></l><r>matematico<s n="adj"/></r></p></e>
 <e><p><l>matrimonial<s n="adj"/></l><r>matrimoniale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>mature<s n="adj"/></l><r>maturo<s n="adj"/></r></p></e>
-<e><p><l>maximal<s n="adj"/></l><r>massimo<s n="adj"/></r></p></e>
+<e r="LR"><p><l>maximal<s n="adj"/></l><r>massimo<s n="adj"/></r></p></e>
 <e><p><l>maximum<s n="adj"/></l><r>massimo<s n="adj"/></r></p></e>
 <e><p><l>mean<s n="adj"/><s n="sint"/></l><r>cattivo<s n="adj"/></r></p></e>
 <e><p><l>meaningful<s n="adj"/></l><r>significativo<s n="adj"/></r></p></e>
@@ -10543,7 +10540,7 @@
 <e><p><l>nasty<s n="adj"/><s n="sint"/></l><r>cattivo<s n="adj"/></r></p></e>
 <e><p><l>natal<s n="adj"/></l><r>natale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>national<s n="adj"/></l><r>nazionale<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>native<s n="adj"/></l><r>indigeno<s n="adj"/></r></p></e>
+<e><p><l>indigenous<s n="adj"/></l><r>indigeno<s n="adj"/></r></p></e>
 <e><p><l>native<s n="adj"/></l><r>nativo<s n="adj"/></r></p></e>
 <e><p><l>natural<s n="adj"/></l><r>naturale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>naval<s n="adj"/></l><r>navale<s n="adj"/><s n="mf"/></r></p></e>
@@ -10552,13 +10549,13 @@
 <e><p><l>nearby<s n="adj"/></l><r>vicino<s n="adj"/></r></p></e>
 <e><p><l>necessary<s n="adj"/></l><r>necessario<s n="adj"/></r></p></e>
 <e><p><l>neighbouring<s n="adj"/></l><r>vicino<s n="adj"/></r></p></e>
-<e><p><l>neighbouring<s n="adj"/></l><r>confinante<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>neighbourly<s n="adj"/></l><r>cordiale<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>neighbouring<s n="adj"/></l><r>confinante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>neighbourly<s n="adj"/></l><r>cordiale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>neoliberal<s n="adj"/></l><r>neoliberale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>nervous<s n="adj"/></l><r>nervoso<s n="adj"/></r></p></e>
 <e><p><l>new<s n="adj"/><s n="sint"/></l><r>nuovo<s n="adj"/></r></p></e>
 <e><p><l>next<s n="adj"/></l><r>prossimo<s n="adj"/></r></p></e>
-<e><p><l>nice<s n="adj"/><s n="sint"/></l><r>simpatico<s n="adj"/></r></p></e>
+<e r="RL"><p><l>nice<s n="adj"/><s n="sint"/></l><r>simpatico<s n="adj"/></r></p></e>
 <e><p><l>nice<s n="adj"/><s n="sint"/></l><r>buono<s n="adj"/></r></p></e>
 <e><p><l>nigerian<s n="adj"/></l><r>nigeriano<s n="adj"/></r></p></e>
 <e><p><l>noisy<s n="adj"/><s n="sint"/></l><r>rumoroso<s n="adj"/></r></p></e>
@@ -14919,10 +14916,9 @@
 <e r="LR"><p><l>blog<s n="n"/><s n="sg"/></l><r>blog<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>blog<s n="n"/><s n="pl"/></l><r>blog<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>blog<s n="n"/><s n="ND"/></l><r>blog<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e><p><l>blog<s n="n"/></l><r>blog<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>blood<s n="n"/></l><r>sangue<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bloodsucker<s n="n"/></l><r>sanguisuga<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>blow<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e>
+<e srl="colpo"><p><l>blow<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>blueberry<s n="n"/></l><r>mirtillo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>blueprint<s n="n"/></l><r>progetto<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>bluff<s n="n"/><s n="ND"/></l><r>bluff<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -14982,7 +14978,7 @@
 <e><p><l>bread<s n="n"/></l><r>pane<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>snack<s n="n"/></l><r>spuntino<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>breakfast<s n="n"/></l><r>colazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>breast<s n="n"/></l><r>petto<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>breast<s n="n"/></l><r>petto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>breast<s n="n"/></l><r>seno<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>breath<s n="n"/></l><r>respirazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>breathing<s n="n"/></l><r>respirazione<s n="n"/><s n="f"/></r></p></e>
@@ -17136,12 +17132,12 @@
 <e><p><l>griffin<s n="n"/></l><r>rubinetto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>grinder<s n="n"/></l><r>mulinello<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>groom<s n="n"/></l><r>fidanzato<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>ground<s n="n"/></l><r>terra<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>group<s n="n"/></l><r>insieme<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>ground<s n="n"/></l><r>terra<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>group<s n="n"/></l><r>insieme<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>group<s n="n"/></l><r>gruppo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>grouping<s n="n"/></l><r>raggruppazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>growth<s n="n"/></l><r>crescita<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>guarantee<s n="n"/></l><r>avallo<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>guarantee<s n="n"/></l><r>avallo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>guarantee<s n="n"/></l><r>garanzia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>guard<s n="n"/></l><r>guardia<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>guerrilla<s n="n"/></l><r>guerriglia<s n="n"/><s n="f"/></r></p></e>
@@ -17241,49 +17237,42 @@
 <e r="RL"><p><l>health<s n="n"/><s n="ND"/></l><r>sanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>health<s n="n"/><s n="sg"/></l><r>sanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>health<s n="n"/><s n="pl"/></l><r>sanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e><p><l>hearing<s n="n"/></l><r>udito<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>hearing<s n="n"/></l><r>audizione<s n="n"/><s n="f"/></r></p></e>
+<e slr="udito D"><p><l>hearing<s n="n"/></l><r>udito<s n="n"/><s n="m"/></r></p></e>
+<e slr="audizione" r="LR"><p><l>hearing<s n="n"/></l><r>audizione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>heart<s n="n"/></l><r>cuore<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>heart<s n="n"/></l><r>seno<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>heat<s n="n"/></l><r>calore<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>heater<s n="n"/></l><r>riscaldatore<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>heater<s n="n"/></l><r>riscaldatore<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>heater<s n="n"/></l><r>scaldabagno<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>heating<s n="n"/></l><r>riscaldamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>heaven<s n="n"/></l><r>cielo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>hectare<s n="n"/></l><r>ettaro<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>hectare<s n="n"/></l><r>ettaro<s n="n"/><s n="m"/></r></p></e>
 <e srl="hedgehog"><p><l>hedgehog<s n="n"/></l><r>riccio<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>hedgehog<s n="n"/></l><r>riccio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hedonism<s n="n"/></l><r>edonismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>heel<s n="n"/></l><r>tallone<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hegemony<s n="n"/></l><r>egemonia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>height<s n="n"/></l><r>altezza<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>height<s n="n"/></l><r>statura<s n="n"/><s n="f"/></r></p></e>
+<e slr="altezza D"><p><l>height<s n="n"/></l><r>altezza<s n="n"/><s n="f"/></r></p></e>
+<e slr="statura" r="LR"><p><l>height<s n="n"/></l><r>statura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>helicopter<s n="n"/></l><r>elicottero<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>helium<s n="n"/></l><r>elio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hell<s n="n"/></l><r>inferno<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>helmet<s n="n"/></l><r>casco<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>help<s n="n"/></l><r>aiuto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>help<s n="n"/></l><r>aiuto<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>hematoma<s n="n"/></l><r>ematoma<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>hemisphere<s n="n"/></l><r>emisfero<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hemophilia<s n="n"/></l><r>emofilia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>hemorrhoid<s n="n"/></l><r>emorroide<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>hemp<s n="n"/></l><r>canapa<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hemp<s n="n"/></l><r>canapa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>hen<s n="n"/></l><r>gallina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>hepatitis<s n="n"/></l><r>epatite<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>hepatitis<s n="n"/><s n="ND"/></l><r>epatite<s n="n"/></r></p></e>
 <e><p><l>herald<s n="n"/></l><r>araldo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>heritage<s n="n"/></l><r>patrimonio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hernia<s n="n"/></l><r>ernia<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>hero<s n="n"/></l><r>eroe<s n="n"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>hero<s n="n"/></l><r>eroe<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>heroine<s n="n"/></l><r>eroe<s n="n"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>heroine<s n="n"/></l><r>eroe<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>hero<s n="n"/></l><r>eroe<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>heroine<s n="n"/></l><r>eroe<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>heroism<s n="n"/></l><r>eroismo<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>herpes<s n="n"/><s n="sg"/></l><r>herpes<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>herpes<s n="n"/><s n="pl"/></l><r>herpes<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e><p><l>herpes<s n="n"/><s n="ND"/></l><r>herpes<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+<e r="RL"><p><l>herpes<s n="n"/><s n="ND"/></l><r>herpes<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>hesitation<s n="n"/></l><r>esitazione<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>vacillation<s n="n"/></l><r>esitazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>hibernation<s n="n"/></l><r>letargo<s n="n"/><s n="m"/></r></p></e>
@@ -17306,10 +17295,10 @@
 <e r="RL"><p><l>historian<s n="n"/></l><r>storico<s n="n"/></r></p></e>
 <e><p><l>historiography<s n="n"/></l><r>storiografia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>history<s n="n"/></l><r>storia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>hit<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>hit<s n="n"/></l><r>impatto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>hit<s n="n"/></l><r>successo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>hit<s n="n"/></l><r>hit<s n="n"/><s n="m"/></r></p></e>
+<e slr="colpo D"><p><l>hit<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e>
+<e slr="impatto" r="LR"><p><l>hit<s n="n"/></l><r>impatto<s n="n"/><s n="m"/></r></p></e>
+<e slr="successo" r="LR"><p><l>hit<s n="n"/></l><r>successo<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>hit<s n="n"/></l><r>hit<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hoarfrost<s n="n"/></l><r>galaverna<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>hoarfrost<s n="n"/></l><r>calaverna<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>hockey<s n="n"/><s n="sg"/></l><r>hockey<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -17795,7 +17784,7 @@
 <e><p><l>knee<s n="n"/></l><r>ginocchio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>knife<s n="n"/></l><r>coltello<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>knight<s n="n"/></l><r>cavaliere<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>knock<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e>
+<e srl="knock"><p><l>knock<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>knot<s n="n"/></l><r>nodo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>knowledge<s n="n"/></l><r>conoscenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>knowledge<s n="n"/></l><r>sapere<s n="n"/><s n="m"/></r></p></e>
@@ -20108,8 +20097,8 @@
 <e><p><l>skirt<s n="n"/></l><r>gonna<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>skittle<s n="n"/></l><r>birillo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>skull<s n="n"/></l><r>cranio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>skull<s n="n"/></l><r>calotta<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>skull<s n="n"/></l><r>teschio<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>skull<s n="n"/></l><r>calotta<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>skull<s n="n"/></l><r>teschio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>sky<s n="n"/></l><r>cielo<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>skyscraper<s n="n"/><s n="ND"/></l><r>grattacielo<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>skyscraper<s n="n"/></l><r>grattacielo<s n="n"/><s n="m"/></r></p></e>
@@ -20179,8 +20168,7 @@
 <e><p><l>earth<s n="n"/></l><r>terra<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>sojourn<s n="n"/></l><r>soggiorno<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>sol-fa<s n="n"/></l><r>solfeggio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>soldier<s n="n"/></l><r>soldato<s n="n"/><s n="mf"/></r></p></e>
-<e c="check"><p><l>soldier<s n="n"/></l><r>militare<s n="n"/><s n="m"/></r></p></e>
+<e c="check" r="RL"><p><l>soldier<s n="n"/></l><r>militare<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>soldier<s n="n"/></l><r>soldato<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>solemnity<s n="n"/><s n="ND"/></l><r>solennità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>solemnity<s n="n"/><s n="sg"/></l><r>solennità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -20222,7 +20210,8 @@
 <e><p><l>soybean<s n="n"/></l><r>soia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>spa<s n="n"/></l><r>terme<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e><p><l>space<s n="n"/></l><r>spazio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>spacecraft<s n="n"/></l><r>velivolo<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>spacecraft<s n="n"/></l><r>velivolo<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>spaceship<s n="n"/></l><r>velivolo<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>spark<s n="n"/></l><r>scintilla<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>speaker<s n="n"/></l><r>altoparlante<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>force<b/>majeure<s n="n"/></l><r>forza<b/>maggiore<s n="n"/><s n="f"/></r></p></e>
@@ -20402,7 +20391,7 @@
 <e><p><l>strike<s n="n"/></l><r>sciopero<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>string<s n="n"/></l><r>corda<s n="n"/><s n="f"/></r></p></e>
 <e slr="attacco D" r="LR"><p><l>stroke<s n="n"/></l><r>attacco<s n="n"/><s n="m"/></r></p></e>
-<e slr="colpo"><p><l>stroke<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e>
+<e slr="colpo" srl="stroke"><p><l>stroke<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e>
 <e slr="traccia"><p><l>stroke<s n="n"/></l><r>traccia<s n="n"/><s n="f"/></r></p></e>
 <e slr="tratto"><p><l>stroke<s n="n"/></l><r>tratto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>strontium<s n="n"/></l><r>stronzio<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
@@ -21332,11 +21321,9 @@
 <e><re>[¿¡]</re><p><l><s n="lquest"/></l><r><s n="lquest"/></r></p></e>
 <e r="LR"><p><l>all<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>tutto<s n="prn"/><s n="tn"/><s n="m"/><s n="ND"/></r></p></e>
 <e><p><l>another<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></l><r>altro<s n="prn"/><s n="tn"/></r></p></e>
-<e c="preguntes, negatives. EN-CA: per trànsfer (fr negatives)"><p><l>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>nessuno<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
-<e c="preguntes, negatives. EN-CA: per trànsfer (fr negatives)"><p><l>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>nessuno<s n="prn"/><s n="tn"/><s n="f"/></r></p></e>
-<e r="RL" c="preguntes, negatives. EN-CA: per trànsfer (fr negatives)"><p><l>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>nessuno<s n="prn"/><s n="tn"/></r></p></e>
+<e r="RL"><p><l>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>nessuno<s n="prn"/><s n="tn"/></r></p></e>
 <e c="frases afirmatives"><p><l>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>qualunque<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
-<e r="LR" c="frases interrogatives"><p><l>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>alcuno<s n="prn"/><s n="tn"/></r></p></e>
+<e r="RL" c="frases interrogatives"><p><l>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>alcuno<s n="prn"/><s n="tn"/></r></p></e>
 <e c="any one i anyone/anybody tenen significats diferents, s'ha escollit 'any one' com a traducció"><p><l>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></l><r>qualsivoglia<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
 <e c="any one i anyone/anybody tenen significats diferents, s'ha escollit 'any one' com a traducció"><p><l>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></l><r>qualsiasi<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
 <e c="preguntes, condicional"><p><l>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></l><r>qualcuno<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
