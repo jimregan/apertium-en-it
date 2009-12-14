@@ -217,7 +217,7 @@
 <e r="RL"><p><l>eighth<s n="det"/></l><r>ottavo<s n="det"/></r></p></e>
 <e r="LR"><p><l>eightieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>ottantesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>eightieth<s n="det"/></l><r>ottantesimo<s n="det"/></r></p></e>
-<e c="frases negatives" r="RL"><p><l>either<s n="det"/><s n="ind"/></l><r>nessuno<s n="det"/><s n="ind"/></r></p></e>
+<e c="frases negatives" r="RL"><p><l>either<s n="det"/><s n="ind"/><s n="sp"/></l><r>nessuno<s n="det"/><s n="ind"/></r></p></e>
 <e r="RL"><p><l>either<s n="det"/><s n="ind"/></l><r>qualsiasi<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>eleventh<s n="det"/><s n="ord"/><s n="sp"/></l><r>undicesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>eleventh<s n="det"/></l><r>undicesimo<s n="det"/></r></p></e>
@@ -10412,8 +10412,8 @@
 <e><p><l>latter<s n="adj"/></l><r>ultimo<s n="adj"/></r></p></e>
 <e><p><l>lawful<s n="adj"/></l><r>lecito<s n="adj"/></r></p></e>
 <e><p><l>lawless<s n="adj"/></l><r>anarchico<s n="adj"/></r></p></e>
-<e r="LR"><p><l>leading<s n="adj"/></l><r>principale<s n="adj"/><s n="mf"/></r></p></e>
-<e c="check"><p><l>leading<s n="adj"/></l><r>protagonista<s n="adj"/></r></p></e>
+<e><p><l>leading<s n="adj"/></l><r>principale<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>leading<s n="adj"/></l><r>protagonista<s n="adj"/></r></p></e>
 <e><p><l>legal<s n="adj"/></l><r>legale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>legislative<s n="adj"/></l><r>legislativo<s n="adj"/></r></p></e>
 <e><p><l>lengthy<s n="adj"/></l><r>lungo<s n="adj"/></r></p></e>
@@ -10470,7 +10470,6 @@
 <e><p><l>mammalian<s n="adj"/></l><r>mammifero<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>maniac<s n="adj"/></l><r>maniaco<s n="adj"/></r></p></e>
 <e><p><l>manufacturer<s n="adj"/></l><r>fabbricante<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>marginal<s n="adj"/></l><r>insignificante<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>marginal<s n="adj"/></l><r>marginale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>marital<s n="adj"/></l><r>maritale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>maritime<s n="adj"/></l><r>marittimo<s n="adj"/></r></p></e>
@@ -10568,7 +10567,7 @@
 <e><p><l>norwegian<s n="adj"/></l><r>norvegese<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>notable<s n="adj"/></l><r>notevole<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>notarial<s n="adj"/></l><r>notarile<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>novel<s n="adj"/></l><r>novellino<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>novel<s n="adj"/></l><r>novellino<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>novel<s n="adj"/></l><r>novello<s n="adj"/></r></p></e>
 <e><p><l>noxious<s n="adj"/></l><r>pestilenziale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>nuclear<s n="adj"/></l><r>nucleare<s n="adj"/><s n="mf"/></r></p></e>
@@ -10631,8 +10630,8 @@
 <e><p><l>partial<s n="adj"/></l><r>parziale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>particular<s n="adj"/></l><r>particolare<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>passenger<s n="adj"/></l><r>passeggero<s n="adj"/></r></p></e>
-<e><p><l>passionate<s n="adj"/></l><r>ardente<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>passionate<s n="adj"/></l><r>appassionato<s n="adj"/></r></p></e>
+<e><p><l>ardent<s n="adj"/></l><r>ardente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>passionate<s n="adj"/></l><r>appassionato<s n="adj"/></r></p></e>
 <e><p><l>passionate<s n="adj"/></l><r>passionale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>passive<s n="adj"/></l><r>passivo<s n="adj"/></r></p></e>
 <e><p><l>pastoral<s n="adj"/></l><r>pastorale<s n="adj"/><s n="mf"/></r></p></e>
@@ -10708,7 +10707,7 @@
 <e><p><l>profound<s n="adj"/></l><r>profondo<s n="adj"/></r></p></e>
 <e><p><l>promoter<s n="adj"/></l><r>promotore<s n="adj"/></r></p></e>
 <e><p><l>promotional<s n="adj"/></l><r>promozionale<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>prompt<s n="adj"/><s n="sint"/></l><r>puntuale<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>punctual<s n="adj"/></l><r>puntuale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>proportional<s n="adj"/></l><r>proporzionale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>proprietary<s n="adj"/></l><r>proprietario<s n="adj"/></r></p></e>
 <e><p><l>prospective<s n="adj"/></l><r>probabile<s n="adj"/><s n="mf"/></r></p></e>
@@ -20217,7 +20216,7 @@
 <e><p><l>force<b/>majeure<s n="n"/></l><r>forza<b/>maggiore<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>structural<b/>calculation<s n="n"/></l><r>calcolo<b/>strutturale<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>work<b/>centre<s n="n"/></l><r>centro<g><b/>di<b/>lavoro</g><s n="n"/><s n="m"/></r></p></e>
-<e><p><l>working<b/>time<s n="n"/></l><r>giornata<g><b/>di<b/>lavoro</g><s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>working<b/>time<s n="n"/></l><r>giornata<g><b/>di<b/>lavoro</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>workday<s n="n"/></l><r>giorno<g><b/>di<b/>lavoro</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>wedding<b/>day<s n="n"/></l><r>giorno<g><b/>di<b/>nozze</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>weekend<s n="n"/></l><r>fine<b/>settimana<s n="n"/><s n="mf"/></r></p><par n="SP"/></e>
@@ -20704,7 +20703,6 @@
 <e><p><l>tissue<s n="n"/></l><r>tessuto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>titanium<s n="n"/></l><r>titanio<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
 <e><p><l>title<s n="n"/></l><r>titolo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>title<s n="n"/></l><r>titolo<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>titled<s n="n"/></l><r>titolato<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>titled<s n="n"/></l><r>titolato<s n="n"/></r></p></e>
 <e><p><l>toast<s n="n"/><s n="ND"/></l><r>brindisi<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -20730,9 +20728,9 @@
 <e r="RL"><p><l>toothpaste<s n="n"/></l><r>pasta<b/>dentifricia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>toothpaste<s n="n"/></l><r>dentifricio<s n="n"/><s n="m"/></r></p></e>
 <e c="de un árbol"><p><l>top<s n="n"/></l><r>tazza<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>topic<s n="n"/></l><r>tema<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>topic<g><b/>of<b/>conversation</g><s n="n"/></l><r>tema<g><b/>di<b/>conversazione</g><s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>theme<s n="n"/></l><r>tema<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>topic<s n="n"/></l><r>tema<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>topic<g><b/>of<b/>conversation</g><s n="n"/></l><r>tema<g><b/>di<b/>conversazione</g><s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>theme<s n="n"/></l><r>tema<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>torso<s n="n"/></l><r>torso<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>torture<s n="n"/></l><r>tortura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>total<s n="n"/></l><r>valore<s n="n"/><s n="m"/></r></p></e>
@@ -22329,6 +22327,9 @@
     <e><p><l>Their<b/>Royal<b/>Majesties<s n="n"/></l><r>Loro<b/>Maestà<b/>reali<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Their<b/>Highnesses<s n="n"/></l><r>Loro<b/>Altezze<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Their<b/>Majesties<s n="n"/></l><r>Loro<b/>Maestà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Your<b/>Majesty<s n="n"/></l><r>Vostra<b/>Maestà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Your<b/>Royal<b/>Majesty<s n="n"/></l><r>Vostra<b/>Maestà<b/>reale<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Your<b/>Highness<s n="n"/></l><r>Vostra<b/>Altezza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Your<b/>Royal<b/>Highness<s n="n"/></l><r>Vostra<b/>Altezza<b/>reale<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Your<b/>Serene<b/>Highness<s n="n"/></l><r>Vostra<b/>Altezza<b/>serenissima<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>His<b/>Serene<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>serenissima<s n="n"/><s n="f"/></r></p></e>
