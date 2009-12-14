@@ -23235,17 +23235,28 @@
     <e lm="Your Majesty"><i>Your<b/>Majest</i><par n="bab/y__n"/></e>
     <e lm="Her Majesty"><i>Her<b/>Majesty</i><par n="east__n"/></e>
     <e lm="His Majesty"><i>His<b/>Majesty</i><par n="east__n"/></e>
+    <e lm="Her Royal Majesty"><i>Her<b/>Royal<b/>Majesty</i><par n="east__n"/></e>
+    <e lm="His Royal Majesty"><i>His<b/>Royal<b/>Majesty</i><par n="east__n"/></e>
     <e lm="Her Majesty the Queen"><i>Her<b/>Majesty<b/>the<b/>Queen</i><par n="east__n"/></e>
     <e lm="His Majesty the King"><i>His<b/>Majesty<b/>the<b/>King</i><par n="east__n"/></e>
     <e lm="Their Majesties"><i>Their<b/>Majesties</i><par n="alms__n"/></e>
+    <e lm="Their Royal Majesties"><i>Their<b/>Royal<b/>Majesties</i><par n="alms__n"/></e>
     <e lm="Your Highness"><i>Your<b/>Highness</i><par n="access__n"/></e>
     <e lm="Your Royal Highness"><i>Your<b/>Royal<b/>Highness</i><par n="access__n"/></e>
+    <e lm="Your Imperial Highness"><i>Your<b/>Imperial<b/>Highness</i><par n="access__n"/></e>
+    <e lm="Your Serene Highness"><i>Your<b/>Serene<b/>Highness</i><par n="access__n"/></e>
     <e lm="Her Highness"><i>Her<b/>Highness</i><par n="east__n"/></e>
     <e lm="His Highness"><i>His<b/>Highness</i><par n="east__n"/></e>
     <e lm="Their Highnesses"><i>Their<b/>Highnesses</i><par n="alms__n"/></e>
     <e lm="Her Royal Highness"><i>Her<b/>Royal<b/>Highness</i><par n="east__n"/></e>
     <e lm="His Royal Highness"><i>His<b/>Royal<b/>Highness</i><par n="east__n"/></e>
     <e lm="Their Royal Highnesses"><i>Their<b/>Royal<b/>Highnesses</i><par n="alms__n"/></e>
+    <e lm="Her Serene Highness"><i>Her<b/>Serene<b/>Highness</i><par n="east__n"/></e>
+    <e lm="His Serene Highness"><i>His<b/>Serene<b/>Highness</i><par n="east__n"/></e>
+    <e lm="Their Serene Highnesses"><i>Their<b/>Serene<b/>Highnesses</i><par n="alms__n"/></e>
+    <e lm="Her Imperial Highness"><i>Her<b/>Imperial<b/>Highness</i><par n="east__n"/></e>
+    <e lm="His Imperial Highness"><i>His<b/>Imperial<b/>Highness</i><par n="east__n"/></e>
+    <e lm="Their Imperial Highnesses"><i>Their<b/>Imperial<b/>Highnesses</i><par n="alms__n"/></e>
     <!-- case adjustments -->
     <e lm="Her Majesty" r="LR"><p><l>her<b/>majesty</l><r>Her<b/>Majesty</r></p><par n="east__n"/></e>
     <e lm="His Majesty" r="LR"><p><l>his<b/>majesty</l><r>His<b/>Majesty</r></p><par n="east__n"/></e>

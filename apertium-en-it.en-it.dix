@@ -11997,7 +11997,7 @@
 <e r="LR"><p><l>lend<s n="vblex"/></l><r>lasciare<s n="vblex"/></r></p></e>
 <e><p><l>let<s n="vblex"/></l><r>lasciare<s n="vblex"/></r></p></e>
 <e><p><l>level<s n="vblex"/></l><r>livellare<s n="vblex"/></r></p></e>
-<e><p><l>level<s n="vblex"/></l><r>uniformare<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>level<s n="vblex"/></l><r>uniformare<s n="vblex"/></r></p></e>
 <e><p><l>liberalise<s n="vblex"/></l><r>liberalizzare<s n="vblex"/></r></p></e>
 <e><p><l>lie<s n="vblex"/></l><r>mentire<s n="vblex"/></r></p></e>
 <e><p><l>light<s n="vblex"/></l><r>accendere<s n="vblex"/></r></p></e>
@@ -17914,6 +17914,11 @@
 <e><p><l>lettuce<s n="n"/></l><r>lattuga<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>leukaemia<s n="n"/></l><r>leucemia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>level<s n="n"/></l><r>livello<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>level<s n="n"/></l><r>livella<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>spirit<b/>level<s n="n"/></l><r>livella<g><b/>a<b/>bolla<b/>d'aria</g><s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>spirit<b/>level<s n="n"/></l><r>livella<g><b/>a<b/>bolla</g><s n="n"/><s n="f"/></r></p></e>
+<e c="en_US" r="LR"><p><l>trash<b/>bag<s n="n"/></l><r>busta<g><b/>dell'immondizia</g><s n="n"/><s n="f"/></r></p></e>
+<e c="en_GB"><p><l>rubbish<b/>bag<s n="n"/></l><r>busta<g><b/>dell'immondizia</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>lever<s n="n"/></l><r>leva<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>levitation<s n="n"/></l><r>levitazione<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>liability<s n="n"/><s n="sg"/></l><r>responsabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -22326,5 +22331,27 @@
     <e><p><l>New<b/>Zealand<s n="np"/><s n="loc"/></l><r>Nuova<b/>Zelanda<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>Northern<b/>Ireland<s n="np"/><s n="loc"/></l><r>Irlanda<b/>del<b/>Nord<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>North<b/>Island<s n="np"/><s n="loc"/></l><r>Isola<b/>del<b/>Nord<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>His<b/>Royal<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>reale<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>Her<b/>Royal<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>reale<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>His<b/>Royal<b/>Majesty<s n="n"/></l><r>Sua<b/>Maestà<b/>reale<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>Her<b/>Royal<b/>Majesty<s n="n"/></l><r>Sua<b/>Maestà<b/>reale<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>His<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>Her<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>His<b/>Majesty<s n="n"/></l><r>Sua<b/>Maestà<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>Her<b/>Majesty<s n="n"/></l><r>Sua<b/>Maestà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Their<b/>Royal<b/>Highnesses<s n="n"/></l><r>Loro<b/>Altezze<b/>reali<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Their<b/>Royal<b/>Majesties<s n="n"/></l><r>Loro<b/>Maestà<b/>reali<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Their<b/>Highnesses<s n="n"/></l><r>Loro<b/>Altezze<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Their<b/>Majesties<s n="n"/></l><r>Loro<b/>Maestà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Your<b/>Royal<b/>Highness<s n="n"/></l><r>Vostra<b/>Altezza<b/>reale<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Your<b/>Serene<b/>Highness<s n="n"/></l><r>Vostra<b/>Altezza<b/>serenissima<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>His<b/>Serene<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>serenissima<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>Her<b/>Serene<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>serenissima<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Your<b/>Imperial<b/>Highness<s n="n"/></l><r>Vostra<b/>Altezza<b/>imperiale<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>His<b/>Imperial<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>imperiale<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>Her<b/>Imperial<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>imperiale<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>His<b/>Royal<b/>Majesty<s n="n"/></l><r>Sua<b/>Maestà<b/>reale<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>His<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>His<b/>Majesty<s n="n"/></l><r>Sua<b/>Maestà<s n="n"/><s n="f"/></r></p></e>
   </section>
 </dictionary>
