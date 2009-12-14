@@ -17527,6 +17527,19 @@
     <e lm="prairie"><i>prairie</i><par n="house__n"/>    </e>
     <e lm="apparatus"><i>apparatus</i><par n="bass__n"/>    </e>
     <e lm="balustrade"><i>balustrade</i><par n="house__n"/>    </e>
+    <e lm="deepening"><i>deepening</i><par n="house__n"/>    </e>
+    <e lm="ascent"><i>ascent</i><par n="house__n"/>    </e>
+    <e lm="blazon"><i>blazon</i><par n="house__n"/>    </e>
+    <e lm="breve"><i>breve</i><par n="house__n"/>    </e>
+    <e lm="ox"><i>ox</i><par n="ox__n"/>    </e>
+    <e lm="butane"><i>butane</i><par n="house__n"/>    </e>
+    <e lm="incarceration"><i>incarceration</i><par n="house__n"/>    </e>
+    <e lm="tar"><i>tar</i><par n="house__n"/>    </e>
+    <e lm="calibre"><i>calibre</i><par n="house__n"/>    </e>
+    <e lm="gig"><i>gig</i><par n="house__n"/>    </e>
+    <e lm="cultivation"><i>cultivation</i><par n="house__n"/>    </e>
+    <e lm="dissident"><i>dissident</i><par n="house__n"/>    </e>
+    <e lm="docent"><i>docent</i><par n="house__n"/>    </e>
     <e lm="American"><i>American</i><par n="house__n"/>    </e>
     <e lm="Arab"><i>Arab</i><par n="house__n"/>    </e>
     <e lm="Aragonese"><i>Aragonese</i><par n="house__n"/>    </e>
@@ -22001,8 +22014,8 @@
     <e lm="software"><i>software</i><par n="house__n"/>    </e>
     <e lm="soil"><i>soil</i><par n="house__n"/>    </e>
     <e lm="sol-fa"><i>sol-fa</i><par n="east__n"/>    </e>
-    <e lm="solfège"><i>solfège</i><par n="east__n"/>    </e>
-    <e lm="solfège"><p><l>solfege</l><r>solfège</r></p><par n="east__n"/>    </e>
+    <e lm="solfège"><i>solfège</i><par n="house__n"/>    </e>
+    <e lm="solfège"><p><l>solfege</l><r>solfège</r></p><par n="house__n"/>    </e>
     <e lm="soldier"><i>soldier</i><par n="house__n"/>    </e>
     <e lm="sole"><i>sole</i><par n="house__n"/>    </e>
     <e lm="solicitor" a="doriua"><i>solicitor</i><par n="house__n"/>    </e>
@@ -22831,6 +22844,39 @@
     <e lm="Gibraltarian"><i>Gibraltarian</i><par n="house__n"/>    </e>
     <e lm="Guatemalan"><i>Guatemalan</i><par n="house__n"/>    </e>
     <e lm="homosexual"><i>homosexual</i><par n="house__n"/>    </e>
+    <e lm="heterosexual"><i>heterosexual</i><par n="house__n"/>    </e>
+    <e lm="hawk"><i>hawk</i><par n="house__n"/>    </e>
+    <e lm="firmament"><i>firmament</i><par n="house__n"/>    </e>
+    <e lm="firewall"><i>firewall</i><par n="house__n"/>    </e>
+    <e lm="flageolet"><i>flageolet</i><par n="house__n"/>    </e>
+    <e lm="accordion"><i>accordion</i><par n="house__n"/>    </e>
+    <e lm="film frame"><i>film<b/>frame</i><par n="house__n"/>    </e>
+    <e lm="feature film"><i>feature<b/>film</i><par n="house__n"/>    </e>
+    <e lm="macrobiotic diet"><i>macrobiotic<b/>diet</i><par n="house__n"/>    </e>
+    <e lm="mandarin"><i>mandarin</i><par n="house__n"/>    </e>
+    <e lm="marina"><i>marina</i><par n="house__n"/>    </e>
+    <e lm="marionette"><i>marionette</i><par n="house__n"/>    </e>
+    <e lm="mannerism"><i>mannerism</i><par n="house__n"/>    </e>
+    <e lm="feed"><i>feed</i><par n="house__n"/>    </e>
+    <e lm="spleen"><i>spleen</i><par n="house__n"/>    </e>
+    <e lm="howitzer"><i>howitzer</i><par n="house__n"/>    </e>
+    <e lm="honourary"><i>hon</i><par n="o_ou"/><i>rar</i><par n="bab/y__n"/>    </e>
+    <e lm="pit"><i>pit</i><par n="house__n"/>    </e>
+    <e lm="fraternity"><i>fraternit</i><par n="bab/y__n"/>    </e>
+    <e lm="franchise"><i>franchise</i><par n="house__n"/>    </e>
+    <e lm="forge"><i>forge</i><par n="house__n"/>    </e>
+    <e lm="gravel"><i>gravel</i><par n="house__n"/>    </e>
+    <e lm="ghetto"><i>ghetto</i><par n="house__n"/>    </e>
+    <e lm="gum"><i>gum</i><par n="house__n"/>    </e>
+    <e lm="jester"><i>jester</i><par n="house__n"/>    </e>
+    <e lm="gulf"><i>gulf</i><par n="house__n"/>    </e>
+    <e lm="anvil"><i>anvil</i><par n="house__n"/>    </e>
+    <e lm="Celtic knot"><i>Celtic<b/>knot</i><par n="house__n"/>    </e>
+    <e lm="ice axe"><i>ice<b/>axe</i><par n="house__n"/>    </e>
+    <e lm="art gallery"><i>art<b/>galler</i><par n="bab/y__n"/>    </e>
+    <e lm="sheet of paper"><i>sheet</i><par n="house__n"/><p><l><b/>of<b/>paper</l><r><g><b/>of<b/>paper</g></r></p></e>
+    <e lm="sense of smell"><i>sense</i><par n="house__n"/><p><l><b/>of<b/>smell</l><r><g><b/>of<b/>smell</g></r></p></e>
+    <e lm="lighthouse"><i>lighthouse</i><par n="house__n"/>    </e>
     <e lm="Honduran"><i>Honduran</i><par n="house__n"/>    </e>
     <e lm="impressionist"><i>impressionist</i><par n="house__n"/>    </e>
     <e lm="Indian"><i>Indian</i><par n="house__n"/>    </e>
