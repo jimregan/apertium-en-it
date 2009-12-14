@@ -4,9 +4,6 @@
   <def-label name="QUECNJ" closed="true">
     <tags-item lemma="che" tags="cnjsub"/>
   </def-label>
-  <def-label name="SEINUM" closed="true">
-    <tags-item lemma="sei" tags="num.*"/>
-  </def-label>
   <def-label name="ACRONIMOM">
     <tags-item tags="n.acr.m.*"/>
   </def-label>
@@ -1806,15 +1803,6 @@
       <label-item label="VSERPFCI_SG"/>
       <label-item label="VLEXPARTPI_PL"/>
     </label-sequence>
-    <label-sequence>
-      <label-item label="SEINUM"/>
-      <label-item label="NOMMPL"/>
-    </label-sequence>
-    <label-sequence>
-      <label-item label="SEINUM"/>
-      <label-item label="NOMFPL"/>
-    </label-sequence>
-
   </forbid>
 
   <enforce-rules>
