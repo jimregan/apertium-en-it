@@ -605,13 +605,14 @@
 <e><p><l>North<b/>America<s n="np"/><s n="loc"/></l><r>America<b/>settentrionale<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>UK<s n="np"/><s n="loc"/></l><r>Regno<b/>Unito<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>South<b/>Island<s n="np"/><s n="loc"/></l><r>Isola<b/>del<b/>Sud<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
-<e><p><l>British<b/>Isles<s n="np"/><s n="loc"/></l><r>Arcipelago<b/>britannico<s n="np"/><s n="loc"/></r></p></e>
+<e><p><l>British<b/>Isles<s n="np"/><s n="loc"/></l><r>Arcipelago<b/>britannico<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Windward<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Sopravento<b/>meridionali<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Leeward<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Sopravento<b/>settentrionali<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>Friendly<b/>Islands<s n="np"/><s n="loc"/><s n="pl"/></l><r>Tonga<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
 <e><p><l>Maluku<b/>Islands<s n="np"/><s n="loc"/></l><r>Molucche<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
-<e><p><l>Carribean<s n="np"/><s n="loc"/></l><r>Caraibi<s n="np"/><s n="loc"/></r></p></e>
+<e><p><l>Carribean<s n="np"/><s n="loc"/><s n="sg"/></l><r>Caraibi<s n="np"/><s n="loc"/><s n="m"/><s n="pl"/></r></p></e>
 <e><p><l>Basauri<s n="np"/><s n="loc"/></l><r>Basauri<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>USA<s n="np"/><s n="loc"/></l><r>USA<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Vitoria-Gasteiz<s n="np"/><s n="loc"/></l><r>Vitoria<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Alaska<s n="np"/><s n="loc"/></l><r>Alaska<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Andalucia<s n="np"/><s n="loc"/></l><r>Andalusia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
@@ -2115,7 +2116,7 @@
 <e><i>Canaan<s n="np"/><s n="ant"/></i></e>
 <e><p><l>Canada<s n="np"/><s n="loc"/></l><r>Canada<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Canaries<s n="np"/><s n="loc"/></l><r>Canarie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
-<e><p><l>Canary<b/>Islands<s n="np"/><s n="loc"/><s n="pl"/></l><r>Canarie<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
+<e><p><l>Canary<b/>Islands<s n="np"/><s n="loc"/><s n="pl"/></l><r>Canarie<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
 <e><i>Cancia<s n="np"/><s n="ant"/></i></e>
 <e><i>Canciana<s n="np"/><s n="ant"/></i></e>
 <e><i>Canciano<s n="np"/><s n="ant"/></i></e>
@@ -10982,6 +10983,7 @@
 <e><p><l>unconditioned<s n="adj"/></l><r>incondizionato<s n="adj"/></r></p></e>
 <e><p><l>undecided<s n="adj"/></l><r>indeciso<s n="adj"/></r></p></e>
 <e><p><l>underground<s n="adj"/></l><r>sotterraneo<s n="adj"/></r></p></e>
+<e><p><l>underground<s n="n"/></l><r>sotterraneo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>undesirable<s n="adj"/></l><r>indesiderabile<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>undoubted<s n="adj"/></l><r>indubitabile<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>unequal<s n="adj"/></l><r>disuguale<s n="adj"/><s n="mf"/></r></p></e>
@@ -17281,6 +17283,7 @@
 <e r="LR"><p><l>herpes<s n="n"/><s n="pl"/></l><r>herpes<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>herpes<s n="n"/><s n="ND"/></l><r>herpes<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>hesitation<s n="n"/></l><r>esitazione<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>vacillation<s n="n"/></l><r>esitazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>hibernation<s n="n"/></l><r>letargo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hide<s n="n"/></l><r>nascondino<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hierarchy<s n="n"/></l><r>gerarchia<s n="n"/><s n="f"/></r></p></e>
@@ -17595,6 +17598,8 @@
 <e r="RL"><p><l>instability<s n="n"/><s n="ND"/></l><r>instabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>instability<s n="n"/><s n="sg"/></l><r>instabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>instability<s n="n"/><s n="pl"/></l><r>instabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>unsteadiness<s n="n"/><s n="sg"/></l><r>instabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>unsteadiness<s n="n"/><s n="pl"/></l><r>instabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>installation<s n="n"/></l><r>installazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>installation<s n="n"/></l><r>impianto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>instance<s n="n"/></l><r>caso<s n="n"/><s n="m"/></r></p></e>
@@ -20297,6 +20302,7 @@
 <e><p><l>state<s n="n"/></l><r>stato<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>statement<s n="n"/></l><r>dichiarazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>statement<s n="n"/></l><r>enunciazione<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>utterance<s n="n"/></l><r>enunciazione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>station<s n="n"/></l><r>stagione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>station<s n="n"/></l><r>stazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>statism<s n="n"/></l><r>statalismo<s n="n"/><s n="m"/></r></p></e>
@@ -20507,6 +20513,7 @@
 <e><p><l>4-2-4<b/>system<s n="n"/></l><r>sistema<g><b/>4-2-4</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>4-3-3<b/>system<s n="n"/></l><r>sistema<g><b/>4-3-3</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>4-4-2<b/>system<s n="n"/></l><r>sistema<g><b/>4-4-2</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>working<b/>time<s n="n"/></l><r>giorno<b/>lavorativo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>systematisation<s n="n"/></l><r>sistematizzazione<s n="n"/><s n="f"/></r></p></e>
 <e slr="tavolo D"><p><l>table<s n="n"/></l><r>tavolo<s n="n"/><s n="m"/></r></p></e>
 <e slr="tavola"><p><l>table<s n="n"/></l><r>tavola<s n="n"/><s n="f"/></r></p></e>
@@ -21823,6 +21830,7 @@
 <e><p><l>nuclear<b/>weapon<s n="n"/></l><r>arma<b/>nucleara<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>solar<b/>cooker<s n="n"/></l><r>forno<b/>solare<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>speed<g><b/>of<b/>light</g><s n="n"/></l><r>velocità<b/>della<b/>luce<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+<e><p><l>wind<b/>speed</g><s n="n"/></l><r>velocità<b/>del<b/>vento<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
 <e><p><l>Nobel<b/>Peace<b/>prize<s n="n"/></l><r>premio<g><b/>Nobel<b/>per<b/>la<b/>pace</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>Nobel<b/>prize<s n="n"/></l><r>premio<g><b/>Nobel</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>recording<b/>studio<s n="n"/></l><r>studio<g><b/>di<b/>registrazione</g><s n="n"/><s n="m"/></r></p></e>
