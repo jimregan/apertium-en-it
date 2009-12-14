@@ -65,6 +65,8 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
       <cat-item lemma="sua majestà reale" tags="n.f.sg"/>
       <cat-item lemma="sua altezza" tags="n.f.sg"/>
       <cat-item lemma="sua altezza reale" tags="n.f.sg"/>
+      <cat-item lemma="sua altezza imperiale" tags="n.f.sg"/>
+      <cat-item lemma="sua altezza serenissima" tags="n.f.sg"/>
     </def-cat>
 
     <def-cat n="num">
@@ -2715,6 +2717,30 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
                 <let>
                   <clip pos="1" side="tl" part="lem"/>
                   <lit v="Her Royal Highness"/>
+                </let>
+              </when>
+	      <when>
+    	        <test>
+                  <equal>
+                    <clip pos="1" side="sl" part="lem"/>
+                    <lit v="Sua Altezza imperiale"/>
+                  </equal>
+                </test>
+                <let>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <lit v="Her Imperial Highness"/>
+                </let>
+              </when>
+	      <when>
+    	        <test>
+                  <equal>
+                    <clip pos="1" side="sl" part="lem"/>
+                    <lit v="Sua Altezza serenissima"/>
+                  </equal>
+                </test>
+                <let>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <lit v="Her Serene Highness"/>
                 </let>
               </when>
             </choose>
