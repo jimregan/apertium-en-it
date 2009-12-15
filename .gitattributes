@@ -34,6 +34,8 @@ dev/warn-duplicate-lemma.pl -text
 /en-it-unsupervised.make -text
 /en-it.prob -text svneol=unset#unset
 /it-en.prob -text svneol=unset#unset
+it-tagger-data/it.tagged -text
+it-tagger-data/it.tagged.txt -text
 /modes.xml -text
 /principal.xsl -text
 /testvoc-en-it -text
