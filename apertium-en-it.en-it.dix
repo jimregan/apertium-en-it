@@ -18382,7 +18382,8 @@
 <e><p><l>misanthropic<s n="adj"/></l><r>misantropo<s n="adj"/></r></p></e>
 <e><p><l>acute<s n="adj"/></l><r>acuto<s n="adj"/></r></p></e>
 <e><p><l>contagious<s n="adj"/></l><r>contagioso<s n="adj"/></r></p></e>
-<e><p><l>infective<s n="adj"/></l><r>infettivo<s n="adj"/></r></p></e>
+<e r="LR"><p><l>infective<s n="adj"/></l><r>infettivo<s n="adj"/></r></p></e>
+<e><p><l>infectious<s n="adj"/></l><r>infettivo<s n="adj"/></r></p></e>
 <e><p><l>misanthropy<s n="n"/></l><r>misantropia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>missile<s n="n"/></l><r>missile<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>mission<s n="n"/></l><r>missione<s n="n"/><s n="f"/></r></p></e>
