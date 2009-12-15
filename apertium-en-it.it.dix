@@ -88430,6 +88430,8 @@
     <e lm="PNV"><i>PNV</i><par n="BBVA__n"/></e>
     <e lm="PSC"><i>PSC</i><par n="BBVA__n"/></e>
     <e lm="BBC"><i>BBC</i><par n="TV__n"/></e>
+    <e lm="H1N1"><i>H1N1</i><par n="TV__n"/>    </e>
+    <e lm="A/H1N1"><i>A/H1N1</i><par n="TV__n"/>    </e>
     <e lm="NATO"><i>NATO</i><par n="TV__n"/></e>
     <e lm="kg"><i>kg</i><par n="PIL__n"/></e>
     <e lm="ONU"><i>ONU</i><par n="TV__n"/></e>
@@ -88770,6 +88772,7 @@
     <e lm="anziano"><i>anzian</i><par n="bambin/o__n"/></e>
     <e lm="ape"><i>ap</i><par n="abbreviazion/e__n"/></e>
     <e lm="apatia"><i>apati</i><par n="cas/a__n"/></e>
+    <e lm="antipatia"><i>antipati</i><par n="cas/a__n"/></e>
     <e lm="aperitivo"><i>aperitiv</i><par n="abbain/o__n"/></e>
     <e lm="apertura"><i>apertur</i><par n="cas/a__n"/></e>
     <e lm="apnea"><i>apne</i><par n="cas/a__n"/></e>
@@ -89810,6 +89813,8 @@
     <e lm="diametro"><i>diametr</i><par n="abbain/o__n"/></e>
     <e lm="diana"><i>dian</i><par n="cas/a__n"/></e>
     <e lm="diario"><i>diari</i><par n="abbagli/o__n"/></e>
+    <e lm="amenorrea"><i>amenorre</i><par n="cas/a__n"/></e>
+    <e lm="dismenorrea"><i>dismenorre</i><par n="cas/a__n"/></e>
     <e lm="diarrea"><i>diarre</i><par n="cas/a__n"/></e>
     <e lm="diavolo"><i>diavol</i><par n="abbain/o__n"/></e>
     <e lm="dibattito"><i>dibattit</i><par n="abbain/o__n"/></e>
@@ -90907,6 +90912,21 @@
     <e lm="matematica"><i>matematic</i><par n="tasc/a__n"/></e>
     <e lm="materasso"><i>materass</i><par n="abbain/o__n"/></e>
     <e lm="materia"><i>materi</i><par n="cas/a__n"/></e>
+    <e lm="antimateria"><i>antimateri</i><par n="cas/a__n"/></e>
+    <e lm="aria"><i>ari</i><par n="cas/a__n"/></e>
+    <e lm="bibliometria"><i>bibliometri</i><par n="cas/a__n"/></e>
+    <e lm="biometria"><i>biometri</i><par n="cas/a__n"/></e>
+    <e lm="carrozzeria"><i>carrozzeri</i><par n="cas/a__n"/></e>
+    <e lm="ebanisteria"><i>ebanisteri</i><par n="cas/a__n"/></e>
+    <e lm="calorimetria"><i>calorimetri</i><par n="cas/a__n"/></e>
+    <e lm="catenaria"><i>catenari</i><par n="cas/a__n"/></e>
+    <e lm="chemiometria"><i>chemiometri</i><par n="cas/a__n"/></e>
+    <e lm="colorimetria"><i>colorimetri</i><par n="cas/a__n"/></e>
+    <e lm="combinatoria"><i>combinatori</i><par n="cas/a__n"/></e>
+    <e lm="curia"><i>curi</i><par n="cas/a__n"/></e>
+    <e lm="diottria"><i>diottri</i><par n="cas/a__n"/></e>
+    <e lm="dosimetria"><i>dosimetri</i><par n="cas/a__n"/></e>
+    <e lm="dissenteria"><i>dissenteri</i><par n="cas/a__n"/></e>
     <e lm="materiale"><i>material</i><par n="abat/e__n"/></e>
     <e lm="materialismo"><i>materialism</i><par n="abbain/o__n"/></e>
     <e lm="maternità"><i>maternità</i><par n="abilità__n"/></e>
@@ -92429,6 +92449,7 @@
     <e lm="terremoto"><i>terremot</i><par n="abbain/o__n"/></e>
     <e lm="terreno"><i>terren</i><par n="abbain/o__n"/></e>
     <e lm="territorio"><i>territori</i><par n="abbagli/o__n"/></e>
+    <e lm="antinfiammatorio"><i>antinfiammatori</i><par n="abbagli/o__n"/></e>
     <e lm="terrorismo"><i>terrorism</i><par n="abbain/o__n"/></e>
     <e lm="terzo"><i>terz</i><par n="abbain/o__n"/></e>
     <e lm="teschio"><i>teschi</i><par n="abbagli/o__n"/></e>

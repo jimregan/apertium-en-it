@@ -14078,8 +14078,8 @@
 <e r="RL"><p><l>Paraguayan<s n="n"/></l><r>paraguaiano<s n="n"/></r></p></e>
 <e r="LR"><p><l>Peruvian<s n="n"/></l><r>peruviano<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>Peruvian<s n="n"/></l><r>peruviano<s n="n"/></r></p></e>
-<e r="LR"><p><l>Pole_person<s n="n"/></l><r>polacco<s n="n"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>Pole_person<s n="n"/></l><r>polacco<s n="n"/></r></p></e>
+<e r="LR"><p><l>Pole<s n="n"/></l><r>polacco<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>Pole<s n="n"/></l><r>polacco<s n="n"/></r></p></e>
 <e><p><l>Protestant<s n="n"/></l><r>protestante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>Romanisation<s n="n"/></l><r>romanizzazione<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>Russian<s n="n"/></l><r>russo<s n="n"/><s n="GD"/></r></p></e>
@@ -14460,7 +14460,7 @@
 <e><p><l>elastin<s n="n"/></l><r>elastina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>endotoxin<s n="n"/></l><r>endotossina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>eosin<s n="n"/></l><r>eosina<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>epinephrine<s n="n"/></l><r>adrenalina<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>epinephrine<s n="n"/></l><r>adrenalina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>amphibology<s n="n"/></l><r>anfibologia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>andrology<s n="n"/></l><r>andrologia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>anthology<s n="n"/></l><r>antologia<s n="n"/><s n="f"/></r></p></e>
@@ -14578,6 +14578,7 @@
 <e r="RL"><p><l>anxious<s n="n"/></l><r>ansioso<s n="n"/></r></p></e>
 <e><p><l>apartment<s n="n"/></l><r>appartamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>apathy<s n="n"/></l><r>apatia<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>antipathy<s n="n"/></l><r>antipatia<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>aperture<s n="n"/></l><r>apertura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>aphasia<s n="n"/></l><r>afasia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>aphorism<s n="n"/></l><r>aforisma<s n="n"/><s n="m"/></r></p></e>
@@ -17997,6 +17998,27 @@
 <e r="RL"><p><l>level<s n="n"/></l><r>livella<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>spirit<b/>level<s n="n"/></l><r>livella<g><b/>a<b/>bolla<b/>d'aria</g><s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>spirit<b/>level<s n="n"/></l><r>livella<g><b/>a<b/>bolla</g><s n="n"/><s n="f"/></r></p></e>
+    <e> <p><l>H1N1<s n="n"/><s n="acr"/></l><r>H1N1<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e> <p><l>A/H1N1<s n="n"/><s n="acr"/></l><r>A/H1N1<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+<e><p><l>amenorrhoea<s n="n"/></l><r>amenorrea<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>dysmenorrhea<s n="n"/></l><r>dismenorrea<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>anti-inflammatory<s n="n"/></l><r>antinfiammatorio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>antimatter<s n="n"/></l><r>antimateria<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>arietta<s n="n"/></l><r>aria<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>bibliometrics<s n="n"/></l><r>bibliometria<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>biometrics<s n="n"/></l><r>biometria<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>bodywork<s n="n"/></l><r>carrozzeria<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>cabinetmaking<s n="n"/></l><r>ebanisteria<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>calorimetry<s n="n"/></l><r>calorimetria<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>catenary<s n="n"/></l><r>catenaria<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>chemometrics<s n="n"/></l><r>chemiometria<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>colorimetry<s n="n"/></l><r>colorimetria<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>combinatorics<s n="n"/></l><r>combinatoria<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>curia<s n="n"/></l><r>curia<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>dioptre<s n="n"/></l><r>diottria<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>diphtheria<s n="n"/></l><r>difterite<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>dosimetry<s n="n"/></l><r>dosimetria<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>dysentery<s n="n"/></l><r>dissenteria<s n="n"/><s n="f"/></r></p></e>
 <e c="en_US" r="LR"><p><l>trash<b/>bag<s n="n"/></l><r>busta<g><b/>dell'immondizia</g><s n="n"/><s n="f"/></r></p></e>
 <e c="en_GB"><p><l>rubbish<b/>bag<s n="n"/></l><r>busta<g><b/>dell'immondizia</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>lever<s n="n"/></l><r>leva<s n="n"/><s n="f"/></r></p></e>
