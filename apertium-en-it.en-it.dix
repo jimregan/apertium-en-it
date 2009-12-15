@@ -244,13 +244,9 @@
 <e r="RL"><p><l>fourth<s n="det"/></l><r>quarto<s n="det"/></r></p></e>
 <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>her<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>suo<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>suo<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
-<e r="RL" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>suo<s n="det"/><s n="pos"/></r></p></e>
-<e r="RL" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/><s n="pos"/><s n="mf"/></l><r>il<b/>suo<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
-<e r="RL" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/></l><r>suo<s n="det"/></r></p></e>
-<e r="RL" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/><s n="pos"/><s n="mf"/></l><r>suo<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
-<e r="RL" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/></l><r>il<b/>loro<s n="det"/></r></p></e>
-<e r="RL" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/><s n="pos"/><s n="mf"/></l><r>il<b/>loro<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
-<e c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/></l><r>loro<s n="det"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
+<e r="RL" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/><s n="pos"/><s n="ND"/></l><r>il<b/>suo<s n="det"/><s n="pos"/></r></p></e>
+<e r="RL" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/><s n="pos"/><s n="ND"/></l><r>suo<s n="det"/><s n="pos"/></r></p></e>
+<e r="RL" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/><s n="pos"/><s n="ND"/></l><r>il<b/>loro<s n="det"/><s n="pos"/></r></p></e>
 <e r="LR"><p><l>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>centesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>hundredth<s n="det"/></l><r>centesimo<s n="det"/></r></p></e>
 <e r="LR"><p><l>its<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>suo<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -603,7 +599,7 @@
 <e><p><l>North<b/>America<s n="np"/><s n="loc"/></l><r>America<b/>settentrionale<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>UK<s n="np"/><s n="loc"/></l><r>Regno<b/>Unito<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>South<b/>Island<s n="np"/><s n="loc"/></l><r>Isola<b/>del<b/>Sud<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
-<e><p><l>British<b/>Isles<s n="np"/><s n="loc"/></l><r>Arcipelago<b/>britannico<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>British<b/>Isles<s n="np"/><s n="loc"/><s n="pl"/></l><r>Arcipelago<b/>britannico<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
 <e><p><l>Windward<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Sopravento<b/>meridionali<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Leeward<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Sopravento<b/>settentrionali<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>Friendly<b/>Islands<s n="np"/><s n="loc"/><s n="pl"/></l><r>Tonga<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
@@ -5994,6 +5990,8 @@
 <e><i>Linus<s n="np"/><s n="ant"/></i></e>
 <e><i>Linus<s n="np"/><s n="ant"/></i></e>
 <e><p><l>Linux<s n="np"/><s n="al"/></l><r>Linux<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Google<s n="np"/><s n="al"/></l><r>Google<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Google<b/>Summer<b/>of<b/>Code<s n="np"/><s n="al"/></l><r>Google<b/>Summer<b/>of<b/>Code<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><i>Lionel<s n="np"/><s n="ant"/></i></e>
 <e><i>Liqué<s n="np"/><s n="ant"/></i></e>
 <e><i>Lisa<s n="np"/><s n="ant"/></i></e>
@@ -13879,7 +13877,7 @@
 <e><p><l>ambush<s n="n"/></l><r>imboscata<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>anvil<s n="n"/></l><r>incudine<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fiefdom<s n="n"/></l><r>infeudazione<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>aphthous<b/>ulcer<s n="n"/></l><r>afta<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>aphthous<b/>ulcer<s n="n"/></l><r>afta<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
 <e><p><l>foot-and-mouth<b/>disease<s n="n"/></l><r>afta<b/>epizootica<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>AIDS<s n="n"/><s n="acr"/></l><r>aids<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>wet<b/>nurse<s n="n"/></l><r>balia<s n="n"/><s n="f"/></r></p></e>
@@ -13946,6 +13944,7 @@
 <e><p><l>abdomen<s n="n"/></l><r>addome<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>absorbance<s n="n"/></l><r>assorbanza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>agate<s n="n"/></l><r>agata<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>anarchy<s n="n"/></l><r>anarchia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>aerosol<s n="n"/></l><r>aerosol<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>agent<s n="n"/></l><r>agente<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>agent<s n="n"/></l><r>agente<s n="n"/></r></p></e>
@@ -14301,7 +14300,7 @@
 <e r="RL"><p><l>agrochemist<s n="n"/></l><r>agrochimico<s n="n"/></r></p></e>
 <e><p><l>agronomy<s n="n"/></l><r>agronomia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>aid<s n="n"/></l><r>aiuto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>aim<s n="n"/></l><r>obiettivo<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>aim<s n="n"/></l><r>obiettivo<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>aim<s n="n"/></l><r>scopo<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>aim<s n="n"/></l><r>mira<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>air<s n="n"/></l><r>aria<s n="n"/><s n="f"/></r></p></e>
@@ -17157,16 +17156,14 @@
 <e><p><l>glue<s n="n"/></l><r>adesivo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>gluten<s n="n"/></l><r>glutine<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>gluten<b/>pasta<s n="n"/></l><r>pasta<b/>glutinata<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>goal<s n="n"/><s n="sg"/></l><r>goal<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>goal<s n="n"/><s n="pl"/></l><r>goal<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="LR" slr="goal D"><p><l>goal<s n="n"/><s n="sg"/></l><r>goal<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="LR" slr="goal D"><p><l>goal<s n="n"/><s n="pl"/></l><r>goal<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>goal<s n="n"/><s n="ND"/></l><r>goal<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e><p><l>goal<s n="n"/></l><r>obiettivo<s n="n"/><s n="m"/></r></p></e>
+<e slr="obiettivo" r="LR"><p><l>goal<s n="n"/></l><r>obiettivo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>goat<s n="n"/></l><r>capra<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>gobernante<s n="n"/></l><r>governante<s n="n"/><s n="mf"/></r></p></e>
-<e r="LR"><p><l>god<s n="n"/></l><r>dio<s n="n"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>god<s n="n"/></l><r>dio<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>goddess<s n="n"/></l><r>dio<s n="n"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>goddess<s n="n"/></l><r>dio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>god<s n="n"/></l><r>dio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>goddess<s n="n"/></l><r>dio<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>godfather<s n="n"/></l><r>padrino<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>godmother<s n="n"/></l><r>madrina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>gold<s n="n"/></l><r>oro<s n="n"/><s n="m"/></r></p></e>
@@ -17332,6 +17329,7 @@
 <e r="LR"><p><l>health<s n="n"/><s n="pl"/></l><r>sanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e slr="udito D"><p><l>hearing<s n="n"/></l><r>udito<s n="n"/><s n="m"/></r></p></e>
 <e slr="audizione" r="LR"><p><l>hearing<s n="n"/></l><r>audizione<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>audition<s n="n"/></l><r>audizione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>heart<s n="n"/></l><r>cuore<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>heat<s n="n"/></l><r>calore<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>heater<s n="n"/></l><r>riscaldatore<s n="n"/><s n="m"/></r></p></e>
@@ -17361,7 +17359,7 @@
 <e><p><l>heritage<s n="n"/></l><r>patrimonio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hernia<s n="n"/></l><r>ernia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>hero<s n="n"/></l><r>eroe<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>heroine<s n="n"/></l><r>eroe<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>heroine<s n="n"/></l><r>eroina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>heroism<s n="n"/></l><r>eroismo<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>herpes<s n="n"/><s n="sg"/></l><r>herpes<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>herpes<s n="n"/><s n="pl"/></l><r>herpes<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -18017,6 +18015,7 @@
 <e><p><l>curia<s n="n"/></l><r>curia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>dioptre<s n="n"/></l><r>diottria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>diphtheria<s n="n"/></l><r>difterite<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>anteater<s n="n"/></l><r>formichiere<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>dosimetry<s n="n"/></l><r>dosimetria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>dysentery<s n="n"/></l><r>dissenteria<s n="n"/><s n="f"/></r></p></e>
 <e c="en_US" r="LR"><p><l>trash<b/>bag<s n="n"/></l><r>busta<g><b/>dell'immondizia</g><s n="n"/><s n="f"/></r></p></e>
@@ -19580,7 +19579,7 @@
 <e><p><l>balustrade<s n="n"/></l><r>balaustra<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>trade<b/>route<s n="n"/></l><r>rotta<b/>commerciale<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>traveller's<b/>cheque<s n="n"/></l><r>assegno<g><b/>di<b/>viaggio</g><s n="n"/><s n="m"/></r></p></e>
-<e><p><l>stock<b/>exchange<s n="n"/></l><r>borsa<g><b/>valori</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>stock<b/>exchange<s n="n"/></l><r>borsa<g><b/>valori</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>apparatus<s n="n"/></l><r>apparato<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>rail<s n="n"/></l><r>rotaia<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>railroad<s n="n"/></l><r>ferrovia<s n="n"/><s n="m"/></r></p></e>
@@ -21436,7 +21435,8 @@
 <e r="LR"><p><l>all<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>tutto<s n="prn"/><s n="tn"/><s n="m"/><s n="ND"/></r></p></e>
 <e><p><l>another<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></l><r>altro<s n="prn"/><s n="tn"/></r></p></e>
 <e r="RL"><p><l>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>nessuno<s n="prn"/><s n="tn"/></r></p></e>
-<e c="frases afirmatives"><p><l>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>qualunque<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
+<e c="frases afirmatives" r="RL"><p><l>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>qualunque<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
+<e c="frases afirmatives" r="LR"><p><l>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>qualsiasi<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="RL" c="frases interrogatives"><p><l>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>alcuno<s n="prn"/><s n="tn"/></r></p></e>
 <e c="any one i anyone/anybody tenen significats diferents, s'ha escollit 'any one' com a traducció"><p><l>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></l><r>qualsivoglia<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
 <e c="any one i anyone/anybody tenen significats diferents, s'ha escollit 'any one' com a traducció"><p><l>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></l><r>qualsiasi<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -21486,7 +21486,12 @@
 <e><p><l>one<s n="prn"/><s n="tn"/><s n="mf"/></l><r>uno<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
 <e><p><l>one<s n="prn"/><s n="tn"/><s n="mf"/></l><r>alcuno<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
 <e><p><l>one<s n="prn"/><s n="tn"/><s n="mf"/></l><r>alcuno<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>others<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></l><r>altro<s n="prn"/><s n="tn"/></r></p></e>
+<e r="LR"><p><l>others<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></l><r>altro<s n="prn"/><s n="tn"/><s n="GD"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>others<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></l><r>altro<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>others<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></l><r>altro<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>other<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></l><r>altro<s n="prn"/><s n="tn"/><s n="GD"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>other<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></l><r>altro<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>other<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></l><r>altro<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
 <e><p><l>ours<s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></l><r>il<b/>nostro<s n="prn"/><s n="tn"/><s n="pos"/></r></p></e>
 <e><p><l>ours<s n="prn"/><s n="pos"/></l><r>il<b/>nostro<s n="prn"/><s n="tn"/><s n="pos"/></r></p></e>
 <e r="LR" a="doriua"><p><l>ourselves<s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p1"/><s n="m"/><s n="pl"/></r></p></e>

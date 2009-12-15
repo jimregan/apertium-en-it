@@ -48963,7 +48963,19 @@
 	</p>
       </e>
 
+      <e>
+	<p>
+	  <l>ee</l>
+	  <r>io<s n="n"/><s n="f"/><s n="pl"/></r>
+	</p>
+      </e>
 
+      <e>
+	<p>
+	  <l>ea</l>
+	  <r>io<s n="n"/><s n="f"/><s n="sg"/></r>
+	</p>
+      </e>
     </pardef>
     <pardef n="d/ire__vblex">
       <e>
@@ -80759,7 +80771,6 @@
     <e lm="Camerun"><i>Camerun</i><par n="Afghanistan__np"/></e>
     <e lm="Canada"><i>Canada</i><par n="Afghanistan__np"/></e>
     <e lm="Canals"><i>Canals</i><par n="Afghanistan__np"/></e>
-    <e lm="Canarie"><i>Canarie</i><par n="Afghanistan__np"/></e>
     <e lm="Canfranc"><i>Canfranc</i><par n="Afghanistan__np"/></e>
     <e lm="Cano"><i>Cano</i><par n="Díez__np"/></e>
     <e lm="Cantabria"><i>Cantabria</i><par n="Afghanistan__np"/></e>
@@ -80998,6 +81009,8 @@
     <e lm="Leonardo"><i>Leonardo</i><par n="Juan__np"/></e>
     <e lm="Lettonia"><i>Lettonia</i><par n="Europa__np"/></e>
     <e lm="Linux"><i>Linux</i><par n="ABC__np"/></e>
+    <e lm="Google"><i>Google</i><par n="ABC__np"/></e>
+    <e lm="Google Summer of Code"><i>Google<b/>Summer<b/>of<b/>Code</i><par n="ABC__np"/></e>
     <e lm="Lisbona"><i>Lisbona</i><par n="Afghanistan__np"/></e>
     <e lm="Lituania"><i>Lituania</i><par n="Europa__np"/></e>
     <e lm="Llobregat"><i>Llobregat</i><par n="Afghanistan__np"/></e>
@@ -88559,6 +88572,7 @@
     <e lm="affitto"><i>affitt</i><par n="abbain/o__n"/></e>
     <e lm="affluente"><i>affluent</i><par n="abat/e__n"/></e>
     <e lm="affluenza"><i>affluenz</i><par n="cas/a__n"/></e>
+    <e lm="anarchia"><i>anarchi</i><par n="cas/a__n"/></e>
     <e lm="afflusso"><i>affluss</i><par n="abbain/o__n"/></e>
     <e lm="affondamento"><i>affondament</i><par n="abbain/o__n"/></e>
     <e lm="affresco"><i>affresc</i><par n="fung/o__n"/></e>
@@ -90040,6 +90054,7 @@
     <e lm="erezione"><i>erezion</i><par n="abbreviazion/e__n"/></e>
     <e lm="ernia"><i>erni</i><par n="cas/a__n"/></e>
     <e lm="eroe"><i>ero</i><par n="abat/e__n"/></e>
+    <e lm="eroina"><i>eroin</i><par n="cas/a__n"/></e>
     <e lm="erotismo"><i>erotism</i><par n="abbain/o__n"/></e>
     <e lm="errore"><i>error</i><par n="abat/e__n"/></e>
     <e lm="erudito"><i>erudit</i><par n="bambin/o__n"/></e>
@@ -91008,6 +91023,7 @@
     <e lm="migliaio"><i>migliai</i><par n="budell/o__n"/></e>
     <e lm="milione"><i>milion</i><par n="abat/e__n"/></e>
     <e lm="militare"><i>militar</i><par n="abat/e__n"/></e>
+    <e lm="formichiere"><i>formichier</i><par n="abat/e__n"/></e>
     <e lm="militarismo"><i>militarism</i><par n="abbain/o__n"/></e>
     <e lm="millennio"><i>millenni</i><par n="abbagli/o__n"/></e>
     <e lm="millimetro"><i>millimetr</i><par n="abbain/o__n"/></e>
@@ -91039,6 +91055,7 @@
     <e lm="miscuglio"><i>miscugli</i><par n="abbagli/o__n"/></e>
     <e lm="missile"><i>missil</i><par n="abat/e__n"/></e>
     <e lm="missione"><i>mission</i><par n="abbreviazion/e__n"/></e>
+    <e lm="difterite"><i>difterit</i><par n="abbreviazion/e__n"/></e>
     <e lm="missionario"><i>missionari</i><par n="bambin/o__n"/></e>
     <e lm="misura"><i>misur</i><par n="cas/a__n"/></e>
     <e lm="misurazione"><i>misurazion</i><par n="abbreviazion/e__n"/></e>
@@ -91486,7 +91503,6 @@
     <e lm="elastina"><i>elastin</i><par n="cas/a__n"/></e>
     <e lm="endotossina"><i>endotossin</i><par n="cas/a__n"/></e>
     <e lm="eosina"><i>eosin</i><par n="cas/a__n"/></e>
-    <e lm="adrenalina"><i>adrenalin</i><par n="cas/a__n"/></e>
     <e lm="anfibologia"><i>anfibologi</i><par n="cas/a__n"/></e>
     <e lm="andrologia"><i>andrologi</i><par n="cas/a__n"/></e>
     <e lm="antologia"><i>antologi</i><par n="cas/a__n"/></e>
@@ -97975,6 +97991,7 @@
     <e lm="sovvenzionare"><i>sovvenzion</i><par n="abbacin/are__vblex"/></e>
     <e lm="supervisionare"><i>supervision</i><par n="abbacin/are__vblex"/></e>
     <e lm="antropologo"><i>antropolog</i><par n="cosmetic/o__n"/></e>
+    <e lm="turco"><i>turc</i><par n="cosmetic/o__n"/></e>
     <e lm="agnostico"><i>agnostic</i><par n="cosmetic/o__n"/></e>
     <e lm="aramaico"><i>aramaic</i><par n="cosmetic/o__n"/></e>
     <e lm="cardiologo"><i>cardiolog</i><par n="cosmetic/o__n"/></e>
@@ -98810,8 +98827,10 @@
     <e lm="decomporre"><i>decompo</i><par n="antepo/rre__vblex"/></e>
     <e lm="deporre"><i>depo</i><par n="antepo/rre__vblex"/></e>
     <e lm="interporre"><i>interpo</i><par n="antepo/rre__vblex"/></e>
+    <e lm="Arcipelago britannico"><i>Arcipelago<b/>britannico</i><par n="Afghanistan__np"/></e>
     <e lm="Maldive"><i>Maldive</i><par n="Maldive__np"/></e>
     <e lm="Molucche"><i>Molucche</i><par n="Maldive__np"/></e>
+    <e lm="Canarie"><i>Canarie</i><par n="Maldive__np"/></e>
     <e lm="Isole Cayman"><i>Isole<b/>Cayman</i><par n="Maldive__np"/></e>
     <e lm="Isole Sopravento meridionali"><i>Isole<b/>Sopravento<b/>meridionali</i><par n="Maldive__np"/></e>
     <e lm="Isole Sopravento settentrionali"><i>Isole<b/>Sopravento<b/>settentrionali</i><par n="Maldive__np"/></e>
