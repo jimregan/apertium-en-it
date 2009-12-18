@@ -95035,8 +95035,6 @@
     <e lm="abbracciare"><i>abbracc</i><par n="abbiosc/iare__vblex"/></e>
     <e lm="abbreviare"><i>abbrevi</i><par n="abbacchi/are__vblex"/></e>
     <e lm="abdicare"><i>abdic</i><par n="abbarbic/are__vblex"/></e>
-    <e lm="dispiacare"><i>dispiac</i><par n="abbarbic/are__vblex"/></e>
-    <e lm="dispiacare molto" r="RL"><i>dispiac</i><par n="abbarbic/are__vblex"/><p><l><b/>molto</l><r><g><b/>molto</g></r></p></e>
     <e lm="abitare"><i>abit</i><par n="abbacin/are__vblex"/></e>
     <e lm="abolire"><i>abol</i><par n="abbell/ire__vblex"/></e>
     <e lm="abortire"><i>abort</i><par n="abbell/ire__vblex"/></e>
@@ -95761,6 +95759,8 @@
     <e lm="perseguire"><i>persegu</i><par n="abbrut/ire__vblex"/></e>
     <e lm="pesare"><i>pes</i><par n="abbacin/are__vblex"/></e>
     <e lm="piacere"><i>piac</i><par n="compiac/ere__vblex"/></e>
+    <e lm="dispiacere"><i>dispiac</i><par n="compiac/ere__vblex"/></e>
+    <e lm="dispiacere molto" r="RL"><i>dispiac</i><par n="compiac/ere__vblex"/><p><l><b/>molto</l><r><g><b/>molto</g></r></p></e>
     <e lm="piangere"><i>pian</i><par n="ader/gere__vblex"/></e>
     <e lm="piantare"><i>piant</i><par n="abbarbic/are__vblex"/></e>
     <e lm="pilotare"><i>pilot</i><par n="abbacin/are__vblex"/></e>
