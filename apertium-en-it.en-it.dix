@@ -11586,6 +11586,8 @@
 <e><p><l>disintegrate<s n="vblex"/></l><r>disintegrare<s n="vblex"/></r></p></e>
 <e><p><l>disintegrate<s n="vblex"/></l><r>disintegrare<s n="vblex"/></r></p></e>
 <e><p><l>dislike<s n="vblex"/></l><r>dispiacere<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>be<g><b/>sorry</g><s n="vblex"/></l><r>dispiacere<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>be<g><b/>very<b/>sorry</g><s n="vblex"/></l><r>dispiacere<g><b/>molto</g><s n="vblex"/></r></p></e>
 <e><p><l>dismantle<s n="vblex"/></l><r>smontare<s n="vblex"/></r></p></e>
 <e><p><l>dismay<s n="vblex"/></l><r>disanimare<s n="vblex"/></r></p></e>
 <e><p><l>dismay<s n="vblex"/></l><r>scoraggiare<s n="vblex"/></r></p></e>
@@ -11593,7 +11595,6 @@
 <e r="LR"><p><l>dispel<s n="vblex"/></l><r>dissipare<s n="vblex"/></r></p></e>
 <e><p><l>dispel<s n="vblex"/></l><r>dissipare<s n="vblex"/></r></p></e>
 <e><p><l>dispense<s n="vblex"/></l><r>dispensare<s n="vblex"/></r></p></e>
-<e><p><l>disperse<s n="vblex"/></l><r>disperdere<s n="vblex"/></r></p></e>
 <e><p><l>disperse<s n="vblex"/></l><r>disperdere<s n="vblex"/></r></p></e>
 <e><p><l>displace<s n="vblex"/></l><r>spostare<s n="vblex"/></r></p></e>
 <e><p><l>display<s n="vblex"/></l><r>mostrare<s n="vblex"/></r></p></e>
@@ -11755,7 +11756,7 @@
 <e><p><l>fight<s n="vblex"/></l><r>pugnare<s n="vblex"/></r></p></e>
 <e><p><l>figure<s n="vblex"/></l><r>rappresentare<s n="vblex"/></r></p></e>
 <e><p><l>fill<s n="vblex"/></l><r>riempire<s n="vblex"/></r></p></e>
-<e><p><l>fill<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>riempire<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>fill<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>riempire<s n="vblex"/></r></p></e>
 <e><p><l>film<s n="vblex"/></l><r>filmare<s n="vblex"/></r></p></e>
 <e><p><l>filter<s n="vblex"/></l><r>filtrare<s n="vblex"/></r></p></e>
 <e><p><l>finance<s n="vblex"/></l><r>finanziare<s n="vblex"/></r></p></e>

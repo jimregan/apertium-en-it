@@ -17152,11 +17152,12 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		  <tag><var n="tipus_verb"/></tag>
 		  <tag><var n="temps_chunk"/></tag>
 		  <tag><var n="pers_chunk"/></tag>
+		  <tag><lit-tag v="GD"/></tag>
 		  <tag><var n="nbr_chunk"/></tag>
 		</tags> 
 		<lu>
-		  <lit v="lo"/>
-		  <lit-tag v="prn.pro.p3.nt"/>
+		  <lit v="prpers"/>
+		  <lit-tag v="prn.tn.4.5.6"/>
 		</lu>
 		<b/>
 		<lu>
@@ -17314,12 +17315,12 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		  <tag><lit-tag v="SV"/></tag>
 		  <tag><var n="tipus_verb"/></tag>
 		  <tag><var n="temps_chunk"/></tag>
-		  <tag><var n="pers_chunk"/></tag>
+		  <tag><lit-tag v="GD"/></tag>
 		  <tag><var n="nbr_chunk"/></tag>
 		</tags> 
 		<lu>
-		  <lit v="lo"/>
-		  <lit-tag v="prn.pro.p3.nt"/>
+		  <lit v="prpers"/>
+		  <lit-tag v="prn.tn.4.5.6"/>
 		</lu>
 		<b/>
 		<lu>
