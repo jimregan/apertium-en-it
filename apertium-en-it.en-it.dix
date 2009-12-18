@@ -19615,6 +19615,8 @@
 <e><p><l>query<s n="n"/></l><r>consulta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>question<s n="n"/></l><r>questione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>quorum<s n="n"/></l><r>quorum<s n="n"/><s n="m"/></r></p><par n="SP" /> </e>
+<e><p><l>quota<s n="n"/></l><r>quota<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>raft<s n="n"/></l><r>zattera<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>quotation<s n="n"/></l><r>citazione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>quotation<b/>mark<s n="n"/><s n="ND"/></l><r>virgolette<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e r="LR"><p><l>quotation<b/>mark<s n="n"/><s n="sg"/></l><r>virgolette<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -19647,8 +19649,9 @@
 <e><p><l>stock<b/>exchange<s n="n"/></l><r>borsa<g><b/>valori</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>apparatus<s n="n"/></l><r>apparato<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>rail<s n="n"/></l><r>rotaia<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>railroad<s n="n"/></l><r>ferrovia<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>railroad<s n="n"/></l><r>ferrovia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>railway<s n="n"/></l><r>ferrovia<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>quartzite<s n="n"/></l><r>quarzite<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>rain<s n="n"/></l><r>pioggia<s n="n"/><s n="f"/></r></p></e>
 <e c="check"><p><l>raincoat<s n="n"/></l><r>impermeabile<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>rainfall<s n="n"/><s n="ND"/></l><r>piovosità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
