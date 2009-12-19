@@ -17145,6 +17145,26 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </let>
 	  </otherwise>
 	</choose>		
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="sl" part="pers"/>
+                <lit-tag v="p3"/>
+              </equal>
+            </test>
+            <let>
+              <var n="gen_chunk"/>
+              <lit-tag v="GD"/>
+            </let>
+          </when>
+          <otherwise>
+            <let>
+              <var n="gen_chunk"/>
+              <lit-tag v="mf"/>
+            </let>
+          </otherwise>
+        </choose>
 	    <out>
 	      <chunk name="pro_verbcj" case="caseFirstWord">
 		<tags>	       
@@ -17153,7 +17173,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		  <tag><var n="temps_chunk"/></tag>
 		  <tag><var n="pers_chunk"/></tag>
 		  <tag><var n="nbr_chunk"/></tag>
-		  <tag><lit-tag v="GD"/></tag>
+		  <tag><var n="gen_chunk"/></tag>
 		</tags> 
 		<lu>
 		  <lit v="prpers"/>
