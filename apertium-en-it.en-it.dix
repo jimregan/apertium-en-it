@@ -11398,6 +11398,7 @@
 <e><p><l>communicate<s n="vblex"/></l><r>comunicare<s n="vblex"/></r></p></e>
 <e><p><l>compare<s n="vblex"/></l><r>confrontare<s n="vblex"/></r></p></e>
 <e><p><l>compensate<s n="vblex"/></l><r>compensare<s n="vblex"/></r></p></e>
+<e><p><l>recompensate<s n="vblex"/></l><r>ricompensare<s n="vblex"/></r></p></e>
 <e><p><l>complete<s n="vblex"/></l><r>completare<s n="vblex"/></r></p></e>
 <e><p><l>complicate<s n="vblex"/></l><r>complicare<s n="vblex"/></r></p></e>
 <e><p><l>comport<s n="vblex"/></l><r>comportare<s n="vblex"/></r></p></e>
@@ -11693,7 +11694,8 @@
 <e><p><l>escape<s n="vblex"/></l><r>fuggire<s n="vblex"/></r></p></e>
 <e><p><l>escape<s n="vblex"/></l><r>scappare<s n="vblex"/></r></p></e>
 <e><p><l>establish<s n="vblex"/></l><r>stabilire<s n="vblex"/></r></p></e>
-<e><p><l>establish<s n="vblex"/></l><r>instaurare<s n="vblex"/></r></p></e>
+<e><p><l>reestablish<s n="vblex"/></l><r>ristabilire<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>establish<s n="vblex"/></l><r>instaurare<s n="vblex"/></r></p></e>
 <e><p><l>estimate<s n="vblex"/></l><r>stimare<s n="vblex"/></r></p></e>
 <e><p><l>evacuate<s n="vblex"/></l><r>evacuare<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>evaluate<s n="vblex"/></l><r>valutare<s n="vblex"/></r></p></e>
@@ -12087,6 +12089,7 @@
 <e><p><l>offer<s n="vblex"/></l><r>offrire<s n="vblex"/></r></p></e>
 <e><p><l>offer<s n="vblex"/></l><r>brindare<s n="vblex"/></r></p></e>
 <e><p><l>open<s n="vblex"/></l><r>aprire<s n="vblex"/></r></p></e>
+<e><p><l>reopen<s n="vblex"/></l><r>riaprire<s n="vblex"/></r></p></e>
 <e><p><l>operate<s n="vblex"/></l><r>operare<s n="vblex"/></r></p></e>
 <e><p><l>opt<s n="vblex"/></l><r>optare<s n="vblex"/></r></p></e>
 <e><p><l>optimise<s n="vblex"/></l><r>ottimizzare<s n="vblex"/></r></p></e>
@@ -12590,6 +12593,8 @@
 <e><p><l>compute<s n="vblex"/></l><r>computare<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>calculate<s n="vblex"/></l><r>computare<s n="vblex"/></r></p></e>
 <e><p><l>conciliate<s n="vblex"/></l><r>conciliare<s n="vblex"/></r></p></e>
+<e><p><l>reconciliate<s n="vblex"/></l><r>riconciliare<s n="vblex"/></r></p></e>
+<e><p><l>redimension<s n="vblex"/></l><r>ridimensionare<s n="vblex"/></r></p></e>
 <e><p><l>configure<s n="vblex"/></l><r>configurare<s n="vblex"/></r></p></e>
 <e><p><l>contract<s n="vblex"/></l><r>contrarre<s n="vblex"/></r></p></e>
 <e><p><l>converge<s n="vblex"/></l><r>convergere<s n="vblex"/></r></p></e>
