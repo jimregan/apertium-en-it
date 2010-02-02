@@ -37,6 +37,7 @@ dev/wikinouns -text
 /it-en.prob -text svneol=unset#unset
 it-tagger-data/it.tagged -text
 it-tagger-data/it.tagged.txt -text
+/missing-nouns -text
 /modes.xml -text
 /principal.xsl -text
 /testvoc-en-it -text
