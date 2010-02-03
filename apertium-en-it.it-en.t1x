@@ -544,7 +544,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
   <section-def-macros>
     
 
-    <def-macro n="f_bcond" npar="1"><!--Per mirar si el blanc conté o no format. Cal posar aquesta funció en les regles en què desaparegui alguna paraula, per tal de decidir si el blanc de la paraula eliminada s'ha d'eliminar o conservar. Si conté format cal conservar-la, si no en conté cal eliminar-la perquè no apareguin dos espais seguits. -->
+    <def-macro n="f_bcond" npar="2"><!--Per mirar si el blanc conté o no format. Cal posar aquesta funció en les regles en què desaparegui alguna paraula, per tal de decidir si el blanc de la paraula eliminada s'ha d'eliminar o conservar. Si conté format cal conservar-la, si no en conté cal eliminar-la perquè no apareguin dos espais seguits. -->
       <choose>
 	<when>
 	  <test>
@@ -3301,6 +3301,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	</out> 
 	<call-macro n="f_bcond">
 	  <with-param pos="3"/>
+	  <with-param pos="4"/>
 	</call-macro>    
       </action>
     </rule>
@@ -3357,6 +3358,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	</out>   
 	<call-macro n="f_bcond">
 	  <with-param pos="3"/>
+	  <with-param pos="4"/>
 	</call-macro> 
       </action>
     </rule>
@@ -3969,6 +3971,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    </out>
 	    <call-macro n="f_bcond">
 	      <with-param pos="1"/>
+	      <with-param pos="2"/>
 	    </call-macro>
       </action>
     </rule> 
@@ -4037,6 +4040,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	  </chunk>
 	</out>
 	<call-macro n="f_bcond">
+	  <with-param pos="1"/>
 	  <with-param pos="2"/>
 	</call-macro>
       </action>
@@ -4139,6 +4143,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    </out>
 	    <call-macro n="f_bcond">
 	      <with-param pos="2"/>
+	      <with-param pos="3"/>
 	    </call-macro>
       </action>
     </rule> 
@@ -4734,6 +4739,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		    </test>	
 		    <call-macro n="f_bcond"><!--imprimeix el blanc si té info de format, el pronom no l'imprimeixis -->
 		      <with-param pos="2"/>
+	              <with-param pos="3"/>
 		    </call-macro>
 		  </when>
 		  <otherwise><!--enviamos el pronombre. si es el pronombre reflexivo, el lema del chunk será 'ref' y el chunk estará vacío (este pronombre no tiene traducción en el diccionario) -->
@@ -4891,6 +4897,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		</out>
 		<call-macro n="f_bcond"> 
 		  <with-param pos="2"/>
+	          <with-param pos="3"/>
 		</call-macro>
 	      </when>
 	      <otherwise> <!-- si no és separable: primer imprimim el verb i després el pronom-->
@@ -5046,6 +5053,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 <!--si el verb era pronominal y el pronom era 'se' -->
 		    <call-macro n="f_bcond"> 
 		      <with-param pos="3"/>
+	              <with-param pos="4"/>
 		    </call-macro>
 		  </otherwise>
 		</choose>
@@ -5173,6 +5181,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    </out>
 	    <call-macro n="f_bcond"> <!-- si cal, enviem els blancs -->
 	      <with-param pos="1"/>
+	      <with-param pos="2"/>
 	    </call-macro>
 	  </when>
 	  <otherwise><!--si no és un verb separable...-->
@@ -5220,6 +5229,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		</test>	
 		<call-macro n="f_bcond"><!--imprimeix el blanc si té info de format, el pronom no l'imprimeixis -->
 		  <with-param pos="1"/>
+	          <with-param pos="2"/>
 		</call-macro>
 	      </when>
 	      <otherwise> 
@@ -5326,6 +5336,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    </out>
 	    <call-macro n="f_bcond"> <!-- si cal, enviem el blanc -->
 	      <with-param pos="1"/>
+	      <with-param pos="2"/>
 	    </call-macro>
 	  </when>
 	  <otherwise><!--si no és un verb separable...-->	    
@@ -5451,6 +5462,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 <!--si el verb era pronominal y el pronom era 'se' -->
 		    <call-macro n="f_bcond"> 
 		      <with-param pos="2"/>
+	              <with-param pos="3"/>
 		    </call-macro>
 		  </otherwise> 
 	    </choose>
@@ -6474,6 +6486,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    </out>  
 	    <call-macro n="f_bcond">
 	      <with-param pos="2"/>
+	      <with-param pos="3"/>
 	    </call-macro>
 	  </when>
 	  <otherwise><!--si no és un verb separable...-->
@@ -6526,6 +6539,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		</test>	
 		<call-macro n="f_bcond"><!--imprimeix el blanc si té info de format, el pronom no l'imprimeixis -->
 		  <with-param pos="2"/>
+	          <with-param pos="3"/>
 		</call-macro>
 	      </when>
 	      <otherwise>	
@@ -7261,6 +7275,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    </out>
 	    <call-macro n="f_bcond"> <!-- si cal, enviem els blancs -->
 	      <with-param pos="2"/>
+	      <with-param pos="3"/>
 	    </call-macro>
 	  </when>
 	  <otherwise><!--si no és un verb separable...-->
@@ -7312,6 +7327,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		</test>	
 		<call-macro n="f_bcond"><!--imprimeix el blanc si té info de format, el pronom no l'imprimeixis -->
 		  <with-param pos="2"/>
+	          <with-param pos="3"/>
 		</call-macro>
 	      </when>
 	      <otherwise>
@@ -7392,6 +7408,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    </let>
 	    <call-macro n="f_bcond">
 	      <with-param pos="1"/>
+	      <with-param pos="2"/>
 	    </call-macro>
 	    <let>
 		<var n="caseSecondWord"/>
@@ -7482,6 +7499,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    </let>
 	    <call-macro n="f_bcond">
 	      <with-param pos="1"/>
+	      <with-param pos="2"/>
 	    </call-macro>
 	    <let>
 		<var n="caseSecondWord"/>
@@ -7557,6 +7575,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    </let>
 	    <call-macro n="f_bcond">
 	      <with-param pos="1"/>
+	      <with-param pos="2"/>
 	    </call-macro>
 	    <let>
 		<var n="caseSecondWord"/>
@@ -7747,6 +7766,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    </let>
 	    <call-macro n="f_bcond">
 	      <with-param pos="1"/>
+	      <with-param pos="2"/>
 	    </call-macro>
 	    <let>
 		<var n="caseSecondWord"/>
@@ -8021,6 +8041,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		    </test>	
 		    <call-macro n="f_bcond"><!--imprimeix el blanc si té info de format, el pronom no l'imprimeixis -->
 		      <with-param pos="3"/>
+	              <with-param pos="4"/>
 		    </call-macro>
 		  </when>
 		  <otherwise><!--enviamos el pronombre. si es el pronombre reflexivo, el lema del chunk será 'ref' y el chunk estará vacío (este pronombre no tiene traducción en el diccionario) -->
@@ -8155,6 +8176,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    </let>
 	    <call-macro n="f_bcond">
 	      <with-param pos="1"/>
+	      <with-param pos="2"/>
 	    </call-macro>
 	    <let>
 	      <var n="caseSecondWord"/>
@@ -8260,6 +8282,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    </let>
 	    <call-macro n="f_bcond">
 	      <with-param pos="1"/>
+	      <with-param pos="2"/>
 	    </call-macro>
 	    <let>
 	      <var n="caseSecondWord"/>
@@ -8396,6 +8419,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 	    </out>
 	    <call-macro n="f_bcond"> <!-- si cal, enviem el blanc -->
 	      <with-param pos="2"/>
+	      <with-param pos="3"/>
 	    </call-macro>
 	  </when>
 	  <otherwise><!--Si no és separable...-->
@@ -8443,6 +8467,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
 		</test>	
 		<call-macro n="f_bcond"><!--imprimeix el blanc si té info de format, el pronom no l'imprimeixis -->
 		  <with-param pos="2"/>
+	          <with-param pos="3"/>
 		</call-macro>
 	      </when>
 	      <otherwise>
