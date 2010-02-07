@@ -531,6 +531,7 @@
 <e><p><l>Cambodia<s n="np"/><s n="loc"/></l><r>Cambogia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Canberra<s n="np"/><s n="loc"/></l><r>Canberra<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>Ceylon<s n="np"/><s n="loc"/></l><r>Sri<b/>Lanka<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Faroe<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Faeroer<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Cayman<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Cayman<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Eritrea<s n="np"/><s n="loc"/></l><r>Eritrea<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Atlanta<s n="np"/><s n="loc"/></l><r>Atlanta<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
@@ -5990,6 +5991,11 @@
 <e><i>Linus<s n="np"/><s n="ant"/></i></e>
 <e><i>Linus<s n="np"/><s n="ant"/></i></e>
 <e><i>Linus<s n="np"/><s n="ant"/></i></e>
+<e><p><l>Ku<b/>Klux<b/>Klan<s n="np"/><s n="al"/></l><r>Ku<b/>Klux<b/>Klan<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>McDonald's<s n="np"/><s n="al"/></l><r>McDonald's<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>World<b/>War<b/>II<s n="np"/><s n="al"/></l><r>Seconda<b/>guerra<b/>mondiale<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+<e><p><l>New<b/>Testament<s n="np"/><s n="al"/></l><r>Nuovo<b/>Testamento<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>All<b/>Saints'<b/>Day<s n="np"/><s n="al"/></l><r>Ognissanti<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>Linux<s n="np"/><s n="al"/></l><r>Linux<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>Google<s n="np"/><s n="al"/></l><r>Google<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>Google<b/>Summer<b/>of<b/>Code<s n="np"/><s n="al"/></l><r>Google<b/>Summer<b/>of<b/>Code<s n="np"/><s n="al"/><s n="m"/></r></p></e>
@@ -22554,6 +22560,7 @@
     <e><p><l>Aleutian<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Aleutine<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>British<b/>Virgin<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Vergini<b/>britanniche<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>United<b/>States<b/>Virgin<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Vergini<b/>americane<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>US<b/>Virgin<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Vergini<b/>americane<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>Virgin<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Vergini<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>British<b/>West<b/>Indies<s n="np"/><s n="loc"/></l><r>Indie<b/>Occidentali<b/>Britanniche<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>Central<b/>African<b/>Republic<s n="np"/><s n="loc"/></l><r>Repubblica<b/>Centrafricana<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
