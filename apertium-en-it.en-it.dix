@@ -17070,6 +17070,7 @@
 <e r="RL"><p><l>furniture<s n="n"/></l><r>arredamento<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fury<s n="n"/></l><r>furia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fuse<s n="n"/></l><r>stoppino<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>wick<s n="n"/></l><r>stoppino<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fuselage<s n="n"/></l><r>fusoliera<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>future<s n="n"/></l><r>futuro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>futurism<s n="n"/></l><r>futurismo<s n="n"/><s n="m"/></r></p></e>
@@ -17204,10 +17205,8 @@
 <e><p><l>grammaticalisation<s n="n"/></l><r>grammaticalizzazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>gramme<s n="n"/></l><r>grammo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>grandfather<s n="n"/></l><r>nonno<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>grandfather<s n="n"/><s n="sg"/></l><r>nonno<s n="n"/></r></p></e>
 <e><p><l>grandmother<s n="n"/></l><r>nonno<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>grandparent<s n="n"/></l><r>nonno<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>grandparent<s n="n"/><s n="pl"/></l><r>nonno<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>grandparent<s n="n"/></l><r>nonno<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>granite<s n="n"/></l><r>granito<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>grape<s n="n"/></l><r>uva<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>graphics<s n="n"/></l><r>grafico<s n="n"/><s n="m"/></r></p></e>
@@ -17708,6 +17707,7 @@
 <e><p><l>institutionalisation<s n="n"/></l><r>istituzionalizzazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>instruction<s n="n"/></l><r>istruzione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>instrument<s n="n"/></l><r>strumento<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>wind<b/>instrument<s n="n"/></l><r>strumento<g><b/>a<b/>fiato</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>instrumentalisation<s n="n"/></l><r>strumentalizzazione<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>instrumentalist<s n="n"/></l><r>strumentista<s n="n"/></r></p></e>
 <e r="LR"><p><l>instrumentalist<s n="n"/></l><r>strumentista<s n="n"/><s n="GD"/></r></p></e>
@@ -18003,7 +18003,9 @@
 <e><p><l>lesson<s n="n"/></l><r>lezione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>lethargy<s n="n"/></l><r>letargo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>letter<s n="n"/></l><r>carta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>letter<s n="n"/></l><r>lettera<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>letter<s n="n"/></l><r>lettera<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>green<s n="n"/></l><r>verde<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>yellow<s n="n"/></l><r>giallo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>lettuce<s n="n"/></l><r>lattuga<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>leukaemia<s n="n"/></l><r>leucemia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>level<s n="n"/></l><r>livello<s n="n"/><s n="m"/></r></p></e>
@@ -18530,7 +18532,7 @@
 <e r="LR"><p><l>multiplicity<s n="n"/><s n="sg"/></l><r>molteplicità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>multiplicity<s n="n"/><s n="pl"/></l><r>molteplicità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>multitude<s n="n"/></l><r>moltitudine<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>mum<s n="n"/></l><r>mammella<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>udder<s n="n"/></l><r>mammella<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>mum<s n="n"/></l><r>mamma<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>mummification<s n="n"/></l><r>mummificazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>mummy<s n="n"/></l><r>mummia<s n="n"/><s n="f"/></r></p></e>
