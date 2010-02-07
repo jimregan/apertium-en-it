@@ -15570,6 +15570,8 @@
 <e r="LR"><p><l>cognac<s n="n"/><s n="pl"/></l><r>cognac<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>cognition<s n="n"/></l><r>cognizione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cohabitation<s n="n"/></l><r>coabitazione<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>habitation<s n="n"/></l><r>abitazione<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>dwelling<s n="n"/></l><r>abitazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cohabitation<s n="n"/></l><r>convivenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>coherence<s n="n"/></l><r>coerenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cohesion<s n="n"/></l><r>coesione<s n="n"/><s n="f"/></r></p></e>
@@ -16159,6 +16161,7 @@
 <e><p><l>descent<s n="n"/></l><r>retrocessione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>descent<s n="n"/></l><r>discendenza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>description<s n="n"/></l><r>descrizione<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>narrative<s n="n"/></l><r>descrizione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>desensitisation<s n="n"/></l><r>desensibilizzazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>desert<s n="n"/></l><r>deserto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>desertification<s n="n"/></l><r>desertificazione<s n="n"/><s n="f"/></r></p></e>
@@ -18539,7 +18542,8 @@
 <e><p><l>mum<s n="n"/></l><r>mamma<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>mummification<s n="n"/></l><r>mummificazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>mummy<s n="n"/></l><r>mummia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>municipality<s n="n"/></l><r>municipio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>proper<b/>noun<s n="n"/></l><r>nome<b/>proprio<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>municipality<s n="n"/></l><r>municipio<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>municipality<s n="n"/><s n="ND"/></l><r>municipalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>municipality<s n="n"/><s n="sg"/></l><r>municipalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>municipality<s n="n"/><s n="pl"/></l><r>municipalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -18732,6 +18736,7 @@
 <e><p><l>oblivion<s n="n"/></l><r>oblio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>obscurantism<s n="n"/></l><r>oscurantismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>observation<s n="n"/></l><r>osservazione<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>remark<s n="n"/></l><r>osservazione<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>observer<s n="n"/></l><r>osservatore<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>observer<s n="n"/></l><r>osservatore<s n="n"/></r></p></e>
 <e><p><l>obstacle<s n="n"/></l><r>ostacolo<s n="n"/><s n="m"/></r></p></e>
@@ -19962,7 +19967,6 @@
 <e><p><l>roof<s n="n"/></l><r>tetto<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>rook<s n="n"/></l><r>torre<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>room<s n="n"/></l><r>stanza<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>room<s n="n"/></l><r>abitazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>room<s n="n"/></l><r>sala<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>root<s n="n"/></l><r>radice<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>rooting<s n="n"/></l><r>base<s n="n"/><s n="f"/></r></p></e>
