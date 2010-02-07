@@ -20712,6 +20712,7 @@
     <e lm="mummy"><i>mumm</i><par n="bab/y__n"/>    </e>
     <e lm="municipality"><i>municipalit</i><par n="bab/y__n"/>    </e>
     <e lm="dwelling"><i>dwelling</i><par n="house__n"/>    </e>
+    <e lm="beheading"><i>beheading</i><par n="house__n"/>    </e>
     <e lm="murder"><i>murder</i><par n="house__n"/>    </e>
     <e lm="murderer"><i>murderer</i><par n="house__n"/>    </e>
     <e lm="murmur"><i>murmur</i><par n="house__n"/>    </e>
@@ -36912,6 +36913,24 @@
     <e lm="seventy one thousand"><i>seventy<b/>one<b/>thousand</i><par n="million__num"/></e>
     <e lm="eighty one thousand"><i>eighty<b/>one<b/>thousand</i><par n="million__num"/></e>
     <e lm="ninety one thousand"><i>ninety<b/>one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="bijection"><i>bijection</i><par n="house__n"/></e>
+    <e lm="conflagration"><i>conflagration</i><par n="house__n"/></e>
+    <e lm="solace"><i>solace</i><par n="house__n"/></e>
+    <e lm="bribery"><i>briber</i><par n="bab/y__n"/></e>
+    <e lm="beheading"><i>beheading</i><par n="house__n"/></e>
+    <e lm="declension"><i>declension</i><par n="house__n"/></e>
+    <e lm="exposition"><i>exposition</i><par n="house__n"/></e>
+    <e lm="clutch"><i>clutch</i><par n="access__n"/></e>
+    <e lm="crawl"><i>crawl</i><par n="house__n"/></e>
+    <e lm="pre-ejaculate"><i>pre-ejaculate</i><par n="house__n"/></e>
+    <e lm="procrastination"><i>procrastination</i><par n="house__n"/></e>
+    <e lm="quantization"><i>quantization</i><par n="house__n"/></e>
+    <e lm="respiration"><i>respiration</i><par n="house__n"/></e>
+    <e lm="revelation"><i>revelation</i><par n="house__n"/></e>
+    <e lm="vindication"><i>vindication</i><par n="house__n"/></e>
+    <e lm="Russification"><i>Russification</i><par n="house__n"/></e>
+    <e lm="terraforming"><i>terraforming</i><par n="house__n"/></e>
+    <e lm="violation"><i>violation</i><par n="house__n"/></e>
   </section>
 
   <section id="apostrophes" type="preblank">
