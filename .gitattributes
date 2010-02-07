@@ -24,6 +24,7 @@
 /autogen.sh -text
 /buscaPar.xsl -text
 /configure.ac -text
+dev/apertium2.xml -text
 dev/cross-analysed.sh -text
 dev/cross-model-en-es-it.xml -text
 dev/cross.xml -text
