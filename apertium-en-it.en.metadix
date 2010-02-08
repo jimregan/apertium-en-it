@@ -17533,6 +17533,7 @@
 <!-- nouns -->
     <e lm="chemist's"><p><l>chemist's</l><r>chemist's<s n="n"/><s n="sg"/></r></p></e>
     <e lm="custom"><p><l>custom</l><r>custom<s n="n"/><s n="sg"/></r></p></e>
+    <e lm="custom" r="RL"><p><l>customs</l><r>custom<s n="n"/><s n="pl"/></r></p></e>
     <e lm="prairie"><i>prairie</i><par n="house__n"/>    </e>
     <e lm="apparatus"><i>apparatus</i><par n="bass__n"/>    </e>
     <e lm="balustrade"><i>balustrade</i><par n="house__n"/>    </e>
@@ -19555,7 +19556,7 @@
     <e lm="flavour"><i>flav</i><par n="col/our__n"/>    </e>
     <e lm="flea"><i>flea</i><par n="house__n"/>    </e>
     <e lm="fleet"><i>fleet</i><par n="house__n"/>    </e>
-    <e lm="flesh"><i>flesh</i><par n="east__n"/>    </e>
+    <e lm="flesh"><i>flesh</i><par n="politics__n"/>    </e>
     <e lm="flexibility"><i>flexibilit</i><par n="bab/y__n"/>    </e>
     <e lm="flight"><i>flight</i><par n="house__n"/>    </e>
     <e lm="flood"><i>flood</i><par n="house__n"/>    </e>
@@ -22990,6 +22991,7 @@
     
 <!-- acronyms -->
     <e lm="BBC" a="doriua"><i>BBC</i><par n="BBC__n"/>    </e>
+    <e lm="AIDS"><i>AIDS</i><par n="BBC__n"/>    </e>
     <e lm="CD" a="carmentano"><i>CD</i><par n="BBC__n"/>    </e>
     <e lm="CDC"><i>CDC</i><par n="BBC__n"/>    </e>
     <e lm="DNA" a="carmentano"><i>DNA</i><par n="BBC__n"/>    </e>
@@ -33335,7 +33337,7 @@
     <e lm="alchemist"><i>alchemist</i><par n="house__n"/></e>
     <e lm="instauration"><i>instauration</i><par n="house__n"/></e>
     <e lm="integer" a="greenbreen"><i>integer</i><par n="house__n"/></e>
-    <e lm="cybernetics" a="greenbreen"><i>cybernetics</i><par n="east__n"/></e>
+    <e lm="cybernetics" a="greenbreen"><i>cybernetics</i><par n="politics__n"/></e>
     <e lm="periodically" a="greenbreen"><i>periodically</i><par n="maybe__adv"/></e>
     <e lm="overflow" a="greenbreen"><i>overflow</i><par n="house__n"/></e>
     <e lm="gentilic" a="greenbreen"><i>gentilic</i><par n="house__n"/></e>
@@ -33905,6 +33907,9 @@
     <e lm="baking powder" a="greenbreen"><i>baking<b/>powder</i><par n="house__n"/></e>
     <e lm="baking soda" a="greenbreen"><i>baking<b/>soda</i><par n="house__n"/></e>
     <e lm="MP3 player" a="greenbreen"><i>MP3<b/>player</i><par n="house__n"/></e>
+    <e lm="combine harvester"><i>combine<b/>harvester</i><par n="house__n"/></e>
+    <e lm="positive"><i>positive</i><par n="house__n"/></e>
+    <e lm="negative"><i>negative</i><par n="house__n"/></e>
     <e lm="mobile phone" r="LR" a="greenbreen"><i>mobile<b/>phone</i><par n="house__n"/></e>
     <e lm="mobile phone" r="LR" a="greenbreen"><p><l>cell<b/>phone</l><r>mobile<b/>phone</r></p><par n="house__n"/></e>
     <e lm="mobile phone" r="RL" alt="en_GB" a="greenbreen"><i>mobile<b/>phone</i><par n="house__n"/></e>
