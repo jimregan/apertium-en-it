@@ -29,6 +29,7 @@ dev/cross-analysed.sh -text
 dev/cross-model-en-es-it.xml -text
 dev/cross.xml -text
 dev/find-the-cognates_adj-en-es-it -text
+dev/find-the-cognates_adj-en-es-it2 -text
 dev/missing-verbs-bidix -text
 dev/patterns-not-detected.xml -text
 dev/verbs-to-add -text
