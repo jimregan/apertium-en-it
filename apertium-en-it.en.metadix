@@ -19556,6 +19556,12 @@
     <e lm="flavour"><i>flav</i><par n="col/our__n"/>    </e>
     <e lm="flea"><i>flea</i><par n="house__n"/>    </e>
     <e lm="fleet"><i>fleet</i><par n="house__n"/>    </e>
+    <e lm="extra"><i>extra</i><par n="house__n"/>    </e>
+    <e lm="favour"><i>fav</i><par n="o_ou"/><i>r</i><par n="house__n"/>    </e>
+    <e lm="dandruff"><i>dandruff</i><par n="politics__n"/>    </e>
+    <e lm="work bench"><i>work<b/>bench</i><par n="access__n"/>    </e>
+    <e lm="ambush"><i>ambush</i><par n="access__n"/>    </e>
+    <e lm="mosquito"><i>mosquito</i><par n="house__n"/>    </e>
     <e lm="flesh"><i>flesh</i><par n="politics__n"/>    </e>
     <e lm="flexibility"><i>flexibilit</i><par n="bab/y__n"/>    </e>
     <e lm="flight"><i>flight</i><par n="house__n"/>    </e>
@@ -33397,6 +33403,7 @@
     <e lm="raven" a="greenbreen"><i>raven</i><par n="house__n"/></e>
     <e lm="crow" a="greenbreen"><i>crow</i><par n="house__n"/></e>
     <e lm="goose" a="greenbreen"><i>g</i><par n="g/oose__n"/></e>
+    <e lm="wild goose"><i>wild<b/>g</i><par n="g/oose__n"/></e>
     <e lm="owl" a="greenbreen"><i>owl</i><par n="house__n"/></e>
     <e lm="ram" a="greenbreen"><i>ram</i><par n="house__n"/></e>
     <e lm="donkey" a="greenbreen"><i>donkey</i><par n="house__n"/></e>
