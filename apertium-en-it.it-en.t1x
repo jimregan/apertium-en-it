@@ -397,6 +397,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
     <def-attr n="a_adv">
       <attr-item tags="adv"/>
       <attr-item tags="preadv"/>
+      <attr-item tags="cnjadv"/>
       <attr-item tags="adv.itg"/>
     </def-attr>
 
