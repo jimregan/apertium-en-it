@@ -565,6 +565,9 @@
 <e><p><l>Costa<b/>Rica<s n="np"/><s n="loc"/></l><r>Costa<b/>Rica<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>San<b/>Francisco<s n="np"/><s n="loc"/></l><r>San<b/>Francisco<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Los<b/>Angeles<s n="np"/><s n="loc"/></l><r>Los<b/>Angeles<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Gaza<b/>Strip<s n="np"/><s n="loc"/></l><r>Striscia<b/>di<b/>Gaza<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>American<b/>Samoa<s n="np"/><s n="loc"/></l><r>Samoa<b/>americane<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Isle<b/>of<b/>Man<s n="np"/><s n="loc"/></l><r>Isola<b/>di<b/>Man<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Colorado<s n="np"/><s n="loc"/></l><r>Colorado<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Delaware<s n="np"/><s n="loc"/></l><r>Delaware<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Hawaii<s n="np"/><s n="loc"/></l><r>Hawaii<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
@@ -3333,11 +3336,14 @@
 <e><p><l>Elizabeth<s n="np"/><s n="ant"/></l><r>Elizabeth<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Elizabeth<b/>I<s n="np"/><s n="ant"/></l><r>Elisabetta<b/>I<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Elizabeth<b/>II<s n="np"/><s n="ant"/></l><r>Elisabetta<b/>II<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Holy<b/>Spirit<s n="np"/><s n="ant"/></l><r>Spirito<b/>Santo<s n="np"/><s n="ant"/></r></p></e>
+<e r="LR"><p><l>Holy<b/>Ghost<s n="np"/><s n="ant"/></l><r>Spirito<b/>Santo<s n="np"/><s n="ant"/></r></p></e>
 <e><i>Eliézer<s n="np"/><s n="ant"/></i></e>
 <e><i>Ella<s n="np"/><s n="ant"/></i></e>
 <e><i>Elle<s n="np"/><s n="ant"/></i></e>
 <e><i>Ellen<s n="np"/><s n="ant"/></i></e>
 <e><i>Ellen<b/>Johnson-Sirleaf<s n="np"/><s n="ant"/></i></e>
+<e><i>Sherlock<b/>Holmes<s n="np"/><s n="ant"/></i></e>
 <e><i>Ellie<s n="np"/><s n="ant"/></i></e>
 <e><i>Elliot<s n="np"/><s n="ant"/></i></e>
 <e><i>Elliott<s n="np"/><s n="ant"/></i></e>
@@ -5995,6 +6001,10 @@
 <e><p><l>McDonald's<s n="np"/><s n="al"/></l><r>McDonald's<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>World<b/>War<b/>II<s n="np"/><s n="al"/></l><r>Seconda<b/>guerra<b/>mondiale<s n="np"/><s n="al"/><s n="f"/></r></p></e>
 <e><p><l>New<b/>Testament<s n="np"/><s n="al"/></l><r>Nuovo<b/>Testamento<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Old<b/>Testament<s n="np"/><s n="al"/></l><r>Antico<b/>Testamento<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Wikimedia<b/>Foundation<s n="np"/><s n="al"/></l><r>Wikimedia<b/>Foundation<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Grand<b/>Prix<s n="np"/><s n="al"/></l><r>Gran<b/>Premio<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Holy<b/>Grail<s n="np"/><s n="al"/></l><r>Sacro<b/>Graal<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>All<b/>Saints'<b/>Day<s n="np"/><s n="al"/></l><r>Ognissanti<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>Linux<s n="np"/><s n="al"/></l><r>Linux<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>Google<s n="np"/><s n="al"/></l><r>Google<s n="np"/><s n="al"/><s n="m"/></r></p></e>
@@ -19976,7 +19986,7 @@
 <e><p><l>role<s n="n"/></l><r>ruolo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>romanticism<s n="n"/></l><r>romanticismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>roof<s n="n"/></l><r>tetto<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>rook<s n="n"/></l><r>torre<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>rook<s n="n"/></l><r>torre<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>room<s n="n"/></l><r>stanza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>room<s n="n"/></l><r>sala<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>root<s n="n"/></l><r>radice<s n="n"/><s n="f"/></r></p></e>
@@ -21365,7 +21375,8 @@
 <e><p><l>way<s n="n"/></l><r>modo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>weakness<s n="n"/></l><r>debolezza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>wealth<s n="n"/></l><r>ricchezza<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>weapon<s n="n"/></l><r>arma<s n="n"/></r></p></e>
+<e><p><l>weapon<s n="n"/></l><r>arma<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>weapon<g><b/>of<b/>mass<b/>destruction</g><s n="n"/></l><r>arma<g><b/>di<b/>distruzione<b/>di<b/>massa</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>wear<s n="n"/></l><r>sperpero<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>weather<s n="n"/></l><r>tempo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>weather<s n="n"/><s n="ND"/></l><r>tempo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -21481,8 +21492,10 @@
 <e><p><l>good<b/>morning<s n="ij"/></l><r>buon<b/>giorno<s n="ij"/></r></p></e>
 <e r="LR"><p><l>thank<b/>you<s n="ij"/></l><r>grazie<s n="ij"/></r></p></e>
 <e><p><l>better<b/>late<b/>than<b/>never<s n="ij"/></l><r>meglio<b/>tardi<b/>che<b/>mai<s n="ij"/></r></p></e>
-<e><p><l>thank<b/>you<s n="ij"/></l><r>grazie<s n="ij"/></r></p></e>
+<e r="LR"><p><l>thank<b/>you<s n="ij"/></l><r>grazie<s n="ij"/></r></p></e>
 <e><p><l>thanks<s n="ij"/></l><r>grazie<s n="ij"/></r></p></e>
+<e><p><l>viva<s n="ij"/></l><r>viva<s n="ij"/></r></p></e>
+<e r="LR"><p><l>long<b/>live<s n="ij"/></l><r>viva<s n="ij"/></r></p></e>
 <e><p><l>all<b/>that<b/>glitters<b/>is<b/>not<b/>gold<s n="ij"/></l><r>non<b/>è<b/>tutto<b/>oro<b/>quello<b/>che<b/>luccica<s n="ij"/></r></p></e>
 <e r="RL"><p><l>all<b/>that<b/>glitters<b/>is<b/>not<b/>gold<s n="ij"/></l><r>non<b/>è<b/>tutto<b/>oro<b/>quel<b/>che<b/>luccica<s n="ij"/></r></p></e>
 <e><p><l>the<b/>grass<b/>is<b/>always<b/>greener<b/>on<b/>the<b/>other<b/>side<s n="ij"/></l><r>l'erba<b/>del<b/>vicino<b/>è<b/>sempre<b/>più<b/>verde<s n="ij"/></r></p></e>
@@ -21997,6 +22010,7 @@
 <e><p><l>telegram<s n="n"/></l><r>telegrafo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bard<s n="n"/></l><r>bardo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bar<b/>code<s n="n"/></l><r>codice<g><b/>a<b/>barre</g><s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>barcode<s n="n"/></l><r>codice<g><b/>a<b/>barre</g><s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>obverse<s n="n"/></l><r>rovescio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>reverse<s n="n"/></l><r>rovescio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>libido<s n="n"/></l><r>libido<s n="n"/><s n="f"/></r></p><par n="SP"/></e>

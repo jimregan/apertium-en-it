@@ -14896,6 +14896,9 @@
     <e lm="Joey"><i>Joey</i><par n="Mark__np"/>    </e>
     <e lm="Johan"><i>Johan</i><par n="Mark__np"/>    </e>
     <e lm="John"><i>John</i><par n="Mark__np"/>    </e>
+    <e lm="Sherlock Holmes"><i>Sherlock<b/>Holmes</i><par n="Mark__np"/>    </e>
+    <e lm="Holy Spirit"><i>Holy<b/>Spirit</i><par n="Mark__np"/>    </e>
+    <e lm="Holy Ghost"><i>Holy<b/>Ghost</i><par n="Mark__np"/>    </e>
     <e lm="Johnathan"><i>Johnathan</i><par n="Mark__np"/>    </e>
     <e lm="Johnathon"><i>Johnathon</i><par n="Mark__np"/>    </e>
     <e lm="Johnny"><i>Johnny</i><par n="Mark__np"/>    </e>
@@ -22751,6 +22754,7 @@
     <e lm="weakness"><i>weakness</i><par n="access__n"/>    </e>
     <e lm="wealth"><i>wealth</i><par n="house__n"/>    </e>
     <e lm="weapon"><i>weapon</i><par n="house__n"/>    </e>
+    <e lm="weapon of mass destruction"><i>weapon</i><par n="house__n"/><p><l><b/>of<b/>mass<b/>destruction</l><r><g><b/>of<b/>mass<b/>destruction</g></r></p></e>
     <e lm="wear"><i>wear</i><par n="house__n"/>    </e>
     <e lm="weather"><i>weather</i><par n="house__n"/>    </e>
     <e lm="web"><i>web</i><par n="house__n"/>    </e>
@@ -23023,6 +23027,8 @@
     <e lm="thank you"><i>thank<b/>you</i><par n="hello__ij"/></e>
     <e lm="thanks"><i>thanks</i><par n="hello__ij"/></e>
     <e lm="ciao"><i>ciao</i><par n="hello__ij"/></e>
+    <e lm="viva"><i>viva</i><par n="hello__ij"/></e>
+    <e lm="long live"><i>long<b/>live</i><par n="hello__ij"/></e>
     <e lm="oh my God"><i>oh<b/>my<b/>God</i><par n="hello__ij"/></e>
     <e lm="my God"><i>my<b/>God</i><par n="hello__ij"/></e>
     <e lm="it takes all sorts to make a world"><i>it<b/>takes<b/>all<b/>sorts<b/>to<b/>make<b/>a<b/>world</i><par n="hello__ij"/>    </e>
@@ -28392,6 +28398,10 @@
     <e lm="Ku Klux Klan"><i>Ku<b/>Klux<b/>Klan</i><par n="Linux__np"/></e>
     <e lm="McDonald's"><i>McDonald's</i><par n="Linux__np"/></e>
     <e lm="New Testament"><i>New<b/>Testament</i><par n="Linux__np"/></e>
+    <e lm="Old Testament"><i>Old<b/>Testament</i><par n="Linux__np"/></e>
+    <e lm="Wikimedia Foundation"><i>Wikimedia<b/>Foundation</i><par n="Linux__np"/></e>
+    <e lm="Grand Prix"><i>Grand<b/>Prix</i><par n="Linux__np"/></e>
+    <e lm="Holy Grail"><i>Holy<b/>Grail</i><par n="Linux__np"/></e>
     <e lm="The Gambia"><i>The<b/>Gambia</i><par n="Barcelona__np"/>     </e>
     <e lm="The Mississippi"><i>The<b/>Mississippi</i><par n="Barcelona__np"/>     </e>
     <e lm="Thomism"><i>Thomism</i><par n="house__n"/>     </e>
@@ -33600,8 +33610,12 @@
     <e lm="vigorously" a="greenbreen"><i>vigorously</i><par n="maybe__adv"/></e>
     <e lm="forcefully" a="greenbreen"><i>forcefully</i><par n="maybe__adv"/></e>
     <e lm="with energy" a="greenbreen"><i>with<b/>energy</i><par n="maybe__adv"/></e>
+    <e lm="barcode"><i>barcode</i><par n="house__n"/></e>
     <e lm="bar code" a="greenbreen"><i>bar<b/>code</i><par n="house__n"/></e>
     <e lm="bar code reader" a="greenbreen"><i>bar<b/>code<b/>reader</i><par n="house__n"/></e>
+    <e lm="Gaza Strip"><i>Gaza<b/>Strip</i><par n="Barcelona__np"/></e>
+    <e lm="American Samoa"><i>American<b/>Samoa</i><par n="Barcelona__np"/></e>
+    <e lm="Isle of Man"><i>Isle<b/>of<b/>Man</i><par n="Barcelona__np"/></e>
     <e lm="Colorado" a="greenbreen"><i>Colorado</i><par n="Barcelona__np"/></e>
     <e lm="Delaware" a="greenbreen"><i>Delaware</i><par n="Barcelona__np"/></e>
     <e lm="Florida" a="greenbreen"><i>Florida</i><par n="Barcelona__np"/></e>

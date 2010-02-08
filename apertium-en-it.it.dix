@@ -80613,6 +80613,8 @@
     <e lm="Pedro"><i>Pedro</i><par n="Juan__np"/></e>
     <e lm="Manuel"><i>Manuel</i><par n="Juan__np"/></e>
     <e lm="John"><i>John</i><par n="Juan__np"/></e>
+    <e lm="Sherlock Holmes"><i>Sherlock<b/>Holmes</i><par n="Juan__np"/></e>
+    <e lm="Spirito Santo"><i>Spirito<b/>Santo</i><par n="Juan__np"/></e>
     <e lm="Alfonso"><i>Alfonso</i><par n="Juan__np"/></e>
     <e lm="York"><i>York</i><par n="Afghanistan__np"/></e>
     <e lm="Martín"><i>Martín</i><par n="Juan__np"/></e>
@@ -81016,6 +81018,10 @@
     <e lm="Linux"><i>Linux</i><par n="ABC__np"/></e>
     <e lm="Ognissanti"><i>Ognissanti</i><par n="ABC__np"/></e>
     <e lm="Nuovo Testamento"><i>Nuovo<b/>Testamento</i><par n="ABC__np"/></e>
+    <e lm="Antico Testamento"><i>Antico<b/>Testamento</i><par n="ABC__np"/></e>
+    <e lm="Wikimedia Foundation"><i>Wikimedia<b/>Foundation</i><par n="ABC__np"/></e>
+    <e lm="Gran Premio"><i>Gran<b/>Premio</i><par n="ABC__np"/></e>
+    <e lm="Sacro Graal"><i>Sacro<b/>Graal</i><par n="ABC__np"/></e>
     <e lm="Ku Klux Klan"><i>Ku<b/>Klux<b/>Klan</i><par n="ABC__np"/></e>
     <e lm="McDonald's"><i>McDonald's</i><par n="ABC__np"/></e>
     <e lm="Google"><i>Google</i><par n="ABC__np"/></e>
@@ -88874,6 +88880,7 @@
     <e lm="aristocrazia"><i>aristocrazi</i><par n="cas/a__n"/></e>
     <e lm="aritmetica"><i>aritmetic</i><par n="tasc/a__n"/></e>
     <e lm="arma"><i>arm</i><par n="al/a__n"/></e>
+    <e lm="arma di distruzione di massa"><i>arm</i><par n="al/a__n"/><p><l><b/>di<b/>distruzione<b/>di<b/>massa</l><r><g><b/>di<b/>distruzione<b/>di<b/>massa</g></r></p></e>
     <e lm="armadio"><i>armadi</i><par n="abbagli/o__n"/></e>
     <e lm="armamento"><i>armament</i><par n="abbain/o__n"/></e>
     <e lm="armata"><i>armat</i><par n="cas/a__n"/></e>
@@ -93625,6 +93632,7 @@
     <e lm="meglio tardi che mai"><i>meglio<b/>tardi<b/>che<b/>mai</i><par n="salve__ij"/></e>
     <e lm="non è tutto oro quello che luccica"><i>non<b/>è<b/>tutto<b/>oro<b/>quello<b/>che<b/>luccica</i><par n="salve__ij"/></e>
     <e lm="non è tutto oro quel che luccica"><i>non<b/>è<b/>tutto<b/>oro<b/>quel<b/>che<b/>luccica</i><par n="salve__ij"/></e>
+    <e lm="viva"><i>viva</i><par n="salve__ij"/></e>
       
 <!--       ******************************      (adj) group      ******************************    -->
 
@@ -98988,6 +98996,9 @@
     <e lm="Nuova Caledonia"><i>Nuova<b/>Caledonia</i><par n="Europa__np"/></e>
     <e lm="Nuova Zelanda"><i>Nuova<b/>Zelanda</i><par n="Europa__np"/></e>
     <e lm="Irlanda del Nord"><i>Irlanda<b/>del<b/>Nord</i><par n="Europa__np"/></e>
+    <e lm="Striscia di Gaza"><i>Striscia<b/>di<b/>Gaza</i><par n="Europa__np"/></e>
+    <e lm="Samoa americane"><i>Samoa<b/>americane</i><par n="Europa__np"/></e>
+    <e lm="Isola di Man"><i>Isola<b/>di<b/>Man</i><par n="Europa__np"/></e>
     <e lm="Isola del Nord"><i>Isola<b/>del<b/>Nord</i><par n="Europa__np"/></e>
     <e lm="Alabama"><i>Alabama</i><par n="Europa__np"/></e>
     <e lm="Alsazia"><i>Alsazia</i><par n="Europa__np"/></e>
