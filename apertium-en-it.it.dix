@@ -1145,10 +1145,18 @@
       <e>
 	<p>
 	  <l>le</l>
-	  <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/></r>
+	  <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></r>
 	</p>
       </e>
 
+
+      <e>
+	<p>
+	  <l>glie</l>
+	  <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sp"/><j/></r>
+	</p>
+	<par n="S__cantarglie"/> 
+      </e>
 
       <e>
 	<p>
@@ -1191,7 +1199,7 @@
 
 
     </pardef>
-    <pardef n="S__canta">
+ <!--   <pardef n="S__canta">
       <e>
 	<p>
 	  <l>vi</l>
@@ -1200,7 +1208,7 @@
       </e>
 
 
-    </pardef>
+    </pardef> -->
     <pardef n="S__cantate">
       <e>
 	<p>
@@ -1237,7 +1245,7 @@
       <e>
 	<p>
 	  <l>le</l>
-	  <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/></r>
+	  <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></r>
 	</p>
       </e>
 
@@ -1322,10 +1330,10 @@
       </e>
 
 
-      <e r="LR">
+      <e>
 	<p>
-	  <l>se</l>
-	  <r>si<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sp"/><j/></r>
+	  <l>glie</l>
+	  <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sp"/><j/></r>
 	</p>
 	<par n="S__cantarsi"/> 
       </e>
