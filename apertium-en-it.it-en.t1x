@@ -95,6 +95,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
       <cat-item tags="prn.tn.mf.*"/>
       <cat-item tags="prn.itg.*"/>
       <cat-item tags="prn.pos.*"/>
+      <cat-item tags="prn.tn.pos.*"/>
     </def-cat>
     
     <def-cat n="enc">
