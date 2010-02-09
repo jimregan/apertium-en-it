@@ -1335,11 +1335,11 @@
 	  <l>glie</l>
 	  <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sp"/><j/></r>
 	</p>
-	<par n="S__cantarsi"/> 
+	<par n="S__cantarglie"/> 
       </e>
 
 
-      <e r="RL">
+    <!--  <e r="RL">
 	<p>
 	  <l>se</l>
 	  <r>si<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/><j/></r>
@@ -1354,10 +1354,107 @@
 	  <r>si<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/><j/></r>
 	</p>
 	<par n="S__cantarsi"/> 
-      </e>
+      </e> -->
 
 
     </pardef>
+    <pardef n="S__da">
+      <e c="Para las imperativos monosílabos">
+        <p>
+          <l>mmi</l>
+          <r>prpers<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>mme</l>
+          <r>prpers<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="sg"/><j/></r>
+        </p>
+        <par n="S__cantarglie"/>
+      </e>
+      <e>
+        <p>
+          <l>cci</l>
+          <r>prpers<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>cce</l>
+          <r>prpers<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="pl"/><j/></r>
+        </p>
+        <par n="S__cantarglie"/>
+      </e>
+
+      <e>
+        <p>
+          <l>tti</l>
+          <r>prpers<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tte</l>
+          <r>prpers<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="sg"/><j/></r>
+        </p>
+        <par n="S__cantarglie"/>
+      </e>
+
+      <e>
+        <p>
+          <l>lle</l>
+          <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lle</l>
+          <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>gli</l>
+          <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>glie</l>
+          <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sp"/><j/></r>
+        </p>
+        <par n="S__cantarglie"/>
+      </e>
+
+      <e>
+        <p>
+          <l>lla</l>
+          <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>gli</l>
+          <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>llo</l>
+          <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>llo</l>
+          <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="nt"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="salve__ij">
       <e>
 	<p>
