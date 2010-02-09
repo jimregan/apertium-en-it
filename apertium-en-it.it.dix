@@ -1465,6 +1465,308 @@
 
 
     </pardef>
+   <pardef n="albanes/e__n">
+      <e>
+	<p>
+	  <l>i</l>
+	  <r>e<s n="n"/><s n="mf"/><s n="pl"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>e</l>
+	  <r>e<s n="n"/><s n="mf"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+    </pardef>
+    <pardef n="tasc/a__n">
+      <e>
+	<p>
+	  <l>a</l>
+	  <r>a<s n="n"/><s n="f"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>he</l>
+	  <r>a<s n="n"/><s n="f"/><s n="pl"/></r>
+	</p>
+      </e>
+
+
+    </pardef>
+    <pardef n="tedesc/o__n">
+      <e>
+	<p>
+	  <l>hi</l>
+	  <r>o<s n="n"/><s n="m"/><s n="pl"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>o</l>
+	  <r>o<s n="n"/><s n="m"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>a</l>
+	  <r>o<s n="n"/><s n="f"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>he</l>
+	  <r>o<s n="n"/><s n="f"/><s n="pl"/></r>
+	</p>
+      </e>
+
+
+    </pardef>
+    <pardef n="bambin/o__n">
+      <e>
+	<p>
+	  <l>i</l>
+	  <r>o<s n="n"/><s n="m"/><s n="pl"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>o</l>
+	  <r>o<s n="n"/><s n="m"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>a</l>
+	  <r>o<s n="n"/><s n="f"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>e</l>
+	  <r>o<s n="n"/><s n="f"/><s n="pl"/></r>
+	</p>
+      </e>
+
+  </pardef>
+    <pardef n="segretari/o__n">
+      <e>
+        <p>
+          <l></l>
+          <r>o<s n="n"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="n"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>a</l>
+          <r>o<s n="n"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>e</l>
+          <r>o<s n="n"/><s n="f"/><s n="pl"/></r>
+        </p>
+      </e>
+
+
+    </pardef>
+
+    <pardef n="sagg/io__n">
+      <e>
+	<p>
+	  <l>i</l>
+	  <r>io<s n="n"/><s n="m"/><s n="pl"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>io</l>
+	  <r>io<s n="n"/><s n="m"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>ia</l>
+	  <r>io<s n="n"/><s n="f"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>e</l>
+	  <r>io<s n="n"/><s n="f"/><s n="pl"/></r>
+	</p>
+      </e>
+
+    </pardef>
+    <pardef n="abbagli/o__n">
+      <e>
+	<p>
+	  <l></l>
+	  <r>o<s n="n"/><s n="m"/><s n="pl"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>o</l>
+	  <r>o<s n="n"/><s n="m"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+    </pardef>
+    <pardef n="mugnai/o__n">
+      <e>
+	<p>
+	  <l></l>
+	  <r>o<s n="n"/><s n="m"/><s n="pl"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>o</l>
+	  <r>o<s n="n"/><s n="m"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>e</l>
+	  <r>o<s n="n"/><s n="f"/><s n="pl"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>a</l>
+	  <r>o<s n="n"/><s n="f"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+    </pardef>
+    <pardef n="abbain/o__n">
+      <e>
+	<p>
+	  <l>i</l>
+	  <r>o<s n="n"/><s n="m"/><s n="pl"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>o</l>
+	  <r>o<s n="n"/><s n="m"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+    </pardef>
+    <pardef n="fung/o__n">
+      <e>
+	<p>
+	  <l>hi</l>
+	  <r>o<s n="n"/><s n="m"/><s n="pl"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>o</l>
+	  <r>o<s n="n"/><s n="m"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+    </pardef>
+    <pardef n="sopran/o__n">
+      <e>
+	<p>
+	  <l>o</l>
+	  <r>o<s n="n"/><s n="mf"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>i</l>
+	  <r>o<s n="n"/><s n="mf"/><s n="pl"/></r>
+	</p>
+      </e>
+
+
+    </pardef>
+    <pardef n="cas/a__n">
+      <e>
+	<p>
+	  <l>e</l>
+	  <r>a<s n="n"/><s n="f"/><s n="pl"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>a</l>
+	  <r>a<s n="n"/><s n="f"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+    </pardef>
+    <pardef n="bancarott/a__n">
+      <e>
+	<p>
+	  <l>a</l>
+	  <r>a<s n="n"/><s n="mf"/><s n="sp"/></r>
+	</p>
+      </e>
+
+
+    </pardef>
     <pardef n="asma__n">
       <e>
 	<p>
