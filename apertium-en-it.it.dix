@@ -923,9 +923,18 @@
 	</p>
       </e>
 
+      <e>
+	<p>
+	  <l>se</l>
+	  <r>si<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/><j/></r>
+	</p>
+	<par n="S__cantandosi"/> 
+      </e>
+
+     
 
     </pardef>
-    <pardef n="S__cantare">
+  <!--  <pardef n="S__cantar">mireia ajuntat en S__cantar, era la traducció del castellà S__cantár
       <e>
 	<p>
 	  <l>me</l>
@@ -998,8 +1007,8 @@
       </e>
 
 
-    </pardef>
-    <pardef n="S__cantiamo">
+    </pardef> -->
+ <!--   <pardef n="S__cantiamo"> equival a S__cantémo
       <e>
 	<p>
 	  <l>ci</l>
@@ -1034,16 +1043,16 @@
       </e>
 
 
-      <e r="LR">
+      <e>
 	<p>
-	  <l>se</l>
-	  <r>si<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sp"/><j/></r>
+	  <l>glie</l>
+	  <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sp"/><j/></r>
 	</p>
-	<par n="S__cantarsi"/> 
+	<par n="S__cantarglie"/> 
       </e>
 
 
-      <e r="RL">
+    <!-+-  <e r="RL">
 	<p>
 	  <l>se</l>
 	  <r>si<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/><j/></r>
@@ -1058,11 +1067,11 @@
 	  <r>si<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/><j/></r>
 	</p>
 	<par n="S__cantarsi"/> 
-      </e>
+      </e> -+->
 
 
-    </pardef>
-    <pardef n="S__cantiamo">
+    </pardef> -->
+    <pardef n="S__cantiamo"><!--complet -->
       <e>
 	<p>
 	  <l>mi</l>
@@ -1078,7 +1087,21 @@
 	</p>
 	<par n="S__cantandomi"/> 
       </e>
+ <e>
+	<p>
+	  <l>ci</l>
+	  <r>prpers<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="pl"/></r>
+	</p>
+      </e>
 
+
+      <e>
+	<p>
+	  <l>ce</l>
+	  <r>prpers<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="pl"/><j/></r>
+	</p>
+	<par n="S__cantandomi"/> 
+      </e>
 
       <e>
 	<p>
@@ -1095,7 +1118,21 @@
 	</p>
 	<par n="S__cantandoti"/> 
       </e>
+ <e>
+	<p>
+	  <l>vi</l>
+	  <r>prpers<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="pl"/></r>
+	</p>
+      </e>
 
+
+      <e>
+	<p>
+	  <l>ve</l>
+	  <r>prpers<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="pl"/><j/></r>
+	</p>
+	<par n="S__cantandoti"/> 
+      </e>
 
       <e>
 	<p>
