@@ -429,6 +429,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
       <attr-item tags="tn"/>
       <attr-item tags="itg"/>
       <attr-item tags="pos"/>
+      <attr-item tags="tn.pos"/>
     </def-attr>
     <def-attr n="pers">
       <attr-item tags="p1"/>
@@ -441,6 +442,7 @@ Si se quiere empezar a tratar las frase impersonales en el t2x, habría que hace
       <attr-item tags="f"/>
       <attr-item tags="mf"/>
       <attr-item tags="nt"/>
+      <attr-item tags="GD"/>
     </def-attr>
 
     <def-attr n="nbr">
