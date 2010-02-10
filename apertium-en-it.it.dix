@@ -71382,11 +71382,11 @@
       </e>
 
    </pardef>
-    <pardef n="quant/o__adj">
+    <pardef n="quant/o__det">
       <e>
 	<p>
 	  <l>o</l>
-	  <r>o<s n="adj"/><s n="itg"/><s n="m"/><s n="sg"/></r>
+	  <r>o<s n="det"/><s n="itg"/><s n="m"/><s n="sg"/></r>
 	</p>
       </e>
 
@@ -71394,7 +71394,7 @@
       <e>
 	<p>
 	  <l>a</l>
-	  <r>o<s n="adj"/><s n="itg"/><s n="f"/><s n="sg"/></r>
+	  <r>o<s n="det"/><s n="itg"/><s n="f"/><s n="sg"/></r>
 	</p>
       </e>
 
@@ -71402,7 +71402,7 @@
       <e>
 	<p>
 	  <l>i</l>
-	  <r>o<s n="adj"/><s n="itg"/><s n="m"/><s n="pl"/></r>
+	  <r>o<s n="det"/><s n="itg"/><s n="m"/><s n="pl"/></r>
 	</p>
       </e>
 
@@ -71410,7 +71410,7 @@
       <e>
 	<p>
 	  <l>e</l>
-	  <r>o<s n="adj"/><s n="itg"/><s n="f"/><s n="pl"/></r>
+	  <r>o<s n="det"/><s n="itg"/><s n="f"/><s n="pl"/></r>
 	</p>
       </e>
 
@@ -91770,7 +91770,7 @@
     <e lm="quadrato"><i>quadrat</i><par n="abbandonat/o__adj"/></e>
     <e lm="quadrilatero"><i>quadrilater</i><par n="abbandonat/o__adj"/></e>
     <e lm="quale"><i>qual</i><par n="qual/e__adj"/></e>
-    <e lm="quanto"><i>quant</i><par n="quant/o__adj"/></e>
+    <e lm="quanto"><i>quant</i><par n="quant/o__det"/></e>
     <e lm="quantitativo"><i>quantitativ</i><par n="abbandonat/o__adj"/></e>
     <e lm="quarto"><i>quart</i><par n="prim/o__det"/></e>
     <e lm="quattordicesimo"><i>quattordicesim</i><par n="prim/o__det"/></e>
