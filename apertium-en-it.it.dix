@@ -77607,6 +77607,32 @@
 	</p>
       </e>
     </pardef>
+    <pardef n="/lo_stesso__det">
+      <e>
+        <p>
+          <l>lo<b/>stesso</l>
+          <r>lo<b/>stesso<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>la<b/>stessa</l>
+          <r>lo<b/>stesso<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i<b/>stessi</l>
+          <r>lo<b/>stesso<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>le<b/>stesse</l>
+          <r>lo<b/>stesso<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
 
   </pardefs>
 
@@ -77649,6 +77675,8 @@
     <e lm="meno"><i>meno</i><par n="meno__det"/></e>
     <e lm="più"><i>più</i><par n="meno__det"/></e>
     <e lm="abbastanza" r="RL"><i>abbastanza</i><par n="meno__det"/></e>
+    <e lm="la maggioranza di"><p><l>la<b/>maggioranza<b/><a/>di</l><r>la<b/>maggioranza<b/>di</r></p><par n="meno__det"/></e>
+    <e lm="lo stesso"><i></i><par n="/lo_stesso__det"/></e>
 
 <!--       ******************************      (rel) group      ******************************    -->
 
@@ -91960,8 +91988,8 @@
     <e lm="svedese"><i>svedes</i><par n="albanes/e__adj"/></e>
     <e lm="taciturno"><i>taciturn</i><par n="abbandonat/o__adj"/></e>
     <e lm="tailandese"><i>tailandes</i><par n="albanes/e__adj"/></e>
-    <e lm="tanto"><i>tant</i><par n="abbandonat/o__adj"/></e>
-    <e lm="tardio"><i>tardi</i><par n="tropp/o__det"/></e>
+    <e lm="tanto"><i>tant</i><par n="tropp/o__det"/></e>
+    <e lm="tardio"><i>tardi</i><par n="abbandonat/o__adj"/></e>
     <e lm="tardivo"><i>tardiv</i><par n="abbandonat/o__adj"/></e>
     <e lm="tattile"><i>tattil</i><par n="albanes/e__adj"/></e>
     <e lm="teatrale"><i>teatral</i><par n="albanes/e__adj"/></e>
