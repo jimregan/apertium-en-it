@@ -76646,6 +76646,14 @@
       </e> 	 
 	  	 
     </pardef>
+    <pardef n="meno__det"> 	 
+      <e> 	 
+        <p> 	 
+          <l></l> 	 
+          <r><s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r> 	 
+        </p> 	 
+      </e>
+    </pardef>
     <pardef n="ast/enersi__vblex">
       <e>
 	<p>
@@ -77637,6 +77645,9 @@
     <e lm="un altro"><par n="/un_altro__det"/></e>
     <e lm="vario"><i>vari</i><par n="vari/o__det"/></e>
     <e lm="vostro"><i>vostr</i><par n="vostr/o__det"/></e>
+    <e lm="meno"><i>meno</i><par n="meno__det"/></e>
+    <e lm="più"><i>più</i><par n="meno__det"/></e>
+    <e lm="abbastanza" r="RL"><i>abbastanza</i><par n="meno__det"/></e>
 
 <!--       ******************************      (rel) group      ******************************    -->
 
