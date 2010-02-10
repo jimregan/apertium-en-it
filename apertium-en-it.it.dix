@@ -131505,6 +131505,7 @@
     <e lm="il che"><i>il che</i><par n="il_che__rel"/></e>
     <e lm="il cui"><par n="/il_cui__rel"/></e>
     <e lm="che"><i>che</i><par n="che__rel"/></e>
+    <e lm="che" r="RL"><p><l>che</l><r>che<s n="det"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
 
 <!--       ******************************      (np) group      ******************************    -->
     <e lm="Guglielmo Tell"><i>Guglielmo<b/>Tell</i><par n="Juan__np"/></e>
