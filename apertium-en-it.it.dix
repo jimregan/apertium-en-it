@@ -69804,14 +69804,25 @@
 
     </pardef>
     <pardef n="extra__adj">
-      <e>
+      <e r="LR">
 	<p>
 	  <l></l>
 	  <r><s n="adj"/><s n="mf"/><s n="sp"/></r>
 	</p>
       </e>
 
-
+      <e r="RL">
+	<p>
+	  <l></l>
+	  <r><s n="adj"/><s n="mf"/><s n="sg"/></r>
+	</p>
+      </e>
+      <e r="RL">
+	<p>
+	  <l></l>
+	  <r><s n="adj"/><s n="mf"/><s n="pl"/></r>
+	</p>
+      </e>
     </pardef>
 
     <pardef n="acconc/io__adj">
@@ -90716,6 +90727,7 @@
 
     <e lm="entrambi"><i>entramb</i><par n="entramb/i_i__det"/></e>
     <e lm="abbronzato"><i>abbronzat</i><par n="abbandonat/o__adj"/></e>
+    <e lm="atto"><i>att</i><par n="abbandonat/o__adj"/></e>
     <e lm="positivo"><i>positiv</i><par n="abbandonat/o__adj"/></e>
     <e lm="negativo"><i>negativ</i><par n="abbandonat/o__adj"/></e>
     <e lm="acuto"><i>acut</i><par n="abbandonat/o__adj"/></e>
