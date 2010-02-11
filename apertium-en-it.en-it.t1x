@@ -15122,7 +15122,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	  <otherwise>
 	    <let>
 	      <clip pos="3" side="tl" part="lem"/>
-	      <lit v ="para"/>
+	      <lit v ="per"/>
 	    </let>
 	  </otherwise>
 	</choose>
@@ -15274,7 +15274,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	  <otherwise>
 	    <let>
 	      <clip pos="3" side="tl" part="lem"/>
-	      <lit v ="para"/>
+	      <lit v ="per"/>
 	    </let>
 	  </otherwise>
 	</choose>
@@ -15431,7 +15431,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	  <otherwise>
 	    <let>
 	      <clip pos="2" side="tl" part="lem"/>
-	      <lit v ="para"/>
+	      <lit v ="per"/>
 	    </let>
 	  </otherwise>
 	</choose>
@@ -15547,7 +15547,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	  <otherwise>
 	    <let>
 	      <clip pos="2" side="tl" part="lem"/>
-	      <lit v ="para"/>
+	      <lit v ="per"/>
 	    </let>
 	  </otherwise>
 	</choose>
@@ -15696,7 +15696,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	  <otherwise>
 	    <let>
 	      <clip pos="4" side="tl" part="lem"/>
-	      <lit v ="para"/>
+	      <lit v ="per"/>
 	    </let>
 	  </otherwise>
 	</choose>
@@ -15876,7 +15876,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	  <otherwise>
 	    <let>
 	      <clip pos="4" side="tl" part="lem"/>
-	      <lit v ="para"/>
+	      <lit v ="per"/>
 	    </let>
 	  </otherwise>
 	</choose>
@@ -17687,7 +17687,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	</call-macro>
 	<let>				<!-- canvi de preposició-->
 	  <clip pos="1" side="tl" part="lem"/>
-	  <lit v ="para"/>
+	  <lit v ="per"/>
 	</let>
 	<out>
 	  <chunk name="pr" case="caseFirstWord">
@@ -17789,7 +17789,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	</call-macro>
 	<let>				<!-- canvi de preposició-->
 	  <clip pos="1" side="tl" part="lem"/>
-	  <lit v ="para"/>
+	  <lit v ="per"/>
 	</let>
 	<out>
 	  <chunk name="pr" case="caseFirstWord">
