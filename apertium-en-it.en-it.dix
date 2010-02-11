@@ -315,7 +315,7 @@
 <e r="LR"><p><l>such<b/>a<s n="det"/><s n="ind"/></l><r>tale<s n="det"/><s n="dem"/><s n="mf"/><s n="ND"/></r></p></e>
 <e r="LR"><p><l>tenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>decimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>tenth<s n="det"/></l><r>decimo<s n="det"/></r></p></e>
-<e r="LR"><p><l>that<s n="det"/><s n="dem"/></l><r>quello<s n="det"/><s n="dem"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>that<s n="det"/><s n="dem"/></l><r>quello<s n="det"/><s n="dem"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>that<s n="det"/></l><r>quello<s n="det"/></r></p></e>
 <e r="RL"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>il<s n="det"/><s n="def"/></r></p></e>
 <e r="LR"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>il<s n="det"/><s n="def"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -327,7 +327,7 @@
 <e r="LR"><p><l>thirtieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>trentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>thirtieth<s n="det"/></l><r>trentesimo<s n="det"/></r></p></e>
 <e r="RL"><p><l>this<s n="det"/></l><r>questo<s n="det"/></r></p></e>
-<e r="LR"><p><l>this<s n="det"/></l><r>questo<s n="det"/><s n="dem"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>this<s n="det"/></l><r>questo<s n="det"/><s n="dem"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="LR"><p><l>thousandth<s n="det"/><s n="ord"/><s n="sp"/></l><r>millesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>thousandth<s n="det"/></l><r>millesimo<s n="det"/></r></p></e>
 <e r="LR"><p><l>three<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>trecentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -21527,6 +21527,7 @@
 <e><p><l>zone<s n="n"/></l><r>zona<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bye<s n="ij"/></l><r>arrivederci<s n="ij"/></r></p></e>
 <e><p><l>ok<s n="ij"/></l><r>ok<s n="ij"/></r></p></e>
+<e r="LR"><p><l>okay<s n="ij"/></l><r>ok<s n="ij"/></r></p></e>
 <e><p><l>Merry<b/>Christmas<s n="ij"/></l><r>Buon<b/>Natale<s n="ij"/></r></p></e>
 <e><p><l>good<b/>morning<s n="ij"/></l><r>buon<b/>giorno<s n="ij"/></r></p></e>
 <e r="LR"><p><l>thank<b/>you<s n="ij"/></l><r>grazie<s n="ij"/></r></p></e>
