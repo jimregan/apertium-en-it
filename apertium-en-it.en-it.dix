@@ -217,7 +217,6 @@
 <e r="RL"><p><l>eighth<s n="det"/></l><r>ottavo<s n="det"/></r></p></e>
 <e r="LR"><p><l>eightieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>ottantesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>eightieth<s n="det"/></l><r>ottantesimo<s n="det"/></r></p></e>
-<e c="frases negatives" r="RL"><p><l>either<s n="det"/><s n="ind"/><s n="sp"/></l><r>nessuno<s n="det"/><s n="ind"/></r></p></e>
 <e r="RL"><p><l>either<s n="det"/><s n="ind"/></l><r>qualsiasi<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>eleventh<s n="det"/><s n="ord"/><s n="sp"/></l><r>undicesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>eleventh<s n="det"/></l><r>undicesimo<s n="det"/></r></p></e>
@@ -270,7 +269,8 @@
 <e r="RL"><p><l>ninetieth<s n="det"/></l><r>novantesimo<s n="det"/></r></p></e>
 <e r="LR"><p><l>ninth<s n="det"/><s n="ord"/><s n="sp"/></l><r>nono<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>ninth<s n="det"/></l><r>nono<s n="det"/></r></p></e>
-<e><p><l>no<s n="det"/><s n="ind"/><s n="sp"/></l><r>nessuno<s n="det"/><s n="ind"/></r></p></e>
+<e r="RL"><p><l>no<s n="det"/><s n="ind"/><s n="sp"/></l><r>nessuno<s n="det"/><s n="ind"/></r></p></e>
+<e r="LR"><p><l>no<s n="det"/><s n="ind"/><s n="sp"/></l><r>nessuno<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="LR"><p><l>nth<s n="det"/><s n="ord"/><s n="sp"/></l><r>ennesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>nth<s n="det"/></l><r>ennesimo<s n="det"/></r></p></e>
 <e r="LR"><p><l>one<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>centesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
