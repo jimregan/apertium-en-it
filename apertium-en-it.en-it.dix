@@ -11122,6 +11122,11 @@
 <e c="per ara de en-ca es genera només 'vostre'"><p><l>yours<s n="adj"/></l><r>tuo<s n="adj"/></r></p></e>
 <e r="RL"><p><l>yours<s n="adj"/></l><r>vostro<s n="adj"/></r></p></e>
 <e><p><l>yugoslav<s n="adj"/></l><r>iugoslavo<s n="adj"/></r></p></e>
+<e r="LR"><p><l>yugoslav<s n="n"/></l><r>iugoslavo<s n="n"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>yugoslavian<s n="n"/></l><r>iugoslavo<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>yugoslavian<s n="n"/></l><r>iugoslavo<s n="n"/></r></p></e>
+<e r="LR"><p><l>Andalusian<s n="n"/></l><r>andaluso<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>Andalusian<s n="n"/></l><r>andaluso<s n="n"/></r></p></e>
 <e><p><l>have<s n="vbhaver"/></l><r>avere<s n="vbhaver"/></r></p></e>
 <e><p><l>have<g><b/>to</g><s n="vbmod"/></l><r>dovere<s n="vbmod"/></r></p></e>
 <e r="LR"><p><l>should<s n="vaux"/></l><r>dovere<s n="vbmod"/></r></p></e>
@@ -14561,7 +14566,7 @@
 <e r="RL"><p><l>anaesthetist<s n="n"/></l><r>anestesista<s n="n"/></r></p></e>
 <e r="LR"><p><l>anaesthetist<s n="n"/></l><r>anestesista<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>analogy<s n="n"/></l><r>analogia<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>analysis<s n="n"/><s n="pl"/></l><r>analisi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>analysis<s n="n"/></l><r>analisi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>analysis<s n="n"/><s n="ND"/></l><r>analisi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>analyst<s n="n"/></l><r>analista<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>analyst<s n="n"/></l><r>analista<s n="n"/></r></p></e>
@@ -14895,6 +14900,7 @@
 <e r="LR"><p><l>ballroom<b/>dancer<s n="n"/></l><r>ballerino<g><b/>di<b/>liscio</g><s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>ballroom<b/>dancer<s n="n"/></l><r>ballerino<g><b/>di<b/>liscio</g><s n="n"/></r></p></e>
 <e><p><l>balsam<s n="n"/></l><r>balsamo<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>balm<s n="n"/></l><r>balsamo<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>bamboo<s n="n"/><s n="sg"/></l><r>bambù<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>bamboo<s n="n"/><s n="pl"/></l><r>bambù<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>bamboo<s n="n"/><s n="ND"/></l><r>bambù<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -14920,6 +14926,7 @@
 <e r="LR"><p><l>barbarism<s n="n"/><s n="pl"/></l><r>barbarie<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>barber<s n="n"/></l><r>barbiere<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bargain<s n="n"/></l><r>affare<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>affair<s n="n"/></l><r>affare<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bargaining<s n="n"/></l><r>contrattazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>barium<s n="n"/></l><r>bario<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>barley<s n="n"/></l><r>orzo<s n="n"/><s n="m"/></r></p></e>
@@ -19720,6 +19727,7 @@
 <e r="LR"><p><l>radioactivity<s n="n"/><s n="sg"/></l><r>radioattività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>radioactivity<s n="n"/><s n="pl"/></l><r>radioattività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>radiography<s n="n"/></l><r>radiografia<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>x-ray<s n="n"/></l><r>radiografia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>radium<s n="n"/></l><r>radio<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e><p><l>rage<s n="n"/></l><r>collera<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>balustrade<s n="n"/></l><r>balaustra<s n="n"/><s n="f"/></r></p></e>
@@ -20998,9 +21006,9 @@
 <e><p><l>torture<s n="n"/></l><r>tortura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>total<s n="n"/></l><r>valore<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>totalitarianism<s n="n"/></l><r>totalitarismo<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>totality<s n="n"/><s n="ND"/></l><r>totalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>totality<s n="n"/><s n="sg"/></l><r>totalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>totality<s n="n"/><s n="pl"/></l><r>totalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+<e><p><l>totality<s n="n"/></l><r>totalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+<e r="LR"><p><l>whole<s n="n"/></l><r>totalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+<e><p><l>wind<b/>direction<s n="n"/></l><r>direzione<g><b/>del<b/>vento</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>totemism<s n="n"/></l><r>totemismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tourism<s n="n"/></l><r>turismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tourism<s n="n"/></l><r>autovettura<s n="n"/><s n="f"/></r></p></e>
