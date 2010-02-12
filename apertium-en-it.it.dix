@@ -75741,11 +75741,21 @@
 
 
     </pardef>
-    <pardef n="te__prn">
+    <pardef n="tu__prn">
       <e>
 	<p>
 	  <l></l>
 	  <r><s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+    </pardef>
+    <pardef n="te__prn">
+      <e>
+	<p>
+	  <l></l>
+	  <r><s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r>
 	</p>
       </e>
 
@@ -93527,7 +93537,7 @@
     <e r="LR" lm="colui"><i>co</i><par n="/lui__prn"/></e>
     <e lm="con me"><i>con<b/>me</i><par n="io__prn"/></e>
     <e lm="con se"><i>con<b/>se</i><par n="seco__prn"/></e>
-    <e lm="con te"><i>con<b/>te</i><par n="te__prn"/></e>
+    <e lm="con te"><i>con<b/>te</i><par n="tu__prn"/></e>
     <e lm="codesto"><i>codest</i><par n="quell/o__prn"/></e>
     <e lm="cosa"><i>cosa</i><par n="che__prn"/></e>
     <e lm="costui"><i>cost</i><par n="cost/ui__prn"/></e>
@@ -93574,8 +93584,8 @@
     <e lm="tale"><i>tal</i><par n="tal/e__prn"/></e>
     <e lm="te"><p><l>te</l><r>prpers</r></p><par n="te__prn"/></e>
     <e lm="te"><p><l>te</l><r>prpers</r></p><par n="te__prn"/></e>
-    <e r="LR" lm="teco"><i>teco</i><par n="te__prn"/></e>
-    <e lm="tu"><p><l>tu</l><r>prpers</r></p><par n="te__prn"/></e>
+    <e r="LR" lm="teco"><i>teco</i><par n="tu__prn"/></e>
+    <e lm="tu"><p><l>tu</l><r>prpers</r></p><par n="tu__prn"/></e>
     <e lm="tutti quanti"><i>tutti<b/>quanti</i><par n="qualsivoglia__prn"/></e>
     <e lm="tutto"><i>tutt</i><par n="altr/o__prn"/></e>
     <e lm="uno"><i>un</i><par n="qualcun/o__prn"/></e>
