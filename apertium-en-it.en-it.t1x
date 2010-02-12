@@ -15019,7 +15019,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </test>
 	    <let>
 	      <clip pos="2" side="tl" part="lem"/>
-	      <lit v="mí"/>
+	      <lit v="me"/>
 	    </let>
 	  </when>
 	  <when>
@@ -15037,7 +15037,37 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </test>
 	    <let>
 	      <clip pos="2" side="tl" part="lem"/>
-	      <lit v="ti"/>
+	      <lit v="te"/>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+	      <and>
+		<equal>
+		  <clip pos="2" side="sl" part="pers"/> 
+		  <lit-tag v="p3"/>
+		</equal>
+		<equal>
+		  <clip pos="2" side="sl" part="gen"/> 
+		  <lit-tag v="nt"/>
+		</equal>
+		<equal>
+		  <clip pos="2" side="sl" part="nbr"/> 
+		  <lit-tag v="sg"/>
+		</equal>
+	      </and>
+	    </test>
+	    <let>
+	      <clip pos="2" side="tl" part="lem"/>
+	      <lit v="esso"/>
+	    </let>
+	    <let>
+	      <clip pos="2" side="tl" part="gen"/>
+	      <lit v="m"/>
+	    </let>
+	    <let>
+	      <clip pos="2" side="tl" part="nbr"/>
+	      <lit v="sg"/>
 	    </let>
 	  </when>
 	</choose>

@@ -74437,7 +74437,7 @@
 
       <e r="RL">
 	<p>
-	  <l><a/>gli</l>
+	  <l><a/>li</l>
 	  <r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="pl"/></r>
 	</p>
       </e>
@@ -93532,6 +93532,7 @@
     <e lm="cosa"><i>cosa</i><par n="che__prn"/></e>
     <e lm="costui"><i>cost</i><par n="cost/ui__prn"/></e>
     <e lm="esso"><i>ess</i><par n="altr/o__prn"/></e>
+    <e lm="esso" r="RL"><p><l>esso</l><r>esso<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="il loro"><par n="/il_loro__prn"/></e>
     <e lm="il mio"><par n="/il_mio__prn"/></e>
     <e lm="il nostro"><par n="/il_nostro__prn"/></e>
