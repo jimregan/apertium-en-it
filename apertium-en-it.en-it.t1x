@@ -14977,7 +14977,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </test>
 	    <let>
 	      <clip pos="2" side="tl" part="gen"/>
-	      <lit-tag v="m"/><!--with them : amb ells (i no elles) / with us : con nosotros-->
+	      <lit-tag v="mf"/><!--with them : amb ells (i no elles) / with us : con nosotros-->
 	    </let>
 	  </when>
 	  <when>
