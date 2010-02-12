@@ -15063,11 +15063,11 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </let>
 	    <let>
 	      <clip pos="2" side="tl" part="gen"/>
-	      <lit v="m"/>
+	      <lit-tag v="m"/>
 	    </let>
 	    <let>
 	      <clip pos="2" side="tl" part="nbr"/>
-	      <lit v="sg"/>
+	      <clip pos="2" side="sl" part="nbr"/>
 	    </let>
 	  </when>
 	</choose>
