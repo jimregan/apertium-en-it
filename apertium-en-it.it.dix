@@ -74285,6 +74285,32 @@
 
 
     </pardef>
+    <pardef n="/lui__prn_pers">
+      <e>
+	<p>
+	  <l>lui</l>
+	  <r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>lei</l>
+	  <r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>loro</l>
+	  <r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/><s n="pl"/></r>
+	</p>
+      </e>
+
+
+    </pardef>
     <pardef n="/egli__prn">
       <e>
 	<p>
@@ -93483,7 +93509,7 @@
 
 <!--       ******************************      (prn) group      ******************************    -->
 
-    <e lm="lui"><i></i><par n="/lui__prn"/></e>
+    <e lm="lui"><i></i><par n="/lui__prn_pers"/></e>
     <e lm="egli"><i></i><par n="/egli__prn"/></e>
     <e lm="lo"><i></i><par n="/lo__prn"/></e>
     <e r="RL" lm="si"><p><l><a/>si</l><r>si</r></p><par n="si__prn"/></e>
