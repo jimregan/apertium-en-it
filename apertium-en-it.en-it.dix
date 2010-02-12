@@ -14593,9 +14593,8 @@
 <e c="també podria ser 'call'"><p><l>announcement<s n="n"/></l><r>invito<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>annoyance<s n="n"/></l><r>disturbo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>annunciation<s n="n"/></l><r>annunciazione<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>anomaly<s n="n"/><s n="sg"/></l><r>anormalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>anomaly<s n="n"/><s n="pl"/></l><r>anormalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e r="RL"><p><l>anomaly<s n="n"/><s n="ND"/></l><r>anormalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+<e><p><l>anomaly<s n="n"/></l><r>anomalia<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>abnormality<s n="n"/></l><r>anormalità<s n="n"/><s n="f"/></r></p><s n="SP"/></e>
 <e><p><l>anonymity<s n="n"/></l><r>anonimato<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>anonymous<s n="n"/></l><r>anonimo<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>anonymous<s n="n"/></l><r>anonimo<s n="n"/></r></p></e>
@@ -18072,6 +18071,7 @@
 <e r="RL"><p><l>spirit<b/>level<s n="n"/></l><r>livella<g><b/>a<b/>bolla</g><s n="n"/><s n="f"/></r></p></e>
     <e> <p><l>H1N1<s n="n"/><s n="acr"/></l><r>H1N1<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e> <p><l>A/H1N1<s n="n"/><s n="acr"/></l><r>A/H1N1<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e> <p><l>A/H5N1<s n="n"/><s n="acr"/></l><r>A/H5N1<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 <e><p><l>amenorrhoea<s n="n"/></l><r>amenorrea<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>dysmenorrhea<s n="n"/></l><r>dismenorrea<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>anti-inflammatory<s n="n"/></l><r>antinfiammatorio<s n="n"/><s n="m"/></r></p></e>
@@ -22720,7 +22720,6 @@
 <e><p><l>acrosome<s n="n"/></l><r>acrosoma<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>way<g><b/>of<b/>life</g><s n="n"/></l><r>modo<g><b/>di<b/>vita</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>abduction<s n="n"/></l><r>rapimento<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>abnormality<s n="n"/></l><r>anomalia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>abomination<s n="n"/></l><r>abominio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>abrasion<s n="n"/></l><r>abrasione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>abrogation<s n="n"/></l><r>abrogazione<s n="n"/><s n="f"/></r></p></e>
