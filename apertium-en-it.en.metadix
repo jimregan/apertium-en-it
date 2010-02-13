@@ -21353,6 +21353,7 @@
     <e lm="productivity"><i>productivit</i><par n="bab/y__n"/>    </e>
     <e lm="profession"><i>profession</i><par n="house__n"/>    </e>
     <e lm="professional"><i>professional</i><par n="house__n"/>    </e>
+    <e lm="language professional"><i>language<b/>professional</i><par n="house__n"/>    </e>
     <e lm="professor"><i>professor</i><par n="house__n"/>    </e>
     <e lm="profile"><i>profile</i><par n="house__n"/>    </e>
     <e lm="profit"><i>profit</i><par n="house__n"/>    </e>
@@ -23021,6 +23022,7 @@
     <e lm="U.N."><i>U.N.</i><par n="BBC__n"/>    </e>
     <e lm="UEFA"><i>UEFA</i><par n="BBC__n"/>    </e>
     <e lm="UN"><i>UN</i><par n="BBC__n"/>    </e>
+    <e lm="EU"><i>EU</i><par n="BBC__n"/>    </e>
     <e lm="VAT"><i>VAT</i><par n="BBC__n"/>    </e>
     
 <!-- interjections -->
@@ -27782,6 +27784,7 @@
     <e lm="about"><i>about</i><par n="at__pr"/>    </e>
     <e lm="rather than"><i>rather<b/>than</i><par n="at__pr"/></e>
     <e lm="more than"><i>more<b/>than</i><par n="at__pr"/></e>
+    <e lm="for more than"><i>for<b/>more<b/>than</i><par n="at__pr"/></e>
     <e lm="less than"><i>less<b/>than</i><par n="at__pr"/></e>
     <e lm="other than"><i>other<b/>than</i><par n="at__pr"/></e>
     <e lm="via"><i>via</i><par n="at__pr"/></e>
@@ -28103,6 +28106,8 @@
     <e lm="Second World War">	<i>Second<b/>World<b/>War</i> 	<par n="Linux__np"/>       </e>
     <e lm="Cold War">	<i>Cold<b/>War</i> 	<par n="Linux__np"/>       </e>
     <e lm="Magna Carta">	<i>Magna<b/>Carta</i> 	<par n="Linux__np"/>       </e>
+    <e lm="Corte dei conti">	<i>Corte<b/>dei<b/>conti</i> 	<par n="Linux__np"/>       </e>
+    <e lm="European Court of Auditors">	<i>European<b/>Court<b/>of<b/>Auditors</i> 	<par n="Linux__np"/>       </e>
     <e lm="German Democratic Republic">	<i>German<b/>Democratic<b/>Republic</i> 	<par n="Linux__np"/>       </e>
     <e lm="Federal Republic of Germany">	<i>Federal<b/>Republic<b/>of<b/>Germany</i> 	<par n="Linux__np"/>       </e>
     <e lm="Facebook">	<i>Facebook</i> 	<par n="Linux__np"/>       </e>

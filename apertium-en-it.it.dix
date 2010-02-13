@@ -78341,6 +78341,8 @@
     <e lm="Polizia"><i>Polizia</i><par n="Polizia__np"/></e>
     <e lm="Seconda guerra mondiale"><i>Seconda<b/>guerra<b/>mondiale</i><par n="Polizia__np"/></e>
     <e lm="Guerra fredda"><i>Guerra<b/>fredda</i><par n="Polizia__np"/></e>
+    <e lm="Corte dei conti"><i>Corte<b/>dei<b/>conti</i><par n="Polizia__np"/></e>
+    <e lm="Corte dei conti europea"><i>Corte<b/>dei<b/>conti<b/>europea</i><par n="Polizia__np"/></e>
     <e lm="Magna Carta"><i>Magna<b/>Carta</i><par n="Polizia__np"/></e>
     <e lm="Polonia"><i>Polonia</i><par n="Europa__np"/></e>
     <e lm="Pontevedra"><i>Pontevedra</i><par n="Afghanistan__np"/></e>
@@ -89076,6 +89078,7 @@
     <e lm="produttore"><i>produtt</i><par n="agricolt/ore__n"/></e>
     <e lm="produzione"><i>produzion</i><par n="abbreviazion/e__n"/></e>
     <e lm="professionista"><i>professionist</i><par n="suicid/a__n"/></e>
+    <e lm="professionista delle lingue"><i>professionist</i><par n="suicid/a__n"/><p><l><b/>delle<b/>lingue</l><r><g><b/>delle<b/>lingue</g></r></p></e>
     <e lm="professore"><i>professor</i><par n="baron/e__n"/></e>
     <e lm="profeta"><i>profet</i><par n="eremit/a__n"/></e>
     <e lm="profilo"><i>profil</i><par n="abbain/o__n"/></e>
@@ -93712,6 +93715,7 @@
     <e lm="tranne"><i>tranne</i><par n="accanto__pr"/></e>
     <e r="LR" lm="verso"><i>verso</i><par n="accanto__pr"/></e>
     <e lm="vicino a"><i>vicino<b/></i><par n="/a__pr"/></e>
+    <e lm="per oltre"><i>per<b/>oltre</i><par n="accanto__pr"/></e>
 
 
 <!--       ******************************      (adv) group      ******************************    -->

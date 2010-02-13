@@ -7916,6 +7916,9 @@
 <e><i>Renée<s n="np"/><s n="ant"/></i></e>
 <e><p><l>Repsol<s n="np"/><s n="al"/></l><r>Repsol<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>Cold<b/>War<s n="np"/><s n="al"/></l><r>Guerra<b/>fredda<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>Corte<b/>dei<b/>conti<s n="np"/><s n="al"/></l><r>Corte<b/>dei<b/>conti<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+<e><p><l>Court<b/>of<b/>Auditors<s n="np"/><s n="al"/></l><r>Corte<b/>dei<b/>conti<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+<e><p><l>European<b/>Court<b/>of<b/>Auditors<s n="np"/><s n="al"/></l><r>Corte<b/>dei<b/>conti<b/>europea<s n="np"/><s n="al"/><s n="f"/></r></p></e>
 <e><p><l>Magna<b/>Carta<s n="np"/><s n="al"/></l><r>Magna<b/>Carta<s n="np"/><s n="al"/><s n="f"/></r></p></e>
 <e><p><l>United<b/>States<s n="np"/><s n="loc"/></l><r>Stati<b/>Uniti<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>United<b/>States<b/>of<b/>America<s n="np"/><s n="loc"/></l><r>Stati<b/>Uniti<b/>d'America<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
@@ -13944,7 +13947,8 @@
 <e><p><l>fiefdom<s n="n"/></l><r>infeudazione<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>aphthous<b/>ulcer<s n="n"/></l><r>afta<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
 <e><p><l>foot-and-mouth<b/>disease<s n="n"/></l><r>afta<b/>epizootica<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>AIDS<s n="n"/><s n="acr"/></l><r>aids<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>AIDS<s n="n"/><s n="acr"/></l><r>SIDA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+<e><p><l>EU<s n="n"/><s n="acr"/></l><r>UE<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 <e><p><l>wet<b/>nurse<s n="n"/></l><r>balia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>local<b/>mafia<s n="n"/></l><r>camorra<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>carriage<s n="n"/></l><r>carrozza<s n="n"/><s n="f"/></r></p></e>
@@ -19549,6 +19553,8 @@
 <e r="RL"><p><l>productivity<s n="n"/><s n="ND"/></l><r>produttività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>professional<s n="n"/></l><r>professionista<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>professional<s n="n"/></l><r>professionista<s n="n"/></r></p></e>
+<e r="LR"><p><l>language<b/>professional<s n="n"/></l><r>professionista<g><b/>delle<b/>lingue</g><s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>language<b/>professional<s n="n"/></l><r>professionista<g><b/>delle<b/>lingue</g><s n="n"/></r></p></e>
 <e r="LR"><p><l>professor<s n="n"/></l><r>professore<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>professor<s n="n"/></l><r>professore<s n="n"/></r></p></e>
 <e><p><l>profile<s n="n"/></l><r>profilo<s n="n"/><s n="m"/></r></p></e>
@@ -21879,7 +21885,7 @@
 <e><p><l>beside<s n="pr"/></l><r>accanto<b/>a<s n="pr"/></r></p></e>
 <e r="RL"><p><l>beside<s n="pr"/></l><r>assieme<b/>a<s n="pr"/></r></p></e>
 <e><p><l>but<s n="pr"/></l><r>tranne<s n="pr"/></r></p></e>
-<e><p><l>by<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
+<e r="LR"><p><l>by<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
 <e><p><l>by<b/>means<b/>of<s n="pr"/></l><r>mediante<s n="pr"/></r></p></e>
 <e r="RL"><p><l>by<b/>means<b/>of<s n="pr"/></l><r>tramite<s n="pr"/></r></p></e>
 <e><p><l>despite<s n="pr"/></l><r>nonostante<s n="pr"/></r></p></e>
@@ -21898,8 +21904,8 @@
 <e><p><l>in<b/>front<b/>of<s n="pr"/></l><r>dinanzi<b/>a<s n="pr"/></r></p></e>
 <e><p><l>in<b/>front<b/>of<s n="pr"/></l><r>innanzi<b/>a<s n="pr"/></r></p></e>
 <e><p><l>in<b/>hope<b/>of<s n="pr"/></l><r>in<b/>attesa<b/>di<s n="pr"/></r></p></e>
-<e><p><l>in<b/>order<b/>to<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
-<e><p><l>in<b/>spite<b/>of<s n="pr"/></l><r>per<b/>altri<s n="pr"/></r></p></e>
+<e r="LR"><p><l>in<b/>order<b/>to<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
+<e r="RL"><p><l>in<b/>spite<b/>of<s n="pr"/></l><r>per<b/>altri<s n="pr"/></r></p></e>
 <e><p><l>in<b/>spite<b/>of<s n="pr"/></l><r>nonostante<s n="pr"/></r></p></e>
 <e r="LR"><p><l>in<b/>the<b/>beginning<b/>of<s n="pr"/></l><r>agli<b/>inizi<b/>di<s n="pr"/></r></p></e>
 <e><p><l>in<b/>the<b/>eyes<b/>of<s n="pr"/></l><r>agli<b/>occhi<b/>di<s n="pr"/></r></p></e>
@@ -21912,6 +21918,7 @@
 <e><p><l>like<s n="pr"/></l><r>come<s n="pr"/></r></p></e>
 <e><p><l>like<s n="pr"/></l><r>come<s n="pr"/></r></p></e>
 <e><p><l>more<b/>than<s n="pr"/></l><r>più<b/>di<s n="pr"/></r></p></e>
+<e><p><l>for<b/>more<b/>than<s n="pr"/></l><r>per<b/>oltre<s n="pr"/></r></p></e>
 <e><p><l>near<s n="pr"/></l><r>vicino<b/>a<s n="pr"/></r></p></e>
 <e r="RL"><p><l>of<s n="pr"/></l><r>da<s n="pr"/></r></p></e>
 <e><p><l>of<s n="pr"/></l><r>di<s n="pr"/></r></p></e>
@@ -21926,7 +21933,7 @@
 <e><p><l>out<b/>of<s n="pr"/></l><r>fuori<b/>di<s n="pr"/></r></p></e>
 <e><p><l>outside<s n="pr"/></l><r>fuori<s n="pr"/></r></p></e>
 <e><p><l>over<s n="pr"/></l><r>sopra<s n="pr"/></r></p></e>
-<e><p><l>per<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
+<e r="LR"><p><l>per<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
 <e r="LR"><p><l>rather<b/>than<s n="pr"/></l><r>più<b/>di<s n="pr"/></r></p></e>
 <e><p><l>round<s n="pr"/></l><r>intorno<b/>a<s n="pr"/></r></p></e>
 <e r="LR"><p><l>since<s n="pr"/></l><r>da<s n="pr"/></r></p></e>
@@ -21940,7 +21947,7 @@
 <e r="RL"><p><l>to<s n="pr"/></l><r>verso<s n="pr"/></r></p></e>
 <e><p><l>together<b/>with<s n="pr"/></l><r>insieme<b/>a<s n="pr"/></r></p></e>
 <e><p><l>together<b/>with<s n="pr"/></l><r>insieme<b/>a<s n="pr"/></r></p></e>
-<e><p><l>towards<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
+<e r="LR"><p><l>towards<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
 <e><p><l>under<s n="pr"/></l><r>sotto<s n="pr"/></r></p></e>
 <e><p><l>under<s n="pr"/></l><r>sotto<s n="pr"/></r></p></e>
 <e><p><l>unless<s n="pr"/></l><r>tranne<s n="pr"/></r></p></e>
