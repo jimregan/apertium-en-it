@@ -90025,6 +90025,7 @@
     <e lm="virgolette"><i>virgolette</i><par n="virgolette__n"/></e>
     <e lm="virtù"><i>virtù</i><par n="abilità__n"/></e>
     <e lm="virus"><i>virus</i><par n="albatros__n"/></e>
+    <e lm="virus dell'influenza"><i>virus<b/>dell'influenza</i><par n="albatros__n"/></e>
     <e lm="viscosità"><i>viscosità</i><par n="abilità__n"/></e>
     <e lm="viso"><i>vis</i><par n="abbain/o__n"/></e>
     <e lm="visibilità"><i>visibilità</i><par n="abilità__n"/></e>
@@ -90091,6 +90092,7 @@
     <e lm="watt"><i>watt</i><par n="albatros__n"/></e>
     <e lm="volt"><i>volt</i><par n="albatros__n"/></e>
     <e lm="zip"><i>zip</i><par n="albatros__n"/></e>
+    <e lm="tesla"><i>tesla</i><par n="albatros__n"/></e>
     <e lm="cava"><i>cav</i><par n="cas/a__n"/></e>
     <e lm="sopracciglio"><i>sopraccigli</i><par n="bracci/o__n"/></e>
     <e lm="collettivo"><i>collettiv</i><par n="abbain/o__n"/></e>
@@ -94689,6 +94691,8 @@
 <e lm="via aerea"><p><l>vie<b/>aeree</l><r>via<b/>aerea<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="compagnia aerea"><p><l>compagnia<b/>aerea</l><r>compagnia<b/>aerea<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="compagnia aerea"><p><l>compagnie<b/>aeree</l><r>compagnia<b/>aerea<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="valuta estera"><p><l>valuta<b/>estera</l><r>valuta<b/>estera<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="valuta estera"><p><l>valute<b/>estere</l><r>valuta<b/>estera<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="numero telefonico"><p><l>numero<b/>telefonico</l><r>numero<b/>telefonico<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="numero telefonico"><p><l>numeri<b/>telefonici</l><r>numero<b/>telefonico<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="giorno lavorativo"><p><l>giorno<b/>lavorativo</l><r>giorno<b/>lavorativo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -94711,6 +94715,8 @@
 <e lm="marmotta americana"><p><l>marmotte<b/>americane</l><r>marmotta<b/>americana<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="sala operatoria"><p><l>sala<b/>operatoria</l><r>sala<b/>operatoria<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="sala operatoria"><p><l>sale<b/>operatorie</l><r>sala<b/>operatoria<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="carta igienica"><p><l>carta<b/>igienica</l><r>carta<b/>igienica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="carta igienica"><p><l>carte<b/>igieniche</l><r>carta<b/>igienica<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
 
     <e lm="Abdul-Hamid"><i>Abdul-Hamid</i><par n="Juan__np"/></e>
@@ -98388,6 +98394,25 @@
     <e lm="spaziatore"><i>spaziat</i><par n="agricolt/ore__n"/></e>
     <e lm="marcatore"><i>marcat</i><par n="agricolt/ore__n"/></e>
     <e lm="variatore"><i>variat</i><par n="agricolt/ore__n"/></e>
+    <e lm="controprogrammazione"><i>controprogrammazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="gelificazione"><i>gelificazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="recriminazione"><i>recriminazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="torrefazione"><i>torrefazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="trisezione"><i>trisezion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="ottimizzazione"><i>ottimizzazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="fatturazione"><i>fatturazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="ulcerazione"><i>ulcerazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="sottoccupazione"><i>sottoccupazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="svalutazione"><i>svalutazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="vaporizzazione"><i>vaporizzazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="vasodilatazione"><i>vasodilatazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="vittimizzazione"><i>vittimizzazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="vitrificazione"><i>vitrificazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="vivisezione"><i>vivisezion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="vocalizzazione"><i>vocalizzazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="volatilizzazione"><i>volatilizzazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="zonazione"><i>zonazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="zonificazione"><i>zonificazion</i><par n="abbreviazion/e__n"/></e>
 	</section>
 
 
