@@ -86592,6 +86592,7 @@
     <e lm="censura"><i>censur</i><par n="cas/a__n"/></e>
     <e lm="centimetro"><i>centimetr</i><par n="abbain/o__n"/></e>
     <e lm="centinaio"><i>centinai</i><par n="budell/o__n"/></e>
+    <e lm="miglio"><i>migli</i><par n="budell/o__n"/></e>
     <e lm="centro"><i>centr</i><par n="abbain/o__n"/></e>
     <e lm="centro di lavoro"><i>centr</i><par n="abbain/o__n"/><p><l><b/>di<b/>lavoro</l><r><g><b/>di<b/>lavoro</g></r></p></e>
     <e lm="centrale"><i>central</i><par n="albanes/e__n"/></e>
@@ -90941,6 +90942,7 @@
     <e lm="ammirevole"><i>ammirevol</i><par n="albanes/e__adj"/></e>
     <e lm="amorale"><i>amoral</i><par n="albanes/e__adj"/></e>
     <e lm="ampio"><i>ampi</i><par n="ampi/o__adj"/></e>
+    <e lm="monetario"><i>monetari</i><par n="ampi/o__adj"/></e>
     <e lm="anale"><i>anal</i><par n="albanes/e__adj"/></e>
     <e lm="analfabeta"><i>analfabet</i><par n="suicid/a__adj"/></e>
     <e lm="analitico"><i>analitic</i><par n="tecnic/o__adj"/></e>
@@ -93258,6 +93260,7 @@
     <e lm="sospirare"><i>sospir</i><par n="abbacin/are__vblex"/></e>
     <e lm="sostenere"><i>sost</i><par n="appart/enere__vblex"/></e>
     <e lm="sottovalutare"><i>sottovalut</i><par n="abbacin/are__vblex"/></e>
+    <e lm="fognatura"><i>fognatur</i><par n="cas/a__n"/></e>
     <e lm="valuta"><i>valut</i><par n="cas/a__n"/></e>
     <e lm="valuta di reserva"><i>valut</i><par n="cas/a__n"/><p><l><b/>di<b/>reserva</l><r><g><b/>di<b/>reserva</g></r></p></e>
     <e lm="valutare"><i>valut</i><par n="abbacin/are__vblex"/></e>
@@ -94656,6 +94659,8 @@
 <e lm="triangolo rettangolo"><p><l>triangoli<b/>rettangoli</l><r>triangolo<b/>rettangolo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="oca selvatica"><p><l>oca<b/>selvatica</l><r>oca<b/>selvatica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="oca selvatica"><p><l>oche<b/>selvatiche</l><r>oca<b/>selvatica<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="politica monetaria"><p><l>politica<b/>monetaria</l><r>politica<b/>monetaria<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="politica monetaria"><p><l>politiche<b/>monetarie</l><r>politica<b/>monetaria<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="nome proprio"><p><l>nome<b/>proprio</l><r>nome<b/>proprio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="nome proprio"><p><l>nomi<b/>propri</l><r>nome<b/>proprio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 

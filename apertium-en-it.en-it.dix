@@ -10606,7 +10606,7 @@
 <e><p><l>noisy<s n="adj"/><s n="sint"/></l><r>rumoroso<s n="adj"/></r></p></e>
 <e><p><l>nomadic<s n="adj"/></l><r>nomade<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>non-commissioned<s n="adj"/></l><r>sottufficiale<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>non-smoking<s n="adj"/></l><r>non fumatori<s n="adj"/></r></p></e>
+<e><p><l>non-smoking<s n="adj"/></l><r>non<b/>fumatore<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>nondenominational<s n="adj"/></l><r>aconfessionale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>normal<s n="adj"/></l><r>normale<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>normative<s n="adj"/></l><r>normativo<s n="adj"/></r></p></e>
@@ -23761,7 +23761,7 @@
     <e><p><l>knowledgeable<s n="adj"/></l><r>imparato<s n="adj"/></r></p></e>
     <e><p><l>korean<s n="adj"/></l><r>coreano<s n="adj"/></r></p></e>
     <e><p><l>lasting<s n="adj"/></l><r>duraturo<s n="adj"/></r></p></e>
-    <e><p><l>Latin American<s n="adj"/></l><r>latinoamericano<s n="adj"/></r></p></e>
+    <e><p><l>Latin<b/>American<s n="adj"/></l><r>latinoamericano<s n="adj"/></r></p></e>
     <e><p><l>left<s n="adj"/></l><r>sinistro<s n="adj"/></r></p></e>
     <e><p><l>lefthand<s n="adj"/></l><r>sinistro<s n="adj"/></r></p></e>
     <e><p><l>left-hand<s n="adj"/></l><r>sinistro<s n="adj"/></r></p></e>
@@ -23787,7 +23787,7 @@
     <e><p><l>negative<s n="adj"/></l><r>negativo<s n="adj"/></r></p></e>
     <e><p><l>nitrogenous<s n="adj"/></l><r>nitrogenato<s n="adj"/></r></p></e>
     <e><p><l>nocturnal<s n="adj"/></l><r>notturno<s n="adj"/></r></p></e>
-    <e><p><l>North American<s n="adj"/></l><r>nordamericano<s n="adj"/></r></p></e>
+    <e><p><l>North<b/>American<s n="adj"/></l><r>nordamericano<s n="adj"/></r></p></e>
     <e><p><l>nutritious<s n="adj"/></l><r>nutritivo<s n="adj"/></r></p></e>
     <e><p><l>obscene<s n="adj"/></l><r>osceno<s n="adj"/></r></p></e>
     <e><p><l>obsessive<s n="adj"/></l><r>ossessivo<s n="adj"/></r></p></e>
@@ -24664,11 +24664,12 @@
     <e><p><l>microbiology<s n="n"/></l><r>microbiologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>microcephaly<s n="n"/></l><r>microcefalia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>microscopy<s n="n"/></l><r>microscopia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>mile<s n="n"/></l><r>miglio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mile<s n="n"/><s n="sg"/></l><r>miglio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>mile<s n="n"/><s n="pl"/></l><r>miglio<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>militia<s n="n"/></l><r>milizia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mineralogy<s n="n"/></l><r>mineralogia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>misogyny<s n="n"/></l><r>misoginia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>monetary policy<s n="n"/></l><r>di politica monetaria<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>monetary<b/>policy<s n="n"/></l><r>politica<b/>monetaria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>monody<s n="n"/></l><r>monodia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>monogamy<s n="n"/></l><r>monogamia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>monograph<s n="n"/></l><r>monografia<s n="n"/><s n="f"/></r></p></e>
@@ -24772,7 +24773,7 @@
     <e><p><l>septicemia<s n="n"/></l><r>setticemia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>serology<s n="n"/></l><r>sierologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>serotherapy<s n="n"/></l><r>sieroterapia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>sewerage<s n="n"/></l><r>rete fognaria<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sewerage<s n="n"/></l><r>fognatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sexology<s n="n"/></l><r>sessuologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>shotgun<s n="n"/></l><r>fucile<g><b/>da<b/>caccia</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>siderurgy<s n="n"/></l><r>siderurgia<s n="n"/><s n="f"/></r></p></e>
