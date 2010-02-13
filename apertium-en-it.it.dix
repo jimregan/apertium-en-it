@@ -71816,6 +71816,24 @@
 
 
     </pardef>
+    <pardef n="guanc/ia__n">
+      <e>
+	<p>
+	  <l>e</l>
+	  <r>ia<s n="n"/><s n="f"/><s n="pl"/></r>
+	</p>
+      </e>
+
+
+      <e>
+	<p>
+	  <l>ia</l>
+	  <r>ia<s n="n"/><s n="f"/><s n="sg"/></r>
+	</p>
+      </e>
+
+
+    </pardef>
     <pardef n="cap/ocosca__n">
       <e>
 	<p>
@@ -71868,6 +71886,12 @@
 	</p>
       </e>
 
+      <e>
+	<p>
+	  <l>ofamiglia</l>
+	  <r>ofamiglia<s n="n"/><s n="f"/><s n="sp"/></r>
+	</p>
+      </e>
 
     </pardef>
     <pardef n="cap/ogabinetto__n">
@@ -85793,6 +85817,8 @@
     <e lm="aerosol"><i>aerosol</i><par n="albatros__n"/></e>
     <e lm="caccia"><i>caccia</i><par n="albatros__n"/></e>
     <e lm="caccia"><i>cacci</i><par n="cas/a__n"/></e>
+    <e lm="guancia"><i>guanc</i><par n="guanc/ia__n"/></e>
+    <e lm="capofamiglia"><i>cap</i><par n="cap/ofamiglia__n"/></e>
     <e lm="aerologia"><i>aerologi</i><par n="cas/a__n"/></e>
     <e lm="aerometria"><i>aerometri</i><par n="cas/a__n"/></e>
     <e lm="angstrom"><i>angstrom</i><par n="albatros__n"/></e>
@@ -87072,6 +87098,7 @@
     <e lm="direzione generale"><i>direzione<b/>generale</i><par n="pallacanestro__n"/></e>
     <e lm="direzione generale"><p><l>direzioni<b/>generali</l><r>direzione<b/>generale</r></p><par n="virgolette__n"/></e>
     <e lm="spese di spedizione"><i>spese<b/>di<b/>spedizione</i><par n="virgolette__n"/></e>
+    <e lm="prepotenze"><i>prepotenze</i><par n="virgolette__n"/></e>
     <e lm="dirigente"><i>dirigent</i><par n="albanes/e__n"/></e>
     <e lm="dirigibile"><i>dirigibil</i><par n="abat/e__n"/></e>
     <e lm="diritto"><i>diritt</i><par n="abbain/o__n"/></e>

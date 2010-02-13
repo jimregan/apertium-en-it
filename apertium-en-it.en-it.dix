@@ -24359,7 +24359,7 @@
     <e><p><l>preselection<s n="n"/></l><r>preselezione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>prevarication<s n="n"/></l><r>prevaricazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>proletarianisation<s n="n"/></l><r>proletarizzazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>prorate<s n="n"/></l><r>di ripartizione<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>prorate<s n="n"/></l><r>ripartizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>provision<s n="n"/></l><r>disposizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>radiocommunication<s n="n"/></l><r>radiocomunicazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ration<s n="n"/></l><r>razione<s n="n"/><s n="f"/></r></p></e>
@@ -24401,8 +24401,9 @@
     <e><p><l>archaism<s n="n"/></l><r>arcaismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asterism<s n="n"/></l><r>asterismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>automatism<s n="n"/></l><r>automatismo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>Bonapartism<s n="n"/></l><r>Bonapartismo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>bullying<s n="n"/></l><r>bullismo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Bonapartism<s n="n"/></l><r>bonapartismo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>bullying<s n="n"/></l><r>prepotenze<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>bullying<s n="n"/></l><r>prepotenze<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>catalanism<s n="n"/></l><r>catalanismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>centralism<s n="n"/></l><r>centralismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chromatism<s n="n"/></l><r>cromatismo<s n="n"/><s n="m"/></r></p></e>
@@ -24455,17 +24456,17 @@
     <e><p><l>sociologism<s n="n"/></l><r>sociologismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>subjectivism<s n="n"/></l><r>soggettivismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>adenopathy<s n="n"/></l><r>adenopatia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>agroecology<s n="n"/></l><r>Agroecologia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agroecology<s n="n"/></l><r>agroecologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>altimetry<s n="n"/></l><r>altimetria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>amperometry<s n="n"/></l><r>amperometria<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>anaesthesiology<s n="n"/></l><r>Anestesiologia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>anaesthesiology<s n="n"/></l><r>anestesiologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>anoxia<s n="n"/></l><r>anossia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aphonia<s n="n"/></l><r>afonia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>apraxia<s n="n"/></l><r>aprassia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>areflexia<s n="n"/></l><r>areflessia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>arrhythmia<s n="n"/></l><r>aritmia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>arthralgia<s n="n"/></l><r>artralgia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>arthrology<s n="n"/></l><r>Artrologia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>arthrology<s n="n"/></l><r>artrologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asphyxia<s n="n"/></l><r>asfissia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asthenia<s n="n"/></l><r>astenia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ataxia<s n="n"/></l><r>atassia<s n="n"/><s n="f"/></r></p></e>
@@ -24475,7 +24476,8 @@
     <e><p><l>autophagy<s n="n"/></l><r>autofagia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bakery<s n="n"/></l><r>panetteria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>balneotherapy<s n="n"/></l><r>balneoterapia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>bark<s n="n"/></l><r>corteccia<s n="n"/><s n="f"/></r></p></e>
+    <e slr="corteccia D"><p><l>bark<s n="n"/></l><r>corteccia<s n="n"/><s n="f"/></r></p></e>
+    <e slr="abbaio"><p><l>bark<s n="n"/></l><r>abbaio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>barony<s n="n"/></l><r>baronia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>basophilia<s n="n"/></l><r>basofilia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bigamy<s n="n"/></l><r>bigamia<s n="n"/><s n="f"/></r></p></e>
@@ -24483,7 +24485,8 @@
     <e><p><l>blasphemy<s n="n"/></l><r>blasfemia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>boredom<s n="n"/></l><r>noia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bradycardia<s n="n"/></l><r>bradicardia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>breadwinner<s n="n"/></l><r>capofamiglia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>breadwinner<s n="n"/></l><r>capofamiglia<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>breadwinner<s n="n"/></l><r>capofamiglia<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>brewery<s n="n"/></l><r>birreria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>brine<s n="n"/></l><r>salamoia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cachexia<s n="n"/></l><r>cachessia<s n="n"/><s n="f"/></r></p></e>
