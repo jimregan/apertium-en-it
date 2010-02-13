@@ -24692,7 +24692,8 @@
     <e><p><l>pharmacology<s n="n"/></l><r>farmacologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>phenology<s n="n"/></l><r>fenologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>phenomenology<s n="n"/></l><r>fenomenologia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Phoenician<s n="n"/></l><r>Fenicia<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>Phoenician<s n="n"/></l><r>fenicio<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Phoenician<s n="n"/></l><r>fenicio<s n="n"/></r></p></e>
     <e><p><l>phonology<s n="n"/></l><r>fonologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>photometry<s n="n"/></l><r>fotometria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>phraseology<s n="n"/></l><r>fraseologia<s n="n"/><s n="f"/></r></p></e>
@@ -24746,8 +24747,8 @@
     <e><p><l>serotherapy<s n="n"/></l><r>sieroterapia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sewerage<s n="n"/></l><r>rete fognaria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sexology<s n="n"/></l><r>sessuologia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>shotgun<s n="n"/></l><r>fucile da caccia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>siderurgy<s n="n"/></l><r>Siderurgia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>shotgun<s n="n"/></l><r>fucile<g><b/>da<b/>caccia</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>siderurgy<s n="n"/></l><r>siderurgia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sigillography<s n="n"/></l><r>sigillografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>simony<s n="n"/></l><r>simonia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sociobiology<s n="n"/></l><r>sociobiologia<s n="n"/><s n="f"/></r></p></e>
@@ -24763,13 +24764,13 @@
     <e><p><l>subfamily<s n="n"/></l><r>sottofamiglia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>subsidiary<s n="n"/></l><r>sussidiaria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>supremacy<s n="n"/></l><r>supremazia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>swearword<s n="n"/></l><r>bestemmia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>swearword<s n="n"/></l><r>parolaccia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>symmetry<s n="n"/></l><r>simmetria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>symphony<s n="n"/></l><r>sinfonia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>symptomatology<s n="n"/></l><r>sintomatologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>synchrony<s n="n"/></l><r>sincronia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>synonymity<s n="n"/></l><r>sinonimia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>taenia<s n="n"/></l><r>Taenia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>temperament<s n="n"/></l><r>tirannia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>taenia<s n="n"/></l><r>taenia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>temperament<s n="n"/></l><r>temperamento<s n="n"/><s n="m"/></r></p></e>
   </section>
 </dictionary>
