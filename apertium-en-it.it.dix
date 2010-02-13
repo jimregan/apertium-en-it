@@ -85641,6 +85641,7 @@
     <e lm="A/H5N1"><i>A/H5N1</i><par n="TV__n"/>    </e>
     <e lm="H5N1"><i>H5N1</i><par n="TV__n"/>    </e>
     <e lm="TNT"><i>TNT</i><par n="TV__n"/>    </e>
+    <e lm="IVA"><i>IVA</i><par n="TV__n"/>    </e>
     <e lm="NATO"><i>NATO</i><par n="TV__n"/></e>
     <e lm="kg"><i>kg</i><par n="PIL__n"/></e>
     <e lm="ONU"><i>ONU</i><par n="TV__n"/></e>
@@ -87638,7 +87639,7 @@
     <e lm="giorno di lavoro"><i>giorn</i><par n="abbain/o__n"/><p><l><b/>di<b/>lavoro</l><r><g><b/>di<b/>lavoro</g></r></p></e>
     <e lm="giorno di nozze"><i>giorn</i><par n="abbain/o__n"/><p><l><b/>di<b/>nozze</l><r><g><b/>di<b/>nozze</g></r></p></e>
     <e lm="banco di lavoro"><i>banc</i><par n="fung/o__n"/><p><l><b/>di<b/>lavoro</l><r><g><b/>di<b/>lavoro</g></r></p></e>
-    <e lm="fine settimana"><i>fine<b/>settimana</i><par n="abbain/o__n"/></e>
+    <e lm="fine settimana"><i>fine<b/>settiman</i><par n="bancarott/a__n"/></e>
     <e lm="giorno"><i>giorn</i><par n="abbain/o__n"/></e>
     <e lm="giornale"><i>giornal</i><par n="abat/e__n"/></e>
     <e lm="giornalismo"><i>giornalism</i><par n="abbain/o__n"/></e>
@@ -89811,6 +89812,8 @@
     <e lm="torneo"><i>torne</i><par n="abbain/o__n"/></e>
     <e lm="torre"><i>torr</i><par n="abbreviazion/e__n"/></e>
     <e lm="torre di guardia"><i>torr</i><par n="abbreviazion/e__n"/><p><l><b/>di<b/>guardia</l><r><g><b/>di<b/>guardia</g></r></p></e>
+    <e lm="sollevamento pesi"><i>sollevament</i><par n="abbain/o__n"/><p><l><b/>pesi</l><r><g><b/>pesi</g></r></p></e>
+    <e lm="sito web"><i>sit</i><par n="abbain/o__n"/><p><l><b/>web</l><r><g><b/>web</g></r></p></e>
     <e lm="torrente"><i>torrent</i><par n="abat/e__n"/></e>
     <e lm="torrone"><i>torron</i><par n="abat/e__n"/></e>
     <e lm="torso"><i>tors</i><par n="abbain/o__n"/></e>
