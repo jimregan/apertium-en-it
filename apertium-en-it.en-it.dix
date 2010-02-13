@@ -24264,17 +24264,17 @@
     <e><p><l>dispatch<s n="n"/></l><r>spedizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>disposition<s n="n"/></l><r>disposizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>disquisition<s n="n"/></l><r>disquisizione<s n="n"/><s n="f"/></r></p></e>
-    <!-- TO BE CHECKED -->
     <e><p><l>anointing<s n="n"/></l><r>unzione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>crosslinking<s n="n"/></l><r>reticolazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>decipherment<s n="n"/></l><r>decifrazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>detoxication<s n="n"/></l><r>disintossicazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>disruption<s n="n"/></l><r>interruzione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>dissimilation<s n="n"/></l><r>dissimilazione<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>decipherment<s n="n"/></l><r>decifrazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>disruption<s n="n"/></l><r>interruzione<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>dissimulation<s n="n"/></l><r>dissimulazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>distraction<s n="n"/></l><r>distrazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>detoxication<s n="n"/></l><r>disintossicazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>domiciliation<s n="n"/></l><r>domiciliazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>dressing<s n="n"/></l><r>medicazione<s n="n"/><s n="f"/></r></p></e>
+    <e slr="fasciatura D"><p><l>dressing<s n="n"/></l><r>fasciatura<s n="n"/><s n="f"/></r></p></e>
+    <e slr="condimento" r="LR"><p><l>dressing<s n="n"/></l><r>condimento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>condiment<s n="n"/></l><r>condimento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>crosslinking<s n="n"/></l><r>reticolazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>electrocution<s n="n"/></l><r>elettrocuzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>enthronement<s n="n"/></l><r>intronizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>eradication<s n="n"/></l><r>eradicazione<s n="n"/><s n="f"/></r></p></e>
@@ -24288,7 +24288,8 @@
     <e><p><l>extirpation<s n="n"/></l><r>estirpazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>exudation<s n="n"/></l><r>essudazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fabulation<s n="n"/></l><r>affabulazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>facilitation<s n="n"/></l><r>l'agevolazione<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>facilitation<s n="n"/></l><r>agevolazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>facilitation<s n="n"/></l><r>facilitazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fibrillation<s n="n"/></l><r>fibrillazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fossilisation<s n="n"/></l><r>fossilizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fumigation<s n="n"/></l><r>fumigazione<s n="n"/><s n="f"/></r></p></e>
@@ -24302,7 +24303,7 @@
     <e><p><l>hospitalisation<s n="n"/></l><r>ospedalizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>humification<s n="n"/></l><r>umificazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hydratation<s n="n"/></l><r>idratazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>identification badge<s n="n"/></l><r>badge di identificazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>identification<b/>badge<s n="n"/></l><r>distintivo<g><b/>di<b/>identificazione</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>immunisation<s n="n"/></l><r>immunizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>imperfection<s n="n"/></l><r>imperfezione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>impugnation<s n="n"/></l><r>impugnazione<s n="n"/><s n="f"/></r></p></e>
@@ -24321,7 +24322,7 @@
     <e><p><l>interdiction<s n="n"/></l><r>interdizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>interrelation<s n="n"/></l><r>interrelazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>invocation<s n="n"/></l><r>invocazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>junction<s n="n"/></l><r>giunzione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>junction<s n="n"/></l><r>incrocio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>juxtaposition<s n="n"/></l><r>giustapposizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>legalisation<s n="n"/></l><r>legalizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>legation<s n="n"/></l><r>legazione<s n="n"/><s n="f"/></r></p></e>
@@ -24330,9 +24331,9 @@
     <e><p><l>microinjection<s n="n"/></l><r>microiniezione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mineralisation<s n="n"/></l><r>mineralizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>minimisation<s n="n"/></l><r>minimizzazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>mitigation<s n="n"/></l><r>attenuazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mitigation<s n="n"/></l><r>mitigazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>moderation<s n="n"/></l><r>moderazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>moistening<s n="n"/></l><r>umidificazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>moistening<s n="n"/></l><r>inumidificazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>motorisation<s n="n"/></l><r>motorizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nasalisation<s n="n"/></l><r>nasalizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nesting<s n="n"/></l><r>nidificazione<s n="n"/><s n="f"/></r></p></e>
@@ -24349,7 +24350,8 @@
     <e><p><l>photocomposition<s n="n"/></l><r>fotocomposizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>plastification<s n="n"/></l><r>plastificazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>politisation<s n="n"/></l><r>politicizzazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>postage<s n="n"/></l><r>spese di spedizione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>postage<s n="n"/></l><r>affrancatura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>postage<b/>and<b/>packaging<s n="n"/></l><r>spese<b/>di<b/>spedizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>premeditation<s n="n"/></l><r>premeditazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>premonition<s n="n"/></l><r>premonizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pre-ordering<s n="n"/></l><r>pre-ordinazione<s n="n"/><s n="f"/></r></p></e>

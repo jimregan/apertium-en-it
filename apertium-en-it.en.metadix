@@ -1380,12 +1380,6 @@
           <r><s n="n"/><s n="pl"/></r>
         </p>
       </e>
-      <e r="LR">
-        <p>
-          <l>'s</l>
-          <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r>
-        </p>
-      </e>
     </pardef>
     <pardef n="alms__n">
       <e>
@@ -21215,6 +21209,7 @@
     <e lm="polarisation"><i>polari</i><par n="globali/sation__n"/>    </e>
     <e lm="policy"><i>polic</i><par n="bab/y__n"/>    </e>
     <e lm="police"><i>police</i><par n="personnel__n"/>    </e>
+    <e lm="postage and packaging"><i>postage<b/>and<b/>packaging</i><par n="personnel__n"/>    </e>
     <e lm="policeman"><i>policem</i><par n="m/an__n"/>    </e>
     <e lm="policewoman"><i>policewom</i><par n="m/an__n"/>    </e>
     <e lm="security forces"><i>security<b/>forces</i><par n="alms__n"/>    </e>
