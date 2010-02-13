@@ -85639,6 +85639,8 @@
     <e lm="H1N1"><i>H1N1</i><par n="TV__n"/>    </e>
     <e lm="A/H1N1"><i>A/H1N1</i><par n="TV__n"/>    </e>
     <e lm="A/H5N1"><i>A/H5N1</i><par n="TV__n"/>    </e>
+    <e lm="H5N1"><i>H5N1</i><par n="TV__n"/>    </e>
+    <e lm="TNT"><i>TNT</i><par n="TV__n"/>    </e>
     <e lm="NATO"><i>NATO</i><par n="TV__n"/></e>
     <e lm="kg"><i>kg</i><par n="PIL__n"/></e>
     <e lm="ONU"><i>ONU</i><par n="TV__n"/></e>
@@ -85662,6 +85664,7 @@
     <e lm="lapsus freudiano"><i>lapsus<b/>freudian</i><par n="abbain/o__n"/></e>
     <e lm="abbattimento"><i>abbattiment</i><par n="abbain/o__n"/></e>
     <e lm="abbazia"><i>abbazi</i><par n="cas/a__n"/></e>
+    <e lm="dea"><i>de</i><par n="cas/a__n"/></e>
     <e lm="abbecedario"><i>abbecedari</i><par n="abbain/o__n"/></e>
     <e lm="abbigliamento"><i>abbigliament</i><par n="abbain/o__n"/></e>
     <e lm="abbonamento"><i>abbonament</i><par n="abbain/o__n"/></e>
@@ -89807,6 +89810,7 @@
     <e lm="tormenta"><i>torment</i><par n="cas/a__n"/></e>
     <e lm="torneo"><i>torne</i><par n="abbain/o__n"/></e>
     <e lm="torre"><i>torr</i><par n="abbreviazion/e__n"/></e>
+    <e lm="torre di guardia"><i>torr</i><par n="abbreviazion/e__n"/><p><l><b/>di<b/>guardia</l><r><g><b/>di<b/>guardia</g></r></p></e>
     <e lm="torrente"><i>torrent</i><par n="abat/e__n"/></e>
     <e lm="torrone"><i>torron</i><par n="abat/e__n"/></e>
     <e lm="torso"><i>tors</i><par n="abbain/o__n"/></e>
@@ -94598,6 +94602,8 @@
 <e lm="arma nucleara"><p><l>armi<b/>nucleare</l><r>arma<b/>nucleara<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="forno solare"><p><l>forno<b/>solare</l><r>forno<b/>solare<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="forno solare"><p><l>forni<b/>solari</l><r>forno<b/>solare<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="centro giovanile"><p><l>centro<b/>giovanile</l><r>centro<b/>giovanile<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="centro giovanile"><p><l>centri<b/>giovanili</l><r>centro<b/>giovanile<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="persona giuridica"><p><l>persona<b/>giuridica</l><r>persona<b/>giuridica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="persona giuridica"><p><l>persone<b/>giuridiche</l><r>persona<b/>giuridica<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="primo ministro"><p><l>primo<b/>ministro</l><r>primo<b/>ministro<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -94662,8 +94668,12 @@
 <e lm="compagnia aerea"><p><l>compagnie<b/>aeree</l><r>compagnia<b/>aerea<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="numero telefonico"><p><l>numero<b/>telefonico</l><r>numero<b/>telefonico<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="numero telefonico"><p><l>numeri<b/>telefonici</l><r>numero<b/>telefonico<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="giorno lavorativo"><p><l>giorno<b/>lavorativo</l><r>giorno<b/>lavorativo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="giorno lavorativo"><p><l>giorni<b/>lavorativi</l><r>giorno<b/>lavorativo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="corrente elettrica"><p><l>corrente<b/>elettrica</l><r>corrente<b/>elettrica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="corrente elettrica"><p><l>correnti<b/>elettriche</l><r>corrente<b/>elettrica<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="chiave inglese"><p><l>chiave<b/>inglese</l><r>chiave<b/>inglese<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="chiave inglese"><p><l>chiavi<b/>inglesi</l><r>chiave<b/>inglese<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="telefono cellulare"><p><l>telefono<b/>cellulare</l><r>telefono<b/>cellulare<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="telefono cellulare"><p><l>telefoni<b/>cellulari</l><r>telefono<b/>cellulare<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="gatto selvatico"><p><l>gatto<b/>selvatico</l><r>gatto<b/>selvatico<s n="n"/><s n="m"/><s n="sg"/></r></p></e>

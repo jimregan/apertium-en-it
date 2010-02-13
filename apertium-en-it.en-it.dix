@@ -17245,7 +17245,7 @@
 <e><p><l>gobernante<s n="n"/></l><r>governante<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>airway<s n="n"/></l><r>via<b/>aerea<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>god<s n="n"/></l><r>dio<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>goddess<s n="n"/></l><r>dio<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>goddess<s n="n"/></l><r>dea<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>godfather<s n="n"/></l><r>padrino<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>godmother<s n="n"/></l><r>madrina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>gold<s n="n"/></l><r>oro<s n="n"/><s n="m"/></r></p></e>
@@ -17924,7 +17924,9 @@
 <e slr="chiave D"><p><l>key<s n="n"/></l><r>chiave<s n="n"/><s n="f"/></r></p></e>
 <e slr="codice"><p><l>key<s n="n"/></l><r>codice<s n="n"/><s n="m"/></r></p></e>
 <e slr="tono" r="LR"><p><l>key<s n="n"/></l><r>tono<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>keyboard<s n="n"/></l><r>tastiera<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>wrench<s n="n"/></l><r>chiave<b/>inglese<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>working<b/>day<s n="n"/></l><r>giorno<b/>lavorativo<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>work<b/>day<s n="n"/></l><r>giorno<g><b/>di<b/>lavoro</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>keyboard<s n="n"/></l><r>tastiera<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>kid<s n="n"/></l><r>bambino<s n="n"/><s n="GD"/></r></p></e>
 <e r="LR"><p><l>kidnapper<s n="n"/></l><r>rapitore<s n="n"/><s n="GD"/></r></p></e>
@@ -18084,8 +18086,12 @@
     <e> <p><l>H1N1<s n="n"/><s n="acr"/></l><r>H1N1<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e> <p><l>A/H1N1<s n="n"/><s n="acr"/></l><r>A/H1N1<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e> <p><l>A/H5N1<s n="n"/><s n="acr"/></l><r>A/H5N1<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e> <p><l>H5N1<s n="n"/><s n="acr"/></l><r>H5N1<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e> <p><l>TNT<s n="n"/><s n="acr"/></l><r>TNT<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e> <p><l>NYSE<s n="n"/><s n="acr"/></l><r>NYSE<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e><p><l>amenorrhoea<s n="n"/></l><r>amenorrea<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>dysmenorrhea<s n="n"/></l><r>dismenorrea<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>youth<b/>centre<s n="n"/></l><r>centro<b/>giovanile<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>anti-inflammatory<s n="n"/></l><r>antinfiammatorio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>antimatter<s n="n"/></l><r>antimateria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>arietta<s n="n"/></l><r>aria<s n="n"/><s n="f"/></r></p></e>
@@ -19096,10 +19102,9 @@
 <e><p><l>pedalling<s n="n"/></l><r>pedalata<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>pederast<s n="n"/></l><r>pedofilo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>pedestal<s n="n"/></l><r>piedistallo<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>pedestrian<s n="n"/></l><r>pedone<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>pedestrian<s n="n"/></l><r>pedone<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>pediatrician<s n="n"/></l><r>pediatra<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>pediatrician<s n="n"/></l><r>pediatra<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>pediatrician<s n="n"/></l><r>pediatra<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>pediatrician<s n="n"/></l><r>pediatra<s n="n"/></r></p></e>
 <e><p><l>pediatrics<s n="n"/></l><r>pediatria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>peel<s n="n"/></l><r>guscio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>penalty<s n="n"/></l><r>pena<s n="n"/><s n="f"/></r></p></e>
@@ -20496,7 +20501,8 @@
 <e><p><l>workday<s n="n"/></l><r>giorno<g><b/>di<b/>lavoro</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>wedding<b/>day<s n="n"/></l><r>giorno<g><b/>di<b/>nozze</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>weekend<s n="n"/></l><r>fine<b/>settimana<s n="n"/><s n="mf"/></r></p><par n="SP"/></e>
-<e><p><l>work<b/>bench<s n="n"/></l><r>banco<g><b/>di<b/>lavoro</g><s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>work<b/>bench<s n="n"/></l><r>banco<g><b/>di<b/>lavoro</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>workbench<s n="n"/></l><r>banco<g><b/>di<b/>lavoro</g><s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>secretary-general<s n="n"/></l><r>segretario<b/>generale<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>secretary-general<s n="n"/></l><r>segretario<b/>generale<s n="n"/></r></p></e>
 <e r="LR"><p><l>guide<b/>dog<s n="n"/></l><r>cane<b/>guida<s n="n"/><s n="GD"/></r></p></e>
