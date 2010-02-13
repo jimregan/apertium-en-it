@@ -24508,7 +24508,7 @@
     <e><p><l>coprophagy<s n="n"/></l><r>coprofagia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cosmogony<s n="n"/></l><r>cosmogonia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>courtesy<s n="n"/></l><r>cortesia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>crag<s n="n"/></l><r>falesia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>crag<s n="n"/></l><r>dirupo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>decalcomania<s n="n"/></l><r>decalcomania<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>delight<s n="n"/></l><r>delizia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>destitution<s n="n"/></l><r>miseria<s n="n"/><s n="f"/></r></p></e>
@@ -24516,7 +24516,8 @@
     <e><p><l>dichotomy<s n="n"/></l><r>dicotomia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>disharmony<s n="n"/></l><r>disarmonia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>distress<s n="n"/></l><r>angoscia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>dregs<s n="n"/></l><r>feccia<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>dregs<s n="n"/></l><r>feccia<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>dregs<s n="n"/><s n="pl"/></l><r>feccia<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>dropsy<s n="n"/></l><r>idropisia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dynast<s n="n"/></l><r>dinastia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dyslexia<s n="n"/></l><r>dislessia<s n="n"/><s n="f"/></r></p></e>
@@ -24565,13 +24566,14 @@
     <e><p><l>graphology<s n="n"/></l><r>grafologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>grater<s n="n"/></l><r>grattugia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>grid<s n="n"/></l><r>griglia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>grille<s n="n"/></l><r>griglia<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>grille<s n="n"/></l><r>griglia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>grimace<s n="n"/></l><r>smorfia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gynecomastia<s n="n"/></l><r>ginecomastia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>haberdashery<s n="n"/></l><r>merceria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hagiography<s n="n"/></l><r>agiografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>handle<s n="n"/></l><r>maniglia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>hangover<s n="n"/></l><r>postumi di una sbornia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hangover<s n="n"/><s n="sg"/></l><r>postumi<b/>della<b/>sbornia<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>hangover<s n="n"/><s n="pl"/></l><r>postumi<b/>della<b/>sbornia<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e><p><l>headband<s n="n"/></l><r>fascia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hematology<s n="n"/></l><r>ematologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hematuria<s n="n"/></l><r>ematuria<s n="n"/><s n="f"/></r></p></e>
@@ -24585,7 +24587,7 @@
     <e><p><l>homology<s n="n"/></l><r>omologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>homonymy<s n="n"/></l><r>omonimia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>homophony<s n="n"/></l><r>omofonia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>hopper<s n="n"/></l><r>tramoggia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hopper<s n="n"/></l><r>cavalletta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hydrography<s n="n"/></l><r>idrografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hydrology<s n="n"/></l><r>idrologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hygrometry<s n="n"/></l><r>igrometria<s n="n"/><s n="f"/></r></p></e>
@@ -24597,7 +24599,7 @@
     <e><p><l>hypoplasia<s n="n"/></l><r>ipoplasia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hypovolemia<s n="n"/></l><r>ipovolemia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hypoxia<s n="n"/></l><r>ipossia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>ice cream parlour<s n="n"/></l><r>gelateria<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ice<b/>cream<b/>parlour<s n="n"/></l><r>gelateria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ichthyology<s n="n"/></l><r>ittiologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ignominy<s n="n"/></l><r>ignominia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>immunology<s n="n"/></l><r>immunologia<s n="n"/><s n="f"/></r></p></e>
@@ -24621,10 +24623,10 @@
     <e><p><l>litany<s n="n"/></l><r>litania<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lithography<s n="n"/></l><r>litografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lithology<s n="n"/></l><r>litologia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>lump<s n="n"/></l><r>forfettaria<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lump<s n="n"/></l><r>gonfiore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>macrocephaly<s n="n"/></l><r>macrocefalia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>malacology<s n="n"/></l><r>malacologia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>malaria<s n="n"/></l><r>la malaria<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>malaria<s n="n"/></l><r>malaria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mammography<s n="n"/></l><r>mammografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mastectomy<s n="n"/></l><r>mastectomia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>menorrhagia<s n="n"/></l><r>menorragia<s n="n"/><s n="f"/></r></p></e>
@@ -24635,7 +24637,7 @@
     <e><p><l>microbiology<s n="n"/></l><r>microbiologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>microcephaly<s n="n"/></l><r>microcefalia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>microscopy<s n="n"/></l><r>microscopia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>mile<s n="n"/></l><r>miglia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mile<s n="n"/></l><r>miglio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>militia<s n="n"/></l><r>milizia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mineralogy<s n="n"/></l><r>mineralogia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>misogyny<s n="n"/></l><r>misoginia<s n="n"/><s n="f"/></r></p></e>
@@ -24654,18 +24656,18 @@
     <e><p><l>neurasthenia<s n="n"/></l><r>nevrastenia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>neuropsychology<s n="n"/></l><r>neuropsicologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>oceanography<s n="n"/></l><r>oceanografia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>oenology<s n="n"/></l><r>Enologia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>oenology<s n="n"/></l><r>enologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>oligarchy<s n="n"/></l><r>oligarchia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ontology<s n="n"/></l><r>ontologia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>oogamy<s n="n"/></l><r>Oogamia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>operating theatre<s n="n"/></l><r>sala operatoria<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>oogamy<s n="n"/></l><r>oogamia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>operating<b/>theatre<s n="n"/></l><r>sala<b/>operatoria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ophthalmia<s n="n"/></l><r>oftalmia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ophthalmology<s n="n"/></l><r>oftalmologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>optometry<s n="n"/></l><r>optometria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>orchiectomy<s n="n"/></l><r>orchiectomia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ornithology<s n="n"/></l><r>ornitologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>orthodontics<s n="n"/></l><r>ortodonzia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>orthoepy<s n="n"/></l><r>Ortoepia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>orthoepy<s n="n"/></l><r>ortoepia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>orthopaedics<s n="n"/></l><r>ortopedia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>otorhinolaryngology<s n="n"/></l><r>otorinolaringoiatria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>outskirts<s n="n"/></l><r>periferia<s n="n"/><s n="f"/></r></p></e>
@@ -24679,7 +24681,7 @@
     <e><p><l>pastoralism<s n="n"/></l><r>pastorizia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pathophysiology<s n="n"/></l><r>fisiopatologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>patrol<s n="n"/></l><r>pattuglia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>pebble<s n="n"/></l><r>di ghiaia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pebble<s n="n"/></l><r>ciottolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pederasty<s n="n"/></l><r>pederastia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pedology<s n="n"/></l><r>pedologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>perfumery<s n="n"/></l><r>profumeria<s n="n"/><s n="f"/></r></p></e>
