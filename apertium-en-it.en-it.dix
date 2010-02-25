@@ -14231,7 +14231,7 @@
     <e r="RL"><p><l>departure<s n="n"/></l><r>partenza<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>departure<n></l><r>marcia<n><f></r></e>).-->
     <e><p><l>dependence<s n="n"/></l><r>dipendenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>depilation<s n="n"/></l><r>depilazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>deployment<s n="n"/></l><r>distribuzione<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>deployment<s n="n"/></l><r>distribuzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>depolymerisation<s n="n"/></l><r>depolimerizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>deportation<s n="n"/></l><r>deportazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>deposit<s n="n"/></l><r>deposito<s n="n"/><s n="m"/></r></p></e>
@@ -14440,11 +14440,9 @@
     <e><p><l>distance<s n="n"/></l><r>distanza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>distillation<s n="n"/></l><r>distillazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>distinction<s n="n"/></l><r>distinzione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>distortion<s n="n"/></l><r>distorsione<s n="n"/><s n="f"/></r></p></e>
+    <e srl="distortion D"><p><l>distortion<s n="n"/></l><r>distorsione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>distraction<s n="n"/></l><r>distrazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>distress<s n="n"/></l><r>angoscia<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>distribution<s n="n"/></l><r>disposizione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>disposal<n></l><r>disposizione<n><f></r></e>).-->
-    <e i="yes"><p><l>distribution<s n="n"/></l><r>distribuzione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>deployment<n></l><r>distribuzione<n><f></r></e>).-->
     <e><p><l>distributor<s n="n"/></l><r>distributore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>district<s n="n"/></l><r>distretto<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>district<s n="n"/></l><r>circoscrizione<s n="n"/><s n="f"/></r></p></e>
@@ -18203,7 +18201,7 @@
     <e r="LR"><p><l>purist<s n="n"/></l><r>purista<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>puritanism<s n="n"/></l><r>puritanismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>purpose<s n="n"/></l><r>proposito<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>pursuit<s n="n"/></l><r>persecuzione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>chase<n></l><r>persecuzione<n><f></r></e>).-->
+    <e r="LR"><p><l>pursuit<s n="n"/></l><r>persecuzione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>pus<s n="n"/><s n="ND"/></l><r>pus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>pus<s n="n"/><s n="sg"/></l><r>pus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>pus<s n="n"/><s n="pl"/></l><r>pus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -18287,25 +18285,25 @@
     <e><p><l>rally<s n="n"/></l><r>rally<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ramification<s n="n"/></l><r>ramificazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>randomisation<s n="n"/></l><r>randomizzazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR" slr="raggio" srl="range" c="Mil."><p><l>range<s n="n"/></l><r>raggio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>radius<n></l><r>raggio<n><m></r></e>).-->
-    <e r="RL" slr="portata D" c="Mil."><p><l>range<s n="n"/></l><r>portata<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>range<n></l><r>raggio<n><m></r></e>).-->
-    <e r="RL" slr="gamma"><p><l>range<s n="n"/></l><r>gamma<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>range<n></l><r>raggio<n><m></r></e>).-->
-    <e r="LR"><p><l>rank<s n="n"/></l><r>grado<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>degree<n></l><r>grado<n><m></r></e>).-->
+    <e slr="raggio" srl="range" c="Mil."><p><l>range<s n="n"/></l><r>raggio<s n="n"/><s n="m"/></r></p></e>
+    <e slr="portata D" c="Mil."><p><l>range<s n="n"/></l><r>portata<s n="n"/><s n="f"/></r></p></e>
+    <e slr="gamma"><p><l>range<s n="n"/></l><r>gamma<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>rank<s n="n"/></l><r>grado<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>rank<s n="n"/></l><r>rango<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rape<s n="n"/></l><r>stupro<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>rapist<s n="n"/></l><r>stupratore<s n="n"/></r></p></e>
     <e r="LR"><p><l>rapist<s n="n"/></l><r>stupratore<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>raspberry<s n="n"/></l><r>lampone<s n="n"/><s n="m"/></r></p></e>
     <e slr="ritmo"><p><l>rate<s n="n"/></l><r>ritmo<s n="n"/><s n="m"/></r></p></e>
-    <e slr="indice D" srl="rate" i="yes"><p><l>rate<s n="n"/></l><r>indice<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>index<n></l><r>indice<n><m></r></e>).-->
-    <e r="RL" slr="aliquota"><p><l>rate<s n="n"/></l><r>aliquota<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>rate<n></l><r>ritmo<n><m></r></e>).-->
+    <e slr="indice D" srl="rate"><p><l>rate<s n="n"/></l><r>indice<s n="n"/><s n="m"/></r></p></e>
+    <e slr="aliquota"><p><l>rate<s n="n"/></l><r>aliquota<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>rating<s n="n"/></l><r>indice<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>ratio<s n="n"/></l><r>proporzione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>proportion<n></l><r>proporzione<n><f></r></e>).-->
+    <e r="LR"><p><l>ratio<s n="n"/></l><r>proporzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ration<s n="n"/></l><r>razione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rationalisation<s n="n"/></l><r>razionalizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rationalism<s n="n"/></l><r>razionalismo<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR" srl="ray D"><p><l>ray<s n="n"/></l><r>raggio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>radius<n></l><r>raggio<n><m></r></e>).-->
-    <e r="RL"><p><l>ray<s n="n"/></l><r>fulmine<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>ray<n></l><r>raggio<n><m></r></e>).-->
+    <e srl="ray D"><p><l>ray<s n="n"/></l><r>raggio<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>ray<s n="n"/></l><r>fulmine<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>reaction<s n="n"/></l><r>reazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reactivation<s n="n"/></l><r>riattivazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>reactivity<s n="n"/><s n="ND"/></l><r>reattività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -18326,7 +18324,7 @@
     <e><p><l>reallocation<s n="n"/></l><r>riassegnazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reanimation<s n="n"/></l><r>rianimazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reason<s n="n"/></l><r>motivo<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>reason<s n="n"/></l><r>ragione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>reason<n></l><r>motivo<n><m></r></e>).-->
+    <e r="RL"><p><l>reason<s n="n"/></l><r>ragione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reasoning<s n="n"/></l><r>ragionamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>reassurance<s n="n"/></l><r>rassicurazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rebellion<s n="n"/></l><r>ribellione<s n="n"/><s n="f"/></r></p></e>
@@ -19213,13 +19211,13 @@
     <e r="RL"><p><l>sport<s n="n"/><s n="ND"/></l><r>sport<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>sportsman<s n="n"/></l><r>sportivo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sportswoman<s n="n"/></l><r>sportivo<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>spot<s n="n"/></l><r>granito<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>granite<n></l><r>granito<n><m></r></e>).-->
-    <e i="yes"><p><l>spot<s n="n"/></l><r>posto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>place<n></l><r>posto<n><m></r></e>).-->
+    <e slr="granito D"><p><l>spot<s n="n"/></l><r>granito<s n="n"/><s n="m"/></r></p></e>
+    <e slr="posto" r="LR"><p><l>spot<s n="n"/></l><r>posto<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>spouse<s n="n"/></l><r>sposo<s n="n"/></r></p></e>
     <e r="LR"><p><l>spouse<s n="n"/></l><r>sposo<s n="n"/><s n="GD"/></r></p></e>
-    <e r="LR"><p><l>sprain<s n="n"/></l><r>distorsione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>distortion<n></l><r>distorsione<n><f></r></e>).-->
-    <e r="LR" slr="fonte"><p><l>spring<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>font<n></l><r>fonte<n><f></r></e>).-->
-    <e r="RL" slr="primavera D"><p><l>spring<s n="n"/></l><r>primavera<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>spring<n></l><r>fonte<n><f></r></e>).-->
+    <e srl="sprain"><p><l>sprain<s n="n"/></l><r>distorsione<s n="n"/><s n="f"/></r></p></e>
+    <e slr="fonte"><p><l>spring<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>font<n></l><r>fonte<n><f></r></e>).-->
+    <e slr="primavera D"><p><l>spring<s n="n"/></l><r>primavera<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>spring<n></l><r>fonte<n><f></r></e>).-->
     <e><p><l>spumante<s n="n"/></l><r>spumante<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>spurt<s n="n"/></l><r>impulso<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>boost<n></l><r>impulso<n><m></r></e>).-->
     <e><p><l>spy<s n="n"/></l><r>spia<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
