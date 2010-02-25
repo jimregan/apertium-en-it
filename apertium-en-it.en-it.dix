@@ -15297,7 +15297,7 @@
     <e r="LR"><p><l>functionality<s n="n"/><s n="sg"/></l><r>funzionalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>functionality<s n="n"/><s n="pl"/></l><r>funzionalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>functioning<s n="n"/></l><r>funzionamento<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR" srl="fund"><p><l>fund<s n="n"/></l><r>fondo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>background<n></l><r>fondo<n><m></r></e>).-->
+    <e srl="fund"><p><l>fund<s n="n"/></l><r>fondo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fundamentalism<s n="n"/></l><r>fondamentalismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fundamentalist<s n="n"/></l><r>fondamentalista<s n="n"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>funding<s n="n"/></l><r>finanziamento<s n="n"/><s n="f"/></r></p></e>
@@ -15646,7 +15646,7 @@
     <e><p><l>heaven<s n="n"/></l><r>cielo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hecatomb<s n="n"/></l><r>ecatombe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hectare<s n="n"/></l><r>ettaro<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR" srl="hedgehog"><p><l>hedgehog<s n="n"/></l><r>riccio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>curl<n></l><r>riccio<n><m></r></e>).-->
+    <e srl="hedgehog"><p><l>hedgehog<s n="n"/></l><r>riccio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hedonism<s n="n"/></l><r>edonismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>heel<s n="n"/></l><r>tallone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hegemony<s n="n"/></l><r>egemonia<s n="n"/><s n="f"/></r></p></e>
@@ -16011,10 +16011,10 @@
     <e><p><l>industry<s n="n"/></l><r>industria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>inefficiency<s n="n"/></l><r>inefficienza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>inequality<s n="n"/></l><r>disuguaglianza<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>inequity<s n="n"/></l><r>giustizia<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>inequity<s n="n"/></l><r>ingiustizia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>inertia<s n="n"/></l><r>inerzia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>infamy<s n="n"/></l><r>infamia<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>infancy<s n="n"/></l><r>bambino<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>girl<n></l><r>bambino<n><f></r></e>).-->
+    <e><p><l>infancy<s n="n"/></l><r>infanzia<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>infant<s n="n"/></l><r>bambino<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>infantry<s n="n"/></l><r>fanteria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>infarct<s n="n"/></l><r>infarto<s n="n"/><s n="m"/></r></p></e>
@@ -16050,9 +16050,8 @@
     <e r="RL"><p><l>injured<s n="n"/></l><r>ferito<s n="n"/></r></p></e>
     <e r="LR"><p><l>injured<s n="n"/></l><r>ferito<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>injury<s n="n"/></l><r>lesione<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>injustice<s n="n"/></l><r>giustizia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>inequity<n></l><r>giustizia<n><f></r></e>).-->
-    <e r="RL"><p><l>injustice<s n="n"/></l><r>ingiustizia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>injustice<n></l><r>giustizia<n><f></r></e>).-->
-    <e srl="inlet" i="yes"><p><l>inlet<s n="n"/></l><r>sacca<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>bag<n></l><r>sacca<n><f></r></e>).-->
+    <e><p><l>injustice<s n="n"/></l><r>ingiustizia<s n="n"/><s n="f"/></r></p></e>
+    <e srl="inlet" r="LR"><p><l>inlet<s n="n"/></l><r>sacca<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>inlet<s n="n"/></l><r>insenatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>inn<s n="n"/></l><r>mesone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>innervation<s n="n"/></l><r>innervazione<s n="n"/><s n="f"/></r></p></e>
@@ -16654,8 +16653,8 @@
     <e><p><l>marijuana<s n="n"/></l><r>marijuana<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>marina<s n="n"/></l><r>marina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>marionette<s n="n"/></l><r>marionetta<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR" srl="mark D"><p><l>mark<s n="n"/></l><r>marca<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>brand<n></l><r>marca<n><f></r></e>).-->
-    <e srl="mark" i="yes"><p><l>mark<s n="n"/></l><r>marchio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>brand<n></l><r>marchio<n><m></r></e>).-->
+    <e srl="mark D"><p><l>mark<s n="n"/></l><r>marca<s n="n"/><s n="f"/></r></p></e>
+    <e srl="mark" r="LR"><p><l>mark<s n="n"/></l><r>marchio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>marker<s n="n"/></l><r>marcatore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>market<s n="n"/></l><r>mercato<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>marketing<s n="n"/><s n="sg"/></l><r>marketing<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -17824,11 +17823,11 @@
     <e><p><l>pneumology<s n="n"/></l><r>pneumologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pneumonia<s n="n"/></l><r>polmonite<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pocket<s n="n"/></l><r>tasca<s n="n"/><s n="f"/></r></p></e>
-    <e srl="pocket" i="yes"><p><l>pocket<s n="n"/></l><r>sacca<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>bag<n></l><r>sacca<n><f></r></e>).-->
+    <e srl="pocket" r="RL"><p><l>pocket<s n="n"/></l><r>sacca<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>podium<s n="n"/></l><r>podio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>poem<s n="n"/></l><r>poema<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>poet<s n="n"/></l><r>poeta<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>poet<s n="n"/></l><r>poeta<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>poet<n></l><r>poeta<n><m></r></e>).-->
+    <e r="LR"><p><l>poet<s n="n"/></l><r>poeta<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>poet<s n="n"/></l><r>poeta<s n="n"/></r></p></e>
     <e><p><l>poetry<s n="n"/></l><r>poesia<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>point<s n="n"/></l><r>punto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>dot<n></l><r>punto<n><m></r></e>).-->
     <e><p><l>poison<s n="n"/></l><r>veleno<s n="n"/><s n="m"/></r></p></e>
@@ -17890,7 +17889,7 @@
     <e r="RL"><p><l>popularity<s n="n"/><s n="ND"/></l><r>popolarità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>population<s n="n"/></l><r>popolazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>populism<s n="n"/></l><r>populismo<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR" srl="pork"><p><l>pork<s n="n"/></l><r>porco<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>pig<n></l><r>porco<n><m></r></e>).-->
+    <e srl="pork"><p><l>pork<s n="n"/></l><r>porco<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>porno<s n="n"/><s n="ND"/></l><r>porno<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>porno<s n="n"/><s n="sg"/></l><r>porno<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>porno<s n="n"/><s n="pl"/></l><r>porno<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -19215,8 +19214,8 @@
     <e r="RL"><p><l>spouse<s n="n"/></l><r>sposo<s n="n"/></r></p></e>
     <e r="LR"><p><l>spouse<s n="n"/></l><r>sposo<s n="n"/><s n="GD"/></r></p></e>
     <e srl="sprain"><p><l>sprain<s n="n"/></l><r>distorsione<s n="n"/><s n="f"/></r></p></e>
-    <e slr="fonte"><p><l>spring<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>font<n></l><r>fonte<n><f></r></e>).-->
-    <e slr="primavera D"><p><l>spring<s n="n"/></l><r>primavera<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>spring<n></l><r>fonte<n><f></r></e>).-->
+    <e slr="fonte"><p><l>spring<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e>
+    <e slr="primavera D"><p><l>spring<s n="n"/></l><r>primavera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>spumante<s n="n"/></l><r>spumante<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>spurt<s n="n"/></l><r>impulso<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>boost<n></l><r>impulso<n><m></r></e>).-->
     <e><p><l>spy<s n="n"/></l><r>spia<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -19231,10 +19230,10 @@
     <e><p><l>stadium<s n="n"/></l><r>stadio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>staff<s n="n"/></l><r>personale<s n="n"/><s n="m"/></r></p></e>
     <e slr="personale D"><p><l>staff<s n="n"/><s n="sg"/></l><r>personale<s n="n"/></r></p></e>
-    <e r="RL" slr="maestranze"><p><l>staff<s n="n"/></l><r>maestranze<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>staff<n></l><r>personale<n><m></r></e>).-->
+    <e slr="maestranze"><p><l>staff<s n="n"/></l><r>maestranze<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>stage<s n="n"/></l><r>palcoscenico<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>stage<s n="n"/></l><r>palco<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>stage<n></l><r>palcoscenico<n><m></r></e>).-->
-    <e r="RL" slr="tappa D"><p><l>stage<s n="n"/></l><r>tappa<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>stage<n></l><r>palcoscenico<n><m></r></e>).-->
+    <e slr="tappa D"><p><l>stage<s n="n"/></l><r>tappa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>stagflation<s n="n"/></l><r>stagflazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>stagnation<s n="n"/></l><r>lagunaggio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>stagnation<s n="n"/></l><r>stagnazione<s n="n"/><s n="f"/></r></p></e>
@@ -19293,8 +19292,8 @@
     <e r="LR"><p><l>stock<s n="n"/><s n="sg"/></l><r>stock<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>stock<s n="n"/><s n="pl"/></l><r>stock<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>stock<b/>exchange<s n="n"/></l><r>borsa<g><b/>valori</g><s n="n"/><s n="f"/></r></p></e>
-    <e r="LR" srl="stock market"><p><l>stock<b/>market<s n="n"/></l><r>borsa<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>bag<n></l><r>borsa<n><f></r></e>).-->
-    <e r="LR"><p><l>stockholder<s n="n"/></l><r>azionista<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>shareholder<n></l><r>azionista<n><m></r></e>).-->
+    <e srl="stock market"><p><l>stock<b/>market<s n="n"/></l><r>borsa<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>stockholder<s n="n"/></l><r>azionista<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>stoichiometry<s n="n"/></l><r>stechiometria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>stoicism<s n="n"/></l><r>stoicismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>stomach<s n="n"/></l><r>stomaco<s n="n"/><s n="m"/></r></p></e>
