@@ -14521,10 +14521,10 @@
     <e r="LR"><p><l>dregs<s n="n"/></l><r>feccia<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>dregs<s n="n"/><s n="pl"/></l><r>feccia<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>dress<s n="n"/></l><r>abito<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR" slr="fasciatura D"><p><l>dressing<s n="n"/></l><r>fasciatura<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>bandage<n></l><r>fasciatura<n><f></r></e>).-->
-    <e slr="condimento" i="yes"><p><l>dressing<s n="n"/></l><r>condimento<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>dressing<n></l><r>fasciatura<n><f></r></e>).-->
+    <e slr="fasciatura D"><p><l>dressing<s n="n"/></l><r>fasciatura<s n="n"/><s n="f"/></r></p></e>
+    <e slr="condimento" r="LR"><p><l>dressing<s n="n"/></l><r>condimento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>dribble<s n="n"/></l><r>bava<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>dried<s n="n"/></l><r>disseccazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>desiccation<n></l><r>disseccazione<n><f></r></e>).-->
+    <e r="LR"><p><l>dried<s n="n"/></l><r>disseccazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>drill<s n="n"/></l><r>trapano<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>drilling<s n="n"/></l><r>perforazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>drink<s n="n"/></l><r>bevanda<s n="n"/><s n="f"/></r></p></e>
@@ -15637,7 +15637,7 @@
     <e r="LR"><p><l>health<s n="n"/><s n="sg"/></l><r>sanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>health<s n="n"/><s n="pl"/></l><r>sanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e slr="udito D"><p><l>hearing<s n="n"/></l><r>udito<s n="n"/><s n="m"/></r></p></e>
-    <e slr="audizione" i="yes"><p><l>hearing<s n="n"/></l><r>audizione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>hearing<n></l><r>udito<n><m></r></e>).-->
+    <e slr="audizione" r="LR"><p><l>hearing<s n="n"/></l><r>audizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>heart<s n="n"/></l><r>cuore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>heat<s n="n"/></l><r>calore<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>heater<s n="n"/></l><r>riscaldatore<s n="n"/><s n="m"/></r></p></e>
@@ -15651,13 +15651,13 @@
     <e><p><l>heel<s n="n"/></l><r>tallone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hegemony<s n="n"/></l><r>egemonia<s n="n"/><s n="f"/></r></p></e>
     <e slr="altezza D"><p><l>height<s n="n"/></l><r>altezza<s n="n"/><s n="f"/></r></p></e>
-    <e slr="statura" i="yes"><p><l>height<s n="n"/></l><r>statura<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>height<n></l><r>altezza<n><f></r></e>).-->
+    <e slr="statura" r="LR"><p><l>height<s n="n"/></l><r>statura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>helicopter<s n="n"/></l><r>elicottero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>helium<s n="n"/></l><r>elio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hell<s n="n"/></l><r>inferno<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hellenism<s n="n"/></l><r>ellenismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>helmet<s n="n"/></l><r>casco<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>help<s n="n"/></l><r>aiuto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>aid<n></l><r>aiuto<n><m></r></e>).-->
+    <e r="LR"><p><l>help<s n="n"/></l><r>aiuto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hematology<s n="n"/></l><r>ematologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hematoma<s n="n"/></l><r>ematoma<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hematuria<s n="n"/></l><r>ematuria<s n="n"/><s n="f"/></r></p></e>
@@ -15711,12 +15711,12 @@
     <e r="RL"><p><l>historian<s n="n"/></l><r>storico<s n="n"/></r></p></e>
     <e><p><l>historiography<s n="n"/></l><r>storiografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>history<s n="n"/></l><r>storia<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR" slr="colpo D"><p><l>hit<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>blow<n></l><r>colpo<n><m></r></e>).-->
-    <e slr="impatto" i="yes"><p><l>hit<s n="n"/></l><r>impatto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>hit<n></l><r>colpo<n><m></r></e>).-->
-    <e slr="successo" i="yes"><p><l>hit<s n="n"/></l><r>successo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>hit<n></l><r>colpo<n><m></r></e>).-->
+    <e slr="colpo D"><p><l>hit<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e>
+    <e slr="impatto" r="LR"><p><l>hit<s n="n"/></l><r>impatto<s n="n"/><s n="m"/></r></p></e>
+    <e slr="successo" r="LR"><p><l>hit<s n="n"/></l><r>successo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>hit<s n="n"/></l><r>hit<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hoarfrost<s n="n"/></l><r>galaverna<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>hoarfrost<s n="n"/></l><r>calaverna<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>hoarfrost<n></l><r>galaverna<n><f></r></e>).-->
+    <e r="RL"><p><l>hoarfrost<s n="n"/></l><r>calaverna<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>hockey<s n="n"/><s n="sg"/></l><r>hockey<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>hockey<s n="n"/><s n="pl"/></l><r>hockey<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>hockey<s n="n"/><s n="ND"/></l><r>hockey<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
