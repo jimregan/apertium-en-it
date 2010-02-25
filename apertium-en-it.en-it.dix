@@ -18190,15 +18190,12 @@
     <e><p><l>punishment<s n="n"/></l><r>punizione<s n="n"/><s n="f"/></r></p></e>
     <e slr="scolare D"><p><l>pupil<s n="n"/></l><r>scolare<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>pupil<s n="n"/></l><r>scolare<s n="n"/></r></p></e>
-    <e r="RL" slr="pupilla"><p><l>pupil<s n="n"/></l><r>pupilla<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>pupil<n></l><r>scolare<n><GD></r></e>).-->
+    <e slr="pupilla"><p><l>pupil<s n="n"/></l><r>pupilla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>puppet<s n="n"/></l><r>pupazzo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>puppy<s n="n"/></l><r>cucciolo<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>puppy<s n="n"/></l><r>cucciolo<s n="n"/></r></p></e>
-    <e r="LR"><p><l>purchase<s n="n"/></l><r>spesa<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>expense<n></l><r>spesa<n><f></r></e>).-->
+    <e r="LR"><p><l>purchase<s n="n"/></l><r>spesa<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>purchaser<s n="n"/></l><r>compratore<s n="n"/><s n="GD"/></r></p></e>
-    <e i="yes"><p><l>purchaser<s n="n"/></l><r>acquirente<s n="n"/><s n="mf"/></r></p></e><!--  autorestricted (<e r="RL"><l>buyer<n></l><r>acquirente<n><mf></r></e>).-->
-    <e i="yes"><p><l>purchaser<s n="n"/></l><r>committente<s n="n"/></r></p></e><!--  autorestricted (<e r="RL"><l>buyer<n></l><r>committente<n></r></e>).-->
-    <e i="yes"><p><l>purchaser<s n="n"/></l><r>compratore<s n="n"/></r></p></e><!--  autorestricted (<e r="RL"><l>buyer<n></l><r>compratore<n></r></e>).-->
     <e r="RL"><p><l>purification<s n="n"/></l><r>depurazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>purification<s n="n"/></l><r>purificazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>purism<s n="n"/></l><r>purismo<s n="n"/><s n="m"/></r></p></e>
