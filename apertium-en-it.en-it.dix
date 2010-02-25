@@ -12020,7 +12020,7 @@
     <e r="LR"><p><l>accordionist<s n="n"/></l><r>fisarmonicista<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>accordionist<s n="n"/></l><r>fisarmonicista<s n="n"/></r></p></e>
     <e slr="conto D"><p><l>account<s n="n"/></l><r>conto<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL" slr="relazione"><p><l>account<s n="n"/></l><r>relazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>account<n></l><r>conto<n><m></r></e>).-->
+    <e slr="relazione"><p><l>account<s n="n"/></l><r>relazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>account<b/>number<s n="n"/></l><r>numero<g><b/>di<b/>conto</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>accountant<s n="n"/></l><r>contabile<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>accreditation<s n="n"/></l><r>accreditamento<s n="n"/><s n="m"/></r></p></e>
@@ -12057,7 +12057,7 @@
     <e><p><l>acronym<s n="n"/></l><r>acronimo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>acrosome<s n="n"/></l><r>acrosoma<s n="n"/><s n="m"/></r></p></e>
     <e slr="atto D"><p><l>act<s n="n"/></l><r>atto<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL" slr="legge"><p><l>act<s n="n"/></l><r>legge<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>act<n></l><r>atto<n><m></r></e>).-->
+    <e slr="legge"><p><l>act<s n="n"/></l><r>legge<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>act<g><b/>of<b/>God</g><s n="n"/></l><r>causa<g><b/>di<b/>forza<b/>maggiore</g><s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>act<g><b/>of<b/>nature</g><s n="n"/></l><r>causa<g><b/>di<b/>forza<b/>maggiore</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>actinium<s n="n"/></l><r>attinio<s n="n"/><s n="m"/></r></p></e>
@@ -12454,7 +12454,7 @@
     <e><p><l>apparatus<s n="n"/></l><r>apparato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>apparition<s n="n"/></l><r>apparizione<s n="n"/><s n="f"/></r></p></e>
     <e slr="appello D"><p><l>appeal<s n="n"/></l><r>appello<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL" slr="attrazione"><p><l>appeal<s n="n"/></l><r>attrazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>appeal<n></l><r>appello<n><m></r></e>).-->
+    <e slr="attrazione"><p><l>appeal<s n="n"/></l><r>attrazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>appearance<s n="n"/></l><r>aspetto<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>appearance<s n="n"/></l><r>apparenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>appendix<s n="n"/></l><r>appendice<s n="n"/><s n="f"/></r></p></e>
@@ -12507,8 +12507,8 @@
     <e><p><l>area<s n="n"/></l><r>area<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>areflexia<s n="n"/></l><r>areflessia<s n="n"/><s n="f"/></r></p></e>
     <e r="LR" slr="discussione"><p><l>argument<s n="n"/></l><r>discussione<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL" slr="argomento D"><p><l>argument<s n="n"/></l><r>argomento<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>argument<n></l><r>discussione<n><f></r></e>).-->
-    <e slr="ragionamento" i="yes"><p><l>argument<s n="n"/></l><r>ragionamento<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>argument<n></l><r>discussione<n><f></r></e>).-->
+    <e slr="argomento D"><p><l>argument<s n="n"/></l><r>argomento<s n="n"/><s n="m"/></r></p></e>
+    <e slr="ragionamento" r="LR"><p><l>argument<s n="n"/></l><r>ragionamento<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>argument<s n="n"/></l><r>argomentazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>argumentation<s n="n"/></l><r>argomentazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>arietta<s n="n"/></l><r>aria<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>air<n></l><r>aria<n><f></r></e>).-->
@@ -12518,7 +12518,7 @@
     <e><p><l>arithmetic<s n="n"/></l><r>aritmetica<s n="n"/><s n="f"/></r></p></e>
     <e slr="arma" c="(només en plural, arms (en-ca). En plural serà polisèmica de en a ca, (braços, armes) i en sg es traduirà només com a 'braç')"><p><l>arm<s n="n"/><s n="pl"/></l><r>arma<s n="n"/></r></p></e>
     <e><p><l>arm<s n="n"/><s n="sg"/></l><r>braccio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e r="RL" slr="braccio D"><p><l>arm<s n="n"/><s n="pl"/></l><r>braccio<s n="n"/><s n="f"/><s n="pl"/></r></p></e><!--  autorestricted (<e><l>arm<n><pl></l><r>arma<n></r></e>).-->
+    <e slr="braccio D"><p><l>arm<s n="n"/><s n="pl"/></l><r>braccio<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>arm<s n="n"/><s n="pl"/></l><r>braccio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e><p><l>armament<s n="n"/></l><r>armamento<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>armed<b/>forces<s n="n"/><s n="pl"/></l><r>forza<b/>armata<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -12530,9 +12530,9 @@
     <e r="RL"><p><l>army<s n="n"/></l><r>armata<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aroma<s n="n"/></l><r>aroma<s n="n"/><s n="m"/></r></p></e>
     <e r="LR" slr="accordo D"><p><l>arrangement<s n="n"/></l><r>accordo<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL" slr="sistemazione"><p><l>arrangement<s n="n"/></l><r>sistemazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>arrangement<n></l><r>accordo<n><m></r></e>).-->
-    <e r="RL" slr="arrangiamento"><p><l>arrangement<s n="n"/></l><r>arrangiamento<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>arrangement<n></l><r>accordo<n><m></r></e>).-->
-    <e r="RL" slr="composizione" srl="arrangement"><p><l>arrangement<s n="n"/></l><r>composizione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>arrangement<n></l><r>accordo<n><m></r></e>).-->
+    <e slr="sistemazione"><p><l>arrangement<s n="n"/></l><r>sistemazione<s n="n"/><s n="f"/></r></p></e>
+    <e slr="arrangiamento"><p><l>arrangement<s n="n"/></l><r>arrangiamento<s n="n"/><s n="m"/></r></p></e>
+    <e slr="composizione" srl="arrangement"><p><l>arrangement<s n="n"/></l><r>composizione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>array<s n="n"/><s n="sg"/></l><r>varietà<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>array<s n="n"/><s n="pl"/></l><r>varietà<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>arrest<s n="n"/></l><r>arresto<s n="n"/><s n="m"/></r></p></e>
@@ -12565,7 +12565,7 @@
     <e r="LR"><p><l>artist<s n="n"/></l><r>artista<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>asbestos<s n="n"/></l><r>asbesto<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>asbestos<s n="n"/></l><r>amianto<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>ascendant<s n="n"/></l><r>ascendente<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>ancestor<n></l><r>ascendente<n><m></r></e>).-->
+    <e r="LR"><p><l>ascendant<s n="n"/></l><r>ascendente<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ascent<s n="n"/></l><r>ascenso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asceticism<s n="n"/></l><r>ascetismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ash<s n="n"/></l><r>cenere<s n="n"/><s n="f"/></r></p></e>
@@ -12726,8 +12726,8 @@
     <e r="RL"><p><l>baker<s n="n"/></l><r>panettiere<s n="n"/></r></p></e>
     <e><p><l>bakery<s n="n"/></l><r>panetteria<s n="n"/><s n="f"/></r></p></e>
     <e slr="bilancio"><p><l>balance<s n="n"/></l><r>bilancio<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL" slr="equilibrio D"><p><l>balance<s n="n"/></l><r>equilibrio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>balance<n></l><r>bilancio<n><m></r></e>).-->
-    <e r="RL" slr="saldo"><p><l>balance<s n="n"/></l><r>saldo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>balance<n></l><r>bilancio<n><m></r></e>).-->
+    <e slr="equilibrio D"><p><l>balance<s n="n"/></l><r>equilibrio<s n="n"/><s n="m"/></r></p></e>
+    <e slr="saldo"><p><l>balance<s n="n"/></l><r>saldo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>balcony<s n="n"/></l><r>balcone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>balkanisation<s n="n"/></l><r>balcanizzazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ball<s n="n"/></l><r>palla<s n="n"/><s n="f"/></r></p></e>
@@ -12757,7 +12757,7 @@
     <e><p><l>bangle<s n="n"/></l><r>braccialetto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>banishment<s n="n"/></l><r>esilio<s n="n"/><s n="m"/></r></p></e>
     <e slr="banca D"><p><l>bank<s n="n"/></l><r>banca<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL" slr="sponda"><p><l>bank<s n="n"/></l><r>sponda<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>bank<n></l><r>banca<n><f></r></e>).-->
+    <e slr="sponda"><p><l>bank<s n="n"/></l><r>sponda<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>bank<b/>note<s n="n"/></l><r>banconota<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>banker<s n="n"/></l><r>banchiere<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>banker<s n="n"/></l><r>banchiere<s n="n"/></r></p></e>
