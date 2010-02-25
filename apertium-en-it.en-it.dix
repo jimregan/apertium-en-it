@@ -3054,13 +3054,13 @@
     <e r="LR"><p><l>without<b/>importance<s n="adj"/></l><r>senza<b/>importanza<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>without<b/>meaning<s n="adj"/></l><r>senza<b/>senso<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>wonderful<s n="adj"/></l><r>meraviglioso<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>workable<s n="adj"/></l><r>fattibile<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>feasible<adj></l><r>fattibile<adj><mf></r></e>).-->
+    <e r="LR"><p><l>workable<s n="adj"/></l><r>fattibile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>working<s n="adj"/></l><r>operaio<s n="adj"/></r></p></e>
     <e><p><l>world<s n="adj"/></l><r>mondiale<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>world-wide<s n="adj"/></l><r>mondiale<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>world<adj></l><r>mondiale<adj><mf></r></e>).-->
-    <e r="LR"><p><l>worldly<s n="adj"/></l><r>mondano<s n="adj"/></r></p></e><!--  autorestricted (<e><l>mundane<adj></l><r>mondano<adj></r></e>).-->
+    <e r="LR"><p><l>world-wide<s n="adj"/></l><r>mondiale<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>worldly<s n="adj"/></l><r>mondano<s n="adj"/></r></p></e>
     <e><p><l>worrisome<s n="adj"/></l><r>preoccupante<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>worthwhile<s n="adj"/></l><r>interessante<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>interesting<adj></l><r>interessante<adj><mf></r></e>).-->
+    <e r="LR"><p><l>worthwhile<s n="adj"/></l><r>interessante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>worthy<s n="adj"/></l><r>degno<s n="adj"/></r></p></e>
     <e><p><l>written<s n="adj"/></l><r>scritto<s n="adj"/></r></p></e>
     <e><p><l>wrong<s n="adj"/></l><r>incorretto<s n="adj"/></r></p></e>
@@ -3260,7 +3260,6 @@
     <e><i>Aglaë<s n="np"/><s n="ant"/></i></e>
     <e><i>Agnes<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Agnese<s n="np"/><s n="ant"/></l><r>Agnese<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Agnese<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Agnese<np><ant></l><r>Agnese<np><ant></r></e>).-->
     <e><p><l>Agnew<s n="np"/><s n="cog"/><s n="sg"/></l><r>Agnew<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>Agnew<s n="np"/><s n="cog"/><s n="pl"/></l><r>Agnew<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><i>Agnieszka<s n="np"/><s n="ant"/></i></e>
@@ -3269,7 +3268,6 @@
     <e><p><l>Agostinacchio<s n="np"/><s n="cog"/><s n="sg"/></l><r>Agostinacchio<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>Agostinacchio<s n="np"/><s n="cog"/><s n="pl"/></l><r>Agostinacchio<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>Agostino<s n="np"/><s n="ant"/></l><r>Agostino<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Agostino<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Agostino<np><ant></l><r>Agostino<np><ant></r></e>).-->
     <e><i>Agota<s n="np"/><s n="ant"/></i></e>
     <e><i>Agripina<s n="np"/><s n="ant"/></i></e>
     <e><i>Agripino<s n="np"/><s n="ant"/></i></e>
@@ -3429,7 +3427,6 @@
     <e><i>Alessandra<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Alessandria<s n="np"/><s n="loc"/></l><r>Alessandria<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><p><l>Alessandro<s n="np"/><s n="ant"/></l><r>Alessandro<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Alessandro<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Alessandro<np><ant></l><r>Alessandro<np><ant></r></e>).-->
     <e><i>Aleta<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Aleutian<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Aleutine<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><i>Alex<s n="np"/><s n="ant"/></i></e>
@@ -3535,7 +3532,6 @@
     <e><p><l>Alonso<s n="np"/><s n="ant"/></l><r>Alonso<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Alonso<s n="np"/><s n="cog"/><s n="sg"/></l><r>Alonso<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>Alonso<s n="np"/><s n="cog"/><s n="pl"/></l><r>Alonso<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e i="yes"><i>Alonso<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Alonso<np><ant></l><r>Alonso<np><ant></r></e>).-->
     <e><i>Alonzo<s n="np"/><s n="ant"/></i></e>
     <e><i>Alor<s n="np"/><s n="ant"/></i></e>
     <e><i>Alosnos<s n="np"/><s n="ant"/></i></e>
@@ -3670,7 +3666,6 @@
     <e><i>Andre<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Andre<b/>Agassi<s n="np"/><s n="ant"/></l><r>Andre<b/>Agassi<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Andrea<s n="np"/><s n="ant"/></l><r>Andrea<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Andrea<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Andrea<np><ant></l><r>Andrea<np><ant></r></e>).-->
     <e><i>Andreas<s n="np"/><s n="ant"/></i></e>
     <e><i>Andreina<s n="np"/><s n="ant"/></i></e>
     <e><i>Andres<s n="np"/><s n="ant"/></i></e>
@@ -3832,7 +3827,6 @@
     <e><i>Ariano<s n="np"/><s n="ant"/></i></e>
     <e><i>Aricel<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Ariel<s n="np"/><s n="ant"/></l><r>Ariel<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Ariel<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Ariel<np><ant></l><r>Ariel<np><ant></r></e>).-->
     <e><i>Arielle<s n="np"/><s n="ant"/></i></e>
     <e><i>Arienne<s n="np"/><s n="ant"/></i></e>
     <e><i>Ario<s n="np"/><s n="ant"/></i></e>
@@ -3920,7 +3914,6 @@
     <e><i>Ashtyn<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Asia<s n="np"/><s n="ant"/></l><r>Asia<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Asia<s n="np"/><s n="loc"/></l><r>Asia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
-    <e i="yes"><i>Asia<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Asia<np><ant></l><r>Asia<np><ant></r></e>).-->
     <e><i>Asier<s n="np"/><s n="ant"/></i></e>
     <e><i>Aspen<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Asselborn<s n="np"/><s n="cog"/><s n="sg"/></l><r>Asselborn<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -4096,7 +4089,6 @@
     <e><i>Barthélmy<s n="np"/><s n="ant"/></i></e>
     <e><i>Bartolomea<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Bartolomeo<s n="np"/><s n="ant"/></l><r>Bartolomeo<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Bartolomeo<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Bartolomeo<np><ant></l><r>Bartolomeo<np><ant></r></e>).-->
     <e><i>Bartolommeo<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Bartolomé<s n="np"/><s n="ant"/></l><r>Bartolomé<s n="np"/><s n="ant"/></r></p></e>
     <e><i>Bartomeu<s n="np"/><s n="ant"/></i></e>
@@ -4128,7 +4120,6 @@
     <e><i>Beata<s n="np"/><s n="ant"/></i></e>
     <e><i>Beato<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Beatrice<s n="np"/><s n="ant"/></l><r>Beatrice<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Beatrice<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Beatrice<np><ant></l><r>Beatrice<np><ant></r></e>).-->
     <e><p><l>Beatriz<s n="np"/><s n="ant"/></l><r>Beatriz<s n="np"/><s n="ant"/></r></p></e>
     <e><i>Beatriz<b/>del<b/>Valle<s n="np"/><s n="ant"/></i></e>
     <e><i>Beau<s n="np"/><s n="ant"/></i></e>
@@ -4614,7 +4605,6 @@
     <e><i>Carlito<s n="np"/><s n="ant"/></i></e>
     <e><i>Carlitos<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Carlo<s n="np"/><s n="ant"/></l><r>Carlo<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Carlo<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Carlo<np><ant></l><r>Carlo<np><ant></r></e>).-->
     <e><p><l>Carlos<s n="np"/><s n="ant"/></l><r>Carlos<s n="np"/><s n="ant"/></r></p></e>
     <e><i>Carlos<b/>Casares<s n="np"/><s n="ant"/></i></e>
     <e><i>Carlos<b/>Martel<s n="np"/><s n="ant"/></i></e>
@@ -4692,7 +4682,6 @@
     <e><p><l>Catalonia<s n="np"/><s n="loc"/></l><r>Catalogna<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><i>Cateline<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Caterina<s n="np"/><s n="ant"/></l><r>Caterina<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Caterina<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Caterina<np><ant></l><r>Caterina<np><ant></r></e>).-->
     <e><i>Caterine<s n="np"/><s n="ant"/></i></e>
     <e><i>Catharine<s n="np"/><s n="ant"/></i></e>
     <e><i>Catherin<s n="np"/><s n="ant"/></i></e>
@@ -5156,7 +5145,6 @@
     <e><i>Côme<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Dacia<s n="np"/><s n="ant"/></l><r>Dacia<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Dacia<s n="np"/><s n="loc"/></l><r>Dacia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
-    <e i="yes"><i>Dacia<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Dacia<np><ant></l><r>Dacia<np><ant></r></e>).-->
     <e><i>Daciano<s n="np"/><s n="ant"/></i></e>
     <e><i>Dacil<s n="np"/><s n="ant"/></i></e>
     <e><i>Dacio<s n="np"/><s n="ant"/></i></e>
@@ -5225,7 +5213,6 @@
     <e><p><l>Daniel<b/>Ortega<s n="np"/><s n="ant"/></l><r>Daniel<b/>Ortega<s n="np"/><s n="ant"/></r></p></e>
     <e><i>Daniela<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Daniele<s n="np"/><s n="ant"/></l><r>Daniele<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Daniele<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Daniele<np><ant></l><r>Daniele<np><ant></r></e>).-->
     <e><i>Daniella<s n="np"/><s n="ant"/></i></e>
     <e><i>Danielle<s n="np"/><s n="ant"/></i></e>
     <e><i>Danila<s n="np"/><s n="ant"/></i></e>
@@ -5275,7 +5262,6 @@
     <e><i>Daviana<s n="np"/><s n="ant"/></i></e>
     <e><p><l>David<s n="np"/><s n="ant"/></l><r>David<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Davide<s n="np"/><s n="ant"/></l><r>Davide<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Davide<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Davide<np><ant></l><r>Davide<np><ant></r></e>).-->
     <e><i>Davin<s n="np"/><s n="ant"/></i></e>
     <e><i>Davinia<s n="np"/><s n="ant"/></i></e>
     <e><i>Davion<s n="np"/><s n="ant"/></i></e>
@@ -5689,7 +5675,6 @@
     <e><i>Elcide<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Elda<s n="np"/><s n="ant"/></l><r>Elda<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Elda<s n="np"/><s n="loc"/></l><r>Elda<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
-    <e i="yes"><i>Elda<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Elda<np><ant></l><r>Elda<np><ant></r></e>).-->
     <e><i>Eleanor<s n="np"/><s n="ant"/></i></e>
     <e><i>Electo<s n="np"/><s n="ant"/></i></e>
     <e><i>Electra<s n="np"/><s n="ant"/></i></e>
@@ -5704,7 +5689,6 @@
     <e><i>Eleázaro<s n="np"/><s n="ant"/></i></e>
     <e><i>Eli<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Elia<s n="np"/><s n="ant"/></l><r>Elia<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Elia<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Elia<np><ant></l><r>Elia<np><ant></r></e>).-->
     <e><i>Elian<s n="np"/><s n="ant"/></i></e>
     <e><i>Eliana<s n="np"/><s n="ant"/></i></e>
     <e><i>Eliano<s n="np"/><s n="ant"/></i></e>
@@ -5819,7 +5803,6 @@
     <e><i>Enrica<s n="np"/><s n="ant"/></i></e>
     <e><i>Enrichetta<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Enrico<s n="np"/><s n="ant"/></l><r>Enrico<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Enrico<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Enrico<np><ant></l><r>Enrico<np><ant></r></e>).-->
     <e><p><l>Enrique<s n="np"/><s n="ant"/></l><r>Enrique<s n="np"/><s n="ant"/></r></p></e>
     <e><i>Enriqueta<s n="np"/><s n="ant"/></i></e>
     <e><i>Enzio<s n="np"/><s n="ant"/></i></e>
@@ -5926,7 +5909,6 @@
     <e><p><l>Ethiopia<s n="np"/><s n="loc"/></l><r>Etiopia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><i>Etienne<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Ettore<s n="np"/><s n="ant"/></l><r>Ettore<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Ettore<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Ettore<np><ant></l><r>Ettore<np><ant></r></e>).-->
     <e><p><l>Etxeberria<s n="np"/><s n="cog"/><s n="sg"/></l><r>Etxeberria<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>Etxeberria<s n="np"/><s n="cog"/><s n="pl"/></l><r>Etxeberria<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>Euclid<s n="np"/><s n="ant"/></l><r>Euclide<s n="np"/><s n="ant"/></r></p></e>
@@ -6089,12 +6071,10 @@
     <e><i>Felisa<s n="np"/><s n="ant"/></i></e>
     <e><i>Felisia<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Felix<s n="np"/><s n="ant"/></l><r>Felix<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Felix<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Felix<np><ant></l><r>Felix<np><ant></r></e>).-->
     <e><i>Felìcita<s n="np"/><s n="ant"/></i></e>
     <e><i>Ferdinand<s n="np"/><s n="ant"/></i></e>
     <e><i>Ferdinanda<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Ferdinando<s n="np"/><s n="ant"/></l><r>Ferdinando<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Ferdinando<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Ferdinando<np><ant></l><r>Ferdinando<np><ant></r></e>).-->
     <e><p><l>Fermi<s n="np"/><s n="cog"/><s n="sg"/></l><r>Fermi<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>Fermi<s n="np"/><s n="cog"/><s n="pl"/></l><r>Fermi<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><i>Fermina<s n="np"/><s n="ant"/></i></e>
@@ -6147,7 +6127,6 @@
     <e><i>Filimor<s n="np"/><s n="ant"/></i></e>
     <e><i>Filipo<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Filippo<s n="np"/><s n="ant"/></l><r>Filippo<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Filippo<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Filippo<np><ant></l><r>Filippo<np><ant></r></e>).-->
     <e><i>Filis<s n="np"/><s n="ant"/></i></e>
     <e><i>Fillipo<s n="np"/><s n="ant"/></i></e>
     <e><i>Filomela<s n="np"/><s n="ant"/></i></e>
@@ -6235,7 +6214,6 @@
     <e><i>Francesc<s n="np"/><s n="ant"/></i></e>
     <e><i>Francesca<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Francesco<s n="np"/><s n="ant"/></l><r>Francesco<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Francesco<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Francesco<np><ant></l><r>Francesco<np><ant></r></e>).-->
     <e><i>Francette<s n="np"/><s n="ant"/></i></e>
     <e><i>Francina<s n="np"/><s n="ant"/></i></e>
     <e><i>Francine<s n="np"/><s n="ant"/></i></e>
@@ -6307,7 +6285,6 @@
     <e><p><l>Gabriel<s n="np"/><s n="ant"/></l><r>Gabriel<s n="np"/><s n="ant"/></r></p></e>
     <e><i>Gabriela<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Gabriele<s n="np"/><s n="ant"/></l><r>Gabriele<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Gabriele<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Gabriele<np><ant></l><r>Gabriele<np><ant></r></e>).-->
     <e><i>Gabriella<s n="np"/><s n="ant"/></i></e>
     <e><i>Gabrielle<s n="np"/><s n="ant"/></i></e>
     <e><i>Gadiel<s n="np"/><s n="ant"/></i></e>
@@ -6437,7 +6414,6 @@
     <e><i>Georgette<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Georgia<s n="np"/><s n="ant"/></l><r>Georgia<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Georgia<s n="np"/><s n="loc"/></l><r>Georgia<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
-    <e i="yes"><i>Georgia<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Georgia<np><ant></l><r>Georgia<np><ant></r></e>).-->
     <e><i>Georgina<s n="np"/><s n="ant"/></i></e>
     <e><i>Georgine<s n="np"/><s n="ant"/></i></e>
     <e><i>Georgio<s n="np"/><s n="ant"/></i></e>
@@ -6461,7 +6437,6 @@
     <e><i>Germán<s n="np"/><s n="ant"/></i></e>
     <e><i>Gerolamo<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Geronimo<s n="np"/><s n="ant"/></l><r>Geronimo<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Geronimo<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Geronimo<np><ant></l><r>Geronimo<np><ant></r></e>).-->
     <e><i>Gerry<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Gerry<b/>Adams<s n="np"/><s n="ant"/></l><r>Gerry<b/>Adams<s n="np"/><s n="ant"/></r></p></e>
     <e><i>Gerson<s n="np"/><s n="ant"/></i></e>
@@ -6482,10 +6457,8 @@
     <e><i>Giachetta<s n="np"/><s n="ant"/></i></e>
     <e><i>Giacinta<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Giacinto<s n="np"/><s n="ant"/></l><r>Giacinto<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Giacinto<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Giacinto<np><ant></l><r>Giacinto<np><ant></r></e>).-->
     <e><i>Giacobbe<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Giacomo<s n="np"/><s n="ant"/></l><r>Giacomo<s n="np"/><s n="ant"/></r></p></e>
-    <e i="yes"><i>Giacomo<s n="np"/><s n="ant"/></i></e><!--  autorestricted (<e><l>Giacomo<np><ant></l><r>Giacomo<np><ant></r></e>).-->
     <e><i>Giada<s n="np"/><s n="ant"/></i></e>
     <e><i>Giambattista<s n="np"/><s n="ant"/></i></e>
     <e><i>Giampaolo<s n="np"/><s n="ant"/></i></e>
