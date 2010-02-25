@@ -12744,6 +12744,7 @@
     <e r="LR"><p><l>balm<s n="n"/></l><r>balsamo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>balneotherapy<s n="n"/></l><r>balneoterapia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>balsam<s n="n"/></l><r>balsamo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lip<b/>balm<s n="n"/></l><r>balsamo<b/>labiale<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>balustrade<s n="n"/></l><r>balaustra<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>bamboo<s n="n"/><s n="sg"/></l><r>bambù<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>bamboo<s n="n"/><s n="pl"/></l><r>bambù<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -16513,7 +16514,14 @@
     <e r="LR"><p><l>load<s n="n"/></l><r>carica<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>burden<n></l><r>carica<n><f></r></e>).-->
     <e><p><l>local<b/>mafia<s n="n"/></l><r>camorra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>localism<s n="n"/></l><r>localismo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>crow<s n="n"/></l><r>corvo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>raven<s n="n"/></l><r>corvo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>location<s n="n"/></l><r>localizzazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pancake<s n="n"/></l><r>crêpe<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e r="LR"><p><l>grand<b/>master<s n="n"/></l><r>gran<b/>maestro<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>grand<b/>master<s n="n"/></l><r>gran<b/>maestro<s n="n"/></r></p></e>
+    <e><p><l>backup<s n="n"/></l><r>riserva<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>LASIK<s n="n"/><s n="acr"/></l><r>LASIK<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>location<s n="n"/></l><r>ubicazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>location<n></l><r>localizzazione<n><f></r></e>).-->
     <e r="RL"><p><l>location<s n="n"/></l><r>collocazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>location<n></l><r>localizzazione<n><f></r></e>).-->
     <e><p><l>locative<s n="n"/></l><r>locativo<s n="n"/><s n="m"/></r></p></e>
@@ -16525,10 +16533,10 @@
     <e><p><l>logic<s n="n"/></l><r>logica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>logistics<s n="n"/></l><r>logistica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>logotype<s n="n"/></l><r>logo<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>look<s n="n"/></l><r>aspetto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>appearance<n></l><r>aspetto<n><m></r></e>).-->
+    <e r="LR"><p><l>look<s n="n"/></l><r>aspetto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>loophole<s n="n"/></l><r>scappatoia<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>lord<s n="n"/></l><r>signore<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>lorry<s n="n"/></l><r>autocarro<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>lorry<s n="n"/></l><r>autocarro<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>lorry<s n="n"/><s n="sg"/></l><r>camion<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>lorry<s n="n"/><s n="pl"/></l><r>camion<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>lorry<b/>driver<s n="n"/></l><r>camionista<s n="n"/><s n="GD"/></r></p></e>
@@ -18246,6 +18254,8 @@
     <e r="LR"><p><l>race<s n="n"/></l><r>razza<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>breed<n></l><r>razza<n><f></r></e>).-->
     <e i="yes"><p><l>race<s n="n"/></l><r>carriera<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>career<n></l><r>carriera<n><f></r></e>).-->
     <e><p><l>racism<s n="n"/></l><r>razzismo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>antiracism<s n="n"/></l><r>antirazzismo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>antiracialism<s n="n"/></l><r>antirazzismo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>radar<s n="n"/><s n="sg"/></l><r>radar<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>radar<s n="n"/><s n="pl"/></l><r>radar<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>radar<s n="n"/><s n="ND"/></l><r>radar<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -19458,12 +19468,15 @@
     <e r="LR"><p><l>sweetheart<s n="n"/></l><r>innamorato<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>swimming<s n="n"/></l><r>nuoto<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>swimming<s n="n"/><s n="sg"/></l><r>nuoto<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-    <e r="LR"><p><l>swimming<b/>pool<s n="n"/></l><r>piscina<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>pool<n></l><r>piscina<n><f></r></e>).-->
+    <e r="LR"><p><l>swimming<b/>pool<s n="n"/></l><r>piscina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>swindle<s n="n"/></l><r>truffa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aptitude<s n="n"/></l><r>attitudine<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>barrier<s n="n"/></l><r>barriera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>species<b/>barrier<s n="n"/></l><r>barriera<g><b/>delle<b/>specie</g><s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>swine<s n="n"/></l><r>porco<s n="n"/><s n="m"/></r></p></e>
     <e r="LR" slr="cambio"><p><l>swing<s n="n"/></l><r>cambio<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL" slr="altalena"><p><l>swing<s n="n"/></l><r>altalena<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>swing<n></l><r>cambio<n><m></r></e>).-->
-    <e r="RL" slr="oscillazione D"><p><l>swing<s n="n"/></l><r>oscillazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>swing<n></l><r>cambio<n><m></r></e>).-->
+    <e slr="altalena"><p><l>swing<s n="n"/></l><r>altalena<s n="n"/><s n="f"/></r></p></e>
+    <e slr="oscillazione D"><p><l>swing<s n="n"/></l><r>oscillazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>switch<s n="n"/></l><r>cambio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>change<n></l><r>cambio<n><m></r></e>).-->
     <e><p><l>switching<s n="n"/></l><r>commutazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sword<s n="n"/></l><r>spada<s n="n"/><s n="f"/></r></p></e>
@@ -19816,6 +19829,7 @@
     <e><p><l>transmittance<s n="n"/></l><r>trasmittanza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>transmutation<s n="n"/></l><r>trasmutazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>transparency<s n="n"/></l><r>trasparenza<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>openness<s n="n"/></l><r>trasparenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>transpiration<s n="n"/></l><r>traspirazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>transplantation<s n="n"/></l><r>trapianto<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>transport<s n="n"/></l><r>trasporto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>carriage<n></l><r>trasporto<n><m></r></e>).-->
