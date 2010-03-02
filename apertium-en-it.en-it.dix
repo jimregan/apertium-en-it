@@ -913,7 +913,7 @@
     <e><p><l>collapsible<s n="adj"/></l><r>piegabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>collateral<s n="adj"/></l><r>collaterale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>collective<s n="adj"/></l><r>collettivo<s n="adj"/></r></p></e>
-    <e><p><l>college<s n="adj"/></l><r>universitario<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>college<s n="adj"/></l><r>universitario<s n="adj"/></r></p></e>
     <e><p><l>collegiate<s n="adj"/></l><r>collegiale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>colloquial<s n="adj"/></l><r>colloquiale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>colluvial<s n="adj"/></l><r>colluviale<s n="adj"/><s n="mf"/></r></p></e>
@@ -2411,8 +2411,8 @@
     <e><p><l>political<s n="adj"/></l><r>politico<s n="adj"/></r></p></e>
     <e><p><l>pondered<s n="adj"/></l><r>ponderato<s n="adj"/></r></p></e>
     <e><p><l>popular<s n="adj"/></l><r>popolare<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="RL"><p><l>popular<s n="adj"/></l><r>divulgativo<s n="adj"/></r></p></e><!--  autorestricted (<e><l>popular<adj></l><r>popolare<adj><mf></r></e>).-->
-    <e r="LR"><p><l>populational<s n="adj"/></l><r>popolare<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>popular<adj></l><r>popolare<adj><mf></r></e>).-->
+    <e r="RL"><p><l>popular<s n="adj"/></l><r>divulgativo<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>populational<s n="adj"/></l><r>popolare<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>portable<s n="adj"/></l><r>portatile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>portuguese<s n="adj"/></l><r>portoghese<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>positional<s n="adj"/></l><r>posizionale<s n="adj"/><s n="mf"/></r></p></e>
@@ -2923,8 +2923,8 @@
     <e><p><l>unconditioned<s n="adj"/></l><r>incondizionato<s n="adj"/></r></p></e>
     <e><p><l>uncontrolled<s n="adj"/></l><r>incontrollato<s n="adj"/></r></p></e>
     <e><p><l>uncooked<s n="adj"/></l><r>crudo<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>undecided<s n="adj"/></l><r>indeciso<s n="adj"/></r></p></e><!--  autorestricted (<e><l>hesitant<adj></l><r>indeciso<adj></r></e>).-->
-    <e r="LR"><p><l>undeclinable<s n="adj"/></l><r>indeclinabile<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>indeclinable<adj></l><r>indeclinabile<adj><mf></r></e>).-->
+    <e r="LR"><p><l>undecided<s n="adj"/></l><r>indeciso<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>undeclinable<s n="adj"/></l><r>indeclinabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>undemonstrable<s n="adj"/></l><r>indimostrabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>underdeveloped<s n="adj"/></l><r>sottosviluppato<s n="adj"/></r></p></e>
     <e><p><l>underground<s n="adj"/></l><r>sotterraneo<s n="adj"/></r></p></e>
@@ -2934,7 +2934,7 @@
     <e><p><l>uneconomic<s n="adj"/></l><r>antieconomico<s n="adj"/></r></p></e>
     <e><p><l>unemployed<s n="adj"/></l><r>disoccupato<s n="adj"/></r></p></e>
     <e><p><l>unequal<s n="adj"/></l><r>disuguale<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>uneven<s n="adj"/></l><r>disuguale<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>unequal<adj></l><r>disuguale<adj><mf></r></e>).-->
+    <e r="LR"><p><l>uneven<s n="adj"/></l><r>disuguale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>unexpected<s n="adj"/></l><r>inaspettato<s n="adj"/></r></p></e>
     <e><p><l>unfair<s n="adj"/></l><r>ingiusto<s n="adj"/></r></p></e>
     <e><p><l>unfaithful<s n="adj"/></l><r>infedele<s n="adj"/><s n="mf"/></r></p></e>
@@ -2950,7 +2950,7 @@
     <e r="LR"><p><l>unique<s n="adj"/></l><r>unico<s n="adj"/></r></p></e>
     <e><p><l>united<s n="adj"/></l><r>unito<s n="adj"/></r></p></e>
     <e><p><l>universal<s n="adj"/></l><r>universale<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>university<s n="adj"/></l><r>universitario<s n="adj"/></r></p></e><!--  autorestricted (<e><l>college<adj></l><r>universitario<adj></r></e>).-->
+    <e><p><l>university<s n="adj"/></l><r>universitario<s n="adj"/></r></p></e>
     <e><p><l>unkind<s n="adj"/><s n="sint"/></l><r>antipatico<s n="adj"/></r></p></e>
     <e><p><l>unknowable<s n="adj"/></l><r>inconoscibile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>unknown<s n="adj"/></l><r>sconosciuto<s n="adj"/></r></p></e>
@@ -3071,6 +3071,286 @@
     <e r="RL"><p><l>yours<s n="adj"/></l><r>vostro<s n="adj"/></r></p></e>
     <e><p><l>yugoslav<s n="adj"/></l><r>iugoslavo<s n="adj"/></r></p></e>
     <e><p><l>zoological<s n="adj"/></l><r>zoologico<s n="adj"/></r></p></e>
+    <e><p><l>spare<s n="adj"/></l><r>di<b/>riserva<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>stillborn<s n="adj"/></l><r>nato<b/>muerto<s n="adj"/></r></p></e>
+    <e><p><l>melomaniac<s n="adj"/></l><r>melomane<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>memorial<s n="adj"/></l><r>commemorativo<s n="adj"/></r></p></e>
+    <e><p><l>merciless<s n="adj"/></l><r>spietato<s n="adj"/></r></p></e>
+    <e><p><l>mesenchymatous<s n="adj"/></l><r>mesenchimatoso<s n="adj"/></r></p></e>
+    <e><p><l>mesenteric<s n="adj"/></l><r>mesenterico<s n="adj"/></r></p></e>
+    <e><p><l>metonymic<s n="adj"/></l><r>metonimico<s n="adj"/></r></p></e>
+    <e><p><l>mexican<s n="adj"/></l><r>messicano<s n="adj"/></r></p></e>
+    <e><p><l>microbiological<s n="adj"/></l><r>microbiologico<s n="adj"/></r></p></e>
+    <e><p><l>microlithic<s n="adj"/></l><r>microlitico<s n="adj"/></r></p></e>
+    <e><p><l>microscopic<s n="adj"/></l><r>microscopico<s n="adj"/></r></p></e>
+    <e><p><l>migratory<s n="adj"/></l><r>migratorio<s n="adj"/></r></p></e>
+    <e><p><l>militant<s n="adj"/></l><r>militante<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>militaristic<s n="adj"/></l><r>militarista<s n="adj"/></r></p></e>
+    <e><p><l>millionaire<s n="adj"/></l><r>milionari<s n="adj"/></r></p></e>
+    <e><p><l>mineral<s n="adj"/></l><r>minerale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>minimal<s n="adj"/></l><r>minimo<s n="adj"/></r></p></e>
+    <e><p><l>mining<s n="adj"/></l><r>minerario<s n="adj"/></r></p></e>
+    <e><p><l>minoritary<s n="adj"/></l><r>minoritario<s n="adj"/></r></p></e>
+    <e><p><l>miscible<s n="adj"/></l><r>miscibile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>miserable<s n="adj"/></l><r>miserabile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>missionary<s n="adj"/></l><r>missionario<s n="adj"/></r></p></e>
+    <e><p><l>mitochondrial<s n="adj"/></l><r>mitocondriale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>mitotic<s n="adj"/></l><r>mitotico<s n="adj"/></r></p></e>
+    <e><p><l>mixed<s n="adj"/></l><r>misto<s n="adj"/></r></p></e>
+    <e><p><l>mnemonic<s n="adj"/></l><r>mnemonico<s n="adj"/></r></p></e>
+    <e><p><l>modernist<s n="adj"/></l><r>modernista<s n="adj"/></r></p></e>
+    <e><p><l>modifiable<s n="adj"/></l><r>modificabile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>monaural<s n="adj"/></l><r>monofonico<s n="adj"/></r></p></e>
+    <e><p><l>monetarist<s n="adj"/></l><r>monetarista<s n="adj"/></r></p></e>
+    <e><p><l>monochrome<s n="adj"/></l><r>monocromo<s n="adj"/></r></p></e>
+    <e><p><l>monoclinic<s n="adj"/></l><r>monoclinico<s n="adj"/></r></p></e>
+    <e><p><l>monosemic<s n="adj"/></l><r>monosemico<s n="adj"/></r></p></e>
+    <e><p><l>monotheistic<s n="adj"/></l><r>monoteista<s n="adj"/></r></p></e>
+    <e><p><l>morganatic<s n="adj"/></l><r>morganatico<s n="adj"/></r></p></e>
+    <e><p><l>morphogenetic<s n="adj"/></l><r>morfogenetico<s n="adj"/></r></p></e>
+    <e><p><l>morphological<s n="adj"/></l><r>morfologico<s n="adj"/></r></p></e>
+    <e><p><l>morphosyntactic<s n="adj"/></l><r>morfosintattico<s n="adj"/></r></p></e>
+    <e><p><l>motivational<s n="adj"/></l><r>motivazionale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>mountainous<s n="adj"/></l><r>montagnoso<s n="adj"/></r></p></e>
+    <e><p><l>movable<s n="adj"/></l><r>movibile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>muscovite<s n="adj"/></l><r>moscovita<s n="adj"/></r></p></e>
+    <e><p><l>muslim<s n="adj"/></l><r>mussulmano<s n="adj"/></r></p></e>
+    <e><p><l>mutant<s n="adj"/></l><r>mutante<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>mute<s n="adj"/></l><r>muto<s n="adj"/></r></p></e>
+    <e><p><l>mystic<s n="adj"/></l><r>mistico<s n="adj"/></r></p></e>
+    <e><p><l>mythical<s n="adj"/></l><r>mitico<s n="adj"/></r></p></e>
+    <e><p><l>mythological<s n="adj"/></l><r>mitologico<s n="adj"/></r></p></e>
+    <e><p><l>napoleonic<s n="adj"/></l><r>napoleonico<s n="adj"/></r></p></e>
+    <e><p><l>narcissistic<s n="adj"/></l><r>narcisista<s n="adj"/></r></p></e>
+    <e><p><l>narrative<s n="adj"/></l><r>narrativo<s n="adj"/></r></p></e>
+    <e><p><l>nasal<s n="adj"/></l><r>nasale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>nationalist<s n="adj"/></l><r>nazionalista<s n="adj"/></r></p></e>
+    <e><p><l>naturalistic<s n="adj"/></l><r>naturalista<s n="adj"/></r></p></e>
+    <e><p><l>nautical<s n="adj"/></l><r>nautico<s n="adj"/></r></p></e>
+    <e><p><l>nazi<s n="adj"/></l><r>nazista<s n="adj"/></r></p></e>
+    <e><p><l>neofascist<s n="adj"/></l><r>neofascista<s n="adj"/></r></p></e>
+    <e><p><l>neonazi<s n="adj"/></l><r>neonazista<s n="adj"/></r></p></e>
+    <e><p><l>nepalese<s n="adj"/></l><r>nepalese<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>neuromuscular<s n="adj"/></l><r>neuromuscolare<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>neuter<s n="adj"/></l><r>neutro<s n="adj"/></r></p></e>
+    <e><p><l>neutral<s n="adj"/></l><r>neutro<s n="adj"/></r></p></e>
+    <e><p><l>nicaraguan<s n="adj"/></l><r>nicaraguense<s n="adj"/></r></p></e>
+    <e><p><l>nihilistic<s n="adj"/></l><r>nichilista<s n="adj"/></r></p></e>
+    <e><p><l>nilpotent<s n="adj"/></l><r>nilpotente<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>northeastern<s n="adj"/></l><r>nordorientale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>northern<s n="adj"/></l><r>del<b/>norte<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>observational<s n="adj"/></l><r>osservazionale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>obstruent<s n="adj"/></l><r>ostruente<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>oceanographic<s n="adj"/></l><r>oceanografico<s n="adj"/></r></p></e>
+    <e><p><l>ochre<s n="adj"/></l><r>ocre<s n="adj"/></r></p></e>
+    <e><p><l>octahedral<s n="adj"/></l><r>ottaedrico<s n="adj"/></r></p></e>
+    <e><p><l>operatic<s n="adj"/></l><r>operistico<s n="adj"/></r></p></e>
+    <e><p><l>opportunist<s n="adj"/></l><r>opportunista<s n="adj"/></r></p></e>
+    <e><p><l>optimistic<s n="adj"/></l><r>ottimista<s n="adj"/></r></p></e>
+    <e><p><l>optoelectronical<s n="adj"/></l><r>optoelettronico<s n="adj"/></r></p></e>
+    <e><p><l>orderly<s n="adj"/></l><r>ordinado<s n="adj"/></r></p></e>
+    <e><p><l>orthodox<s n="adj"/></l><r>ortodosso<s n="adj"/></r></p></e>
+    <e><p><l>osseous<s n="adj"/></l><r>osseo<s n="adj"/></r></p></e>
+    <e><p><l>ovoviviparous<s n="adj"/></l><r>ovoviviparo<s n="adj"/></r></p></e>
+    <e><p><l>oxytonic<s n="adj"/></l><r>ossitono<s n="adj"/></r></p></e>
+    <e><p><l>pacifist<s n="adj"/></l><r>pacifista<s n="adj"/></r></p></e>
+    <e><p><l>palaeographical<s n="adj"/></l><r>paleografico<s n="adj"/></r></p></e>
+    <e><p><l>palaeotropical<s n="adj"/></l><r>paleotropicale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>palestinian<s n="adj"/></l><r>palestinese<s n="adj"/></r></p></e>
+    <e><p><l>panamanian<s n="adj"/></l><r>panamegno<s n="adj"/></r></p></e>
+    <e><p><l>panchromatic<s n="adj"/></l><r>pancromatico<s n="adj"/></r></p></e>
+    <e><p><l>pancreatic<s n="adj"/></l><r>pancreatico<s n="adj"/></r></p></e>
+    <e><p><l>papillary<s n="adj"/></l><r>papillare<s n="adj"/></r></p></e>
+    <e><p><l>paradigmatic<s n="adj"/></l><r>paradigmatico<s n="adj"/></r></p></e>
+    <e><p><l>paradoxical<s n="adj"/></l><r>paradossale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>paraguayan<s n="adj"/></l><r>paraguaiano<s n="adj"/></r></p></e>
+    <e><p><l>parallel<s n="adj"/></l><r>parallelo<s n="adj"/></r></p></e>
+    <e><p><l>parametric<s n="adj"/></l><r>parametrico<s n="adj"/></r></p></e>
+    <e><p><l>paratactic<s n="adj"/></l><r>paratattico<s n="adj"/></r></p></e>
+    <e><p><l>parenchymatous<s n="adj"/></l><r>parenchimatoso<s n="adj"/></r></p></e>
+    <e><p><l>parental<s n="adj"/></l><r>parentale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>parietal<s n="adj"/></l><r>parietale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>parish<s n="adj"/></l><r>parrocchiale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>parisian<s n="adj"/></l><r>parigino<s n="adj"/></r></p></e>
+    <e><p><l>paroxytone<s n="adj"/></l><r>parossitono<s n="adj"/></r></p></e>
+    <e><p><l>patrilineal<s n="adj"/></l><r>patrilineare<s n="adj"/></r></p></e>
+    <e><p><l>pedantic<s n="adj"/></l><r>pedante<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>perfectionist<s n="adj"/></l><r>perfezionista<s n="adj"/></r></p></e>
+    <e><p><l>peruvian<s n="adj"/></l><r>peruviano<s n="adj"/></r></p></e>
+    <e><p><l>pessimistic<s n="adj"/></l><r>pessimista<s n="adj"/></r></p></e>
+    <e><p><l>pharaonic<s n="adj"/></l><r>faraonico<s n="adj"/></r></p></e>
+    <e><p><l>phoenician<s n="adj"/></l><r>fenicio<s n="adj"/></r></p></e>
+    <e><p><l>photolithographic<s n="adj"/></l><r>fotolitografico<s n="adj"/></r></p></e>
+    <e><p><l>pictographic<s n="adj"/></l><r>pittografico<s n="adj"/></r></p></e>
+    <e><p><l>pictorial<s n="adj"/></l><r>pittorico<s n="adj"/></r></p></e>
+    <e><p><l>piercing<s n="adj"/></l><r>penetrante<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>piezoelectric<s n="adj"/></l><r>piezoelettrico<s n="adj"/></r></p></e>
+    <e><p><l>pilot<s n="adj"/></l><r>piloto<s n="adj"/></r></p></e>
+    <e><p><l>pirate<s n="adj"/></l><r>pirata<s n="adj"/></r></p></e>
+    <e><p><l>piriform<s n="adj"/></l><r>piriforme<s n="adj"/></r></p></e>
+    <e><p><l>planar<s n="adj"/></l><r>planar<s n="adj"/></r></p></e>
+    <e><p><l>planetary<s n="adj"/></l><r>planetario<s n="adj"/></r></p></e>
+    <e><p><l>planimetric<s n="adj"/></l><r>planimetric<s n="adj"/></r></p></e>
+    <e><p><l>plastic<s n="adj"/></l><r>plastico<s n="adj"/></r></p></e>
+    <e><p><l>pleural<s n="adj"/></l><r>pleurale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>pneumatic<s n="adj"/></l><r>neumatico<s n="adj"/></r></p></e>
+    <e><p><l>poetic<s n="adj"/></l><r>poetico<s n="adj"/></r></p></e>
+    <e><p><l>poignant<s n="adj"/></l><r>patetico<s n="adj"/></r></p></e>
+    <e><p><l>poikilothermal<s n="adj"/></l><r>poichilotermo<s n="adj"/></r></p></e>
+    <e><p><l>polemic<s n="adj"/></l><r>polemico<s n="adj"/></r></p></e>
+    <e><p><l>polish<s n="adj"/></l><r>polacco<s n="adj"/></r></p></e>
+    <e><p><l>polycyclic<s n="adj"/></l><r>policiclico<s n="adj"/></r></p></e>
+    <e><p><l>polydimensional<s n="adj"/></l><r>polidimensionale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>polygenic<s n="adj"/></l><r>poligenico<s n="adj"/></r></p></e>
+    <e><p><l>polyhedral<s n="adj"/></l><r>poliedrico<s n="adj"/></r></p></e>
+    <e><p><l>polymeric<s n="adj"/></l><r>polimerico<s n="adj"/></r></p></e>
+    <e><p><l>polymorphic<s n="adj"/></l><r>polimorfico<s n="adj"/></r></p></e>
+    <e><p><l>polynomial<s n="adj"/></l><r>polinomiale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>polyphase<s n="adj"/></l><r>polifasico<s n="adj"/></r></p></e>
+    <e><p><l>polyphonic<s n="adj"/></l><r>polifonico<s n="adj"/></r></p></e>
+    <e><p><l>polyploid<s n="adj"/></l><r>poliploide<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>polysemic<s n="adj"/></l><r>polisemico<s n="adj"/></r></p></e>
+    <e><p><l>polysyllabic<s n="adj"/></l><r>polisillabo<s n="adj"/></r></p></e>
+    <e><p><l>polytechnical<s n="adj"/></l><r>politecnico<s n="adj"/></r></p></e>
+    <e><p><l>polytheistic<s n="adj"/></l><r>politeista<s n="adj"/></r></p></e>
+    <e><p><l>polyvalent<s n="adj"/></l><r>polivalente<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>populist<s n="adj"/></l><r>populista<s n="adj"/></r></p></e>
+    <e><p><l>positivist<s n="adj"/></l><r>positivista<s n="adj"/></r></p></e>
+    <e><p><l>postponable<s n="adj"/></l><r>prorogabile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>practicable<s n="adj"/></l><r>praticabile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>precocious<s n="adj"/></l><r>precoce<s n="adj"/></r></p></e>
+    <e><p><l>predicable<s n="adj"/></l><r>predicabile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>pregnant<s n="adj"/></l><r>pregnante<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>prehensile<s n="adj"/></l><r>prensile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>preschool<s n="adj"/></l><r>prescolare<s n="adj"/></r></p></e>
+    <e><p><l>present<s n="adj"/></l><r>presente<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>primary<s n="adj"/></l><r>primario<s n="adj"/></r></p></e>
+    <e><p><l>printable<s n="adj"/></l><r>stampabile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>prismatic<s n="adj"/></l><r>prismatico<s n="adj"/></r></p></e>
+    <e><p><l>prize-winning<s n="adj"/></l><r>premiato<s n="adj"/></r></p></e>
+    <e><p><l>profane<s n="adj"/></l><r>profano<s n="adj"/></r></p></e>
+    <e><p><l>profitable<s n="adj"/></l><r>redditizio<s n="adj"/></r></p></e>
+    <e><p><l>progressive<s n="adj"/></l><r>progressivo<s n="adj"/></r></p></e>
+    <e><p><l>prominent<s n="adj"/></l><r>prominente<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>promising<s n="adj"/></l><r>promettente<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>proparoxytone<s n="adj"/></l><r>proparossitono<s n="adj"/></r></p></e>
+    <e><p><l>prosodic<s n="adj"/></l><r>prosodico<s n="adj"/></r></p></e>
+    <e><p><l>prostatic<s n="adj"/></l><r>prostatico<s n="adj"/></r></p></e>
+    <e><p><l>prostyle<s n="adj"/></l><r>prostilo<s n="adj"/></r></p></e>
+    <e><p><l>protectionist<s n="adj"/></l><r>protezionista<s n="adj"/></r></p></e>
+    <e><p><l>protective<s n="adj"/></l><r>protettore<s n="adj"/></r></p></e>
+    <e><p><l>protestant<s n="adj"/></l><r>protestante<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>protohistoric<s n="adj"/></l><r>protostorico<s n="adj"/></r></p></e>
+    <e><p><l>protoplasmic<s n="adj"/></l><r>protoplasmatico<s n="adj"/></r></p></e>
+    <e><p><l>provable<s n="adj"/></l><r>dimostrabile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>proximal<s n="adj"/></l><r>prossimale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>prudential<s n="adj"/></l><r>prudenziale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>pseudoscientific<s n="adj"/></l><r>pseudoscientifico<s n="adj"/></r></p></e>
+    <e><p><l>psychiatric<s n="adj"/></l><r>psichiatrico<s n="adj"/></r></p></e>
+    <e><p><l>psychoactive<s n="adj"/></l><r>psicotropico<s n="adj"/></r></p></e>
+    <e><p><l>psychological<s n="adj"/></l><r>psicologico<s n="adj"/></r></p></e>
+    <e><p><l>psychophysiologic<s n="adj"/></l><r>psicofisiologico<s n="adj"/></r></p></e>
+    <e><p><l>psychosocial<s n="adj"/></l><r>psicosociale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>publishing<s n="adj"/></l><r>editoriale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>pungent<s n="adj"/></l><r>penetrante<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>punishable<s n="adj"/></l><r>punibile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>pupillary<s n="adj"/></l><r>pupillare<s n="adj"/></r></p></e>
+    <e><p><l>pyrenean<s n="adj"/></l><r>pirenaico<s n="adj"/></r></p></e>
+    <e><p><l>pythagorean<s n="adj"/></l><r>pitagorico<s n="adj"/></r></p></e>
+    <e><p><l>quadrangular<s n="adj"/></l><r>quadrangolare<s n="adj"/></r></p></e>
+    <e><p><l>quadruped<s n="adj"/></l><r>quadrupede<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>racist<s n="adj"/></l><r>razzista<s n="adj"/></r></p></e>
+    <e><p><l>radiographic<s n="adj"/></l><r>radiografico<s n="adj"/></r></p></e>
+    <e><p><l>random<s n="adj"/></l><r>aleatorio<s n="adj"/></r></p></e>
+    <e><p><l>realistic<s n="adj"/></l><r>realista<s n="adj"/></r></p></e>
+    <e><p><l>reigning<s n="adj"/></l><r>regnante<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>relativistic<s n="adj"/></l><r>relativista<s n="adj"/></r></p></e>
+    <e><p><l>reliable<s n="adj"/></l><r>affidabile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>relocatable<s n="adj"/></l><r>rilocabile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>repairable<s n="adj"/></l><r>riparabile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>repetitive<s n="adj"/></l><r>ripetitivo<s n="adj"/></r></p></e>
+    <e><p><l>representable<s n="adj"/></l><r>rappresentabile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>revisionist<s n="adj"/></l><r>revisionista<s n="adj"/></r></p></e>
+    <e><p><l>revocatory<s n="adj"/></l><r>revocatorio<s n="adj"/></r></p></e>
+    <e><p><l>revolving<s n="adj"/></l><r>rotativo<s n="adj"/></r></p></e>
+    <e><p><l>rhombohedral<s n="adj"/></l><r>romboedrico<s n="adj"/></r></p></e>
+    <e><p><l>rhomboidal<s n="adj"/></l><r>romboidale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>rhythmical<s n="adj"/></l><r>ritmico<s n="adj"/></r></p></e>
+    <e><p><l>right-handed<s n="adj"/></l><r>destro<s n="adj"/></r></p></e>
+    <e><p><l>ritualistic<s n="adj"/></l><r>ritualista<s n="adj"/></r></p></e>
+    <e><p><l>robotic<s n="adj"/></l><r>robotico<s n="adj"/></r></p></e>
+    <e><p><l>romance<s n="adj"/></l><r>romanico<s n="adj"/></r></p></e>
+    <e><p><l>romantic<s n="adj"/></l><r>romantico<s n="adj"/></r></p></e>
+    <e><p><l>rooted<s n="adj"/></l><r>radicato<s n="adj"/></r></p></e>
+    <e><p><l>rotary<s n="adj"/></l><r>rotante<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>rotatory<s n="adj"/></l><r>rotatorio<s n="adj"/></r></p></e>
+    <e><p><l>ruminant<s n="adj"/></l><r>ruminante<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>runic<s n="adj"/></l><r>runico<s n="adj"/></r></p></e>
+    <e><p><l>rupestrian<s n="adj"/></l><r>rupestre<s n="adj"/></r></p></e>
+    <e><p><l>rupicolous<s n="adj"/></l><r>rupicola<s n="adj"/></r></p></e>
+    <e><p><l>sabbatical<s n="adj"/></l><r>sabbatico<s n="adj"/></r></p></e>
+    <e><p><l>sacramental<s n="adj"/></l><r>sacramentale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>sad<s n="adj"/></l><r>triste<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>sadistic<s n="adj"/></l><r>sadico<s n="adj"/></r></p></e>
+    <e><p><l>salaried<s n="adj"/></l><r>stipendiato<s n="adj"/></r></p></e>
+    <e><p><l>salivary<s n="adj"/></l><r>salivale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>salvadorian<s n="adj"/></l><r>salvadoregno<s n="adj"/></r></p></e>
+    <e><p><l>sanitary<s n="adj"/></l><r>sanitario<s n="adj"/></r></p></e>
+    <e><p><l>satisfactory<s n="adj"/></l><r>soddisfacente<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>satisfied<s n="adj"/></l><r>soddisfatto<s n="adj"/></r></p></e>
+    <e><p><l>saxon<s n="adj"/></l><r>sassone<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>scandinavian<s n="adj"/></l><r>scandinavo<s n="adj"/></r></p></e>
+    <e><p><l>scarce<s n="adj"/></l><r>scarso<s n="adj"/></r></p></e>
+    <e><p><l>scarlet<s n="adj"/></l><r>scarlatto<s n="adj"/></r></p></e>
+    <e><p><l>scenic<s n="adj"/></l><r>scenico<s n="adj"/></r></p></e>
+    <e><p><l>scenographical<s n="adj"/></l><r>scenografico<s n="adj"/></r></p></e>
+    <e><p><l>schematic<s n="adj"/></l><r>schematico<s n="adj"/></r></p></e>
+    <e><p><l>schizophrenic<s n="adj"/></l><r>schizofrenico<s n="adj"/></r></p></e>
+    <e><p><l>selectable<s n="adj"/></l><r>selezionabile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>selfless<s n="adj"/></l><r>disinteressando<s n="adj"/></r></p></e>
+    <e><p><l>semifinalist<s n="adj"/></l><r>semifinalista<s n="adj"/></r></p></e>
+    <e><p><l>seminal<s n="adj"/></l><r>seminale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>semi-presidential<s n="adj"/></l><r>semi-presidenziale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>semivocal<s n="adj"/></l><r>semivocale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>senatorial<s n="adj"/></l><r>senatoriale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>senegalese<s n="adj"/></l><r>senegalese<s n="adj"/></r></p></e>
+    <e><p><l>senior<s n="adj"/></l><r>senior<s n="adj"/></r></p></e>
+    <e><p><l>sensationalistic<s n="adj"/></l><r>sensazionalista<s n="adj"/></r></p></e>
+    <e><p><l>sentential<s n="adj"/></l><r>sentenziale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>separate<s n="adj"/></l><r>separato<s n="adj"/></r></p></e>
+    <e><p><l>septic<s n="adj"/></l><r>settico<s n="adj"/></r></p></e>
+    <e><p><l>sequential<s n="adj"/></l><r>sequenziale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>serious<s n="adj"/></l><r>serio<s n="adj"/></r></p></e>
+    <e><p><l>severe<s n="adj"/></l><r>severo<s n="adj"/></r></p></e>
+    <e><p><l>sexagesimal<s n="adj"/></l><r>sessagesimale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>shameful<s n="adj"/></l><r>vergognoso<s n="adj"/></r></p></e>
+    <e><p><l>shocking<s n="adj"/></l><r>impressionante<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>sibilant<s n="adj"/></l><r>sibilante<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>situational<s n="adj"/></l><r>situazionale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>skeletal<s n="adj"/></l><r>scheletrico<s n="adj"/></r></p></e>
+    <e><p><l>skilled<s n="adj"/></l><r>specializzato<s n="adj"/></r></p></e>
+    <e><p><l>slavic<s n="adj"/></l><r>slavo<s n="adj"/></r></p></e>
+    <e><p><l>sleepless<s n="adj"/></l><r>insonne<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>slight<s n="adj"/></l><r>lieve<s n="adj"/></r></p></e>
+    <e><p><l>slippery<s n="adj"/></l><r>scivoloso<s n="adj"/></r></p></e>
+    <e><p><l>sociable<s n="adj"/></l><r>socievole<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>socialist<s n="adj"/></l><r>socialista<s n="adj"/></r></p></e>
+    <e><p><l>sociolinguistic<s n="adj"/></l><r>sociolinguistico<s n="adj"/></r></p></e>
+    <e><p><l>soloist<s n="adj"/></l><r>solista<s n="adj"/></r></p></e>
+    <e><p><l>solvable<s n="adj"/></l><r>risolvibile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>somali<s n="adj"/></l><r>somali<s n="adj"/></r></p></e>
+    <e><p><l>sorry<s n="adj"/></l><r>triste<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>sought-after<s n="adj"/></l><r>richiesto<s n="adj"/></r></p></e>
+    <e><p><l>southern<s n="adj"/></l><r>meridionale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>soviet<s n="adj"/></l><r>sovietico<s n="adj"/></r></p></e>
+    <e><p><l>speculative<s n="adj"/></l><r>speculativo<s n="adj"/></r></p></e>
+    <e><p><l>spheroidal<s n="adj"/></l><r>sferoidale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>spiritualistic<s n="adj"/></l><r>spiritualista<s n="adj"/></r></p></e>
+    <e><p><l>splenic<s n="adj"/></l><r>splenico<s n="adj"/></r></p></e>
+    <e><p><l>static<s n="adj"/></l><r>statico<s n="adj"/></r></p></e>
+    <e><p><l>statutory<s n="adj"/></l><r>statutario<s n="adj"/></r></p></e>
+    <e><p><l>stereophonic<s n="adj"/></l><r>stereofonico<s n="adj"/></r></p></e>
+    <e><p><l>stigmatic<s n="adj"/></l><r>stigmatico<s n="adj"/></r></p></e>
     <!-- ******************************
           group np_symbol
       ****************************** -->
@@ -12462,12 +12742,12 @@
     <e><p><l>appetiser<s n="n"/></l><r>aperitivo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>appetite<s n="n"/></l><r>appetito<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>applause<s n="n"/></l><r>applauso<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>clap<s n="n"/></l><r>applauso<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>felt<s n="n"/></l><r>feltro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>apple<s n="n"/></l><r>mela<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>appliance<s n="n"/></l><r>elettrodomestico<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>appliance<s n="n"/></l><r>elettrodomestico<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>applicability<s n="n"/><s n="ND"/></l><r>applicabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>applicability<s n="n"/><s n="sg"/></l><r>applicabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>applicability<s n="n"/><s n="pl"/></l><r>applicabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+    <e><p><l>applicability<s n="n"/></l><r>applicabilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>application<s n="n"/></l><r>applicazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>appointment<s n="n"/></l><r>citazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>appointment<s n="n"/></l><r>appuntamento<s n="n"/><s n="m"/></r></p></e>
@@ -17950,6 +18230,8 @@
     <e><p><l>potentiometry<s n="n"/></l><r>potenziometria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>potion<s n="n"/></l><r>pozione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR" srl="pouch"><p><l>pouch<s n="n"/></l><r>borsa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pound<s n="n"/></l><r>libbra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pound<g><b/>sterling</g><s n="n"/></l><r>lira<b/>sterlina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>poultice<s n="n"/></l><r>cataplasma<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>poverty<s n="n"/><s n="sg"/></l><r>povertà<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>poverty<s n="n"/><s n="pl"/></l><r>povertà<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
