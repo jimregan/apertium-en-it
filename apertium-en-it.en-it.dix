@@ -11907,7 +11907,8 @@
     <e><p><l>Saturday<s n="n"/></l><r>sabato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>September<s n="n"/></l><r>settembre<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>Spaniard<s n="n"/></l><r>spagnolo<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>Spaniard<s n="n"/></l><r>spagnolo<s n="n"/></r></p></e>
+    <e r="LR"><p><l>spanish<s n="n"/></l><r>spagnolo<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>spanish<s n="n"/></l><r>spagnolo<s n="n"/></r></p></e>
     <e><p><l>Sunday<s n="n"/></l><r>domenica<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Swiss<s n="n"/></l><r>svizzero<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Swiss<s n="n"/></l><r>svizzero<s n="n"/></r></p></e>
@@ -13351,9 +13352,7 @@
     <e r="RL"><p><l>chair<s n="n"/></l><r>presidenza<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>chair<n></l><r>cattedra<n><f></r></e>).-->
     <e r="RL"><p><l>chair<s n="n"/></l><r>sedia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>chair<n></l><r>cattedra<n><f></r></e>).-->
     <e r="LR"><p><l>chairman<s n="n"/></l><r>presidente<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>chairman<s n="n"/></l><r>presidente<s n="n"/></r></p></e>
     <e r="LR"><p><l>chairperson<s n="n"/></l><r>presidente<s n="n"/><s n="GD"/></r></p></e>
-    <e i="yes"><p><l>chairperson<s n="n"/></l><r>presidente<s n="n"/></r></p></e><!--  autorestricted (<e r="RL"><l>chairman<n></l><r>presidente<n></r></e>).-->
     <e><p><l>chalcography<s n="n"/></l><r>calcografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chalk<s n="n"/></l><r>gesso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>challenge<s n="n"/></l><r>sfida<s n="n"/><s n="f"/></r></p></e>
@@ -13908,6 +13907,7 @@
     <e r="LR"><p><l>corps<s n="n"/></l><r>corpo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>body<n></l><r>corpo<n><m></r></e>).-->
     <e><p><l>corpse<s n="n"/></l><r>carcassa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>corpus-based<b/>machine<b/>translation<s n="n"/></l><r>traduzione<b/>automatica<b/>basata<b/>su<b/>corpora<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>context-based<b/>machine<b/>translation<s n="n"/></l><r>traduzione<b/>automatica<b/>basata<b/>sul<b/>contesto<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>correction<s n="n"/></l><r>correzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>correlation<s n="n"/></l><r>correlazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>correspondence<s n="n"/></l><r>corrispondenza<s n="n"/><s n="f"/></r></p></e>
@@ -13997,6 +13997,8 @@
     <e r="RL"><p><l>cross<s n="n"/><s n="ND"/></l><r>cross<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>crossing<s n="n"/></l><r>attraversamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>crosslinking<s n="n"/></l><r>reticolazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>crow<s n="n"/></l><r>corvo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>raven<s n="n"/></l><r>corvo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>crowbar<s n="n"/></l><r>leva<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>crown<s n="n"/></l><r>corona<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>crucifix<s n="n"/></l><r>crocifisso<s n="n"/><s n="m"/></r></p></e>
@@ -15494,10 +15496,7 @@
     <e><p><l>gravimetry<s n="n"/></l><r>gravimetria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gravitation<s n="n"/></l><r>gravitazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gravitational<b/>constant<s n="n"/></l><r>costante<g><b/>di<b/>gravitazione</g><s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>gravity<s n="n"/><s n="ND"/></l><r>gravità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>gravity<s n="n"/><s n="sg"/></l><r>gravità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>gravity<s n="n"/><s n="pl"/></l><r>gravità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e><p><l>gravity<s n="n"/></l><r>gravità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gravity<s n="n"/></l><r>gravità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e r="LR"><p><l>grazier<s n="n"/></l><r>allevamento<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>grazier<s n="n"/></l><r>allevamento<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>grease<s n="n"/></l><r>grasso<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>fat<n></l><r>grasso<n><m></r></e>).-->
@@ -15734,7 +15733,7 @@
     <e><p><l>holography<s n="n"/></l><r>olografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>holotype<s n="n"/></l><r>olotipo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>homage<s n="n"/></l><r>omaggio<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>home<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>home<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>homeland<s n="n"/></l><r>patria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>homeomorphism<s n="n"/></l><r>omeomorfismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>homework<s n="n"/><s n="sg"/></l><r>dovere<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -15792,12 +15791,11 @@
     <e r="RL"><p><l>hotel<s n="n"/><s n="ND"/></l><r>hotel<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>hotel<s n="n"/></l><r>albergo<s n="n"/><s n="m"/></r></p></e>
     <e c="MG: aquest hauria de ser quan 'hora' és plural en català, l'altra (time) en sg"><p><l>hour<s n="n"/></l><r>ora<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>house<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>home<n></l><r>casa<n><f></r></e>).-->
-    <e r="LR"><p><l>household<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>home<n></l><r>casa<n><f></r></e>).-->
-    <e r="LR"><p><l>housing<s n="n"/></l><r>alloggio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>accommodation<n></l><r>alloggio<n><m></r></e>).-->
-    <e r="RL"><p><l>hovercraft<s n="n"/><s n="ND"/></l><r>hovercraft<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>hovercraft<s n="n"/><s n="sg"/></l><r>hovercraft<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>hovercraft<s n="n"/><s n="pl"/></l><r>hovercraft<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>house<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>household<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>housing<s n="n"/></l><r>alloggio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hovercraft<s n="n"/></l><r>hovercraft<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>toothpick<s n="n"/></l><r>stuzzicadenti<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e r="RL"><p><l>hovercraft<s n="n"/></l><r>aeroscivolante<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>howitzer<s n="n"/></l><r>obice<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>humanism<s n="n"/></l><r>umanismo<s n="n"/><s n="m"/></r></p></e>
@@ -18006,7 +18004,10 @@
     <e><p><l>preservative<s n="n"/></l><r>conservante<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>presidency<s n="n"/></l><r>presidenza<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>chair<n></l><r>presidenza<n><f></r></e>).-->
     <e r="LR"><p><l>president<s n="n"/></l><r>presidente<s n="n"/><s n="GD"/></r></p></e>
-    <e i="yes"><p><l>president<s n="n"/></l><r>presidente<s n="n"/></r></p></e><!--  autorestricted (<e r="RL"><l>chairman<n></l><r>presidente<n></r></e>).-->
+    <e r="RL"><p><l>president<s n="n"/></l><r>presidente<s n="n"/></r></p></e>
+    <e r="LR"><p><l>vice-president<s n="n"/></l><r>vicepresidente<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>vice-president<s n="n"/></l><r>vicepresidente<s n="n"/></r></p></e>
+    <e r="LR"><p><l>vice<b/>president<s n="n"/></l><r>vicepresidente<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>press<s n="n"/></l><r>stampa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pressure<s n="n"/></l><r>pressione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>prestige<s n="n"/></l><r>prestigio<s n="n"/><s n="m"/></r></p></e>
@@ -19520,8 +19521,8 @@
     <e r="LR"><p><l>tactician<s n="n"/></l><r>tattico<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>tactician<s n="n"/></l><r>tattico<s n="n"/></r></p></e>
     <e><p><l>tactics<s n="n"/></l><r>tattica<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>taenia<s n="n"/></l><r>taenia<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>taenia<s n="n"/></l><r>tenia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>taenia<n></l><r>taenia<n><f></r></e>).-->
+    <e r="RL"><p><l>taenia<s n="n"/></l><r>taenia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>taenia<s n="n"/></l><r>tenia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tail<s n="n"/></l><r>coda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>takeoff<s n="n"/></l><r>decollo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>talent<s n="n"/></l><r>talento<s n="n"/><s n="m"/></r></p></e>
@@ -19867,6 +19868,8 @@
     <e><p><l>tribute<s n="n"/></l><r>tributo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>trichotomy<s n="n"/></l><r>tricotomia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>trigonometry<s n="n"/></l><r>trigonometria<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>triacylglyceride<s n="n"/></l><r>triacilgliceròlo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>triglyceride<s n="n"/></l><r>triglicèride<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>trillion<s n="n"/></l><r>bilione<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>trilogy<s n="n"/></l><r>trilogia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>trio<s n="n"/></l><r>trio<s n="n"/><s n="m"/></r></p></e>
@@ -23623,7 +23626,7 @@
     <e><p><l>selectivity<s n="n"/></l><r>selettività<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>selenium<s n="n"/></l><r>selenio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>serenity<s n="n"/></l><r>serenità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
-    <e><p><l>seriousness<s n="n"/></l><r>gravità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>seriousness<s n="n"/></l><r>serietà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e r="LR"><p><l>severity<s n="n"/></l><r>gravità<s n="n"/><s n="f"/></r></p><par n="SP"/></e><!--  autorestricted (<e><l>seriousness<n></l><r>gravità<n><f></r><par n="SP"/></e>).-->
     <e><p><l>shortness<s n="n"/></l><r>brevità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>simultaneity<s n="n"/></l><r>simultaneità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
