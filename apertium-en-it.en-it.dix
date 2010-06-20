@@ -14309,7 +14309,7 @@
     <e><p><l>cult<s n="n"/></l><r>culto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cultivation<s n="n"/></l><r>coltivazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>culture<s n="n"/></l><r>cultura<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>cunt<s n="n"/></l><r>vulva<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>cunt<s n="n"/></l><r>vulva<s n="n"/><s n="f"/></r></p></e>
     <e c="Dep."><p><l>cup<s n="n"/></l><r>tazza<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>cupboard<s n="n"/></l><r>armadio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>cabinet<n></l><r>armadio<n><m></r></e>).-->
     <e><p><l>cupid<s n="n"/></l><r>cupido<s n="n"/><s n="m"/></r></p></e>
@@ -20503,7 +20503,8 @@
     <e r="RL"><p><l>vulnerability<s n="n"/><s n="ND"/></l><r>vulnerabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>vulnerability<s n="n"/><s n="sg"/></l><r>vulnerabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>vulnerability<s n="n"/><s n="pl"/></l><r>vulnerabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>vulva<s n="n"/></l><r>vulva<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>cunt<n></l><r>vulva<n><f></r></e>).-->
+    <e><p><l>vulva<s n="n"/></l><r>vulva<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vuvuzela<s n="n"/></l><r>vuvuzela<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>wage<s n="n"/></l><r>salario<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>salary<n></l><r>salario<n><m></r></e>).-->
     <e><p><l>waist<s n="n"/></l><r>cinta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wait<s n="n"/></l><r>attesa<s n="n"/><s n="f"/></r></p></e>
