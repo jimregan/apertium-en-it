@@ -96284,6 +96284,7 @@
     <e lm="ala"><i>al</i><par n="al/a__n"/></e>
     <e lm="alambicco"><i>alambicc</i><par n="fung/o__n"/></e>
     <e lm="alba"><i>alb</i><par n="cas/a__n"/></e>
+    <e lm="besciamella"><i>besciamell</i><par n="cas/a__n"/></e>
     <e lm="albanese"><i>albanes</i><par n="albanes/e__n"/></e>
     <e lm="albatros"><i>albatros</i><par n="albatros__n"/></e>
     <e lm="hovercraft"><i>hovercraft</i><par n="albatros__n"/></e>
@@ -96959,6 +96960,7 @@
     <e lm="canzone"><i>canzon</i><par n="abbreviazion/e__n"/></e>
     <e lm="caos"><i>caos</i><par n="albatros__n"/></e>
     <e lm="capo"><i>cap</i><par n="abbain/o__n"/></e>
+    <e lm="capo di Stato"><i>cap</i><par n="abbain/o__n"/><p><l><b/>di<b/>Stato</l><r><g><b/>di<b/>Stato</g></r></p></e>
     <e lm="capacità"><i>capacità</i><par n="abilità__n"/></e>
     <e lm="capanna"><i>capann</i><par n="cas/a__n"/></e>
     <e lm="capannone"><i>capannon</i><par n="abat/e__n"/></e>
@@ -102352,7 +102354,7 @@
     <e lm="promotore"><i>promot</i><par n="accentrat/ore__adj"/></e>
     <e lm="promozionale"><i>promozional</i><par n="albanes/e__adj"/></e>
     <e lm="proporzionale"><i>proporzional</i><par n="albanes/e__adj"/></e>
-    <e lm="proprio"><i>propri</i><par n="abbandonat/o__adj"/></e>
+    <e lm="proprio"><i>propri</i><par n="ampi/o__adj"/></e>
     <e lm="prossimo"><i>prossim</i><par n="abbandonat/o__adj"/></e>
     <e lm="protagonista"><i>protagonist</i><par n="suicid/a__adj"/></e>
     <e lm="proveniente"><i>provenient</i><par n="albanes/e__adj"/></e>
@@ -105019,6 +105021,14 @@
     <e lm="ballerino esotico"><p><l>ballerini<b/>esotici</l><r>ballerino<b/>esotico<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="ballerino esotico"><p><l>ballerina<b/>esotica</l><r>ballerino<b/>esotico<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="ballerino esotico"><p><l>ballerine<b/>esotiche</l><r>ballerino<b/>esotico<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="fuso orario"><p><l>fuso<b/>orario</l><r>fuso<b/>orario<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="fuso orario"><p><l>fusi<b/>orari</l><r>fuso<b/>orario<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="capo del governo"><p><l>capo<b/>del<b/>governo</l><r>capo<b/>del<b/>governo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="capo del governo"><p><l>capi<b/>di<b/>governo</l><r>capo<b/>del<b/>governo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="nome proprio"><p><l>nome<b/>proprio</l><r>nome<b/>proprio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="nome proprio"><p><l>nomi<b/>propri</l><r>nome<b/>proprio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="filo interdentale"><p><l>filo<b/>interdentale</l><r>filo<b/>interdentale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="filo interdentale"><p><l>fili<b/>interdentali</l><r>filo<b/>interdentale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="primo ballerino"><p><l>primo<b/>ballerino</l><r>primo<b/>ballerino<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="primo ballerino"><p><l>primi<b/>ballerini</l><r>primo<b/>ballerino<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="primo ballerino"><p><l>prima<b/>ballerina</l><r>primo<b/>ballerino<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -105039,6 +105049,10 @@
     <e lm="sorella mezza"><p><l>sorelle<b/>mezze</l><r>sorella<b/>mezza<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="patata fritta"><p><l>patata<b/>fritta</l><r>patata<b/>fritta<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="patata fritta"><p><l>patate<b/>fritte</l><r>patata<b/>fritta<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="influenza suina"><p><l>influenza<b/>suina</l><r>influenza<b/>suina<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="influenza suina"><p><l>influenze<b/>suine</l><r>influenza<b/>suina<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="obbligazione convertibile"><p><l>obbligazione<b/>convertibile</l><r>obbligazione<b/>convertibile<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="obbligazione convertibile"><p><l>obbligazioni<b/>convertibili</l><r>obbligazione<b/>convertibile<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="fratello mezzo"><p><l>fratello<b/>mezzo</l><r>fratello<b/>mezzo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="fratello mezzo"><p><l>fratelli<b/>mezzi</l><r>fratello<b/>mezzo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="arma biologica"><p><l>arma<b/>biologica</l><r>arma<b/>biologica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
