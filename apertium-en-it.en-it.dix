@@ -13590,14 +13590,11 @@
     <e><p><l>cappuccino<s n="n"/></l><r>cappuccino<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>captain<s n="n"/></l><r>capitano<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>captain<s n="n"/></l><r>capitano<s n="n"/></r></p></e>
-    <e r="RL"><p><l>captivity<s n="n"/><s n="ND"/></l><r>cattività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>captivity<s n="n"/><s n="sg"/></l><r>cattività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>captivity<s n="n"/><s n="pl"/></l><r>cattività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>capture<s n="n"/></l><r>cattura<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>car<s n="n"/></l><r>autovettura<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>car<s n="n"/></l><r>automobile<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>automobile<s n="n"/></l><r>automobile<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>car<s n="n"/></l><r>autoveicolo<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>car<s n="n"/></l><r>macchina<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>auto<n></l><r>macchina<n><f></r></e>).-->
+    <e r="LR"><p><l>car<s n="n"/></l><r>macchina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>carafe<s n="n"/></l><r>caraffa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>carat<s n="n"/></l><r>carato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>carbon<s n="n"/></l><r>carbonio<s n="n"/><s n="m"/></r></p></e>
@@ -14309,12 +14306,12 @@
     <e r="LR"><p><l>cosmonaut<s n="n"/></l><r>cosmonauta<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>cosmopolitism<s n="n"/></l><r>cosmopolitismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cost<s n="n"/></l><r>costo<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR" c="EU"><p><l>costume<s n="n"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>cloth<n><pl></l><r>vestito<n><m></r></e>).-->
+    <e r="LR" c="EU"><p><l>costume<s n="n"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cotton<s n="n"/></l><r>cotone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cough<s n="n"/></l><r>tosse<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>coughing<s n="n"/></l><r>tosse<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>cough<n></l><r>tosse<n><f></r></e>).-->
+    <e r="LR"><p><l>coughing<s n="n"/></l><r>tosse<s n="n"/><s n="f"/></r></p></e>
     <e r="LR" c="seems wrong"><p><l>council<s n="n"/></l><r>consiglio<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>counsel<s n="n"/></l><r>consiglio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>advice<n></l><r>consiglio<n><m></r></e>).-->
+    <e r="LR"><p><l>counsel<s n="n"/></l><r>consiglio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>counter<s n="n"/></l><r>contatore<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>counter<s n="n"/></l><r>bancone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>counterculture<s n="n"/></l><r>controcultura<s n="n"/><s n="f"/></r></p></e>
@@ -14335,17 +14332,17 @@
     <e><p><l>courtship<s n="n"/></l><r>corteggiamento<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>courtyard<s n="n"/></l><r>cortile<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>covariance<s n="n"/></l><r>covarianza<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>cover<s n="n"/></l><r>coperta<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>blanket<n></l><r>coperta<n><f></r></e>).-->
-    <e r="RL"><p><l>cover<s n="n"/></l><r>copertina<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>cover<n></l><r>coperta<n><f></r></e>).-->
+    <e r="LR"><p><l>cover<s n="n"/></l><r>coperta<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>cover<s n="n"/></l><r>copertina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>coverage<s n="n"/></l><r>copertura<s n="n"/><s n="f"/></r></p></e>
-    <e i="yes"><p><l>covering<s n="n"/></l><r>copertura<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>coverage<n></l><r>copertura<n><f></r></e>).-->
+    <e i="yes"><p><l>covering<s n="n"/></l><r>copertura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cowshed<s n="n"/></l><r>stalla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>crab<s n="n"/></l><r>granchio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>crack<s n="n"/></l><r>crepa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>craft<s n="n"/></l><r>artigianato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>crag<s n="n"/></l><r>dirupo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cramp<s n="n"/></l><r>crampo<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>cranberry<s n="n"/></l><r>mirtillo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>blueberry<n></l><r>mirtillo<n><m></r></e>).-->
+    <e r="LR"><p><l>cranberry<s n="n"/></l><r>mirtillo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>crane<s n="n"/><s n="sg"/></l><r>gru<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>crane<s n="n"/><s n="pl"/></l><r>gru<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>crane<s n="n"/><s n="ND"/></l><r>gru<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -19546,10 +19543,8 @@
     <e><p><l>specialisation<s n="n"/></l><r>specializzazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>specialist<s n="n"/></l><r>specialista<s n="n"/></r></p></e>
     <e r="LR"><p><l>specialist<s n="n"/></l><r>specialista<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>speciality<s n="n"/><s n="ND"/></l><r>specialità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>speciality<s n="n"/><s n="sg"/></l><r>specialità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>speciality<s n="n"/><s n="pl"/></l><r>specialità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>specialty<s n="n"/><s n="pl"/></l><r>specialità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+    <e><p><l>speciality<s n="n"/></l><r>specialità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e r="LR"><p><l>specialty<s n="n"/></l><r>specialità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>speciation<s n="n"/></l><r>speciazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>species<s n="n"/><s n="sg"/></l><r>specie<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>species<s n="n"/><s n="pl"/></l><r>specie<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
