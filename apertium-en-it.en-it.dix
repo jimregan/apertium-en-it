@@ -255,10 +255,10 @@
     <e r="LR"><p><l>a<b/>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poco<s n="det"/><s n="ind"/><s n="GD"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>a<b/>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poco<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>a<b/>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poco<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
-    <e><p><l>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>molto<s n="det"/><s n="ind"/></r></p></e>
-    <e r="LR"><p><l>a<b/>lot<b/>of<s n="det"/></l><r>molto<s n="det"/><s n="ind"/></r></p></e><!--  autorestricted (<e><l>a<b/>lot<b/>of<det><qnt><sp></l><r>molto<det><ind></r></e>).-->
-    <e r="LR"><p><l>all<s n="predet"/><s n="sp"/></l><r>tutto<s n="det"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>all<s n="predet"/></l><r>tutto<s n="det"/></r></p></e>
+    <e r="RL"><p><l>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>molto<s n="det"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>molto<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>all<s n="predet"/><s n="sp"/></l><r>tutto<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>all<s n="predet"/><s n="sp"/></l><r>tutto<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>another<s n="det"/><s n="ind"/></l><r>un<b/>altro<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>another<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<b/>altro<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>another<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<b/>altro<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
@@ -14263,6 +14263,7 @@
     <e><p><l>cooperative<s n="n"/></l><r>cooperativa<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>co-op<s n="n"/></l><r>cooperativa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>coop<s n="n"/></l><r>stia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>point<g><b/>of<b/>view</g><s n="n"/></l><r>punto<g><b/>di<b/>vista</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>oil<b/>tanker<s n="n"/></l><r>petroliera<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>coordination<s n="n"/></l><r>coordinazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>coordination<s n="n"/></l><r>coordinamento<s n="n"/><s n="m"/></r></p></e>
