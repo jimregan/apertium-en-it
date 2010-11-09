@@ -1123,6 +1123,7 @@
     <e><p><l>deserter<s n="adj"/></l><r>disertore<s n="adj"/></r></p></e>
     <e><p><l>desirable<s n="adj"/></l><r>desiderabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>desperate<s n="adj"/></l><r>disperato<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>hopeless<s n="adj"/></l><r>disperato<s n="adj"/></r></p></e>
     <e><p><l>destined<s n="adj"/></l><r>destinato<s n="adj"/></r></p></e>
     <e><p><l>destroyer<s n="adj"/></l><r>distruttore<s n="adj"/></r></p></e>
     <e><p><l>destructive<s n="adj"/></l><r>distruttivo<s n="adj"/></r></p></e>
@@ -3050,6 +3051,7 @@
     <e><p><l>wide<s n="adj"/><s n="sint"/></l><r>largo<s n="adj"/></r></p></e>
     <e c="check"><p><l>widowed<s n="adj"/></l><r>vedovo<s n="adj"/></r></p></e>
     <e><p><l>winner<s n="adj"/></l><r>vincitore<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>winning<s n="adj"/></l><r>vincitore<s n="adj"/></r></p></e>
     <e><p><l>wireless<s n="adj"/></l><r>senza<b/>fili<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>without<b/>importance<s n="adj"/></l><r>senza<b/>importanza<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>without<b/>meaning<s n="adj"/></l><r>senza<b/>senso<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -21909,6 +21911,41 @@
     <e><p><l>yes<s n="adv"/></l><r>sì<s n="adv"/></r></p></e>
     <e><p><l>yesterday<s n="adv"/></l><r>ieri<s n="adv"/></r></p></e>
     <e r="LR" c="frases negatives"><p><l>yet<s n="adv"/></l><r>ancora<s n="adv"/></r></p></e><!--  autorestricted (<e><l>even<adv></l><r>ancora<adv></r></e>).-->
+    <e><p><l>abnormally<s n="adv"/></l><r>anormalmente<s n="adv"/></r></p></e>
+    <e><p><l>alike<s n="adv"/></l><r>ugualmente<s n="adv"/></r></p></e>
+    <e><p><l>allegretto<s n="adv"/></l><r>allegretto<s n="adv"/></r></p></e>
+    <e><p><l>allegro<s n="adv"/></l><r>allegro<s n="adv"/></r></p></e>
+    <e><p><l>angrily<s n="adv"/></l><r>furiosamente<s n="adv"/></r></p></e>
+    <e><p><l>as<b/>a<b/>whole<s n="adv"/></l><r>complessivamente<s n="adv"/></r></p></e>
+    <e><p><l>beautifully<s n="adv"/></l><r>fantasticamente<s n="adv"/></r></p></e>
+    <e><p><l>bitterly<s n="adv"/></l><r>aspramente<s n="adv"/></r></p></e>
+    <e><p><l>doubtless<s n="adv"/></l><r>indubbiamente<s n="adv"/></r></p></e>
+    <e><p><l>every<b/>now<b/>and<b/>again<s n="adv"/></l><r>continuamente<s n="adv"/></r></p></e>
+    <e><p><l>extensively<s n="adv"/></l><r>largamente<s n="adv"/></r></p></e>
+    <e><p><l>fondly<s n="adv"/></l><r>affettuosamente<s n="adv"/></r></p></e>
+    <e><p><l>for<b/>dear<b/>life<s n="adv"/></l><r>disperatamente<s n="adv"/></r></p></e>
+    <e><p><l>globally<s n="adv"/></l><r>complessivamente<s n="adv"/></r></p></e>
+    <e><p><l>helically<s n="adv"/></l><r>elicoidalmente<s n="adv"/></r></p></e>
+    <e><p><l>hence<s n="adv"/></l><r>per<b/>questo<s n="adv"/></r></p></e>
+    <e><p><l>impressively<s n="adv"/></l><r>mirabilmente<s n="adv"/></r></p></e>
+    <e><p><l>in<s n="adv"/></l><r>dentro<s n="adv"/></r></p></e>
+    <e><p><l>incoherently<s n="adv"/></l><r>incoerentemente<s n="adv"/></r></p></e>
+    <e><p><l>intestate<s n="adv"/></l><r>ab<b/>intestato<s n="adv"/></r></p></e>
+    <e><p><l>larghetto<s n="adv"/></l><r>larghetto<s n="adv"/></r></p></e>
+    <e><p><l>persuasively<s n="adv"/></l><r>persuasivamente<s n="adv"/></r></p></e>
+    <e><p><l>remarkably<s n="adv"/></l><r>straordinariamente<s n="adv"/></r></p></e>
+    <e><p><l>spectacularly<s n="adv"/></l><r>spettacolarmente<s n="adv"/></r></p></e>
+    <e><p><l>steadily<s n="adv"/></l><r>fermamente<s n="adv"/></r></p></e>
+    <e><p><l>superbly<s n="adv"/></l><r>magnificamente<s n="adv"/></r></p></e>
+    <e><p><l>suspiciously<s n="adv"/></l><r>sospettosamente<s n="adv"/></r></p></e>
+    <e><p><l>therefore<s n="adv"/></l><r>pertanto<s n="adv"/></r></p></e>
+    <e><p><l>to<b/>no<b/>effect<s n="adv"/></l><r>inutilmente<s n="adv"/></r></p></e>
+    <e><p><l>uniquely<s n="adv"/></l><r>singolarmente<s n="adv"/></r></p></e>
+    <e><p><l>unquestionably<s n="adv"/></l><r>indubbiamente<s n="adv"/></r></p></e>
+    <e><p><l>up<b/>to<b/>the<b/>present<s n="adv"/></l><r>finora<s n="adv"/></r></p></e>
+    <e><p><l>vehemently<s n="adv"/></l><r>veementemente<s n="adv"/></r></p></e>
+    <e><p><l>with<b/>hindsight<s n="adv"/></l><r>a<b/>posteriori<s n="adv"/></r></p></e>
+    <e><p><l>with<b/>one<b/>mind<s n="adv"/></l><r>unanimemente<s n="adv"/></r></p></e>
     <!-- ******************************
           group vbmod_symbol
       ****************************** -->
