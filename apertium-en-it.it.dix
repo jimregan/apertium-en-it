@@ -96163,6 +96163,7 @@
     <e lm="abitante"><i>abitant</i><par n="albanes/e__n"/></e>
     <e lm="aderente"><i>aderent</i><par n="albanes/e__n"/></e>
     <e lm="abitatore"><i>abitat</i><par n="agricolt/ore__n"/></e>
+    <e lm="stupratore"><i>stuprat</i><par n="agricolt/ore__n"/></e>
     <e lm="attuatore"><i>attuat</i><par n="agricolt/ore__n"/></e>
     <e lm="abitazione"><i>abitazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="abitudine"><i>abitudin</i><par n="abbreviazion/e__n"/></e>
@@ -96190,6 +96191,8 @@
     <e lm="acquavite"><i>acquavit</i><par n="abbreviazion/e__n"/></e>
     <e lm="accreditamento"><i>accreditament</i><par n="abbain/o__n"/></e>
     <e lm="accumulatore"><i>accumulator</i><par n="abat/e__n"/></e>
+    <e lm="gonfiore"><i>gonfior</i><par n="abat/e__n"/></e>
+    <e lm="esteriore"><i>esterior</i><par n="abat/e__n"/></e>
     <e lm="accumulazione"><i>accumulazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="acero"><i>acer</i><par n="abbain/o__n"/></e>
     <e lm="aceto"><i>acet</i><par n="abbain/o__n"/></e>
@@ -99609,6 +99612,48 @@
     <e lm="clinica"><i>clinic</i><par n="tasc/a__n"/></e>
     <e lm="informatica"><i>informatic</i><par n="tasc/a__n"/></e>
     <e lm="elettronica"><i>elettronic</i><par n="tasc/a__n"/></e>
+    <e lm="antirazzismo"><i>antirazzism</i><par n="abbain/o__n"/></e>
+    <e lm="bombardamento"><i>bombardament</i><par n="abbain/o__n"/></e>
+    <e lm="centesimo"><i>centesim</i><par n="abbain/o__n"/></e>
+    <e lm="castagno"><i>castagn</i><par n="abbain/o__n"/></e>
+    <e lm="vestito"><i>vestit</i><par n="abbain/o__n"/></e>
+    <e lm="composto"><i>compost</i><par n="abbain/o__n"/></e>
+    <e lm="ritardo"><i>ritard</i><par n="abbain/o__n"/></e>
+    <e lm="esposto"><i>espost</i><par n="abbain/o__n"/></e>
+    <e lm="acquisto"><i>acquist</i><par n="abbain/o__n"/></e>
+    <e lm="nastro"><i>nastr</i><par n="abbain/o__n"/></e>
+    <e lm="sospetto"><i>sospett</i><par n="abbain/o__n"/></e>
+    <e lm="nastro"><i>nastr</i><par n="abbain/o__n"/></e>
+    <e lm="biglietto"><i>bigliett</i><par n="abbain/o__n"/></e>
+    <e lm="sotterraneo"><i>sotterrane</i><par n="abbain/o__n"/></e>
+    <e lm="velo"><i>vel</i><par n="abbain/o__n"/></e>
+    <e lm="blastomero"><i>blastomer</i><par n="abbain/o__n"/></e>
+    <e lm="corpetto"><i>corpett</i><par n="abbain/o__n"/></e>
+    <e lm="calcagno"><i>calcagn</i><par n="abbain/o__n"/></e>
+    <e lm="colostro"><i>colostr</i><par n="abbain/o__n"/></e>
+    <e lm="diverticolo"><i>diverticol</i><par n="abbain/o__n"/></e>
+    <e lm="feltro"><i>feltr</i><par n="abbain/o__n"/></e>
+    <e lm="ipogeo"><i>ipoge</i><par n="abbain/o__n"/></e>
+    <e lm="ileo"><i>ile</i><par n="abbain/o__n"/></e>
+    <e lm="latifondo"><i>latifond</i><par n="abbain/o__n"/></e>
+    <e lm="quanto"><i>quant</i><par n="abbain/o__n"/></e>
+    <e lm="zero"><i>zer</i><par n="abbain/o__n"/></e>
+    <e lm="gelato"><i>gelat</i><par n="abbain/o__n"/></e>
+    <e lm="zolfo"><i>zolf</i><par n="abbain/o__n"/></e>
+    <e lm="profilattico"><i>profilattic</i><par n="cosmetic/o__n"/></e>
+    <e lm="agente"><i>agent</i><par n="abat/e__n"/></e>
+    <e lm="antiossidante"><i>antiossidant</i><par n="abat/e__n"/></e>
+    <e lm="brillante"><i>brillant</i><par n="abat/e__n"/></e>
+    <e lm="civile"><i>civil</i><par n="abat/e__n"/></e>
+    <e lm="comandante"><i>comandant</i><par n="abat/e__n"/></e>
+    <e lm="decimale"><i>decimal</i><par n="abat/e__n"/></e>
+    <e lm="cellulare"><i>cellular</i><par n="abat/e__n"/></e>
+    <e lm="precedente"><i>precedent</i><par n="abat/e__n"/></e>
+    <e lm="cotile"><i>cotil</i><par n="abat/e__n"/></e>
+    <e lm="carnevale"><i>carneval</i><par n="abat/e__n"/></e>
+    <e lm="interruzione"><i>interruzion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="galleggiante"><i>galleggiant</i><par n="abat/e__n"/></e>
+    <e lm="gigante"><i>gigant</i><par n="abat/e__n"/></e>
     <e lm="poliziotto"><i>poliziott</i><par n="bambin/o__n"/></e>
     <e lm="polizza"><i>polizz</i><par n="cas/a__n"/></e>
     <e lm="pollo"><i>poll</i><par n="abbain/o__n"/></e>
@@ -105196,6 +105241,8 @@
     <e lm="nome proprio"><p><l>nomi<b/>propri</l><r>nome<b/>proprio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="filo interdentale"><p><l>filo<b/>interdentale</l><r>filo<b/>interdentale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="filo interdentale"><p><l>fili<b/>interdentali</l><r>filo<b/>interdentale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="balsamo labiale"><p><l>balsamo<b/>labiale</l><r>balsamo<b/>labiale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="balsamo labiale"><p><l>balsami<b/>labiali</l><r>balsamo<b/>labiale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="primo ballerino"><p><l>primo<b/>ballerino</l><r>primo<b/>ballerino<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="primo ballerino"><p><l>primi<b/>ballerini</l><r>primo<b/>ballerino<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="primo ballerino"><p><l>prima<b/>ballerina</l><r>primo<b/>ballerino<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -107170,6 +107217,32 @@
     <e lm="sproporzionatamente"><i>sproporzionatamente</i><par n="ieri__adv"/></e>
     <e lm="stranamente"><i>stranamente</i><par n="ieri__adv"/></e>
     <e lm="stupidamente"><i>stupidamente</i><par n="ieri__adv"/></e>
+<e lm="abbasso"><i>abbasso</i><par n="ieri__adv"/></e>
+<e lm="ab intestato"><i>ab<b/>intestato</i><par n="ieri__adv"/></e>
+<e lm="ad ogni modo"><i>ad<b/>ogni<b/>modo</i><par n="ieri__adv"/></e>
+<e lm="a grande scala"><i>a<b/>grande<b/>scala</i><par n="ieri__adv"/></e>
+<e lm="allegretto"><i>allegretto</i><par n="ieri__adv"/></e>
+<e lm="allegro"><i>allegro</i><par n="ieri__adv"/></e>
+<e lm="anormalmente"><i>anormalmente</i><par n="ieri__adv"/></e>
+<e lm="a posteriori"><i>a<b/>posteriori</i><par n="ieri__adv"/></e>
+<e lm="circa"><i>circa</i><par n="ieri__adv"/></e>
+<e lm="con molta cura"><i>con<b/>molta<b/>cura</i><par n="ieri__adv"/></e>
+<e lm="d'altro lato"><i>d'altro<b/>lato</i><par n="ieri__adv"/></e>
+<e lm="elicoidalmente"><i>elicoidalmente</i><par n="ieri__adv"/></e>
+<e lm="improvvisamente"><i>improvvisamente</i><par n="ieri__adv"/></e>
+<e lm="incoerentemente"><i>incoerentemente</i><par n="ieri__adv"/></e>
+<e lm="larghetto"><i>larghetto</i><par n="ieri__adv"/></e>
+<e lm="molto di meno"><i>molto<b/>di<b/>meno</i><par n="ieri__adv"/></e>
+<e lm="molto di più"><i>molto<b/>di<b/>più</i><par n="ieri__adv"/></e>
+<e lm="per dire alla verità"><i>per<b/>dire<b/>alla<b/>verità</i><par n="ieri__adv"/></e>
+<e lm="per questo"><i>per<b/>questo</i><par n="ieri__adv"/></e>
+<e lm="persuasivamente"><i>persuasivamente</i><par n="ieri__adv"/></e>
+<e lm="pertanto"><i>pertanto</i><par n="ieri__adv"/></e>
+<e lm="proprio ora"><i>proprio<b/>ora</i><par n="ieri__adv"/></e>
+<e lm="sospettosamente"><i>sospettosamente</i><par n="ieri__adv"/></e>
+<e lm="spettacolarmente"><i>spettacolarmente</i><par n="ieri__adv"/></e>
+<e lm="veementemente"><i>veementemente</i><par n="ieri__adv"/></e>
+
     <e lm="biiezione"><i>biiezion</i><par n="abbreviazion/e__n"/></e>
     <e lm="cauzione"><i>cauzion</i><par n="abbreviazion/e__n"/></e>
     <e lm="conflagrazione"><i>conflagrazion</i><par n="abbreviazion/e__n"/></e>
