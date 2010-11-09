@@ -18232,21 +18232,13 @@
     <e r="LR"><p><l>polarity<s n="n"/><s n="sg"/></l><r>polarità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>polarity<s n="n"/><s n="pl"/></l><r>polarità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>polarography<s n="n"/></l><r>polarografia<s n="n"/><s n="f"/></r></p></e>
-    <e c="telegraph pole"><p><l>pole<s n="n"/></l><r>pylon<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL" c="telegraph pole"><p><l>pole<s n="n"/></l><r>pertica<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>pole<n></l><r>pylon<n><m></r></e>).-->
-    <e r="RL"><p><l>pole<s n="n"/></l><r>polo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>pole<n></l><r>pylon<n><m></r></e>).-->
+    <e><p><l>pole<s n="n"/></l><r>palo<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" c="telegraph pole"><p><l>pole<s n="n"/></l><r>pertica<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>pole<s n="n"/></l><r>polo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>police<s n="n"/><s n="pl"/></l><r>polizia<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>police<s n="n"/><s n="pl"/></l><r>poliziotto<s n="n"/><s n="GD"/></r></p></e><!--  autorestricted (<e><l>police<n><pl></l><r>polizia<n><f><sg></r></e>).-->
-    <e r="RL"><p><l>police<s n="n"/><s n="pl"/></l><r>poliziotto<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>police<n><pl></l><r>polizia<n><f><sg></r></e>).-->
-    <e r="RL"><p><l>police<s n="n"/><s n="pl"/></l><r>poliziotto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>police<n><pl></l><r>polizia<n><f><sg></r></e>).-->
     <e r="RL"><p><l>police<s n="n"/><s n="pl"/></l><r>polizia<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-    <e><p><l>policeman<s n="n"/></l><r>polizia<s n="n"/><s n="mf"/></r></p></e>
-    <e i="yes"><p><l>policeman<s n="n"/></l><r>poliziotto<s n="n"/><s n="GD"/></r></p></e><!--  autorestricted (<e r="RL"><l>police<n><pl></l><r>poliziotto<n><GD></r></e>).-->
-    <e i="yes"><p><l>policeman<s n="n"/></l><r>poliziotto<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>police<n><pl></l><r>poliziotto<n><f></r></e>).-->
-    <e i="yes"><p><l>policeman<s n="n"/></l><r>poliziotto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>police<n><pl></l><r>poliziotto<n><m></r></e>).-->
-    <e i="yes"><p><l>policeman<s n="n"/></l><r>guardia<s n="n"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>guard<n></l><r>guardia<n><mf></r></e>).-->
-    <e><p><l>policewoman<s n="n"/></l><r>polizia<s n="n"/><s n="f"/></r></p></e>
-    <e i="yes"><p><l>policewoman<s n="n"/></l><r>poliziotto<s n="n"/><s n="GD"/></r></p></e><!--  autorestricted (<e r="RL"><l>police<n><pl></l><r>poliziotto<n><GD></r></e>).-->
+    <e><p><l>policeman<s n="n"/></l><r>poliziotto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>policewoman<s n="n"/></l><r>poliziotto<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>policy<s n="n"/></l><r>polizza<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>politician<s n="n"/></l><r>politico<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>politician<s n="n"/></l><r>politico<s n="n"/></r></p></e>
@@ -18310,7 +18302,6 @@
     <e><p><l>possible<s n="n"/></l><r>possibile<s n="n"/><s n="m"/></r></p></e>
     <e slr="carico"><p><l>post<s n="n"/></l><r>carico<s n="n"/><s n="m"/></r></p></e>
     <e slr="posta D" r="LR"><p><l>post<s n="n"/></l><r>posta<s n="n"/><s n="f"/></r></p></e>
-    <e slr="pertica" r="LR"><p><l>post<s n="n"/></l><r>pertica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>post-war<s n="n"/></l><r>dopoguerra<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>postage<s n="n"/></l><r>affrancatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>postage<b/>and<b/>packaging<s n="n"/></l><r>spese<b/>di<b/>spedizione<s n="n"/><s n="f"/></r></p></e>
@@ -18604,8 +18595,7 @@
     <e r="RL"><p><l>pus<s n="n"/><s n="ND"/></l><r>pus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>pus<s n="n"/><s n="sg"/></l><r>pus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>pus<s n="n"/><s n="pl"/></l><r>pus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>pylon<s n="n"/></l><r>pylon<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>pole<n></l><r>pylon<n><m></r></e>).-->
-    <e r="RL"><p><l>pylon<s n="n"/></l><r>pilone<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>pylon<n></l><r>pylon<n><m></r></e>).-->
+    <e><p><l>pylon<s n="n"/></l><r>pilone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pylorus<s n="n"/></l><r>piloro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pyramid<s n="n"/></l><r>piramide<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pyrometer<s n="n"/></l><r>pirometro<s n="n"/><s n="m"/></r></p></e>
@@ -19425,12 +19415,9 @@
     <e r="RL"><p><l>skull<s n="n"/></l><r>calotta<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>skull<s n="n"/></l><r>teschio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>sky<s n="n"/></l><r>cielo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>heaven<n></l><r>cielo<n><m></r></e>).-->
-    <e r="RL"><p><l>skyscraper<s n="n"/><s n="ND"/></l><r>grattacielo<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>skyscraper<s n="n"/></l><r>grattacielo<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>slang<s n="n"/><s n="sg"/></l><r>argot<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>slang<s n="n"/><s n="pl"/></l><r>argot<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>slang<s n="n"/><s n="ND"/></l><r>argot<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e><p><l>slaughter<s n="n"/></l><r>etacombe<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>slang<s n="n"/></l><r>argot<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>slaughter<s n="n"/></l><r>macello<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>slaughterhouse<s n="n"/></l><r>mattatoio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>slaughtering<s n="n"/></l><r>macellazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>slave<s n="n"/></l><r>schiavo<s n="n"/><s n="GD"/></r></p></e>
@@ -19683,8 +19670,7 @@
     <e><p><l>stern<s n="n"/></l><r>poppa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sternum<s n="n"/></l><r>sterno<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>stick<s n="n"/></l><r>palo<s n="n"/><s n="m"/></r></p></e>
-    <e i="yes"><p><l>stick<s n="n"/></l><r>pylon<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>pole<n></l><r>pylon<n><m></r></e>).-->
-    <e i="yes"><p><l>stick<s n="n"/></l><r>pertica<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>pole<n></l><r>pertica<n><f></r></e>).-->
+    <e><p><l>rod<s n="n"/></l><r>pertica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>stigmatisation<s n="n"/></l><r>stigmatizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>stimulation<s n="n"/></l><r>stimolazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>stimulus<s n="n"/></l><r>stimolo<s n="n"/><s n="m"/></r></p></e>
