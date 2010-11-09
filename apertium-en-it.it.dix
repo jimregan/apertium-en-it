@@ -96288,11 +96288,18 @@
     <e lm="albatros"><i>albatros</i><par n="albatros__n"/></e>
     <e lm="hovercraft"><i>hovercraft</i><par n="albatros__n"/></e>
     <e lm="best seller"><i>best<b/>seller</i><par n="albatros__n"/></e>
+    <e lm="cloud computing"><i>cloud<b/>computing</i><par n="albatros__n"/></e>
     <e lm="bonsai"><i>bonsai</i><par n="albatros__n"/></e>
     <e lm="boulevard"><i>boulevard</i><par n="albatros__n"/></e>
     <e lm="boomerang"><i>boomerang</i><par n="albatros__n"/></e>
     <e lm="baud"><i>baud</i><par n="albatros__n"/></e>
     <e lm="apartheid"><i>apartheid</i><par n="albatros__n"/></e>
+    <e lm="Apache"><i>Apache</i><par n="albatros__n"/></e>
+    <e lm="feng shui"><i>feng<b/>shui</i><par n="albatros__n"/></e>
+    <e lm="alcool denaturato"><i>alcool<b/>denaturat</i><par n="abbain/o__n"/></e>
+    <e lm="amilasi"><i>amilasi</i><par n="abilità__n"/></e>
+    <e lm="ammoniaca"><i>ammoniac</i><par n="tasc/a__n"/></e>
+    <e lm="borough"><i>borough</i><par n="albatros__n"/></e>
     <e lm="stuzzicadenti"><i>stuzzicadenti</i><par n="albatros__n"/></e>
     <e lm="gremlin"><i>gremlin</i><par n="albatros__n"/></e>
     <e lm="aerosol"><i>aerosol</i><par n="albatros__n"/></e>
@@ -99314,6 +99321,7 @@
     <e lm="pellicceria"><i>pellicceri</i><par n="cas/a__n"/></e>
     <e lm="pellicola"><i>pellicol</i><par n="cas/a__n"/></e>
     <e lm="pena"><i>pen</i><par n="cas/a__n"/></e>
+    <e lm="pena di morte"><i>pen</i><par n="cas/a__n"/><p><l><b/>di<b/>morte</l><r><g><b/>di<b/>morte</g></r></p></e>
     <e lm="pene"><i>pen</i><par n="abat/e__n"/></e>
     <e lm="pendolo"><i>pendol</i><par n="abbain/o__n"/></e>
     <e lm="penetrazione"><i>penetrazion</i><par n="abbreviazion/e__n"/></e>
@@ -100184,6 +100192,8 @@
     <e lm="tara"><i>tar</i><par n="cas/a__n"/></e>
     <e lm="tasca"><i>tasc</i><par n="tasc/a__n"/></e>
     <e lm="tasso"><i>tass</i><par n="bambin/o__n"/></e>
+    <e lm="tasso di cambio"><i>tass</i><par n="abbain/o__n"/><p><l><b/>di<b/>cambio</l><r><g><b/>di<b/>cambio</g></r></p></e>
+    <e lm="bicarbonato di sodio"><i>bicarbonat</i><par n="abbain/o__n"/><p><l><b/>di<b/>sodio</l><r><g><b/>di<b/>sodio</g></r></p></e>
     <e lm="tassista"><i>tassist</i><par n="suicid/a__n"/></e>
     <e lm="tastiera"><i>tastier</i><par n="cas/a__n"/></e>
     <e lm="tattico"><i>tattic</i><par n="cosmetic/o__n"/></e>
@@ -105019,8 +105029,12 @@
     <e lm="carro armato"><p><l>carri<b/>armati</l><r>carro<b/>armato<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="afta epizootica"><p><l>afta<b/>epizootica</l><r>afta<b/>epizootica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="afta epizootica"><p><l>afte<b/>epizootiche</l><r>afta<b/>epizootica<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="frequenza cardiaca"><p><l>frequenza<b/>cardiaca</l><r>frequenza<b/>cardiaca<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="frequenza cardiaca"><p><l>frequenze<b/>cardiache</l><r>frequenza<b/>cardiaca<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="sorella mezza"><p><l>sorella<b/>mezza</l><r>sorella<b/>mezza<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="sorella mezza"><p><l>sorelle<b/>mezze</l><r>sorella<b/>mezza<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="patata fritta"><p><l>patata<b/>fritta</l><r>patata<b/>fritta<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="patata fritta"><p><l>patate<b/>fritte</l><r>patata<b/>fritta<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="fratello mezzo"><p><l>fratello<b/>mezzo</l><r>fratello<b/>mezzo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="fratello mezzo"><p><l>fratelli<b/>mezzi</l><r>fratello<b/>mezzo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="arma biologica"><p><l>arma<b/>biologica</l><r>arma<b/>biologica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
