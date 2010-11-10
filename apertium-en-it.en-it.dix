@@ -253,8 +253,8 @@
     <e r="RL"><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>a<b/>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poco<s n="det"/><s n="ind"/><s n="GD"/><s n="pl"/></r></p></e>
-    <e r="RL"><p><l>a<b/>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poco<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
-    <e r="RL"><p><l>a<b/>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poco<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>a<b/>few<s n="det"/><s n="qnt"/><s n="sg"/></l><r>poco<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>a<b/>few<s n="det"/><s n="qnt"/><s n="sg"/></l><r>poco<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>molto<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>molto<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="LR"><p><l>all<s n="predet"/><s n="sp"/></l><r>tutto<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -267,7 +267,8 @@
     <e c="afirmatives"><p><l>any<s n="det"/><s n="ind"/><s n="sp"/></l><r>qualunque<s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
     <e r="RL" c="frases negatives. EN-CA: per trànsfer"><p><l>any<s n="det"/><s n="ind"/></l><r>nessuno<s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR" c="'as much time'. Cal afegir també 'as many'?"><p><l>as<b/>much<s n="det"/><s n="qnt"/></l><r>tanto<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
-    <e><p><l>both<s n="det"/><s n="ind"/></l><r>entrambi<b/>i<s n="det"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>both<s n="det"/><s n="ind"/><s n="pl"/></l><r>entrambi<b/>i<s n="det"/><s n="ind"/></r></p></e>
+    <e r="RL"><p><l>both<s n="det"/><s n="ind"/></l><r>entrambi<b/>i<s n="det"/><s n="ind"/><s n="GD"/><s n="pl"/></r></p></e>
     <e lm="LR"><p><l>diverse<s n="adj"/></l><r>diverso<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
     <e c="té polisèmia amb 'every', però no he posat marca de polisèmia"><p><l>each<s n="det"/><s n="ind"/></l><r>ogni<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
     <e r="RL" c="té polisèmia amb 'every', però no he posat marca de polisèmia"><p><l>each<s n="det"/><s n="ind"/></l><r>ciascuno<s n="det"/><s n="ind"/><s n="m"/></r></p></e>
@@ -286,8 +287,9 @@
 
     <e r="LR"><p><l>enough<s n="det"/><s n="qnt"/><s n="sp"/></l><r>abbastanza<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>every<s n="det"/><s n="ind"/></l><r>ogni<s n="det"/><s n="ind"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>each<det><ind></l><r>ogni<det><ind><mf></r></e>).-->
-    <e><p><l>few<s n="det"/><s n="qnt"/></l><r>poco<s n="det"/><s n="ind"/></r></p></e>
-    <e r="LR" c="en plural"><p><l>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poco<s n="det"/><s n="ind"/></r></p></e><!--  autorestricted (<e><l>few<det><qnt></l><r>poco<det><ind></r></e>).-->
+    <e r="LR"><p><l>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poco<s n="det"/><s n="ind"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poco<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poco<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>fewer<s n="det"/><s n="qnt"/><s n="pl"/></l><r>meno<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>fifteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>quindicesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>fifteenth<s n="det"/></l><r>quindicesimo<s n="det"/></r></p></e>
@@ -324,14 +326,14 @@
     <e r="LR"><p><l>last<s n="det"/><s n="ord"/><s n="sp"/></l><r>ultimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>last<s n="det"/></l><r>ultimo<s n="det"/></r></p></e>
     <e><p><l>less<s n="det"/><s n="qnt"/><s n="sg"/></l><r>meno<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>little<s n="det"/><s n="qnt"/></l><r>poco<s n="det"/><s n="ind"/></r></p></e><!--  autorestricted (<e><l>few<det><qnt></l><r>poco<det><ind></r></e>).-->
-    <e r="LR" c="en sg: little bread, little hope"><p><l>little<s n="det"/><s n="qnt"/><s n="sg"/></l><r>poco<s n="det"/><s n="ind"/></r></p></e><!--  autorestricted (<e><l>few<det><qnt></l><r>poco<det><ind></r></e>).-->
-    <e r="LR"><p><l>lots<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>molto<s n="det"/><s n="ind"/></r></p></e><!--  autorestricted (<e><l>a<b/>lot<b/>of<det><qnt><sp></l><r>molto<det><ind></r></e>).-->
-    <e r="LR"><p><l>many<s n="det"/><s n="qnt"/></l><r>molto<s n="det"/><s n="ind"/></r></p></e><!--  autorestricted (<e><l>a<b/>lot<b/>of<det><qnt><sp></l><r>molto<det><ind></r></e>).-->
+    <e r="LR"><p><l>little<s n="det"/><s n="qnt"/></l><r>poco<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e><!--  autorestricted (<e><l>few<det><qnt></l><r>poco<det><ind></r></e>).-->
+    <e r="LR" c="en sg: little bread, little hope"><p><l>little<s n="det"/><s n="qnt"/><s n="sg"/></l><r>poco<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e><!--  autorestricted (<e><l>few<det><qnt></l><r>poco<det><ind></r></e>).-->
+    <e r="LR"><p><l>lots<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>molto<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e><!--  autorestricted (<e><l>a<b/>lot<b/>of<det><qnt><sp></l><r>molto<det><ind></r></e>).-->
+    <e r="LR"><p><l>many<s n="det"/><s n="qnt"/></l><r>molto<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e><!--  autorestricted (<e><l>a<b/>lot<b/>of<det><qnt><sp></l><r>molto<det><ind></r></e>).-->
     <e r="LR"><p><l>millionth<s n="det"/><s n="ord"/><s n="sp"/></l><r>milionesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>millionth<s n="det"/></l><r>milionesimo<s n="det"/></r></p></e>
     <e><p><l>more<s n="det"/><s n="qnt"/><s n="pl"/></l><r>più<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>much<s n="det"/><s n="qnt"/></l><r>molto<s n="det"/><s n="ind"/></r></p></e><!--  autorestricted (<e><l>a<b/>lot<b/>of<det><qnt><sp></l><r>molto<det><ind></r></e>).-->
+    <e r="LR"><p><l>much<s n="det"/><s n="qnt"/></l><r>molto<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e><!--  autorestricted (<e><l>a<b/>lot<b/>of<det><qnt><sp></l><r>molto<det><ind></r></e>).-->
     <e r="RL"><p><l>my<s n="det"/></l><r>mio<s n="det"/></r></p></e>
     <e r="RL"><p><l>my<s n="det"/></l><r>il<b/>mio<s n="det"/></r></p></e>
     <e r="LR"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -14261,6 +14263,12 @@
     <e r="LR"><p><l>co-op<s n="n"/></l><r>cooperativa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>coop<s n="n"/></l><r>stia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>point<g><b/>of<b/>view</g><s n="n"/></l><r>punto<g><b/>di<b/>vista</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>knight<g><b/>of<b/>the<b/>Round<b/>Table</g><s n="n"/></l><r>cavaliere<g><b/>della<b/>Tavola<b/>Rotonda</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>first-aid<b/>kit<s n="n"/></l><r>cassetta<g><b/>di<b/>pronto<b/>soccorso</g><s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Bretton<b/>Woods<b/>system<s n="n"/></l><r>sistema<g><b/>di<b/>Bretton<b/>Woods</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Bretton<b/>Woods<b/>Agreement<s n="n"/></l><r>accordo<g><b/>di<b/>Bretton<b/>Woods</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ski<b/>jump<s n="n"/></l><r>salto<g><b/>con<b/>gli<b/>sci</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ski<b/>jumper<s n="n"/></l><r>saltatore<g><b/>con<b/>gli<b/>sci</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>oil<b/>tanker<s n="n"/></l><r>petroliera<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>coordination<s n="n"/></l><r>coordinazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>coordination<s n="n"/></l><r>coordinamento<s n="n"/><s n="m"/></r></p></e>
