@@ -3400,6 +3400,7 @@
     <e><i>Aberardo<s n="np"/><s n="ant"/></i></e>
     <e><i>Abercio<s n="np"/><s n="ant"/></i></e>
     <e><i>Abi<s n="np"/><s n="ant"/></i></e>
+    <e><p><l>Thebes<s n="np"/><s n="loc"/></l><r>Tebe<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>Abidjan<s n="np"/><s n="loc"/></l><r>Abidjan<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><p><l>Samoa<s n="np"/><s n="loc"/><s n="sg"/></l><r>Samoa<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>Gambia<s n="np"/><s n="loc"/></l><r>Gambia<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
@@ -3731,6 +3732,7 @@
     <e><p><l>Alessandro<s n="np"/><s n="ant"/></l><r>Alessandro<s n="np"/><s n="ant"/></r></p></e>
     <e><i>Aleta<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Aleutian<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Aleutine<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Magdalen<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Magdalen<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><i>Alex<s n="np"/><s n="ant"/></i></e>
     <e><i>Alexa<s n="np"/><s n="ant"/></i></e>
     <e><i>Alexander<s n="np"/><s n="ant"/></i></e>
@@ -4366,8 +4368,8 @@
     <e><i>Baldomero<s n="np"/><s n="ant"/></i></e>
     <e><i>Baldovino<s n="np"/><s n="ant"/></i></e>
     <e><i>Balduino<s n="np"/><s n="ant"/></i></e>
-    <e><p><l>Balearic<b/>Islands<s n="np"/><s n="loc"/><s n="pl"/></l><r>Baleari<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>Balkans<s n="np"/><s n="loc"/></l><r>Penisola<b/>balcanica<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Balearic<b/>Islands<s n="np"/><s n="loc"/></l><r>Baleari<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Balkans<s n="np"/><s n="loc"/></l><r>Balcani<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><i>Baltasar<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Baltimore<s n="np"/><s n="loc"/></l><r>Baltimora<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><i>Balulde<s n="np"/><s n="ant"/></i></e>
@@ -5896,6 +5898,7 @@
     <e><i>Earl<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Earth<s n="np"/><s n="loc"/></l><r>Terra<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>Easter<b/>Island<s n="np"/><s n="loc"/></l><r>Isola<b/>di<b/>Pasqua<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Marchena<b/>Island<s n="np"/><s n="loc"/></l><r>Isola<b/>Marchena<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><i>Easton<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Eastwood<s n="np"/><s n="cog"/><s n="sg"/></l><r>Eastwood<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>Eastwood<s n="np"/><s n="cog"/><s n="pl"/></l><r>Eastwood<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -6637,7 +6640,6 @@
     <e><i>Galo<s n="np"/><s n="ant"/></i></e>
     <e><i>Gamal<s n="np"/><s n="ant"/></i></e>
     <e><i>Gamaliel<s n="np"/><s n="ant"/></i></e>
-    <e><p><l>Gambia<s n="np"/><s n="loc"/></l><r>Gambia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>Gandhi<s n="np"/><s n="cog"/><s n="sg"/></l><r>Gandhi<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>Gandhi<s n="np"/><s n="cog"/><s n="pl"/></l><r>Gandhi<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>Gandia<s n="np"/><s n="loc"/></l><r>Gandia<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
@@ -24167,6 +24169,7 @@
     <e><p><l>Merry<b/>Christmas<s n="ij"/></l><r>Buon<b/>Natale<s n="ij"/></r></p></e>
     <e><p><l>a<b/>bird<b/>in<b/>the<b/>hand<b/>is<b/>worth<b/>two<b/>in<b/>the<b/>bush<s n="ij"/></l><r>meglio<b/>un<b/>uovo<b/>oggi<b/>che<b/>una<b/>gallina<b/>domani<s n="ij"/></r></p></e>
     <e><p><l>all<b/>that<b/>glitters<b/>is<b/>not<b/>gold<s n="ij"/></l><r>non<b/>è<b/>tutto<b/>oro<b/>quello<b/>che<b/>luccica<s n="ij"/></r></p></e>
+    <e><p><l>a<b/>chip<b/>off<b/>the<b/>old<b/>block<s n="ij"/></l><r>tale<b/>e<b/>quale<b/>al<b/>genitore<s n="ij"/></r></p></e>
     <e r="RL"><p><l>all<b/>that<b/>glitters<b/>is<b/>not<b/>gold<s n="ij"/></l><r>non<b/>è<b/>tutto<b/>oro<b/>quel<b/>che<b/>luccica<s n="ij"/></r></p></e>
     <e><p><l>better<b/>late<b/>than<b/>never<s n="ij"/></l><r>meglio<b/>tardi<b/>che<b/>mai<s n="ij"/></r></p></e>
     <e><p><l>bye<s n="ij"/></l><r>arrivederci<s n="ij"/></r></p></e>
