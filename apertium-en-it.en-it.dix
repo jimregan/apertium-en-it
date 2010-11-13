@@ -18574,8 +18574,8 @@
     <e r="LR"><p><l>publicity<s n="n"/><s n="pl"/></l><r>pubblicità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>publisher<s n="n"/></l><r>editoriale<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>publishing<s n="n"/></l><r>editoria<s n="n"/><s n="f"/></r></p></e>
-    <e i="yes"><p><l>publishing<s n="n"/></l><r>editoriale<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>publisher<n></l><r>editoriale<n><f></r></e>).-->
-    <e><p><l>publishing<b/>house<s n="n"/></l><r>casa<b/>editrice<s n="n"/><s n="f"/></r></p></e>
+    <e i="yes"><p><l>publishing<s n="n"/></l><r>editoriale<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>publishing<b/>house<s n="n"/></l><r>casa<g><b/>editrice</g><s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>pudding<s n="n"/><s n="ND"/></l><r>pudding<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>pudding<s n="n"/><s n="sg"/></l><r>pudding<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>pudding<s n="n"/><s n="pl"/></l><r>pudding<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -24165,6 +24165,10 @@
     <e><p><l>zirconium<s n="n"/></l><r>zirconio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>beef<s n="n"/></l><r>carne<b/>bovina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>turkey<s n="n"/></l><r>tacchino<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>coffee<s n="n"/></l><r>caffè<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>trailer<s n="n"/></l><r>rimorchio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>biofuel<s n="n"/></l><r>biocarburante<s n="n"/><s n="m"/></r></p></e>
+
     <!-- ******************************
           group ij_symbol
       ****************************** -->
