@@ -286,7 +286,7 @@
     <e r="RL"><p><l>eleventh<s n="det"/></l><r>undicesimo<s n="det"/></r></p></e>
 
     <e r="LR"><p><l>enough<s n="det"/><s n="qnt"/><s n="sp"/></l><r>abbastanza<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>every<s n="det"/><s n="ind"/></l><r>ogni<s n="det"/><s n="ind"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>each<det><ind></l><r>ogni<det><ind><mf></r></e>).-->
+    <e r="LR"><p><l>every<s n="det"/><s n="ind"/></l><r>ogni<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poco<s n="det"/><s n="ind"/><s n="GD"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poco<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poco<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
@@ -326,14 +326,14 @@
     <e r="LR"><p><l>last<s n="det"/><s n="ord"/><s n="sp"/></l><r>ultimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>last<s n="det"/></l><r>ultimo<s n="det"/></r></p></e>
     <e><p><l>less<s n="det"/><s n="qnt"/><s n="sg"/></l><r>meno<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>little<s n="det"/><s n="qnt"/></l><r>poco<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e><!--  autorestricted (<e><l>few<det><qnt></l><r>poco<det><ind></r></e>).-->
-    <e r="LR" c="en sg: little bread, little hope"><p><l>little<s n="det"/><s n="qnt"/><s n="sg"/></l><r>poco<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e><!--  autorestricted (<e><l>few<det><qnt></l><r>poco<det><ind></r></e>).-->
-    <e r="LR"><p><l>lots<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>molto<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e><!--  autorestricted (<e><l>a<b/>lot<b/>of<det><qnt><sp></l><r>molto<det><ind></r></e>).-->
-    <e r="LR"><p><l>many<s n="det"/><s n="qnt"/></l><r>molto<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e><!--  autorestricted (<e><l>a<b/>lot<b/>of<det><qnt><sp></l><r>molto<det><ind></r></e>).-->
+    <e r="LR"><p><l>little<s n="det"/><s n="qnt"/></l><r>poco<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="LR" c="en sg: little bread, little hope"><p><l>little<s n="det"/><s n="qnt"/><s n="sg"/></l><r>poco<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>lots<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>molto<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>many<s n="det"/><s n="qnt"/></l><r>molto<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="LR"><p><l>millionth<s n="det"/><s n="ord"/><s n="sp"/></l><r>milionesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>millionth<s n="det"/></l><r>milionesimo<s n="det"/></r></p></e>
     <e><p><l>more<s n="det"/><s n="qnt"/><s n="pl"/></l><r>più<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>much<s n="det"/><s n="qnt"/></l><r>molto<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e><!--  autorestricted (<e><l>a<b/>lot<b/>of<det><qnt><sp></l><r>molto<det><ind></r></e>).-->
+    <e r="LR"><p><l>much<s n="det"/><s n="qnt"/></l><r>molto<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>my<s n="det"/></l><r>mio<s n="det"/></r></p></e>
     <e r="RL"><p><l>my<s n="det"/></l><r>il<b/>mio<s n="det"/></r></p></e>
     <e r="LR"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -367,8 +367,8 @@
     <e r="LR"><p><l>seventieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>settantesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>seventieth<s n="det"/></l><r>settantesimo<s n="det"/></r></p></e>
     <e lm="LR"><p><l>several<s n="det"/><s n="ind"/><s n="pl"/></l><r>diverso<s n="det"/><s n="ind"/><s n="GD"/><s n="pl"/></r></p></e>
-    <e r="RL" lm="RL"><p><l>several<s n="det"/><s n="ind"/><s n="pl"/></l><r>diverso<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e><!--  autorestricted (<e><l>several<det><ind><pl></l><r>diverso<det><ind><GD><pl></r></e>).-->
-    <e r="RL" lm="RL"><p><l>several<s n="det"/><s n="ind"/><s n="pl"/></l><r>diverso<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e><!--  autorestricted (<e><l>several<det><ind><pl></l><r>diverso<det><ind><GD><pl></r></e>).-->
+    <e r="RL" lm="RL"><p><l>several<s n="det"/><s n="ind"/><s n="pl"/></l><r>diverso<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL" lm="RL"><p><l>several<s n="det"/><s n="ind"/><s n="pl"/></l><r>diverso<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>six<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>seicentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>six<b/>hundredth<s n="det"/></l><r>seicentesimo<s n="det"/></r></p></e>
     <e r="LR"><p><l>sixteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>sedicesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -387,9 +387,9 @@
     <e r="RL"><p><l>some<s n="det"/><s n="qnt"/><s n="pl"/></l><r>un<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
     <e r="RL" c="frases afirmatives"><p><l>some<s n="det"/><s n="qnt"/><s n="sp"/></l><r>alcun<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>some<s n="det"/><s n="qnt"/><s n="sp"/></l><r>alcun<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="LR" c="frases afirmatives"><p><l>some<s n="det"/></l><r>qualche<s n="det"/><s n="ind"/><s n="mf"/></r></p></e><!--  autorestricted (<e r="RL"><l>any<det><ind><sp></l><r>qualche<det><ind><mf></r></e>).-->
+    <e r="LR" c="frases afirmatives"><p><l>some<s n="det"/></l><r>qualche<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
     <e><p><l>some<s n="det"/><s n="qnt"/></l><r>certo<s n="det"/><s n="ind"/></r></p></e>
-    <e r="RL"><p><l>some<s n="det"/><s n="qnt"/></l><r>taluno<s n="det"/><s n="ind"/></r></p></e><!--  autorestricted (<e><l>some<det><qnt></l><r>certo<det><ind></r></e>).-->
+    <e r="RL"><p><l>some<s n="det"/><s n="qnt"/></l><r>taluno<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>such<s n="det"/><s n="ind"/></l><r>tale<s n="det"/><s n="dem"/><s n="mf"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>such<s n="det"/><s n="ind"/><s n="sp"/></l><r>tale<s n="det"/><s n="dem"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>such<b/>a<s n="det"/><s n="ind"/></l><r>tale<s n="det"/><s n="dem"/><s n="mf"/><s n="ND"/></r></p></e>
@@ -428,7 +428,7 @@
     <e r="LR"><p><l>two<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>duecentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>two<b/>hundredth<s n="det"/></l><r>duecentesimo<s n="det"/></r></p></e>
     <e r="LR"><p><l>what<s n="det"/><s n="itg"/><s n="sp"/></l><r>che<s n="det"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>whatever<s n="det"/><s n="ind"/></l><r>qualsiasi<s n="det"/><s n="ind"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>either<det><ind></l><r>qualsiasi<det><ind><mf></r></e>).-->
+    <e r="LR"><p><l>whatever<s n="det"/><s n="ind"/></l><r>qualsiasi<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
     <e r="RL" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>tuo<s n="det"/><s n="pos"/></r></p></e>
     <e r="RL" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>tuo<s n="det"/><s n="pos"/></r></p></e>
     <e r="LR" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>tuo<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -469,7 +469,7 @@
     <e><p><l>absurd<s n="adj"/></l><r>assurdo<s n="adj"/></r></p></e>
     <e><p><l>abundant<s n="adj"/></l><r>abbondante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>abysmal<s n="adj"/></l><r>abissale<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>abyssal<s n="adj"/></l><r>abissale<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>abysmal<adj></l><r>abissale<adj><mf></r></e>).-->
+    <e r="LR"><p><l>abyssal<s n="adj"/></l><r>abissale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>academic<s n="adj"/></l><r>accademico<s n="adj"/></r></p></e>
     <e><p><l>accelerator<s n="adj"/></l><r>acceleratore<s n="adj"/></r></p></e>
     <e><p><l>accentual<s n="adj"/></l><r>accentuale<s n="adj"/><s n="mf"/></r></p></e>
@@ -520,7 +520,7 @@
     <e><p><l>adverse<s n="adj"/></l><r>avverso<s n="adj"/></r></p></e>
     <e><p><l>advertising<s n="adj"/></l><r>pubblicitario<s n="adj"/></r></p></e>
     <e><p><l>advisable<s n="adj"/></l><r>consigliabile<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>advisory<s n="adj"/></l><r>consigliabile<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>advisable<adj></l><r>consigliabile<adj><mf></r></e>).-->
+    <e r="LR"><p><l>advisory<s n="adj"/></l><r>consigliabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>aeolian<s n="adj"/></l><r>eolico<s n="adj"/></r></p></e>
     <e><p><l>aerial<s n="adj"/></l><r>aereo<s n="adj"/></r></p></e>
     <e><p><l>aerobic<s n="adj"/></l><r>aerobico<s n="adj"/></r></p></e>
@@ -610,7 +610,7 @@
     <e><p><l>anticyclonic<s n="adj"/></l><r>anticiclonico<s n="adj"/></r></p></e>
     <e><p><l>antioxidant<s n="adj"/></l><r>antiossidante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>antipodean<s n="adj"/></l><r>antipode<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>antique<s n="adj"/></l><r>antico<s n="adj"/></r></p></e><!--  autorestricted (<e><l>ancient<adj></l><r>antico<adj></r></e>).-->
+    <e r="LR"><p><l>antique<s n="adj"/></l><r>antico<s n="adj"/></r></p></e>
     <e><p><l>antistatic<s n="adj"/></l><r>antistatico<s n="adj"/></r></p></e>
     <e><p><l>antisymmetric<s n="adj"/></l><r>antisimmetrico<s n="adj"/></r></p></e>
     <e><p><l>antropoid<s n="adj"/></l><r>antropoide<s n="adj"/><s n="mf"/></r></p></e>
@@ -677,7 +677,7 @@
     <e><p><l>atonic<s n="adj"/></l><r>atono<s n="adj"/></r></p></e>
     <e><p><l>attacker<s n="adj"/></l><r>attaccante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>attainable<s n="adj"/></l><r>realizzabile<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>attentive<s n="adj"/></l><r>attento<s n="adj"/></r></p></e><!--  autorestricted (<e><l>accurate<adj></l><r>attento<adj></r></e>).-->
+    <e r="LR"><p><l>attentive<s n="adj"/></l><r>attento<s n="adj"/></r></p></e>
     <e><p><l>attractive<s n="adj"/></l><r>attrattivo<s n="adj"/></r></p></e>
     <e r="RL"><p><l>attractive<s n="adj"/></l><r>attraente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>audacious<s n="adj"/></l><r>audace<s n="adj"/><s n="mf"/></r></p></e>
@@ -703,7 +703,7 @@
     <e><p><l>avoidable<s n="adj"/></l><r>evitabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>awake<s n="adj"/></l><r>sveglio<s n="adj"/></r></p></e>
     <e><p><l>awarding<s n="adj"/></l><r>attribuente<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>aware<s n="adj"/></l><r>consapevole<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>aware<s n="adj"/></l><r>consapevole<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>awful<s n="adj"/></l><r>terribile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>awkward<s n="adj"/></l><r>incomodo<s n="adj"/></r></p></e>
     <e><p><l>axial<s n="adj"/></l><r>assiale<s n="adj"/><s n="mf"/></r></p></e>
@@ -786,7 +786,7 @@
     <e><p><l>boring<s n="adj"/></l><r>noioso<s n="adj"/></r></p></e>
     <e><p><l>born<s n="adj"/></l><r>nato<s n="adj"/></r></p></e>
     <e><p><l>botanic<s n="adj"/></l><r>botanico<s n="adj"/></r></p></e>
-    <e><p><l>bottom<s n="adj"/></l><r>inferiore<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>bottom<s n="adj"/></l><r>inferiore<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>boundless<s n="adj"/></l><r>illimitato<s n="adj"/></r></p></e>
     <e><p><l>bourgeois<s n="adj"/></l><r>borghese<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>bovine<s n="adj"/></l><r>bovino<s n="adj"/></r></p></e>
@@ -896,7 +896,7 @@
     <e><p><l>classic<s n="adj"/></l><r>classico<s n="adj"/></r></p></e>
     <e r="LR"><p><l>classical<s n="adj"/></l><r>classico<s n="adj"/></r></p></e>
     <e><p><l>cleansing<s n="adj"/></l><r>detergente<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>clear<s n="adj"/><s n="sint"/></l><r>chiaro<s n="adj"/></r></p></e>
+    <e srl="clear D"><p><l>clear<s n="adj"/><s n="sint"/></l><r>chiaro<s n="adj"/></r></p></e>
     <e><p><l>clement<s n="adj"/></l><r>clemente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>clerical<s n="adj"/></l><r>clericale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>climatic<s n="adj"/></l><r>climatico<s n="adj"/></r></p></e>
@@ -931,7 +931,7 @@
     <e><p><l>combinatory<s n="adj"/></l><r>combinatorio<s n="adj"/></r></p></e>
     <e><p><l>comfortable<s n="adj"/></l><r>comodo<s n="adj"/></r></p></e>
     <e><p><l>comic<s n="adj"/></l><r>comico<s n="adj"/></r></p></e>
-    <e><p><l>coming<s n="adj"/></l><r>imminente<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>coming<s n="adj"/></l><r>imminente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>commercial<s n="adj"/></l><r>commerciale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>common<s n="adj"/></l><r>comune<s n="adj"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>common<s n="adj"/></l><r>corrente<s n="adj"/><s n="mf"/></r></p></e>
@@ -967,7 +967,7 @@
     <e><p><l>condemnable<s n="adj"/></l><r>condannabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>conditional<s n="adj"/></l><r>condizionale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>confederal<s n="adj"/></l><r>confederale<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>confident<s n="adj"/></l><r>sicuro<s n="adj"/></r></p></e><!--  autorestricted (<e><l>certain<adj></l><r>sicuro<adj></r></e>).-->
+    <e r="LR"><p><l>confident<s n="adj"/></l><r>sicuro<s n="adj"/></r></p></e>
     <e><p><l>confidential<s n="adj"/></l><r>confidenziale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>conflictive<s n="adj"/></l><r>conflittuale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>confluent<s n="adj"/></l><r>confluente<s n="adj"/><s n="mf"/></r></p></e>
@@ -978,13 +978,13 @@
     <e><p><l>conjoint<s n="adj"/></l><r>congiunto<s n="adj"/></r></p></e>
     <e><p><l>conjugable<s n="adj"/></l><r>coniugabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>conjugal<s n="adj"/></l><r>coniugale<s n="adj"/><s n="mf"/></r></p></e>
-    <e i="yes"><p><l>conscious<s n="adj"/></l><r>consapevole<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>aware<adj></l><r>consapevole<adj><mf></r></e>).-->
+    <e r="RL"><p><l>conscious<s n="adj"/></l><r>consapevole<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>conscious<s n="adj"/></l><r>cosciente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>consecutive<s n="adj"/></l><r>consecutivo<s n="adj"/></r></p></e>
     <e><p><l>consequent<s n="adj"/></l><r>conseguente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>conservative<s n="adj"/></l><r>conservatore<s n="adj"/></r></p></e>
     <e><p><l>considerable<s n="adj"/></l><r>considerabile<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>consistent<s n="adj"/></l><r>compatibile<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>compatible<adj></l><r>compatibile<adj><mf></r></e>).-->
+    <e r="LR"><p><l>consistent<s n="adj"/></l><r>compatibile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>consonantal<s n="adj"/></l><r>consonantico<s n="adj"/></r></p></e>
     <e><p><l>constant<s n="adj"/></l><r>costante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>constituent<s n="adj"/></l><r>costituente<s n="adj"/><s n="mf"/></r></p></e>
@@ -1027,7 +1027,7 @@
     <e><p><l>correct<s n="adj"/></l><r>corretto<s n="adj"/></r></p></e>
     <e><p><l>correctable<s n="adj"/></l><r>correggibile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>correlated<s n="adj"/></l><r>correlativo<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>correlative<s n="adj"/></l><r>correlativo<s n="adj"/></r></p></e><!--  autorestricted (<e><l>correlated<adj></l><r>correlativo<adj></r></e>).-->
+    <e r="LR"><p><l>correlative<s n="adj"/></l><r>correlativo<s n="adj"/></r></p></e>
     <e><p><l>corresponding<s n="adj"/></l><r>corrispondente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>corrosive<s n="adj"/></l><r>corrosivo<s n="adj"/></r></p></e>
     <e><p><l>corrupt<s n="adj"/></l><r>corrotto<s n="adj"/></r></p></e>
@@ -1113,7 +1113,7 @@
     <e><p><l>denumerable<s n="adj"/></l><r>numerabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>deontological<s n="adj"/></l><r>deontologico<s n="adj"/></r></p></e>
     <e><p><l>departamental<s n="adj"/></l><r>dipartimentale<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>dependent<s n="adj"/></l><r>dipendente<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>dependent<s n="adj"/></l><r>dipendente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>deplorable<s n="adj"/></l><r>deplorabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>depository<s n="adj"/></l><r>depositario<s n="adj"/></r></p></e>
     <e><p><l>depressed<s n="adj"/></l><r>depresso<s n="adj"/></r></p></e>
@@ -1206,11 +1206,11 @@
     <e><p><l>double<s n="adj"/></l><r>doppio<s n="adj"/></r></p></e>
     <e><p><l>doubtful<s n="adj"/></l><r>dubbioso<s n="adj"/></r></p></e>
     <e><p><l>downloadable<s n="adj"/></l><r>scaricabile<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>downtown<s n="adj"/></l><r>centrico<s n="adj"/></r></p></e><!--  autorestricted (<e><l>centrical<adj></l><r>centrico<adj></r></e>).-->
+    <e r="LR"><p><l>downtown<s n="adj"/></l><r>centrico<s n="adj"/></r></p></e>
     <e><p><l>downward<s n="adj"/></l><r>discendente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>dramatic<s n="adj"/></l><r>drammatico<s n="adj"/></r></p></e>
     <e><p><l>drastic<s n="adj"/></l><r>drastico<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>dreadful<s n="adj"/></l><r>terribile<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>awful<adj></l><r>terribile<adj><mf></r></e>).-->
+    <e r="LR"><p><l>dreadful<s n="adj"/></l><r>terribile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>drinkable<s n="adj"/></l><r>potabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>drowned<s n="adj"/></l><r>affogato<s n="adj"/></r></p></e>
     <e><p><l>drunk<s n="adj"/><s n="sint"/></l><r>ubriaco<s n="adj"/></r></p></e>
@@ -1235,8 +1235,8 @@
     <e><p><l>ecclesiastical<s n="adj"/></l><r>ecclesiastico<s n="adj"/></r></p></e>
     <e><p><l>eclectic<s n="adj"/></l><r>eclettico<s n="adj"/></r></p></e>
     <e><p><l>ecological<s n="adj"/></l><r>ecologico<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>economic<s n="adj"/></l><r>economico<s n="adj"/></r></p></e><!--  autorestricted (<e><l>cheap<adj><sint></l><r>economico<adj></r></e>).-->
-    <e r="LR"><p><l>economical<s n="adj"/></l><r>economico<s n="adj"/></r></p></e><!--  autorestricted (<e><l>cheap<adj><sint></l><r>economico<adj></r></e>).-->
+    <e r="LR"><p><l>economic<s n="adj"/></l><r>economico<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>economical<s n="adj"/></l><r>economico<s n="adj"/></r></p></e>
     <e><p><l>ectodermal<s n="adj"/></l><r>ectodermico<s n="adj"/></r></p></e>
     <e><p><l>edaphic<s n="adj"/></l><r>edafico<s n="adj"/></r></p></e>
     <e><p><l>edible<s n="adj"/></l><r>commestibile<s n="adj"/><s n="mf"/></r></p></e>
@@ -1246,7 +1246,7 @@
     <e><p><l>educative<s n="adj"/></l><r>educativo<s n="adj"/></r></p></e>
     <e r="RL"><p><l>effective<s n="adj"/></l><r>efficace<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>effective<s n="adj"/></l><r>effettivo<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>efficient<s n="adj"/></l><r>efficace<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e r="RL"><l>effective<adj></l><r>efficace<adj><mf></r></e>).-->
+    <e r="LR"><p><l>efficient<s n="adj"/></l><r>efficace<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>egocentric<s n="adj"/></l><r>egocentrico<s n="adj"/></r></p></e>
     <e><p><l>egoistic<s n="adj"/></l><r>egoista<s n="adj"/></r></p></e>
     <e slr="egiziano"><p><l>egyptian<s n="adj"/></l><r>egiziano<s n="adj"/></r></p></e>
@@ -1254,8 +1254,8 @@
     <e><p><l>elastic<s n="adj"/></l><r>elastico<s n="adj"/></r></p></e>
     <e r="LR"><p><l>elder<s n="adj"/></l><r>grande<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>elderly<s n="adj"/></l><r>anziano<s n="adj"/></r></p></e>
-    <e><p><l>elect<s n="adj"/></l><r>eletto<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>elected<s n="adj"/></l><r>eletto<s n="adj"/></r></p></e><!--  autorestricted (<e><l>elect<adj></l><r>eletto<adj></r></e>).-->
+    <e><p><l>elected<s n="adj"/></l><r>eletto<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>elect<s n="adj"/></l><r>eletto<s n="adj"/></r></p></e>
     <e><p><l>electoral<s n="adj"/></l><r>elettorale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>electrical<s n="adj"/></l><r>elettrico<s n="adj"/></r></p></e>
     <e><p><l>electrochemical<s n="adj"/></l><r>elettrochimico<s n="adj"/></r></p></e>
@@ -1280,9 +1280,9 @@
     <e><p><l>empathic<s n="adj"/></l><r>empatico<s n="adj"/></r></p></e>
     <e><p><l>emphatic<s n="adj"/></l><r>enfatico<s n="adj"/></r></p></e>
     <e><p><l>empirical<s n="adj"/></l><r>empirico<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>employee<s n="adj"/></l><r>dipendente<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>dependent<adj></l><r>dipendente<adj><mf></r></e>).-->
+    <e><p><l>employee<s n="adj"/></l><r>dipendente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>empty<s n="adj"/><s n="sint"/></l><r>vuoto<s n="adj"/></r></p></e>
-    <e r="RL" c="check"><p><l>empty<s n="adj"/><s n="sint"/></l><r>deserto<s n="adj"/></r></p></e><!--  autorestricted (<e><l>empty<adj><sint></l><r>vuoto<adj></r></e>).-->
+    <e r="RL" c="check"><p><l>empty<s n="adj"/><s n="sint"/></l><r>deserto<s n="adj"/></r></p></e>
     <e><p><l>enamoured<s n="adj"/></l><r>innamorato<s n="adj"/></r></p></e>
     <e><p><l>enclitic<s n="adj"/></l><r>enclitico<s n="adj"/></r></p></e>
     <e><p><l>encyclopaedic<s n="adj"/></l><r>enciclopedico<s n="adj"/></r></p></e>
@@ -1330,7 +1330,7 @@
     <e><p><l>eutrophic<s n="adj"/></l><r>eutrofico<s n="adj"/></r></p></e>
     <e><p><l>evangelic<s n="adj"/></l><r>evangelico<s n="adj"/></r></p></e>
     <e><p><l>eventual<s n="adj"/></l><r>eventuale<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>everyday<s n="adj"/></l><r>quotidiano<s n="adj"/></r></p></e><!--  autorestricted (<e><l>daily<adj></l><r>quotidiano<adj></r></e>).-->
+    <e r="LR"><p><l>everyday<s n="adj"/></l><r>quotidiano<s n="adj"/></r></p></e>
     <e><p><l>evident<s n="adj"/></l><r>evidente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>evidential<s n="adj"/></l><r>probatorio<s n="adj"/></r></p></e>
     <e><p><l>evolutionary<s n="adj"/></l><r>evolutivo<s n="adj"/></r></p></e>
@@ -1385,7 +1385,7 @@
     <e><p><l>fallible<s n="adj"/></l><r>fallibile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>false<s n="adj"/><s n="sint"/></l><r>falso<s n="adj"/></r></p></e>
     <e><p><l>familiar<s n="adj"/></l><r>familiare<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>family<s n="adj"/></l><r>familiare<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>familiar<adj></l><r>familiare<adj><mf></r></e>).-->
+    <e r="LR"><p><l>family<s n="adj"/></l><r>familiare<s n="adj"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>famous<s n="adj"/></l><r>celebre<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>famous<s n="adj"/></l><r>famoso<s n="adj"/></r></p></e>
     <e><p><l>fanatical<s n="adj"/></l><r>fanatico<s n="adj"/></r></p></e>
@@ -1470,7 +1470,7 @@
     <e slr="libero"><p><l>free<s n="adj"/><s n="sint"/></l><r>libero<s n="adj"/></r></p></e>
     <e><p><l>french<s n="adj"/></l><r>francese<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>frequent<s n="adj"/></l><r>frequente<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>fresh<s n="adj"/><s n="sint"/></l><r>fresco<s n="adj"/></r></p></e><!--  autorestricted (<e><l>cool<adj><sint></l><r>fresco<adj></r></e>).-->
+    <e r="LR"><p><l>fresh<s n="adj"/><s n="sint"/></l><r>fresco<s n="adj"/></r></p></e>
     <e><p><l>friable<s n="adj"/></l><r>friabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>frivolous<s n="adj"/></l><r>frivolo<s n="adj"/></r></p></e>
     <e><p><l>frontal<s n="adj"/></l><r>frontale<s n="adj"/><s n="mf"/></r></p></e>
@@ -1528,7 +1528,7 @@
     <e><p><l>glorious<s n="adj"/></l><r>magnifico<s n="adj"/></r></p></e>
     <e><p><l>good<s n="adj"/><s n="sint"/></l><r>buono<s n="adj"/></r></p></e>
     <e><p><l>good<s n="adj"/><s n="sint"/><s n="comp"/></l><r>migliore<s n="adj"/></r></p></e>
-    <e r="LR" c="MG: cal fer regla ca-en per al superlatiu"><p><l>good<s n="adj"/><s n="sint"/><s n="sup"/></l><r>migliore<s n="adj"/></r></p></e><!--  autorestricted (<e><l>good<adj><sint><comp></l><r>migliore<adj></r></e>).-->
+    <e r="LR" c="MG: cal fer regla ca-en per al superlatiu"><p><l>good<s n="adj"/><s n="sint"/><s n="sup"/></l><r>migliore<s n="adj"/></r></p></e>
     <e><p><l>gothic<s n="adj"/></l><r>gotico<s n="adj"/></r></p></e>
     <e><p><l>governmental<s n="adj"/></l><r>governativo<s n="adj"/></r></p></e>
     <e><p><l>gradual<s n="adj"/></l><r>graduale<s n="adj"/><s n="mf"/></r></p></e>
@@ -1538,12 +1538,12 @@
     <e><p><l>grated<s n="adj"/></l><r>grattugiato<s n="adj"/></r></p></e>
     <e><p><l>grave<s n="adj"/><s n="sint"/></l><r>grave<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>gravitational<s n="adj"/></l><r>gravitazionale<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>great<s n="adj"/><s n="sint"/></l><r>grande<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>big<adj><sint></l><r>grande<adj><mf></r></e>).-->
+    <e r="LR"><p><l>great<s n="adj"/><s n="sint"/></l><r>grande<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>great<s n="adj"/><s n="sint"/><s n="comp"/></l><r>maggiore<s n="adj"/></r></p></e>
     <e><p><l>greek<s n="adj"/></l><r>greco<s n="adj"/></r></p></e>
     <e><p><l>green<s n="adj"/><s n="sint"/></l><r>verde<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>grey<s n="adj"/><s n="sint"/></l><r>grigio<s n="adj"/></r></p></e>
-    <e><p><l>grim<s n="adj"/><s n="sint"/></l><r>sinistro<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>grim<s n="adj"/><s n="sint"/></l><r>sinistro<s n="adj"/></r></p></e>
     <e><p><l>groundless<s n="adj"/></l><r>infondato<s n="adj"/></r></p></e>
     <e><p><l>grumpy<s n="adj"/><s n="sint"/></l><r>scontroso<s n="adj"/></r></p></e>
     <e><p><l>guatemalan<s n="adj"/></l><r>guatemalteco<s n="adj"/></r></p></e>
@@ -1558,7 +1558,7 @@
     <e><p><l>half<s n="adj"/></l><r>mezzo<s n="adj"/></r></p></e>
     <e><p><l>handicapped<s n="adj"/></l><r>andicappato<s n="adj"/></r></p></e>
     <e c="check"><p><l>handmade<s n="adj"/></l><r>artigiano<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>handsome<s n="adj"/></l><r>bello<s n="adj"/></r></p></e><!--  autorestricted (<e><l>beautiful<adj></l><r>bello<adj></r></e>).-->
+    <e r="LR"><p><l>handsome<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
     <e><p><l>handwritten<s n="adj"/></l><r>manoscritto<s n="adj"/></r></p></e>
     <e><p><l>haphazard<s n="adj"/></l><r>fortuito<s n="adj"/></r></p></e>
     <e><p><l>haploid<s n="adj"/></l><r>aploide<s n="adj"/><s n="mf"/></r></p></e>
@@ -1679,7 +1679,7 @@
     <e><p><l>immemorial<s n="adj"/></l><r>immemorabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>immense<s n="adj"/></l><r>immenso<s n="adj"/></r></p></e>
     <e><p><l>immigrant<s n="adj"/></l><r>immigrante<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>imminent<s n="adj"/></l><r>imminente<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>coming<adj></l><r>imminente<adj><mf></r></e>).-->
+    <e><p><l>imminent<s n="adj"/></l><r>imminente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>immoderate<s n="adj"/></l><r>smisurato<s n="adj"/></r></p></e>
     <e><p><l>immoral<s n="adj"/></l><r>immorale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>immortal<s n="adj"/></l><r>immortale<s n="adj"/><s n="mf"/></r></p></e>
@@ -1703,7 +1703,7 @@
     <e><p><l>impotent<s n="adj"/></l><r>impotente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>imprecise<s n="adj"/></l><r>impreciso<s n="adj"/></r></p></e>
     <e><p><l>imprescriptible<s n="adj"/></l><r>imprescrittibile<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>impressionable<s n="adj"/></l><r>impressionabile<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>emotional<adj></l><r>impressionabile<adj><mf></r></e>).-->
+    <e r="LR"><p><l>impressionable<s n="adj"/></l><r>impressionabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>impressive<s n="adj"/></l><r>impressionante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>improbable<s n="adj"/></l><r>improbabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>improper<s n="adj"/></l><r>improprio<s n="adj"/></r></p></e>
@@ -1716,7 +1716,7 @@
     <e><p><l>inadmissible<s n="adj"/></l><r>inammissibile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>inalienable<s n="adj"/></l><r>inalienabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>inapplicable<s n="adj"/></l><r>inapplicabile<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>inappropriate<s n="adj"/></l><r>inadeguato<s n="adj"/></r></p></e><!--  autorestricted (<e><l>inadequate<adj></l><r>inadeguato<adj></r></e>).-->
+    <e r="LR"><p><l>inappropriate<s n="adj"/></l><r>inadeguato<s n="adj"/></r></p></e>
     <e><p><l>inarticulate<s n="adj"/></l><r>inarticolato<s n="adj"/></r></p></e>
     <e><p><l>inaugural<s n="adj"/></l><r>inaugurale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>incalculable<s n="adj"/></l><r>incalcolabile<s n="adj"/><s n="mf"/></r></p></e>
@@ -1766,18 +1766,18 @@
     <e><p><l>individual<s n="adj"/></l><r>individuale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>indivisible<s n="adj"/></l><r>indivisibile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>indonesian<s n="adj"/></l><r>indonesiano<s n="adj"/></r></p></e>
-    <e><p><l>indoor<s n="adj"/></l><r>interno<s n="adj"/></r></p></e>
+    <e srl="indoor"><p><l>indoor<s n="adj"/></l><r>interno<s n="adj"/></r></p></e>
     <e><p><l>indulgent<s n="adj"/></l><r>indulgente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>industrial<s n="adj"/></l><r>industriale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>ineffective<s n="adj"/></l><r>inefficace<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>ineligible<s n="adj"/></l><r>ineleggibile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>inevitable<s n="adj"/></l><r>inevitabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>inexorable<s n="adj"/></l><r>inesorabile<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>inexpensive<s n="adj"/></l><r>economico<s n="adj"/></r></p></e><!--  autorestricted (<e><l>cheap<adj><sint></l><r>economico<adj></r></e>).-->
+    <e r="LR"><p><l>inexpensive<s n="adj"/></l><r>economico<s n="adj"/></r></p></e>
     <e><p><l>infamous<s n="adj"/></l><r>infame<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>infectious<s n="adj"/></l><r>infettivo<s n="adj"/></r></p></e>
     <e r="LR"><p><l>infective<s n="adj"/></l><r>infettivo<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>inferior<s n="adj"/></l><r>inferiore<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>bottom<adj></l><r>inferiore<adj><mf></r></e>).-->
+    <e><p><l>inferior<s n="adj"/></l><r>inferiore<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>infernal<s n="adj"/></l><r>infernale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>infinite<s n="adj"/></l><r>infinito<s n="adj"/></r></p></e>
     <e><p><l>infinitesimal<s n="adj"/></l><r>infinitesimale<s n="adj"/><s n="mf"/></r></p></e>
@@ -1787,7 +1787,7 @@
     <e><p><l>influential<s n="adj"/></l><r>influente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>informal<s n="adj"/></l><r>informale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>informational<s n="adj"/></l><r>informativo<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>informative<s n="adj"/></l><r>informativo<s n="adj"/></r></p></e><!--  autorestricted (<e><l>informational<adj></l><r>informativo<adj></r></e>).-->
+    <e r="LR"><p><l>informative<s n="adj"/></l><r>informativo<s n="adj"/></r></p></e>
     <e><p><l>infraorbital<s n="adj"/></l><r>infraorbitale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>infrared<s n="adj"/></l><r>infrarosso<s n="adj"/></r></p></e>
     <e><p><l>infrequent<s n="adj"/></l><r>infrequente<s n="adj"/><s n="mf"/></r></p></e>
@@ -1799,7 +1799,7 @@
     <e><p><l>initial<s n="adj"/></l><r>iniziale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>injured<s n="adj"/></l><r>sinistrato<s n="adj"/></r></p></e>
     <e><p><l>innate<s n="adj"/></l><r>innato<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>inner<s n="adj"/></l><r>interno<s n="adj"/></r></p></e><!--  autorestricted (<e><l>indoor<adj></l><r>interno<adj></r></e>).-->
+    <e srl="inner"><p><l>inner<s n="adj"/></l><r>interno<s n="adj"/></r></p></e>
     <e><p><l>innocent<s n="adj"/></l><r>innocente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>innocuous<s n="adj"/></l><r>innocuo<s n="adj"/></r></p></e>
     <e><p><l>innovative<s n="adj"/></l><r>innovatore<s n="adj"/></r></p></e>
@@ -1838,7 +1838,7 @@
     <e><p><l>intentional<s n="adj"/></l><r>intenzionato<s n="adj"/></r></p></e>
     <e><p><l>interactive<s n="adj"/></l><r>interattivo<s n="adj"/></r></p></e>
     <e><p><l>interannual<s n="adj"/></l><r>interannuale<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>interchangeable<s n="adj"/></l><r>intercambiabile<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>exchangeable<adj></l><r>intercambiabile<adj><mf></r></e>).-->
+    <e r="LR"><p><l>interchangeable<s n="adj"/></l><r>intercambiabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>intercontinental<s n="adj"/></l><r>intercontinentale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>intercultural<s n="adj"/></l><r>interculturale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>interdependent<s n="adj"/></l><r>interdipendente<s n="adj"/><s n="mf"/></r></p></e>
@@ -1850,7 +1850,7 @@
     <e><p><l>interminable<s n="adj"/></l><r>interminabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>intermittent<s n="adj"/></l><r>intermittente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>intermolecular<s n="adj"/></l><r>intermolecolare<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>internal<s n="adj"/></l><r>interno<s n="adj"/></r></p></e><!--  autorestricted (<e><l>indoor<adj></l><r>interno<adj></r></e>).-->
+    <e srl="internal D"><p><l>internal<s n="adj"/></l><r>interno<s n="adj"/></r></p></e>
     <e><p><l>international<s n="adj"/></l><r>internazionale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>interpersonal<s n="adj"/></l><r>interpersonale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>interpretable<s n="adj"/></l><r>interpretabile<s n="adj"/><s n="mf"/></r></p></e>
@@ -1874,7 +1874,7 @@
     <e><p><l>invalid<s n="adj"/></l><r>nullo<s n="adj"/></r></p></e>
     <e><p><l>invaluable<s n="adj"/></l><r>invalutabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>invariable<s n="adj"/></l><r>invariabile<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>invariant<s n="adj"/></l><r>invariabile<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>invariable<adj></l><r>invariabile<adj><mf></r></e>).-->
+    <e r="LR"><p><l>invariant<s n="adj"/></l><r>invariabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>inventive<s n="adj"/></l><r>inventivo<s n="adj"/></r></p></e>
     <e><p><l>invertible<s n="adj"/></l><r>invertibile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>invincible<s n="adj"/></l><r>invincibile<s n="adj"/><s n="mf"/></r></p></e>
@@ -1918,14 +1918,14 @@
     <e><p><l>jamaican<s n="adj"/></l><r>giamaicano<s n="adj"/></r></p></e>
     <e><p><l>japanese<s n="adj"/></l><r>giapponese<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>jealous<s n="adj"/></l><r>geloso<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>jewish<s n="adj"/></l><r>ebreo<s n="adj"/></r></p></e><!--  autorestricted (<e><l>hebrew<adj></l><r>ebreo<adj></r></e>).-->
+    <e r="LR"><p><l>jewish<s n="adj"/></l><r>ebreo<s n="adj"/></r></p></e>
     <e><p><l>jordanian<s n="adj"/></l><r>giordano<s n="adj"/></r></p></e>
     <e><p><l>journalistic<s n="adj"/></l><r>giornalistico<s n="adj"/></r></p></e>
     <e><p><l>jovial<s n="adj"/></l><r>gioviale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>judaic<s n="adj"/></l><r>giudaico<s n="adj"/></r></p></e>
     <e><p><l>judicial<s n="adj"/></l><r>giudiziario<s n="adj"/></r></p></e>
     <e><p><l>juridical<s n="adj"/></l><r>giuridico<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>just<s n="adj"/><s n="sint"/></l><r>giusto<s n="adj"/></r></p></e><!--  autorestricted (<e><l>fair<adj><sint></l><r>giusto<adj></r></e>).-->
+    <e r="LR"><p><l>just<s n="adj"/><s n="sint"/></l><r>giusto<s n="adj"/></r></p></e>
     <e><p><l>justifiable<s n="adj"/></l><r>giustificabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>juvenile<s n="adj"/></l><r>giovanile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>katabatic<s n="adj"/></l><r>catabatico<s n="adj"/></r></p></e>
@@ -1942,29 +1942,30 @@
     <e><p><l>lacking<s n="adj"/></l><r>carente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>lacrimal<s n="adj"/></l><r>lacrimale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>lacustrine<s n="adj"/></l><r>lacustre<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>large<s n="adj"/><s n="sint"/></l><r>grande<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>big<adj><sint></l><r>grande<adj><mf></r></e>).-->
+    <e r="LR"><p><l>large<s n="adj"/><s n="sint"/></l><r>grande<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>last<s n="adj"/></l><r>ultimo<s n="adj"/></r></p></e>
     <e><p><l>lasting<s n="adj"/></l><r>duraturo<s n="adj"/></r></p></e>
     <e><p><l>late<s n="adj"/><s n="sint"/></l><r>tardivo<s n="adj"/></r></p></e>
-    <e r="RL"><p><l>late<s n="adj"/><s n="sint"/></l><r>tardio<s n="adj"/></r></p></e><!--  autorestricted (<e><l>late<adj><sint></l><r>tardivo<adj></r></e>).-->
+    <e r="RL"><p><l>late<s n="adj"/><s n="sint"/></l><r>tardio<s n="adj"/></r></p></e>
     <e><p><l>latent<s n="adj"/></l><r>latente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>lateral<s n="adj"/></l><r>laterale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>latin<s n="adj"/></l><r>latino<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>latter<s n="adj"/></l><r>ultimo<s n="adj"/></r></p></e><!--  autorestricted (<e><l>last<adj></l><r>ultimo<adj></r></e>).-->
+    <e r="LR"><p><l>latter<s n="adj"/></l><r>ultimo<s n="adj"/></r></p></e>
     <e><p><l>latvian<s n="adj"/></l><r>lettone<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>lawful<s n="adj"/></l><r>lecito<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>lawless<s n="adj"/></l><r>anarchico<s n="adj"/></r></p></e><!--  autorestricted (<e><l>anarchic<adj></l><r>anarchico<adj></r></e>).-->
+    <e r="LR"><p><l>lawless<s n="adj"/></l><r>anarchico<s n="adj"/></r></p></e>
     <e><p><l>leading<s n="adj"/></l><r>principale<s n="adj"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>leading<s n="adj"/></l><r>protagonista<s n="adj"/></r></p></e>
     <e><p><l>lebanese<s n="adj"/></l><r>libanese<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>left<s n="adj"/></l><r>sinistro<s n="adj"/></r></p></e><!--  autorestricted (<e><l>grim<adj><sint></l><r>sinistro<adj></r></e>).-->
-    <e r="LR"><p><l>left-hand<s n="adj"/></l><r>sinistro<s n="adj"/></r></p></e><!--  autorestricted (<e><l>grim<adj><sint></l><r>sinistro<adj></r></e>).-->
+    <e srl="left D"><p><l>left<s n="adj"/></l><r>sinistro<s n="adj"/></r></p></e>
+    <e srl="sinister"><p><l>sinister<s n="adj"/></l><r>sinistro<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>left-hand<s n="adj"/></l><r>sinistro<s n="adj"/></r></p></e>
     <e><p><l>left-handed<s n="adj"/></l><r>mancino<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>lefthand<s n="adj"/></l><r>sinistro<s n="adj"/></r></p></e><!--  autorestricted (<e><l>grim<adj><sint></l><r>sinistro<adj></r></e>).-->
+    <e r="LR"><p><l>lefthand<s n="adj"/></l><r>sinistro<s n="adj"/></r></p></e>
     <e><p><l>legal<s n="adj"/></l><r>legale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>legislative<s n="adj"/></l><r>legislativo<s n="adj"/></r></p></e>
     <e><p><l>legitimate<s n="adj"/></l><r>legittimo<s n="adj"/></r></p></e>
-    <e><p><l>lengthy<s n="adj"/></l><r>lungo<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>lengthy<s n="adj"/></l><r>lungo<s n="adj"/></r></p></e>
     <e><p><l>lesbian<s n="adj"/></l><r>lesbico<s n="adj"/></r></p></e>
     <e><p><l>lesser<s n="adj"/></l><r>minore<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>lethal<s n="adj"/></l><r>letale<s n="adj"/><s n="mf"/></r></p></e>
@@ -1973,13 +1974,14 @@
     <e><p><l>lexicological<s n="adj"/></l><r>lessicologico<s n="adj"/></r></p></e>
     <e><p><l>liable<s n="adj"/></l><r>propenso<s n="adj"/></r></p></e>
     <e><p><l>liberal<s n="adj"/></l><r>liberale<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>licit<s n="adj"/></l><r>lecito<s n="adj"/></r></p></e><!--  autorestricted (<e><l>lawful<adj></l><r>lecito<adj></r></e>).-->
-    <e r="LR"><p><l>light<s n="adj"/><s n="sint"/></l><r>chiaro<s n="adj"/></r></p></e><!--  autorestricted (<e><l>clear<adj><sint></l><r>chiaro<adj></r></e>).-->
-    <e r="RL"><p><l>light<s n="adj"/><s n="sint"/></l><r>leggero<s n="adj"/></r></p></e><!--  autorestricted (<e r="LR"><l>light<adj><sint></l><r>chiaro<adj></r></e>).-->
+    <e r="LR"><p><l>licit<s n="adj"/></l><r>lecito<s n="adj"/></r></p></e>
+    <e srl="light" slr="chiaro"><p><l>light<s n="adj"/><s n="sint"/></l><r>chiaro<s n="adj"/></r></p></e>
+    <e slr="leggero D"><p><l>light<s n="adj"/><s n="sint"/></l><r>leggero<s n="adj"/></r></p></e>
+    <e slr="luminoso"><p><l>light<s n="adj"/><s n="sint"/></l><r>luminoso<s n="adj"/></r></p></e>
     <e><p><l>light-sensitive<s n="adj"/></l><r>fotosensibile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>lighted<s n="adj"/></l><r>illuminato<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>lightweight<s n="adj"/></l><r>leggero<s n="adj"/></r></p></e><!--  autorestricted (<e r="RL"><l>light<adj><sint></l><r>leggero<adj></r></e>).-->
-    <e><p><l>ligthful<s n="adj"/></l><r>luminoso<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>lightweight<s n="adj"/></l><r>leggero<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>lightful<s n="adj"/></l><r>luminoso<s n="adj"/></r></p></e>
     <e><p><l>likely<s n="adj"/></l><r>probabile<s n="adj"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>likely<s n="adj"/></l><r>verosimile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>linear<s n="adj"/></l><r>lineare<s n="adj"/><s n="mf"/></r></p></e>
@@ -1993,9 +1995,9 @@
     <e><p><l>lithologic<s n="adj"/></l><r>litologico<s n="adj"/></r></p></e>
     <e><p><l>lithuanian<s n="adj"/></l><r>lituano<s n="adj"/></r></p></e>
     <e><p><l>little<s n="adj"/></l><r>piccolo<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>littoral<s n="adj"/></l><r>litorale<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>coastal<adj></l><r>litorale<adj><mf></r></e>).-->
+    <e r="LR"><p><l>littoral<s n="adj"/></l><r>litorale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>liturgical<s n="adj"/></l><r>liturgico<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>lively<s n="adj"/></l><r>vivo<s n="adj"/></r></p></e><!--  autorestricted (<e><l>alive<adj></l><r>vivo<adj></r></e>).-->
+    <e r="LR"><p><l>lively<s n="adj"/></l><r>vivo<s n="adj"/></r></p></e>
     <e><p><l>living<s n="adj"/></l><r>vivente<s n="adj"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>local<s n="adj"/></l><r>comarcale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>local<s n="adj"/></l><r>locale<s n="adj"/><s n="mf"/></r></p></e>
@@ -2004,9 +2006,9 @@
     <e><p><l>logical<s n="adj"/></l><r>logico<s n="adj"/></r></p></e>
     <e><p><l>logistical<s n="adj"/></l><r>logistico<s n="adj"/></r></p></e>
     <e><p><l>lonely<s n="adj"/></l><r>solitario<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>long<s n="adj"/><s n="sint"/></l><r>lungo<s n="adj"/></r></p></e><!--  autorestricted (<e><l>lengthy<adj></l><r>lungo<adj></r></e>).-->
+    <e><p><l>long<s n="adj"/><s n="sint"/></l><r>lungo<s n="adj"/></r></p></e>
     <e><p><l>longitudinal<s n="adj"/></l><r>longitudinale<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>longshore<s n="adj"/></l><r>litorale<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>coastal<adj></l><r>litorale<adj><mf></r></e>).-->
+    <e r="LR"><p><l>longshore<s n="adj"/></l><r>litorale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>lordly<s n="adj"/></l><r>signorile<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>lovely<s n="adj"/><s n="sint"/></l><r>prezioso<s n="adj"/></r></p></e>
     <e><p><l>loving<s n="adj"/></l><r>amante<s n="adj"/><s n="mf"/></r></p></e>
@@ -2016,7 +2018,7 @@
     <e><p><l>loyal<s n="adj"/></l><r>leale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>lumbar<s n="adj"/></l><r>lombare<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>luminescent<s n="adj"/></l><r>luminescente<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>luminous<s n="adj"/></l><r>luminoso<s n="adj"/></r></p></e><!--  autorestricted (<e><l>ligthful<adj></l><r>luminoso<adj></r></e>).-->
+    <e r="LR"><p><l>luminous<s n="adj"/></l><r>luminoso<s n="adj"/></r></p></e>
     <e><p><l>lunar<s n="adj"/></l><r>lunare<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>lying<s n="adj"/></l><r>bugiardo<s n="adj"/></r></p></e>
     <e><p><l>lymphatic<s n="adj"/></l><r>linfatico<s n="adj"/></r></p></e>
@@ -2029,10 +2031,10 @@
     <e><p><l>magic<s n="adj"/></l><r>magico<s n="adj"/></r></p></e>
     <e><p><l>magistral<s n="adj"/></l><r>magistrale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>magnetic<s n="adj"/></l><r>magnetico<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>magnificent<s n="adj"/></l><r>magnifico<s n="adj"/></r></p></e><!--  autorestricted (<e><l>glorious<adj></l><r>magnifico<adj></r></e>).-->
+    <e r="LR"><p><l>magnificent<s n="adj"/></l><r>magnifico<s n="adj"/></r></p></e>
     <e><p><l>maiden<s n="adj"/></l><r>verginale<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>main<s n="adj"/></l><r>maggiore<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>major<s n="adj"/></l><r>importante<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>important<adj></l><r>importante<adj><mf></r></e>).-->
+    <e r="LR"><p><l>major<s n="adj"/></l><r>importante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>majorcan<s n="adj"/></l><r>maiorchino<s n="adj"/></r></p></e>
     <e><p><l>majority<s n="adj"/></l><r>maggioritario<s n="adj"/></r></p></e>
     <e><p><l>male<s n="adj"/></l><r>maschile<s n="adj"/><s n="mf"/></r></p></e>
@@ -2058,7 +2060,7 @@
     <e><p><l>masculine<s n="adj"/></l><r>mascolino<s n="adj"/></r></p></e>
     <e><p><l>massive<s n="adj"/></l><r>massivo<s n="adj"/></r></p></e>
     <e><p><l>master<s n="adj"/></l><r>maestro<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>masterful<s n="adj"/></l><r>magistrale<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>magistral<adj></l><r>magistrale<adj><mf></r></e>).-->
+    <e r="LR"><p><l>masterful<s n="adj"/></l><r>magistrale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>mat<s n="adj"/></l><r>matto<s n="adj"/></r></p></e>
     <e><p><l>matchless<s n="adj"/></l><r>ineguagliabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>material<s n="adj"/></l><r>materiale<s n="adj"/><s n="mf"/></r></p></e>
@@ -2066,12 +2068,12 @@
     <e><p><l>mathematical<s n="adj"/></l><r>matematico<s n="adj"/></r></p></e>
     <e><p><l>matrilineal<s n="adj"/></l><r>matrilineare<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>matrimonial<s n="adj"/></l><r>matrimoniale<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>matt<s n="adj"/></l><r>matto<s n="adj"/></r></p></e><!--  autorestricted (<e><l>mat<adj></l><r>matto<adj></r></e>).-->
+    <e r="LR"><p><l>matt<s n="adj"/></l><r>matto<s n="adj"/></r></p></e>
     <e><p><l>mature<s n="adj"/></l><r>maturo<s n="adj"/></r></p></e>
     <e><p><l>maxillary<s n="adj"/></l><r>mascellare<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>maximal<s n="adj"/></l><r>massimo<s n="adj"/></r></p></e>
     <e><p><l>maximum<s n="adj"/></l><r>massimo<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>mean<s n="adj"/><s n="sint"/></l><r>cattivo<s n="adj"/></r></p></e><!--  autorestricted (<e><l>bad<adj><sint></l><r>cattivo<adj></r></e>).-->
+    <e r="LR"><p><l>mean<s n="adj"/><s n="sint"/></l><r>cattivo<s n="adj"/></r></p></e>
     <e><p><l>meaningful<s n="adj"/></l><r>significativo<s n="adj"/></r></p></e>
     <e><p><l>meaningless<s n="adj"/></l><r>senza<b/>senso<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>measurable<s n="adj"/></l><r>misurabile<s n="adj"/><s n="mf"/></r></p></e>
@@ -2080,7 +2082,6 @@
     <e><p><l>medial<s n="adj"/></l><r>mediale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>medical<s n="adj"/></l><r>medico<s n="adj"/></r></p></e>
     <e><p><l>medicinal<s n="adj"/></l><r>medicinale<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>medieval<s n="adj"/></l><r>medioevale<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>mediaeval<adj></l><r>medioevale<adj><mf></r></e>).-->
     <e><p><l>mediocre<s n="adj"/></l><r>mediocre<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>mediterranean<s n="adj"/></l><r>mediterraneo<s n="adj"/></r></p></e>
     <e><p><l>medullary<s n="adj"/></l><r>midollare<s n="adj"/><s n="mf"/></r></p></e>
