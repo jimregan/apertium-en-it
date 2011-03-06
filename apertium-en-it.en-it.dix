@@ -1913,6 +1913,7 @@
     <e><p><l>isotropic<s n="adj"/></l><r>isotropo<s n="adj"/></r></p></e>
     <e><p><l>israeli<s n="adj"/></l><r>israeliano<s n="adj"/></r></p></e>
     <e><p><l>italian<s n="adj"/></l><r>italiano<s n="adj"/></r></p></e>
+    <e><p><l>algerian<s n="adj"/></l><r>algerino<s n="adj"/></r></p></e>
     <e><p><l>itinerant<s n="adj"/></l><r>itinerante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>jamaican<s n="adj"/></l><r>giamaicano<s n="adj"/></r></p></e>
     <e><p><l>japanese<s n="adj"/></l><r>giapponese<s n="adj"/><s n="mf"/></r></p></e>
@@ -2885,6 +2886,7 @@
     <e><p><l>trapezoidal<s n="adj"/></l><r>trapezoidale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>traumatic<s n="adj"/></l><r>traumatico<s n="adj"/></r></p></e>
     <e><p><l>traveller<s n="adj"/></l><r>viaggiatore<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>voyager<s n="adj"/></l><r>viaggiatore<s n="adj"/></r></p></e>
     <e><p><l>treatable<s n="adj"/></l><r>trattabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>tremendous<s n="adj"/></l><r>apoteosico<s n="adj"/></r></p></e>
     <e><p><l>triangular<s n="adj"/></l><r>triangolare<s n="adj"/><s n="mf"/></r></p></e>
@@ -3407,14 +3409,18 @@
     <e><p><l>Mississippi<s n="np"/><s n="loc"/></l><r>Mississippi<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><p><l>Nagasaki<s n="np"/><s n="loc"/></l><r>Nagasaki<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><p><l>Metallica<s n="np"/><s n="al"/></l><r>Metallica<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+    <e><p><l>Waiting<b/>for<b/>Godot<s n="np"/><s n="al"/></l><r>Aspettando<b/>Godot<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+    <e><p><l>Warsaw<b/>Pact<s n="np"/><s n="al"/></l><r>Patto<b/>di<b/>Varsavia<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+    <e><p><l>Treaty<b/>of<b/>Friendship,<b/>Cooperation<b/>and<b/>Mutual<b/>Assistance<s n="np"/><s n="al"/></l><r>Trattato<b/>di<b/>amicizia,<b/>cooperazione<b/>e<b/>mutua<b/>assistenza<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>Mozilla<s n="np"/><s n="al"/></l><r>Mozilla<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>New<b/>York<b/>Stock<b/>Exchange<s n="np"/><s n="al"/></l><r>New<b/>York<b/>Stock<b/>Exchange<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>North<b/>Atlantic<b/>Treaty<b/>Organization<s n="np"/><s n="al"/></l><r>Organizzazione<b/>del<b/>Trattato<b/>Nord<b/>Atlantico<s n="np"/><s n="al"/><s n="f"/></r></p></e>
     <e><p><l>Paris<b/>Bourse<s n="np"/><s n="al"/></l><r>Borsa<b/>di<b/>Parigi<s n="np"/><s n="al"/><s n="f"/></r></p></e>
     <e><p><l>Phoney<b/>War<s n="np"/><s n="al"/></l><r>Finta<b/>guerra<s n="np"/><s n="al"/><s n="f"/></r></p></e>
     <e><p><l>Prague<b/>Spring<s n="np"/><s n="al"/></l><r>Primavera<b/>di<b/>Praga<s n="np"/><s n="al"/><s n="f"/></r></p></e>
-    <e><p><l>Second<b/>World<b/>War<s n="np"/><s n="al"/></l><r>Seconda<b/>guerra<b/>mondiale<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>Second<b/>World<b/>War<s n="np"/><s n="al"/></l><r>Seconda<b/>guerra<b/>mondiale<s n="np"/><s n="al"/><s n="f"/></r></p></e>
     <e><p><l>S&amp;P<b/>500<s n="np"/><s n="al"/></l><r>S&amp;P<b/>500<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+    <e><p><l>S&amp;P<b/>TSX<s n="np"/><s n="al"/></l><r>S&amp;P<b/>TSX<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>Telefónica<s n="np"/><s n="al"/></l><r>Telefónica<s n="np"/><s n="al"/><s n="f"/></r></p></e>
     <e><p><l>The<b/>New<b/>York<b/>Times<s n="np"/><s n="al"/></l><r>The<b/>New<b/>York<b/>Times<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>Treaty<b/>establishing<b/>a<b/>Constitution<b/>for<b/>Europe<s n="np"/><s n="al"/></l><r>Trattato<b/>che<b/>adotta<b/>una<b/>Costituzione<b/>per<b/>l'Europa<s n="np"/><s n="al"/><s n="m"/></r></p></e>
@@ -3814,7 +3820,7 @@
     <e><p><l>Duran<b/>Duran<s n="np"/><s n="al"/></l><r>Duran<b/>Duran<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>European<b/>Defence<b/>Agency<s n="np"/><s n="al"/></l><r>Agenzia<b/>europea<b/>per<b/>la<b/>difesa<s n="np"/><s n="al"/><s n="f"/></r></p></e>
     <e><p><l>Facebook<s n="np"/><s n="al"/></l><r>Facebook<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-    <e><p><l>First<b/>World<b/>War<s n="np"/><s n="al"/></l><r>Prima<b/>guerra<b/>mondiale<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>First<b/>World<b/>War<s n="np"/><s n="al"/></l><r>Prima<b/>guerra<b/>mondiale<s n="np"/><s n="al"/><s n="f"/></r></p></e>
     <e><p><l>Fortune<b/>500<s n="np"/><s n="al"/></l><r>Fortune<b/>500<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>FTSE<b/>100<s n="np"/><s n="al"/></l><r>FTSE<b/>100<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>German<b/>Democratic<b/>Republic<s n="np"/><s n="al"/></l><r>Repubblica<b/>Democratica<b/>Tedesca<s n="np"/><s n="al"/><s n="f"/></r></p></e>
@@ -11790,6 +11796,7 @@
     <e r="LR"><p><l>Woodworth<s n="np"/><s n="cog"/><s n="pl"/></l><r>Woodworth<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><i>Woody<s n="np"/><s n="ant"/></i></e>
     <e><p><l>World<b/>War<b/>II<s n="np"/><s n="al"/></l><r>Seconda<b/>guerra<b/>mondiale<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+    <e><p><l>World<b/>War<b/>I<s n="np"/><s n="al"/></l><r>Prima<b/>guerra<b/>mondiale<s n="np"/><s n="al"/><s n="f"/></r></p></e>
     <e><p><l>Wright<s n="np"/><s n="cog"/><s n="sg"/></l><r>Wright<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>Wright<s n="np"/><s n="cog"/><s n="pl"/></l><r>Wright<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><i>Wyatt<s n="np"/><s n="ant"/></i></e>
@@ -12222,6 +12229,8 @@
     <e><p><l>Irish<s n="n"/></l><r>irlandese<s n="n"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>Italian<s n="n"/></l><r>italiano<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Italian<s n="n"/></l><r>italiano<s n="n"/></r></p></e>
+    <e r="LR"><p><l>algerian<s n="n"/></l><r>algerino<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>algerian<s n="n"/></l><r>algerino<s n="n"/></r></p></e>
     <e r="LR"><p><l>Jamaican<s n="n"/></l><r>giamaicano<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Jamaican<s n="n"/></l><r>giamaicano<s n="n"/></r></p></e>
     <e r="RL"><p><l>January<s n="n"/><s n="ND"/></l><r>gennaio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -15903,6 +15912,7 @@
     <e><p><l>greedy<s n="n"/></l><r>avido<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>green<s n="n"/></l><r>verde<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>greenhouse<s n="n"/></l><r>serra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>odyssey<s n="n"/></l><r>odissea<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>greeting<s n="n"/></l><r>saluto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>greyhound<s n="n"/></l><r>levriero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>grid<s n="n"/></l><r>griglia<s n="n"/><s n="f"/></r></p></e>
