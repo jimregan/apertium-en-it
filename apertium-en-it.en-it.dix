@@ -13442,7 +13442,7 @@
     <e><p><l>bottle<s n="n"/></l><r>bottiglia<s n="n"/><s n="f"/></r></p></e>
     <e srl="bottom D"><p><l>bottom<s n="n"/></l><r>fondo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>boundary<s n="n"/></l><r>frontiera<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>bouquet<s n="n"/></l><r>ramo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bouquet<s n="n"/></l><r>bouquet<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e r="LR"><p><l>bourgeois<s n="n"/></l><r>borghese<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>bourgeois<s n="n"/></l><r>borghese<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bourgeoisie<s n="n"/></l><r>borghesia<s n="n"/><s n="f"/></r></p></e>
@@ -13530,14 +13530,15 @@
     <e><p><l>bumblebee<s n="n"/></l><r>bombo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>bump<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>bump<s n="n"/></l><r>bernoccolo<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>bunch<s n="n"/></l><r>ramo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>bouquet<n></l><r>ramo<n><m></r></e>).-->
+    <e><p><l>bunch<s n="n"/></l><r>mazzo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>branch<s n="n"/></l><r>ramo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bundle<s n="n"/></l><r>balla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bunk<s n="n"/></l><r>branda<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>bunker<s n="n"/><s n="sg"/></l><r>bunker<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>bunker<s n="n"/><s n="pl"/></l><r>bunker<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>bunker<s n="n"/><s n="ND"/></l><r>bunker<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e><p><l>burden<s n="n"/></l><r>carica<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>bureau<s n="n"/></l><r>agenzia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>agency<n></l><r>agenzia<n><f></r></e>).-->
+    <e r="LR"><p><l>burden<s n="n"/></l><r>carica<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>bureau<s n="n"/></l><r>agenzia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bureaucracy<s n="n"/></l><r>burocrazia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bureaucratisation<s n="n"/></l><r>burocratizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>burial<s n="n"/></l><r>sepoltura<s n="n"/><s n="f"/></r></p></e>
@@ -13825,8 +13826,11 @@
     <e><p><l>characterisation<s n="n"/></l><r>caratterizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>characteristic<s n="n"/></l><r>caratteristica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chard<s n="n"/></l><r>bietola<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>charge<s n="n"/></l><r>carica<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>burden<n></l><r>carica<n><f></r></e>).-->
-    <e r="RL"><p><l>charge<s n="n"/></l><r>carico<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>charge<n></l><r>carica<n><f></r></e>).-->
+    <e srl="charge"><p><l>charge<s n="n"/></l><r>carica<s n="n"/><s n="f"/></r></p></e>
+    <e srl="position D"><p><l>position<s n="n"/></l><r>carica<s n="n"/><s n="f"/></r></p></e>
+    <e srl="charge" slr="carico"><p><l>charge<s n="n"/></l><r>carico<s n="n"/><s n="m"/></r></p></e>
+    <e srl="load D"><p><l>load<s n="n"/></l><r>carico<s n="n"/><s n="m"/></r></p></e>
+    <e slr="tariffa D"><p><l>charge<s n="n"/></l><r>tariffa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>charisma<s n="n"/></l><r>carisma<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chart<s n="n"/></l><r>grafico<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>chart<s n="n"/></l><r>mappa<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>chart<n></l><r>grafico<n><m></r></e>).-->
@@ -15723,8 +15727,8 @@
     <e r="LR"><p><l>freedom<s n="n"/><s n="pl"/></l><r>libertà<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>freemasonry<s n="n"/></l><r>massoneria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>freeze<s n="n"/></l><r>congelamento<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>freezing<s n="n"/></l><r>congelamento<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>freeze<n></l><r>congelamento<n><m></r></e>).-->
-    <e r="LR"><p><l>freight<s n="n"/></l><r>carica<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>burden<n></l><r>carica<n><f></r></e>).-->
+    <e r="LR"><p><l>freezing<s n="n"/></l><r>congelamento<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>freight<s n="n"/></l><r>carica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>frequency<s n="n"/></l><r>frequenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fresco<s n="n"/></l><r>affresco<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fresh<b/>pasta<s n="n"/></l><r>pasta<b/>fresca<s n="n"/><s n="f"/></r></p></e>
@@ -16959,12 +16963,13 @@
     <e><p><l>lithography<s n="n"/></l><r>litografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lithology<s n="n"/></l><r>litologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>litre<s n="n"/></l><r>litro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>centilitre<s n="n"/></l><r>centilitro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>little<b/>finger<s n="n"/></l><r>dito<b/>mignolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>liturgy<s n="n"/></l><r>liturgia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>liver<s n="n"/></l><r>fegato<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>livestock<s n="n"/></l><r>bestiame<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>cattle<n></l><r>bestiame<n><m></r></e>).-->
-    <e r="LR"><p><l>llama<s n="n"/></l><r>fiamma<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>flame<n></l><r>fiamma<n><f></r></e>).-->
-    <e r="LR"><p><l>load<s n="n"/></l><r>carica<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>burden<n></l><r>carica<n><f></r></e>).-->
+    <e><p><l>llama<s n="n"/></l><r>lama<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>load<s n="n"/></l><r>carica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>local<b/>mafia<s n="n"/></l><r>camorra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>localism<s n="n"/></l><r>localismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>crow<s n="n"/></l><r>corvo<s n="n"/><s n="m"/></r></p></e>
