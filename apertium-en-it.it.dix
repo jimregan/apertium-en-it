@@ -97452,6 +97452,8 @@
     <e lm="costa"><i>cost</i><par n="cas/a__n"/></e>
     <e lm="costante"><i>costant</i><par n="abbreviazion/e__n"/></e>
     <e lm="costante di Planck"><i>costant</i><par n="abbreviazion/e__n"/><p><l><b/>di<b/>Planck</l><r><g><b/>di<b/>Planck</g></r></p></e>
+    <e lm="costante di Faraday"><i>costant</i><par n="abbreviazion/e__n"/><p><l><b/>di<b/>Faraday</l><r><g><b/>di<b/>Faraday</g></r></p></e>
+    <e lm="costante di Dirac"><i>costant</i><par n="abbreviazion/e__n"/><p><l><b/>di<b/>Dirac</l><r><g><b/>di<b/>Dirac</g></r></p></e>
     <e lm="costante di gravitazione universale"><i>costant</i><par n="abbreviazion/e__n"/><p><l><b/>di<b/>gravitazione<b/>universale</l><r><g><b/>di<b/>gravitazione<b/>universale</g></r></p></e>
     <e lm="costante di gravitazione"><i>costant</i><par n="abbreviazion/e__n"/><p><l><b/>di<b/>gravitazione</l><r><g><b/>di<b/>gravitazione</g></r></p></e>
     <e lm="costo"><i>cost</i><par n="abbain/o__n"/></e>
@@ -98009,6 +98011,8 @@
     <e lm="foca"><i>foc</i><par n="cas/a__n"/></e>
     <e lm="foglia"><i>fogli</i><par n="cas/a__n"/></e>
     <e lm="foglio"><i>fogli</i><par n="abbagli/o__n"/></e>
+    <e lm="quadrifoglio"><i>quadrifogli</i><par n="abbagli/o__n"/></e>
+    <e lm="trifoglio"><i>trifogli</i><par n="abbagli/o__n"/></e>
     <e lm="fogliame"><i>fogliam</i><par n="abat/e__n"/></e>
     <e lm="folclore"><i>folclor</i><par n="abat/e__n"/></e>
     <e lm="fomentatore"><i>fomentat</i><par n="agricolt/ore__n"/></e>
@@ -98607,6 +98611,7 @@
     <e lm="liquore"><i>liquor</i><par n="abat/e__n"/></e>
     <e lm="lista"><i>list</i><par n="cas/a__n"/></e>
     <e lm="lista di controllo"><i>list</i><par n="cas/a__n"/><p><l><b/>di<b/>controllo</l><r><g><b/>di<b/>controllo</g></r></p></e>
+    <e lm="imposta sul reddito"><i>impost</i><par n="cas/a__n"/><p><l><b/>sul<b/>reddito</l><r><g><b/>sul<b/>reddito</g></r></p></e>
     <e lm="litorale"><i>litoral</i><par n="abat/e__n"/></e>
     <e lm="litro"><i>litr</i><par n="abbain/o__n"/></e>
     <e lm="litro di alcool"><i>litr</i><par n="abbain/o__n"/><p><l><b/>di<b/>alcool</l><r><g><b/>di<b/>alcool</g></r></p></e>
@@ -105299,6 +105304,8 @@
     <e lm="grano saraceno"><p><l>grani<b/>saraceni</l><r>grano<b/>saraceno<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="salice piangente"><p><l>salice<b/>piangente</l><r>salice<b/>piangente<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="salice piangente"><p><l>salici<b/>piangenti</l><r>salice<b/>piangente<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="essere umano"><p><l>essere<b/>umano</l><r>essere<b/>umano<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="essere umano"><p><l>esseri<b/>umani</l><r>essere<b/>umano<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="capo del governo"><p><l>capo<b/>del<b/>governo</l><r>capo<b/>del<b/>governo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="capo del governo"><p><l>capi<b/>di<b/>governo</l><r>capo<b/>del<b/>governo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="carne bovina"><p><l>carne<b/>bovina</l><r>carne<b/>bovina<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -105327,6 +105334,10 @@
     <e lm="sorella mezza"><p><l>sorelle<b/>mezze</l><r>sorella<b/>mezza<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="patata fritta"><p><l>patata<b/>fritta</l><r>patata<b/>fritta<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="patata fritta"><p><l>patate<b/>fritte</l><r>patata<b/>fritta<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="razza umana"><p><l>razza<b/>umana</l><r>razza<b/>umana<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="razza umana"><p><l>razze<b/>umane</l><r>razza<b/>umana<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="influenza aviaria"><p><l>influenza<b/>aviaria</l><r>influenza<b/>aviaria<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="influenza aviaria"><p><l>influenze<b/>aviarie</l><r>influenza<b/>aviaria<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="influenza suina"><p><l>influenza<b/>suina</l><r>influenza<b/>suina<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="influenza suina"><p><l>influenze<b/>suine</l><r>influenza<b/>suina<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="obbligazione convertibile"><p><l>obbligazione<b/>convertibile</l><r>obbligazione<b/>convertibile<s n="n"/><s n="f"/><s n="sg"/></r></p></e>

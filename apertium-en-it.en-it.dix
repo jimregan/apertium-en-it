@@ -12178,6 +12178,7 @@
     <e><p><l>lack<g><b/>of<b/>respect</g><s n="n"/></l><r>mancanza<g><b/>di<b/>rispetto</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>coffee<g><b/>with<b/>milk</g><s n="n"/></l><r>caffè<b/>con<b/>latte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>Avogadro<b/>number<s n="n"/></l><r>numero<g><b/>di<b/>Avogadro</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>income<b/>tax<s n="n"/></l><r>imposta<g><b/>sul<b/>reddito</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>BBC<s n="n"/><s n="acr"/></l><r>BBC<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>ROM<s n="n"/><s n="acr"/></l><r>ROM<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>RAM<s n="n"/><s n="acr"/></l><r>RAM<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
@@ -12318,6 +12319,8 @@
     <e r="RL"><p><l>Phoenician<s n="n"/></l><r>fenicio<s n="n"/></r></p></e>
     <e><p><l>Planck&apos;s<b/>constant<s n="n"/></l><r>costante<g><b/>di<b/>Planck</g><s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Planck<b/>constant<s n="n"/></l><r>costante<g><b/>di<b/>Planck</g><s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Faraday<b/>constant<s n="n"/></l><r>costante<g><b/>di<b/>Faraday</g><s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Dirac<b/>constant<s n="n"/></l><r>costante<g><b/>di<b/>Dirac</g><s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Pole<s n="n"/></l><r>polacco<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Pole<s n="n"/></l><r>polacco<s n="n"/></r></p></e>
     <e><p><l>Protestant<s n="n"/></l><r>protestante<s n="n"/><s n="mf"/></r></p></e>
@@ -13156,6 +13159,8 @@
     <e r="RL"><p><l>ball<s n="n"/></l><r>palla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ball<s n="n"/></l><r>pallone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ballast<s n="n"/></l><r>zavorra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>human<b/>being<s n="n"/></l><r>essere<b/>umano<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>human<b/>race<s n="n"/></l><r>razza<b/>umana<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>ballerina<s n="n"/></l><r>ballerino<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ballerina<s n="n"/></l><r>ballerino<b/>classico<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ballet<s n="n"/></l><r>balletto<s n="n"/><s n="m"/></r></p></e>
@@ -17063,12 +17068,8 @@
     <e><p><l>mane<s n="n"/></l><r>criniera<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>mane<s n="n"/></l><r>capigliatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>manipulation<s n="n"/></l><r>manipolazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>mankind<s n="n"/><s n="ND"/></l><r>umanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>mankind<s n="n"/><s n="sg"/></l><r>umanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>mankind<s n="n"/><s n="pl"/></l><r>umanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>mankind<s n="n"/></l><r>umanità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e r="RL"><p><l>mankind<s n="n"/><s n="ND"/></l><r>humanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e i="yes"><p><l>mankind<s n="n"/><s n="sg"/></l><r>humanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e><!--  autorestricted (<e r="LR"><l>mankind<n><sg></l><r>umanità<n><f><sp></r></e>).-->
-    <e i="yes"><p><l>mankind<s n="n"/><s n="pl"/></l><r>humanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e><!--  autorestricted (<e r="LR"><l>mankind<n><pl></l><r>umanità<n><f><sp></r></e>).-->
     <e><p><l>manner<s n="n"/></l><r>maniera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mannerism<s n="n"/></l><r>manierismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>manometer<s n="n"/></l><r>manometro<s n="n"/><s n="m"/></r></p></e>
@@ -20586,9 +20587,8 @@
     <e r="LR"><p><l>virtue<s n="n"/><s n="pl"/></l><r>virtù<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>virtue<s n="n"/><s n="ND"/></l><r>virtù<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>virulence<s n="n"/></l><r>virulenza<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>virus<s n="n"/><s n="sg"/></l><r>virus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>virus<s n="n"/><s n="pl"/></l><r>virus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e><p><l>virus<s n="n"/><s n="ND"/></l><r>virus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>virus<s n="n"/></l><r>virus<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e r="LR"><p><l>influenza<b/>virus<s n="n"/></l><r>virus<b/>dell'influenza<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e r="RL"><p><l>viscosity<s n="n"/><s n="ND"/></l><r>viscosità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>viscosity<s n="n"/><s n="sg"/></l><r>viscosità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>viscosity<s n="n"/><s n="pl"/></l><r>viscosità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -20796,6 +20796,7 @@
     <e><p><l>worker<s n="n"/></l><r>lavorante<s n="n"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>worker<s n="n"/></l><r>operaio<s n="n"/></r></p></e>
     <e><p><l>working<b/>day<s n="n"/></l><r>giorno<b/>lavorativo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>business<b/>day<s n="n"/></l><r>giorno<b/>lavorativo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>working<b/>time<s n="n"/></l><r>giornata<g><b/>di<b/>lavoro</g><s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>working<b/>time<s n="n"/></l><r>giorno<b/>lavorativo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>working<b/>day<n></l><r>giorno<b/>lavorativo<n><m></r></e>).-->
     <e><p><l>world<s n="n"/></l><r>mondo<s n="n"/><s n="m"/></r></p></e>
@@ -20908,6 +20909,7 @@
     <e><p><l>electoral<b/>princess<s n="n"/></l><r>principe<b/>elettore<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>exchange<b/>rate<s n="n"/></l><r>tasso<g><b/>di<b/>cambio</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>swine<b/>flu<s n="n"/></l><r>influenza<b/>suina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bird<b/>flu<s n="n"/></l><r>influenza<b/>aviaria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>time<b/>zone<s n="n"/></l><r>fuso<b/>orario<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bechamel<b/>sauce<s n="n"/></l><r>besciamella<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>proper<b/>name<s n="n"/></l><r>nome<b/>proprio<s n="n"/><s n="m"/></r></p></e>
@@ -24301,6 +24303,8 @@
     <e><p><l>bottling<s n="n"/></l><r>imbottigliamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>buckwheat<s n="n"/></l><r>grano<b/>saraceno<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>clover<s n="n"/></l><r>trifoglio<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>shamrock<s n="n"/></l><r>trifoglio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>four-leaf<b/>clover<s n="n"/></l><r>quadrifoglio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>confectionery<s n="n"/></l><r>confetteria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>crustacean<s n="n"/></l><r>crostaceo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>floriculture<s n="n"/></l><r>floricoltura<s n="n"/><s n="f"/></r></p></e>
