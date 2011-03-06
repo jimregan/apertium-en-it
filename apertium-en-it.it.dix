@@ -96100,10 +96100,23 @@
     <e lm="anguilla"><i>anguill</i><par n="cas/a__n"/></e>
     <e lm="FMI"><i>FMI</i><par n="BBVA__n"/></e>
     <e lm="PP"><i>PP</i><par n="BBVA__n"/></e>
+    <e lm="mp3"><i>mp3</i><par n="BBVA__n"/></e>
+    <e lm="pdf"><i>pdf</i><par n="BBVA__n"/></e>
+    <e lm="http"><i>http</i><par n="BBVA__n"/></e>
+    <e lm="https"><i>https</i><par n="BBVA__n"/></e>
     <e lm="PSOE"><i>PSOE</i><par n="BBVA__n"/></e>
     <e lm="PNV"><i>PNV</i><par n="BBVA__n"/></e>
     <e lm="PSC"><i>PSC</i><par n="BBVA__n"/></e>
+    <e lm="ADN"><i>ADN</i><par n="BBVA__n"/></e>
+    <e lm="DNA"><i>DNA</i><par n="BBVA__n"/></e>
     <e lm="BBC"><i>BBC</i><par n="TV__n"/></e>
+    <e lm="IP"><i>IP</i><par n="TV__n"/></e>
+    <e lm="RAM"><i>RAM</i><par n="TV__n"/></e>
+    <e lm="ROM"><i>ROM</i><par n="TV__n"/></e>
+    <e lm="URSS"><i>URSS</i><par n="TV__n"/></e>
+    <e lm="FIDE"><i>FIDE</i><par n="TV__n"/></e>
+    <e lm="SIDA"><i>SIDA</i><par n="TV__n"/></e>
+    <e lm="AIDS"><i>AIDS</i><par n="TV__n"/></e>
     <e lm="H1N1"><i>H1N1</i><par n="TV__n"/></e>
     <e lm="A/H1N1"><i>A/H1N1</i><par n="TV__n"/></e>
     <e lm="A/H5N1"><i>A/H5N1</i><par n="TV__n"/></e>
@@ -96156,6 +96169,7 @@
     <e lm="abbozzo"><i>abbozz</i><par n="abbain/o__n"/></e>
     <e lm="abbraccio"><i>abbracci</i><par n="abbagli/o__n"/></e>
     <e lm="abbreviazione"><i>abbreviazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="comunità internazionale"><i>comunità<b/>internazional</i><par n="abbreviazion/e__n"/></e>
     <e lm="abbece"><i>abbec</i><par n="abbreviazion/e__n"/></e>
     <e lm="mansione"><i>mansion</i><par n="abbreviazion/e__n"/></e>
     <e lm="abbronzatura"><i>abbronzatur</i><par n="cas/a__n"/></e>
@@ -96304,6 +96318,7 @@
     <e lm="hovercraft"><i>hovercraft</i><par n="albatros__n"/></e>
     <e lm="sisal"><i>sisal</i><par n="albatros__n"/></e>
     <e lm="caffè"><i>caffè</i><par n="albatros__n"/></e>
+    <e lm="caffè con latte"><i>caffè<b/>con<b/>latte</i><par n="albatros__n"/></e>
     <e lm="best seller"><i>best<b/>seller</i><par n="albatros__n"/></e>
     <e lm="cloud computing"><i>cloud<b/>computing</i><par n="albatros__n"/></e>
     <e lm="bonsai"><i>bonsai</i><par n="albatros__n"/></e>
@@ -96340,6 +96355,7 @@
     <e lm="album"><i>album</i><par n="albatros__n"/></e>
     <e lm="alcalinità"><i>alcalinità</i><par n="abilità__n"/></e>
     <e lm="feccia"><i>feccia</i><par n="pallacanestro__n"/></e>
+    <e lm="forze dell'ordine"><i>forze<b/>dell'ordine</i><par n="virgolette__n"/></e>
     <e lm="Sua Maestà"><i>Sua<b/>Maestà</i><par n="pallacanestro__n"/></e>
     <e lm="Sua Altezza"><i>Sua<b/>Altezza</i><par n="pallacanestro__n"/></e>
     <e lm="Sua Maestà reale"><i>Sua<b/>Maestà<b/>reale</i><par n="pallacanestro__n"/></e>
@@ -96633,6 +96649,7 @@
     <e lm="assegnazione"><i>assegnazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="assegno"><i>assegn</i><par n="abbain/o__n"/></e>
     <e lm="assegno di viaggio"><i>assegn</i><par n="abbain/o__n"/><p><l><b/>di<b/>viaggio</l><r><g><b/>di<b/>viaggio</g></r></p></e>
+    <e lm="assegno in bianco"><i>assegn</i><par n="abbain/o__n"/><p><l><b/>in<b/>bianco</l><r><g><b/>in<b/>bianco</g></r></p></e>
     <e lm="assemblea"><i>assemble</i><par n="cas/a__n"/></e>
     <e lm="assenteismo"><i>assenteism</i><par n="abbain/o__n"/></e>
     <e lm="assenza"><i>assenz</i><par n="cas/a__n"/></e>
@@ -96798,6 +96815,7 @@
     <e lm="base"><i>bas</i><par n="abbreviazion/e__n"/></e>
     <e lm="basco"><i>basc</i><par n="fung/o__n"/></e>
     <e lm="baseball"><i>baseball</i><par n="ace__n"/></e>
+    <e lm="gg/mm/aaaa"><i>gg/mm/aaaa</i><par n="ace__n"/></e>
     <e lm="basket"><i>basket</i><par n="ace__n"/></e>
     <e lm="basilica"><i>basilic</i><par n="tasc/a__n"/></e>
     <e lm="bastardo"><i>bastard</i><par n="bambin/o__n"/></e>
@@ -96862,6 +96880,7 @@
     <e lm="boliviano"><i>bolivian</i><par n="bambin/o__n"/></e>
     <e lm="bolscevismo"><i>bolscevism</i><par n="abbain/o__n"/></e>
     <e lm="bomba"><i>bomb</i><par n="cas/a__n"/></e>
+    <e lm="bomba Molotov"><i>bomb</i><par n="cas/a__n"/><p><l><b/>Molotov</l><r><g><b/>Molotov</g></r></p></e>
     <e lm="bombo"><i>bomb</i><par n="abbain/o__n"/></e>
     <e lm="bonifico"><i>bonific</i><par n="abbain/o__n"/></e>
     <e lm="bordo"><i>bord</i><par n="abbain/o__n"/></e>
@@ -96874,6 +96893,7 @@
     <e lm="botanica"><i>botanic</i><par n="tasc/a__n"/></e>
     <e lm="botanico"><i>botanic</i><par n="abbain/o__n"/></e>
     <e lm="bottiglia"><i>bottigli</i><par n="cas/a__n"/></e>
+    <e lm="bottiglia Molotov"><i>bottigli</i><par n="cas/a__n"/><p><l><b/>Molotov</l><r><g><b/>Molotov</g></r></p></e>
     <e lm="bottino"><i>bottin</i><par n="abbain/o__n"/></e>
     <e lm="brace"><i>brac</i><par n="abbreviazion/e__n"/></e>
     <e lm="braccio"><i>bracci</i><par n="bracci/o__n"/></e>
@@ -96933,6 +96953,7 @@
     <e lm="cambio"><i>cambi</i><par n="abbagli/o__n"/></e>
     <e lm="cambiamento"><i>cambiament</i><par n="abbain/o__n"/></e>
     <e lm="camera"><i>camer</i><par n="cas/a__n"/></e>
+    <e lm="Camera dei Rappresentanti"><i>camer</i><par n="cas/a__n"/><p><l><b/>dei<b/>Rappresentanti</l><r><g><b/>dei<b/>Rappresentanti</g></r></p></e>
     <e lm="cameraman"><i>cameraman</i><par n="albatros__n"/></e>
     <e lm="camerata"><i>camerat</i><par n="suicid/a__n"/></e>
     <e lm="cameriere"><i>camerier</i><par n="infermier/e__n"/></e>
@@ -96969,6 +96990,7 @@
     <e lm="candeggina"><i>candeggin</i><par n="cas/a__n"/></e>
     <e lm="candela"><i>candel</i><par n="cas/a__n"/></e>
     <e lm="candidato"><i>candidat</i><par n="bambin/o__n"/></e>
+    <e lm="candidato alla presidenza"><i>candidat</i><par n="bambin/o__n"/><p><l><b/>alla<b/>presidenza</l><r><g><b/>alla<b/>presidenza</g></r></p></e>
     <e lm="canna"><i>cann</i><par n="cas/a__n"/></e>
     <e lm="cannabis"><i>cannabis</i><par n="abilità__n"/></e>
     <e lm="cannella"><i>cannell</i><par n="cas/a__n"/></e>
@@ -96981,6 +97003,9 @@
     <e lm="caos"><i>caos</i><par n="albatros__n"/></e>
     <e lm="capo"><i>cap</i><par n="abbain/o__n"/></e>
     <e lm="capo di Stato"><i>cap</i><par n="abbain/o__n"/><p><l><b/>di<b/>Stato</l><r><g><b/>di<b/>Stato</g></r></p></e>
+    <e lm="capo di governo"><i>cap</i><par n="abbain/o__n"/><p><l><b/>di<b/>governo</l><r><g><b/>di<b/>governo</g></r></p></e>
+    <e lm="capo del Stato"><i>cap</i><par n="abbain/o__n"/><p><l><b/>del<b/>Stato</l><r><g><b/>del<b/>Stato</g></r></p></e>
+    <e lm="capo del governo"><i>cap</i><par n="abbain/o__n"/><p><l><b/>del<b/>governo</l><r><g><b/>del<b/>governo</g></r></p></e>
     <e lm="capacità"><i>capacità</i><par n="abilità__n"/></e>
     <e lm="capanna"><i>capann</i><par n="cas/a__n"/></e>
     <e lm="capannone"><i>capannon</i><par n="abat/e__n"/></e>
@@ -97803,6 +97828,7 @@
     <e lm="erudito"><i>erudit</i><par n="bambin/o__n"/></e>
     <e lm="eruzione"><i>eruzion</i><par n="abbreviazion/e__n"/></e>
     <e lm="esame"><i>esam</i><par n="abat/e__n"/></e>
+    <e lm="esame della vista"><i>esam</i><par n="abat/e__n"/><p><l><b/>della<b/>vista</l><r><g><b/>della<b/>vista</g></r></p></e>
     <e lm="esattezza"><i>esattezz</i><par n="cas/a__n"/></e>
     <e lm="esclusione"><i>esclusion</i><par n="abbreviazion/e__n"/></e>
     <e lm="escremento"><i>escrement</i><par n="abbain/o__n"/></e>
@@ -98583,6 +98609,7 @@
     <e lm="lista di controllo"><i>list</i><par n="cas/a__n"/><p><l><b/>di<b/>controllo</l><r><g><b/>di<b/>controllo</g></r></p></e>
     <e lm="litorale"><i>litoral</i><par n="abat/e__n"/></e>
     <e lm="litro"><i>litr</i><par n="abbain/o__n"/></e>
+    <e lm="litro di alcool"><i>litr</i><par n="abbain/o__n"/><p><l><b/>di<b/>alcool</l><r><g><b/>di<b/>alcool</g></r></p></e>
     <e lm="lituano"><i>lituan</i><par n="bambin/o__n"/></e>
     <e lm="liturgia"><i>liturgi</i><par n="cas/a__n"/></e>
     <e lm="liuto"><i>liut</i><par n="abbain/o__n"/></e>
@@ -98657,6 +98684,7 @@
     <e lm="mammifero"><i>mammifer</i><par n="abbain/o__n"/></e>
     <e lm="mano"><i>man</i><par n="man/o__n"/></e>
     <e lm="mancanza"><i>mancanz</i><par n="cas/a__n"/></e>
+    <e lm="mancanza di rispetto"><i>mancanz</i><par n="cas/a__n"/><p><l><b/>di<b/>rispetto</l><r><g><b/>di<b/>rispetto</g></r></p></e>
     <e lm="mandarino"><i>mandarin</i><par n="abbain/o__n"/></e>
     <e lm="mandato"><i>mandat</i><par n="abbain/o__n"/></e>
     <e lm="mandibola"><i>mandibol</i><par n="cas/a__n"/></e>
@@ -99232,6 +99260,7 @@
     <e lm="pascolo"><i>pascol</i><par n="abbain/o__n"/></e>
     <e lm="pasqua"><i>pasqu</i><par n="cas/a__n"/></e>
     <e lm="passo"><i>pass</i><par n="abbain/o__n"/></e>
+    <e lm="passo avanti"><i>pass</i><par n="abbain/o__n"/><p><l><b/>avanti</l><r><g><b/>avanti</g></r></p></e>
     <e lm="passaporto"><i>passaport</i><par n="abbain/o__n"/></e>
     <e lm="passato"><i>passat</i><par n="abbain/o__n"/></e>
     <e lm="passeggio"><i>passeggi</i><par n="abbain/o__n"/></e>
@@ -99414,6 +99443,7 @@
     <e lm="pianura"><i>pianur</i><par n="cas/a__n"/></e>
     <e lm="piattaforma"><i>piattaform</i><par n="cas/a__n"/></e>
     <e lm="piatto"><i>piatt</i><par n="abbain/o__n"/></e>
+    <e lm="piatto di carta"><i>piatt</i><par n="abbain/o__n"/><p><l><b/>di<b/>carta</l><r><g><b/>di<b/>carta</g></r></p></e>
     <e lm="piazza"><i>piazz</i><par n="cas/a__n"/></e>
     <e lm="piccione"><i>piccion</i><par n="abat/e__n"/></e>
     <e lm="piccozza"><i>piccozz</i><par n="cas/a__n"/></e>
@@ -99997,6 +100027,7 @@
     <e lm="risorsa"><i>risors</i><par n="cas/a__n"/></e>
     <e lm="risparmio"><i>risparmi</i><par n="abbagli/o__n"/></e>
     <e lm="risposta"><i>rispost</i><par n="cas/a__n"/></e>
+    <e lm="vela"><i>vel</i><par n="cas/a__n"/></e>
     <e lm="ristorante"><i>ristorant</i><par n="abat/e__n"/></e>
     <e lm="ristrutturazione"><i>ristrutturazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="risultato"><i>risultat</i><par n="abbain/o__n"/></e>
@@ -100091,6 +100122,8 @@
     <e lm="sbocco"><i>sbocc</i><par n="fung/o__n"/></e>
     <e lm="scala"><i>scal</i><par n="cas/a__n"/></e>
     <e lm="scacchi"><i>scacchi</i><par n="scacchi__n"/></e>
+    <e lm="metri sul livello del mare"><i>metri<b/>sul<b/>livello<b/>del<b/>mare</i><par n="scacchi__n"/></e>
+    <e lm="metri sopra il livello del mare"><i>metri<b/>sopra<b/>il<b/>livello<b/>del<b/>mare</i><par n="scacchi__n"/></e>
     <e lm="postumi della sbornia"><i>postumi<b/>della<b/>sbornia</i><par n="scacchi__n"/></e>
     <e lm="scaldabagno"><i>scaldabagn</i><par n="abbain/o__n"/></e>
     <e lm="scaloppa"><i>scalopp</i><par n="cas/a__n"/></e>
@@ -103946,6 +103979,8 @@
     <e lm="fognatura"><i>fognatur</i><par n="cas/a__n"/></e>
     <e lm="valuta"><i>valut</i><par n="cas/a__n"/></e>
     <e lm="valuta di reserva"><i>valut</i><par n="cas/a__n"/><p><l><b/>di<b/>reserva</l><r><g><b/>di<b/>reserva</g></r></p></e>
+    <e lm="gara di sci"><i>gar</i><par n="cas/a__n"/><p><l><b/>di<b/>sci</l><r><g><b/>di<b/>sci</g></r></p></e>
+    <e lm="terra di nessuno"><i>terr</i><par n="cas/a__n"/><p><l><b/>di<b/>nessuno</l><r><g><b/>di<b/>nessuno</g></r></p></e>
     <e lm="valutare"><i>valut</i><par n="abbacin/are__vblex"/></e>
     <e lm="sottrarre"><i>sottra</i><par n="astra/rre__vblex"/></e>
     <e lm="sperare"><i>sper</i><par n="abbacin/are__vblex"/><p><l><b/>che</l><r><g><b/>che</g></r></p></e>

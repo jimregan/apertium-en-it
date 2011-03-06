@@ -2284,7 +2284,7 @@
     <e r="RL"><p><l>ordinary<s n="adj"/></l><r>ordinario<s n="adj"/></r></p></e><!--  autorestricted (<e r="LR"><l>ordinary<adj></l><r>normale<adj><mf></r></e>).-->
     <e><p><l>organic<s n="adj"/></l><r>organico<s n="adj"/></r></p></e>
     <e><p><l>organisational<s n="adj"/></l><r>organizzativo<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>oriental<s n="adj"/></l><r>orientale<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>eastern<adj></l><r>orientale<adj><mf></r></e>).-->
+    <e r="LR"><p><l>oriental<s n="adj"/></l><r>orientale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>orientative<s n="adj"/></l><r>orientativo<s n="adj"/></r></p></e>
     <e><p><l>original<s n="adj"/></l><r>originale<s n="adj"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>original<s n="adj"/></l><r>originario<s n="adj"/></r></p></e><!--  autorestricted (<e><l>original<adj></l><r>originale<adj><mf></r></e>).-->
@@ -2297,13 +2297,13 @@
     <e><p><l>orthonormal<s n="adj"/></l><r>ortonormale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>oscillatory<s n="adj"/></l><r>oscillatorio<s n="adj"/></r></p></e>
     <e><p><l>ours<s n="adj"/></l><r>nostro<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>outdoor<s n="adj"/></l><r>esteriore<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>exterior<adj></l><r>esteriore<adj><mf></r></e>).-->
-    <e r="LR"><p><l>outer<s n="adj"/></l><r>esteriore<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>exterior<adj></l><r>esteriore<adj><mf></r></e>).-->
-    <e r="LR"><p><l>outside<s n="adj"/></l><r>esteriore<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>exterior<adj></l><r>esteriore<adj><mf></r></e>).-->
-    <e r="LR"><p><l>outstanding<s n="adj"/></l><r>eccezionale<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>exceptional<adj></l><r>eccezionale<adj><mf></r></e>).-->
+    <e r="LR"><p><l>outdoor<s n="adj"/></l><r>esteriore<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>outer<s n="adj"/></l><r>esteriore<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>outside<s n="adj"/></l><r>esteriore<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>outstanding<s n="adj"/></l><r>eccezionale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>oval<s n="adj"/></l><r>ovale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>ovarian<s n="adj"/></l><r>ovarico<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>overall<s n="adj"/></l><r>globale<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>global<adj></l><r>globale<adj><mf></r></e>).-->
+    <e r="LR"><p><l>overall<s n="adj"/></l><r>globale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>overriding<s n="adj"/></l><r>primordiale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>overwhelming<s n="adj"/></l><r>travolgente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>oviparous<s n="adj"/></l><r>oviparo<s n="adj"/></r></p></e>
@@ -12135,6 +12135,17 @@
     <e><p><l>A/H1N1<s n="n"/><s n="acr"/></l><r>A/H1N1<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>A/H5N1<s n="n"/><s n="acr"/></l><r>A/H5N1<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>AIDS<s n="n"/><s n="acr"/></l><r>SIDA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>AIDS<s n="n"/><s n="acr"/></l><r>AIDS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>DNA<s n="n"/><s n="acr"/></l><r>ADN<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>DNA<s n="n"/><s n="acr"/></l><r>DNA<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>PP<s n="n"/><s n="acr"/></l><r>PP<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>ETA<s n="n"/><s n="acr"/></l><r>ETA<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>PSC<s n="n"/><s n="acr"/></l><r>PSC<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>PSOE<s n="n"/><s n="acr"/></l><r>PSOE<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>mp3<s n="n"/><s n="acr"/></l><r>mp3<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>pdf<s n="n"/><s n="acr"/></l><r>pdf<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>http<s n="n"/><s n="acr"/></l><r>http<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>https<s n="n"/><s n="acr"/></l><r>https<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
     <e><p><l>Albanian<s n="n"/></l><r>albanese<s n="n"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>Algerian<s n="n"/></l><r>algerino<s n="n"/></r></p></e>
     <e r="LR"><p><l>Algerian<s n="n"/></l><r>algerino<s n="n"/><s n="GD"/></r></p></e>
@@ -12160,8 +12171,19 @@
     <e r="LR"><p><l>Austrian<s n="n"/></l><r>austriaco<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Austrian<s n="n"/></l><r>austriaco<s n="n"/></r></p></e>
     <e r="LR"><p><l>Avogadro<b/>constant<s n="n"/></l><r>numero<g><b/>di<b/>Avogadro</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>litre<g><b/>of<b/>alcohol</g><s n="n"/></l><r>litro<g><b/>di<b/>alcool</g><s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>litre<g><b/>of<b/>spirits</g><s n="n"/></l><r>litro<g><b/>di<b/>alcool</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>step<g><b/>forward</g><s n="n"/></l><r>passo<g><b/>avanti</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>coffee<g><b/>with<b/>milk</g><s n="n"/></l><r>caffè<b/>con<b/>latte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>lack<g><b/>of<b/>respect</g><s n="n"/></l><r>mancanza<g><b/>di<b/>rispetto</g><s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>coffee<g><b/>with<b/>milk</g><s n="n"/></l><r>caffè<b/>con<b/>latte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>Avogadro<b/>number<s n="n"/></l><r>numero<g><b/>di<b/>Avogadro</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>BBC<s n="n"/><s n="acr"/></l><r>BBC<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>ROM<s n="n"/><s n="acr"/></l><r>ROM<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>RAM<s n="n"/><s n="acr"/></l><r>RAM<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>IP<s n="n"/><s n="acr"/></l><r>IP<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>FIDE<s n="n"/><s n="acr"/></l><r>FIDE<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>USSR<s n="n"/><s n="acr"/></l><r>URSS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Basque<s n="n"/></l><r>basco<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Basque<s n="n"/></l><r>basco<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Bolshevism<s n="n"/></l><r>bolscevismo<s n="n"/><s n="m"/></r></p></e>
@@ -13374,6 +13396,8 @@
     <e r="RL"><p><l>bolivian<s n="n"/></l><r>boliviano<s n="n"/></r></p></e>
     <e r="LR"><p><l>bolivian<s n="n"/></l><r>boliviano<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>bomb<s n="n"/></l><r>bomba<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Molotov<b/>cocktail<s n="n"/></l><r>bomba<g><b/>Molotov</g><s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>Molotov<b/>cocktail<s n="n"/></l><r>bottiglia<g><b/>Molotov</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bone<s n="n"/></l><r>osso<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>bone<s n="n"/><s n="pl"/></l><r>osso<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>bonnet<s n="n"/></l><r>cappello<s n="n"/><s n="m"/></r></p></e>
@@ -13558,28 +13582,23 @@
     <e><p><l>camouflage<s n="n"/></l><r>camuffamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>camp<s n="n"/></l><r>accampamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>campaign<s n="n"/></l><r>campagna<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>camper<s n="n"/><s n="ND"/></l><r>camper<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>camper<s n="n"/><s n="sg"/></l><r>camper<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>camper<s n="n"/><s n="pl"/></l><r>camper<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>campus<s n="n"/><s n="sg"/></l><r>campus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>campus<s n="n"/><s n="pl"/></l><r>campus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e><p><l>campus<s n="n"/><s n="ND"/></l><r>campus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>camper<s n="n"/></l><r>camper<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>campus<s n="n"/></l><r>campus<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>can<s n="n"/></l><r>latta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>canalisation<s n="n"/></l><r>canalizzazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>canapé<s n="n"/><s n="ND"/></l><r>canapé<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>canapé<s n="n"/><s n="sg"/></l><r>canapé<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>canapé<s n="n"/><s n="pl"/></l><r>canapé<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>canapé<s n="n"/></l><r>canapé<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>cancellation<s n="n"/></l><r>annullamento<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>cancellation<s n="n"/></l><r>cancellazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>cancellation<n></l><r>annullamento<n><m></r></e>).-->
+    <e r="RL"><p><l>cancellation<s n="n"/></l><r>cancellazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cancer<s n="n"/></l><r>cancro<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>candidate<s n="n"/></l><r>candidato<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>candidate<s n="n"/></l><r>candidato<s n="n"/></r></p></e>
+    <e r="LR"><p><l>candidate<g><b/>for<b/>the<b/>presidency</g><s n="n"/></l><r>candidato<g><b/>alla<b/>presidenza</g><s n="n"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>presidential<b/>candidate<s n="n"/></l><r>candidato<g><b/>alla<b/>presidenza</g><s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>presidential<b/>candidate<s n="n"/></l><r>candidato<g><b/>alla<b/>presidenza</g><s n="n"/></r></p></e>
     <e><p><l>candle<s n="n"/></l><r>candela<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>candy<s n="n"/></l><r>caramella<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cane<s n="n"/></l><r>canna<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>cannabis<s n="n"/><s n="ND"/></l><r>cannabis<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>cannabis<s n="n"/><s n="sg"/></l><r>cannabis<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>cannabis<s n="n"/><s n="pl"/></l><r>cannabis<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+    <e><p><l>cannabis<s n="n"/></l><r>cannabis<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>cannibalism<s n="n"/></l><r>cannibalismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cannon<s n="n"/></l><r>cannone<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>canoeist<s n="n"/></l><r>canoista<s n="n"/></r></p></e>
@@ -13724,6 +13743,10 @@
     <e><p><l>census<s n="n"/></l><r>censo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>census<s n="n"/></l><r>censimento<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>census<n></l><r>censo<n><m></r></e>).-->
     <e><p><l>centimetre<s n="n"/></l><r>centimetro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>metres<b/>above<b/>sea<b/>level<s n="n"/></l><r>metri<b/>sul<b/>livello<b/>del<b/>mare<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>security<b/>forces<s n="n"/></l><r>forze<b/>dell'ordine<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>international<b/>community<s n="n"/></l><r>comunità<b/>internazionale<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>metres<b/>above<b/>sea<b/>level<s n="n"/></l><r>metri<b/>sopra<b/>il<b/>livello<b/>del<b/>mare<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>centralisation<s n="n"/></l><r>centralizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>centralism<s n="n"/></l><r>centralismo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>centrality<s n="n"/><s n="ND"/></l><r>centralità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -15011,7 +15034,8 @@
     <e r="LR"><p><l>east<s n="n"/><s n="sg"/></l><r>est<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>east<s n="n"/><s n="pl"/></l><r>est<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>east<s n="n"/><s n="ND"/></l><r>est<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e><p><l>east<s n="n"/></l><r>oriente<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>orient<s n="n"/></l><r>oriente<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>dd/mm/yyyy<s n="n"/></l><r>gg/mm/aaaa<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>eavesdropper<s n="n"/></l><r>guardone<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>eavesdropper<s n="n"/></l><r>guardone<s n="n"/></r></p></e>
     <e><p><l>ebony<s n="n"/></l><r>ebano<s n="n"/><s n="m"/></r></p></e>
@@ -16199,6 +16223,7 @@
     <e><p><l>hotel<s n="n"/></l><r>albergo<s n="n"/><s n="m"/></r></p></e>
     <e c="MG: aquest hauria de ser quan 'hora' és plural en català, l'altra (time) en sg"><p><l>hour<s n="n"/></l><r>ora<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>house<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>House<g><b/>of<b/>Representatives</g><s n="n"/></l><r>Camera<g><b/>dei<b/>Rappresentanti</g><s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>household<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>housing<s n="n"/></l><r>alloggio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hovercraft<s n="n"/></l><r>hovercraft<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -19085,11 +19110,11 @@
     <e><p><l>sadism<s n="n"/></l><r>sadismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sadomasochism<s n="n"/></l><r>sadomasochismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>safe-conduct<s n="n"/></l><r>salvacondotto<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>safekeeping<s n="n"/></l><r>custodia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>custody<n></l><r>custodia<n><f></r></e>).-->
-    <e><p><l>safety<s n="n"/></l><r>sicurezza<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>safekeeping<s n="n"/></l><r>custodia<s n="n"/><s n="f"/></r></p></e>
+    <e srl="safety D"><p><l>safety<s n="n"/></l><r>sicurezza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>saffron<s n="n"/></l><r>zafferano<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sage<s n="n"/></l><r>salvia<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>sail<s n="n"/></l><r>candela<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>candle<n></l><r>candela<n><f></r></e>).-->
+    <e><p><l>sail<s n="n"/></l><r>vela<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>sailing<s n="n"/></l><r>navigazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>navigation<n></l><r>navigazione<n><f></r></e>).-->
     <e r="LR"><p><l>sailor<s n="n"/></l><r>marinaio<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>sailor<s n="n"/></l><r>marinaio<s n="n"/><s n="m"/></r></p></e>
@@ -19212,13 +19237,14 @@
     <e r="RL"><p><l>secretary<s n="n"/></l><r>segretario<s n="n"/></r></p></e>
     <e r="LR"><p><l>secretary-general<s n="n"/></l><r>segretario<b/>generale<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>secretary<g><b/>general</g><s n="n"/></l><r>segretario<b/>generale<s n="n"/></r></p></e>
+    <e r="LR"><p><l>secretary<g><b/>general</g><s n="n"/></l><r>segretario<b/>generale<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>secretion<s n="n"/></l><r>secrezione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sect<s n="n"/></l><r>setta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>section<s n="n"/></l><r>sezione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sector<s n="n"/></l><r>settore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>secularisation<s n="n"/></l><r>secolarizzazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>secularisation<s n="n"/></l><r>laicizzazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>secularisation<n></l><r>secolarizzazione<n><f></r></e>).-->
-    <e r="LR"><p><l>security<s n="n"/></l><r>sicurezza<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>safety<n></l><r>sicurezza<n><f></r></e>).-->
+    <e srl="security"><p><l>security<s n="n"/></l><r>sicurezza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sedation<s n="n"/></l><r>sedazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sedentarism<s n="n"/></l><r>sedentarismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sediment<s n="n"/></l><r>sedimento<s n="n"/><s n="m"/></r></p></e>
@@ -20868,6 +20894,13 @@
     <e><p><l>french<b/>fry<s n="n"/></l><r>patata<b/>fritta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>head<g><b/>of<b/>government</g><s n="n"/></l><r>capo<b/>del<b/>governo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>head<g><b/>of<b/>state</g><s n="n"/></l><r>capo<g><b/>di<b/>Stato</g><s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>head<g><b/>of<b/>state</g><s n="n"/></l><r>capo<g><b/>del<b/>Stato</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>no<b/>man's<b/>land<s n="n"/></l><r>terra<g><b/>di<b/>nessuno</g><s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>paper<b/>plate<s n="n"/></l><r>piatto<g><b/>di<b/>carta</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>government<b/>head<s n="n"/></l><r>capo<g><b/>di<b/>governo</g><s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>government<b/>head<s n="n"/></l><r>capo<g><b/>del<b/>governo</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>eye<b/>examination<s n="n"/></l><r>esame<g><b/>della<b/>vista</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>blank<b/>cheque<s n="n"/></l><r>assegno<g><b/>in<b/>bianco</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>heart<b/>rate<s n="n"/></l><r>frequenza<b/>cardiaca<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>feng<b/>shui<s n="n"/></l><r>feng<b/>shui<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>methylated<b/>spirit<s n="n"/></l><r>alcool<b/>denaturato<s n="n"/><s n="m"/></r></p></e>
