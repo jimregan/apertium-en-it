@@ -4356,7 +4356,7 @@
     <e><p><l>Baghdad<s n="np"/><s n="loc"/></l><r>Baghdad<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><p><l>Bagnasco<s n="np"/><s n="cog"/><s n="sg"/></l><r>Bagnasco<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>Bagnasco<s n="np"/><s n="cog"/><s n="pl"/></l><r>Bagnasco<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><p><l>Bahamas<s n="np"/><s n="loc"/></l><r>Bahamas<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+    <e><p><l>Bahamas<s n="np"/><s n="loc"/></l><r>Bahamas<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>Bahrain<s n="np"/><s n="loc"/></l><r>Bahrain<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><i>Bail<s n="np"/><s n="ant"/></i></e>
     <e><i>Bailee<s n="np"/><s n="ant"/></i></e>
@@ -4542,7 +4542,8 @@
     <e><p><l>Berlin<s n="np"/><s n="loc"/></l><r>Berlino<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><p><l>Berlusconi<s n="np"/><s n="cog"/><s n="sg"/></l><r>Berlusconi<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>Berlusconi<s n="np"/><s n="cog"/><s n="pl"/></l><r>Berlusconi<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><p><l>Bermuda<s n="np"/><s n="loc"/></l><r>Bermuda<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Bermuda<s n="np"/><s n="loc"/><s n="sg"/></l><r>Bermuda<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>Bermuda<s n="np"/><s n="loc"/><s n="pl"/></l><r>Bermuda<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Bern<s n="np"/><s n="loc"/></l><r>Berna<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><i>Bernabela<s n="np"/><s n="ant"/></i></e>
     <e><i>Bernabella<s n="np"/><s n="ant"/></i></e>
@@ -12180,6 +12181,23 @@
     <e><p><l>Avogadro<b/>number<s n="n"/></l><r>numero<g><b/>di<b/>Avogadro</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>income<b/>tax<s n="n"/></l><r>imposta<g><b/>sul<b/>reddito</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>BBC<s n="n"/><s n="acr"/></l><r>BBC<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>CD<s n="n"/><s n="acr"/></l><r>CD<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>CDC<s n="n"/><s n="acr"/></l><r>CDC<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>DVD<s n="n"/><s n="acr"/></l><r>DVD<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>ECB<s n="n"/><s n="acr"/></l><r>ECB<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>ERC<s n="n"/><s n="acr"/></l><r>ERC<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>FBI<s n="n"/><s n="acr"/></l><r>FBI<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>IBM<s n="n"/><s n="acr"/></l><r>IBM<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>NBC<s n="n"/><s n="acr"/></l><r>NBC<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>PC<s n="n"/><s n="acr"/></l><r>PC<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>PNB<s n="n"/><s n="acr"/></l><r>PNB<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>NASDAQ<s n="n"/><s n="acr"/></l><r>NASDAQ<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>NYSE<s n="n"/><s n="acr"/></l><r>NYSE<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>S.A.<s n="n"/><s n="acr"/></l><r>S.A.<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>USB<s n="n"/><s n="acr"/></l><r>USB<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>NASA<s n="n"/><s n="acr"/></l><r>NASA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>NATO<s n="n"/><s n="acr"/></l><r>OTAN<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>NATO<s n="n"/><s n="acr"/></l><r>NATO<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>ROM<s n="n"/><s n="acr"/></l><r>ROM<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>RAM<s n="n"/><s n="acr"/></l><r>RAM<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>IP<s n="n"/><s n="acr"/></l><r>IP<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
@@ -19686,6 +19704,12 @@
     <e><p><l>starch<s n="n"/></l><r>fecola<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>start<s n="n"/></l><r>avvio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>state<s n="n"/></l><r>stato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>french<b/>state<s n="n"/></l><r>stato<b/>francese<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>spanish<b/>state<s n="n"/></l><r>stato<b/>spagnolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>passenger<b/>seat<s n="n"/></l><r>sedile<b/>passeggero<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>passenger<b/>seat<s n="n"/></l><r>sedile<b/>del<b/>passeggero<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>summer<b/>camp<s n="n"/></l><r>campo<b/>estivo<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>summer<b/>camp<s n="n"/></l><r>colonia<b/>estiva<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>statement<s n="n"/></l><r>dichiarazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>statement<s n="n"/></l><r>enunciazione<s n="n"/><s n="f"/></r></p></e>
     <e i="yes"><p><l>station<s n="n"/></l><r>stagione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>season<n></l><r>stagione<n><f></r></e>).-->

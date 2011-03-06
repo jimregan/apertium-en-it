@@ -96110,6 +96110,23 @@
     <e lm="ADN"><i>ADN</i><par n="BBVA__n"/></e>
     <e lm="DNA"><i>DNA</i><par n="BBVA__n"/></e>
     <e lm="BBC"><i>BBC</i><par n="TV__n"/></e>
+    <e lm="CD"><i>CD</i><par n="BBVA__n"/></e>
+    <e lm="CDC"><i>CDC</i><par n="BBVA__n"/></e>
+    <e lm="DVD"><i>DVD</i><par n="BBVA__n"/></e>
+    <e lm="ECB"><i>ECB</i><par n="BBVA__n"/></e>
+    <e lm="ERC"><i>ERC</i><par n="BBVA__n"/></e>
+    <e lm="FBI"><i>FBI</i><par n="BBVA__n"/></e>
+    <e lm="IBM"><i>IBM</i><par n="BBVA__n"/></e>
+    <e lm="NBC"><i>NBC</i><par n="BBVA__n"/></e>
+    <e lm="PC"><i>PC</i><par n="BBVA__n"/></e>
+    <e lm="PNB"><i>PNB</i><par n="BBVA__n"/></e>
+    <e lm="NASDAQ"><i>NASDAQ</i><par n="BBVA__n"/></e>
+    <e lm="NYSE"><i>NYSE</i><par n="BBVA__n"/></e>
+    <e lm="S.A."><i>S.A.</i><par n="BBVA__n"/></e>
+    <e lm="USB"><i>USB</i><par n="BBVA__n"/></e>
+    <e lm="OTAN"><i>OTAN</i><par n="TV__n"/></e>
+    <e lm="NATO"><i>NATO</i><par n="TV__n"/></e>
+    <e lm="NASA"><i>NASA</i><par n="TV__n"/></e>
     <e lm="IP"><i>IP</i><par n="TV__n"/></e>
     <e lm="RAM"><i>RAM</i><par n="TV__n"/></e>
     <e lm="ROM"><i>ROM</i><par n="TV__n"/></e>
@@ -105312,6 +105329,16 @@
     <e lm="carne bovina"><p><l>carni<b/>bovine</l><r>carne<b/>bovina<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="filo interdentale"><p><l>filo<b/>interdentale</l><r>filo<b/>interdentale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="filo interdentale"><p><l>fili<b/>interdentali</l><r>filo<b/>interdentale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="stato francese"><p><l>stato<b/>francese</l><r>stato<b/>francese<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="stato francese"><p><l>stati<b/>francesi</l><r>stato<b/>francese<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="stato spagnolo"><p><l>stato<b/>spagnolo</l><r>stato<b/>spagnolo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="stato spagnolo"><p><l>stati<b/>spagnoli</l><r>stato<b/>spagnolo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="campo estivo"><p><l>campo<b/>estivo</l><r>campo<b/>estivo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="campo estivo"><p><l>campi<b/>estivi</l><r>campo<b/>estivo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="sedile passeggero"><p><l>sedile<b/>passeggero</l><r>sedile<b/>passeggero<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="sedile passeggero"><p><l>sedili<b/>passeggeri</l><r>sedile<b/>passeggero<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="sedile del passeggero"><p><l>sedile<b/>del<b/>passeggero</l><r>sedile<b/>del<b/>passeggero<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="sedile dei passeggero"><p><l>sedili<b/>dei<b/>passeggeri</l><r>sedile<b/>del<b/>passeggero<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="balsamo labiale"><p><l>balsamo<b/>labiale</l><r>balsamo<b/>labiale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="balsamo labiale"><p><l>balsami<b/>labiali</l><r>balsamo<b/>labiale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="primo ballerino"><p><l>primo<b/>ballerino</l><r>primo<b/>ballerino<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -105417,6 +105444,8 @@
     <e lm="via aerea"><p><l>vie<b/>aeree</l><r>via<b/>aerea<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="compagnia aerea"><p><l>compagnia<b/>aerea</l><r>compagnia<b/>aerea<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="compagnia aerea"><p><l>compagnie<b/>aeree</l><r>compagnia<b/>aerea<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="colonia estiva"><p><l>colonia<b/>estiva</l><r>colonia<b/>estiva<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="colonia estiva"><p><l>colonie<b/>estive</l><r>colonia<b/>estiva<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="valuta estera"><p><l>valuta<b/>estera</l><r>valuta<b/>estera<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="valuta estera"><p><l>valute<b/>estere</l><r>valuta<b/>estera<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="numero telefonico"><p><l>numero<b/>telefonico</l><r>numero<b/>telefonico<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -107118,7 +107147,7 @@
     <e lm="Abidjan"><i>Abidjan</i><par n="Afghanistan__np"/></e>
     <e lm="Antartide"><i>Antartide</i><par n="Afghanistan__np"/></e>
     <e lm="Arkansas"><i>Arkansas</i><par n="Afghanistan__np"/></e>
-    <e lm="Bahamas"><i>Bahamas</i><par n="Afghanistan__np"/></e>
+    <e lm="Bahamas"><i>Bahamas</i><par n="Maldive__np"/></e>
     <e lm="Bangladesh"><i>Bangladesh</i><par n="Afghanistan__np"/></e>
     <e lm="Bangui"><i>Bangui</i><par n="Afghanistan__np"/></e>
     <e lm="Banjul"><i>Banjul</i><par n="Afghanistan__np"/></e>
