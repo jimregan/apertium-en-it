@@ -12100,6 +12100,13 @@
     <e><p><l>ogre<s n="n"/></l><r>orco<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>orientation<s n="n"/></l><r>orientamento<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ovule<s n="n"/></l><r>ovulo<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>simile<s n="n"/></l><r>similitudine<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>solitude<s n="n"/></l><r>solitudine<s n="n"/><s n="f"/></r></p></e>
+    <e srl="specimen"><p><l>specimen<s n="n"/></l><r>campione<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>torsion<s n="n"/></l><r>torsione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>turquoise<s n="n"/></l><r>turchese<s n="n"/><s n="mf"/></r></p></e>
+    <e srl="hyperbola"><p><l>hyperbola<s n="n"/></l><r>iperbole<s n="n"/><s n="f"/></r></p></e>
+    <e srl="hyperbole D"><p><l>hyperbole<s n="n"/></l><r>iperbole<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palladium<s n="n"/></l><r>palladio<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pantograph<s n="n"/></l><r>pantografo<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>placebo<s n="n"/></l><r>placebo<s n="n"/><s n="f"/></r></p></e>
@@ -13884,7 +13891,7 @@
     <e r="LR"><p><l>champagne<s n="n"/><s n="pl"/></l><r>champagne<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>champagne<s n="n"/><s n="ND"/></l><r>champagne<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>champion<s n="n"/></l><r>campione<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>champion<s n="n"/></l><r>campione<s n="n"/></r></p></e>
+    <e r="RL" srl="champion D"><p><l>champion<s n="n"/></l><r>campione<s n="n"/></r></p></e>
     <e><p><l>championship<s n="n"/></l><r>campionato<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>chance<s n="n"/><s n="sg"/></l><r>possibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>chance<s n="n"/><s n="pl"/></l><r>possibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
