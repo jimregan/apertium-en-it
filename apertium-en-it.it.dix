@@ -96212,6 +96212,7 @@
     <e lm="abitabilità"><i>abitabilità</i><par n="abilità__n"/></e>
     <e lm="abitacolo"><i>abitacol</i><par n="abbain/o__n"/></e>
     <e lm="abitante"><i>abitant</i><par n="albanes/e__n"/></e>
+    <e lm="credente"><i>credent</i><par n="albanes/e__n"/></e>
     <e lm="aderente"><i>aderent</i><par n="albanes/e__n"/></e>
     <e lm="abitatore"><i>abitat</i><par n="agricolt/ore__n"/></e>
     <e lm="stupratore"><i>stuprat</i><par n="agricolt/ore__n"/></e>
@@ -96504,6 +96505,7 @@
     <e lm="anatra"><i>anatr</i><par n="cas/a__n"/></e>
     <e lm="anca"><i>anc</i><par n="tasc/a__n"/></e>
     <e lm="ancia"><i>anc</i><par n="alzatacc/ia__n"/></e>
+    <e lm="oncia"><i>onc</i><par n="alzatacc/ia__n"/></e>
     <e lm="ancora"><i>ancor</i><par n="cas/a__n"/></e>
     <e lm="aneddoto"><i>aneddot</i><par n="abbain/o__n"/></e>
     <e lm="anello"><i>anell</i><par n="abbain/o__n"/></e>
@@ -96811,6 +96813,7 @@
     <e lm="balneazione"><i>balneazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="balsamo"><i>balsam</i><par n="abbain/o__n"/></e>
     <e lm="bambino"><i>bambin</i><par n="bambin/o__n"/></e>
+    <e lm="gemello"><i>gemell</i><par n="bambin/o__n"/></e>
     <e lm="bambinaia"><i>bambinai</i><par n="cas/a__n"/></e>
     <e lm="bambola"><i>bambol</i><par n="cas/a__n"/></e>
     <e lm="bambù"><i>bambù</i><par n="albatros__n"/></e>
@@ -96848,6 +96851,7 @@
     <e lm="basilica"><i>basilic</i><par n="tasc/a__n"/></e>
     <e lm="bastardo"><i>bastard</i><par n="bambin/o__n"/></e>
     <e lm="bastone"><i>baston</i><par n="abat/e__n"/></e>
+    <e lm="atlante"><i>atlant</i><par n="abat/e__n"/></e>
     <e lm="battaglia"><i>battagli</i><par n="cas/a__n"/></e>
     <e lm="battaglione"><i>battaglion</i><par n="abat/e__n"/></e>
     <e lm="battente"><i>battent</i><par n="abbreviazion/e__n"/></e>
@@ -96862,6 +96866,7 @@
     <e lm="benefattore"><i>benefatt</i><par n="agricolt/ore__n"/></e>
     <e lm="beneficio"><i>benefici</i><par n="abbagli/o__n"/></e>
     <e lm="beneficiario"><i>beneficiari</i><par n="segretari/o__n"/></e>
+    <e lm="libraio"><i>librai</i><par n="segretari/o__n"/></e>
     <e lm="benessere"><i>benesser</i><par n="abat/e__n"/></e>
     <e lm="beniamino"><i>beniamin</i><par n="bambin/o__n"/></e>
     <e lm="benzina"><i>benzin</i><par n="cas/a__n"/></e>
@@ -97637,6 +97642,40 @@
     <e lm="diffidenza"><i>diffidenz</i><par n="cas/a__n"/></e>
     <e lm="diffusione"><i>diffusion</i><par n="abbreviazion/e__n"/></e>
     <e lm="diga"><i>dig</i><par n="tasc/a__n"/></e>
+    <e lm="saga"><i>sag</i><par n="tasc/a__n"/></e>
+    <e lm="sega"><i>seg</i><par n="tasc/a__n"/></e>
+    <e lm="primitiva"><i>primitiv</i><par n="cas/a__n"/></e>
+    <e lm="batista"><i>batist</i><par n="cas/a__n"/></e>
+    <e lm="candela"><i>candel</i><par n="cas/a__n"/></e>
+    <e lm="cittadinanza"><i>cittadinanz</i><par n="cas/a__n"/></e>
+    <e lm="coclea"><i>cocle</i><par n="cas/a__n"/></e>
+    <e lm="contingenza"><i>contingenz</i><par n="cas/a__n"/></e>
+    <e lm="balestra"><i>balestr</i><par n="cas/a__n"/></e>
+    <e lm="diorama"><i>dioram</i><par n="cas/a__n"/></e>
+    <e lm="fregata"><i>fregat</i><par n="cas/a__n"/></e>
+    <e lm="banda"><i>band</i><par n="cas/a__n"/></e>
+    <e lm="medusa"><i>medus</i><par n="cas/a__n"/></e>
+    <e lm="lira"><i>lir</i><par n="cas/a__n"/></e>
+    <e lm="macula"><i>macul</i><par n="cas/a__n"/></e>
+    <e lm="magenta"><i>magent</i><par n="cas/a__n"/></e>
+    <e lm="magistratura"><i>magistratur</i><par n="cas/a__n"/></e>
+    <e lm="mania"><i>mani</i><par n="cas/a__n"/></e>
+    <e lm="manna"><i>mann</i><par n="cas/a__n"/></e>
+    <e lm="mesosfera"><i>mesosfer</i><par n="cas/a__n"/></e>
+    <e lm="mimosa"><i>mimos</i><par n="cas/a__n"/></e>
+    <e lm="ottava"><i>ottav</i><par n="cas/a__n"/></e>
+    <e lm="rosa"><i>ros</i><par n="cas/a__n"/></e>
+    <e lm="porpora"><i>porpor</i><par n="cas/a__n"/></e>
+    <e lm="risonanza"><i>risonanz</i><par n="cas/a__n"/></e>
+    <e lm="rada"><i>rad</i><par n="cas/a__n"/></e>
+    <e lm="serenata"><i>serenat</i><par n="cas/a__n"/></e>
+    <e lm="siliqua"><i>siliqu</i><par n="cas/a__n"/></e>
+    <e lm="soma"><i>som</i><par n="cas/a__n"/></e>
+    <e lm="spezia"><i>spezi</i><par n="cas/a__n"/></e>
+    <e lm="sovrastruttura"><i>sovrastruttur</i><par n="cas/a__n"/></e>
+    <e lm="nappa"><i>napp</i><par n="cas/a__n"/></e>
+    <e lm="terzina"><i>terzin</i><par n="cas/a__n"/></e>
+    <e lm="tesla"><i>tesl</i><par n="cas/a__n"/></e>
     <e lm="digestione"><i>digestion</i><par n="abbreviazion/e__n"/></e>
     <e lm="dignità"><i>dignità</i><par n="abilità__n"/></e>
     <e lm="diluvio"><i>diluvi</i><par n="abbagli/o__n"/></e>
@@ -109340,6 +109379,7 @@
     <e lm="bara"><i>bar</i><par n="cas/a__n"/></e>
     <e lm="betulla"><i>betull</i><par n="cas/a__n"/></e>
     <e lm="casa"><i>cas</i><par n="cas/a__n"/></e>
+    <e lm="beta"><i>bet</i><par n="bet/a__n"/></e>
     <e lm="cellulosa"><i>cellulos</i><par n="cas/a__n"/></e>
     <e lm="insalata"><i>insalat</i><par n="cas/a__n"/></e>
     <e lm="carota"><i>carot</i><par n="cas/a__n"/></e>
