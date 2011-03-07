@@ -12285,6 +12285,7 @@
     <e r="LR"><p><l>Austrian<s n="n"/></l><r>austriaco<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Austrian<s n="n"/></l><r>austriaco<s n="n"/></r></p></e>
     <e r="LR"><p><l>Avogadro<b/>constant<s n="n"/></l><r>numero<g><b/>di<b/>Avogadro</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>species<b/>barrier<s n="n"/></l><r>barriera<g><b/>di<b/>specie</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>litre<g><b/>of<b/>alcohol</g><s n="n"/></l><r>litro<g><b/>di<b/>alcool</g><s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>litre<g><b/>of<b/>spirits</g><s n="n"/></l><r>litro<g><b/>di<b/>alcool</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>step<g><b/>forward</g><s n="n"/></l><r>passo<g><b/>avanti</g><s n="n"/><s n="m"/></r></p></e>
@@ -13978,8 +13979,8 @@
     <e><p><l>cherry<s n="n"/></l><r>ciliegia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cherub<s n="n"/></l><r>cherubino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chess<s n="n"/><s n="sg"/></l><r>scacchi<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-    <e r="LR"><p><l>chest<s n="n"/></l><r>petto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>breast<n></l><r>petto<n><m></r></e>).-->
-    <e><p><l>chevron<s n="n"/></l><r>gallone<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>chest<s n="n"/></l><r>petto<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>chevron<s n="n"/></l><r>gallone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chewing<b/>gum<s n="n"/></l><r>gomma<g><b/>da<b/>masticare</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chicken<s n="n"/></l><r>pollo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chickpea<s n="n"/></l><r>cece<s n="n"/><s n="m"/></r></p></e>
@@ -13987,7 +13988,10 @@
     <e r="LR"><p><l>chief<s n="n"/></l><r>capo<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>child<s n="n"/><s n="pl"/></l><r>figlio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>child<s n="n"/></l><r>infante<s n="n"/></r></p></e>
-    <e r="LR"><p><l>child<s n="n"/></l><r>bambino<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>boy<n></l><r>bambino<n><m></r></e>).-->
+    <e r="LR"><p><l>child<s n="n"/></l><r>bambino<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>triumph<s n="n"/></l><r>trionfo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>python<s n="n"/></l><r>pitone<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pity<s n="n"/></l><r>pietà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>childbirth<s n="n"/></l><r>parto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>childhood<s n="n"/></l><r>infanzia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chill<s n="n"/></l><r>freddo<s n="n"/><s n="m"/></r></p></e>
@@ -15893,10 +15897,12 @@
     <e><p><l>galaxy<s n="n"/></l><r>galassia<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>galician<s n="n"/></l><r>galiziano<s n="n"/></r></p></e>
     <e r="LR"><p><l>galician<s n="n"/></l><r>galiziano<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gallery<s n="n"/></l><r>galleria<s n="n"/><s n="f"/></r></p></e>
+    <e srl="gallery D"><p><l>gallery<s n="n"/></l><r>galleria<s n="n"/><s n="f"/></r></p></e>
+    <e srl="tunnel"><p><l>tunnel<s n="n"/></l><r>galleria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gallicism<s n="n"/></l><r>francesismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>gallium<s n="n"/></l><r>gallio<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>gallon<s n="n"/></l><r>gallone<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>chevron<n></l><r>gallone<n><m></r></e>).-->
+    <e srl="gallon"><p><l>gallon<s n="n"/></l><r>gallone<s n="n"/><s n="m"/></r></p></e>
+    <e srl="stripe D"><p><l>stripe<s n="n"/></l><r>gallone<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>gamble<s n="n"/></l><r>scommessa<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>bet<n></l><r>scommessa<n><f></r></e>).-->
     <e><p><l>gambling<s n="n"/></l><r>gioco<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>game<s n="n"/></l><r>gioco<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>gambling<n></l><r>gioco<n><m></r></e>).-->
