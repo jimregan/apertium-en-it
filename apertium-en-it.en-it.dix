@@ -13718,6 +13718,8 @@
     <e><p><l>camomile<s n="n"/></l><r>camomilla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>camouflage<s n="n"/></l><r>camuffamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>camp<s n="n"/></l><r>accampamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>coating<s n="n"/></l><r>rivestimento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>denominator<s n="n"/></l><r>denominatore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>campaign<s n="n"/></l><r>campagna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>camper<s n="n"/></l><r>camper<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>campus<s n="n"/></l><r>campus<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -13733,6 +13735,8 @@
     <e><p><l>cancer<s n="n"/></l><r>cancro<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>candidate<s n="n"/></l><r>candidato<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>candidate<s n="n"/></l><r>candidato<s n="n"/></r></p></e>
+    <e r="LR"><p><l>chorister<s n="n"/></l><r>corista<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>chorister<s n="n"/></l><r>corista<s n="n"/></r></p></e>
     <e r="LR"><p><l>candidate<g><b/>for<b/>the<b/>presidency</g><s n="n"/></l><r>candidato<g><b/>alla<b/>presidenza</g><s n="n"/><s n="GD"/></r></p></e>
     <e r="LR"><p><l>presidential<b/>candidate<s n="n"/></l><r>candidato<g><b/>alla<b/>presidenza</g><s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>presidential<b/>candidate<s n="n"/></l><r>candidato<g><b/>alla<b/>presidenza</g><s n="n"/></r></p></e>
@@ -24400,6 +24404,10 @@
     <e><p><l>gazelle<s n="n"/></l><r>gazzella<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>plum<s n="n"/></l><r>prugna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ruin<s n="n"/></l><r>rovina<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>doom<s n="n"/></l><r>rovina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>era<s n="n"/></l><r>era<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>homophone<s n="n"/></l><r>omofono<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>postulate<s n="n"/></l><r>postulato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>slap<s n="n"/></l><r>schiaffo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>human<s n="n"/></l><r>umano<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pill<s n="n"/></l><r>pillola<s n="n"/><s n="f"/></r></p></e>
