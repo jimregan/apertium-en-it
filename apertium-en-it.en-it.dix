@@ -13721,6 +13721,10 @@
     <e><p><l>campaign<s n="n"/></l><r>campagna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>camper<s n="n"/></l><r>camper<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>campus<s n="n"/></l><r>campus<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>café<s n="n"/></l><r>café<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>cafe<s n="n"/></l><r>cafe<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>camembert<s n="n"/></l><r>camembert<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>chimpanzee<s n="n"/></l><r>scimpanzé<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>can<s n="n"/></l><r>latta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>canalisation<s n="n"/></l><r>canalizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>canapé<s n="n"/></l><r>canapé<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -13992,6 +13996,11 @@
     <e><p><l>triumph<s n="n"/></l><r>trionfo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>python<s n="n"/></l><r>pitone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pity<s n="n"/></l><r>pietà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e r="LR"><p><l>chronicler<s n="n"/></l><r>cronista<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>chronicler<s n="n"/></l><r>cronista<s n="n"/></r></p></e>
+    <e r="LR"><p><l>borrower<s n="n"/></l><r>mutuatario<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>borrower<s n="n"/></l><r>mutuatario<s n="n"/></r></p></e>
+    <e><p><l>breaststroke<s n="n"/></l><r>nuoto<g><b/>a<b/>rana</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>childbirth<s n="n"/></l><r>parto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>childhood<s n="n"/></l><r>infanzia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chill<s n="n"/></l><r>freddo<s n="n"/><s n="m"/></r></p></e>
