@@ -88013,6 +88013,13 @@
         <r>enersi<s n="vblex"/><s n="pron"/><s n="inf"/></r>
       </p>
     </e>
+    <e r="LR">
+      <p>
+        <l>ener</l>
+        <r>enersi<s n="vblex"/><s n="pron"/><s n="inf"/><j/></r>
+      </p>
+        <par n="S__cantar"/>
+    </e>
 
 
 
@@ -88030,6 +88037,13 @@
         <l>enersi</l>
         <r>enersi<s n="vblex"/><s n="pron"/><s n="inf"/></r>
       </p>
+    </e>
+    <e>
+      <p>
+        <l>ener</l>
+        <r>enersi<s n="vblex"/><s n="pron"/><s n="inf"/><j/></r>
+      </p>
+        <par n="S__cantar"/>
     </e>
 
     </pardef>
@@ -109537,6 +109551,7 @@
     <e lm="tamburello"><i>tamburell</i><par n="abbain/o__n"/></e>
     <e lm="xilofono"><i>xilofon</i><par n="abbain/o__n"/></e>
     <e lm="omofono"><i>omofon</i><par n="abbain/o__n"/></e>
+    <e lm="postulato"><i>postulat</i><par n="abbain/o__n"/></e>
     <e lm="fagotto"><i>fagott</i><par n="abbain/o__n"/></e>
     <e lm="imbottigliamento"><i>imbottigliament</i><par n="abbain/o__n"/></e>
     <e lm="trifoglio"><i>trifogli</i><par n="abbagli/o__n"/></e>
