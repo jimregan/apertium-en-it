@@ -13830,6 +13830,8 @@
     <e><p><l>castration<s n="n"/></l><r>castrazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>cat<s n="n"/></l><r>gatto<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>cat<s n="n"/></l><r>gatto<s n="n"/></r></p></e>
+    <e slr="pipistrello D"><p><l>bat<s n="n"/></l><r>pipistrello<s n="n"/><s n="m"/></r></p></e>
+    <e slr="mazza"><p><l>bat<s n="n"/></l><r>mazza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>catabolism<s n="n"/></l><r>catabolismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>catalanism<s n="n"/></l><r>catalanismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cataloging<s n="n"/></l><r>catalogazione<s n="n"/><s n="f"/></r></p></e>
@@ -13839,7 +13841,7 @@
     <e><p><l>catapult<s n="n"/></l><r>catapulta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cataract<s n="n"/></l><r>cataratta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>catarrh<s n="n"/></l><r>catarro<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>catarrh<s n="n"/></l><r>raffreddore<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>catarrh<n></l><r>catarro<n><m></r></e>).-->
+    <e slr="raffreddore"><p><l>cold<s n="n"/></l><r>raffreddore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>catastrophe<s n="n"/></l><r>catastrofe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>catastrophism<s n="n"/></l><r>catastrofismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>catchment<s n="n"/></l><r>captazione<s n="n"/><s n="f"/></r></p></e>
@@ -14164,24 +14166,22 @@
     <e><p><l>coherence<s n="n"/></l><r>coerenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cohesion<s n="n"/></l><r>coesione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>coil<s n="n"/></l><r>spira<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>coil<s n="n"/></l><r>bobina<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>coil<n></l><r>spira<n><f></r></e>).-->
+    <e r="RL"><p><l>coil<s n="n"/></l><r>bobina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>coin<s n="n"/></l><r>monetazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>coin<s n="n"/></l><r>moneta<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>coin<n></l><r>monetazione<n><f></r></e>).-->
+    <e r="RL"><p><l>coin<s n="n"/></l><r>moneta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>coincidence<s n="n"/></l><r>coincidenza<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>coining<s n="n"/></l><r>coniazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>colchicum<s n="n"/></l><r>colchico<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>cold<s n="n"/></l><r>freddo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>chill<n></l><r>freddo<n><m></r></e>).-->
-    <e i="yes"><p><l>cold<s n="n"/></l><r>raffreddore<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>catarrh<n></l><r>raffreddore<n><m></r></e>).-->
+    <e r="LR" slr="freddo D"><p><l>cold<s n="n"/></l><r>freddo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>collaboration<s n="n"/></l><r>collaborazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>collection<s n="n"/></l><r>riscossione<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>collection<s n="n"/></l><r>collezione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>collection<n></l><r>riscossione<n><f></r></e>).-->
-    <e r="RL"><p><l>collection<s n="n"/></l><r>ricavo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>collection<n></l><r>riscossione<n><f></r></e>).-->
-    <e r="RL"><p><l>collection<s n="n"/></l><r>raccolta<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>collection<n></l><r>riscossione<n><f></r></e>).-->
+    <e r="RL"><p><l>collection<s n="n"/></l><r>collezione<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>revenue<s n="n"/></l><r>ricavo<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>collection<s n="n"/></l><r>raccolta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>collective<s n="n"/></l><r>collettivo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>collectivisation<s n="n"/></l><r>collettivizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>collectivism<s n="n"/></l><r>collettivismo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>collector<s n="n"/></l><r>collezionista<s n="n"/><s n="m"/></r></p></e>
-    <e i="yes"><p><l>collector<s n="n"/></l><r>collezionista<s n="n"/><s n="GD"/></r></p></e><!--  autorestricted (<e><l>collector<n></l><r>collezionista<n><m></r></e>).-->
+    <e r="LR"><p><l>collector<s n="n"/></l><r>collezionista<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>collector<s n="n"/></l><r>collezionista<s n="n"/></r></p></e>
     <e r="LR"><p><l>college<s n="n"/><s n="sg"/></l><r>università<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>college<s n="n"/><s n="pl"/></l><r>università<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -24288,6 +24288,7 @@
     <e><p><l>goodness<s n="n"/></l><r>bontà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>gratuitousness<s n="n"/></l><r>gratuità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>gremlin<s n="n"/></l><r>gremlin<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>gutter<b/>punk<s n="n"/></l><r>punkabbestia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hacker<s n="n"/></l><r>hacker<s n="n"/><s n="mf"/></r></p><par n="SP"/></e>
     <e><p><l>heterogeneity<s n="n"/></l><r>eterogeneità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>honesty<s n="n"/></l><r>onestà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
