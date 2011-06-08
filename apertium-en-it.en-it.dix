@@ -779,6 +779,10 @@
     <e><p><l>bloodthirsty<s n="adj"/></l><r>sanguinario<s n="adj"/></r></p></e>
     <e><p><l>bloody<s n="adj"/><s n="sint"/></l><r>cruento<s n="adj"/></r></p></e>
     <e><p><l>blue<s n="adj"/></l><r>blu<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>blue<s n="adj"/></l><r>azzurro<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>blue<s n="n"/></l><r>azzurro<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>net<s n="adj"/></l><r>netto<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>result<s n="n"/></l><r>netto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>blue-white<s n="adj"/></l><r>biancazzurro<s n="adj"/></r></p></e>
     <e><p><l>bluish<s n="adj"/></l><r>bluastro<s n="adj"/></r></p></e>
     <e><p><l>blurred<s n="adj"/></l><r>sfocato<s n="adj"/></r></p></e>
@@ -4426,6 +4430,8 @@
     <e><i>Baruc<s n="np"/><s n="ant"/></i></e>
     <e><i>Baruf<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Basauri<s n="np"/><s n="loc"/></l><r>Basauri<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+    <e><p><l>Liège<s n="np"/><s n="loc"/></l><r>Liegi<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>Liege<s n="np"/><s n="loc"/></l><r>Liegi<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><i>Basiana<s n="np"/><s n="ant"/></i></e>
     <e><i>Basiano<s n="np"/><s n="ant"/></i></e>
     <e><i>Basile<s n="np"/><s n="ant"/></i></e>
@@ -10977,6 +10983,8 @@
     <e><p><l>Slovenia<s n="np"/><s n="loc"/></l><r>Slovenia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>Smith<s n="np"/><s n="cog"/><s n="sg"/></l><r>Smith<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>Smith<s n="np"/><s n="cog"/><s n="pl"/></l><r>Smith<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>Prandelli<s n="np"/><s n="cog"/><s n="sg"/></l><r>Prandelli<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>Prandelli<s n="np"/><s n="cog"/><s n="pl"/></l><r>Prandelli<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>Smithies<s n="np"/><s n="cog"/><s n="sg"/></l><r>Smithies<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>Smithies<s n="np"/><s n="cog"/><s n="pl"/></l><r>Smithies<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>Snow<s n="np"/><s n="cog"/><s n="sg"/></l><r>Snow<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -22649,6 +22657,7 @@
     <e r="LR"><p><l>confront<s n="vblex"/></l><r>affrontare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>brave<vblex></l><r>affrontare<vblex></r></e>).-->
     <e><p><l>confuse<s n="vblex"/></l><r>confondere<s n="vblex"/></r></p></e>
     <e><p><l>congratulate<s n="vblex"/></l><r>congratularsi<g><b/>con</g><s n="vblex"/><s n="pron"/></r></p></e>
+    <e><p><l>bow<s n="vblex"/></l><r>inchinarsi<s n="vblex"/><s n="pron"/></r></p></e>
     <e r="RL"><p><l>congratulate<s n="vblex"/></l><r>congratulare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>congregate<s n="vblex"/></l><r>congregare<s n="vblex"/></r></p></e>
     <e><p><l>connect<s n="vblex"/></l><r>connettere<s n="vblex"/></r></p></e>
