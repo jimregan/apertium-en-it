@@ -81900,18 +81900,26 @@
         <r>a<s n="n"/><s n="mf"/><s n="sg"/></r>
       </p>
     </e>
-
-
-
     <e>
       <p>
         <l>e</l>
         <r>a<s n="n"/><s n="f"/><s n="pl"/></r>
       </p>
     </e>
-
-
-
+    </pardef>
+    <pardef n="angiom/a__n">
+    <e>
+      <p>
+        <l>a</l>
+        <r>a<s n="n"/><s n="m"/><s n="sg"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>i</l>
+        <r>a<s n="n"/><s n="m"/><s n="pl"/></r>
+      </p>
+    </e>
     </pardef>
     <pardef n="bracci/o__n">
     <e>
@@ -96183,6 +96191,9 @@
     <e lm="calcio"><i>calci</i><par n="abbain/o__n"/></e>
     <e lm="prestito"><i>prestit</i><par n="abbain/o__n"/></e>
     <e lm="telaio"><i>telai</i><par n="abbagli/o__n"/></e>
+    <e lm="antalgico"><i>antalgic</i><par n="abbagli/o__n"/></e>
+    <e lm="analgesico"><i>analgesic</i><par n="abbagli/o__n"/></e>
+    <e lm="ammonio"><i>ammoni</i><par n="abbagli/o__n"/></e>
     <e lm="microstato"><i>microstat</i><par n="abbain/o__n"/></e>
     <e lm="muschio"><i>muschi</i><par n="abbagli/o__n"/></e>
     <e lm="nitrito"><i>nitrit</i><par n="abbain/o__n"/></e>
@@ -96195,6 +96206,10 @@
     <e lm="stallo"><i>stall</i><par n="abbain/o__n"/></e>
     <e lm="trapezio"><i>trapezi</i><par n="abbagli/o__n"/></e>
     <e lm="carro"><i>carr</i><par n="abbain/o__n"/></e>
+    <e lm="ampere"><i>amper</i><par n="abat/e__n"/></e>
+    <e lm="angioma"><i>angiom</i><par n="angiom/a__n"/></e>
+    <e lm="aneurisma"><i>aneurism</i><par n="aneurism/a__n"/></e>
+    <e lm="anemone"><i>anemon</i><par n="abat/e__n"/></e>
     <e lm="abate"><i>abat</i><par n="abat/e__n"/></e>
     <e lm="polipeptide"><i>polipeptid</i><par n="abat/e__n"/></e>
     <e lm="biocarburante"><i>biocarburant</i><par n="abat/e__n"/></e>
@@ -96231,6 +96246,7 @@
     <e lm="rifugio"><i>rifugi</i><par n="abbagli/o__n"/></e>
     <e lm="abbozzo"><i>abbozz</i><par n="abbain/o__n"/></e>
     <e lm="abbraccio"><i>abbracci</i><par n="abbagli/o__n"/></e>
+    <e lm="andesite"><i>andesit</i><par n="abbreviazion/e__n"/></e>
     <e lm="abbreviazione"><i>abbreviazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="comunità internazionale"><i>comunità<b/>internazional</i><par n="abbreviazion/e__n"/></e>
     <e lm="abbece"><i>abbec</i><par n="abbreviazion/e__n"/></e>
@@ -96256,6 +96272,7 @@
     <e lm="disertore"><i>disertor</i><par n="abat/e__n"/></e>
     <e lm="abilitazione"><i>abilitazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="abilità"><i>abilità</i><par n="abilità__n"/></e>
+    <e lm="anafilassi"><i>anafilassi</i><par n="abilità__n"/></e>
     <e lm="serietà"><i>serietà</i><par n="abilità__n"/></e>
     <e lm="agorà"><i>agorà</i><par n="abilità__n"/></e>
     <e lm="albite"><i>albit</i><par n="abbreviazion/e__n"/></e>
@@ -96274,7 +96291,7 @@
     <e lm="abitatore"><i>abitat</i><par n="agricolt/ore__n"/></e>
     <e lm="mentore"><i>ment</i><par n="agricolt/ore__n"/></e>
     <e lm="stupratore"><i>stuprat</i><par n="agricolt/ore__n"/></e>
-    <e lm="attuatore"><i>attuat</i><par n="agricolt/ore__n"/></e>
+    <e lm="attuatore"><i>attuator</i><par n="abat/e__n"/></e>
     <e lm="abitazione"><i>abitazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="abitudine"><i>abitudin</i><par n="abbreviazion/e__n"/></e>
     <e lm="ablazione"><i>ablazion</i><par n="abbreviazion/e__n"/></e>
@@ -97174,6 +97191,7 @@
     <e lm="cartina"><i>cartin</i><par n="cas/a__n"/></e>
     <e lm="cartuccia"><i>cartucc</i><par n="alzatacc/ia__n"/></e>
     <e lm="casa"><i>cas</i><par n="cas/a__n"/></e>
+    <e lm="analgesia"><i>analgesi</i><par n="cas/a__n"/></e>
     <e lm="odisssea"><i>odisse</i><par n="cas/a__n"/></e>
     <e lm="casa editrice"><i>cas</i><par n="cas/a__n"/><p><l><b/>editrice</l><r><g><b/>editrice</g></r></p></e>
     <e lm="caso"><i>cas</i><par n="abbain/o__n"/></e>
