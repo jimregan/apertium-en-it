@@ -30,8 +30,11 @@ dev/cross-model-en-es-it.xml -text
 dev/cross.xml -text
 dev/find-the-cognates_adj-en-es-it -text
 dev/find-the-cognates_adj-en-es-it2 -text
+dev/inconsistency-summary.sh -text
+dev/inconsistency.sh -text
 dev/missing-verbs-bidix -text
 dev/patterns-not-detected.xml -text
+dev/testvoc.sh -text
 dev/todo-com-edited -text
 dev/verbs-to-add -text
 dev/warn-duplicate-lemma.pl -text
