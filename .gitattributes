@@ -32,6 +32,8 @@ dev/find-the-cognates_adj-en-es-it -text
 dev/find-the-cognates_adj-en-es-it2 -text
 dev/missing-verbs-bidix -text
 dev/patterns-not-detected.xml -text
+dev/testvoc-summary.en-it.txt -text
+dev/testvoc-summary.it-en.txt -text
 dev/todo-com-edited -text
 dev/verbs-to-add -text
 dev/warn-duplicate-lemma.pl -text
