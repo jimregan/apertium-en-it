@@ -441,8 +441,11 @@
     <e><p><l>Anglican<s n="adj"/></l><r>anglicano<s n="adj"/></r></p></e>
     <e><p><l>Asturian<s n="adj"/></l><r>asturiano<s n="adj"/></r></p></e>
     <e><p><l>Castilian<s n="adj"/></l><r>castiglionese<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>Ethiopian<s n="adj"/></l><r>etiope<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>Flemish<s n="adj"/></l><r>fiammingo<s n="adj"/></r></p></e>
+    <e><p><l>ethiopian<s n="adj"/></l><r>etiope<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>flemish<s n="adj"/></l><r>fiammingo<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>flemish<s n="n"/></l><r>fiammingo<s n="n"/></r></p></e>
+    <e r="LR"><p><l>flemish<s n="n"/></l><r>fiammingo<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>flamingo<s n="n"/></l><r>fenicottero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Francoist<s n="adj"/></l><r>franchista<s n="adj"/></r></p></e>
     <e><p><l>Gallic<s n="adj"/></l><r>gallico<s n="adj"/></r></p></e>
     <e><p><l>Islamist<s n="adj"/></l><r>islamista<s n="adj"/></r></p></e>
@@ -1320,7 +1323,7 @@
     <e><p><l>essential<s n="adj"/></l><r>essenziale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>eternal<s n="adj"/></l><r>eterno<s n="adj"/></r></p></e>
     <e><p><l>ethical<s n="adj"/></l><r>etico<s n="adj"/></r></p></e>
-    <e><p><l>ethiopian<s n="adj"/></l><r>etiopico<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ethiopian<s n="adj"/></l><r>etiopico<s n="adj"/></r></p></e>
     <e><p><l>ethmoidal<s n="adj"/></l><r>etmoidale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>ethnic<s n="adj"/></l><r>etnico<s n="adj"/></r></p></e>
     <e><p><l>ethnographic<s n="adj"/></l><r>etnografico<s n="adj"/></r></p></e>
@@ -1433,7 +1436,6 @@
     <e><p><l>flagrant<s n="adj"/></l><r>flagrante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>flatterer<s n="adj"/></l><r>adulatore<s n="adj"/></r></p></e>
     <e><p><l>flawless<s n="adj"/></l><r>impeccabile<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>flemish<s n="adj"/></l><r>flamenco<s n="adj"/></r></p></e>
     <e><p><l>flexible<s n="adj"/></l><r>flessibile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>floating<s n="adj"/></l><r>galleggiante<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>floppy<s n="adj"/></l><r>flessibile<s n="adj"/><s n="mf"/></r></p></e>
@@ -12162,7 +12164,7 @@
     <e><p><l>mimosa<s n="n"/></l><r>mimosa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>octave<s n="n"/></l><r>ottava<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ounce<s n="n"/></l><r>oncia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>pink<s n="n"/></l><r>rosa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pink<s n="n"/></l><r>rosa<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>purpura<s n="n"/></l><r>porpora<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>resonance<s n="n"/></l><r>risonanza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>roadstead<s n="n"/></l><r>rada<s n="n"/><s n="f"/></r></p></e>
@@ -12175,7 +12177,6 @@
     <e><p><l>superstructure<s n="n"/></l><r>sovrastruttura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tassel<s n="n"/></l><r>nappa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tercet<s n="n"/></l><r>terzina<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>tesla<s n="n"/></l><r>tesla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>atlas<s n="n"/></l><r>atlante<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>believer<s n="n"/></l><r>credente<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>badge<s n="n"/></l><r>placca<s n="n"/><s n="f"/></r></p></e>
@@ -18350,7 +18351,6 @@
     <e i="yes"><p><l>pilot<s n="n"/></l><r>pilota<s n="n"/><s n="GD"/></r></p></e><!--  autorestricted (<e><l>pilot<n></l><r>pilota<n><mf></r></e>).-->
     <e><p><l>pin<s n="n"/></l><r>spilla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pine<s n="n"/></l><r>pino<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>pink<s n="n"/></l><r>rosa<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>pioneer<s n="n"/></l><r>pioniere<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>pioneer<s n="n"/></l><r>pioniere<s n="n"/></r></p></e>
     <e><p><l>pipe<s n="n"/></l><r>condotto<s n="n"/><s n="m"/></r></p></e>
@@ -20219,7 +20219,7 @@
     <e><p><l>terrorism<s n="n"/></l><r>terrorismo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>terrorist<s n="n"/></l><r>terrorista<s n="n"/></r></p></e>
     <e r="LR"><p><l>terrorist<s n="n"/></l><r>terrorista<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>tesla<s n="n"/></l><r>tesla<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tesla<s n="n"/></l><r>tesla<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e r="LR"><p><l>test<s n="n"/></l><r>prova<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>proof<n></l><r>prova<n><f></r></e>).-->
     <e><p><l>tetrarchy<s n="n"/></l><r>tetrarchia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>text<s n="n"/></l><r>testo<s n="n"/><s n="m"/></r></p></e>
