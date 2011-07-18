@@ -390,7 +390,7 @@
     <e r="LR" c="frases afirmatives"><p><l>some<s n="det"/></l><r>qualche<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
     <e><p><l>some<s n="det"/><s n="qnt"/></l><r>certo<s n="det"/><s n="ind"/></r></p></e>
     <e r="RL"><p><l>some<s n="det"/><s n="qnt"/></l><r>taluno<s n="det"/><s n="ind"/></r></p></e>
-    <e r="LR"><p><l>such<s n="det"/><s n="ind"/></l><r>tale<s n="det"/><s n="dem"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>such<s n="det"/><s n="ind"/><s n="sp"/></l><r>tale<s n="det"/><s n="dem"/><s n="mf"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>such<s n="det"/><s n="ind"/><s n="sp"/></l><r>tale<s n="det"/><s n="dem"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>such<b/>a<s n="det"/><s n="ind"/></l><r>tale<s n="det"/><s n="dem"/><s n="mf"/><s n="ND"/></r></p></e>
     <e r="LR"><p><l>tenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>decimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -7277,6 +7277,7 @@
     <e><i>Honoré<s n="np"/><s n="ant"/></i></e>
     <e><i>Honorée<s n="np"/><s n="ant"/></i></e>
     <e><i>Hope<s n="np"/><s n="ant"/></i></e>
+    <e><i>Horacio<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Horace<s n="np"/><s n="ant"/></l><r>Orazio<s n="np"/><s n="ant"/></r></p></e>
     <e><i>Hortencia<s n="np"/><s n="ant"/></i></e>
     <e><i>Hortencio<s n="np"/><s n="ant"/></i></e>
@@ -19825,8 +19826,8 @@
     <e><p><l>staff<s n="n"/></l><r>personale<s n="n"/><s n="m"/></r></p></e>
     <e slr="personale D"><p><l>staff<s n="n"/><s n="sg"/></l><r>personale<s n="n"/></r></p></e>
     <e slr="maestranze"><p><l>staff<s n="n"/></l><r>maestranze<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>stage<s n="n"/></l><r>palcoscenico<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>stage<s n="n"/></l><r>palco<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>stage<n></l><r>palcoscenico<n><m></r></e>).-->
+    <e slr="palcoscenico"><p><l>stage<s n="n"/></l><r>palcoscenico<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>stage<s n="n"/></l><r>palco<s n="n"/><s n="m"/></r></p></e>
     <e slr="tappa D"><p><l>stage<s n="n"/></l><r>tappa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>stagflation<s n="n"/></l><r>stagflazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>stagnation<s n="n"/></l><r>lagunaggio<s n="n"/><s n="m"/></r></p></e>
