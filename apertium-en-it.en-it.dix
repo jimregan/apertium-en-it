@@ -15686,8 +15686,8 @@
     <e r="RL"><p><l>fight<s n="n"/></l><r>lotta<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>fight<n></l><r>combattimento<n><m></r></e>).-->
     <e r="RL"><p><l>fighter<s n="n"/><s n="ND"/></l><r>caccia<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>fighter<s n="n"/></l><r>combattente<s n="n"/><s n="mf"/></r></p></e><!--  autorestricted (<e r="RL"><l>activist<n></l><r>combattente<n><mf></r></e>).-->
-    <e><p><l>file<s n="n"/></l><r>archivio<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>file<s n="n"/></l><r>lima<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>file<n></l><r>archivio<n><m></r></e>).-->
+    <e slr="archivio D"><p><l>file<s n="n"/></l><r>archivio<s n="n"/><s n="m"/></r></p></e>
+    <e slr="lima"><p><l>file<s n="n"/></l><r>lima<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>file<s n="n"/><s n="ND"/></l><r>file<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>filigree<s n="n"/></l><r>filigrana<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>film<s n="n"/></l><r>pellicola<s n="n"/><s n="f"/></r></p></e>
@@ -24566,6 +24566,27 @@
     <e><p><l>palaeontologist<s n="n"/></l><r>paleontologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>podiatry<s n="n"/></l><r>podologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>teleology<s n="n"/></l><r>teleologia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cladogram<s n="n"/></l><r>cladogramma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>epigram<s n="n"/></l><r>epigramma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>histogram<s n="n"/></l><r>istogramma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>monogram<s n="n"/></l><r>monogramma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nomogram<s n="n"/></l><r>nomogramma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>parallelogram<s n="n"/></l><r>parallelogramma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>spectrogram<s n="n"/></l><r>spettrogramma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>liposome<s n="n"/></l><r>liposoma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>microsome<s n="n"/></l><r>microsoma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ribosome<s n="n"/></l><r>ribosoma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>soma<s n="n"/></l><r>soma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cathetometer<s n="n"/></l><r>catetometro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>galvanometer<s n="n"/></l><r>galvanometro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>photometer<s n="n"/></l><r>luxmetro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>polarimeter<s n="n"/></l><r>polarimetro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hygrometer<s n="n"/></l><r>igrometro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>seismometer<s n="n"/></l><r>sismometro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>seismograph<s n="n"/></l><r>sismografo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>spectrometer<s n="n"/></l><r>spettrometro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>voltmeter<s n="n"/></l><r>voltmetro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>psychrometer<s n="n"/></l><r>psicrometro<s n="n"/><s n="m"/></r></p></e>
 
 
     <!-- ******************************
