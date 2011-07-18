@@ -437,7 +437,6 @@
     <!-- ******************************
           group adj_symbol
       ****************************** -->
-    <e><p><l>Algerian<s n="adj"/></l><r>algerino<s n="adj"/></r></p></e>
     <e r="RL"><p><l>American<s n="adj"/></l><r>statunitense<s n="adj"/></r></p></e>
     <e><p><l>Anglican<s n="adj"/></l><r>anglicano<s n="adj"/></r></p></e>
     <e><p><l>Asturian<s n="adj"/></l><r>asturiano<s n="adj"/></r></p></e>
@@ -12269,8 +12268,6 @@
     <e><p><l>http<s n="n"/><s n="acr"/></l><r>http<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
     <e><p><l>https<s n="n"/><s n="acr"/></l><r>https<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
     <e><p><l>Albanian<s n="n"/></l><r>albanese<s n="n"/><s n="mf"/></r></p></e>
-    <e r="RL"><p><l>Algerian<s n="n"/></l><r>algerino<s n="n"/></r></p></e>
-    <e r="LR"><p><l>Algerian<s n="n"/></l><r>algerino<s n="n"/><s n="GD"/></r></p></e>
     <e r="LR" c="traducció per defecte en masculí, per ara"><p><l>American<s n="n"/></l><r>americano<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL" c="traducció per defecte en masculí, per ara"><p><l>American<s n="n"/></l><r>americano<s n="n"/></r></p></e>
     <e r="LR"><p><l>Andalusian<s n="n"/></l><r>andaluso<s n="n"/><s n="GD"/></r></p></e>
@@ -12293,7 +12290,6 @@
     <e r="LR"><p><l>Austrian<s n="n"/></l><r>austriaco<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Austrian<s n="n"/></l><r>austriaco<s n="n"/></r></p></e>
     <e r="LR"><p><l>Avogadro<b/>constant<s n="n"/></l><r>numero<g><b/>di<b/>Avogadro</g><s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>species<b/>barrier<s n="n"/></l><r>barriera<g><b/>di<b/>specie</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>litre<g><b/>of<b/>alcohol</g><s n="n"/></l><r>litro<g><b/>di<b/>alcool</g><s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>litre<g><b/>of<b/>spirits</g><s n="n"/></l><r>litro<g><b/>di<b/>alcool</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>step<g><b/>forward</g><s n="n"/></l><r>passo<g><b/>avanti</g><s n="n"/><s n="m"/></r></p></e>
@@ -24272,7 +24268,7 @@
     <e><p><l>collectivity<s n="n"/></l><r>collettività<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>community<s n="n"/></l><r>comunità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>complementarity<s n="n"/></l><r>complementarità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
-    <e><p><l>condom<s n="n"/></l><r>profilattico<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>condom<s n="n"/></l><r>profilattico<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>connectivity<s n="n"/></l><r>connettività<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>consanguinity<s n="n"/></l><r>consanguineità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>constitutionality<s n="n"/></l><r>costituzionalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
