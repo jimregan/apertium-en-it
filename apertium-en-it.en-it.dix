@@ -3048,9 +3048,9 @@
     <e><p><l>west<s n="adj"/></l><r>dell&apos;ovest<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>western<s n="adj"/></l><r>occidentale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>wheel<s n="adj"/></l><r>volante<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>which<s n="det"/><s n="itg"/><s n="sp"/></l><r>quale<s n="adj"/><s n="itg"/><s n="mf"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>which<s n="det"/><s n="itg"/><s n="sp"/></l><r>quale<s n="adj"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>which<s n="det"/><s n="itg"/><s n="sp"/></l><r>quale<s n="adj"/><s n="itg"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>which<s n="det"/><s n="itg"/><s n="sp"/></l><r>quale<s n="det"/><s n="itg"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>which<s n="det"/><s n="itg"/><s n="sp"/></l><r>quale<s n="det"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>which<s n="det"/><s n="itg"/><s n="sp"/></l><r>quale<s n="det"/><s n="itg"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>white<s n="adj"/><s n="sint"/></l><r>bianco<s n="adj"/></r></p></e>
     <e r="LR"><p><l>whole<s n="adj"/></l><r>intero<s n="adj"/></r></p></e>
     <e r="LR" c="check"><p><l>whole-grain<s n="adj"/></l><r>integrale<s n="adj"/><s n="mf"/></r></p></e>
@@ -24654,16 +24654,17 @@
     <e r="RL"><p><l>what<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>quello<b/>che<s n="rel"/><s n="an"/><s n="nt"/></r></p></e><!--  autorestricted (<e><l>what<rel><nn><mf><sg></l><r>quanto<rel></r></e>).-->
     <e><p><l>when<s n="cnjadv"/></l><r>quando<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>where<s n="rel"/><s n="adv"/></l><r>dove<s n="rel"/><s n="adv"/></r></p></e>
-    <e r="LR"><p><l>which<s n="rel"/><s n="an"/></l><r>che<s n="rel"/></r></p></e><!--  autorestricted (<e><l>that<rel></l><r>che<rel></r></e>).-->
+    <e r="LR"><p><l>which<s n="rel"/><s n="an"/></l><r>che<s n="rel"/></r></p></e>
     <e><p><l>which<s n="rel"/><s n="nn"/><s n="mf"/><s n="sp"/></l><r>il<b/>quale<s n="rel"/></r></p></e>
-    <e r="LR"><p><l>who<s n="rel"/></l><r>che<s n="rel"/></r></p></e><!--  autorestricted (<e><l>that<rel></l><r>che<rel></r></e>).-->
+    <e r="LR"><p><l>who<s n="rel"/></l><r>che<s n="rel"/></r></p></e>
 
     <e r="LR"><p><l>whose<s n="rel"/><s n="aa"/><s n="mf"/><s n="sp"/></l><r>il<b/>cui<s n="rel"/><s n="aa"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>whose<s n="rel"/><s n="aa"/><s n="mf"/><s n="sp"/></l><r>il<b/>cui<s n="rel"/><s n="aa"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>whose<s n="rel"/><s n="aa"/><s n="mf"/><s n="sp"/></l><r>il<b/>cui<s n="rel"/><s n="aa"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>whose<s n="rel"/><s n="aa"/><s n="mf"/><s n="sp"/></l><r>il<b/>cui<s n="rel"/><s n="aa"/><s n="f"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>whose<s n="rel"/><s n="aa"/><s n="mf"/><s n="sp"/></l><r>il<b/>cui<s n="rel"/><s n="aa"/><s n="f"/><s n="pl"/></r></p></e>
-    <e r="RL"><p><l>whose<s n="rel"/><s n="aa"/><s n="mf"/><s n="sp"/></l><r>il<b/>cui<s n="rel"/></r></p></e><!--  autorestricted (<e r="LR"><l>whose<rel><aa><mf><sp></l><r>il<b/>cui<rel><aa><GD><ND></r></e>).-->
+    <e r="RL"><p><l>whose<s n="rel"/><s n="aa"/><s n="mf"/><s n="sp"/></l><r>il<b/>cui<s n="rel"/></r></p></e>
+    <e r="LR"><p><l>whose<s n="det"/><s n="itg"/><s n="sp"/></l><r>di<b/>chi<s n="det"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
     <!-- ******************************
           group vbser_symbol
       ****************************** -->

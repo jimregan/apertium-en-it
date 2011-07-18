@@ -80218,11 +80218,11 @@
 
     </pardef>
 
-    <pardef n="qual/e__adj">
+    <pardef n="qual/e__det">
     <e>
       <p>
         <l>i</l>
-        <r>e<s n="adj"/><s n="itg"/><s n="mf"/><s n="pl"/></r>
+        <r>e<s n="det"/><s n="itg"/><s n="mf"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -80231,7 +80231,7 @@
     <e>
       <p>
         <l>e</l>
-        <r>e<s n="adj"/><s n="itg"/><s n="mf"/><s n="sg"/></r>
+        <r>e<s n="det"/><s n="itg"/><s n="mf"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -88675,6 +88675,7 @@
     <e r="LR" lm="come"><i>come</i><par n="dove__rel"/></e>
     <e lm="quale"><i>qual</i><par n="qual/e__rel"/></e>
     <e lm="quale"><i>quale</i><par n="dove__rel"/></e>
+    <e lm="quale"><i>qual</i><par n="qual/e__det"/></e>
     <e lm="quanto"><i>quanto</i><par n="dove__rel"/></e>
     <e lm="quanto"><i>quant</i><par n="quant/o__rel"/></e>
     <e r="RL" lm="dove"><p><l><a/>dove</l><r>dove</r></p><par n="dove__rel"/></e>
@@ -88686,6 +88687,7 @@
     <e lm="il cui"><par n="/il_cui__rel"/></e>
     <e lm="che"><i>che</i><par n="che__rel"/></e>
     <e r="RL" lm="che"><p><l>che</l><r>che<s n="det"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="RL" lm="di chi"><p><l>di<b/>chi</l><r>di<b/>chi<s n="det"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
 
 <!--       ******************************      (np) group      ******************************    -->
     <e lm="Guglielmo Tell"><i>Guglielmo<b/>Tell</i><par n="Juan__np"/></e>
@@ -102864,7 +102866,6 @@
     <e lm="puro"><i>pur</i><par n="abbandonat/o__adj"/></e>
     <e lm="quadrato"><i>quadrat</i><par n="abbandonat/o__adj"/></e>
     <e lm="quadrilatero"><i>quadrilater</i><par n="abbandonat/o__adj"/></e>
-    <e lm="quale"><i>qual</i><par n="qual/e__adj"/></e>
     <e lm="quanto"><i>quant</i><par n="quant/o__det"/></e>
     <e lm="quantitativo"><i>quantitativ</i><par n="abbandonat/o__adj"/></e>
     <e lm="quarto"><i>quart</i><par n="prim/o__det"/></e>
