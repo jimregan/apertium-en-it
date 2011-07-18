@@ -83815,71 +83815,48 @@
         <r>di<s n="pr"/></r>
       </p>
     </e>
-
-
     <e r="RL">
       <p>
         <l><a/>di</l>
         <r>di<s n="pr"/></r>
       </p>
     </e>
-
-
-
     <e r="LR">
       <p>
         <l>della</l>
         <r>di<s n="pr"/><j/>il<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r>
       </p>
     </e>
-
-
-
     <e r="LR">
       <p>
         <l>delle</l>
         <r>di<s n="pr"/><j/>il<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></r>
       </p>
     </e>
-
-
-
     <e r="LR">
       <p>
         <l>degli</l>
         <r>di<s n="pr"/><j/>il<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r>
       </p>
     </e>
-
-
-
     <e r="LR">
       <p>
         <l>dei</l>
         <r>di<s n="pr"/><j/>il<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r>
       </p>
     </e>
-
-
-
     <e r="LR">
       <p>
         <l>del</l>
         <r>di<s n="pr"/><j/>il<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r>
       </p>
     </e>
-
-
-
     <e r="LR">
       <p>
         <l>dello</l>
         <r>di<s n="pr"/><j/>il<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r>
       </p>
     </e>
-
-
-
     </pardef>
     <pardef n="/da__pr">
     <e r="LR">
@@ -87510,6 +87487,56 @@
     </e>
 
     </pardef>
+    <pardef n="la_maggioranza_/di__det">
+    <e r="LR">
+      <p>
+        <l>di</l>
+        <r>di<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r>
+      </p>
+    </e>
+    <e r="RL">
+      <p>
+        <l><a/>di</l>
+        <r>di<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>della</l>
+        <r>di<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/><j/>il<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>delle</l>
+        <r>di<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/><j/>il<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>degli</l>
+        <r>di<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/><j/>il<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>dei</l>
+        <r>di<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/><j/>il<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>del</l>
+        <r>di<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/><j/>il<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>dello</l>
+        <r>di<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/><j/>il<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r>
+      </p>
+    </e>
+    </pardef>
     <pardef n="ast/enersi__vblex">
     <e>
       <p>
@@ -88664,9 +88691,11 @@
     <e lm="vario"><i>vari</i><par n="vari/o__det"/></e>
     <e lm="vostro"><i>vostr</i><par n="vostr/o__det"/></e>
     <e lm="meno"><i>meno</i><par n="meno__det"/></e>
+    <e lm="un bel po' di"><i>un<b/>bel<b/>po'<b/></i><par n="la_maggioranza_/di__det"/></e>
     <e lm="più"><i>più</i><par n="meno__det"/></e>
     <e r="RL" lm="abbastanza"><i>abbastanza</i><par n="meno__det"/></e>
-    <e lm="la maggioranza di"><p><l>la<b/>maggioranza<b/><a/>di</l><r>la<b/>maggioranza<b/>di</r></p><par n="meno__det"/></e>
+    <e lm="la maggioranza di"><i>la<b/>maggioranza<b/></i><par n="la_maggioranza_/di__det"/></e>
+    <e lm="un bel po' di"><i>un<b/>bel<b/>po'<b/></i><par n="la_maggioranza_/di__det"/></e>
     <e lm="lo stesso"><i></i><par n="/lo_stesso__det"/></e>
 
 <!--       ******************************      (rel) group      ******************************    -->
