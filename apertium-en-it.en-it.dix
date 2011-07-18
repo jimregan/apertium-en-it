@@ -13238,7 +13238,7 @@
     <e r="LR"><p><l>authority<s n="n"/><s n="sg"/></l><r>autorità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>authority<s n="n"/><s n="pl"/></l><r>autorità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>autism<s n="n"/></l><r>autismo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>auto<s n="n"/></l><r>macchina<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>auto<s n="n"/></l><r>macchina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>autobiography<s n="n"/></l><r>autobiografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>automation<s n="n"/></l><r>automazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>automatism<s n="n"/></l><r>automatismo<s n="n"/><s n="m"/></r></p></e>
@@ -13779,7 +13779,7 @@
     <e r="RL"><p><l>car<s n="n"/></l><r>autovettura<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>automobile<s n="n"/></l><r>automobile<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>car<s n="n"/></l><r>autoveicolo<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>car<s n="n"/></l><r>macchina<s n="n"/><s n="f"/></r></p></e>
+    <e slr="macchine"><p><l>car<s n="n"/></l><r>macchina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>carafe<s n="n"/></l><r>caraffa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>carat<s n="n"/></l><r>carato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>carbon<s n="n"/></l><r>carbonio<s n="n"/><s n="m"/></r></p></e>
@@ -17053,19 +17053,20 @@
     <e><p><l>licence<s n="n"/></l><r>licenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>licorice<s n="n"/></l><r>liquirizia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lid<s n="n"/></l><r>coperchio<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>lid<s n="n"/></l><r>palpebra<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>lid<n></l><r>coperchio<n><m></r></e>).-->
+    <e r="RL"><p><l>lid<s n="n"/></l><r>palpebra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lie<s n="n"/></l><r>bugia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lieutenant<s n="n"/></l><r>tenente<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>life<s n="n"/></l><r>vita<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>life<b/>style<s n="n"/></l><r>stile<g><b/>di<b/>vita</g><s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>lift<s n="n"/></l><r>ascensore<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>elevator<n></l><r>ascensore<n><m></r></e>).-->
-    <e i="yes"><p><l>lift<s n="n"/></l><r>impulso<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>boost<n></l><r>impulso<n><m></r></e>).-->
+    <e r="LR"><p><l>life<b/>style<s n="n"/></l><r>stile<g><b/>di<b/>vita</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lifestyle<s n="n"/></l><r>stile<g><b/>di<b/>vita<g/><s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>lift<s n="n"/></l><r>ascensore<s n="n"/><s n="m"/></r></p></e>
+    <e i="yes"><p><l>lift<s n="n"/></l><r>impulso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ligament<s n="n"/></l><r>legamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>light<s n="n"/></l><r>luce<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lighter<s n="n"/></l><r>accendino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lighthouse<s n="n"/></l><r>faro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lightning<b/>conductor<s n="n"/></l><r>parafulmine<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>lime<s n="n"/></l><r>lima<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>file<n></l><r>lima<n><f></r></e>).-->
+    <e r="LR"><p><l>lime<s n="n"/></l><r>lima<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>limestone<s n="n"/></l><r>calcare<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>limit<s n="n"/></l><r>limite<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>limitation<s n="n"/></l><r>limitazione<s n="n"/><s n="f"/></r></p></e>
@@ -17081,7 +17082,7 @@
     <e><p><l>linguistics<s n="n"/></l><r>linguistica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>link<s n="n"/></l><r>collegamento<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>link<s n="n"/></l><r>tramite<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>linkage<s n="n"/></l><r>connessione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>connection<n></l><r>connessione<n><f></r></e>).-->
+    <e r="LR"><p><l>linkage<s n="n"/></l><r>connessione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>linoleum<s n="n"/></l><r>linoleum<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>lion<s n="n"/></l><r>leone<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>lion<s n="n"/></l><r>leone<s n="n"/></r></p></e>
@@ -17106,7 +17107,7 @@
     <e><p><l>little<b/>finger<s n="n"/></l><r>dito<b/>mignolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>liturgy<s n="n"/></l><r>liturgia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>liver<s n="n"/></l><r>fegato<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>livestock<s n="n"/></l><r>bestiame<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>cattle<n></l><r>bestiame<n><m></r></e>).-->
+    <e r="LR"><p><l>livestock<s n="n"/></l><r>bestiame<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>llama<s n="n"/></l><r>lama<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>load<s n="n"/></l><r>carica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>local<b/>mafia<s n="n"/></l><r>camorra<s n="n"/><s n="f"/></r></p></e>
@@ -17119,11 +17120,11 @@
     <e r="RL"><p><l>grand<b/>master<s n="n"/></l><r>gran<b/>maestro<s n="n"/></r></p></e>
     <e><p><l>backup<s n="n"/></l><r>riserva<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>LASIK<s n="n"/><s n="acr"/></l><r>LASIK<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>location<s n="n"/></l><r>ubicazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>location<n></l><r>localizzazione<n><f></r></e>).-->
+    <e r="RL"><p><l>location<s n="n"/></l><r>ubicazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>location<s n="n"/></l><r>collocazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>location<n></l><r>localizzazione<n><f></r></e>).-->
     <e><p><l>locative<s n="n"/></l><r>locativo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lock<s n="n"/></l><r>serratura<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>lockup<s n="n"/></l><r>prigione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>jail<n></l><r>prigione<n><f></r></e>).-->
+    <e r="LR"><p><l>lockup<s n="n"/></l><r>prigione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>locomotion<s n="n"/></l><r>locomozione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>locomotive<s n="n"/></l><r>locomotiva<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>loge<s n="n"/></l><r>palco<s n="n"/><s n="m"/></r></p></e>
@@ -17170,7 +17171,7 @@
     <e><p><l>lyricism<s n="n"/></l><r>lirismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>macaroni<s n="n"/></l><r>maccherone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>machination<s n="n"/></l><r>macchinazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>machine<s n="n"/></l><r>macchina<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>auto<n></l><r>macchina<n><f></r></e>).-->
+    <e slr="macchina D"><p><l>machine<s n="n"/></l><r>macchina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>machine<b/>translation<s n="n"/></l><r>traduzione<b/>automatica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>machinery<s n="n"/></l><r>macchinario<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mackerel<s n="n"/></l><r>sgombro<s n="n"/><s n="m"/></r></p></e>
@@ -21074,6 +21075,7 @@
     <e><p><l>feng<b/>shui<s n="n"/></l><r>feng<b/>shui<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>methylated<b/>spirit<s n="n"/></l><r>alcool<b/>denaturato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>electoral<b/>prince<s n="n"/></l><r>principe<b/>elettore<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>prince-elector<s n="n"/></l><r>principe<b/>elettore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>electoral<b/>princess<s n="n"/></l><r>principe<b/>elettore<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>exchange<b/>rate<s n="n"/></l><r>tasso<g><b/>di<b/>cambio</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>swine<b/>flu<s n="n"/></l><r>influenza<b/>suina<s n="n"/><s n="f"/></r></p></e>
@@ -24551,6 +24553,19 @@
     <e><p><l>anemone<s n="n"/></l><r>anemone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aneurism<s n="n"/></l><r>aneurisma<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>angioma<s n="n"/></l><r>angioma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>aluminothermy<s n="n"/></l><r>alluminotermia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>electroscope<s n="n"/></l><r>elettroscopio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>microscope<s n="n"/></l><r>microscopio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ophthalmoscope<s n="n"/></l><r>oftalmoscopio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>oscilloscope<s n="n"/></l><r>oscilloscopio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>periscope<s n="n"/></l><r>periscopio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>phonendoscope<s n="n"/></l><r>fonendoscopio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>stethoscope<s n="n"/></l><r>stetofonendoscopio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>etymon<s n="n"/></l><r>etimo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>palaeoclimatology<s n="n"/></l><r>paleoclimatologia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>palaeontologist<s n="n"/></l><r>paleontologia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>podiatry<s n="n"/></l><r>podologia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>teleology<s n="n"/></l><r>teleologia<s n="n"/><s n="f"/></r></p></e>
 
 
     <!-- ******************************
