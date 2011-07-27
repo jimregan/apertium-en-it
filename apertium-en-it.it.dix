@@ -655,7 +655,7 @@
     <e>
       <p>
         <l>le</l>
-        <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></r>
+        <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -805,7 +805,7 @@
     <e>
       <p>
         <l>le</l>
-        <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></r>
+        <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -889,7 +889,7 @@
     <e>
       <p>
         <l>mi</l>
-        <r>mi<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="sg"/></r>
+        <r>prpers<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -967,7 +967,7 @@
     <e>
       <p>
         <l>le</l>
-        <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></r>
+        <r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -71757,9 +71757,6 @@
         <r><s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r>
       </p>
     </e>
-
-
-
     </pardef>
     <pardef n="lobb/y__n">
     <e>
@@ -91585,7 +91582,7 @@
     <e lm="il vostro"><par n="/il_vostro__prn"/></e>
     <e lm="il resto"><i>il<b/>resto</i><par n="qualcosa__prn"/></e>
     <e lm="io"><p><l>io</l><r>prpers</r></p><par n="io__prn"/></e>
-    <e lm="le"><p><l>le</l><r>prpers</r></p><par n="le__prn"/></e>
+    <e lm="le" r="LR"><p><l>le</l><r>prpers</r></p><par n="le__prn"/></e>
     <e lm="me"><i>me</i><par n="io__prn"/></e>
     <e r="LR" lm="meco"><i>meco</i><par n="io__prn"/></e>
     <e r="LR" lm="mi"><p><l>mi</l><r>prpers</r></p><par n="mi__prn"/></e>
