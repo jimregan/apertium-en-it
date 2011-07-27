@@ -96230,6 +96230,7 @@
     <e lm="etimo"><i>etim</i><par n="abbain/o__n"/></e>
     <e lm="prestito"><i>prestit</i><par n="abbain/o__n"/></e>
     <e lm="telaio"><i>telai</i><par n="abbagli/o__n"/></e>
+    <e lm="trapezio"><i>trapezi</i><par n="abbagli/o__n"/></e>
     <e lm="antalgico"><i>antalgic</i><par n="abbagli/o__n"/></e>
     <e lm="analgesico"><i>analgesic</i><par n="abbagli/o__n"/></e>
     <e lm="ammonio"><i>ammoni</i><par n="abbagli/o__n"/></e>
@@ -96457,6 +96458,10 @@
     <e lm="alba"><i>alb</i><par n="cas/a__n"/></e>
     <e lm="besciamella"><i>besciamell</i><par n="cas/a__n"/></e>
     <e lm="albanese"><i>albanes</i><par n="albanes/e__n"/></e>
+    <e lm="querelante"><i>querelant</i><par n="albanes/e__n"/></e>
+    <e lm="burlone"><i>burlon</i><par n="albanes/e__n"/></e>
+    <e lm="infinito"><i>infinit</i><par n="abbain/o__n"/></e>
+    <e lm="gocciolina"><i>gocciolin</i><par n="cas/a__n"/></e>
     <e lm="canadese"><i>canades</i><par n="albanes/e__n"/></e>
     <e lm="albatros"><i>albatros</i><par n="albatros__n"/></e>
     <e lm="km"><i>km</i><par n="shampoo__n"/></e>
@@ -96503,6 +96508,7 @@
     <e lm="aerosol"><i>aerosol</i><par n="albatros__n"/></e>
     <e lm="caccia"><i>caccia</i><par n="albatros__n"/></e>
     <e lm="guancia"><i>guanc</i><par n="guanc/ia__n"/></e>
+    <e lm="roccia"><i>rocc</i><par n="guanc/ia__n"/></e>
     <e lm="capofamiglia"><i>cap</i><par n="cap/ofamiglia__n"/></e>
     <e lm="aerologia"><i>aerologi</i><par n="cas/a__n"/></e>
     <e lm="paleoclimatologia"><i>paleoclimatologi</i><par n="cas/a__n"/></e>
@@ -97248,6 +97254,8 @@
     <e lm="cartilagine"><i>cartilagin</i><par n="abbreviazion/e__n"/></e>
     <e lm="cartina"><i>cartin</i><par n="cas/a__n"/></e>
     <e lm="cartuccia"><i>cartucc</i><par n="alzatacc/ia__n"/></e>
+    <e lm="fonema"><i>fonem</i><par n="cas/a__n"/></e>
+    <e lm="archifonema"><i>archifonem</i><par n="cas/a__n"/></e>
     <e lm="casa"><i>cas</i><par n="cas/a__n"/></e>
     <e lm="analgesia"><i>analgesi</i><par n="cas/a__n"/></e>
     <e lm="odisssea"><i>odisse</i><par n="cas/a__n"/></e>
@@ -101085,6 +101093,7 @@
     <e lm="volt"><i>volt</i><par n="albatros__n"/></e>
     <e lm="zip"><i>zip</i><par n="albatros__n"/></e>
     <e lm="tesla"><i>tesla</i><par n="albatros__n"/></e>
+    <e lm="rock"><i>rock</i><par n="albatros__n"/></e>
     <e lm="cava"><i>cav</i><par n="cas/a__n"/></e>
     <e lm="sopracciglio"><i>sopraccigli</i><par n="bracci/o__n"/></e>
     <e lm="collettivo"><i>collettiv</i><par n="abbain/o__n"/></e>
@@ -105615,6 +105624,8 @@
     <e lm="principe elettore"><p><l>principesse<b/>elettriche</l><r>principe<b/>elettore<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="ballerina bianca"><p><l>ballerina<b/>bianca</l><r>ballerina<b/>bianca<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="ballerina bianca"><p><l>ballerine<b/>bianche</l><r>ballerina<b/>bianca<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="roccia viva"><p><l>roccia<b/>viva</l><r>roccia<b/>viva<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="roccia viva"><p><l>rocce<b/>vive</l><r>roccia<b/>viva<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="carro armato"><p><l>carro<b/>armato</l><r>carro<b/>armato<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="carro armato"><p><l>carri<b/>armati</l><r>carro<b/>armato<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="afta epizootica"><p><l>afta<b/>epizootica</l><r>afta<b/>epizootica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -109804,6 +109815,8 @@
     <e lm="variscite"><i>variscit</i><par n="abat/e__n"/></e>
     <e lm="wulfenite"><i>wulfenit</i><par n="abat/e__n"/></e>
     <e lm="zeolite"><i>zeolit</i><par n="abat/e__n"/></e>
+    <e lm="zigote"><i>zigot</i><par n="abbreviazion/e__n"/></e>
+    <e lm="curculione"><i>curculion</i><par n="abat/e__n"/></e>
   </section>
   <section id="apostrophes" type="postblank">
 
