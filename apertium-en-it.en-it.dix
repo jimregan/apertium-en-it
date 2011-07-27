@@ -440,6 +440,14 @@
       ****************************** -->
     <e r="RL"><p><l>American<s n="adj"/></l><r>statunitense<s n="adj"/></r></p></e>
     <e><p><l>Anglican<s n="adj"/></l><r>anglicano<s n="adj"/></r></p></e>
+    <e><p><l>lucrative<s n="adj"/></l><r>lucrativo<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>yielding<s n="adj"/></l><r>lucrativo<s n="adj"/></r></p></e>
+    <e><p><l>circular<s n="adj"/></l><r>circolare<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>conceptualist<s n="adj"/></l><r>concettualista<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>constructivist<s n="adj"/></l><r>construttivista<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>blackmailer<s n="adj"/></l><r>ricattatore<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>blackmailer<s n="n"/></l><r>ricattatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>blackmailer<s n="n"/></l><r>ricattatore<s n="n"/></r></p></e>
     <e><p><l>Asturian<s n="adj"/></l><r>asturiano<s n="adj"/></r></p></e>
     <e><p><l>Castilian<s n="adj"/></l><r>castiglionese<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>ethiopian<s n="adj"/></l><r>etiope<s n="adj"/><s n="mf"/></r></p></e>
@@ -21188,7 +21196,7 @@
     <e><p><l>all<b/>of<b/>a<b/>sudden<s n="adv"/></l><r>all&apos;improvviso<s n="adv"/></r></p></e>
     <e><p><l>all<b/>over<s n="adv"/></l><r>da<b/>tutte<b/>le<b/>parti<s n="adv"/></r></p></e>
     <e><p><l>all<b/>over<b/>the<b/>world<s n="adv"/></l><r>in<b/>tutto<b/>il<b/>mondo<s n="adv"/></r></p></e>
-    <e><p><l>all<b/>right<s n="adv"/></l><r>bene<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>all<b/>right<s n="adv"/></l><r>bene<s n="adv"/></r></p></e>
     <e><p><l>all<b/>the<b/>better<s n="adv"/></l><r>molto<b/>meglio<s n="adv"/></r></p></e>
     <e><p><l>all<b/>the<b/>less<s n="adv"/></l><r>molto<b/>meno<s n="adv"/></r></p></e>
     <e><p><l>all<b/>the<b/>more<s n="adv"/></l><r>molto<b/>più<s n="adv"/></r></p></e>
@@ -21198,7 +21206,7 @@
     <e><p><l>aloft<s n="adv"/></l><r>sopra<s n="adv"/></r></p></e>
     <e><p><l>alone<s n="adv"/></l><r>soltanto<s n="adv"/></r></p></e>
     <e><p><l>already<s n="adv"/></l><r>già<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>alright<s n="adv"/></l><r>bene<s n="adv"/></r></p></e><!--  autorestricted (<e><l>all<b/>right<adv></l><r>bene<adv></r></e>).-->
+    <e r="LR"><p><l>alright<s n="adv"/></l><r>bene<s n="adv"/></r></p></e>
     <e><p><l>also<s n="adv"/></l><r>anche<s n="adv"/></r></p></e>
     <e><p><l>alternatively<s n="adv"/></l><r>alternativamente<s n="adv"/></r></p></e>
     <e><p><l>always<s n="adv"/></l><r>sempre<s n="adv"/></r></p></e>
@@ -21457,7 +21465,7 @@
     <e i="yes"><p><l>finally<s n="adv"/></l><r>infine<s n="adv"/></r></p></e><!--  autorestricted (<e><l>at<b/>last<adv></l><r>infine<adv></r></e>).-->
     <e><p><l>finally<s n="adv"/></l><r>finalmente<s n="adv"/></r></p></e>
     <e><p><l>financially<s n="adv"/></l><r>finanziariamente<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>fine<s n="adv"/></l><r>bene<s n="adv"/></r></p></e><!--  autorestricted (<e><l>all<b/>right<adv></l><r>bene<adv></r></e>).-->
+    <e r="LR"><p><l>fine<s n="adv"/></l><r>bene<s n="adv"/></r></p></e>
     <e><p><l>firmly<s n="adv"/></l><r>fermamente<s n="adv"/></r></p></e>
     <e r="RL"><p><l>firmly<s n="adv"/></l><r>saldamente<s n="adv"/></r></p></e>
     <e><p><l>first<s n="adv"/></l><r>primo<s n="adv"/></r></p></e>
@@ -21515,7 +21523,7 @@
     <e><p><l>geometrically<s n="adv"/></l><r>geometricamente<s n="adv"/></r></p></e>
     <e><p><l>gloriously<s n="adv"/></l><r>gloriosamente<s n="adv"/></r></p></e>
     <e r="RL"><p><l>good<s n="adj"/><s n="sint"/><s n="comp"/></l><r>migliore<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>good<s n="adv"/></l><r>bene<s n="adv"/></r></p></e><!--  autorestricted (<e><l>all<b/>right<adv></l><r>bene<adv></r></e>).-->
+    <e><p><l>good<s n="adv"/></l><r>bene<s n="adv"/></r></p></e>
     <e><p><l>good-naturedly<s n="adv"/></l><r>bonariamente<s n="adv"/></r></p></e>
     <e r="LR"><p><l>gradually<s n="adv"/></l><r>gradualmente<s n="adv"/></r></p></e><!--  autorestricted (<e><l>by<b/>degrees<adv></l><r>gradualmente<adv></r></e>).-->
     <e><p><l>gratefully<s n="adv"/></l><r>gratamente<s n="adv"/></r></p></e>
