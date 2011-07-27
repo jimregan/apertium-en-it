@@ -12085,6 +12085,8 @@
     <e><p><l>beta<s n="n"/></l><r>beta<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>bookseller<s n="n"/></l><r>libraio<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>bookseller<s n="n"/></l><r>libraio<s n="n"/></r></p></e>
+    <e r="LR"><p><l>beggar<s n="n"/></l><r>accattone<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>beggar<s n="n"/></l><r>accattone<s n="n"/></r></p></e>
     <e r="LR"><p><l>twin<s n="n"/></l><r>gemello<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>twin<s n="n"/></l><r>gemello<s n="n"/></r></p></e>
     <e><p><l>antiderivative<s n="n"/></l><r>primitiva<s n="n"/><s n="f"/></r></p></e>
@@ -12753,6 +12755,8 @@
     <e r="LR"><p><l>agrochemist<s n="n"/></l><r>agrochimico<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>agrochemist<s n="n"/></l><r>agrochimico<s n="n"/></r></p></e>
     <e><p><l>agroecology<s n="n"/></l><r>agroecologia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>autoecology<s n="n"/></l><r>autoecologia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aerology<s n="n"/></l><r>aerologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>agrology<s n="n"/></l><r>agrologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>agronomy<s n="n"/></l><r>agronomia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aid<s n="n"/></l><r>aiuto<s n="n"/><s n="m"/></r></p></e>
@@ -18020,6 +18024,10 @@
     <e><p><l>palaeography<s n="n"/></l><r>paleografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palaeomagnetism<s n="n"/></l><r>paleomagnetismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>palaeontology<s n="n"/></l><r>paleontologia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>micropalaeontology<s n="n"/></l><r>micropaleontologia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>paroemiology<s n="n"/></l><r>paremiologia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>potamology<s n="n"/></l><r>potamologia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>phytopathology<s n="n"/></l><r>fitopatologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palatalisation<s n="n"/></l><r>palatalizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palate<s n="n"/></l><r>palato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>palimpsest<s n="n"/></l><r>palinsesto<s n="n"/><s n="m"/></r></p></e>
@@ -24601,7 +24609,7 @@
     <e><p><l>congolese<s n="n"/></l><r>congolese<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>icelandic<s n="n"/></l><r>islandese<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>cypriot<s n="n"/></l><r>cipriota<s n="n"/><s n="mf"/></r></p></e>
-    <e><p><l>falangist<s n="n"/></l><r>falangista<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>Falangist<s n="n"/></l><r>falangista<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>jacobite<s n="n"/></l><r>jacobita<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>latvian<s n="n"/></l><r>lettone<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>lebanese<s n="n"/></l><r>libanese<s n="n"/><s n="mf"/></r></p></e>
