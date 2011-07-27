@@ -83237,6 +83237,7 @@
     <e lm="trapezio"><i>trapezi</i><par n="abbagli/o__n"/></e>
     <e lm="carro"><i>carr</i><par n="abbain/o__n"/></e>
     <e lm="ampere"><i>amper</i><par n="abat/e__n"/></e>
+    <e lm="bacile"><i>bacil</i><par n="abat/e__n"/></e>
     <e lm="angioma"><i>angiom</i><par n="angiom/a__n"/></e>
     <e lm="aneurisma"><i>aneurism</i><par n="angiom/a__n"/></e>
     <e lm="anemone"><i>anemon</i><par n="abat/e__n"/></e>
@@ -84426,6 +84427,7 @@
     <e lm="clima"><i>clim</i><par n="autom/a__n"/></e>
     <e lm="climatologia"><i>climatologi</i><par n="cas/a__n"/></e>
     <e lm="clone"><i>clon</i><par n="abat/e__n"/></e>
+    <e lm="agrume"><i>agrum</i><par n="abat/e__n"/></e>
     <e lm="clonazione"><i>clonazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="cloro"><i>clor</i><par n="abbain/o__n"/></e>
     <e lm="club"><i>club</i><par n="affaire__n"/></e>
@@ -87156,6 +87158,7 @@
     <e lm="raccolta"><i>raccolt</i><par n="cas/a__n"/></e>
     <e lm="raccolto"><i>raccolt</i><par n="abbain/o__n"/></e>
     <e lm="radar"><i>radar</i><par n="albatros__n"/></e>
+    <e lm="radio" r="RL"><i>radio</i><par n="albatros__n"/></e>
     <e lm="radazza"><i>radazz</i><par n="cas/a__n"/></e>
     <e lm="radio"><i>radio</i><par n="abilità__n"/></e>
     <e lm="radiazione"><i>radiazion</i><par n="abbreviazion/e__n"/></e>
@@ -92597,6 +92600,8 @@
     <e lm="fuso orario"><p><l>fusi<b/>orari</l><r>fuso<b/>orario<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="grano saraceno"><p><l>grano<b/>saraceno</l><r>grano<b/>saraceno<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="grano saraceno"><p><l>grani<b/>saraceni</l><r>grano<b/>saraceno<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="bacino fluviale"><p><l>bacino<b/>fluviale</l><r>bacino<b/>fluviale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="bacino fluviale"><p><l>bacini<b/>fluviali</l><r>bacino<b/>fluviale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="salice piangente"><p><l>salice<b/>piangente</l><r>salice<b/>piangente<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="salice piangente"><p><l>salici<b/>piangenti</l><r>salice<b/>piangente<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="essere umano"><p><l>essere<b/>umano</l><r>essere<b/>umano<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
