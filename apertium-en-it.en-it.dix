@@ -24640,6 +24640,8 @@
     <e r="RL"><p><l>gibraltarian<s n="n"/></l><r>gibilterrino<s n="n"/></r></p></e>
     <e r="LR"><p><l>goth<s n="n"/></l><r>goto<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>goth<s n="n"/></l><r>goto<s n="n"/></r></p></e>
+    <e r="LR"><p><l>visigoth<s n="n"/></l><r>visigoto<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>visigoth<s n="n"/></l><r>visigoto<s n="n"/></r></p></e>
     <e r="LR"><p><l>kenyan<s n="n"/></l><r>keniano<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>kenyan<s n="n"/></l><r>keniano<s n="n"/></r></p></e>
     <e r="LR"><p><l>majorcan<s n="n"/></l><r>maiorchino<s n="n"/><s n="GD"/></r></p></e>
@@ -24658,6 +24660,65 @@
     <e r="RL"><p><l>ukrainian<s n="n"/></l><r>ucraino<s n="n"/></r></p></e>
     <e r="LR"><p><l>valencian<s n="n"/></l><r>valenziano<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>valencian<s n="n"/></l><r>valenziano<s n="n"/></r></p></e>
+    <e><p><l>apr.<s n="n"/></l><r>apr.<s n="n"/><s n="m"/></r></p></e>
+    <!-- assuming masculine for all of these. Caveat emptor. -->
+    <e><p><l>aragonite<s n="n"/></l><r>aragonite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>augite<s n="n"/></l><r>augite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>austenite<s n="n"/></l><r>austenite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>azurite<s n="n"/></l><r>azzurrite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bakelite<s n="n"/></l><r>bachelite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>biotite<s n="n"/></l><r>biotite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>boracite<s n="n"/></l><r>boracite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bornite<s n="n"/></l><r>bornite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>brucite<s n="n"/></l><r>brucite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>calcite<s n="n"/></l><r>calcite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>carnallite<s n="n"/></l><r>carnallite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cassiterite<s n="n"/></l><r>cassiterite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cementite<s n="n"/></l><r>cementite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>chromite<s n="n"/></l><r>cromite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>colemanite<s n="n"/></l><r>colemanite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cuprite<s n="n"/></l><r>cuprite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>dacite<s n="n"/></l><r>dacite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>diorite<s n="n"/></l><r>diorite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>fluorite<s n="n"/></l><r>fluorite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>granodiorite<s n="n"/></l><r>granodiorite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>graphite<s n="n"/></l><r>grafite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>halite<s n="n"/></l><r>halite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>jadeite<s n="n"/></l><r>giadeite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>jarosite<s n="n"/></l><r>jarosite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kaolinite<s n="n"/></l><r>caolinite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kimberlite<s n="n"/></l><r>kimberlite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>laterite<s n="n"/></l><r>laterite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lazurite<s n="n"/></l><r>lazurite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lepidocrocite<s n="n"/></l><r>lepidocrocite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lepidolite<s n="n"/></l><r>lepidolite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>limonite<s n="n"/></l><r>limonite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>magnetite<s n="n"/></l><r>magnetite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>malachite<s n="n"/></l><r>malachite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>marcasite<s n="n"/></l><r>marcasite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mirabilite<s n="n"/></l><r>mirabilite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>muscovite<s n="n"/></l><r>muscovite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>nontronite<s n="n"/></l><r>nontronite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pegmatite<s n="n"/></l><r>pegmatite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>peridotite<s n="n"/></l><r>peridotite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>petalite<s n="n"/></l><r>petalite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pollucite<s n="n"/></l><r>pollucite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>proustite<s n="n"/></l><r>proustite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>saponite<s n="n"/></l><r>saponite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>scheelite<s n="n"/></l><r>scheelite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>selenite<s n="n"/></l><r>selenite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>siderite<s n="n"/></l><r>siderite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sphalerite<s n="n"/></l><r>sfalerite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>stalactite<s n="n"/></l><r>stalattite<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>stalagmite<s n="n"/></l><r>stalagmite<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>steatite<s n="n"/></l><r>steatite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>theodolite<s n="n"/></l><r>teodolite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tillite<s n="n"/></l><r>tillite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>titanite<s n="n"/></l><r>titanite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tremolite<s n="n"/></l><r>tremolite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>variscite<s n="n"/></l><r>variscite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>wulfenite<s n="n"/></l><r>wulfenite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>zeolite<s n="n"/></l><r>zeolite<s n="n"/><s n="m"/></r></p></e>
 
 
     <!-- ******************************
