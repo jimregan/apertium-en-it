@@ -89736,7 +89736,7 @@
     <e lm="mammifero"><i>mammifer</i><par n="abbandonat/o__adj"/></e>
     <e lm="maniaco"><i>maniac</i><par n="tecnic/o__adj"/></e>
     <e lm="manoscritto"><i>manoscritt</i><par n="abbandonat/o__adj"/></e>
-    <e lm="scritto con un trattino"><i>manoscritt</i><par n="abbandonat/o__adj"/><p><l><b/>con<b/>un<b/>trattino</l><r><g><b/>con<b/>un<b/>trattino</g></r></p></e>
+    <e lm="scritto con un trattino"><i>scritt</i><par n="abbandonat/o__adj"/><p><l><b/>con<b/>un<b/>trattino</l><r><g><b/>con<b/>un<b/>trattino</g></r></p></e>
     <e lm="marginale"><i>marginal</i><par n="albanes/e__adj"/></e>
     <e lm="marinaio"><i>marina</i><par n="marina/io__adj"/></e>
     <e lm="maritale"><i>marital</i><par n="albanes/e__adj"/></e>
@@ -93961,6 +93961,9 @@
     <e lm="memorandum"><i>memorandum</i><par n="albatros__n"/></e>
     <e lm="berillio"><i>berillio</i><par n="albatros__n"/></e>
     <e lm="berkelio"><i>berkelio</i><par n="albatros__n"/></e>
+    <e lm="visir"><i>visir</i><par n="albatros__n"/></e>
+    <e lm="gran visir" r="LR"><i>gran<b/>visir</i><par n="albatros__n"/></e>
+    <e lm="gran visir" r="RL"><p><l>Gran<b/>Visir</l><r>gran<b/>visir</r></p><par n="albatros__n"/></e>
     <e lm="ablativo"><i>ablativ</i><par n="abbain/o__n"/></e>
     <e lm="accelerometro"><i>accelerometr</i><par n="abbain/o__n"/></e>
     <e lm="accompagnamento"><i>accompagnament</i><par n="abbain/o__n"/></e>
@@ -96813,6 +96816,7 @@
     <e lm="fluoro"><i>fluor</i><par n="abbain/o__n"/></e>
     <e lm="sesamo"><i>sesam</i><par n="abbain/o__n"/></e>
     <e lm="tungsteno"><i>tungsten</i><par n="abbain/o__n"/></e>
+    <e lm="tarlo"><i>tarl</i><par n="abbain/o__n"/></e>
     <e lm="asiatico"><i>asiatic</i><par n="cosmetic/o__n"/></e>
     <e lm="europeo"><i>europe</i><par n="bambin/o__n"/></e>
     <e lm="siriano"><i>sirian</i><par n="bambin/o__n"/></e>
@@ -96922,6 +96926,7 @@
     <e lm="wulfenite"><i>wulfenit</i><par n="abat/e__n"/></e>
     <e lm="zeolite"><i>zeolit</i><par n="abat/e__n"/></e>
     <e lm="zigote"><i>zigot</i><par n="abbreviazion/e__n"/></e>
+    <e lm="eterozigote"><i>eterozigot</i><par n="abbreviazion/e__n"/></e>
     <e lm="curculione"><i>curculion</i><par n="abat/e__n"/></e>
     <e lm="astensionista"><i>astensionist</i><par n="suicid/a__adj"/></e>
     <e lm="altruista"><i>altruist</i><par n="suicid/a__adj"/></e>

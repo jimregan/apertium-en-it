@@ -32874,6 +32874,8 @@
     <e lm="insectivorous"><i>insectivorous</i><par n="expensive__adj"/>     </e>
     <e lm="vivisection"><i>vivisection</i><par n="house__n"/>     </e>
     <e lm="vizier"><i>vizier</i><par n="house__n"/>     </e>
+    <e lm="grand vizier" r="LR"><i>grand<b/>vizier</i><par n="house__n"/>     </e>
+    <e lm="grand vizier" r="RL"><p><l>Grand<b/>Vizier</l><r>grand<b/>vizier</r></p><par n="house__n"/>     </e>
     <e lm="vocalic"><i>vocalic</i><par n="expensive__adj"/>     </e>
     <e lm="vocalism"><i>vocalism</i><par n="house__n"/>     </e>
     <e lm="vocalization"><i>vocali</i><par n="globali/sation__n"/>     </e>
