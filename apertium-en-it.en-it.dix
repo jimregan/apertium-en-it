@@ -20135,6 +20135,14 @@
     <e r="LR"><p><l>task<s n="n"/></l><r>lavoro<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>task<s n="n"/></l><r>mansione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>task<n></l><r>lavoro<n><m></r></e>).-->
     <e><p><l>taste<s n="n"/></l><r>gusto<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>flavour<s n="n"/></l><r>gusto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>flocculus<s n="n"/></l><r>floculo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>chiasmus<s n="n"/></l><r>chiasmo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tenesmus<s n="n"/></l><r>tenesmo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>thalamus<s n="n"/></l><r>talamo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>thistle<s n="n"/></l><r>cardo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mammoth<s n="n"/></l><r>mammut<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>streptococcus<s n="n"/></l><r>streptococco<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tasting<s n="n"/></l><r>degustazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tautology<s n="n"/></l><r>tautologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tavern<s n="n"/></l><r>taverna<s n="n"/><s n="f"/></r></p></e>
@@ -20219,6 +20227,18 @@
     <e r="LR"><p><l>test<s n="n"/></l><r>prova<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>proof<n></l><r>prova<n><f></r></e>).-->
     <e><p><l>tetrarchy<s n="n"/></l><r>tetrarchia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>text<s n="n"/></l><r>testo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>interval<s n="n"/></l><r>intervallo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>hiatus<s n="n"/></l><r>intervallo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>dromedary<s n="n"/></l><r>dromedario<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bronchus<s n="n"/></l><r>bronco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cactus<s n="n"/></l><r>cactus<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>mucus<s n="n"/></l><r>muco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>estrus<s n="n"/></l><r>estro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>coitus<s n="n"/></l><r>coitus<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e r="RL"><p><l>coitus<s n="n"/></l><r>coito<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pineapple<s n="n"/></l><r>ananas<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e r="RL"><p><l>pineapple<s n="n"/></l><r>ananasso<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>colossus<s n="n"/></l><r>colosso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>thalassocracy<s n="n"/></l><r>talassocrazia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>thaw<s n="n"/></l><r>disgelo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>theatre<s n="n"/></l><r>teatro<s n="n"/><s n="m"/></r></p></e>
