@@ -12126,8 +12126,12 @@
       ****************************** -->
     <e><p><l>asset<s n="n"/></l><r>vantaggio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>self-defence<s n="n"/></l><r>autodifesa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ravine<s n="n"/></l><r>gravina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hexakosioihexekontahexaphobia<s n="n"/></l><r>hexakosioihexekontahexafobia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>atrium<s n="n"/></l><r>atrio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>xenon<s n="n"/></l><r>xeno<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>zodiac<s n="n"/></l><r>zodiaco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>yoke<s n="n"/></l><r>giogo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>agnosia<s n="n"/></l><r>agnosia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>agora<s n="n"/></l><r>agorà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>albite<s n="n"/></l><r>albite<s n="n"/><s n="f"/></r></p></e>
@@ -16508,7 +16512,8 @@
     <e><p><l>hyperplasia<s n="n"/></l><r>iperplasia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hyperpyrexia<s n="n"/></l><r>iperpiressia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hyperthermia<s n="n"/></l><r>ipertermia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>hyphen<s n="n"/></l><r>sceneggiatura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hyphen<s n="n"/></l><r>trattino<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hyphenated<s n="adj"/></l><r>scritto<g><b/>con<b/>un<b/>trattino</g><s n="adj"/></r></p></e>
     <e r="RL"><p><l>hypnosis<s n="n"/><s n="ND"/></l><r>ipnosi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>hypnosis<s n="n"/><s n="sg"/></l><r>ipnosi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>hypnosis<s n="n"/><s n="pl"/></l><r>ipnosi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -19412,11 +19417,12 @@
     <e><p><l>scrap<s n="n"/></l><r>spazzatura<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>scream<s n="n"/><s n="sg"/></l><r>grido<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>scream<s n="n"/><s n="pl"/></l><r>grido<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-    <e r="LR"><p><l>screen<s n="n"/></l><r>schermo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>monitor<n></l><r>schermo<n><m></r></e>).-->
-    <e r="LR"><p><l>screening<s n="n"/></l><r>esplorazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>exploration<n></l><r>esplorazione<n><f></r></e>).-->
-    <e><p><l>screw<s n="n"/></l><r>vite<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>screen<s n="n"/></l><r>schermo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>screening<s n="n"/></l><r>esplorazione<s n="n"/><s n="f"/></r></p></e>
+    <e srl="screw D"><p><l>screw<s n="n"/></l><r>vite<s n="n"/><s n="f"/></r></p></e>
+    <e srl="vine"><p><l>vine<s n="n"/></l><r>vite<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>screwdriver<s n="n"/></l><r>cacciavite<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>script<s n="n"/></l><r>sceneggiatura<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>hyphen<n></l><r>sceneggiatura<n><f></r></e>).-->
+    <e><p><l>script<s n="n"/></l><r>sceneggiatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>scrotum<s n="n"/></l><r>scroto<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>sculptor<s n="n"/></l><r>scultore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>sculptor<s n="n"/></l><r>scultore<s n="n"/></r></p></e>

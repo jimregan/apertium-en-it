@@ -86382,6 +86382,7 @@
     <e lm="omeopatia"><i>omeopati</i><par n="cas/a__n"/></e>
     <e lm="omicidio"><i>omicidi</i><par n="abbagli/o__n"/></e>
     <e lm="omofobia"><i>omofobi</i><par n="cas/a__n"/></e>
+    <e lm="hexakosioihexekontahexafobia"><i>hexakosioihexekontahexafobi</i><par n="cas/a__n"/></e>
     <e lm="omologazione"><i>omologazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="omosessuale"><i>omosessual</i><par n="abat/e__n"/></e>
     <e lm="omosessualità"><i>omosessualità</i><par n="abilità__n"/></e>
@@ -86389,6 +86390,8 @@
     <e lm="onnivoro"><i>onnivor</i><par n="bambin/o__n"/></e>
     <e lm="onore"><i>onor</i><par n="abat/e__n"/></e>
     <e lm="onorario"><i>onorari</i><par n="abbain/o__n"/></e>
+    <e lm="xeno"><i>xen</i><par n="abbain/o__n"/></e>
+    <e lm="zodiaco"><i>zodiac</i><par n="abbain/o__n"/></e>
     <e lm="opera"><i>oper</i><par n="cas/a__n"/></e>
     <e lm="operaio"><i>operai</i><par n="mugnai/o__n"/></e>
     <e lm="operatore"><i>operat</i><par n="agricolt/ore__n"/></e>
@@ -86477,10 +86480,12 @@
     <e lm="palo"><i>pal</i><par n="abbain/o__n"/></e>
     <e lm="palazzo"><i>palazz</i><par n="abbain/o__n"/></e>
     <e lm="palco"><i>palc</i><par n="fung/o__n"/></e>
+    <e lm="giogo"><i>giog</i><par n="fung/o__n"/></e>
     <e lm="palcoscenico"><i>palcoscenic</i><par n="abbain/o__n"/></e>
     <e lm="paletta"><i>palett</i><par n="cas/a__n"/></e>
     <e lm="palinsesto"><i>palinsest</i><par n="abbain/o__n"/></e>
     <e lm="palla"><i>pall</i><par n="cas/a__n"/></e>
+    <e lm="gravina"><i>gravin</i><par n="cas/a__n"/></e>
     <e lm="pallacanestro"><i>pallacanestro</i><par n="pallacanestro__n"/></e>
     <e lm="pallamano"><i>pallamano</i><par n="pallacanestro__n"/></e>
     <e lm="pallanuoto"><i>pallanuoto</i><par n="pallacanestro__n"/></e>
@@ -88077,6 +88082,7 @@
     <e lm="vodka"><i>vodk</i><par n="cas/a__n"/></e>
     <e lm="voglia"><i>vogli</i><par n="cas/a__n"/></e>
     <e lm="volo"><i>vol</i><par n="abbain/o__n"/></e>
+    <e lm="trattino"><i>trattin</i><par n="abbain/o__n"/></e>
     <e lm="volante"><i>volant</i><par n="abat/e__n"/></e>
     <e lm="volatile"><i>volatil</i><par n="abat/e__n"/></e>
     <e lm="volontariato"><i>volontariat</i><par n="abbain/o__n"/></e>
@@ -89730,6 +89736,7 @@
     <e lm="mammifero"><i>mammifer</i><par n="abbandonat/o__adj"/></e>
     <e lm="maniaco"><i>maniac</i><par n="tecnic/o__adj"/></e>
     <e lm="manoscritto"><i>manoscritt</i><par n="abbandonat/o__adj"/></e>
+    <e lm="scritto con un trattino"><i>manoscritt</i><par n="abbandonat/o__adj"/><p><l><b/>con<b/>un<b/>trattino</l><r><g><b/>con<b/>un<b/>trattino</g></r></p></e>
     <e lm="marginale"><i>marginal</i><par n="albanes/e__adj"/></e>
     <e lm="marinaio"><i>marina</i><par n="marina/io__adj"/></e>
     <e lm="maritale"><i>marital</i><par n="albanes/e__adj"/></e>
