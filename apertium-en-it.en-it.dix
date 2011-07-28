@@ -314,7 +314,8 @@
     <e r="LR"><p><l>his<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>suo<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>his<s n="det"/><s n="pos"/><s n="ND"/></l><r>il<b/>suo<s n="det"/><s n="pos"/></r></p></e>
     <e r="RL"><p><l>his<s n="det"/><s n="pos"/><s n="ND"/></l><r>suo<s n="det"/><s n="pos"/></r></p></e>
-    <e r="RL"><p><l>his<s n="det"/><s n="pos"/><s n="ND"/></l><r>il<b/>loro<s n="det"/><s n="pos"/></r></p></e>
+    <e r="RL"><p><l>his<s n="det"/><s n="pos"/><s n="sg"/></l><r>il<b/>loro<s n="det"/><s n="pos"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>his<s n="det"/><s n="pos"/><s n="sg"/></l><r>il<b/>loro<s n="det"/><s n="pos"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>how<b/>many<s n="det"/><s n="itg"/></l><r>quanto<s n="det"/><s n="itg"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>how<b/>many<s n="det"/><s n="itg"/><s n="pl"/></l><r>quanto<s n="det"/><s n="itg"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>how<b/>many<s n="det"/><s n="itg"/><s n="pl"/></l><r>quanto<s n="det"/><s n="itg"/><s n="f"/><s n="pl"/></r></p></e>
@@ -355,8 +356,8 @@
     <e r="RL"><p><l>other<s n="det"/><s n="ind"/><s n="pl"/></l><r>altro<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>other<s n="det"/><s n="ind"/><s n="sp"/></l><r>altro<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="LR"><p><l>our<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>nostro<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>our<s n="det"/></l><r>il<b/>nostro<s n="det"/><s n="pos"/></r></p></e>
-    <e r="RL"><p><l>our<s n="det"/></l><r>nostro<s n="det"/><s n="pos"/></r></p></e>
+    <e r="RL"><p><l>our<s n="det"/><s n="pos"/></l><r>il<b/>nostro<s n="det"/><s n="pos"/></r></p></e>
+    <e r="RL"><p><l>our<s n="det"/><s n="pos"/></l><r>nostro<s n="det"/><s n="pos"/></r></p></e>
     <e r="LR"><p><l>second<s n="det"/><s n="ord"/><s n="sp"/></l><r>secondo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>second<s n="det"/></l><r>secondo<s n="det"/></r></p></e>
     <e r="LR"><p><l>seven<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>settecentesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -1471,6 +1472,8 @@
     <e><p><l>planetary<s n="adj"/></l><r>planetario<s n="adj"/></r></p></e>
     <e><p><l>venetian<s n="adj"/></l><r>veneziano<s n="adj"/></r></p></e>
     <e><p><l>millionaire<s n="adj"/></l><r>milionario<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>millionaire<s n="n"/></l><r>milionario<s n="n"/></r></p></e>
+    <e r="LR"><p><l>millionaire<s n="n"/></l><r>milionario<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>multitudinous<s n="adj"/></l><r>multitudinario<s n="adj"/></r></p></e>
     <e><p><l>muscovite<s n="adj"/></l><r>moscovito<s n="adj"/></r></p></e>
     <e><p><l>fluorescent<s n="adj"/></l><r>fluorescente<s n="adj"/><s n="mf"/></r></p></e>
@@ -13061,6 +13064,7 @@
     <e r="LR"><p><l>appliance<s n="n"/></l><r>elettrodomestico<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>appliance<s n="n"/></l><r>elettrodomestico<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>applicability<s n="n"/></l><r>applicabilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>blogger<s n="n"/></l><r>blogger<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>application<s n="n"/></l><r>applicazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>appointment<s n="n"/></l><r>citazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>appointment<s n="n"/></l><r>appuntamento<s n="n"/><s n="m"/></r></p></e>
@@ -16128,7 +16132,6 @@
     <e><p><l>greedy<s n="n"/></l><r>avido<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>green<s n="n"/></l><r>verde<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>greenhouse<s n="n"/></l><r>serra<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>odyssey<s n="n"/></l><r>odissea<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>greeting<s n="n"/></l><r>saluto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>greyhound<s n="n"/></l><r>levriero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>grid<s n="n"/></l><r>griglia<s n="n"/><s n="f"/></r></p></e>
@@ -24343,7 +24346,8 @@
     <e><p><l>deformity<s n="n"/></l><r>deformità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>desktop<s n="n"/></l><r>desktop<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>deuterium<s n="n"/></l><r>deuterio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
-    <e><p><l>doping<s n="n"/></l><r>dopaggio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>doping<s n="n"/></l><r>dopaggio<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>doping<s n="n"/></l><r>doping<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e r="LR"><p><l>ductility<s n="n"/></l><r>malleabilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>einsteinium<s n="n"/></l><r>einsteinio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>electronegativity<s n="n"/></l><r>elettronegatività<s n="n"/><s n="f"/></r></p><par n="SP"/></e>

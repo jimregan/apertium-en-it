@@ -18420,6 +18420,7 @@
     <e lm="chicken"><i>chicken</i><par n="house__n"/>    </e>
     <e lm="chief" a="carmentano"><i>chief</i><par n="house__n"/>    </e>
     <e lm="child"><i>child</i><par n="child__n"/>    </e>
+    <e lm="schoolchild"><i>schoolchild</i><par n="child__n"/>    </e>
     <e lm="childhood" a="carmentano"><i>childhood</i><par n="house__n"/>    </e>
     <e lm="chimaera"><i>chim</i><par n="e_ae"/><i>ra</i><par n="house__n"/>    </e>
     <e lm="chimpanzee"><i>chimpanzee</i><par n="house__n"/>    </e>
@@ -19752,6 +19753,7 @@
     <e lm="godfather"><i>godfather</i><par n="house__n"/>    </e>
     <e lm="gold"><i>gold</i><par n="house__n"/>    </e>
     <e lm="coup"><i>good</i><par n="house__n"/>    </e>
+    <e lm="coup d'état"><i>coup</i><par n="house__n"/><p><l><b/>d'état</l><r><g><b/>d'état</g></r></p></e>
     <e lm="good"><i>good</i><par n="house__n"/>    </e>
     <e lm="goodbye"><i>goodbye</i><par n="house__n"/>    </e>
     <e lm="goodness"><i>goodness</i><par n="access__n"/>    </e>
@@ -19807,6 +19809,7 @@
     <e lm="guess" a="carmentano"><i>guess</i><par n="access__n"/>    </e>
     <e lm="guest"><i>guest</i><par n="house__n"/>    </e>
     <e lm="guesthouse"><i>guesthouse</i><par n="house__n"/>    </e>
+    <e lm="agitator"><i>agitator</i><par n="house__n"/>    </e>
     <e lm="guide"><i>guide</i><par n="house__n"/>    </e>
     <e lm="guideline"><i>guideline</i><par n="house__n"/>    </e>
     <e lm="guild"><i>guild</i><par n="house__n"/>    </e>
@@ -19928,12 +19931,14 @@
     <e lm="hospital"><i>hospital</i><par n="house__n"/>    </e>
     <e lm="hospitalisation"><i>hospitali</i><par n="globali/sation__n"/>    </e>
     <e lm="host"><i>host</i><par n="house__n"/>    </e>
+    <e lm="cherub"><i>cherub</i><par n="house__n"/>    </e>
     <e lm="hostage"><i>hostage</i><par n="house__n"/>    </e>
     <e lm="hostess"><i>hostess</i><par n="access__n"/>    </e>
     <e lm="hostility"><i>hostilit</i><par n="bab/y__n"/>    </e>
     <e lm="hotel"><i>hotel</i><par n="house__n"/>    </e>
     <e lm="hour"><i>hour</i><par n="house__n"/>    </e>
     <e lm="house"><i>house</i><par n="house__n"/>    </e>
+    <e lm="publishing house"><i>publishing<b/>house</i><par n="house__n"/>    </e>
     <e lm="household"><i>household</i><par n="house__n"/>    </e>
     <e lm="housing"><i>housing</i><par n="house__n"/>    </e>
     <e lm="human"><i>human</i><par n="house__n"/>    </e>
@@ -30274,6 +30279,8 @@
     <e lm="gravitational"><i>gravitational</i><par n="expensive__adj"/>     </e>
     <e lm="greed"><i>greed</i><par n="house__n"/>     </e>
     <e lm="greenfinch"><i>greenfinch</i><par n="access__n"/>     </e>
+    <e lm="fetish"><i>fetish</i><par n="access__n"/>     </e>
+    <e lm="ditch"><i>ditch</i><par n="access__n"/>     </e>
     <e lm="gregale"><i>gregale</i><par n="house__n"/>     </e>
     <e lm="gremial"><i>gremial</i><par n="expensive__adj"/>     </e>
     <e lm="grenadier"><i>grenadier</i><par n="house__n"/>     </e>
