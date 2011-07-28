@@ -21926,6 +21926,31 @@
     <e lm="senator"><i>senator</i><par n="house__n"/>    </e>
     <e lm="sending"><i>sending</i><par n="house__n"/>    </e>
     <e lm="sensationalism"><i>sensationalism</i><par n="house__n"/>    </e>
+    <e lm="sensation"><i>sensation</i><par n="house__n"/>    </e>
+    <e lm="piggy bank"><i>piggy<b/>bank</i><par n="house__n"/>    </e>
+    <e lm="wasp"><i>wasp</i><par n="house__n"/>    </e>
+    <e lm="hiccup"><i>hiccup</i><par n="house__n"/>    </e>
+    <e lm="hiccough"><i>hiccough</i><par n="house__n"/>    </e>
+    <e lm="synonym"><i>synonym</i><par n="house__n"/>    </e>
+    <e lm="tickling"><i>tickling</i><par n="house__n"/>    </e>
+    <e lm="greenhouse"><i>greenhouse</i><par n="house__n"/>    </e>
+    <e lm="sexism"><i>sexism</i><par n="house__n"/>    </e>
+    <e lm="syncopation"><i>syncopation</i><par n="house__n"/>    </e>
+    <e lm="spaghetti" r="LR"><i>spaghetti</i><par n="house__n"/>    </e>
+    <e lm="spaghetti"><i>spaghetti</i><par n="politics__n"/>    </e>
+    <e lm="sweeper"><i>sweeper</i><par n="house__n"/>    </e>
+    <e lm="soprano"><i>soprano</i><par n="house__n"/>    </e>
+    <e lm="spiral"><i>spiral</i><par n="house__n"/>    </e>
+    <e lm="dual carriageway"><i>dual<b/>carriageway</i><par n="house__n"/>    </e>
+    <e lm="shroud"><i>shroud</i><par n="house__n"/>    </e>
+    <e lm="flaw"><i>flaw</i><par n="house__n"/>    </e>
+    <e lm="drill"><i>drill</i><par n="house__n"/>    </e>
+    <e lm="valve"><i>valve</i><par n="house__n"/>    </e>
+    <e lm="widow"><i>widow</i><par n="house__n"/>    </e>
+    <e lm="tunnel"><i>tunnel</i><par n="house__n"/>    </e>
+    <e lm="valve"><i>valve</i><par n="house__n"/>    </e>
+    <e lm="cartoon"><i>cartoon</i><par n="house__n"/>    </e>
+    <e lm="yoghurt"><i>yoghurt</i><par n="house__n"/>    </e>
     <e lm="sense"><i>sense</i><par n="house__n"/>    </e>
     <e lm="sensitivity"><i>sensitivit</i><par n="bab/y__n"/>    </e>
     <e lm="sensitisation"><i>sensiti</i><par n="globali/sation__n"/>    </e>
@@ -22084,7 +22109,7 @@
     <e lm="soil"><i>soil</i><par n="house__n"/>    </e>
     <e lm="sol-fa"><i>sol-fa</i><par n="east__n"/>    </e>
     <e lm="solfège"><i>solfège</i><par n="house__n"/>    </e>
-    <e lm="solfège"><p><l>solfege</l><r>solfège</r></p><par n="house__n"/>    </e>
+    <e lm="solfège" r="LR"><p><l>solfege</l><r>solfège</r></p><par n="house__n"/>    </e>
     <e lm="soldier"><i>soldier</i><par n="house__n"/>    </e>
     <e lm="sole"><i>sole</i><par n="house__n"/>    </e>
     <e lm="solicitor" a="doriua"><i>solicitor</i><par n="house__n"/>    </e>
@@ -22852,6 +22877,7 @@
     <e lm="withdrawal"><i>withdrawal</i><par n="house__n"/>    </e>
     <e lm="witness"><i>witness</i><par n="access__n"/>    </e>
     <e lm="woman"><i>wom</i><par n="m/an__n"/>    </e>
+    <e lm="sportswoman"><i>sportswom</i><par n="m/an__n"/>    </e>
     <e lm="wonder"><i>wonder</i><par n="house__n"/>    </e>
     <e lm="wood"><i>wood</i><par n="house__n"/>    </e>
     <e lm="wool"><i>wool</i><par n="house__n"/>    </e>

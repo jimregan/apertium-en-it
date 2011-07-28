@@ -14503,8 +14503,8 @@
     <e><p><l>Bretton<b/>Woods<b/>system<s n="n"/></l><r>sistema<g><b/>di<b/>Bretton<b/>Woods</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Bretton<b/>Woods<b/>Agreement<s n="n"/></l><r>accordo<g><b/>di<b/>Bretton<b/>Woods</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ski<b/>jump<s n="n"/></l><r>salto<g><b/>con<b/>gli<b/>sci</g><s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>ski<b/>jumper<s n="n"/></l><r>saltatore<g><b/>con<b/>gli<b/>sci</g><s n="n"/><s n="GD"/></r></p></e>
-    <e r="LR"><p><l>ski<b/>jumper<s n="n"/></l><r>saltatore<g><b/>con<b/>gli<b/>sci</g><s n="n"/></r></p></e>
+    <e r="LR"><p><l>ski<b/>jumper<s n="n"/></l><r>saltatore<g><b/>con<b/>gli<b/>sci</g><s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>ski<b/>jumper<s n="n"/></l><r>saltatore<g><b/>con<b/>gli<b/>sci</g><s n="n"/></r></p></e>
     <e><p><l>pay<b/>slip<s n="n"/></l><r>busta<g><b/>paga</g><s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>pay<b/>slip<s n="n"/></l><r>prospetto<g><b/>paga</g><s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>pay<b/>slip<s n="n"/></l><r>cedolino<g><b/>paga</g><s n="n"/><s n="m"/></r></p></e>
@@ -16321,10 +16321,11 @@
     <e><p><l>hexameter<s n="n"/></l><r>esametro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hexose<s n="n"/></l><r>esoso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hibernation<s n="n"/></l><r>letargo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>hiccup<s n="n"/></l><r>singhiozzo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hiccough<s n="n"/></l><r>singhiozzo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>hiccup<s n="n"/></l><r>singhiozzo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>soprano<s n="n"/></l><r>soprano<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>hide<s n="n"/></l><r>nascondino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hierarchy<s n="n"/></l><r>gerarchia<s n="n"/><s n="f"/></r></p></e>
-    <e i="yes"><p><l>high<b/>court<s n="n"/><s n="ND"/></l><r>audience<s n="n"/><s n="f"/><s n="sp"/></r></p></e><!--  autorestricted (<e r="RL"><l>audience<n><ND></l><r>audience<n><f><sp></r></e>).-->
     <e r="LR"><p><l>high<b/>school<s n="n"/></l><r>liceo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>highway<s n="n"/></l><r>autostrada<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hiking<s n="n"/></l><r>escursionismo<s n="n"/><s n="m"/></r></p></e>
@@ -19094,7 +19095,6 @@
     <e><p><l>repeal<s n="n"/></l><r>abrogazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>repeater<s n="n"/></l><r>ripetitore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>repeater<s n="n"/></l><r>ripetitore<s n="n"/></r></p></e>
-    <e r="RL"><p><l>repeater<s n="n"/></l><r>ripetitore<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>repeater<n></l><r>ripetitore<n><GD></r></e>).-->
     <e><p><l>repetition<s n="n"/></l><r>ripetizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>replacement<s n="n"/></l><r>sostituzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>replication<s n="n"/></l><r>replicazione<s n="n"/><s n="f"/></r></p></e>
@@ -22529,6 +22529,7 @@
     <e r="LR"><p><l>be<g><b/>very<b/>sorry</g><s n="vblex"/></l><r>dispiacere<g><b/>molto</g><s n="vblex"/></r></p></e>
     <e r="LR"><p><l>be<g><b/>worth</g><s n="vblex"/></l><r>valere<s n="vblex"/></r></p></e>
     <e><p><l>be<g><b/>worthwhile</g><s n="vblex"/></l><r>essere<g><b/>utile</g><s n="vblex"/></r></p></e>
+    <e><p><l>be<g><b/>necessary</g><s n="vblex"/></l><r>essere<b/>necessario<s n="vbmod"/></r></p></e>
     <e><p><l>bear<s n="vblex"/></l><r>partorire<s n="vblex"/></r></p></e>
     <e><p><l>beat<s n="vblex"/></l><r>picchiare<s n="vblex"/></r></p></e>
     <e><p><l>become<s n="vblex"/></l><r>diventare<s n="vblex"/></r></p></e>
