@@ -89102,6 +89102,20 @@
     <e lm="blindato"><i>blindat</i><par n="abbandonat/o__adj"/></e>
     <e lm="blu"><i>blu</i><par n="extra__adj"/></e>
     <e lm="senior"><i>senior</i><par n="senior__adj"/></e>
+    <e lm="planimetrico"><i>planimetric</i><par n="tecnic/o__adj"/></e>
+    <e lm="podsolico"><i>podsolic</i><par n="tecnic/o__adj"/></e>
+    <e lm="papillare"><i>papillar</i><par n="albanes/e__adj"/></e>
+    <e lm="patrilineare"><i>patrilinear</i><par n="albanes/e__adj"/></e>
+    <e lm="precoce"><i>precoc</i><par n="albanes/e__adj"/></e>
+    <e lm="prescolare"><i>prescolar</i><par n="albanes/e__adj"/></e>
+    <e lm="protettore"><i>protettor</i><par n="albanes/e__adj"/></e>
+    <e lm="pupillare"><i>pupillar</i><par n="albanes/e__adj"/></e>
+    <e lm="quadrangolare"><i>quadrangolar</i><par n="albanes/e__adj"/></e>
+    <e lm="imprudente"><i>imprudent</i><par n="albanes/e__adj"/></e>
+    <e lm="prudenziale"><i>prudenzial</i><par n="albanes/e__adj"/></e>
+    <e lm="rupestre"><i>rupestr</i><par n="albanes/e__adj"/></e>
+    <e lm="senegalese"><i>senegales</i><par n="albanes/e__adj"/></e>
+    <e lm="lieve"><i>liev</i><par n="albanes/e__adj"/></e>
     <e lm="sexy"><i>sexy</i><par n="extra__adj"/></e>
     <e lm="in fiamme"><i>in<b/>fiamme</i><par n="extra__adj"/></e>
     <e lm="di bassa qualità"><i>di<b/>bassa<b/>qualità</i><par n="extra__adj"/></e>
@@ -89113,6 +89127,9 @@
     <e lm="del sud"><i>del<b/>sud</i><par n="extra__adj"/></e>
     <e lm="di riserva"><i>di<b/>riserva</i><par n="extra__adj"/></e>
     <e lm="bluastro"><i>bluastr</i><par n="abbandonat/o__adj"/></e>
+    <e lm="mussulmano"><i>mussulman</i><par n="abbandonat/o__adj"/></e>
+    <e lm="rupicolo"><i>rupicol</i><par n="abbandonat/o__adj"/></e>
+    <e lm="inquieto"><i>inquiet</i><par n="abbandonat/o__adj"/></e>
     <e lm="borghese"><i>borghes</i><par n="albanes/e__adj"/></e>
     <e lm="borsistico"><i>borsistic</i><par n="tecnic/o__adj"/></e>
     <e lm="botanico"><i>botanic</i><par n="tecnic/o__adj"/></e>
@@ -89935,6 +89952,7 @@
     <e lm="promozionale"><i>promozional</i><par n="albanes/e__adj"/></e>
     <e lm="proporzionale"><i>proporzional</i><par n="albanes/e__adj"/></e>
     <e lm="proprio"><i>propri</i><par n="ampi/o__adj"/></e>
+    <e lm="rudimentario"><i>rudimentari</i><par n="ampi/o__adj"/></e>
     <e lm="prossimo"><i>prossim</i><par n="abbandonat/o__adj"/></e>
     <e lm="protagonista"><i>protagonist</i><par n="suicid/a__adj"/></e>
     <e lm="proveniente"><i>provenient</i><par n="albanes/e__adj"/></e>
@@ -95421,6 +95439,7 @@
     <e lm="finito"><i>finit</i><par n="abbandonat/o__adj"/></e>
     <e lm="flessivo"><i>flessiv</i><par n="abbandonat/o__adj"/></e>
     <e lm="fluido"><i>fluid</i><par n="abbandonat/o__adj"/></e>
+    <e lm="superfluido"><i>superfluid</i><par n="abbandonat/o__adj"/></e>
     <e lm="formativo"><i>formativ</i><par n="abbandonat/o__adj"/></e>
     <e lm="fortuito"><i>fortuit</i><par n="abbandonat/o__adj"/></e>
     <e lm="fraudolento"><i>fraudolent</i><par n="abbandonat/o__adj"/></e>
@@ -95595,7 +95614,19 @@
     <e lm="viviparo"><i>vivipar</i><par n="abbandonat/o__adj"/></e>
     <e lm="vivo"><i>viv</i><par n="abbandonat/o__adj"/></e>
     <e lm="xenofobo"><i>xenofob</i><par n="abbandonat/o__adj"/></e>
+    <e lm="moscovito"><i>moscovit</i><par n="abbandonat/o__adj"/></e>
+    <e lm="stupendo"><i>stupend</i><par n="abbandonat/o__adj"/></e>
     <e lm="agrario"><i>agrari</i><par n="ampi/o__adj"/></e>
+    <e lm="multitudinario"><i>multitudinari</i><par n="ampi/o__adj"/></e>
+    <e lm="nuziale"><i>nuzial</i><par n="albanes/e__adj"/></e>
+    <e lm="pupillare"><i>pupillar</i><par n="albanes/e__adj"/></e>
+    <e lm="quadrupede"><i>quadruped</i><par n="albanes/e__adj"/></e>
+    <e lm="recuperabile"><i>recuperabil</i><par n="albanes/e__adj"/></e>
+    <e lm="rupestre"><i>rupestr</i><par n="albanes/e__adj"/></e>
+    <e lm="suprarrenale"><i>suprarrenal</i><par n="albanes/e__adj"/></e>
+    <e lm="faraonico"><i>faraonic</i><par n="tecnic/o__adj"/></e>
+    <e lm="magnifico"><i>magnific</i><par n="tecnic/o__adj"/></e>
+    <e lm="supersonico"><i>supersonic</i><par n="tecnic/o__adj"/></e>
     <e lm="alimentario"><i>alimentari</i><par n="ampi/o__adj"/></e>
     <e lm="ammonitorio"><i>ammonitori</i><par n="ampi/o__adj"/></e>
     <e lm="arbitrario"><i>arbitrari</i><par n="ampi/o__adj"/></e>
