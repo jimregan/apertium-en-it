@@ -16430,6 +16430,7 @@
     <e lm="Antoni"><i>Antoni</i><par n="Mark__np"/>    </e>
     <e lm="Antonio"><i>Antonio</i><par n="Mark__np"/>    </e>
     <e lm="Apertium"><i>Apertium</i><par n="Linux__np"/>    </e>
+    <e lm="Napster"><i>Napster</i><par n="Linux__np"/>    </e>
     <e lm="Metallica"><i>Metallica</i><par n="Linux__np"/>    </e>
     <e lm="Duran Duran"><i>Duran<b/>Duran</i><par n="Linux__np"/>    </e>
     <e lm="Alice in Chains"><i>Alice<b/>in<b/>Chains</i><par n="Linux__np"/>    </e>
@@ -17976,6 +17977,31 @@
     <e lm="backrest"><i>backrest</i><par n="house__n"/>    </e>
     <e lm="backstitch"><i>backstitch</i><par n="access__n"/>    </e>
     <e lm="bacterium"><i>bacteri</i><par n="bacteri/um__n"/>    </e>
+    <e lm="compendium"><i>compendi</i><par n="bacteri/um__n"/>    </e>
+    <e lm="desktop"><i>desktop</i><par n="house__n"/>    </e>
+    <e lm="takeoff"><i>takeoff</i><par n="house__n"/>    </e>
+    <e lm="electrocardiogram"><i>electrocardiogram</i><par n="house__n"/>    </e>
+    <e lm="diesel"><i>diesel</i><par n="house__n"/>    </e>
+    <e lm="forte"><i>forte</i><par n="house__n"/>    </e>
+    <e lm="jasmine"><i>jasmine</i><par n="house__n"/>    </e>
+    <e lm="pensioner"><i>pensioner</i><par n="house__n"/>    </e>
+    <e lm="pentagram"><i>pentagram</i><par n="house__n"/>    </e>
+    <e lm="parasite"><i>parasite</i><par n="house__n"/>    </e>
+    <e lm="pillar"><i>pillar</i><par n="house__n"/>    </e>
+    <e lm="pylon"><i>pylon</i><par n="house__n"/>    </e>
+    <e lm="plebian"><i>plebian</i><par n="house__n"/>    </e>
+    <e lm="spa"><i>spa</i><par n="house__n"/>    </e>
+    <e lm="precipice"><i>precipice</i><par n="house__n"/>    </e>
+    <e lm="concierge"><i>concierge</i><par n="house__n"/>    </e>
+    <e lm="well"><i>well</i><par n="house__n"/>    </e>
+    <e lm="progressivism"><i>progressivism</i><par n="house__n"/>    </e>
+    <e lm="rabbi"><i>rabbi</i><par n="house__n"/>    </e>
+    <e lm="boxer"><i>boxer</i><par n="house__n"/>    </e>
+    <e lm="mop"><i>mop</i><par n="house__n"/>    </e>
+    <e lm="oar"><i>oar</i><par n="house__n"/>    </e>
+    <e lm="semicircle"><i>semicircle</i><par n="house__n"/>    </e>
+    <e lm="revolt"><i>revolt</i><par n="house__n"/>    </e>
+    <e lm="repeater"><i>repeater</i><par n="house__n"/>    </e>
     <e lm="badger"><i>badger</i><par n="house__n"/>    </e>
     <e lm="bag"><i>bag</i><par n="house__n"/>    </e>
     <e lm="baggage"><i>baggage</i><par n="house__n"/>    </e>
@@ -20474,6 +20500,8 @@
     <e lm="machinery"><i>machiner</i><par n="bab/y__n"/>    </e>
     <e lm="maduration"><i>maduration</i><par n="house__n"/>    </e>
     <e lm="mafia"><i>mafia</i><par n="house__n"/>    </e>
+    <e lm="local mafia"><i>local<b/>mafia</i><par n="house__n"/>    </e>
+    <e lm="odyssey"><i>odyssey</i><par n="house__n"/>    </e>
     <e lm="magazine"><i>magazine</i><par n="house__n"/>    </e>
     <e lm="magic"><i>magic</i><par n="house__n"/>    </e>
     <e lm="magician"><i>magician</i><par n="house__n"/>    </e>
@@ -23293,6 +23321,7 @@
     <e lm="His Majesty"><i>His<b/>Majesty</i><par n="east__n"/></e>
     <e lm="Her Royal Majesty"><i>Her<b/>Royal<b/>Majesty</i><par n="east__n"/></e>
     <e lm="His Royal Majesty"><i>His<b/>Royal<b/>Majesty</i><par n="east__n"/></e>
+    <e lm="Your Royal Majesty"><i>Your<b/>Royal<b/>Majesty</i><par n="east__n"/></e>
     <e lm="Her Majesty the Queen"><i>Her<b/>Majesty<b/>the<b/>Queen</i><par n="east__n"/></e>
     <e lm="His Majesty the King"><i>His<b/>Majesty<b/>the<b/>King</i><par n="east__n"/></e>
     <e lm="Their Majesties"><i>Their<b/>Majesties</i><par n="alms__n"/></e>

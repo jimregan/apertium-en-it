@@ -1383,7 +1383,7 @@
     <e><p><l>extenuating<s n="adj"/></l><r>attenuante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>exterior<s n="adj"/></l><r>esteriore<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>external<s n="adj"/></l><r>esterno<s n="adj"/></r></p></e>
-    <e><p><l>extra<s n="adj"/></l><r>extra<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>extra<s n="adj"/></l><r>extra<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>extractor<s n="adj"/></l><r>aspiratore<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>extracurricular<s n="adj"/></l><r>extrascolare<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>extraordinary<s n="adj"/></l><r>straordinario<s n="adj"/></r></p></e>
@@ -3863,11 +3863,12 @@
     <e><p><l>German<b/>Democratic<b/>Republic<s n="np"/><s n="al"/></l><r>Repubblica<b/>Democratica<b/>Tedesca<s n="np"/><s n="al"/><s n="f"/></r></p></e>
     <e><p><l>Federal<b/>Republic<b/>of<b/>Germany<s n="np"/><s n="al"/></l><r>Repubblica<b/>Federale<b/>di<b/>Germania<s n="np"/><s n="al"/><s n="f"/></r></p></e>
     <e><p><l>Great<b/>Depression<s n="np"/><s n="al"/></l><r>Grande<b/>depressione<s n="np"/><s n="al"/><s n="f"/></r></p></e>
-    <e><p><l>Great<b/>War<s n="np"/><s n="al"/></l><r>Prima<b/>guerra<b/>mondiale<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>Great<b/>War<s n="np"/><s n="al"/></l><r>Prima<b/>guerra<b/>mondiale<s n="np"/><s n="al"/><s n="f"/></r></p></e>
     <e><p><l>International<b/>Bank<b/>for<b/>Reconstruction<b/>and<b/>Development<s n="np"/><s n="al"/></l><r>Banca<b/>Internazionale<b/>per<b/>la<b/>Ricostruzione<b/>e<b/>lo<b/>Sviluppo<s n="np"/><s n="al"/><s n="f"/></r></p></e>
     <e><p><l>International<b/>Monetary<b/>Fund<s n="np"/><s n="al"/></l><r>Fondo<b/>Monetario<b/>Internazionale<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>Koran<s n="np"/><s n="al"/></l><r>Corano<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>Apertium<s n="np"/><s n="al"/></l><r>Apertium<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+    <e><p><l>Napster<s n="np"/><s n="al"/></l><r>Napster<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>World<b/>Bank<s n="np"/><s n="al"/></l><r>Banca<b/>Mondiale<s n="np"/><s n="al"/><s n="f"/></r></p></e>
     <e><p><l>Le<b/>Monde<s n="np"/><s n="al"/></l><r>Le<b/>Monde<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>Los<b/>Alamos<b/>National<b/>Laboratory<s n="np"/><s n="al"/></l><r>Los<b/>Alamos<b/>National<b/>Laboratory<s n="np"/><s n="al"/><s n="m"/></r></p></e>
@@ -12493,7 +12494,7 @@
     <e><p><l>Faraday<b/>constant<s n="n"/></l><r>costante<g><b/>di<b/>Faraday</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Dirac<b/>constant<s n="n"/></l><r>costante<g><b/>di<b/>Dirac</g><s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Pole_person<s n="n"/></l><r>polacco<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>Polei_person<s n="n"/></l><r>polacco<s n="n"/></r></p></e>
+    <e r="RL"><p><l>Pole_person<s n="n"/></l><r>polacco<s n="n"/></r></p></e>
     <e><p><l>Protestant<s n="n"/></l><r>protestante<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>Punic<b/>war<s n="n"/></l><r>guerra<b/>punica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>romanisation<s n="n"/></l><r>romanizzazione<s n="n"/><s n="f"/></r></p></e>
@@ -12807,6 +12808,8 @@
     <e><p><l>alabaster<s n="n"/></l><r>alabastro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alarm<s n="n"/></l><r>allarme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alarmism<s n="n"/></l><r>allarmismo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cyberspace<s n="n"/></l><r>cyberspazio<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>cyberspace<s n="n"/></l><r>ciberspazio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>albatross<s n="n"/><s n="sg"/></l><r>albatros<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>albatross<s n="n"/><s n="pl"/></l><r>albatros<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>albatross<s n="n"/><s n="ND"/></l><r>albatros<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -13136,6 +13139,7 @@
     <e><p><l>arrest<s n="n"/></l><r>arresto<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>arrested<s n="n"/></l><r>arresto<s n="n"/></r></p></e>
     <e r="LR"><p><l>arrested<s n="n"/></l><r>arresto<s n="n"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>arrested<b/>person<s n="n"/></l><r>arresto<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>arrhythmia<s n="n"/></l><r>aritmia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>arrival<s n="n"/></l><r>arrivo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>arrow<s n="n"/></l><r>freccia<s n="n"/><s n="f"/></r></p></e>
@@ -13464,7 +13468,7 @@
     <e r="LR"><p><l>beneficiary<s n="n"/></l><r>beneficiario<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>benefit<s n="n"/></l><r>beneficio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>benevolence<s n="n"/></l><r>benevolenza<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>benzine<s n="n"/></l><r>benzina<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>benzine<s n="n"/></l><r>benzina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bet<s n="n"/></l><r>scommessa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>betacism<s n="n"/></l><r>betacismo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>betting<s n="n"/></l><r>scommessa<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>bet<n></l><r>scommessa<n><f></r></e>).-->
@@ -14026,7 +14030,7 @@
     <e><p><l>chemiluminescence<s n="n"/></l><r>chemiluminescenza<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>chemist<s n="n"/></l><r>farmacista<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>chemist<s n="n"/></l><r>farmacista<s n="n"/></r></p></e>
-    <e><p><l>chemist&apos;s<s n="n"/></l><r>farmacia<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>chemist&apos;s<s n="n"/></l><r>farmacia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chemometrics<s n="n"/></l><r>chemiometria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chemotherapy<s n="n"/></l><r>chemioterapia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cheque<s n="n"/></l><r>assegno<s n="n"/><s n="m"/></r></p></e>
@@ -15180,7 +15184,7 @@
     <e r="RL"><p><l>drug<b/>trafficking<s n="n"/></l><r>traffico<g><b/>di<b/>stupefacent</g><s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>drug<b/>trafficking<s n="n"/></l><r>traffico<g><b/>della<b/>droga</g><s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>drug<b/>trafficking<s n="n"/></l><r>narcotraffico<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>drugstore<s n="n"/></l><r>farmacia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>chemist's<n></l><r>farmacia<n><f></r></e>).-->
+    <e r="LR"><p><l>drugstore<s n="n"/></l><r>farmacia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>drum<s n="n"/></l><r>tamburo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>drunkard<s n="n"/></l><r>ubriaco<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>drunkard<s n="n"/></l><r>ubriaco<s n="n"/></r></p></e>
@@ -15584,7 +15588,7 @@
     <e><p><l>extinction<s n="n"/></l><r>estinzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>extinguisher<s n="n"/></l><r>estintore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>extirpation<s n="n"/></l><r>estirpazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>extra<s n="n"/></l><r>extra<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>extra<s n="n"/></l><r>extra<s n="n"/><s n="mf"/></r></p><par n="SP"/></e>
     <e><p><l>extraction<s n="n"/></l><r>estrazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>extradition<s n="n"/></l><r>estradizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>extrapolation<s n="n"/></l><r>estrapolazione<s n="n"/><s n="f"/></r></p></e>
@@ -15975,8 +15979,8 @@
     <e r="LR"><p><l>gas<s n="n"/><s n="pl"/></l><r>gas<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>gas<s n="n"/><s n="ND"/></l><r>gas<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>gasification<s n="n"/></l><r>gassificazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>gasoline<s n="n"/></l><r>gasolio<s n="n"/><s n="m"/></r></p></e>
-    <e i="yes"><p><l>gasoline<s n="n"/></l><r>benzina<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>benzine<n></l><r>benzina<n><f></r></e>).-->
+    <e><p><l>diesel<s n="n"/></l><r>gasolio<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>gasoline<s n="n"/></l><r>benzina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gasometry<s n="n"/></l><r>gasometria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gassing<s n="n"/></l><r>gassazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gastronomy<s n="n"/></l><r>gastronomia<s n="n"/><s n="f"/></r></p></e>
@@ -18287,12 +18291,12 @@
     <e><p><l>pet<s n="n"/></l><r>animale<g><b/>da<b/>compagnia</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>petal<s n="n"/></l><r>petalo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>petrography<s n="n"/></l><r>petrografia<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>petrol<s n="n"/></l><r>benzina<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>benzine<n></l><r>benzina<n><f></r></e>).-->
+    <e><p><l>petrol<s n="n"/></l><r>benzina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>petroleum<s n="n"/></l><r>petrolio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>petrology<s n="n"/></l><r>petrologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pharaoh<s n="n"/></l><r>faraone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pharmacology<s n="n"/></l><r>farmacologia<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>pharmacy<s n="n"/></l><r>farmacia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>chemist's<n></l><r>farmacia<n><f></r></e>).-->
+    <e><p><l>pharmacy<s n="n"/></l><r>farmacia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>phase<s n="n"/></l><r>fase<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pheasant<s n="n"/></l><r>fagiano<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>phenol<s n="n"/></l><r>fenolo<s n="n"/><s n="m"/></r></p></e>
@@ -19076,8 +19080,6 @@
     <e><p><l>reminder<s n="n"/></l><r>promemoria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>remorse<s n="n"/></l><r>rimorso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>removal<s n="n"/></l><r>rimozione<s n="n"/><s n="f"/></r></p></e>
-    <e i="yes"><p><l>removal<s n="n"/></l><r>estrazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>extraction<n></l><r>estrazione<n><f></r></e>).-->
-    <e i="yes"><p><l>removal<s n="n"/></l><r>trasferimento<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>cession<n></l><r>trasferimento<n><m></r></e>).-->
     <e r="RL"><p><l>removal<s n="n"/></l><r>asportazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>removal<n></l><r>rimozione<n><f></r></e>).-->
     <e><p><l>remuneration<s n="n"/></l><r>remunerazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>renaissance<s n="n"/></l><r>rinascimento<s n="n"/><s n="m"/></r></p></e>
