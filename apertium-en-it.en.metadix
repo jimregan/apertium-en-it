@@ -18007,6 +18007,10 @@
     <e lm="baggage"><i>baggage</i><par n="house__n"/>    </e>
     <e lm="baker"><i>baker</i><par n="house__n"/>    </e>
     <e lm="bakery"><i>baker</i><par n="bab/y__n"/>    </e>
+    <e lm="ferry"><i>ferr</i><par n="bab/y__n"/>    </e>
+    <e lm="dormitory"><i>dormitor</i><par n="bab/y__n"/>    </e>
+    <e lm="ebony"><i>ebon</i><par n="bab/y__n"/>    </e>
+    <e lm="gastronomy"><i>gastronom</i><par n="bab/y__n"/>    </e>
     <e lm="balance"><i>balance</i><par n="house__n"/>    </e>
     <e lm="ball"><i>ball</i><par n="house__n"/>    </e>
     <e lm="ballast"><i>ballast</i><par n="house__n"/>    </e>
@@ -18047,6 +18051,7 @@
     <e lm="bat"><i>bat</i><par n="house__n"/>    </e>
     <e lm="batallion"><i>batallion</i><par n="house__n"/>    </e>
     <e lm="batch"><i>batch</i><par n="access__n"/>    </e>
+    <e lm="leash"><i>leash</i><par n="access__n"/>    </e>
     <e lm="bath"><i>bath</i><par n="house__n"/>    </e>
     <e lm="bathroom"><i>bathroom</i><par n="house__n"/>    </e>
     <e lm="baton"><i>baton</i><par n="house__n"/>    </e>
@@ -18393,6 +18398,7 @@
     <e lm="change"><i>change</i><par n="house__n"/>    </e>
     <e lm="channel"><i>channel</i><par n="house__n"/>    </e>
     <e lm="chaos"><i>chaos</i><par n="politics__n"/>    </e>
+    <e lm="impossible"><i>impossible</i><par n="politics__n"/>    </e>
     <e lm="chapel"><i>chapel</i><par n="house__n"/>    </e>
     <e lm="chapter"><i>chapter</i><par n="house__n"/>    </e>
     <e lm="character"><i>character</i><par n="house__n"/>    </e>
@@ -18447,6 +18453,7 @@
     <e lm="chief" a="carmentano"><i>chief</i><par n="house__n"/>    </e>
     <e lm="child"><i>child</i><par n="child__n"/>    </e>
     <e lm="schoolchild"><i>schoolchild</i><par n="child__n"/>    </e>
+    <e lm="school child"><i>school<b/>child</i><par n="child__n"/>    </e>
     <e lm="childhood" a="carmentano"><i>childhood</i><par n="house__n"/>    </e>
     <e lm="chimaera"><i>chim</i><par n="e_ae"/><i>ra</i><par n="house__n"/>    </e>
     <e lm="chimpanzee"><i>chimpanzee</i><par n="house__n"/>    </e>
@@ -21929,6 +21936,7 @@
     <e lm="sensation"><i>sensation</i><par n="house__n"/>    </e>
     <e lm="piggy bank"><i>piggy<b/>bank</i><par n="house__n"/>    </e>
     <e lm="wasp"><i>wasp</i><par n="house__n"/>    </e>
+    <e lm="vanilla"><i>vanilla</i><par n="house__n"/>    </e>
     <e lm="hiccup"><i>hiccup</i><par n="house__n"/>    </e>
     <e lm="hiccough"><i>hiccough</i><par n="house__n"/>    </e>
     <e lm="synonym"><i>synonym</i><par n="house__n"/>    </e>

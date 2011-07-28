@@ -2665,7 +2665,6 @@
     <e><p><l>scholarly<s n="adj"/></l><r>erudito<s n="adj"/></r></p></e>
     <e><p><l>scholastic<s n="adj"/></l><r>scolastico<s n="adj"/></r></p></e>
     <e><p><l>school<s n="adj"/></l><r>allievo<s n="adj"/><s n="mf"/></r></p></e>
-    <e i="yes"><p><l>school<s n="adj"/></l><r>scolastico<s n="adj"/></r></p></e><!--  autorestricted (<e><l>scholastic<adj></l><r>scolastico<adj></r></e>).-->
     <e><p><l>scientific<s n="adj"/></l><r>scienziato<s n="adj"/></r></p></e>
     <e><p><l>scottish<s n="adj"/></l><r>scozzese<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>sculptural<s n="adj"/></l><r>scultoreo<s n="adj"/></r></p></e>
@@ -13067,7 +13066,7 @@
     <e r="LR"><p><l>appliance<s n="n"/></l><r>elettrodomestico<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>appliance<s n="n"/></l><r>elettrodomestico<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>applicability<s n="n"/></l><r>applicabilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
-    <e><p><l>blogger<s n="n"/></l><r>blogger<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>blogger<s n="n"/></l><r>blogger<s n="n"/><s n="mf"/></r></p><par n="SP"/></e>
     <e><p><l>application<s n="n"/></l><r>applicazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>appointment<s n="n"/></l><r>citazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>appointment<s n="n"/></l><r>appuntamento<s n="n"/><s n="m"/></r></p></e>
@@ -19366,7 +19365,8 @@
     <e r="LR"><p><l>scholar<s n="n"/></l><r>erudito<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>scholar<s n="n"/></l><r>erudito<s n="n"/></r></p></e>
     <e><p><l>school<s n="n"/></l><r>scuola<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>school<b/>child<s n="n"/></l><r>collegiale<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>school<b/>child<s n="n"/></l><r>collegiale<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>schoolchild<s n="n"/></l><r>collegiale<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>science<s n="n"/></l><r>scienza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>science<b/>fiction<s n="n"/></l><r>fantascienza<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>scientific<b/>character<s n="n"/><s n="ND"/></l><r>scientificità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -19637,7 +19637,9 @@
     <e r="RL"><p><l>skull<s n="n"/></l><r>teschio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>sky<s n="n"/></l><r>cielo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>heaven<n></l><r>cielo<n><m></r></e>).-->
     <e><p><l>skyscraper<s n="n"/></l><r>grattacielo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>dockyard<s n="n"/></l><r>navale<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>slang<s n="n"/></l><r>argot<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>humanity<s n="n"/></l><r>umanità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>slaughter<s n="n"/></l><r>macello<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>slaughterhouse<s n="n"/></l><r>mattatoio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>slaughtering<s n="n"/></l><r>macellazione<s n="n"/><s n="f"/></r></p></e>
@@ -20108,9 +20110,13 @@
     <e r="LR"><p><l>syntax<s n="n"/><s n="pl"/></l><r>sintassi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>syringe<s n="n"/></l><r>siringa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>system<s n="n"/></l><r>sistema<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>gymnast<s n="n"/></l><r>ginnasta<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>ineptitude<s n="n"/></l><r>inettitudine<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>impossible<s n="n"/></l><r>impossibile<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>systematisation<s n="n"/></l><r>sistematizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>t-shirt<s n="n"/></l><r>maglietta<s n="n"/><s n="f"/></r></p></e>
     <e slr="tavolo D"><p><l>table<s n="n"/></l><r>tavolo<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>table<s n="n"/></l><r>tavolo<s n="n"/><s n="f"/></r></p></e>
     <e r="RL" slr="tavola"><p><l>table<s n="n"/></l><r>tavola<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>table<n></l><r>tavolo<n><m></r></e>).-->
     <e><p><l>tableware<s n="n"/></l><r>vasellame<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>taboo<s n="n"/><s n="ND"/></l><r>tabù<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
