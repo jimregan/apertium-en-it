@@ -268,8 +268,8 @@
     <e c="afirmatives"><p><l>any<s n="det"/><s n="ind"/><s n="sp"/></l><r>qualunque<s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
     <e r="RL" c="frases negatives. EN-CA: per trànsfer"><p><l>any<s n="det"/><s n="ind"/></l><r>nessuno<s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR" c="'as much time'. Cal afegir també 'as many'?"><p><l>as<b/>much<s n="det"/><s n="qnt"/></l><r>tanto<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
-    <e r="LR"><p><l>both<s n="det"/><s n="ind"/><s n="pl"/></l><r>entrambi<b/>i<s n="det"/><s n="ind"/></r></p></e>
-    <e r="RL"><p><l>both<s n="det"/><s n="ind"/></l><r>entrambi<b/>i<s n="det"/><s n="ind"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>both<s n="det"/><s n="ind"/><s n="pl"/></l><r>entrambi<b/>i<s n="det"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>both<s n="det"/><s n="ind"/></l><r>entrambi<b/>i<s n="det"/><s n="ind"/><s n="GD"/><s n="pl"/></r></p></e>
     <e lm="LR"><p><l>diverse<s n="adj"/></l><r>diverso<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
     <e c="té polisèmia amb 'every', però no he posat marca de polisèmia"><p><l>each<s n="det"/><s n="ind"/></l><r>ogni<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
     <e r="RL" c="té polisèmia amb 'every', però no he posat marca de polisèmia"><p><l>each<s n="det"/><s n="ind"/></l><r>ciascuno<s n="det"/><s n="ind"/><s n="m"/></r></p></e>
@@ -467,7 +467,6 @@
     <e><p><l>Martian<s n="adj"/></l><r>marziano<s n="adj"/></r></p></e>
     <e><p><l>North<b/>American<s n="adj"/></l><r>nordamericano<s n="adj"/></r></p></e>
     <e><p><l>Pakistani<s n="adj"/></l><r>pachistano<s n="adj"/></r></p></e>
-    <e><p><l>Roman<s n="adj"/></l><r>romano<s n="adj"/></r></p></e>
     <e><p><l>abdominal<s n="adj"/></l><r>addominale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>aberrant<s n="adj"/></l><r>aberrante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>able<s n="adj"/><s n="sint"/></l><r>capace<s n="adj"/><s n="mf"/></r></p></e>
@@ -1467,7 +1466,6 @@
     <e r="LR"><p><l>piercing<s n="adj"/></l><r>penetrante<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>pungent<s n="adj"/></l><r>penetrante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>neuromuscular<s n="adj"/></l><r>neuromuscolare<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>nicaraguan<s n="adj"/></l><r>nicaraguense<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>monetarist<s n="adj"/></l><r>monetaristico<s n="adj"/></r></p></e>
     <e><p><l>morphogenetic<s n="adj"/></l><r>morfogenetico<s n="adj"/></r></p></e>
     <e><p><l>planetary<s n="adj"/></l><r>planetario<s n="adj"/></r></p></e>
@@ -3145,7 +3143,6 @@
     <e><p><l>modernist<s n="adj"/></l><r>modernista<s n="adj"/></r></p></e>
     <e><p><l>modifiable<s n="adj"/></l><r>modificabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>monaural<s n="adj"/></l><r>monofonico<s n="adj"/></r></p></e>
-    <e><p><l>monetarist<s n="adj"/></l><r>monetarista<s n="adj"/></r></p></e>
     <e><p><l>monochrome<s n="adj"/></l><r>monocromo<s n="adj"/></r></p></e>
     <e><p><l>monoclinic<s n="adj"/></l><r>monoclinico<s n="adj"/></r></p></e>
     <e><p><l>monosemic<s n="adj"/></l><r>monosemico<s n="adj"/></r></p></e>
@@ -3157,8 +3154,7 @@
     <e><p><l>motivational<s n="adj"/></l><r>motivazionale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>mountainous<s n="adj"/></l><r>montagnoso<s n="adj"/></r></p></e>
     <e><p><l>movable<s n="adj"/></l><r>movibile<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>muscovite<s n="adj"/></l><r>moscovita<s n="adj"/></r></p></e>
-    <e><p><l>muslim<s n="adj"/></l><r>mussulmano<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>muslim<s n="adj"/></l><r>mussulmano<s n="adj"/></r></p></e>
     <e><p><l>mutant<s n="adj"/></l><r>mutante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>mute<s n="adj"/></l><r>muto<s n="adj"/></r></p></e>
     <e><p><l>mystic<s n="adj"/></l><r>mistico<s n="adj"/></r></p></e>
@@ -3175,10 +3171,8 @@
     <e><p><l>neofascist<s n="adj"/></l><r>neofascista<s n="adj"/></r></p></e>
     <e><p><l>neonazi<s n="adj"/></l><r>neonazista<s n="adj"/></r></p></e>
     <e><p><l>nepalese<s n="adj"/></l><r>nepalese<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>neuromuscular<s n="adj"/></l><r>neuromuscolare<s n="adj"/></r></p></e>
     <e r="LR"><p><l>neuter<s n="adj"/></l><r>neutro<s n="adj"/></r></p></e>
     <e><p><l>neutral<s n="adj"/></l><r>neutro<s n="adj"/></r></p></e>
-    <e><p><l>nicaraguan<s n="adj"/></l><r>nicaraguense<s n="adj"/></r></p></e>
     <e><p><l>nihilistic<s n="adj"/></l><r>nichilista<s n="adj"/></r></p></e>
     <e><p><l>nilpotent<s n="adj"/></l><r>nilpotente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>northeastern<s n="adj"/></l><r>nordorientale<s n="adj"/><s n="mf"/></r></p></e>
@@ -3189,11 +3183,8 @@
     <e><p><l>precocious<s n="adj"/></l><r>precoce<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>preschool<s n="adj"/></l><r>prescolare<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>protective<s n="adj"/></l><r>protettore<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>pupillary<s n="adj"/></l><r>pupillare<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>quadrangular<s n="adj"/></l><r>quadrangolare<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>negligent<s n="adj"/></l><r>imprudente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>prudential<s n="adj"/></l><r>prudenziale<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>rupestrian<s n="adj"/></l><r>rupestre<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>senegalese<s n="adj"/></l><r>senegalese<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>slight<s n="adj"/></l><r>lieve<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>planimetric<s n="adj"/></l><r>planimetrico<s n="adj"/></r></p></e>
@@ -3220,8 +3211,7 @@
     <e><p><l>pacifist<s n="adj"/></l><r>pacifista<s n="adj"/></r></p></e>
     <e><p><l>palaeographical<s n="adj"/></l><r>paleografico<s n="adj"/></r></p></e>
     <e><p><l>palaeotropical<s n="adj"/></l><r>paleotropicale<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>palestinian<s n="adj"/></l><r>palestinese<s n="adj"/></r></p></e>
-    <e><p><l>panamanian<s n="adj"/></l><r>panamegno<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>panamanian<s n="adj"/></l><r>panamegno<s n="adj"/></r></p></e>
     <e><p><l>panchromatic<s n="adj"/></l><r>pancromatico<s n="adj"/></r></p></e>
     <e><p><l>pancreatic<s n="adj"/></l><r>pancreatico<s n="adj"/></r></p></e>
     <e><p><l>papillary<s n="adj"/></l><r>papillare<s n="adj"/></r></p></e>
@@ -3251,7 +3241,6 @@
     <e><p><l>piezoelectric<s n="adj"/></l><r>piezoelettrico<s n="adj"/></r></p></e>
     <e><p><l>pilot<s n="adj"/></l><r>piloto<s n="adj"/></r></p></e>
     <e><p><l>pirate<s n="adj"/></l><r>pirata<s n="adj"/></r></p></e>
-    <e><p><l>piriform<s n="adj"/></l><r>piriforme<s n="adj"/></r></p></e>
     <e><p><l>planar<s n="adj"/></l><r>planar<s n="adj"/></r></p></e>
     <e><p><l>planetary<s n="adj"/></l><r>planetario<s n="adj"/></r></p></e>
     <e><p><l>plastic<s n="adj"/></l><r>plastico<s n="adj"/></r></p></e>
@@ -3317,10 +3306,8 @@
     <e><p><l>publishing<s n="adj"/></l><r>editoriale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>pungent<s n="adj"/></l><r>penetrante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>punishable<s n="adj"/></l><r>punibile<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>pupillary<s n="adj"/></l><r>pupillare<s n="adj"/></r></p></e>
     <e><p><l>pyrenean<s n="adj"/></l><r>pirenaico<s n="adj"/></r></p></e>
     <e><p><l>pythagorean<s n="adj"/></l><r>pitagorico<s n="adj"/></r></p></e>
-    <e><p><l>quadrangular<s n="adj"/></l><r>quadrangolare<s n="adj"/></r></p></e>
     <e><p><l>quadruped<s n="adj"/></l><r>quadrupede<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>racist<s n="adj"/></l><r>razzista<s n="adj"/></r></p></e>
     <e><p><l>radiographic<s n="adj"/></l><r>radiografico<s n="adj"/></r></p></e>
@@ -3349,7 +3336,6 @@
     <e><p><l>rotatory<s n="adj"/></l><r>rotatorio<s n="adj"/></r></p></e>
     <e><p><l>ruminant<s n="adj"/></l><r>ruminante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>runic<s n="adj"/></l><r>runico<s n="adj"/></r></p></e>
-    <e><p><l>rupestrian<s n="adj"/></l><r>rupestre<s n="adj"/></r></p></e>
     <e><p><l>rupicolous<s n="adj"/></l><r>rupicola<s n="adj"/></r></p></e>
     <e><p><l>sabbatical<s n="adj"/></l><r>sabbatico<s n="adj"/></r></p></e>
     <e><p><l>sacramental<s n="adj"/></l><r>sacramentale<s n="adj"/><s n="mf"/></r></p></e>
@@ -3378,7 +3364,6 @@
     <e><p><l>semivocal<s n="adj"/></l><r>semivocale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>senatorial<s n="adj"/></l><r>senatoriale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>senegalese<s n="adj"/></l><r>senegalese<s n="adj"/></r></p></e>
-    <e><p><l>senior<s n="adj"/></l><r>senior<s n="adj"/></r></p></e>
     <e><p><l>sensationalistic<s n="adj"/></l><r>sensazionalista<s n="adj"/></r></p></e>
     <e><p><l>sentential<s n="adj"/></l><r>sentenziale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>separate<s n="adj"/></l><r>separato<s n="adj"/></r></p></e>
@@ -3482,7 +3467,7 @@
     <e><p><l>Telefónica<s n="np"/><s n="al"/></l><r>Telefónica<s n="np"/><s n="al"/><s n="f"/></r></p></e>
     <e><p><l>The<b/>New<b/>York<b/>Times<s n="np"/><s n="al"/></l><r>The<b/>New<b/>York<b/>Times<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>Treaty<b/>establishing<b/>a<b/>Constitution<b/>for<b/>Europe<s n="np"/><s n="al"/></l><r>Trattato<b/>che<b/>adotta<b/>una<b/>Costituzione<b/>per<b/>l'Europa<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-    <e><p><l>United<b/>Nations<s n="np"/><s n="al"/></l><r>Organizzazione<b/>delle<b/>Nazioni<b/>Unite<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+    <e><p><l>United<b/>Nations<s n="np"/><s n="al"/><s n="pl"/></l><r>Organizzazione<b/>delle<b/>Nazioni<b/>Unite<s n="np"/><s n="al"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>VeriSign<s n="np"/><s n="al"/></l><r>VeriSign<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><i>Abigail<s n="np"/><s n="ant"/></i></e>
     <e><i>Abigale<s n="np"/><s n="ant"/></i></e>
@@ -11511,9 +11496,10 @@
     <e><i>Tácito<s n="np"/><s n="ant"/></i></e>
     <e><i>Tönis<s n="np"/><s n="ant"/></i></e>
     <e><p><l>U.S.<s n="np"/><s n="loc"/><s n="sg"/></l><r>USA<s n="np"/><s n="loc"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>US<s n="np"/><s n="loc"/><s n="sg"/></l><r>USA<s n="np"/><s n="loc"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>USA<s n="np"/><s n="loc"/><s n="sg"/></l><r>USA<s n="np"/><s n="loc"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>UK<s n="np"/><s n="loc"/></l><r>Regno<b/>Unito<s n="np"/><s n="loc"/></r></p></e>
     <e r="LR"><p><l>US<b/>Virgin<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Vergini<b/>americane<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
-    <e><p><l>USA<s n="np"/><s n="loc"/></l><r>USA<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><i>Ubalda<s n="np"/><s n="ant"/></i></e>
     <e><i>Ubaldina<s n="np"/><s n="ant"/></i></e>
     <e><i>Ubaldino<s n="np"/><s n="ant"/></i></e>
@@ -12430,6 +12416,7 @@
     <e r="LR"><p><l>Her<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Her<b/>Imperial<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>imperiale<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Her<b/>Majesty<s n="n"/></l><r>Sua<b/>Maestà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Her<b/>Majesty<b/>the<b/>Queen<s n="n"/></l><r>Sua<b/>Maestà<b/>la<b/>Regina<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Her<b/>Royal<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>reale<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Her<b/>Royal<b/>Majesty<s n="n"/></l><r>Sua<b/>Maestà<b/>reale<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Her<b/>Serene<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>serenissima<s n="n"/><s n="f"/></r></p></e>
@@ -12487,6 +12474,7 @@
     <e r="RL"><p><l>Muslim<s n="n"/></l><r>moro<s n="n"/></r></p></e>
     <e r="LR"><p><l>Muslim<s n="n"/></l><r>musulmano<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Muslim<s n="n"/></l><r>musulmano<s n="n"/></r></p></e>
+    <e r="RL"><p><l>Muslim<s n="n"/></l><r>mussulmano<s n="n"/></r></p></e>
     <e><p><l>NYSE<s n="n"/><s n="acr"/></l><r>NYSE<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>nazi<s n="n"/></l><r>nazista<s n="n"/></r></p></e>
     <e r="LR"><p><l>nazi<s n="n"/></l><r>nazista<s n="n"/><s n="GD"/></r></p></e>
@@ -13075,6 +13063,7 @@
     <e><p><l>appearance<s n="n"/></l><r>aspetto<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>appearance<s n="n"/></l><r>apparenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>appendix<s n="n"/></l><r>appendice<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>addendum<s n="n"/></l><r>appendice<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>appetiser<s n="n"/></l><r>aperitivo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>appetite<s n="n"/></l><r>appetito<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>applause<s n="n"/></l><r>applauso<s n="n"/><s n="m"/></r></p></e>
@@ -13640,7 +13629,6 @@
     <e r="RL"><p><l>brain<s n="n"/><s n="pl"/></l><r>cervello<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>brake<s n="n"/></l><r>freno<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bran<s n="n"/></l><r>crusca<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>branch<s n="n"/></l><r>diramazione<s n="n"/><s n="f"/></r></p></e>
     <e srl="brand"><p><l>brand<s n="n"/></l><r>marca<s n="n"/><s n="f"/></r></p></e>
     <e srl="brand D"><p><l>brand<s n="n"/></l><r>marchio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>brandy<s n="n"/></l><r>acquavite<s n="n"/><s n="f"/></r></p></e>
@@ -13706,7 +13694,9 @@
     <e r="LR"><p><l>bump<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>bump<s n="n"/></l><r>bernoccolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bunch<s n="n"/></l><r>mazzo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>branch<s n="n"/></l><r>ramo<s n="n"/><s n="m"/></r></p></e>
+    <e slr="ramo D"><p><l>branch<s n="n"/></l><r>ramo<s n="n"/><s n="m"/></r></p></e>
+    <e slr="diramazione"><p><l>branch<s n="n"/></l><r>diramazione<s n="n"/><s n="f"/></r></p></e>
+    <e slr="filiale"><p><l>branch<s n="n"/></l><r>filiale<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bundle<s n="n"/></l><r>balla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bunk<s n="n"/></l><r>branda<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>bunker<s n="n"/><s n="sg"/></l><r>bunker<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -24689,7 +24679,6 @@
     <e><p><l>maltese<s n="n"/></l><r>maltese<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>nepalese<s n="n"/></l><r>nepalese<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>nicaraguan<s n="n"/></l><r>nicaraguense<s n="n"/><s n="mf"/></r></p></e>
-    <e><p><l>palestinian<s n="n"/></l><r>palestinese<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>panamanian<s n="n"/></l><r>panamense<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>saxon<s n="n"/></l><r>sassone<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>scottish<s n="n"/></l><r>scozzese<s n="n"/><s n="mf"/></r></p></e>
