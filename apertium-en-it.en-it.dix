@@ -761,6 +761,7 @@
     <e><p><l>bidirectional<s n="adj"/></l><r>bidirezionale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>biennial<s n="adj"/></l><r>biennale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>big<s n="adj"/><s n="sint"/></l><r>grande<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>grand<s n="adj"/><s n="sint"/></l><r>grande<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>bilabial<s n="adj"/></l><r>bilabiale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>bilateral<s n="adj"/></l><r>bilaterale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>bilingual<s n="adj"/></l><r>bilingue<s n="adj"/><s n="mf"/></r></p></e>
@@ -22991,8 +22992,8 @@
     <e><p><l>do<s n="vblex"/></l><r>fare<s n="vblex"/></r></p></e>
     <e><p><l>document<s n="vblex"/></l><r>documentare<s n="vblex"/></r></p></e>
     <e><p><l>dominate<s n="vblex"/></l><r>dominare<s n="vblex"/></r></p></e>
-    <e><p><l>donate<s n="vblex"/></l><r>dare<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>donate<s n="vblex"/></l><r>donare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>donate<vblex></l><r>dare<vblex></r></e>).-->
+    <e><p><l>donate<s n="vblex"/></l><r>donare<s n="vblex"/></r></p></e>
+    <e><p><l>take<g><b/>for<b/>granted</g><s n="vblex"/></l><r>dare<g><b/>per<b/>scontato</g><s n="vblex"/></r></p></e>
     <e r="LR"><p><l>dope<s n="vblex"/></l><r>drogare<s n="vblex"/></r></p></e>
     <e><p><l>double<s n="vblex"/></l><r>raddoppiare<s n="vblex"/></r></p></e>
     <e><p><l>doubt<s n="vblex"/></l><r>dubitare<s n="vblex"/></r></p></e>
@@ -23225,7 +23226,7 @@
     <e r="LR"><p><l>get<g><b/>started</g><s n="vblex"/></l><r>iniziare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>get<g><b/>worse</g><s n="vblex"/></l><r>peggiorare<s n="vblex"/></r></p></e>
     <e><p><l>gild<s n="vblex"/></l><r>dorare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>give<s n="vblex"/></l><r>dare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>donate<vblex></l><r>dare<vblex></r></e>).-->
+    <e><p><l>give<s n="vblex"/></l><r>dare<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>give<s n="vblex"/></l><r>regalare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>give<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>lasciare<s n="vblex"/></r></p></e>
     <e><p><l>gladden<s n="vblex"/></l><r>allietare<s n="vblex"/></r></p></e>
