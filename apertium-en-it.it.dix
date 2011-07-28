@@ -66645,6 +66645,21 @@
     </e>
 
     </pardef>
+    <pardef n="senior__adj">
+    <e>
+      <p>
+        <l></l>
+        <r><s n="adj"/><s n="mf"/><s n="sg"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>es</l>
+        <r><s n="adj"/><s n="mf"/><s n="pl"/></r>
+      </p>
+    </e>
+    </pardef>
 
     <pardef n="acconc/io__adj">
     <e>
@@ -86740,6 +86755,7 @@
     <e lm="pipa"><i>pip</i><par n="cas/a__n"/></e>
     <e lm="piramide"><i>piramid</i><par n="abbreviazion/e__n"/></e>
     <e lm="pirata"><i>pirat</i><par n="suicid/a__n"/></e>
+    <e lm="pirata"><i>pirat</i><par n="suicid/a__adj"/></e>
     <e lm="pirateria"><i>pirateri</i><par n="cas/a__n"/></e>
     <e lm="piroga"><i>pirog</i><par n="tasc/a__n"/></e>
     <e lm="piscina"><i>piscin</i><par n="cas/a__n"/></e>
@@ -89085,6 +89101,7 @@
     <e lm="blando"><i>bland</i><par n="abbandonat/o__adj"/></e>
     <e lm="blindato"><i>blindat</i><par n="abbandonat/o__adj"/></e>
     <e lm="blu"><i>blu</i><par n="extra__adj"/></e>
+    <e lm="senior"><i>senior</i><par n="senior__adj"/></e>
     <e lm="sexy"><i>sexy</i><par n="extra__adj"/></e>
     <e lm="in fiamme"><i>in<b/>fiamme</i><par n="extra__adj"/></e>
     <e lm="di bassa qualità"><i>di<b/>bassa<b/>qualità</i><par n="extra__adj"/></e>
@@ -95661,6 +95678,7 @@
     <e lm="covariante"><i>covariant</i><par n="albanes/e__adj"/></e>
     <e lm="credente"><i>credent</i><par n="albanes/e__adj"/></e>
     <e lm="cuneiforme"><i>cuneiform</i><par n="albanes/e__adj"/></e>
+    <e lm="piriforme"><i>piriform</i><par n="albanes/e__adj"/></e>
     <e lm="decadente"><i>decadent</i><par n="albanes/e__adj"/></e>
     <e lm="decente"><i>decent</i><par n="albanes/e__adj"/></e>
     <e lm="decrescente"><i>decrescent</i><par n="albanes/e__adj"/></e>
