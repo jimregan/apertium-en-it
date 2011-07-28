@@ -15930,7 +15930,7 @@
     <e r="RL"><p><l>functionality<s n="n"/><s n="ND"/></l><r>funzionalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>functionality<s n="n"/><s n="sg"/></l><r>funzionalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>functionality<s n="n"/><s n="pl"/></l><r>funzionalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e><p><l>functioning<s n="n"/></l><r>funzionamento<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>functioning<s n="n"/></l><r>funzionamento<s n="n"/><s n="m"/></r></p></e>
     <e srl="fund"><p><l>fund<s n="n"/></l><r>fondo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fundamentalism<s n="n"/></l><r>fondamentalismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fundamentalist<s n="n"/></l><r>fondamentalista<s n="n"/><s n="mf"/></r></p></e>
@@ -17889,8 +17889,8 @@
     <e><p><l>opening<s n="n"/></l><r>apertura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>opera<s n="n"/></l><r>opera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>operating<b/>theatre<s n="n"/></l><r>sala<b/>operatoria<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>operation<s n="n"/></l><r>funzionamento<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>functioning<n></l><r>funzionamento<n><m></r></e>).-->
-    <e r="RL" c="Med."><p><l>operation<s n="n"/></l><r>operazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>operation<n></l><r>funzionamento<n><m></r></e>).-->
+    <e><p><l>operation<s n="n"/></l><r>funzionamento<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" c="Med."><p><l>operation<s n="n"/></l><r>operazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>operation<s n="n"/><s n="ND"/></l><r>operatività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>operation<s n="n"/><s n="sg"/></l><r>operatività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>operation<s n="n"/><s n="pl"/></l><r>operatività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -20113,11 +20113,12 @@
     <e><p><l>gymnast<s n="n"/></l><r>ginnasta<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>ineptitude<s n="n"/></l><r>inettitudine<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>impossible<s n="n"/></l><r>impossibile<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>task<s n="n"/></l><r>incarico<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>systematisation<s n="n"/></l><r>sistematizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>t-shirt<s n="n"/></l><r>maglietta<s n="n"/><s n="f"/></r></p></e>
     <e slr="tavolo D"><p><l>table<s n="n"/></l><r>tavolo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>table<s n="n"/></l><r>tavolo<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL" slr="tavola"><p><l>table<s n="n"/></l><r>tavola<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>table<n></l><r>tavolo<n><m></r></e>).-->
+    <e r="RL" slr="tavola"><p><l>table<s n="n"/></l><r>tavola<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tableware<s n="n"/></l><r>vasellame<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>taboo<s n="n"/><s n="ND"/></l><r>tabù<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>taboo<s n="n"/><s n="sg"/></l><r>tabù<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -20152,11 +20153,11 @@
     <e><p><l>tapestry<s n="n"/></l><r>arazzo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tar<s n="n"/></l><r>catrame<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tarantula<s n="n"/></l><r>tarantola<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>target<s n="n"/></l><r>bersaglio<s n="n"/><s n="m"/></r></p></e>
-    <e i="yes"><p><l>target<s n="n"/></l><r>obiettivo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>target<n></l><r>bersaglio<n><m></r></e>).-->
+    <e slr="bersaglio D"><p><l>target<s n="n"/></l><r>bersaglio<s n="n"/><s n="m"/></r></p></e>
+    <e slr="obiettivo"><p><l>target<s n="n"/></l><r>obiettivo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tariff<s n="n"/></l><r>tariffa<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>task<s n="n"/></l><r>lavoro<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>task<s n="n"/></l><r>mansione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>task<n></l><r>lavoro<n><m></r></e>).-->
+    <e r="RL"><p><l>task<s n="n"/></l><r>mansione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>taste<s n="n"/></l><r>gusto<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>flavour<s n="n"/></l><r>gusto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>flocculus<s n="n"/></l><r>floculo<s n="n"/><s n="m"/></r></p></e>
