@@ -263,6 +263,9 @@
     <e r="LR"><p><l>another<s n="det"/><s n="ind"/></l><r>un<b/>altro<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>another<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<b/>altro<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>another<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<b/>altro<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>other<s n="det"/><s n="ind"/></l><r>altro<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>other<s n="det"/><s n="ind"/><s n="sg"/></l><r>altro<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>other<s n="det"/><s n="ind"/><s n="sg"/></l><r>altro<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL" c="interrogatives, condicional"><p><l>any<s n="det"/><s n="ind"/><s n="sp"/></l><r>qualche<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
     <e r="RL" c="afirmatives"><p><l>any<s n="det"/><s n="ind"/><s n="sp"/></l><r>qualsiasi<s n="det"/><s n="ind"/></r></p></e>
     <e c="afirmatives"><p><l>any<s n="det"/><s n="ind"/><s n="sp"/></l><r>qualunque<s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -569,7 +572,7 @@
     <e><p><l>alive<s n="adj"/></l><r>vivo<s n="adj"/></r></p></e>
     <e><p><l>allergic<s n="adj"/></l><r>allergico<s n="adj"/></r></p></e>
     <e><p><l>alluvial<s n="adj"/></l><r>alluvionale<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>ally<s n="adj"/></l><r>alleato<s n="adj"/></r></p></e>
+    <e><p><l>allied<s n="adj"/></l><r>alleato<s n="adj"/></r></p></e>
     <e><p><l>alone<s n="adj"/></l><r>solo<s n="adj"/></r></p></e>
     <e><p><l>alphabetic<s n="adj"/></l><r>alfabetico<s n="adj"/></r></p></e>
     <e><p><l>alphanumeric<s n="adj"/></l><r>alfanumerico<s n="adj"/></r></p></e>
@@ -14069,15 +14072,17 @@
     <e><p><l>chocolate<s n="n"/></l><r>cioccolato<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>chocolate<s n="n"/></l><r>cioccolatino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>choice<s n="n"/></l><r>elezione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>choir<s n="n"/></l><r>coro<s n="n"/><s n="m"/></r></p></e>
+    <e srl="choir D"><p><l>choir<s n="n"/></l><r>coro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cholera<s n="n"/></l><r>collera<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cholesterol<s n="n"/></l><r>colesterolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>choline<s n="n"/></l><r>colina<s n="n"/><s n="f"/></r></p></e>
     <e c="check"><p><l>choral<s n="n"/></l><r>corallo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>choreographer<s n="n"/></l><r>coreografia<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>choreography<s n="n"/></l><r>coreografia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>choreographer<n></l><r>coreografia<n><f></r></e>).-->
+    <e><p><l>choreographer<s n="n"/></l><r>coreografo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>choreography<s n="n"/></l><r>coreografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chorology<s n="n"/></l><r>corologia<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>chorus<s n="n"/></l><r>coro<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>choir<n></l><r>coro<n><m></r></e>).-->
+    <e><p><l>quotation<s n="n"/></l><r>quotazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>retribution<s n="n"/></l><r>retribuzione<s n="n"/><s n="f"/></r></p></e>
+    <e srl="chorus"><p><l>chorus<s n="n"/></l><r>coro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>christianisation<s n="n"/></l><r>cristianizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>christmas<s n="n"/></l><r>natale<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chromatin<s n="n"/></l><r>cromatina<s n="n"/><s n="f"/></r></p></e>
@@ -20987,6 +20992,8 @@
     <e r="LR"><p><l>witchcraft<s n="n"/></l><r>stregoneria<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>sorcery<n></l><r>stregoneria<n><f></r></e>).-->
     <e><p><l>withdrawal<s n="n"/></l><r>ritirata<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wizard<s n="n"/></l><r>stregone<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>fox<s n="n"/></l><r>volpe<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>vixen<s n="n"/></l><r>volpe<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>wolf<s n="n"/></l><r>lupo<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>wolf<s n="n"/></l><r>lupo<s n="n"/></r></p></e>
     <e><p><l>woman<s n="n"/></l><r>donna<s n="n"/><s n="f"/></r></p></e>
