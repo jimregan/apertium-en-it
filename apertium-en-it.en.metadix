@@ -20614,6 +20614,22 @@
     <e lm="membership"><i>membership</i><par n="house__n"/>    </e>
     <e lm="membrane" a="carmentano"><i>membrane</i><par n="house__n"/>    </e>
     <e lm="mucous"><i>mucous</i><par n="expensive__adj"/>    </e>
+    <e lm="tanned"><i>tanned</i><par n="expensive__adj"/>    </e>
+    <e lm="anaemic"><i>an</i><par n="e_ae"/><i>mic</i><par n="expensive__adj"/>    </e>
+    <e lm="appetising"><i>appeti</i><par n="z_s"/><i>ing</i><par n="expensive__adj"/>    </e>
+    <e lm="adult"><i>adult</i><par n="expensive__adj"/>    </e>
+    <e lm="avid"><i>avid</i><par n="expensive__adj"/>    </e>
+    <e lm="bearded"><i>bearded</i><par n="expensive__adj"/>    </e>
+    <e lm="baroque"><i>baroque</i><par n="expensive__adj"/>    </e>
+    <e lm="asturian"><i>asturian</i><par n="expensive__adj"/>    </e>
+    <e lm="alicantean"><i>alicantean</i><par n="expensive__adj"/>    </e>
+    <e lm="alternating"><i>alternating</i><par n="expensive__adj"/>    </e>
+    <e lm="assiduous"><i>assiduous</i><par n="expensive__adj"/>    </e>
+    <e lm="absorbed"><i>absorbed</i><par n="expensive__adj"/>    </e>
+    <e lm="habitual"><i>habitual</i><par n="expensive__adj"/>    </e>
+    <e lm="watery"><i>watery</i><par n="expensive__adj"/>    </e>
+    <e lm="acrylic"><i>acrylic</i><par n="expensive__adj"/>    </e>
+    <e lm="adopted"><i>adopted</i><par n="expensive__adj"/>    </e>
     <e lm="memory"><i>memor</i><par n="bab/y__n"/>    </e>
     <e lm="memorandum"><i>memorandum</i><par n="house__n"/>    </e>
     <e lm="menopause"><i>menopause</i><par n="house__n"/>    </e>
@@ -24275,6 +24291,7 @@
     <e lm="methodological"><i>methodological</i><par n="expensive__adj"/>    </e>
     <e lm="metric"><i>metric</i><par n="expensive__adj"/>    </e>
     <e lm="metropolitan"><i>metropolitan</i><par n="expensive__adj"/>    </e>
+    <e lm="metropolitan"><i>metropolitan</i><par n="house__n"/>    </e>
     <e lm="microscopic"><i>microscopic</i><par n="expensive__adj"/>    </e>
     <e lm="migratory"><i>migratory</i><par n="expensive__adj"/>    </e>
     <e lm="mild"><i>mild</i><par n="long/__adj"/>    </e>
@@ -29226,6 +29243,24 @@
     <e lm="camomile"><i>camomile</i><par n="house__n"/>     </e>
     <e lm="camphor"><i>camphor</i><par n="house__n"/>     </e>
     <e lm="candela"><i>candela</i><par n="house__n"/>     </e>
+    <e lm="gymnast"><i>gymnast</i><par n="house__n"/>     </e>
+    <e lm="rooster"><i>rooster</i><par n="house__n"/>     </e>
+    <e lm="stump"><i>stump</i><par n="house__n"/>     </e>
+    <e lm="goldsmith"><i>goldsmith</i><par n="house__n"/>     </e>
+    <e lm="pigsty"><i>pigst</i><par n="bab/y__n"/>     </e>
+    <e lm="rosemary"><i>rosemar</i><par n="bab/y__n"/>     </e>
+    <e lm="must"><i>must</i><par n="house__n"/>     </e>
+    <e lm="cue"><i>cue</i><par n="house__n"/>     </e>
+    <e lm="spumante"><i>spumante</i><par n="house__n"/>     </e>
+    <e lm="bull"><i>bull</i><par n="house__n"/>     </e>
+    <e lm="torso"><i>torso</i><par n="house__n"/>     </e>
+    <e lm="nougat"><i>nougat</i><par n="house__n"/>     </e>
+    <e lm="drug addiction"><i>drug<b/>addiction</i><par n="house__n"/>     </e>
+    <e lm="xenophobia"><i>xenophobia</i><par n="house__n"/>     </e>
+    <e lm="fox"><i>fox</i><par n="access__n"/>     </e>
+    <e lm="nutation"><i>nutation</i><par n="house__n"/>     </e>
+    <e lm="feedback"><i>feedback</i><par n="house__n"/>     </e>
+    <e lm="pulsation"><i>pulsation</i><par n="house__n"/>     </e>
     <e lm="candidate"><i>candidate</i><par n="house__n"/>     </e>
     <e lm="cannibal"><i>cannibal</i><par n="house__n"/>     </e>
     <e lm="canonical"><i>canonical</i><par n="expensive__adj"/>     </e>

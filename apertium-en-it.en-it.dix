@@ -634,7 +634,7 @@
     <e><p><l>apologetic<s n="adj"/></l><r>apologetico<s n="adj"/></r></p></e>
     <e><p><l>apparent<s n="adj"/></l><r>apparente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>appealable<s n="adj"/></l><r>appellabile<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>appetizing<s n="adj"/></l><r>appetitoso<s n="adj"/></r></p></e>
+    <e><p><l>appetising<s n="adj"/></l><r>appetitoso<s n="adj"/></r></p></e>
     <e r="RL"><p><l>applauding<s n="adj"/></l><r>acclamante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>applauding<s n="adj"/></l><r>applaudente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>applicable<s n="adj"/></l><r>applicabile<s n="adj"/><s n="mf"/></r></p></e>
@@ -12129,7 +12129,7 @@
     <e r="RL"><p><l>twin<s n="n"/></l><r>gemello<s n="n"/></r></p></e>
     <e><p><l>antiderivative<s n="n"/></l><r>primitiva<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>batiste<s n="n"/></l><r>batista<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>candela<s n="n"/></l><r>candela<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>candela<s n="n"/></l><r>candela<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>citizenship<s n="n"/></l><r>cittadinanza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cochlea<s n="n"/></l><r>coclea<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>contingency<s n="n"/></l><r>contingenza<s n="n"/><s n="f"/></r></p></e>
@@ -14164,7 +14164,7 @@
     <e><p><l>clone<s n="n"/></l><r>clone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cloning<s n="n"/></l><r>clonazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>closet<s n="n"/></l><r>armadio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>cabinet<n></l><r>armadio<n><m></r></e>).-->
-    <e><p><l>closure<s n="n"/></l><r>chiusura<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>closure<s n="n"/></l><r>chiusura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cloth<s n="n"/><s n="pl"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cloth<b/>pulp<s n="n"/></l><r>pasta<g><b/>di<b/>stracci</g><s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>clothes<s n="n"/><s n="pl"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>cloth<n><pl></l><r>vestito<n><m></r></e>).-->
@@ -14190,7 +14190,9 @@
     <e r="LR"><p><l>cobblestone<s n="n"/><s n="pl"/></l><r>pavé<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>cobweb<s n="n"/></l><r>ragnatela<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cocaine<s n="n"/></l><r>cocaina<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>cock<s n="n"/></l><r>gallo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rooster<s n="n"/></l><r>gallo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mortal<s n="n"/></l><r>mortale<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>nomad<s n="n"/></l><r>nomade<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>cockroach<s n="n"/></l><r>blatta<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>cocktail<s n="n"/><s n="sg"/></l><r>cocktail<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>cocktail<s n="n"/><s n="pl"/></l><r>cocktail<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -14388,7 +14390,7 @@
     <e i="yes"><p><l>confirmation<s n="n"/></l><r>caso<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>case<n></l><r>caso<n><m></r></e>).-->
     <e><p><l>conflagration<s n="n"/></l><r>conflagrazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>conflict<s n="n"/></l><r>conflitto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>altercation<n></l><r>conflitto<n><m></r></e>).-->
-    <e r="RL"><p><l>conflict<s n="n"/></l><r>conflittualità<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>conflict<s n="n"/></l><r>conflittualità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>confluence<s n="n"/></l><r>confluenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>conformism<s n="n"/></l><r>conformismo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>conformity<s n="n"/><s n="sg"/></l><r>conformità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -17432,10 +17434,7 @@
     <e><p><l>microscopy<s n="n"/></l><r>microscopia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>microsecond<s n="n"/></l><r>microsecondo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>microtubule<s n="n"/></l><r>microtubulo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>microwave<s n="n"/></l><r>microonde<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e i="yes"><p><l>microwave<s n="n"/><s n="ND"/></l><r>microonde<s n="n"/><s n="m"/><s n="sp"/></r></p></e><!--  autorestricted (<e><l>microwave<n></l><r>microonde<n><m><sp></r></e>).-->
-    <e r="LR"><p><l>microwave<s n="n"/><s n="sg"/></l><r>microonde<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>microwave<s n="n"/><s n="pl"/></l><r>microonde<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>microwave<s n="n"/></l><r>microonde<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>microwave<b/>oven<s n="n"/></l><r>forno<g><b/>a<b/>microonde</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>middle<b/>finger<s n="n"/></l><r>dito<b/>medio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>midfielder<s n="n"/></l><r>centrocampista<s n="n"/><s n="GD"/></r></p></e>
@@ -18068,16 +18067,13 @@
     <e><p><l>panorama<s n="n"/></l><r>panorama<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pantheism<s n="n"/></l><r>panteismo<s n="n"/><s n="m"/></r></p></e>
     <e c="US"><p><l>pants<s n="n"/></l><r>pantalone<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>paper<s n="n"/></l><r>articolo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>article<n></l><r>articolo<n><m></r></e>).-->
-    <e r="RL"><p><l>paper<s n="n"/></l><r>carta<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>paper<n></l><r>articolo<n><m></r></e>).-->
-    <e i="yes"><p><l>paper<s n="n"/></l><r>carta<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>card<n></l><r>carta<n><f></r></e>).-->
+    <e slr="articolo"><p><l>paper<s n="n"/></l><r>articolo<s n="n"/><s n="m"/></r></p></e>
+    <e slr="carta D"><p><l>paper<s n="n"/></l><r>carta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>paprika<s n="n"/></l><r>paprica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>papyrus<s n="n"/></l><r>papiro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>parabola<s n="n"/></l><r>parabola<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>paracetamol<s n="n"/></l><r>paracetamolo<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>parachute<s n="n"/><s n="ND"/></l><r>paracadute<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>parachute<s n="n"/><s n="sg"/></l><r>paracadute<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>parachute<s n="n"/><s n="pl"/></l><r>paracadute<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>parachute<s n="n"/></l><r>paracadute<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>parachuting<s n="n"/></l><r>paracadutismo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>parachutist<s n="n"/></l><r>paracadutista<s n="n"/></r></p></e>
     <e r="LR"><p><l>parachutist<s n="n"/></l><r>paracadutista<s n="n"/><s n="GD"/></r></p></e>
@@ -18578,6 +18574,7 @@
     <e><p><l>preaching<s n="n"/></l><r>predicazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>precedence<s n="n"/></l><r>precedenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>precedent<s n="n"/></l><r>precedente<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>precedent<s n="n"/></l><r>precedente<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>reunion<s n="n"/></l><r>ricongiungimento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>recourse<s n="n"/></l><r>ricorso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>precipice<s n="n"/></l><r>precipizio<s n="n"/><s n="m"/></r></p></e>
@@ -24357,6 +24354,7 @@
     <e><p><l>community<s n="n"/></l><r>comunità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>complementarity<s n="n"/></l><r>complementarità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>condom<s n="n"/></l><r>profilattico<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>condom<s n="n"/></l><r>condom<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>connectivity<s n="n"/></l><r>connettività<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>consanguinity<s n="n"/></l><r>consanguineità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>constitutionality<s n="n"/></l><r>costituzionalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
@@ -24841,6 +24839,7 @@
     <e><p><l>tropic<s n="n"/></l><r>tropico<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>wagon<s n="n"/></l><r>carro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>abstentionist<s n="adj"/></l><r>astensionista<s n="adj"/></r></p></e>
+    <e><p><l>mucous<s n="adj"/></l><r>mucoso<s n="adj"/></r></p></e>
     <e><p><l>altruistic<s n="adj"/></l><r>altruista<s n="adj"/></r></p></e>
     <e><p><l>annexationist<s n="adj"/></l><r>annessionista<s n="adj"/></r></p></e>
     <e><p><l>antiracist<s n="adj"/></l><r>antirazzista<s n="adj"/></r></p></e>
