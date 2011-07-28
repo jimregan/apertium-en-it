@@ -13633,10 +13633,10 @@
     <e><p><l>breakdown<s n="n"/></l><r>guasto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>breakfast<s n="n"/></l><r>colazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>breast<s n="n"/></l><r>petto<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>breast<s n="n"/></l><r>seno<s n="n"/><s n="m"/></r></p></e>
+    <e srl="breast D"><p><l>breast<s n="n"/></l><r>seno<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>breastbone<s n="n"/></l><r>sterno<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>breath<s n="n"/></l><r>respirazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>breathing<s n="n"/></l><r>respirazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>breath<n></l><r>respirazione<n><f></r></e>).-->
+    <e r="LR"><p><l>breathing<s n="n"/></l><r>respirazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>breed<s n="n"/></l><r>razza<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>breeder<s n="n"/></l><r>allevatore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>breeder<s n="n"/></l><r>allevatore<s n="n"/></r></p></e>
@@ -17141,8 +17141,8 @@
     <e r="LR"><p><l>raven<s n="n"/></l><r>corvo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>location<s n="n"/></l><r>localizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pancake<s n="n"/></l><r>crêpe<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
-    <e r="LR"><p><l>grand<b/>master<s n="n"/></l><r>gran<b/>maestro<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>grand<b/>master<s n="n"/></l><r>gran<b/>maestro<s n="n"/></r></p></e>
+    <e r="LR"><p><l>grandmaster<s n="n"/></l><r>gran<b/>maestro<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>grandmaster<s n="n"/></l><r>gran<b/>maestro<s n="n"/></r></p></e>
     <e><p><l>backup<s n="n"/></l><r>riserva<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>LASIK<s n="n"/><s n="acr"/></l><r>LASIK<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>location<s n="n"/></l><r>ubicazione<s n="n"/><s n="f"/></r></p></e>
@@ -18576,7 +18576,9 @@
     <e><p><l>pre-ordering<s n="n"/></l><r>pre-ordinazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>preaching<s n="n"/></l><r>predicazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>precedence<s n="n"/></l><r>precedenza<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>precedent<s n="n"/></l><r>precedente<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>precedent<s n="n"/></l><r>precedente<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>reunion<s n="n"/></l><r>ricongiungimento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>recourse<s n="n"/></l><r>ricorso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>precipice<s n="n"/></l><r>precipizio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>precipitation<s n="n"/></l><r>precipitazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>predestination<s n="n"/></l><r>predestinazione<s n="n"/><s n="f"/></r></p></e>
@@ -18845,6 +18847,9 @@
     <e><p><l>queen<s n="n"/></l><r>re<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>query<s n="n"/></l><r>consulta<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>consultation<n></l><r>consulta<n><f></r></e>).-->
     <e><p><l>question<s n="n"/></l><r>questione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>interrogative<s n="n"/></l><r>interrogativo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>question<b/>mark<s n="n"/></l><r>punto<b/>interrogativo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>karateka<s n="n"/></l><r>karateka<s n="n"/><s n="mf"/></r></p><par n="SP"/></e>
     <e><p><l>quinine<s n="n"/></l><r>chinino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>quintet<s n="n"/></l><r>quintetto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>quota<s n="n"/></l><r>quota<s n="n"/><s n="f"/></r></p></e>
@@ -19613,9 +19618,9 @@
     <e r="LR"><p><l>singing<s n="n"/></l><r>canto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>edge<n></l><r>canto<n><m></r></e>).-->
     <e><p><l>sinking<s n="n"/></l><r>affondamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sintering<s n="n"/></l><r>sinterizzazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>sinus<s n="n"/></l><r>seno<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>breast<n></l><r>seno<n><m></r></e>).-->
+    <e srl="sinus"><p><l>sinus<s n="n"/></l><r>seno<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>sir<s n="n"/></l><r>signore<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>sister<s n="n"/></l><r>sorella<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sister<s n="n"/></l><r>sorella<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>site<s n="n"/></l><r>posto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>place<n></l><r>posto<n><m></r></e>).-->
     <e><p><l>situation<s n="n"/></l><r>situazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sixth<s n="n"/></l><r>sesto<s n="n"/><s n="m"/></r></p></e>
@@ -19810,7 +19815,7 @@
     <e><p><l>splenomegaly<s n="n"/></l><r>splenomegalia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>splinter<s n="n"/></l><r>scheggia<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>spokesman<s n="n"/></l><r>portavoce<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><p><l>spokesperson<s n="n"/></l><r>portavoce<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>spokesperson<s n="n"/></l><r>portavoce<s n="n"/><s n="mf"/></r></p><par n="SP"/></e>
     <e r="LR"><p><l>spokeswoman<s n="n"/></l><r>portavoce<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>sponge<s n="n"/></l><r>spugna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sponsorship<s n="n"/></l><r>patrocinio<s n="n"/><s n="m"/></r></p></e>
@@ -20154,7 +20159,9 @@
     <e><p><l>tar<s n="n"/></l><r>catrame<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tarantula<s n="n"/></l><r>tarantola<s n="n"/><s n="f"/></r></p></e>
     <e slr="bersaglio D"><p><l>target<s n="n"/></l><r>bersaglio<s n="n"/><s n="m"/></r></p></e>
-    <e slr="obiettivo"><p><l>target<s n="n"/></l><r>obiettivo<s n="n"/><s n="m"/></r></p></e>
+    <e slr="obiettivo" r="LR"><p><l>target<s n="n"/></l><r>obiettivo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>insomnia<s n="n"/></l><r>insonnia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>integral<s n="n"/></l><r>integrante<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>tariff<s n="n"/></l><r>tariffa<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>task<s n="n"/></l><r>lavoro<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>task<s n="n"/></l><r>mansione<s n="n"/><s n="f"/></r></p></e>
@@ -20603,6 +20610,7 @@
     <e r="RL"><p><l>unemployed<b/>person<s n="n"/><s n="sg"/></l><r>disoccupato<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>unemployment<s n="n"/></l><r>disoccupazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>unexpected<s n="n"/></l><r>imprevisto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>scaffolding<s n="n"/></l><r>impalcatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>unicorn<s n="n"/></l><r>unicorno<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>unification<s n="n"/></l><r>unificazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>uniform<s n="n"/></l><r>divisa<s n="n"/><s n="f"/></r></p></e>
@@ -20881,10 +20889,10 @@
     <e><p><l>wart<s n="n"/></l><r>verruca<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>washing<b/>machine<s n="n"/></l><r>lavatrice<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wasp<s n="n"/></l><r>vespa<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>waste<s n="n"/><s n="sg"/></l><r>residuo<s n="n"/><s n="m"/><s n="pl"/></r></p></e><!--  autorestricted (<e><l>refuse<n><sg></l><r>residuo<n><m><pl></r></e>).-->
-    <e r="LR"><p><l>waste<s n="n"/></l><r>residuo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>residue<n></l><r>residuo<n><m></r></e>).-->
-    <e r="RL"><p><l>waste<s n="n"/></l><r>spreco<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>waste<n></l><r>residuo<n><m></r></e>).-->
-    <e r="LR"><p><l>watch<s n="n"/></l><r>orologio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>clock<n></l><r>orologio<n><m></r></e>).-->
+    <e><p><l>pirogue<s n="n"/></l><r>piroga<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>waste<s n="n"/></l><r>residuo<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>waste<s n="n"/></l><r>spreco<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>watch<s n="n"/></l><r>orologio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>watchdog<s n="n"/></l><r>sorvegliante<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>watchmaking<s n="n"/></l><r>orologeria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>watchtower<s n="n"/></l><r>torre<g><b/>di<b/>guardia</g><s n="n"/><s n="f"/></r></p></e>
