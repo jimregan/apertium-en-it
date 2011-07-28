@@ -25570,6 +25570,7 @@
     <e lm="content"><i>content</i><par n="accept__vblex"/>    </e>
     <e lm="contest"><i>contest</i><par n="accept__vblex"/>    </e>
     <e lm="continue"><i>continu</i><par n="liv/e__vblex"/>    </e>
+    <e lm="dispute"><i>disput</i><par n="liv/e__vblex"/>    </e>
     <e lm="contract"><i>contract</i><par n="accept__vblex"/>    </e>
     <e lm="contradict"><i>contradict</i><par n="accept__vblex"/>    </e>
     <e lm="contrast"><i>contrast</i><par n="accept__vblex"/>    </e>
@@ -26042,6 +26043,9 @@
     <e lm="intensify"><i>intensif</i><par n="appl/y__vblex"/>    </e>
     <e lm="intercept"><i>intercept</i><par n="accept__vblex"/>    </e>
     <e lm="interest"><i>interest</i><par n="accept__vblex"/>    </e>
+    <e lm="err"><i>err</i><par n="accept__vblex"/>    </e>
+    <e lm="weld"><i>weld</i><par n="accept__vblex"/>    </e>
+    <e lm="obligate"><i>obligat</i><par n="liv/e__vblex"/>    </e>
     <e lm="interfere"><i>interfer</i><par n="liv/e__vblex"/>    </e>
     <e lm="internalize"><i>internali</i><par n="organi/ze__vblex"/>    </e>
     <e lm="interpose"><i>interpos</i><par n="liv/e__vblex"/>    </e>
@@ -26179,6 +26183,7 @@
     <e lm="name"><i>nam</i><par n="liv/e__vblex"/>    </e>
     <e lm="nationalize"><i>nationali</i><par n="organi/ze__vblex"/>    </e>
     <e lm="need"><i>need</i><par n="accept__vblex"/>    </e>
+    <e lm="need to" r="RL"><i>need</i><par n="accept__vblex"/><p><l><b/>to</l><r><g><b/>to</g></r></p></e>
     <e lm="neglect"><i>neglect</i><par n="accept__vblex"/>    </e>
     <e lm="negotiate"><i>negotiat</i><par n="liv/e__vblex"/>    </e>
     <e lm="neutralize"><i>neutrali</i><par n="organi/ze__vblex"/>    </e>
@@ -35187,6 +35192,7 @@
     <e lm="revisitation"><i>revisitation</i><par n="house__n"/></e>
     <e lm="signalling"><i>signa</i><par n="l_ll"/><i>ing</i><par n="house__n"/></e>
     <e lm="recitation"><i>recitation</i><par n="house__n"/></e>
+    <e lm="citation"><i>citation</i><par n="house__n"/></e>
     <e lm="proclamation"><i>proclamation</i><par n="house__n"/></e>
     <e lm="personalisation"><i>personali</i><par n="globali/sation__n"/></e>
     <e lm="sunstroke"><i>sunstroke</i><par n="house__n"/></e>

@@ -453,7 +453,7 @@
     <e><p><l>blackmailer<s n="adj"/></l><r>ricattatore<s n="adj"/></r></p></e>
     <e r="LR"><p><l>blackmailer<s n="n"/></l><r>ricattatore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>blackmailer<s n="n"/></l><r>ricattatore<s n="n"/></r></p></e>
-    <e><p><l>Asturian<s n="adj"/></l><r>asturiano<s n="adj"/></r></p></e>
+    <e><p><l>asturian<s n="adj"/></l><r>asturiano<s n="adj"/></r></p></e>
     <e><p><l>Castilian<s n="adj"/></l><r>castiglionese<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>ethiopian<s n="adj"/></l><r>etiope<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>flemish<s n="adj"/></l><r>fiammingo<s n="adj"/></r></p></e>
@@ -2187,7 +2187,7 @@
     <e><p><l>moroccan<s n="adj"/></l><r>marocchino<s n="adj"/></r></p></e>
     <e><p><l>mortal<s n="adj"/></l><r>mortale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>motionless<s n="adj"/></l><r>immobile<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>mucous<s n="adj"/></l><r>mucosa<s n="adj"/></r></p></e>
+    <e><p><l>mucous<s n="adj"/></l><r>mucosa<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>multicultural<s n="adj"/></l><r>multiculturale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>multilateral<s n="adj"/></l><r>multilaterale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>multilingual<s n="adj"/></l><r>multilingue<s n="adj"/><s n="mf"/></r></p></e>
@@ -12498,6 +12498,7 @@
     <e><p><l>Protestant<s n="n"/></l><r>protestante<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>Punic<b/>war<s n="n"/></l><r>guerra<b/>punica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>romanisation<s n="n"/></l><r>romanizzazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>indoctrination<s n="n"/></l><r>indottrinazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Russian<s n="n"/></l><r>russo<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Russian<s n="n"/></l><r>russo<s n="n"/></r></p></e>
     <e><p><l>Russification<s n="n"/></l><r>russificazione<s n="n"/><s n="f"/></r></p></e>
@@ -13069,13 +13070,11 @@
     <e><p><l>applicability<s n="n"/></l><r>applicabilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>blogger<s n="n"/></l><r>blogger<s n="n"/><s n="mf"/></r></p><par n="SP"/></e>
     <e><p><l>application<s n="n"/></l><r>applicazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>appointment<s n="n"/></l><r>citazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>appointment<s n="n"/></l><r>appuntamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>apposition<s n="n"/></l><r>apposizione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>apprentice<s n="n"/></l><r>apprendista<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>apprentice<s n="n"/></l><r>apprendista<s n="n"/></r></p></e>
     <e><p><l>approach<s n="n"/></l><r>ravvicinamento<s n="n"/><s n="m"/></r></p></e>
-    <e i="yes"><p><l>approach<s n="n"/></l><r>accesso<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>access<n></l><r>accesso<n><m></r></e>).-->
     <e r="RL"><p><l>approach<s n="n"/></l><r>avvicinamento<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>approach<s n="n"/></l><r>approccio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>appropriation<s n="n"/></l><r>appropriazione<s n="n"/><s n="f"/></r></p></e>
@@ -18851,7 +18850,7 @@
     <e><p><l>quinine<s n="n"/></l><r>chinino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>quintet<s n="n"/></l><r>quintetto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>quota<s n="n"/></l><r>quota<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>quotation<s n="n"/></l><r>citazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>appointment<n></l><r>citazione<n><f></r></e>).-->
+    <e><p><l>citation<s n="n"/></l><r>citazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>quotation<b/>mark<s n="n"/><s n="ND"/></l><r>virgolette<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>quotation<b/>mark<s n="n"/><s n="sg"/></l><r>virgolette<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>quotation<b/>mark<s n="n"/><s n="pl"/></l><r>virgolette<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -22347,7 +22346,7 @@
     <e><p><l>get<g><b/>dark</g><s n="vblex"/></l><r>oscurare<s n="vblex"/></r></p></e>
     <e><p><l>house<s n="vblex"/></l><r>albergare<s n="vblex"/></r></p></e>
     <e><p><l>practice<s n="vblex"/></l><r>praticare<s n="vblex"/></r></p></e>
-    <e><p><l>reach<g><b/>for</g><s n="vblex"/></l><r>prendere<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>reach<g><b/>for</g><s n="vblex"/></l><r>prendere<s n="vblex"/></r></p></e>
     <e><p><l>reinstate<s n="vblex"/></l><r>ristabilire<s n="vblex"/></r></p></e>
     <e><p><l>repel<s n="vblex"/></l><r>repellere<s n="vblex"/></r></p></e>
     <e><p><l>schedule<s n="vblex"/></l><r>pianificare<s n="vblex"/></r></p></e>
@@ -22535,6 +22534,8 @@
     <e r="LR"><p><l>be<g><b/>dying</g><s n="vblex"/></l><r>agonizzare<s n="vblex"/></r></p></e>
     <e><p><l>be<g><b/>equivalent</g><s n="vblex"/></l><r>equivalere<s n="vblex"/></r></p></e>
     <e><p><l>be<g><b/>hungry</g><s n="vblex"/></l><r>avere<g><b/>fame</g><s n="vblex"/></r></p></e>
+    <e><p><l>need<s n="vblex"/></l><r>avere<b/>bisogno<b/>di<s n="vbmod"/></r></p></e>
+    <e><p><l>need<g><b/>to</g><s n="vblex"/></l><r>avere<b/>bisogno<b/>che<s n="vbmod"/></r></p></e>
     <e><p><l>be<g><b/>in<b/>decline</g><s n="vblex"/></l><r>agonizzare<s n="vblex"/></r></p></e>
     <e><p><l>be<g><b/>left</g><s n="vblex"/></l><r>restare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>be<g><b/>missing</g><s n="vblex"/></l><r>mancare<s n="vblex"/></r></p></e>
@@ -22762,7 +22763,8 @@
     <e><p><l>contemplate<s n="vblex"/></l><r>contemplare<s n="vblex"/></r></p></e>
     <e><p><l>contend<s n="vblex"/></l><r>contendere<s n="vblex"/></r></p></e>
     <e><p><l>content<s n="vblex"/></l><r>contentare<s n="vblex"/></r></p></e>
-    <e><p><l>contest<s n="vblex"/></l><r>disputare<s n="vblex"/></r></p></e>
+    <e><p><l>contest<s n="vblex"/></l><r>contestare<s n="vblex"/></r></p></e>
+    <e><p><l>dispute<s n="vblex"/></l><r>disputare<s n="vblex"/></r></p></e>
     <e><p><l>continue<s n="vblex"/></l><r>continuare<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>continue<s n="vblex"/></l><r>proseguire<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>continue<vblex></l><r>continuare<vblex></r></e>).-->
     <e><p><l>contract<s n="vblex"/></l><r>contrarre<s n="vblex"/></r></p></e>
@@ -22773,6 +22775,9 @@
     <e><p><l>contrive<s n="vblex"/></l><r>ideare<s n="vblex"/></r></p></e>
     <e><p><l>control<s n="vblex"/></l><r>controllare<s n="vblex"/></r></p></e>
     <e><p><l>converge<s n="vblex"/></l><r>convergere<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>converge<s n="vblex"/></l><r>confluire<s n="vblex"/></r></p></e>
+    <e><p><l>err<s n="vblex"/></l><r>errare<s n="vblex"/></r></p></e>
+    <e><p><l>obligate<s n="vblex"/></l><r>obligare<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>converse<s n="vblex"/></l><r>dialogare<s n="vblex"/></r></p></e>
     <e><p><l>converse<s n="vblex"/></l><r>conversare<s n="vblex"/></r></p></e>
     <e><p><l>convert<s n="vblex"/></l><r>convertire<s n="vblex"/></r></p></e>
@@ -22822,7 +22827,7 @@
     <e><p><l>dampen<s n="vblex"/></l><r>inumidire<s n="vblex"/></r></p></e>
     <e><p><l>dance<s n="vblex"/></l><r>ballare<s n="vblex"/></r></p></e>
     <e><p><l>dare<s n="vblex"/></l><r>osare<s n="vblex"/></r></p></e>
-    <e><p><l>darken<s n="vblex"/></l><r>oscurare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>darken<s n="vblex"/></l><r>oscurare<s n="vblex"/></r></p></e>
     <e><p><l>date<s n="vblex"/></l><r>datare<s n="vblex"/></r></p></e>
     <e><p><l>dazzle<s n="vblex"/></l><r>abbagliare<s n="vblex"/></r></p></e>
     <e><p><l>deal<s n="vblex"/></l><r>trattare<s n="vblex"/></r></p></e>
@@ -23530,15 +23535,15 @@
     <e><p><l>nourish<s n="vblex"/></l><r>nutrire<s n="vblex"/></r></p></e>
     <e><p><l>number<s n="vblex"/></l><r>numerare<s n="vblex"/></r></p></e>
     <e><p><l>obey<s n="vblex"/></l><r>obbedire<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>obscure<s n="vblex"/></l><r>oscurare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>darken<vblex></l><r>oscurare<vblex></r></e>).-->
+    <e r="LR"><p><l>obscure<s n="vblex"/></l><r>oscurare<s n="vblex"/></r></p></e>
     <e><p><l>observe<s n="vblex"/></l><r>osservare<s n="vblex"/></r></p></e>
     <e><p><l>obstruct<s n="vblex"/></l><r>ostruire<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>obtain<s n="vblex"/></l><r>ottenere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>gain<vblex></l><r>ottenere<vblex></r></e>).-->
+    <e r="LR"><p><l>obtain<s n="vblex"/></l><r>ottenere<s n="vblex"/></r></p></e>
     <e><p><l>occupy<s n="vblex"/></l><r>occupare<s n="vblex"/></r></p></e>
     <e><p><l>occur<s n="vblex"/></l><r>occorrere<s n="vblex"/></r></p></e>
     <e><p><l>offend<s n="vblex"/></l><r>offendere<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>offer<s n="vblex"/></l><r>offrire<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>bid<vblex></l><r>offrire<vblex></r></e>).-->
-    <e r="RL"><p><l>offer<s n="vblex"/></l><r>brindare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>offer<vblex></l><r>offrire<vblex></r></e>).-->
+    <e r="LR"><p><l>offer<s n="vblex"/></l><r>offrire<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>offer<s n="vblex"/></l><r>brindare<s n="vblex"/></r></p></e>
     <e><p><l>omit<s n="vblex"/></l><r>omettere<s n="vblex"/></r></p></e>
     <e><p><l>open<s n="vblex"/></l><r>aprire<s n="vblex"/></r></p></e>
     <e><p><l>operate<s n="vblex"/></l><r>operare<s n="vblex"/></r></p></e>
@@ -23560,9 +23565,9 @@
     <e><p><l>paralyse<s n="vblex"/></l><r>paralizzare<s n="vblex"/></r></p></e>
     <e><p><l>park<s n="vblex"/></l><r>parcheggiare<s n="vblex"/></r></p></e>
     <e><p><l>part<s n="vblex"/></l><r>separare<s n="vblex"/></r></p></e>
-    <e><p><l>participate<s n="vblex"/></l><r>partecipare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>pass<s n="vblex"/></l><r>passare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>happen<vblex></l><r>passare<vblex></r></e>).-->
-    <e r="RL"><p><l>pass<s n="vblex"/></l><r>transitare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>pass<vblex></l><r>passare<vblex></r></e>).-->
+    <e r="LR"><p><l>participate<s n="vblex"/></l><r>partecipare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>pass<s n="vblex"/></l><r>passare<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>pass<s n="vblex"/></l><r>transitare<s n="vblex"/></r></p></e>
     <e><p><l>patent<s n="vblex"/></l><r>brevettare<s n="vblex"/></r></p></e>
     <e><p><l>pause<s n="vblex"/></l><r>sostare<s n="vblex"/></r></p></e>
     <e><p><l>pay<s n="vblex"/></l><r>pagare<s n="vblex"/></r></p></e>
@@ -23865,6 +23870,8 @@
     <e r="LR"><p><l>shut<g><b/>down</g><s n="vblex"/></l><r>chiudere<s n="vblex"/></r></p></e>
     <e><p><l>sigh<s n="vblex"/></l><r>sospirare<s n="vblex"/></r></p></e>
     <e><p><l>sign<s n="vblex"/></l><r>firmare<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>sign<s n="vblex"/></l><r>siglare<s n="vblex"/></r></p></e>
+    <e><p><l>weld<s n="vblex"/></l><r>saldare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>signal<s n="vblex"/></l><r>segnalare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>point<vblex></l><r>segnalare<vblex></r></e>).-->
     <e><p><l>simplify<s n="vblex"/></l><r>semplificare<s n="vblex"/></r></p></e>
     <e><p><l>simulate<s n="vblex"/></l><r>simulare<s n="vblex"/></r></p></e>
@@ -23952,8 +23959,8 @@
     <e c="(I took him home) slr!" i="yes"><p><l>take<s n="vblex"/></l><r>portare<s n="vblex"/></r></p></e>
     <e c="(a coffee)"><p><l>take<s n="vblex"/></l><r>prendere<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>take<s n="vblex"/></l><r>tardare<s n="vblex"/></r></p></e>
-    <e r="LR" slr="mediare"><p><l>take<g><b/>part</g><s n="vblex"/></l><r>mediare<s n="vblex"/></r></p></e>
-    <e slr="partecipare D" i="yes"><p><l>take<g><b/>part</g><s n="vblex"/></l><r>partecipare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>take<g><b/>part</g><vblex></l><r>mediare<vblex></r></e>).-->
+    <e slr="mediare"><p><l>take<g><b/>part</g><s n="vblex"/></l><r>mediare<s n="vblex"/></r></p></e>
+    <e slr="partecipare D"><p><l>take<g><b/>part</g><s n="vblex"/></l><r>partecipare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>talk<s n="vblex"/></l><r>parlare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>discuss<vblex></l><r>parlare<vblex></r></e>).-->
     <e r="LR" c="no sé si és bona trad"><p><l>tap<s n="vblex"/></l><r>toccare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="RL"><l>play<vblex></l><r>toccare<vblex></r></e>).-->
     <e r="LR"><p><l>target<s n="vblex"/></l><r>puntare<s n="vblex"/></r></p></e>

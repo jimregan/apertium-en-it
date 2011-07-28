@@ -87784,6 +87784,7 @@
     <e lm="telaio"><i>telai</i><par n="abbagli/o__n"/></e>
     <e lm="telecomunicazione"><i>telecomunicazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="inettitudine"><i>inettitudin</i><par n="abbreviazion/e__n"/></e>
+    <e lm="indottrinazione"><i>indottrinazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="tenacità"><i>tenacità</i><par n="abilità__n"/></e>
     <e lm="truppa"><i>trupp</i><par n="cas/a__n"/></e>
     <e lm="fax"><i>fax</i><par n="albatros__n"/></e>
@@ -90341,8 +90342,7 @@
     <!--<e lm="dovere essere"><i>d</i><par n="d/overe__vbmod"/><p><l><b/>essere</l><r><g><b/>essere</g></r></p></e>-->
     <e lm="avere bisogno di"><i></i><par n="/avere_bisogno_di__vbmod"/></e>
     <e lm="avere bisogno che"><i></i><par n="/avere_bisogno_che__vbmod"/></e>
-    <e lm="avere tempo"><i></i><par n="/avere__vbhaver"/><p><l><b/>tempo</l><r><g><b/>tempo</g></r></p></e>
-    <e lm="avere fame"><i></i><par n="/avere__vbhaver"/><p><l><b/>fame</l><r><g><b/>fame</g></r></p></e>
+    <e lm="avere tempo" i="yes"><i></i><par n="/avere__vblex"/><p><l><b/>tempo</l><r><g><b/>tempo</g></r></p></e>
 
 
 <!--       ******************************      (cnjsub) group      ******************************    -->
