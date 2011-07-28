@@ -13554,8 +13554,8 @@
     <e><p><l>bomb<s n="n"/></l><r>bomba<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Molotov<b/>cocktail<s n="n"/></l><r>bomba<g><b/>Molotov</g><s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>Molotov<b/>cocktail<s n="n"/></l><r>bottiglia<g><b/>Molotov</g><s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>bone<s n="n"/></l><r>osso<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>bone<s n="n"/><s n="pl"/></l><r>osso<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e><p><l>bone<s n="n"/></l><r>osso<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>bone<s n="n"/><s n="pl"/></l><r>osso<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>bonnet<s n="n"/></l><r>cappello<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>book<s n="n"/></l><r>libro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>book<b/>cover<s n="n"/></l><r>copertina<g><b/>del<b/>libro</g><s n="n"/><s n="f"/></r></p></e>
@@ -13789,7 +13789,7 @@
     <e r="RL"><p><l>captain<s n="n"/></l><r>capitano<s n="n"/></r></p></e>
     <e><p><l>capture<s n="n"/></l><r>cattura<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>car<s n="n"/></l><r>autovettura<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>car<s n="n"/></l><r>auto<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>car<s n="n"/></l><r>auto<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>automobile<s n="n"/></l><r>automobile<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>car<s n="n"/></l><r>autoveicolo<s n="n"/><s n="m"/></r></p></e>
     <e srl="macchine" r="RL"><p><l>car<s n="n"/></l><r>macchina<s n="n"/><s n="f"/></r></p></e>
@@ -15723,12 +15723,11 @@
     <e><p><l>fir<s n="n"/></l><r>abete<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fire<s n="n"/></l><r>fuoco<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>fire<s n="n"/></l><r>incendio<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>firefighter<s n="n"/></l><r>vigile<g><b/>del<b/>fuoco</g><s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>firefighter<s n="n"/></l><r>vigile<g><b/>del<b/>fuoco</g><s n="n"/></r></p></e>
-    <e r="LR"><p><l>fireman<s n="n"/></l><r>vigile<g><b/>del<b/>fuoco</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>firefighter<s n="n"/></l><r>vigile<g><b/>del<b/>fuoco</g><s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>fireman<s n="n"/></l><r>vigile<g><b/>del<b/>fuoco</g><s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>fireplace<s n="n"/></l><r>camino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>firewall<s n="n"/></l><r>firewall<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>firewoman<s n="n"/></l><r>vigile<g><b/>del<b/>fuoco</g><s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>firewoman<s n="n"/></l><r>vigile<g><b/>del<b/>fuoco</g><s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>firewood<s n="n"/></l><r>legna<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>firm<s n="n"/></l><r>impresa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>firmament<s n="n"/></l><r>firmamento<s n="n"/><s n="m"/></r></p></e>
