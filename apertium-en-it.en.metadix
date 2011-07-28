@@ -11818,6 +11818,7 @@
     <e lm="Anxo Quintana"><i>Anxo<b/>Quintana</i><par n="Mark__np"/></e>
     <e lm="Brais"><i>Brais</i><par n="Mark__np"/></e>
     <e lm="Abdulla"><i>Abdulla</i><par n="Mark__np"/></e>
+    <e lm="Abdul Hamid"><i>Abdul<b/>Hamid</i><par n="Mark__np"/></e>
     <e lm="Graeme"><i>Graeme</i><par n="Mark__np"/></e>
     <e lm="Ralf"><i>Ralf</i><par n="Mark__np"/></e>
     <e lm="Rembrandt"><i>Rembrandt</i><par n="Mark__np"/></e>
@@ -22604,6 +22605,7 @@
     <e lm="trend"><i>trend</i><par n="house__n"/>    </e>
     <e lm="trial"><i>trial</i><par n="house__n"/>    </e>
     <e lm="triangle"><i>triangle</i><par n="house__n"/>    </e>
+    <e lm="right-angled triangle"><i>right-angled<b/>triangle</i><par n="house__n"/>    </e>
     <e lm="triangulation"><i>triangulation</i><par n="house__n"/>    </e>
     <e lm="tribe"><i>tribe</i><par n="house__n"/>    </e>
     <e lm="tribute"><i>tribute</i><par n="house__n"/>    </e>
@@ -25266,6 +25268,7 @@
     <e lm="avoid"><i>avoid</i><par n="accept__vblex"/>    </e>
     <e lm="await"><i>await</i><par n="accept__vblex"/>    </e>
     <e lm="awaken"><i>awaken</i><par n="accept__vblex"/>    </e>
+    <e lm="darken"><i>darken</i><par n="accept__vblex"/>    </e>
     <e lm="awake"><i>aw</i> <par n="aw/ake__vblex"/></e>
     <e lm="award"><i>award</i><par n="accept__vblex"/>    </e>
     <e lm="bite"><i>b</i><par n="b/ite__vblex"/>    </e>
@@ -26746,7 +26749,7 @@
     <e lm="win"><i>w</i><par n="w/in__vblex"/>    </e>
     <e lm="wait"><i>wait</i><par n="accept__vblex"/>    </e>
     <e lm="wake" a="doriua"><i>w</i><par n="aw/ake__vblex"/>    </e>
-    <e lm="wake up"><i>w</i><par n="aw/ake__vblex"/><par n="probj_dem__prn"/>  <p>    <l><b/>up</l>    <r><g><b/>up</g></r>  </p></e>
+    <e lm="wake up"><i>w</i><par n="aw/ake__vblex" sa="sep"/><par n="probj_dem__prn"/>  <p>    <l><b/>up</l>    <r><g><b/>up</g></r>  </p></e>
     <e lm="walk"><i>walk</i><par n="accept__vblex"/>    </e>
     <e lm="wander"><i>wander</i><par n="accept__vblex"/>    </e>
     <e lm="want"><i>want</i><par n="accept__vblex"/>    </e>
@@ -28247,8 +28250,8 @@
     <e lm="electoral princess"><i>electoral<b/>princess</i><par n="access__n"/>   </e>
     <e lm="Pan-Germanism"><i>Pan-Germanism</i><par n="house__n"/>   </e>
     <e lm="pound sterling"><i>pound</i><par n="house__n"/>     <p>      <l><b/>sterling</l><r><g><b/>sterling</g></r></p></e>
-    <e lm="Secretary-General"><i>Secretary-General</i><par n="house__n"/>   </e>
-    <e lm="Secretary General"><i>Secretar</i><par n="bab/y__n"/>     <p>      <l><b/>General</l><r><g><b/>General</g></r></p></e>
+    <e lm="secretary-general"><i>secretary-general</i><par n="house__n"/>   </e>
+    <e lm="secretary general"><i>secretar</i><par n="bab/y__n"/>     <p>      <l><b/>general</l><r><g><b/>general</g></r></p></e>
     <e lm="FTSE 100"><i>FTSE<b/>100</i><par n="Linux__np"/>  </e>
     <e lm="S&amp;P 500"><i>S&amp;P<b/>500</i><par n="Linux__np"/>  </e>
     <e lm="S&amp;P TSX"><i>S&amp;P<b/>TSX</i><par n="Linux__np"/>  </e>
@@ -28582,6 +28585,7 @@
     <e lm="accession"><i>accession</i><par n="house__n"/>     </e>
     <e lm="accordingly"><i>accordingly</i><par n="maybe__adv"/>     </e>
     <e lm="account number"><i>account<b/>number</i><par n="house__n"/>     </e>
+    <e lm="telephone number"><i>telephone<b/>number</i><par n="house__n"/>     </e>
     <e lm="accretion"><i>accretion</i><par n="house__n"/>     </e>
     <e lm="acculturation"><i>acculturation</i><par n="house__n"/>     </e>
     <e lm="accumulator"><i>accumulator</i><par n="house__n"/>     </e>
@@ -31109,6 +31113,11 @@
     <e lm="masking"><i>masking</i><par n="house__n"/>     </e>
     <e lm="masochism"><i>masochism</i><par n="house__n"/>     </e>
     <e lm="masochistic"><i>masochistic</i><par n="expensive__adj"/>     </e>
+    <e lm="masochist"><i>masochist</i><par n="house__n"/>     </e>
+    <e lm="tsarist"><i>tsarist</i><par n="house__n"/>     </e>
+    <e lm="traditionalist"><i>traditionalist</i><par n="house__n"/>     </e>
+    <e lm="symbolist"><i>symbolist</i><par n="house__n"/>     </e>
+    <e lm="structuralist"><i>structuralist</i><par n="house__n"/>     </e>
     <e lm="masonry"><i>masonr</i><par n="bab/y__n"/>     </e>
     <e lm="masseter"><i>masseter</i><par n="house__n"/>     </e>
     <e lm="mastectomy"><i>mastectom</i><par n="bab/y__n"/>     </e>
@@ -31248,6 +31257,7 @@
     <e lm="moneme"><i>moneme</i><par n="house__n"/>     </e>
     <e lm="monetarism"><i>monetarism</i><par n="house__n"/>     </e>
     <e lm="monetarist"><i>monetarist</i><par n="expensive__adj"/>     </e>
+    <e lm="monetaristic"><i>monetaristic</i><par n="expensive__adj"/>     </e>
     <e lm="monism"><i>monism</i><par n="house__n"/>     </e>
     <e lm="monochromatic"><i>monochromatic</i><par n="expensive__adj"/>     </e>
     <e lm="monochrome"><i>monochrome</i><par n="expensive__adj"/>     </e>

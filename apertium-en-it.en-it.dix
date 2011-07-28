@@ -1470,7 +1470,8 @@
     <e r="LR"><p><l>piercing<s n="adj"/></l><r>penetrante<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>pungent<s n="adj"/></l><r>penetrante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>neuromuscular<s n="adj"/></l><r>neuromuscolare<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>monetarist<s n="adj"/></l><r>monetaristico<s n="adj"/></r></p></e>
+    <e><p><l>monetaristic<s n="adj"/></l><r>monetaristico<s n="adj"/></r></p></e>
+    <e><p><l>monetarist<s n="adj"/></l><r>monetarista<s n="adj"/></r></p></e>
     <e><p><l>morphogenetic<s n="adj"/></l><r>morfogenetico<s n="adj"/></r></p></e>
     <e><p><l>planetary<s n="adj"/></l><r>planetario<s n="adj"/></r></p></e>
     <e><p><l>venetian<s n="adj"/></l><r>veneziano<s n="adj"/></r></p></e>
@@ -3239,7 +3240,6 @@
     <e><p><l>photolithographic<s n="adj"/></l><r>fotolitografico<s n="adj"/></r></p></e>
     <e><p><l>pictographic<s n="adj"/></l><r>pittografico<s n="adj"/></r></p></e>
     <e><p><l>pictorial<s n="adj"/></l><r>pittorico<s n="adj"/></r></p></e>
-    <e><p><l>piercing<s n="adj"/></l><r>penetrante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>piezoelectric<s n="adj"/></l><r>piezoelettrico<s n="adj"/></r></p></e>
     <e><p><l>pilot<s n="adj"/></l><r>piloto<s n="adj"/></r></p></e>
     <e><p><l>pirate<s n="adj"/></l><r>pirata<s n="adj"/></r></p></e>
@@ -3303,7 +3303,6 @@
     <e><p><l>psychophysiologic<s n="adj"/></l><r>psicofisiologico<s n="adj"/></r></p></e>
     <e><p><l>psychosocial<s n="adj"/></l><r>psicosociale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>publishing<s n="adj"/></l><r>editoriale<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>pungent<s n="adj"/></l><r>penetrante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>punishable<s n="adj"/></l><r>punibile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>pyrenean<s n="adj"/></l><r>pirenaico<s n="adj"/></r></p></e>
     <e><p><l>pythagorean<s n="adj"/></l><r>pitagorico<s n="adj"/></r></p></e>
@@ -4468,7 +4467,7 @@
     <e><i>Baruf<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Basauri<s n="np"/><s n="loc"/></l><r>Basauri<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><p><l>Liège<s n="np"/><s n="loc"/></l><r>Liegi<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>Liege<s n="np"/><s n="loc"/></l><r>Liegi<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>Liege<s n="np"/><s n="loc"/></l><r>Liegi<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><i>Basiana<s n="np"/><s n="ant"/></i></e>
     <e><i>Basiano<s n="np"/><s n="ant"/></i></e>
     <e><i>Basile<s n="np"/><s n="ant"/></i></e>
@@ -12188,7 +12187,6 @@
     <e><p><l>pantograph<s n="n"/></l><r>pantografo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>placebo<s n="n"/></l><r>placebo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>stalemate<s n="n"/></l><r>stallo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>trapeze<s n="n"/></l><r>trapezio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tropic<s n="n"/></l><r>tropico<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>wagon<s n="n"/></l><r>carro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>frigate<s n="n"/></l><r>fregata<s n="n"/><s n="f"/></r></p></e>
@@ -12220,7 +12218,7 @@
     <e><p><l>atlas<s n="n"/></l><r>atlante<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>believer<s n="n"/></l><r>credente<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>badge<s n="n"/></l><r>placca<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>blame<s n="n"/></l><r>colpa<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>blame<s n="n"/></l><r>colpa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>brilliant<s n="n"/></l><r>brillante<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>candidature<s n="n"/></l><r>candidatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>carnival<s n="n"/></l><r>carnevale<s n="n"/><s n="m"/></r></p></e>
@@ -16994,8 +16992,7 @@
     <e><p><l>laundry<s n="n"/></l><r>lavanderia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>laurel<s n="n"/></l><r>alloro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lava<s n="n"/></l><r>lava<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>law<s n="n"/></l><r>diritto<s n="n"/><s n="m"/></r></p></e>
-    <e i="yes"><p><l>law<s n="n"/></l><r>legge<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>act<n></l><r>legge<n><f></r></e>).-->
+    <e srl="law D"><p><l>law<s n="n"/></l><r>diritto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lawn<s n="n"/></l><r>prato<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>lawyer<s n="n"/></l><r>avvocato<s n="n"/><s n="GD"/></r></p></e>
     <e i="yes"><p><l>lawyer<s n="n"/></l><r>avvocato<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>attorney<n></l><r>avvocato<n><m></r></e>).-->
@@ -17032,7 +17029,6 @@
     <e><p><l>legation<s n="n"/></l><r>legazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>legend<s n="n"/></l><r>leggenda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>legislation<s n="n"/></l><r>legislazione<s n="n"/><s n="f"/></r></p></e>
-    <e i="yes"><p><l>legislation<s n="n"/></l><r>diritto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>law<n></l><r>diritto<n><m></r></e>).-->
     <e><p><l>legislature<s n="n"/></l><r>legislatura<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>legitimacy<s n="n"/><s n="ND"/></l><r>legittimità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>legitimacy<s n="n"/><s n="sg"/></l><r>legittimità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -19205,9 +19201,9 @@
     <e r="LR"><p><l>ride<s n="n"/></l><r>passeggio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>drive<n></l><r>passeggio<n><m></r></e>).-->
     <e r="LR"><p><l>riding<s n="n"/></l><r>equitazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rifle<s n="n"/></l><r>fucile<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>right<s n="n"/></l><r>destra<s n="n"/><s n="f"/></r></p></e>
-    <e i="yes"><p><l>right<s n="n"/></l><r>diritto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>law<n></l><r>diritto<n><m></r></e>).-->
-    <e><p><l>right<b/>triangle<s n="n"/></l><r>triangolo<b/>rettangolo<s n="n"/><s n="m"/></r></p></e>
+    <e slr="destra D"><p><l>right<s n="n"/></l><r>destra<s n="n"/><s n="f"/></r></p></e>
+    <e slr="diritto" srl="right"><p><l>right<s n="n"/></l><r>diritto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>right-angled<b/>triangle<s n="n"/></l><r>triangolo<b/>rettangolo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>rigidity<s n="n"/><s n="ND"/></l><r>rigidità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>rigidity<s n="n"/><s n="sg"/></l><r>rigidità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>rigidity<s n="n"/><s n="pl"/></l><r>rigidità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -22979,7 +22975,7 @@
     <e><p><l>document<s n="vblex"/></l><r>documentare<s n="vblex"/></r></p></e>
     <e><p><l>dominate<s n="vblex"/></l><r>dominare<s n="vblex"/></r></p></e>
     <e><p><l>donate<s n="vblex"/></l><r>donare<s n="vblex"/></r></p></e>
-    <e><p><l>take<g><b/>for<b/>granted</g><s n="vblex"/></l><r>dare<g><b/>per<b/>scontato</g><s n="vblex"/></r></p></e>
+    <e><p><l>take<g><b/>for<b/>granted</g><s n="vblex"/><s n="sep"/></l><r>dare<g><b/>per<b/>scontato</g><s n="vblex"/></r></p></e>
     <e r="LR"><p><l>dope<s n="vblex"/></l><r>drogare<s n="vblex"/></r></p></e>
     <e><p><l>double<s n="vblex"/></l><r>raddoppiare<s n="vblex"/></r></p></e>
     <e><p><l>doubt<s n="vblex"/></l><r>dubitare<s n="vblex"/></r></p></e>
@@ -22987,7 +22983,7 @@
     <e><p><l>draft<s n="vblex"/></l><r>abbozzare<s n="vblex"/></r></p></e>
     <e><p><l>drag<s n="vblex"/></l><r>trascinare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>drain<s n="vblex"/></l><r>colare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>draw<s n="vblex"/></l><r>disegnare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>design<vblex></l><r>disegnare<vblex></r></e>).-->
+    <e r="LR"><p><l>draw<s n="vblex"/></l><r>disegnare<s n="vblex"/></r></p></e>
     <e><p><l>dream<s n="vblex"/></l><r>sognare<s n="vblex"/></r></p></e>
     <e><p><l>dress<s n="vblex"/></l><r>vestire<s n="vblex"/></r></p></e>
     <e><p><l>drink<s n="vblex"/></l><r>bere<s n="vblex"/></r></p></e>
@@ -24836,7 +24832,7 @@
     <e><p><l>microstate<s n="n"/></l><r>microstato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>musk<s n="n"/></l><r>muschio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nitrite<s n="n"/></l><r>nitrito<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>noon<s n="n"/></l><r>mezzogiorno<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>noon<s n="n"/></l><r>mezzogiorno<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ogre<s n="n"/></l><r>orco<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ovule<s n="n"/></l><r>ovulo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pantograph<s n="n"/></l><r>pantografo<s n="n"/><s n="m"/></r></p></e>
