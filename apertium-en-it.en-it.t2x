@@ -66,6 +66,7 @@
       <cat-item tags="SV.pron.inf.*"/><!--afegit 16-01-2008 -->
       <cat-item tags="SV.vbmod.inf.*"/>
       <cat-item lemma="pro_verbcj" tags="SV.*"/>
+      <cat-item lemma="pro_verbcj_to_inf" tags="SV.*"/>
       <cat-item lemma="pro_auxmod_inf" tags="SV.*"/>
       <cat-item lemma="pro_mod_inf" tags="SV.*"/>
       <cat-item lemma="pro_auxmod_mod_inf" tags="SV.*"/>
