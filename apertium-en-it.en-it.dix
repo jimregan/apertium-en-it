@@ -2187,7 +2187,6 @@
     <e><p><l>moroccan<s n="adj"/></l><r>marocchino<s n="adj"/></r></p></e>
     <e><p><l>mortal<s n="adj"/></l><r>mortale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>motionless<s n="adj"/></l><r>immobile<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>mucous<s n="adj"/></l><r>mucosa<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>multicultural<s n="adj"/></l><r>multiculturale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>multilateral<s n="adj"/></l><r>multilaterale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>multilingual<s n="adj"/></l><r>multilingue<s n="adj"/><s n="mf"/></r></p></e>
@@ -22545,8 +22544,8 @@
     <e><p><l>be<g><b/>shipwrecked</g><s n="vblex"/></l><r>naufragare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>be<g><b/>sorry</g><s n="vblex"/></l><r>dispiacere<s n="vblex"/></r></p></e>
     <e><p><l>be<g><b/>used<b/>to</g><s n="vblex"/></l><r>solere<s n="vblex"/></r></p></e>
-    <e><p><l>slow<g><b/>down</g><s n="vblex"/></l><r>rallentare<s n="vblex"/></r></p></e>
-    <e><p><l>take<g><b/>into<b/>account</g><s n="vblex"/></l><r>mettere<g><b/>in<b/>conto</g><s n="vblex"/></r></p></e>
+    <e><p><l>slow<g><b/>down</g><s n="vblex"/><s n="sep"/></l><r>rallentare<s n="vblex"/></r></p></e>
+    <e><p><l>take<g><b/>into<b/>account</g><s n="vblex"/><s n="sep"/></l><r>mettere<g><b/>in<b/>conto</g><s n="vblex"/></r></p></e>
     <e r="LR"><p><l>take<g><b/>advantage<b/>of</g><s n="vblex"/></l><r>usufruire<g><b/>di</g><s n="vblex"/></r></p></e>
     <e r="LR"><p><l>be<g><b/>very<b/>sorry</g><s n="vblex"/></l><r>dispiacere<g><b/>molto</g><s n="vblex"/></r></p></e>
     <e r="LR"><p><l>be<g><b/>worth</g><s n="vblex"/></l><r>valere<s n="vblex"/></r></p></e>
@@ -22927,7 +22926,7 @@
     <e><p><l>diminish<s n="vblex"/></l><r>diminuire<s n="vblex"/></r></p></e>
     <e><p><l>dine<s n="vblex"/></l><r>cenare<s n="vblex"/></r></p></e>
     <e srl="direct"><p><l>direct<s n="vblex"/></l><r>dirigere<s n="vblex"/></r></p></e>
-    <e><p><l>disable<s n="vblex"/></l><r>rendere<g><b/>incapace</g><s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>disable<s n="vblex"/></l><r>rendere<g><b/>incapace</g><s n="vblex"/></r></p></e>
     <e><p><l>disagree<s n="vblex"/></l><r>discordare<s n="vblex"/></r></p></e>
     <e><p><l>disappear<s n="vblex"/></l><r>scomparire<s n="vblex"/></r></p></e>
     <e><p><l>disappoint<s n="vblex"/></l><r>deludere<s n="vblex"/></r></p></e>
@@ -23122,8 +23121,8 @@
     <e r="LR"><p><l>fall<s n="vblex"/></l><r>cadere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>drop<vblex></l><r>cadere<vblex></r></e>).-->
     <e r="RL"><p><l>fall<s n="vblex"/></l><r>calare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>fall<vblex></l><r>cadere<vblex></r></e>).-->
     <e r="LR"><p><l>fall<g><b/>down</g><s n="vblex"/></l><r>cadere<s n="vblex"/></r></p></e>
-    <e><p><l>give<g><b/>back</g><s n="vblex"/></l><r>ridare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>send<g><b/>back</g><s n="vblex"/></l><r>ridare<s n="vblex"/></r></p></e>
+    <e><p><l>give<g><b/>back</g><s n="vblex"/><s n="sep"/></l><r>ridare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>send<g><b/>back</g><s n="vblex"/><s n="sep"/></l><r>ridare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>falsify<s n="vblex"/></l><r>falsificare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>get<g><b/>away</g><s n="vblex"/></l><r>scappare<s n="vblex"/></r></p></e>
     <e><p><l>fan<s n="vblex"/></l><r>sventolare<s n="vblex"/></r></p></e>
@@ -23525,7 +23524,7 @@
     <e><p><l>take<g><b/>refuge</g><s n="vblex"/></l><r>rifugiarsi<s n="vblex"/><s n="pron"/></r></p></e>
     <e><p><l>take<g><b/>place</g><s n="vblex"/></l><r>avvenire<s n="vblex"/></r></p></e>
     <e srl="go up D"><p><l>go<g><b/>up</g><s n="vblex"/></l><r>risalire<s n="vblex"/></r></p></e>
-    <e srl="trace back"><p><l>trace<g><b/>back</g><s n="vblex"/></l><r>risalire<s n="vblex"/></r></p></e>
+    <e srl="trace back"><p><l>trace<g><b/>back</g><s n="vblex"/><s n="sep"/></l><r>risalire<s n="vblex"/></r></p></e>
     <e><p><l>table<g><b/>a<b/>motion</g><s n="vblex"/></l><r>presentare<g><b/>una<b/>mozione</g><s n="vblex"/></r></p></e>
     <e><p><l>table<g><b/>the<b/>motion</g><s n="vblex"/></l><r>presentare<g><b/>la<b/>mozione</g><s n="vblex"/></r></p></e>
     <e r="LR"><p><l>lend<s n="vblex"/></l><r>lasciare<s n="vblex"/></r></p></e>
