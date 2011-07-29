@@ -91985,6 +91985,7 @@
     <e lm="apparire"><i>appa</i><par n="appa/rire__vblex"/></e>
     <e lm="riapparire"><i>riappa</i><par n="appa/rire__vblex"/></e>
     <e lm="applaudire"><i>applaud</i><par n="abbrut/ire__vblex"/></e>
+    <e lm="applaudire" r="LR"><i>applaud</i><par n="abbell/ire__vblex"/></e>
     <e lm="applicare"><i>applic</i><par n="abbarbic/are__vblex"/></e>
     <e lm="fortificare"><i>fortific</i><par n="abbarbic/are__vblex"/></e>
     <e lm="dimenticare"><i>dimentic</i><par n="abbarbic/are__vblex"/></e>
@@ -95420,7 +95421,7 @@
     <e lm="rimorchiare"><i>rimorchi</i><par n="abbacchi/are__vblex"/></e>
     <e lm="sbadigliare"><i>sbadigli</i><par n="abbacchi/are__vblex"/></e>
     <e lm="svegliare"><i>svegli</i><par n="abbacchi/are__vblex"/></e>
-    <e lm="annerire"><i>anner</i><par n="abbrut/ire__vblex"/></e>
+    <e lm="annerire"><i>anner</i><par n="abbell/ire__vblex"/></e>
     <e lm="contraddire"><i>contradd</i><par n="d/ire__vblex"/></e>
     <e lm="indurire"><i>indur</i><par n="abbell/ire__vblex"/></e>
     <e lm="infastidire"><i>infastid</i><par n="abbell/ire__vblex"/></e>
@@ -95433,8 +95434,8 @@
     <e lm="scomparire"><i>scompar</i><par n="abbrut/ire__vblex"/></e>
     <e lm="subire"><i>sub</i><par n="abbell/ire__vblex"/></e>
     <e lm="svestire"><i>svest</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="tradire"><i>trad</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="trasferire"><i>trasfer</i><par n="abbrut/ire__vblex"/></e>
+    <e lm="tradire"><i>trad</i><par n="abbell/ire__vblex"/></e>
+    <e lm="trasferire"><i>trasfer</i><par n="abbell/ire__vblex"/></e>
     <e lm="congratulare"><i>congratul</i><par n="abbacin/are__vblex"/></e>
     <e lm="congratularsi con"><i>congratul</i><par n="congratul/arsi__vblex"/><p><l><b/>con</l><r><g><b/>con</g></r></p></e>
     <e lm="inchinarsi"><i>inchin</i><par n="congratul/arsi__vblex"/></e>
@@ -95853,12 +95854,12 @@
     <e lm="intossicare"><i>intossic</i><par n="abbarbic/are__vblex"/></e>
     <e lm="ipotecare"><i>ipotec</i><par n="abbarbic/are__vblex"/></e>
     <e lm="leccare"><i>lecc</i><par n="abbarbic/are__vblex"/></e>
-    <e lm="ricostruire"><i>ricostru</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="sminuire"><i>sminu</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="fluire"><i>flu</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="istruire"><i>istru</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="ostruire"><i>ostru</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="redistribuire"><i>redistribu</i><par n="abbrut/ire__vblex"/></e>
+    <e lm="ricostruire"><i>ricostru</i><par n="abbell/ire__vblex"/></e>
+    <e lm="sminuire"><i>sminu</i><par n="abbell/ire__vblex"/></e>
+    <e lm="fluire"><i>flu</i><par n="abbell/ire__vblex"/></e>
+    <e lm="istruire"><i>istru</i><par n="abbell/ire__vblex"/></e>
+    <e lm="ostruire"><i>ostru</i><par n="abbell/ire__vblex"/></e>
+    <e lm="redistribuire"><i>redistribu</i><par n="abbell/ire__vblex"/></e>
     <e lm="opporre"><i>oppo</i><par n="antepo/rre__vblex"/></e>
     <e lm="scomporre"><i>scompo</i><par n="antepo/rre__vblex"/></e>
     <e lm="decomporre"><i>decompo</i><par n="antepo/rre__vblex"/></e>
