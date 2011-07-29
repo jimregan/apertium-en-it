@@ -90701,6 +90701,7 @@
     <e lm="connettere"><i>conne</i><par n="conne/ttere__vblex"/></e>
     <e lm="annettere"><i>anne</i><par n="conne/ttere__vblex"/></e>
     <e lm="flettere"><i>fle</i><par n="conne/ttere__vblex"/></e>
+    <e lm="riflettere"><i>rifle</i><par n="conne/ttere__vblex"/></e>
     <e lm="conoscere"><i>cono</i><par n="cono/scere__vblex"/></e>
     <e lm="conquistare"><i>conquist</i><par n="abbacin/are__vblex"/></e>
     <e lm="consacrare"><i>consacr</i><par n="abbacin/are__vblex"/></e>
@@ -90798,6 +90799,7 @@
     <e lm="depurare"><i>depur</i><par n="abbacin/are__vblex"/></e>
     <e lm="derivare"><i>deriv</i><par n="abbacin/are__vblex"/></e>
     <e lm="descrivere"><i>descri</i><par n="ascri/vere__vblex"/></e>
+    <e lm="riscrivere"><i>riscri</i><par n="ascri/vere__vblex"/></e>
     <e lm="trascrivere"><i>trascri</i><par n="ascri/vere__vblex"/></e>
     <e lm="circoscrivere"><i>circoscri</i><par n="ascri/vere__vblex"/></e>
     <e lm="designare"><i>design</i><par n="abbacin/are__vblex"/></e>
@@ -90872,10 +90874,13 @@
     <e lm="esibire"><i>esib</i><par n="abbell/ire__vblex"/></e>
     <e lm="esistere"><i>e</i><par n="con/sistere__vblex"/></e>
     <e lm="insistere"><i>in</i><par n="con/sistere__vblex"/></e>
+    <e lm="resistere"><i>re</i><par n="con/sistere__vblex"/></e>
     <e lm="espellere"><i>esp</i><par n="esp/ellere__vblex"/></e>
     <e lm="esplodere"><i>esplo</i><par n="acclu/dere__vblex"/></e>
     <e lm="erodere"><i>ero</i><par n="acclu/dere__vblex"/></e>
     <e lm="esprimere"><i>espr</i><par n="compr/imere__vblex"/></e>
+    <e lm="comprimere"><i>compr</i><par n="compr/imere__vblex"/></e>
+    <e lm="deprimere"><i>depr</i><par n="compr/imere__vblex"/></e>
     <e lm="imprimere"><i>impr</i><par n="compr/imere__vblex"/></e>
     <e lm="esportare"><i>esport</i><par n="abbacin/are__vblex"/></e>
     <e lm="essere"><par n="/essere__vblex"/></e>
@@ -91177,6 +91182,7 @@
     <e lm="penetrare"><i>penetr</i><par n="abbacin/are__vblex"/></e>
     <e lm="pensare"><i>pens</i><par n="abbacin/are__vblex"/></e>
     <e lm="perdere"><i>per</i><par n="per/dere__vblex"/></e>
+    <e lm="disperdere"><i>disper</i><par n="per/dere__vblex"/></e>
     <e lm="permanere"><i>perma</i><par n="perma/nere__vblex"/></e>
     <e lm="permettere"><i>perm</i><par n="amm/ettere__vblex"/></e>
     <e lm="perdonare"><i>perdon</i><par n="abbacin/are__vblex"/></e>
@@ -91326,6 +91332,7 @@
     <e lm="ritirare"><i>ritir</i><par n="abbacin/are__vblex"/></e>
     <e lm="ritmare"><i>ritm</i><par n="abbacin/are__vblex"/></e>
     <e lm="ritorcere"><i>ritor</i><par n="avvin/cere__vblex"/></e>
+    <e lm="estorcere"><i>estor</i><par n="avvin/cere__vblex"/></e>
     <e lm="ritornare"><i>ritorn</i><par n="abbacin/are__vblex"/></e>
     <e lm="riunire"><i>riun</i><par n="abbell/ire__vblex"/></e>
     <e lm="rivelare"><i>rivel</i><par n="abbacin/are__vblex"/></e>
@@ -91499,6 +91506,7 @@
     <e lm="vestire"><i>vest</i><par n="abbrut/ire__vblex"/></e>
     <e lm="viaggiare"><i>viagg</i><par n="abbiosc/iare__vblex"/></e>
     <e lm="vivere"><i>vi</i><par n="rivi/vere__vblex"/></e>
+    <e lm="rivivere"><i>rivi</i><par n="rivi/vere__vblex"/></e>
     <e lm="vibrare"><i>vibr</i><par n="abbacin/are__vblex"/></e>
     <e lm="vigilare"><i>vigil</i><par n="abbacin/are__vblex"/></e>
     <e lm="vincere"><i>vin</i><par n="avvin/cere__vblex"/></e>
