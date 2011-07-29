@@ -91681,6 +91681,8 @@
     <e lm="rieseguire"><i>riesegu</i><par n="abbrut/ire__vblex"/></e>
     <e lm="ripartire"><i>ripart</i><par n="abbrut/ire__vblex"/></e>
     <e lm="contravvenire"><i>contravven</i><par n="abbrut/ire__vblex"/></e>
+    <e lm="avvenire"><i>avven</i><par n="abbrut/ire__vblex"/></e>
+    <e lm="risalire"><i>risal</i><par n="risal/ire__vblex"/></e>
     <e lm="maledire"><i>maled</i><par n="abbrut/ire__vblex"/></e>
     <e lm="approfondire"><i>approfond</i><par n="abbrut/ire__vblex"/></e>
     <e lm="differire"><i>differ</i><par n="abbrut/ire__vblex"/></e>
@@ -91956,6 +91958,7 @@
     <e lm="gratificare"><i>gratific</i><par n="abbarbic/are__vblex"/></e>
     <e lm="grattare"><i>gratt</i><par n="abbacin/are__vblex"/></e>
     <e lm="gridare"><i>grid</i><par n="abbacin/are__vblex"/></e>
+    <e lm="ridare"><i>rid</i><par n="abbacin/are__vblex"/></e>
     <e lm="guadagnare"><i>guadagn</i><par n="abbacin/are__vblex"/></e>
     <e lm="guardare"><i>guard</i><par n="abbacin/are__vblex"/></e>
     <e lm="guardare la televisione"><i>guard</i><par n="abbacin/are__vblex"/><p><l><b/>la<b/>televisione</l><r><g><b/>la<b/>televisione</g></r></p></e>
@@ -92188,6 +92191,8 @@
     <e lm="preparare"><i>prepar</i><par n="abbacin/are__vblex"/></e>
     <e lm="prescindere"><i>presci</i><par n="presci/ndere__vblex"/></e>
     <e lm="presentare"><i>present</i><par n="abbacin/are__vblex"/></e>
+    <e lm="presentare una mozione"><i>present</i><par n="abbacin/are__vblex"/><p><l><b/>una<b/>mozione</l><r><g><b/>una<b/>mozione</g></r></p></e>
+    <e lm="presentare la mozione"><i>present</i><par n="abbacin/are__vblex"/><p><l><b/>la<b/>mozione</l><r><g><b/>la<b/>mozione</g></r></p></e>
     <e lm="preservare"><i>preserv</i><par n="abbacin/are__vblex"/></e>
     <e lm="prestare"><i>prest</i><par n="abbacin/are__vblex"/></e>
     <e lm="pretendere"><i>prete</i><par n="acce/ndere__vblex"/></e>
@@ -94956,7 +94961,9 @@
     <e lm="rilassarsi"><i>rilass</i><par n="congratul/arsi__vblex"/></e>
     <e lm="ribellarsi"><i>ribell</i><par n="congratul/arsi__vblex"/></e>
     <e lm="lamentarsi"><i>lament</i><par n="congratul/arsi__vblex"/></e>
+    <e lm="responsabilizzarsi"><i>responsabilizz</i><par n="congratul/arsi__vblex"/></e>
     <e lm="svegliarsi"><i>svegli</i><par n="svegli/arsi__vblex"/></e>
+    <e lm="rifugiarsi"><i>rifugi</i><par n="svegli/arsi__vblex"/></e>
     <e lm="traduzione automatica"><i>traduzione<b/>automatica</i><par n="pallacanestro__n"/></e>
     <e lm="traduzione automatica basata su regole"><i>traduzione<b/>automatica<b/>basata<b/>su<b/>regole</i><par n="pallacanestro__n"/></e>
     <e lm="traduzione automatica basata su corpora"><i>traduzione<b/>automatica<b/>basata<b/>su<b/>corpora</i><par n="pallacanestro__n"/></e>

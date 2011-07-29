@@ -23012,7 +23012,7 @@
     <e><p><l>echo<s n="vblex"/></l><r>ripetere<s n="vblex"/></r></p></e>
     <e><p><l>edit<s n="vblex"/></l><r>redigere<s n="vblex"/></r></p></e>
     <e><p><l>educate<s n="vblex"/></l><r>educare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>effect<s n="vblex"/></l><r>effettuare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>carry<g><b/>out</g><vblex><sep></l><r>effettuare<vblex></r></e>).-->
+    <e r="LR"><p><l>effect<s n="vblex"/></l><r>effettuare<s n="vblex"/></r></p></e>
     <e><p><l>elaborate<s n="vblex"/></l><r>elaborare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>elect<s n="vblex"/></l><r>scegliere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>choose<vblex></l><r>scegliere<vblex></r></e>).-->
     <e><p><l>elevate<s n="vblex"/></l><r>elevare<s n="vblex"/></r></p></e>
@@ -23116,7 +23116,9 @@
     <e><p><l>fake<s n="vblex"/></l><r>falsificare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>fall<s n="vblex"/></l><r>cadere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>drop<vblex></l><r>cadere<vblex></r></e>).-->
     <e r="RL"><p><l>fall<s n="vblex"/></l><r>calare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>fall<vblex></l><r>cadere<vblex></r></e>).-->
-    <e r="LR"><p><l>fall<g><b/>down</g><s n="vblex"/></l><r>cadere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>drop<vblex></l><r>cadere<vblex></r></e>).-->
+    <e r="LR"><p><l>fall<g><b/>down</g><s n="vblex"/></l><r>cadere<s n="vblex"/></r></p></e>
+    <e><p><l>give<g><b/>back</g><s n="vblex"/></l><r>ridare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>send<g><b/>back</g><s n="vblex"/></l><r>ridare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>falsify<s n="vblex"/></l><r>falsificare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>fake<vblex></l><r>falsificare<vblex></r></e>).-->
     <e><p><l>fan<s n="vblex"/></l><r>sventolare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>fancy<s n="vblex"/></l><r>piacere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>enjoy<vblex></l><r>piacere<vblex></r></e>).-->
@@ -23516,8 +23518,15 @@
     <e><p><l>refrain<s n="vblex"/></l><r>astenersi<s n="vblex"/><s n="pron"/></r></p></e>
     <e><p><l>relax<s n="vblex"/></l><r>rilassarsi<s n="vblex"/><s n="pron"/></r></p></e>
     <e><p><l>revolt<s n="vblex"/></l><r>ribellarsi<s n="vblex"/><s n="pron"/></r></p></e>
+    <e><p><l>take<g><b/>responsibility</g><s n="vblex"/></l><r>responsabilizzarsi<s n="vblex"/><s n="pron"/></r></p></e>
+    <e><p><l>take<g><b/>refuge</g><s n="vblex"/></l><r>rifugiarsi<s n="vblex"/><s n="pron"/></r></p></e>
+    <e><p><l>take<g><b/>place</g><s n="vblex"/></l><r>avvenire<s n="vblex"/></r></p></e>
+    <e srl="go up D"><p><l>go<g><b/>up</g><s n="vblex"/></l><r>risalire<s n="vblex"/></r></p></e>
+    <e srl="trace back"><p><l>trace<g><b/>back</g><s n="vblex"/></l><r>risalire<s n="vblex"/></r></p></e>
+    <e><p><l>table<g><b/>a<b/>motion</g><s n="vblex"/></l><r>presentare<g><b/>una<b/>mozione</g><s n="vblex"/></r></p></e>
+    <e><p><l>table<g><b/>the<b/>motion</g><s n="vblex"/></l><r>presentare<g><b/>la<b/>mozione</g><s n="vblex"/></r></p></e>
     <e r="LR"><p><l>lend<s n="vblex"/></l><r>lasciare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>let<s n="vblex"/></l><r>lasciare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="RL"><l>abandon<vblex></l><r>lasciare<vblex></r></e>).-->
+    <e r="LR"><p><l>let<s n="vblex"/></l><r>lasciare<s n="vblex"/></r></p></e>
     <e><p><l>level<s n="vblex"/></l><r>livellare<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>level<s n="vblex"/></l><r>uniformare<s n="vblex"/></r></p></e>
     <e><p><l>liberalise<s n="vblex"/></l><r>liberalizzare<s n="vblex"/></r></p></e>
@@ -23858,6 +23867,7 @@
     <e r="LR"><p><l>remember<s n="vblex"/></l><r>ricordare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="RL"><l>agree<vblex></l><r>ricordare<vblex></r></e>).-->
     <e r="LR"><p><l>remind<s n="vblex"/></l><r>ricordare<s n="vblex"/></r></p></e>
     <e><p><l>remove<s n="vblex"/></l><r>togliere<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>pull<g><b/>out</g><s n="vblex"/><s n="sep"/></l><r>togliere<s n="vblex"/></r></p></e>
     <e><p><l>renegotiate<s n="vblex"/></l><r>rinegoziare<s n="vblex"/></r></p></e>
     <e><p><l>renew<s n="vblex"/></l><r>rinnovare<s n="vblex"/></r></p></e>
     <e><p><l>reopen<s n="vblex"/></l><r>riaprire<s n="vblex"/></r></p></e>
