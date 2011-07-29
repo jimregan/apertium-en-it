@@ -77233,11 +77233,13 @@
     <e lm="Richard"><i>Richard</i><par n="Juan__np"/></e>
     <e lm="María"><i>María</i><par n="María__np"/></e>
     <e lm="Maria"><i>Maria</i><par n="María__np"/></e>
+    <e lm="Puffetta"><i>Puffetta</i><par n="María__np"/></e>
     <e lm="Penélope"><i>Penélope</i><par n="María__np"/></e>
     <e lm="Venere"><i>Venere</i><par n="María__np"/></e>
     <e lm="Cristina"><i>Cristina</i><par n="María__np"/></e>
     <e lm="César"><i>César</i><par n="Juan__np"/></e>
     <e lm="Thomas"><i>Thomas</i><par n="Juan__np"/></e>
+    <e lm="Grande Puffo"><i>Grande<b/>Puffo</i><par n="Juan__np"/></e>
     <e lm="Afghanistan"><i>Afghanistan</i><par n="Afghanistan__np"/></e>
     <e lm="ABC"><i>ABC</i><par n="ABC__np"/></e>
     <e lm="Aspettando Godot"><i>Aspettando<b/>Godot</i><par n="ABC__np"/></e>
@@ -92155,8 +92157,8 @@
     <e lm="consegnare"><i>consegn</i><par n="abbacin/are__vblex"/></e>
     <e lm="conseguire"><i>consegu</i><par n="abbrut/ire__vblex"/></e>
     <e lm="consentire"><i>consent</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="ringiovanire"><i>ringiovan</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="requisire"><i>requis</i><par n="abbrut/ire__vblex"/></e>
+    <e lm="ringiovanire"><i>ringiovan</i><par n="abbell/ire__vblex"/></e>
+    <e lm="requisire"><i>requis</i><par n="abbell/ire__vblex"/></e>
     <e lm="rieseguire"><i>riesegu</i><par n="abbrut/ire__vblex"/></e>
     <e lm="ripartire"><i>ripart</i><par n="abbrut/ire__vblex"/></e>
     <e lm="contravvenire"><i>contravven</i><par n="abbrut/ire__vblex"/></e>
@@ -94356,6 +94358,7 @@
     <e lm="pasta di vetro"><i>past</i><par n="cas/a__n"/><p><l><b/>di<b/>vetro</l><r><g><b/>di<b/>vetro</g></r></p></e>
     <e lm="pasta brisée"><i>past</i><par n="cas/a__n"/><p><l><b/>brisée</l><r><g><b/>brisée</g></r></p></e>
     <e lm="dentifricio"><i>dentifrici</i><par n="abbagli/o__n"/></e>
+    <e lm="puffo"><i>puff</i><par n="abbagli/o__n"/></e>
     <e lm="pastasciutta"><i>pastasciutt</i><par n="cas/a__n"/></e>
     <e lm="rotta commerciale"><p><l>rotta<b/>commerciale</l><r>rotta<b/>commerciale<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="rotta commerciale"><p><l>rotte<b/>commerciali</l><r>rotta<b/>commerciale<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
