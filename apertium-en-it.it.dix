@@ -33725,28 +33725,28 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>dute</l>
 	  <r>dere<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r>
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>duta</l>
 	  <r>dere<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r>
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>duti</l>
 	  <r>dere<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r>
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>duto</l>
 	  <r>dere<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r>
@@ -66542,7 +66542,485 @@
       </e>
 
     </pardef>
+    <pardef n="emp/ire__vblex">
+      <e>
+	<p>
+	  <l>iremmo</l>
+	  <r>ire<s n="vblex"/><s n="cni"/><s n="p1"/><s n="pl"/></r>
+	</p>
+      </e>
 
+      <e>
+	<p>
+	  <l>irei</l>
+	  <r>ire<s n="vblex"/><s n="cni"/><s n="p1"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ireste</l>
+	  <r>ire<s n="vblex"/><s n="cni"/><s n="p2"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>iresti</l>
+	  <r>ire<s n="vblex"/><s n="cni"/><s n="p2"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>irebbero</l>
+	  <r>ire<s n="vblex"/><s n="cni"/><s n="p3"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>irebbe</l>
+	  <r>ire<s n="vblex"/><s n="cni"/><s n="p3"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>iremo</l>
+	  <r>ire<s n="vblex"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>irò</l>
+	  <r>ire<s n="vblex"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>irete</l>
+	  <r>ire<s n="vblex"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>irai</l>
+	  <r>ire<s n="vblex"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>iranno</l>
+	  <r>ire<s n="vblex"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>irà</l>
+	  <r>ire<s n="vblex"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>iendo</l>
+	  <r>ire<s n="vblex"/><s n="ger"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>iendo</l>
+	  <r>ire<s n="vblex"/><s n="ger"/><j/></r>
+	</p>
+        <par n="S__cantando"/>
+      </e>
+
+      <e>
+	<p>
+	  <l>immo</l>
+	  <r>ire<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r>
+	</p>
+      </e>
+      <e r="LR">
+	<p>
+	  <l>iemmo</l>
+	  <r>ire<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ii</l>
+	  <r>ire<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r>
+	</p>
+      </e>
+      <e r="LR">
+	<p>
+	  <l>iei</l>
+	  <r>ire<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>iste</l>
+	  <r>ire<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r>
+	</p>
+      </e>
+      <e r="LR">
+	<p>
+	  <l>ieste</l>
+	  <r>ire<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>isti</l>
+	  <r>ire<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r>
+	</p>
+      </e>
+      <e r="LR">
+	<p>
+	  <l>iesti</l>
+	  <r>ire<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e r="LR">
+	<p>
+	  <l>iron</l>
+	  <r>ire<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r>
+	</p>
+      </e>
+      <e r="LR">
+	<p>
+	  <l>ieron</l>
+	  <r>ire<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>irono</l>
+	  <r>ire<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r>
+	</p>
+      </e>
+      <e r="LR">
+	<p>
+	  <l>ierono</l>
+	  <r>ire<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ì</l>
+	  <r>ire<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r>
+	</p>
+      </e>
+      <e r="LR">
+	<p>
+	  <l>ié</l>
+	  <r>ire<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>iamo</l>
+	  <r>ire<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ite</l>
+	  <r>ire<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>i</l>
+	  <r>ire<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e r="LR">
+	<p>
+	  <l>ian</l>
+	  <r>ire<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>iano</l>
+	  <r>ire<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>i</l>
+	  <r>ire<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e r="LR">
+	<p>
+	  <l>ir</l>
+	  <r>ire<s n="vblex"/><s n="inf"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ire</l>
+	  <r>ire<s n="vblex"/><s n="inf"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ir</l>
+	  <r>ire<s n="vblex"/><s n="inf"/><j/></r>
+	</p><par n="S__cantar"/>
+      </e>
+
+      <e>
+	<p>
+	  <l>ivamo</l>
+	  <r>ire<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ivo</l>
+	  <r>ire<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ivate</l>
+	  <r>ire<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ivi</l>
+	  <r>ire<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e r="LR">
+	<p>
+	  <l>ivan</l>
+	  <r>ire<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ivano</l>
+	  <r>ire<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>iva</l>
+	  <r>ire<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>issimo</l>
+	  <r>ire<s n="vblex"/><s n="pis"/><s n="p1"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>issi</l>
+	  <r>ire<s n="vblex"/><s n="pis"/><s n="p1"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>iste</l>
+	  <r>ire<s n="vblex"/><s n="pis"/><s n="p2"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>issi</l>
+	  <r>ire<s n="vblex"/><s n="pis"/><s n="p2"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e r="LR">
+	<p>
+	  <l>isser</l>
+	  <r>ire<s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>issero</l>
+	  <r>ire<s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>isse</l>
+	  <r>ire<s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ite</l>
+	  <r>ire<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ita</l>
+	  <r>ire<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>iti</l>
+	  <r>ire<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ito</l>
+	  <r>ire<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>iamo</l>
+	  <r>ire<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>io</l>
+	  <r>ire<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ite</l>
+	  <r>ire<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>i</l>
+	  <r>ire<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e r="LR">
+	<p>
+	  <l>ion</l>
+	  <r>ire<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>iono</l>
+	  <r>ire<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ie</l>
+	  <r>ire<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>iamo</l>
+	  <r>ire<s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ia</l>
+	  <r>ire<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>iate</l>
+	  <r>ire<s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ia</l>
+	  <r>ire<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e r="LR">
+	<p>
+	  <l>ian</l>
+	  <r>ire<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>iano</l>
+	  <r>ire<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ia</l>
+	  <r>ire<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r>
+	</p>
+      </e>
+
+    </pardef>
 
 <!--fi paradigmes verbs -->
 
@@ -91749,6 +92227,7 @@
     <e lm="decantare"><i>decant</i><par n="abbacin/are__vblex"/></e>
     <e lm="decedere"><i>dec</i><par n="intrav/edere__vblex"/></e>
     <e lm="decidere"><i>deci</i><par n="acclu/dere__vblex"/></e>
+    <e lm="coincidere"><i>coinci</i><par n="acclu/dere__vblex"/></e>
     <e lm="decongestionare"><i>decongestion</i><par n="abbacin/are__vblex"/></e>
     <e lm="decretare"><i>decret</i><par n="abbacin/are__vblex"/></e>
     <e lm="dedicare"><i>dedic</i><par n="abbarbic/are__vblex"/></e>
@@ -91993,6 +92472,7 @@
     <e lm="inaugurare"><i>inaugur</i><par n="abbacin/are__vblex"/></e>
     <e lm="incantare"><i>incant</i><par n="abbacin/are__vblex"/></e>
     <e lm="incendiare"><i>incendi</i><par n="abbacchi/are__vblex"/></e>
+    <e lm="incediare"><i>incedi</i><par n="abbacchi/are__vblex"/></e>
     <e lm="incentivare"><i>incentiv</i><par n="abbacin/are__vblex"/></e>
     <e lm="incitare"><i>incit</i><par n="abbacin/are__vblex"/></e>
     <e lm="inclinare"><i>inclin</i><par n="abbacin/are__vblex"/></e>
@@ -92162,8 +92642,8 @@
     <e lm="perdonare"><i>perdon</i><par n="abbacin/are__vblex"/></e>
     <e lm="perpetrare"><i>perpetr</i><par n="abbacin/are__vblex"/></e>
     <e lm="perseguire"><i>persegu</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="usufruire"><i>usufru</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="usufruire di" r="RL"><i>usufru</i><par n="abbrut/ire__vblex"/><p><l><b/><a/>di</l><r><g><b/>di</g></r></p></e>
+    <e lm="usufruire"><i>usufru</i><par n="abbell/ire__vblex"/></e>
+    <e lm="usufruire di" r="RL"><i>usufru</i><par n="abbell/ire__vblex"/><p><l><b/><a/>di</l><r><g><b/>di</g></r></p></e>
     <e lm="pesare"><i>pes</i><par n="abbacin/are__vblex"/></e>
     <e lm="piacere"><i>piac</i><par n="compiac/ere__vblex"/></e>
     <e lm="dispiacere"><i>dispiac</i><par n="compiac/ere__vblex"/></e>
@@ -92280,9 +92760,9 @@
     <e lm="ricorrere"><i>ricor</i><par n="accor/rere__vblex"/></e>
     <e lm="ricordare"><i>ricord</i><par n="abbacin/are__vblex"/></e>
     <e lm="ricostituire"><i>ricostitu</i><par n="abbell/ire__vblex"/></e>
-    <e lm="ridefinire"><i>ridefin</i><par n="abbrut/ire__vblex"/></e>
+    <e lm="ridefinire"><i>ridefin</i><par n="abbell/ire__vblex"/></e>
     <e lm="ridimensionare"><i>ridimension</i><par n="abbacin/are__vblex"/></e>
-    <e lm="riempire"><i>riemp</i><par n="abbrut/ire__vblex"/></e>
+    <e lm="riempire"><i>riemp</i><par n="emp/ire__vblex"/></e>
     <e lm="riferire"><i>rifer</i><par n="abbell/ire__vblex"/></e>
     <e lm="rifiutare"><i>rifiut</i><par n="abbacin/are__vblex"/></e>
     <e lm="rifornire"><i>riforn</i><par n="abbell/ire__vblex"/></e>
@@ -92435,6 +92915,7 @@
     <e lm="infornare"><i>inforn</i><par n="abbacin/are__vblex"/></e>
     <e lm="boxare"><i>box</i><par n="abbacin/are__vblex"/></e>
     <e lm="testimoniare"><i>testimoni</i><par n="abbacchi/are__vblex"/></e>
+    <e lm="coniare"><i>coni</i><par n="abbacchi/are__vblex"/></e>
     <e lm="tirare"><i>tir</i><par n="abbacin/are__vblex"/></e>
     <e lm="toccare"><i>tocc</i><par n="abbarbic/are__vblex"/></e>
     <e lm="togliere"><i>to</i><par n="co/gliere__vblex"/></e>
@@ -94940,18 +95421,17 @@
     <e lm="sbadigliare"><i>sbadigli</i><par n="abbacchi/are__vblex"/></e>
     <e lm="svegliare"><i>svegli</i><par n="abbacchi/are__vblex"/></e>
     <e lm="annerire"><i>anner</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="concepire"><i>concep</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="contraddire"><i>contradd</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="indurire"><i>indur</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="infastidire"><i>infastid</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="percepire"><i>percep</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="predire"><i>pred</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="preferire"><i>prefer</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="progredire"><i>progred</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="prostituire"><i>prostitu</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="pulire"><i>pul</i><par n="abbrut/ire__vblex"/></e>
+    <e lm="contraddire"><i>contradd</i><par n="d/ire__vblex"/></e>
+    <e lm="indurire"><i>indur</i><par n="abbell/ire__vblex"/></e>
+    <e lm="infastidire"><i>infastid</i><par n="abbell/ire__vblex"/></e>
+    <e lm="percepire"><i>percep</i><par n="abbell/ire__vblex"/></e>
+    <e lm="predire"><i>pred</i><par n="d/ire__vblex"/></e>
+    <e lm="preferire"><i>prefer</i><par n="abbell/ire__vblex"/></e>
+    <e lm="progredire"><i>progred</i><par n="abbell/ire__vblex"/></e>
+    <e lm="prostituire"><i>prostitu</i><par n="abbell/ire__vblex"/></e>
+    <e lm="pulire"><i>pul</i><par n="abbell/ire__vblex"/></e>
     <e lm="scomparire"><i>scompar</i><par n="abbrut/ire__vblex"/></e>
-    <e lm="subire"><i>sub</i><par n="abbrut/ire__vblex"/></e>
+    <e lm="subire"><i>sub</i><par n="abbell/ire__vblex"/></e>
     <e lm="svestire"><i>svest</i><par n="abbrut/ire__vblex"/></e>
     <e lm="tradire"><i>trad</i><par n="abbrut/ire__vblex"/></e>
     <e lm="trasferire"><i>trasfer</i><par n="abbrut/ire__vblex"/></e>
@@ -94965,6 +95445,7 @@
     <e lm="rilassarsi"><i>rilass</i><par n="congratul/arsi__vblex"/></e>
     <e lm="ribellarsi"><i>ribell</i><par n="congratul/arsi__vblex"/></e>
     <e lm="lamentarsi"><i>lament</i><par n="congratul/arsi__vblex"/></e>
+    <e lm="avvicinarsi"><i>avvicin</i><par n="congratul/arsi__vblex"/></e>
     <e lm="responsabilizzarsi"><i>responsabilizz</i><par n="congratul/arsi__vblex"/></e>
     <e lm="svegliarsi"><i>svegli</i><par n="svegli/arsi__vblex"/></e>
     <e lm="rifugiarsi"><i>rifugi</i><par n="svegli/arsi__vblex"/></e>

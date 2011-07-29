@@ -22359,7 +22359,7 @@
     <e><p><l>surface<s n="vblex"/></l><r>emergere<s n="vblex"/></r></p></e>
     <e><p><l>title<s n="vblex"/></l><r>intitolare<s n="vblex"/></r></p></e>
     <e><p><l>abandon<s n="vblex"/></l><r>abbandonare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>check<g><b/>out</g><s n="vblex"/></l><r>lasciare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>check<g><b/>out</g><s n="vblex"/><s n="sep"/></l><r>lasciare<s n="vblex"/></r></p></e>
     <e><p><l>abash<s n="vblex"/></l><r>sconcertare<s n="vblex"/></r></p></e>
     <e><p><l>abbreviate<s n="vblex"/></l><r>abbreviare<s n="vblex"/></r></p></e>
     <e><p><l>abdicate<s n="vblex"/></l><r>abdicare<s n="vblex"/></r></p></e>
@@ -22692,12 +22692,12 @@
     <e><p><l>come<s n="vblex"/></l><r>venire<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>come<g><b/>across</g><s n="vblex"/></l><r>trovare<s n="vblex"/></r></p></e>
     <e><p><l>come<g><b/>back</g><s n="vblex"/></l><r>tornare<s n="vblex"/></r></p></e>
-    <e><p><l>come<g><b/>close</g><s n="vblex"/></l><r>avvicinarsi<s n="vblex"/></r></p></e>
+    <e><p><l>come<g><b/>close</g><s n="vblex"/></l><r>avvicinarsi<s n="vblex"/><s n="pron"/></r></p></e>
     <e><p><l>come<g><b/>in</g><s n="vblex"/></l><r>entrare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>come<g><b/>out</g><s n="vblex"/></l><r>uscire<s n="vblex"/></r></p></e>
     <e><p><l>comfort<s n="vblex"/></l><r>consolare<s n="vblex"/></r></p></e>
     <e><p><l>command<s n="vblex"/></l><r>comandare<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>command<s n="vblex"/></l><r>mandare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>command<vblex></l><r>comandare<vblex></r></e>).-->
+    <e><p><l>mandate<s n="vblex"/></l><r>mandare<s n="vblex"/></r></p></e>
     <e><p><l>commence<s n="vblex"/></l><r>cominciare<s n="vblex"/></r></p></e>
     <e><p><l>comment<s n="vblex"/></l><r>commentare<s n="vblex"/></r></p></e>
     <e><p><l>commercialise<s n="vblex"/></l><r>commercializzare<s n="vblex"/></r></p></e>
@@ -23124,6 +23124,7 @@
     <e><p><l>give<g><b/>back</g><s n="vblex"/></l><r>ridare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>send<g><b/>back</g><s n="vblex"/></l><r>ridare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>falsify<s n="vblex"/></l><r>falsificare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>get<g><b/>away<g><s n="vblex"/></l><r>scappare<s n="vblex"/></r></p></e>
     <e><p><l>fan<s n="vblex"/></l><r>sventolare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>fancy<s n="vblex"/></l><r>piacere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>farm<s n="vblex"/></l><r>coltivare<s n="vblex"/></r></p></e>
