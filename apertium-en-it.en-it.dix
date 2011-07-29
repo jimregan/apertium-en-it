@@ -22542,6 +22542,9 @@
     <e><p><l>be<g><b/>shipwrecked</g><s n="vblex"/></l><r>naufragare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>be<g><b/>sorry</g><s n="vblex"/></l><r>dispiacere<s n="vblex"/></r></p></e>
     <e><p><l>be<g><b/>used<b/>to</g><s n="vblex"/></l><r>solere<s n="vblex"/></r></p></e>
+    <e><p><l>slow<g><b/>down</g><s n="vblex"/></l><r>rallentare<s n="vblex"/></r></p></e>
+    <e><p><l>take<g><b/>into<b/>account</g><s n="vblex"/></l><r>mettere<g><b/>in<b/>conto</g><s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>take<g><b/>advantage<b/>of</g><s n="vblex"/></l><r>usufruire<g><b/>di</g><s n="vblex"/></r></p></e>
     <e r="LR"><p><l>be<g><b/>very<b/>sorry</g><s n="vblex"/></l><r>dispiacere<g><b/>molto</g><s n="vblex"/></r></p></e>
     <e r="LR"><p><l>be<g><b/>worth</g><s n="vblex"/></l><r>valere<s n="vblex"/></r></p></e>
     <e><p><l>be<g><b/>worthwhile</g><s n="vblex"/></l><r>essere<g><b/>utile</g><s n="vblex"/></r></p></e>
@@ -23044,7 +23047,8 @@
     <e r="LR"><p><l>enforce<s n="vblex"/></l><r>applicare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>apply<vblex></l><r>applicare<vblex></r></e>).-->
     <e><p><l>engage<s n="vblex"/></l><r>ingaggiare<s n="vblex"/></r></p></e>
     <e><p><l>enhance<s n="vblex"/></l><r>migliorare<s n="vblex"/></r></p></e>
-    <e c="MG: potser eliminar marca de polisèmia i fer-ho pel transfer? (I enjoy + ing)"><p><l>enjoy<s n="vblex"/></l><r>piacere<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>enjoy<s n="vblex"/></l><r>piacere<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>enjoy<s n="vblex"/></l><r>usufruire<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>enlarge<s n="vblex"/></l><r>ampliare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>broaden<vblex></l><r>ampliare<vblex></r></e>).-->
     <e><p><l>enrol<s n="vblex"/></l><r>iscrivere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>ensure<s n="vblex"/></l><r>assicurare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>assure<vblex></l><r>assicurare<vblex></r></e>).-->
@@ -23119,16 +23123,16 @@
     <e r="LR"><p><l>fall<g><b/>down</g><s n="vblex"/></l><r>cadere<s n="vblex"/></r></p></e>
     <e><p><l>give<g><b/>back</g><s n="vblex"/></l><r>ridare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>send<g><b/>back</g><s n="vblex"/></l><r>ridare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>falsify<s n="vblex"/></l><r>falsificare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>fake<vblex></l><r>falsificare<vblex></r></e>).-->
+    <e r="LR"><p><l>falsify<s n="vblex"/></l><r>falsificare<s n="vblex"/></r></p></e>
     <e><p><l>fan<s n="vblex"/></l><r>sventolare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>fancy<s n="vblex"/></l><r>piacere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>enjoy<vblex></l><r>piacere<vblex></r></e>).-->
-    <e r="LR"><p><l>farm<s n="vblex"/></l><r>coltivare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>cultivate<vblex></l><r>coltivare<vblex></r></e>).-->
+    <e r="LR"><p><l>fancy<s n="vblex"/></l><r>piacere<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>farm<s n="vblex"/></l><r>coltivare<s n="vblex"/></r></p></e>
     <e><p><l>fatten<s n="vblex"/></l><r>ingrassare<s n="vblex"/></r></p></e>
     <e><p><l>favour<s n="vblex"/></l><r>favorire<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>favour<s n="vblex"/></l><r>privilegiare<s n="vblex"/></r></p></e>
     <e><p><l>fear<s n="vblex"/></l><r>temere<s n="vblex"/></r></p></e>
     <e c="en el sentido de figurar (entre)"><p><l>feature<s n="vblex"/></l><r>constare<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>feature<s n="vblex"/></l><r>presentare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>feature<vblex></l><r>constare<vblex></r></e>).-->
+    <e r="RL"><p><l>feature<s n="vblex"/></l><r>presentare<s n="vblex"/></r></p></e>
     <e><p><l>feed<s n="vblex"/></l><r>alimentare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>feel<s n="vblex"/></l><r>sentire<s n="vblex"/></r></p></e>
     <e><p><l>ferment<s n="vblex"/></l><r>fermentare<s n="vblex"/></r></p></e>
@@ -23421,6 +23425,7 @@
     <e><p><l>legalise<s n="vblex"/></l><r>legalizzare<s n="vblex"/></r></p></e>
     <e><p><l>legitimate<s n="vblex"/></l><r>legittimare<s n="vblex"/></r></p></e>
     <e><p><l>get<g><b/>married</g><s n="vblex"/></l><r>sposarsi<s n="vblex"/><s n="pron"/></r></p></e>
+    <e><p><l>get<g><b/>up</g><s n="vblex"/></l><r>alzarsi<s n="vblex"/><s n="pron"/></r></p></e>
     <e><p><l>redirect<s n="vblex"/></l><r>reindirizzare<s n="vblex"/></r></p></e>
     <e><p><l>redo<s n="vblex"/></l><r>rifare<s n="vblex"/></r></p></e>
     <e><p><l>reedit<s n="vblex"/></l><r>rieditare<s n="vblex"/></r></p></e>
@@ -23534,7 +23539,7 @@
     <e><p><l>lie<s n="vblex"/></l><r>mentire<s n="vblex"/></r></p></e>
     <e><p><l>light<s n="vblex"/></l><r>accendere<s n="vblex"/></r></p></e>
     <e><p><l>lighten<s n="vblex"/></l><r>illuminare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>like<s n="vblex"/></l><r>piacere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>enjoy<vblex></l><r>piacere<vblex></r></e>).-->
+    <e r="LR"><p><l>like<s n="vblex"/></l><r>piacere<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>like<s n="vblex"/></l><r>gustare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>like<vblex></l><r>piacere<vblex></r></e>).-->
     <e><p><l>limit<s n="vblex"/></l><r>limitare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>line<s n="vblex"/></l><r>allineare<s n="vblex"/></r></p></e>
