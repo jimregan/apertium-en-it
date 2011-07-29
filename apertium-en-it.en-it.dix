@@ -22718,7 +22718,6 @@
     <e><p><l>conceal<s n="vblex"/></l><r>nascondere<s n="vblex"/></r></p></e>
     <e><p><l>concede<s n="vblex"/></l><r>concedere<s n="vblex"/></r></p></e>
     <e i="yes"><p><l>concede<s n="vblex"/></l><r>accordare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>agree<vblex></l><r>accordare<vblex></r></e>).-->
-    <e><p><l>conceive<s n="vblex"/></l><r>concepire<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>concern<s n="vblex"/></l><r>riguardare<s n="vblex"/></r></p></e>
     <e><p><l>conciliate<s n="vblex"/></l><r>conciliare<s n="vblex"/></r></p></e>
     <e><p><l>conclude<s n="vblex"/></l><r>concludere<s n="vblex"/></r></p></e>
@@ -22731,7 +22730,6 @@
     <e><p><l>confess<s n="vblex"/></l><r>confessare<s n="vblex"/></r></p></e>
     <e><p><l>configure<s n="vblex"/></l><r>configurare<s n="vblex"/></r></p></e>
     <e c="encerrar o recluir"><p><l>confine<s n="vblex"/></l><r>confinare<s n="vblex"/></r></p></e>
-    <e r="RL" c="limutar o restringir"><p><l>confine<s n="vblex"/></l><r>limitare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>confine<vblex></l><r>confinare<vblex></r></e>).-->
     <e r="RL"><p><l>confine<s n="vblex"/></l><r>internare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>confine<vblex></l><r>confinare<vblex></r></e>).-->
     <e><p><l>confirm<s n="vblex"/></l><r>confermare<s n="vblex"/></r></p></e>
     <e><p><l>confiscate<s n="vblex"/></l><r>confiscare<s n="vblex"/></r></p></e>
@@ -22906,7 +22904,7 @@
     <e><p><l>detonate<s n="vblex"/></l><r>detonare<s n="vblex"/></r></p></e>
     <e><p><l>devastate<s n="vblex"/></l><r>devastare<s n="vblex"/></r></p></e>
     <e><p><l>develop<s n="vblex"/></l><r>sviluppare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>devise<s n="vblex"/></l><r>concepire<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>conceive<vblex></l><r>concepire<vblex></r></e>).-->
+    <e r="LR"><p><l>devise<s n="vblex"/></l><r>concepire<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>devote<s n="vblex"/></l><r>dedicare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>dedicate<vblex></l><r>dedicare<vblex></r></e>).-->
     <e><p><l>devour<s n="vblex"/></l><r>divorare<s n="vblex"/></r></p></e>
     <e><p><l>diagnose<s n="vblex"/></l><r>diagnosticare<s n="vblex"/></r></p></e>
@@ -22948,7 +22946,6 @@
     <e><p><l>dislike<s n="vblex"/></l><r>dispiacere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>dismantle<s n="vblex"/></l><r>smontare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>disassemble<vblex></l><r>smontare<vblex></r></e>).-->
     <e><p><l>dismay<s n="vblex"/></l><r>disanimare<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>dismay<s n="vblex"/></l><r>scoraggiare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>dismay<vblex></l><r>disanimare<vblex></r></e>).-->
     <e><p><l>dismiss<s n="vblex"/></l><r>licenziare<s n="vblex"/></r></p></e>
     <e><p><l>dispel<s n="vblex"/></l><r>dissipare<s n="vblex"/></r></p></e>
     <e><p><l>dispense<s n="vblex"/></l><r>dispensare<s n="vblex"/></r></p></e>
@@ -23035,7 +23032,7 @@
     <e><p><l>emulate<s n="vblex"/></l><r>emulare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>enable<s n="vblex"/></l><r>autorizzare<s n="vblex"/></r></p></e>
     <e><p><l>enchant<s n="vblex"/></l><r>incantare<s n="vblex"/></r></p></e>
-    <e><p><l>encipher<s n="vblex"/></l><r>cifrare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>encipher<s n="vblex"/></l><r>cifrare<s n="vblex"/></r></p></e>
     <e><p><l>encircle<s n="vblex"/></l><r>cingere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>enclose<s n="vblex"/></l><r>chiudere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>encounter<s n="vblex"/></l><r>trovare<s n="vblex"/></r></p></e>
@@ -23229,7 +23226,7 @@
     <e r="LR"><p><l>go<g><b/>up</g><s n="vblex"/></l><r>subire<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>get<g><b/>on</g><vblex></l><r>subire<vblex></r></e>).-->
     <e><p><l>govern<s n="vblex"/></l><r>governare<s n="vblex"/></r></p></e>
     <e><p><l>graduate<s n="vblex"/></l><r>laureare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>grant<s n="vblex"/></l><r>concedere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>concede<vblex></l><r>concedere<vblex></r></e>).-->
+    <e r="LR"><p><l>grant<s n="vblex"/></l><r>concedere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>grasp<s n="vblex"/></l><r>afferrare<s n="vblex"/></r></p></e>
     <e><p><l>gratify<s n="vblex"/></l><r>gratificare<s n="vblex"/></r></p></e>
     <e><p><l>graze<s n="vblex"/></l><r>pascolare<s n="vblex"/></r></p></e>
@@ -23430,11 +23427,11 @@
     <e><p><l>regenerate<s n="vblex"/></l><r>rigenerare<s n="vblex"/></r></p></e>
     <e><p><l>reinforce<s n="vblex"/></l><r>rafforzare<s n="vblex"/></r></p></e>
     <e><p><l>reiterate<s n="vblex"/></l><r>reiterare<s n="vblex"/></r></p></e>
-    <e><p><l>reject<s n="vblex"/></l><r>rifiutare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>reject<s n="vblex"/></l><r>rifiutare<s n="vblex"/></r></p></e>
     <e><p><l>rejuvenate<s n="vblex"/></l><r>ringiovanire<s n="vblex"/></r></p></e>
-    <e><p><l>remark<s n="vblex"/></l><r>osservare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>remark<s n="vblex"/></l><r>osservare<s n="vblex"/></r></p></e>
     <e><p><l>remedy<s n="vblex"/></l><r>rimediare<s n="vblex"/></r></p></e>
-    <e><p><l>remodel<s n="vblex"/></l><r>ristrutturare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>remodel<s n="vblex"/></l><r>ristrutturare<s n="vblex"/></r></p></e>
     <e><p><l>rename<s n="vblex"/></l><r>rinominare<s n="vblex"/></r></p></e>
     <e><p><l>replace<s n="vblex"/></l><r>rimpiazzare<s n="vblex"/></r></p></e>
     <e><p><l>reproach<s n="vblex"/></l><r>rimproverare<s n="vblex"/></r></p></e>
@@ -23443,26 +23440,25 @@
     <e><p><l>requisition<s n="vblex"/></l><r>requisire<s n="vblex"/></r></p></e>
     <e><p><l>reread<s n="vblex"/></l><r>rileggere<s n="vblex"/></r></p></e>
     <e><p><l>rerun<s n="vblex"/></l><r>rieseguire<s n="vblex"/></r></p></e>
-    <e><p><l>rescue<s n="vblex"/></l><r>salvare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>rescue<s n="vblex"/></l><r>salvare<s n="vblex"/></r></p></e>
     <e><p><l>resist<s n="vblex"/></l><r>resistere<s n="vblex"/></r></p></e>
     <e><p><l>respect<s n="vblex"/></l><r>rispettare<s n="vblex"/></r></p></e>
     <e><p><l>rest<s n="vblex"/></l><r>riposare<s n="vblex"/></r></p></e>
     <e><p><l>restart<s n="vblex"/></l><r>ripartire<s n="vblex"/></r></p></e>
     <e><p><l>restate<s n="vblex"/></l><r>riesporre<s n="vblex"/></r></p></e>
-    <e><p><l>restrict<s n="vblex"/></l><r>limitare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>restrict<s n="vblex"/></l><r>limitare<s n="vblex"/></r></p></e>
     <e><p><l>resurrect<s n="vblex"/></l><r>risuscitare<s n="vblex"/></r></p></e>
-    <e><p><l>retain<s n="vblex"/></l><r>conservare<s n="vblex"/></r></p></e>
-    <e><p><l>retard<s n="vblex"/></l><r>ritardare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>retain<s n="vblex"/></l><r>conservare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>retard<s n="vblex"/></l><r>ritardare<s n="vblex"/></r></p></e>
     <e><p><l>retouch<s n="vblex"/></l><r>ritoccare<s n="vblex"/></r></p></e>
     <e><p><l>revalidate<s n="vblex"/></l><r>rivalidare<s n="vblex"/></r></p></e>
     <e><p><l>revive<s n="vblex"/></l><r>rivivere<s n="vblex"/></r></p></e>
     <e><p><l>revoke<s n="vblex"/></l><r>revocare<s n="vblex"/></r></p></e>
     <e><p><l>rewrite<s n="vblex"/></l><r>riscrivere<s n="vblex"/></r></p></e>
     <e><p><l>commit<s n="vblex"/></l><r>commettere<s n="vblex"/></r></p></e>
-    <e><p><l>compel<s n="vblex"/></l><r>costringere<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>compel<s n="vblex"/></l><r>costringere<s n="vblex"/></r></p></e>
     <e><p><l>compete<s n="vblex"/></l><r>competere<s n="vblex"/></r></p></e>
     <e><p><l>compress<s n="vblex"/></l><r>comprimere<s n="vblex"/></r></p></e>
-    <e><p><l>concede<s n="vblex"/></l><r>concedere<s n="vblex"/></r></p></e>
     <e><p><l>conceive<s n="vblex"/></l><r>concepire<s n="vblex"/></r></p></e>
     <e><p><l>contravene<s n="vblex"/></l><r>contravvenire<s n="vblex"/></r></p></e>
     <e><p><l>crush<s n="vblex"/></l><r>schiacciare<s n="vblex"/></r></p></e>
@@ -23491,7 +23487,7 @@
     <e><p><l>dub<s n="vblex"/></l><r>doppiare<s n="vblex"/></r></p></e>
     <e><p><l>dull<s n="vblex"/></l><r>attenuare<s n="vblex"/></r></p></e>
     <e><p><l>edit<s n="vblex"/></l><r>editare<s n="vblex"/></r></p></e>
-    <e><p><l>elucidate<s n="vblex"/></l><r>chiarire<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>elucidate<s n="vblex"/></l><r>chiarire<s n="vblex"/></r></p></e>
     <e><p><l>encode<s n="vblex"/></l><r>codificare<s n="vblex"/></r></p></e>
     <e><p><l>encrypt<s n="vblex"/></l><r>cifrare<s n="vblex"/></r></p></e>
     <e><p><l>enrich<s n="vblex"/></l><r>arricchire<s n="vblex"/></r></p></e>
@@ -23504,12 +23500,11 @@
     <e><p><l>exile<s n="vblex"/></l><r>esiliare<s n="vblex"/></r></p></e>
     <e><p><l>extort<s n="vblex"/></l><r>estorcere<s n="vblex"/></r></p></e>
     <e><p><l>extract<s n="vblex"/></l><r>estrarre<s n="vblex"/></r></p></e>
-    <e><p><l>feed<s n="vblex"/></l><r>alimentare<s n="vblex"/></r></p></e>
     <e><p><l>file<s n="vblex"/></l><r>archiviare<s n="vblex"/></r></p></e>
     <e><p><l>flatter<s n="vblex"/></l><r>lusingare<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>fork<s n="vblex"/></l><r>inforcare<s n="vblex"/></r></p></e>
     <e><p><l>frame<s n="vblex"/></l><r>incorniciare<s n="vblex"/></r></p></e>
-    <e><p><l>fuse<s n="vblex"/></l><r>fondere<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>fuse<s n="vblex"/></l><r>fondere<s n="vblex"/></r></p></e>
     <e><p><l>garnish<s n="vblex"/></l><r>guarnire<s n="vblex"/></r></p></e>
     <e><p><l>complain<s n="vblex"/></l><r>lamentarsi<s n="vblex"/><s n="pron"/></r></p></e>
     <e><p><l>crumble<s n="vblex"/></l><r>sgretolarsi<s n="vblex"/><s n="pron"/></r></p></e>
@@ -23529,7 +23524,7 @@
     <e><p><l>lighten<s n="vblex"/></l><r>illuminare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>like<s n="vblex"/></l><r>piacere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>enjoy<vblex></l><r>piacere<vblex></r></e>).-->
     <e r="RL"><p><l>like<s n="vblex"/></l><r>gustare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>like<vblex></l><r>piacere<vblex></r></e>).-->
-    <e r="LR"><p><l>limit<s n="vblex"/></l><r>limitare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="RL"><l>confine<vblex></l><r>limitare<vblex></r></e>).-->
+    <e><p><l>limit<s n="vblex"/></l><r>limitare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>line<s n="vblex"/></l><r>allineare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>line<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>allineare<s n="vblex"/></r></p></e>
     <e><p><l>link<s n="vblex"/></l><r>allacciare<s n="vblex"/></r></p></e>
