@@ -12152,7 +12152,6 @@
     <e><p><l>nitrite<s n="n"/></l><r>nitrito<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>noon<s n="n"/></l><r>mezzogiorno<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ogre<s n="n"/></l><r>orco<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>orientation<s n="n"/></l><r>orientamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ovule<s n="n"/></l><r>ovulo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>simile<s n="n"/></l><r>similitudine<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>solitude<s n="n"/></l><r>solitudine<s n="n"/><s n="f"/></r></p></e>
@@ -17954,8 +17953,8 @@
     <e><p><l>orgasm<s n="n"/></l><r>orgasmo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>orgy<s n="n"/></l><r>orgia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>orientalism<s n="n"/></l><r>orientalismo<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>orientation<s n="n"/></l><r>orientamento<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>orientation<s n="n"/></l><r>orientazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>orientation<s n="n"/></l><r>orientamento<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>orientation<s n="n"/></l><r>orientazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>orienteering<s n="n"/></l><r>orientamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>origin<s n="n"/></l><r>origine<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>originality<s n="n"/><s n="ND"/></l><r>originalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -20544,8 +20543,8 @@
     <e><p><l>tuner<s n="n"/></l><r>sintonizzatore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tunic<s n="n"/></l><r>tunica<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>tuning<s n="n"/></l><r>ottimizzazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>optimisation<n></l><r>ottimizzazione<n><f></r></e>).-->
-    <e><p><l>tunnel<s n="n"/></l><r>tunnel<s n="n"/><s n="m"/></r></p></e>
-    <e i="yes"><p><l>tunnel<s n="n"/></l><r>galleria<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>gallery<n></l><r>galleria<n><f></r></e>).-->
+    <e r="RL"><p><l>tunnel<s n="n"/></l><r>tunnel<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>tunnel<s n="n"/></l><r>traforo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>turbine<s n="n"/></l><r>turbina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>turbocompressor<s n="n"/></l><r>turbocompressore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>turbulence<s n="n"/></l><r>turbolenza<s n="n"/><s n="f"/></r></p></e>
@@ -22344,7 +22343,6 @@
     <!-- ******************************
           group vblex_symbol
       ****************************** -->
-    <e><p><l>compel<s n="vblex"/></l><r>obbligare<s n="vblex"/></r></p></e>
     <e><p><l>get<g><b/>dark</g><s n="vblex"/></l><r>oscurare<s n="vblex"/></r></p></e>
     <e><p><l>house<s n="vblex"/></l><r>albergare<s n="vblex"/></r></p></e>
     <e><p><l>practice<s n="vblex"/></l><r>praticare<s n="vblex"/></r></p></e>
@@ -22904,7 +22902,7 @@
     <e><p><l>detail<s n="vblex"/></l><r>dettagliare<s n="vblex"/></r></p></e>
     <e><p><l>detain<s n="vblex"/></l><r>detenere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>detect<s n="vblex"/></l><r>scoprire<s n="vblex"/></r></p></e>
-    <e><p><l>deter<s n="vblex"/></l><r>distogliere<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>deter<s n="vblex"/></l><r>distogliere<s n="vblex"/></r></p></e>
     <e><p><l>determine<s n="vblex"/></l><r>determinare<s n="vblex"/></r></p></e>
     <e><p><l>detest<s n="vblex"/></l><r>detestare<s n="vblex"/></r></p></e>
     <e><p><l>detonate<s n="vblex"/></l><r>detonare<s n="vblex"/></r></p></e>
@@ -23451,9 +23449,7 @@
     <e><p><l>rest<s n="vblex"/></l><r>riposare<s n="vblex"/></r></p></e>
     <e><p><l>restart<s n="vblex"/></l><r>ripartire<s n="vblex"/></r></p></e>
     <e><p><l>restate<s n="vblex"/></l><r>riesporre<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>restrict<s n="vblex"/></l><r>limitare<s n="vblex"/></r></p></e>
     <e><p><l>resurrect<s n="vblex"/></l><r>risuscitare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>retain<s n="vblex"/></l><r>conservare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>retard<s n="vblex"/></l><r>ritardare<s n="vblex"/></r></p></e>
     <e><p><l>retouch<s n="vblex"/></l><r>ritoccare<s n="vblex"/></r></p></e>
     <e><p><l>revalidate<s n="vblex"/></l><r>rivalidare<s n="vblex"/></r></p></e>
@@ -23461,7 +23457,7 @@
     <e><p><l>revoke<s n="vblex"/></l><r>revocare<s n="vblex"/></r></p></e>
     <e><p><l>rewrite<s n="vblex"/></l><r>riscrivere<s n="vblex"/></r></p></e>
     <e><p><l>commit<s n="vblex"/></l><r>commettere<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>compel<s n="vblex"/></l><r>costringere<s n="vblex"/></r></p></e>
+    <e><p><l>compel<s n="vblex"/></l><r>costringere<s n="vblex"/></r></p></e>
     <e><p><l>compete<s n="vblex"/></l><r>competere<s n="vblex"/></r></p></e>
     <e><p><l>compress<s n="vblex"/></l><r>comprimere<s n="vblex"/></r></p></e>
     <e><p><l>conceive<s n="vblex"/></l><r>concepire<s n="vblex"/></r></p></e>
@@ -23492,7 +23488,6 @@
     <e><p><l>dub<s n="vblex"/></l><r>doppiare<s n="vblex"/></r></p></e>
     <e><p><l>dull<s n="vblex"/></l><r>attenuare<s n="vblex"/></r></p></e>
     <e><p><l>edit<s n="vblex"/></l><r>editare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>elucidate<s n="vblex"/></l><r>chiarire<s n="vblex"/></r></p></e>
     <e><p><l>encode<s n="vblex"/></l><r>codificare<s n="vblex"/></r></p></e>
     <e><p><l>encrypt<s n="vblex"/></l><r>cifrare<s n="vblex"/></r></p></e>
     <e><p><l>enrich<s n="vblex"/></l><r>arricchire<s n="vblex"/></r></p></e>
@@ -23902,7 +23897,7 @@
     <e><p><l>retort<s n="vblex"/></l><r>replicare<s n="vblex"/></r></p></e>
     <e><p><l>retract<s n="vblex"/></l><r>ritirare<s n="vblex"/></r></p></e>
     <e><p><l>retreat<s n="vblex"/></l><r>retrocedere<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>retrieve<s n="vblex"/></l><r>recuperare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>recover<vblex></l><r>recuperare<vblex></r></e>).-->
+    <e><p><l>retrieve<s n="vblex"/></l><r>ritrovare<s n="vblex"/></r></p></e>
     <e><p><l>return<s n="vblex"/></l><r>ritornare<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>return<s n="vblex"/></l><r>restituire<s n="vblex"/></r></p></e>
     <e><p><l>reunite<s n="vblex"/></l><r>riunire<s n="vblex"/></r></p></e>
@@ -23979,7 +23974,7 @@
     <e><p><l>weld<s n="vblex"/></l><r>saldare<s n="vblex"/></r></p></e>
     <e><p><l>retain<s n="vblex"/></l><r>ritenere<s n="vblex"/></r></p></e>
     <e><p><l>hold<g><b/>responsible</g><s n="vblex"/><s n="sep"/></l><r>ritenere<g><b/>responsabile</g><s n="vblex"/></r></p></e>
-    <e><p><l>bake<s n="vblex"/></l><r>infornare<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>bake<s n="vblex"/></l><r>infornare<s n="vblex"/></r></p></e>
     <e><p><l>box<s n="vblex"/></l><r>boxare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>signal<s n="vblex"/></l><r>segnalare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>point<vblex></l><r>segnalare<vblex></r></e>).-->
     <e><p><l>simplify<s n="vblex"/></l><r>semplificare<s n="vblex"/></r></p></e>
