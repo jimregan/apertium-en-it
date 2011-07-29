@@ -74798,6 +74798,7 @@
 
     </pardef>
     <pardef n="congratul/arsi__vblex">
+   
       <e>
 	<p>
 	  <l>eremmo</l>
@@ -74826,8 +74827,7 @@
 	</p>
       </e>
 
-      <e r="LR">
-	<p>
+      <e r="LR">	<p>
 	  <l>erebber</l>
 	  <r>arsi<s n="vblex"/><s n="pron"/><s n="cni"/><s n="p3"/><s n="pl"/></r>
 	</p>
@@ -74875,8 +74875,7 @@
 	</p>
       </e>
 
-      <e r="LR">
-	<p>
+      <e r="LR">	<p>
 	  <l>eran</l>
 	  <r>arsi<s n="vblex"/><s n="pron"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
 	</p>
@@ -74893,6 +74892,21 @@
 	<p>
 	  <l>erà</l>
 	  <r>arsi<s n="vblex"/><s n="pron"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ando</l>
+	  <r>arsi<s n="vblex"/><s n="pron"/><s n="ger"/><j/></r>
+	</p>
+	<par n="S__cantando"/>
+      </e>
+
+      <e>
+	<p>
+	  <l>ando</l>
+	  <r>arsi<s n="vblex"/><s n="pron"/><s n="ger"/></r>
 	</p>
       </e>
 
@@ -74924,8 +74938,7 @@
 	</p>
       </e>
 
-      <e r="LR">
-	<p>
+      <e r="LR">	<p>
 	  <l>aron</l>
 	  <r>arsi<s n="vblex"/><s n="pron"/><s n="ifi"/><s n="p3"/><s n="pl"/></r>
 	</p>
@@ -74947,15 +74960,30 @@
 
       <e>
 	<p>
-	  <l>ati</l>
-	  <r>arsi<s n="vblex"/><s n="pron"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+	  <l>iamo</l>
+	  <r>arsi<s n="vblex"/><s n="pron"/><s n="imp"/><s n="p1"/><s n="pl"/></r>
+	</p>
+      </e>
+      <e>
+	<p>
+	  <l>iamo</l>
+	  <r>arsi<s n="vblex"/><s n="pron"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r>
+	</p>
+        <par n="S__cantiamo"/> 
+      </e>
+
+
+      <e>
+	<p>
+	  <l>ate</l>
+	  <r>arsi<s n="vblex"/><s n="pron"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
 	</p>
       </e>
 
-      <e r="LR">
+      <e>
 	<p>
-	  <l>in</l>
-	  <r>arsi<s n="vblex"/><s n="pron"/><s n="imp"/><s n="p3"/><s n="pl"/></r>
+	  <l>a</l>
+	  <r>arsi<s n="vblex"/><s n="pron"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
 	</p>
       </e>
 
@@ -74973,13 +75001,26 @@
 	</p>
       </e>
 
+      <e r="LR">	<p>
+	  <l>ar</l>
+	  <r>arsi<s n="vblex"/><s n="pron"/><s n="inf"/></r>
+	</p>
+      </e>
+   
       <e>
 	<p>
-	  <l>arsi</l>
+	  <l>are</l>
 	  <r>arsi<s n="vblex"/><s n="pron"/><s n="inf"/></r>
 	</p>
       </e>
 
+      <e>	<p>
+	  <l>ar</l>
+	  <r>arsi<s n="vblex"/><s n="pron"/><s n="inf"/><j/></r>
+	</p>
+<par n="S__cantar"/>
+      </e>
+      
       <e>
 	<p>
 	  <l>avamo</l>
@@ -75008,8 +75049,7 @@
 	</p>
       </e>
 
-      <e r="LR">
-	<p>
+      <e r="LR">	<p>
 	  <l>avan</l>
 	  <r>arsi<s n="vblex"/><s n="pron"/><s n="pii"/><s n="p3"/><s n="pl"/></r>
 	</p>
@@ -75057,8 +75097,7 @@
 	</p>
       </e>
 
-      <e r="LR">
-	<p>
+      <e r="LR">	<p>
 	  <l>asser</l>
 	  <r>arsi<s n="vblex"/><s n="pron"/><s n="pis"/><s n="p3"/><s n="pl"/></r>
 	</p>
@@ -75075,6 +75114,34 @@
 	<p>
 	  <l>asse</l>
 	  <r>arsi<s n="vblex"/><s n="pron"/><s n="pis"/><s n="p3"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ate</l>
+	  <r>arsi<s n="vblex"/><s n="pron"/><s n="pp"/><s n="f"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ata</l>
+	  <r>arsi<s n="vblex"/><s n="pron"/><s n="pp"/><s n="f"/><s n="sg"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ati</l>
+	  <r>arsi<s n="vblex"/><s n="pron"/><s n="pp"/><s n="m"/><s n="pl"/></r>
+	</p>
+      </e>
+
+      <e>
+	<p>
+	  <l>ato</l>
+	  <r>arsi<s n="vblex"/><s n="pron"/><s n="pp"/><s n="m"/><s n="sg"/></r>
 	</p>
       </e>
 
@@ -75106,8 +75173,7 @@
 	</p>
       </e>
 
-      <e r="LR">
-	<p>
+      <e r="LR">	<p>
 	  <l>an</l>
 	  <r>arsi<s n="vblex"/><s n="pron"/><s n="pri"/><s n="p3"/><s n="pl"/></r>
 	</p>
@@ -75155,8 +75221,7 @@
 	</p>
       </e>
 
-      <e r="LR">
-	<p>
+      <e r="LR">	<p>
 	  <l>in</l>
 	  <r>arsi<s n="vblex"/><s n="pron"/><s n="prs"/><s n="p3"/><s n="pl"/></r>
 	</p>
