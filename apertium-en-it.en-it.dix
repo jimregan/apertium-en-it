@@ -14299,7 +14299,6 @@
     <e r="RL"><p><l>community<s n="n"/><s n="ND"/></l><r>comunità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>community<s n="n"/><s n="sg"/></l><r>comunità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>community<s n="n"/><s n="pl"/></l><r>comunità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>community<s n="n"/><s n="ND"/></l><r>collettività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>companion<s n="n"/></l><r>compagno<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>company<s n="n"/></l><r>compagnia<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>company<s n="n"/></l><r>azienda<s n="n"/><s n="f"/></r></p></e>
@@ -14615,7 +14614,6 @@
     <e r="LR"><p><l>cretin<s n="n"/></l><r>cretino<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>crib<s n="n"/></l><r>presepe<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>crime<s n="n"/></l><r>crimine<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>crime<s n="n"/><s n="ND"/></l><r>criminalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>crime<s n="n"/></l><r>delitto<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>criminologist<s n="n"/></l><r>criminologo<s n="n"/></r></p></e>
     <e r="LR"><p><l>criminologist<s n="n"/></l><r>criminologo<s n="n"/><s n="GD"/></r></p></e>
@@ -16141,7 +16139,7 @@
     <e><p><l>greeting<s n="n"/></l><r>saluto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>greyhound<s n="n"/></l><r>levriero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>grid<s n="n"/></l><r>griglia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>griffin<s n="n"/></l><r>rubinetto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>griffin<s n="n"/></l><r>grifone<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>grille<s n="n"/></l><r>griglia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>grimace<s n="n"/></l><r>smorfia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>grinder<s n="n"/></l><r>mulinello<s n="n"/><s n="m"/></r></p></e>
@@ -20145,10 +20143,9 @@
     <e r="LR"><p><l>tandem<s n="n"/><s n="pl"/></l><r>tandem<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>tangent<s n="n"/></l><r>tangente<s n="n"/><s n="f"/></r></p></e>
     <e r="LR" slr="contenitore D"><p><l>tank<s n="n"/></l><r>contenitore<s n="n"/><s n="m"/></r></p></e>
-    <e slr="carro armato" i="yes"><p><l>tank<s n="n"/></l><r>carro<b/>armato<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>tank<n></l><r>contenitore<n><m></r></e>).-->
-    <e slr="acquario" i="yes"><p><l>tank<s n="n"/></l><r>acquario<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>tank<n></l><r>contenitore<n><m></r></e>).-->
-    <e><p><l>tap<s n="n"/></l><r>grifone<s n="n"/><s n="m"/></r></p></e>
-    <e i="yes"><p><l>tap<s n="n"/></l><r>rubinetto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>griffin<n></l><r>rubinetto<n><m></r></e>).-->
+    <e slr="carro armato"><p><l>tank<s n="n"/></l><r>carro<b/>armato<s n="n"/><s n="m"/></r></p></e>
+    <e slr="acquario"><p><l>tank<s n="n"/></l><r>acquario<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tap<s n="n"/></l><r>rubinetto<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>tap<b/>dancer<s n="n"/></l><r>ballerino<g><b/>di<b/>tip<b/>tap</g><s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>tap<b/>dancer<s n="n"/></l><r>ballerino<g><b/>di<b/>tip<b/>tap</g><s n="n"/></r></p></e>
     <e><p><l>tapestry<s n="n"/></l><r>arazzo<s n="n"/><s n="m"/></r></p></e>
@@ -22348,7 +22345,7 @@
     <e><p><l>reinstate<s n="vblex"/></l><r>ristabilire<s n="vblex"/></r></p></e>
     <e><p><l>repel<s n="vblex"/></l><r>repellere<s n="vblex"/></r></p></e>
     <e><p><l>schedule<s n="vblex"/></l><r>pianificare<s n="vblex"/></r></p></e>
-    <e><p><l>shiver<s n="vblex"/></l><r>tremare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>shiver<s n="vblex"/></l><r>tremare<s n="vblex"/></r></p></e>
     <e><p><l>shock<s n="vblex"/></l><r>impressionare<s n="vblex"/></r></p></e>
     <e><p><l>spare<s n="vblex"/></l><r>risparmiare<s n="vblex"/></r></p></e>
     <e><p><l>stall<s n="vblex"/></l><r>fermare<s n="vblex"/></r></p></e>
@@ -22382,7 +22379,7 @@
     <e><p><l>accommodate<s n="vblex"/></l><r>accogliere<s n="vblex"/></r></p></e>
     <e><p><l>accompany<s n="vblex"/></l><r>accompagnare<s n="vblex"/></r></p></e>
     <e><p><l>accomplish<s n="vblex"/></l><r>compiere<s n="vblex"/></r></p></e>
-    <e><p><l>accredit<s n="vblex"/></l><r>accreditare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>accredit<s n="vblex"/></l><r>accreditare<s n="vblex"/></r></p></e>
     <e><p><l>accumulate<s n="vblex"/></l><r>accumulare<s n="vblex"/></r></p></e>
     <e><p><l>accuse<s n="vblex"/></l><r>accusare<s n="vblex"/></r></p></e>
     <e><p><l>accustom<s n="vblex"/></l><r>abituare<s n="vblex"/></r></p></e>
@@ -22791,13 +22788,13 @@
     <e r="LR"><p><l>cope<s n="vblex"/></l><r>sopportare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>cope<g><b/>with</g><s n="vblex"/></l><r>sopportare<s n="vblex"/></r></p></e>
     <e><p><l>copy<s n="vblex"/></l><r>copiare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>correct<s n="vblex"/></l><r>correggere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>adjust<vblex></l><r>correggere<vblex></r></e>).-->
+    <e r="LR"><p><l>correct<s n="vblex"/></l><r>correggere<s n="vblex"/></r></p></e>
     <e><p><l>correspond<s n="vblex"/></l><r>corrispondere<s n="vblex"/></r></p></e>
     <e><p><l>cost<s n="vblex"/></l><r>costare<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>cost<s n="vblex"/></l><r>valere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>cost<vblex></l><r>costare<vblex></r></e>).-->
-    <e r="LR"><p><l>counsel<s n="vblex"/></l><r>consigliare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>advise<vblex></l><r>consigliare<vblex></r></e>).-->
+    <e r="RL"><p><l>cost<s n="vblex"/></l><r>valere<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>counsel<s n="vblex"/></l><r>consigliare<s n="vblex"/></r></p></e>
     <e><p><l>count<s n="vblex"/></l><r>raccontare<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>count<s n="vblex"/></l><r>contare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>count<vblex></l><r>raccontare<vblex></r></e>).-->
+    <e r="RL"><p><l>count<s n="vblex"/></l><r>contare<s n="vblex"/></r></p></e>
     <e><p><l>counter<s n="vblex"/></l><r>opporre<s n="vblex"/></r></p></e>
     <e><p><l>counterbalance<s n="vblex"/></l><r>controbilanciare<s n="vblex"/></r></p></e>
     <e><p><l>cover<s n="vblex"/></l><r>coprire<s n="vblex"/></r></p></e>
@@ -22808,7 +22805,7 @@
     <e><p><l>creak<s n="vblex"/></l><r>cigolare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>crease<s n="vblex"/></l><r>danneggiare<s n="vblex"/></r></p></e>
     <e><p><l>create<s n="vblex"/></l><r>creare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>credit<s n="vblex"/></l><r>credere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>believe<vblex></l><r>credere<vblex></r></e>).-->
+    <e><p><l>credit<s n="vblex"/></l><r>accreditare<s n="vblex"/></r></p></e>
     <e><p><l>crimp<s n="vblex"/></l><r>arruolare<s n="vblex"/></r></p></e>
     <e><p><l>criticise<s n="vblex"/></l><r>criticare<s n="vblex"/></r></p></e>
     <e><p><l>cross<s n="vblex"/></l><r>attraversare<s n="vblex"/></r></p></e>
