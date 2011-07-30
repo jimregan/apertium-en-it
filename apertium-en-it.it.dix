@@ -89383,6 +89383,7 @@
     <e lm="uccello"><i>uccell</i><par n="abbain/o__n"/></e>
     <e lm="udito"><i>udit</i><par n="abbain/o__n"/></e>
     <e lm="ufficio"><i>uffici</i><par n="abbagli/o__n"/></e>
+    <e lm="ufficio di collocamento"><i>uffici</i><par n="abbagli/o__n"/><p><l><b/>di<b/>collocamento</l><r><g><b/>di<b/>collocamento</g></r></p></e>
     <e lm="ufficiale"><i>ufficial</i><par n="abat/e__n"/></e>
     <e lm="ufo"><i>ufo</i><par n="albatros__n"/></e>
     <e lm="ulcera"><i>ulcer</i><par n="cas/a__n"/></e>
@@ -94266,6 +94267,8 @@
     <e lm="sedile dei passeggero"><p><l>sedili<b/>dei<b/>passeggeri</l><r>sedile<b/>del<b/>passeggero<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="termine massimo"><p><l>termine<b/>massimo</l><r>termine<b/>massimo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="termine massimo"><p><l>termini<b/>massimi</l><r>termine<b/>massimo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="errore sintattico"><p><l>errore<b/>sintattico</l><r>errore<b/>sintattico<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="errore sintattico"><p><l>errori<b/>sintattici</l><r>errore<b/>sintattico<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="balsamo labiale"><p><l>balsamo<b/>labiale</l><r>balsamo<b/>labiale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="balsamo labiale"><p><l>balsami<b/>labiali</l><r>balsamo<b/>labiale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="primo ballerino"><p><l>primo<b/>ballerino</l><r>primo<b/>ballerino<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -95687,6 +95690,8 @@
     <e lm="superfluidità"><i>superfluidità</i><par n="abilità__n"/></e>
     <e lm="sostenibilità"><i>sostenibilità</i><par n="abilità__n"/></e>
     <e lm="asciugamano"><i>asciugaman</i><par n="abbain/o__n"/></e>
+    <e lm="asciugamano di carta"><i>asciugaman</i><par n="abbain/o__n"/><p><l><b/>di<b/>carta</l><r><g><b/>di<b/>carta</g></r></p></e>
+    <e lm="centro di lavoro"><i>centr</i><par n="abbain/o__n"/><p><l><b/>di<b/>lavoro</l><r><g><b/>di<b/>lavoro</g></r></p></e>
     <e lm="citoscheletro"><i>citoscheletr</i><par n="abbain/o__n"/></e>
     <e lm="commando"><i>command</i><par n="abbain/o__n"/></e>
     <e lm="compensato"><i>compensat</i><par n="abbain/o__n"/></e>
