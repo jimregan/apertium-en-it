@@ -12260,7 +12260,7 @@
     <e><p><l>lack<s n="n"/></l><r>carenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>manoeuvre<s n="n"/></l><r>manovra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>marchioness<s n="n"/></l><r>marchese<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>merger<s n="n"/></l><r>fusione<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>merger<s n="n"/></l><r>fusione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>misfortune<s n="n"/></l><r>disgrazia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mobile<s n="n"/></l><r>cellulare<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>momentum<s n="n"/></l><r>momento<s n="n"/><s n="m"/></r></p></e>
@@ -13872,7 +13872,7 @@
     <e><p><l>cast<s n="n"/></l><r>stampo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>castilian<s n="n"/></l><r>castigliano<s n="n"/></r></p></e>
     <e r="LR"><p><l>castilian<s n="n"/></l><r>castigliano<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>casting<s n="n"/></l><r>fusione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>casting<s n="n"/></l><r>casting<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>castle<s n="n"/></l><r>castello<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>castration<s n="n"/></l><r>castrazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>cat<s n="n"/></l><r>gatto<s n="n"/><s n="GD"/></r></p></e>
@@ -14651,7 +14651,6 @@
     <e><p><l>crystalline<b/>alum<s n="n"/></l><r>allume<g><b/>di<b/>rocca</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>crystallisation<s n="n"/></l><r>cristallizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>crystallography<s n="n"/></l><r>cristallografia<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>crêpe<s n="n"/><s n="ND"/></l><r>crêpe<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>crêpe<s n="n"/><s n="sg"/></l><r>crêpe<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>crêpe<s n="n"/><s n="pl"/></l><r>crêpe<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>cube<s n="n"/></l><r>cubo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>bin<n></l><r>cubo<n><m></r></e>).-->
@@ -15829,7 +15828,7 @@
     <e><p><l>foliage<s n="n"/></l><r>fogliame<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>folklore<s n="n"/></l><r>folclore<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>folly<s n="n"/></l><r>pazzia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>font<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>font<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>food<s n="n"/></l><r>cibo<s n="n"/><s n="m"/></r></p></e>
     <e i="yes"><p><l>food<s n="n"/></l><r>pranzo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>food<n></l><r>cibo<n><m></r></e>).-->
     <e r="RL"><p><l>food<s n="n"/></l><r>alimento<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>food<n></l><r>cibo<n><m></r></e>).-->
