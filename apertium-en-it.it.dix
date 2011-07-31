@@ -85001,6 +85001,7 @@
     <e lm="forze dell'ordine"><i>forze<b/>dell'ordine</i><par n="virgolette__n"/></e>
     <e lm="Sua Maestà"><i>Sua<b/>Maestà</i><par n="pallacanestro__n"/></e>
     <e lm="Sua Maestà la Regina"><i>Sua<b/>Maestà<b/>la<b/>Regina</i><par n="pallacanestro__n"/></e>
+    <e lm="Sua Maestà il Re"><i>Sua<b/>Maestà<b/>il<b/>Re</i><par n="pallacanestro__n"/></e>
     <e lm="Sua Altezza"><i>Sua<b/>Altezza</i><par n="pallacanestro__n"/></e>
     <e lm="Sua Maestà reale"><i>Sua<b/>Maestà<b/>reale</i><par n="pallacanestro__n"/></e>
     <e lm="Sua Altezza reale"><i>Sua<b/>Altezza<b/>reale</i><par n="pallacanestro__n"/></e>
@@ -85024,6 +85025,8 @@
     <e lm="Vostra Altezza reale"><p><l>Vostre<b/>Altezze<b/>reali</l><r>Vostra<b/>Altezza<b/>reale</r></p><par n="virgolette__n"/></e>
     <e lm="Vostra Altezza imperiale"><p><l>Vostre<b/>Altezze<b/>imperiali</l><r>Vostra<b/>Altezza<b/>imperiale</r></p><par n="virgolette__n"/></e>
     <e lm="Vostra Altezza serenissima"><p><l>Vostre<b/>Altezze<b/>serenissime</l><r>Vostra<b/>Altezza<b/>serenissima</r></p><par n="virgolette__n"/></e>
+    <e lm="Alta Parte contraente"><i>Alta<b/>Parte<b/>contraente</i><par n="pallacanestro__n"/></e>
+    <e lm="Alta Parte contraente"><p><l>Alte<b/>Parti<b/>contraenti</l><r>Alta<b/>Parte<b/>contraente</r></p><par n="virgolette__n"/></e>
     <e lm="alchimia"><i>alchimi</i><par n="cas/a__n"/></e>
     <e lm="alchimista"><i>alchimist</i><par n="eremit/a__n"/></e>
     <e lm="alcol"><i>alcol</i><par n="albatros__n"/></e>
@@ -94260,6 +94263,8 @@
     <e lm="carne bovina"><p><l>carni<b/>bovine</l><r>carne<b/>bovina<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="immersione subacquea"><p><l>immersione<b/>subacquea</l><r>immersione<b/>subacquea<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="immersione subacquea"><p><l>immersioni<b/>subacquee</l><r>immersione<b/>subacquea<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="nodo senoatriale"><p><l>nodo<b/>senoatriale</l><r>nodo<b/>senoatriale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="nodo senoatriale"><p><l>nodi<b/>senoatriali</l><r>nodo<b/>senoatriale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="filo interdentale"><p><l>filo<b/>interdentale</l><r>filo<b/>interdentale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="filo interdentale"><p><l>fili<b/>interdentali</l><r>filo<b/>interdentale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="stato francese"><p><l>stato<b/>francese</l><r>stato<b/>francese<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -94361,9 +94366,11 @@
     <e lm="forza maggiora"><p><l>forza<b/>maggiore</l><r>forza<b/>maggiore<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="forza maggiora"><p><l>forze<b/>maggiori</l><r>forza<b/>maggiore<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="calcolo strutturale"><p><l>calcolo<b/>strutturale</l><r>calcolo<b/>strutturale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="calcolo strutturalo"><p><l>calcoli<b/>strutturali</l><r>calcolo<b/>strutturale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="calcolo strutturale"><p><l>calcoli<b/>strutturali</l><r>calcolo<b/>strutturale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="cartolina postale"><p><l>cartolina<b/>postale</l><r>cartolina<b/>postale<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="cartolina postalo"><p><l>cartoline<b/>postali</l><r>cartolina<b/>postale<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="cartolina postale"><p><l>cartoline<b/>postali</l><r>cartolina<b/>postale<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="acqua corrente"><p><l>acqua<b/>corrente</l><r>acqua<b/>corrente<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="acqua corrente"><p><l>acque<b/>correnti</l><r>acqua<b/>corrente<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="triangolo rettangolo"><p><l>triangolo<b/>rettangolo</l><r>triangolo<b/>rettangolo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="triangolo rettangolo"><p><l>triangoli<b/>rettangoli</l><r>triangolo<b/>rettangolo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="oca selvatica"><p><l>oca<b/>selvatica</l><r>oca<b/>selvatica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -94397,6 +94404,8 @@
     <e lm="valuta estera"><p><l>valute<b/>estere</l><r>valuta<b/>estera<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="numero telefonico"><p><l>numero<b/>telefonico</l><r>numero<b/>telefonico<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="numero telefonico"><p><l>numeri<b/>telefonici</l><r>numero<b/>telefonico<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="pacchetto linguistico"><p><l>pacchetto<b/>linguistico</l><r>pacchetto<b/>linguistico<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="pacchetto linguistico"><p><l>pacchetti<b/>linguistici</l><r>pacchetto<b/>linguistico<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="corrente elettrica"><p><l>corrente<b/>elettrica</l><r>corrente<b/>elettrica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="corrente elettrica"><p><l>correnti<b/>elettriche</l><r>corrente<b/>elettrica<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="chiave inglese"><p><l>chiave<b/>inglese</l><r>chiave<b/>inglese<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
