@@ -85641,7 +85641,10 @@
     <e lm="camorra"><i>camorr</i><par n="cas/a__n"/></e>
     <e lm="campo"><i>camp</i><par n="abbain/o__n"/></e>
     <e lm="campo per rifugiati"><i>camp</i><par n="abbain/o__n"/><p><l><b/>per<b/>rifugiati</l><r><g><b/>per<b/>rifugiati</g></r></p></e>
+    <e lm="lievito in polvere"><i>lievit</i><par n="abbain/o__n"/><p><l><b/>in<b/>polvere</l><r><g><b/>in<b/>polvere</g></r></p></e>
+    <e lm="piumino per la polvere"><i>piumin</i><par n="abbain/o__n"/><p><l><b/>per<b/>la<b/>polvere</l><r><g><b/>per<b/>la<b/>polvere</g></r></p></e>
     <e lm="campagna"><i>campagn</i><par n="cas/a__n"/></e>
+    <e lm="maiuscola"><i>maiuscol</i><par n="cas/a__n"/></e>
     <e lm="campana"><i>campan</i><par n="cas/a__n"/></e>
     <e lm="campanile"><i>campanil</i><par n="abat/e__n"/></e>
     <e lm="camper"><i>camper</i><par n="albatros__n"/></e>
@@ -92892,6 +92895,7 @@
     <e lm="valuta di reserva"><i>valut</i><par n="cas/a__n"/><p><l><b/>di<b/>reserva</l><r><g><b/>di<b/>reserva</g></r></p></e>
     <e lm="gara di sci"><i>gar</i><par n="cas/a__n"/><p><l><b/>di<b/>sci</l><r><g><b/>di<b/>sci</g></r></p></e>
     <e lm="terra di nessuno"><i>terr</i><par n="cas/a__n"/><p><l><b/>di<b/>nessuno</l><r><g><b/>di<b/>nessuno</g></r></p></e>
+    <e lm="palizzata"><i>palizzat</i><par n="cas/a__n"/></e>
     <e lm="valutare"><i>valut</i><par n="abbacin/are__vblex"/></e>
     <e lm="sottrarre"><i>sottra</i><par n="astra/rre__vblex"/></e>
     <e lm="distrarre"><i>distra</i><par n="astra/rre__vblex"/></e>
@@ -94251,6 +94255,8 @@
     <e lm="persona giuridica"><p><l>persone<b/>giuridiche</l><r>persona<b/>giuridica<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="conferenza stampa"><p><l>conferenza<b/>stampa</l><r>conferenza<b/>stampa<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="conferenza stampa"><p><l>conferenze<b/>stampe</l><r>conferenza<b/>stampa<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="unghia incarnita"><p><l>unghia<b/>incarnita</l><r>unghia<b/>incarnita<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="unghia incarnita"><p><l>unghie<b/>incarnite</l><r>unghia<b/>incarnita<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="giardino zoologico"><p><l>giardino<b/>zoologico</l><r>giardino<b/>zoologico<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="giardino zoologico"><p><l>giardini<b/>zoologici</l><r>giardino<b/>zoologico<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="ballerino classico"><p><l>ballerino<b/>classico</l><r>ballerino<b/>classico<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -94263,6 +94269,8 @@
     <e lm="ballerino esotico"><p><l>ballerine<b/>esotiche</l><r>ballerino<b/>esotico<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="fuso orario"><p><l>fuso<b/>orario</l><r>fuso<b/>orario<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="fuso orario"><p><l>fusi<b/>orari</l><r>fuso<b/>orario<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="filo spinatio"><p><l>filo<b/>spinato</l><r>filo<b/>spinato<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="filo spinatoo"><p><l>fili<b/>spinati</l><r>filo<b/>spinato<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="grano saraceno"><p><l>grano<b/>saraceno</l><r>grano<b/>saraceno<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="grano saraceno"><p><l>grani<b/>saraceni</l><r>grano<b/>saraceno<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="rimborso anticipato"><p><l>rimborso<b/>anticipato</l><r>rimborso<b/>anticipato<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -94295,6 +94303,10 @@
     <e lm="punto interrogativo"><p><l>punti<b/>interrogativi</l><r>punto<b/>interrogativo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="sedile passeggero"><p><l>sedile<b/>passeggero</l><r>sedile<b/>passeggero<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="sedile passeggero"><p><l>sedili<b/>passeggeri</l><r>sedile<b/>passeggero<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="supremo tribunale"><p><l>supremo<b/>tribunale</l><r>supremo<b/>tribunale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="supremo tribunale"><p><l>supremi<b/>tribunali</l><r>supremo<b/>tribunale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="tribunale supremo"><p><l>tribunale<b/>supremo</l><r>tribunale<b/>supremo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="tribunale supremo"><p><l>tribunali<b/>supremi</l><r>tribunale<b/>supremo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="sedile del passeggero"><p><l>sedile<b/>del<b/>passeggero</l><r>sedile<b/>del<b/>passeggero<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="sedile dei passeggero"><p><l>sedili<b/>dei<b/>passeggeri</l><r>sedile<b/>del<b/>passeggero<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="termine massimo"><p><l>termine<b/>massimo</l><r>termine<b/>massimo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -95254,6 +95266,7 @@
     <e lm="indentazione"><i>indentazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="antisemitismo"><i>antisemitism</i><par n="abbain/o__n"/></e>
     <e lm="tonno"><i>tonn</i><par n="abbain/o__n"/></e>
+    <e lm="salotto"><i>salott</i><par n="abbain/o__n"/></e>
     <e lm="autoritarismo"><i>autoritarism</i><par n="abbain/o__n"/></e>
     <e lm="bilinguismo"><i>bilinguism</i><par n="abbain/o__n"/></e>
     <e lm="voyeurismo"><i>voyeurism</i><par n="abbain/o__n"/></e>
