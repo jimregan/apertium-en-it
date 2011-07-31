@@ -14518,7 +14518,7 @@
     <e><p><l>gold<b/>exchange<b/>standard<s n="n"/></l><r>sistema<g><b/>a<b/>cambio<b/>aureo</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>light<b/>bulb<s n="n"/></l><r>lampadina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>time<b/>limit<s n="n"/></l><r>termine<b/>massimo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>syntactic<b/>error<s n="n"/></l><r>errore<b/>sintattico<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>syntactic<b/>error<s n="n"/></l><r>errore<b/>sintattico<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>ski<b/>jumper<s n="n"/></l><r>saltatore<g><b/>con<b/>gli<b/>sci</g><s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>ski<b/>jumper<s n="n"/></l><r>saltatore<g><b/>con<b/>gli<b/>sci</g><s n="n"/></r></p></e>
     <e><p><l>pay<b/>slip<s n="n"/></l><r>busta<g><b/>paga</g><s n="n"/><s n="f"/></r></p></e>
@@ -18179,7 +18179,12 @@
     <e><p><l>patriarch<s n="n"/></l><r>patriarca<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>patriotism<s n="n"/></l><r>patriottismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>patrol<s n="n"/></l><r>pattuglia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>patron<s n="n"/></l><r>patrono<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>patron<s n="n"/></l><r>patrono<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>patron<s n="n"/></l><r>patrono<s n="n"/></r></p></e>
+    <e r="LR"><p><l>patron<b/>saint<s n="n"/></l><r>patrono<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>shop<b/>window<s n="n"/></l><r>vetrina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>postal<b/>address<s n="n"/></l><r>indirizzo<b/>postale<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>scuba<b/>diving<s n="n"/></l><r>immersione<b/>subacquea<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>patronage<s n="n"/></l><r>mecenatismo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>pavilion<s n="n"/></l><r>bandiera<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>flag<n></l><r>bandiera<n><f></r></e>).-->
     <e><p><l>paving<s n="n"/></l><r>pavimentazione<s n="n"/><s n="f"/></r></p></e>

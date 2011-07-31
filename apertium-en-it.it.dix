@@ -94258,12 +94258,16 @@
     <e lm="capo del governo"><p><l>capi<b/>di<b/>governo</l><r>capo<b/>del<b/>governo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="carne bovina"><p><l>carne<b/>bovina</l><r>carne<b/>bovina<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="carne bovina"><p><l>carni<b/>bovine</l><r>carne<b/>bovina<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="immersione subacquea"><p><l>immersione<b/>subacquea</l><r>immersione<b/>subacquea<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="immersione subacquea"><p><l>immersioni<b/>subacquee</l><r>immersione<b/>subacquea<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="filo interdentale"><p><l>filo<b/>interdentale</l><r>filo<b/>interdentale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="filo interdentale"><p><l>fili<b/>interdentali</l><r>filo<b/>interdentale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="stato francese"><p><l>stato<b/>francese</l><r>stato<b/>francese<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="stato francese"><p><l>stati<b/>francesi</l><r>stato<b/>francese<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="stato spagnolo"><p><l>stato<b/>spagnolo</l><r>stato<b/>spagnolo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="stato spagnolo"><p><l>stati<b/>spagnoli</l><r>stato<b/>spagnolo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="indirizzo postale"><p><l>indirizzo<b/>postale</l><r>indirizzo<b/>postale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="indirizzo postale"><p><l>indirizzi<b/>postali</l><r>indirizzo<b/>postale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="campo estivo"><p><l>campo<b/>estivo</l><r>campo<b/>estivo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="campo estivo"><p><l>campi<b/>estivi</l><r>campo<b/>estivo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="punto interrogativo"><p><l>punto<b/>interrogativo</l><r>punto<b/>interrogativo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -95748,7 +95752,6 @@
     <e lm="multimetro"><i>multimetr</i><par n="abbain/o__n"/></e>
     <e lm="olotipo"><i>olotip</i><par n="abbain/o__n"/></e>
     <e lm="omopolimero"><i>omopolimer</i><par n="abbain/o__n"/></e>
-    <e lm="patrono"><i>patron</i><par n="abbain/o__n"/></e>
     <e lm="pescivendolo"><i>pescivendol</i><par n="abbain/o__n"/></e>
     <e lm="pluviometro"><i>pluviometr</i><par n="abbain/o__n"/></e>
     <e lm="policarbonato"><i>policarbonat</i><par n="abbain/o__n"/></e>
@@ -98423,6 +98426,7 @@
     <e lm="tarlo"><i>tarl</i><par n="abbain/o__n"/></e>
     <e lm="asiatico"><i>asiatic</i><par n="cosmetic/o__n"/></e>
     <e lm="europeo"><i>europe</i><par n="bambin/o__n"/></e>
+    <e lm="patrono"><i>patron</i><par n="bambin/o__n"/></e>
     <e lm="siriano"><i>sirian</i><par n="bambin/o__n"/></e>
     <e lm="sumero"><i>sumer</i><par n="bambin/o__n"/></e>
     <e lm="brocca"><i>brocc</i><par n="tasc/a__n"/></e>
