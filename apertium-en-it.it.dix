@@ -85027,6 +85027,8 @@
     <e lm="Vostra Altezza serenissima"><p><l>Vostre<b/>Altezze<b/>serenissime</l><r>Vostra<b/>Altezza<b/>serenissima</r></p><par n="virgolette__n"/></e>
     <e lm="Alta Parte contraente"><i>Alta<b/>Parte<b/>contraente</i><par n="pallacanestro__n"/></e>
     <e lm="Alta Parte contraente"><p><l>Alte<b/>Parti<b/>contraenti</l><r>Alta<b/>Parte<b/>contraente</r></p><par n="virgolette__n"/></e>
+    <e lm="parte contraente"><i>parte<b/>contraente</i><par n="pallacanestro__n"/></e>
+    <e lm="parte contraente"><p><l>parti<b/>contraenti</l><r>parte<b/>contraente</r></p><par n="virgolette__n"/></e>
     <e lm="alchimia"><i>alchimi</i><par n="cas/a__n"/></e>
     <e lm="alchimista"><i>alchimist</i><par n="eremit/a__n"/></e>
     <e lm="alcol"><i>alcol</i><par n="albatros__n"/></e>
@@ -88179,17 +88181,22 @@
     <e lm="petrolio"><i>petroli</i><par n="abbagli/o__n"/></e>
     <e lm="petto"><i>pett</i><par n="abbain/o__n"/></e>
     <e lm="pettine"><i>pettin</i><par n="abat/e__n"/></e>
+    <e lm="caprone"><i>capron</i><par n="abat/e__n"/></e>
     <e lm="pezzo"><i>pezz</i><par n="abbain/o__n"/></e>
     <e lm="pezzetto"><i>pezzett</i><par n="abbain/o__n"/></e>
     <e lm="piacere"><i>piacer</i><par n="abat/e__n"/></e>
     <e lm="piaga"><i>piag</i><par n="tasc/a__n"/></e>
     <e lm="piagnisteo"><i>piagniste</i><par n="abbain/o__n"/></e>
     <e lm="piano"><i>pian</i><par n="abbain/o__n"/></e>
+    <e lm="piano di salvataggio"><i>pian</i><par n="abbain/o__n"/><p><l><b/>di<b/>salvataggio</l><r><g><b/>di<b/>salvataggio</g></r></p></e>
+    <e lm="piano di salvataggio finanziario"><i>pian</i><par n="abbain/o__n"/><p><l><b/>di<b/>salvataggio<b/>finanziario</l><r><g><b/>di<b/>salvataggio<b/>finanziario</g></r></p></e>
     <e lm="pianeta"><i>pianet</i><par n="autom/a__n"/></e>
     <e lm="pianificazione"><i>pianificazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="pianista"><i>pianist</i><par n="suicid/a__n"/></e>
     <e lm="pianoforte"><i>pianofort</i><par n="abat/e__n"/></e>
     <e lm="pianta"><i>piant</i><par n="cas/a__n"/></e>
+    <e lm="tessera"><i>tesser</i><par n="cas/a__n"/></e>
+    <e lm="tessera dell'autobus"><i>tesser</i><par n="cas/a__n"/><p><l><b/>dell'autobus</l><r><g><b/>dell'autobus</g></r></p></e>
     <e lm="pianura"><i>pianur</i><par n="cas/a__n"/></e>
     <e lm="piattaforma"><i>piattaform</i><par n="cas/a__n"/></e>
     <e lm="piatto"><i>piatt</i><par n="abbain/o__n"/></e>
@@ -94237,6 +94244,10 @@
     <e lm="pasta cresciuta"><p><l>paste<b/>cresciute</l><r>pasta<b/>cresciuta<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="lira sterlina"><p><l>lira<b/>sterlina</l><r>lira<b/>sterlina<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="lira sterlina"><p><l>lire<b/>sterline</l><r>lira<b/>sterlina<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="catena montuosa"><p><l>catena<b/>sterlina</l><r>catena<b/>sterlina<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="catena montuosa"><p><l>catene<b/>sterline</l><r>catena<b/>sterlina<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="persona giuridica"><p><l>persona<b/>giuridica</l><r>persona<b/>giuridica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="persona giuridica"><p><l>persone<b/>giuridiche</l><r>persona<b/>giuridica<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="giardino zoologico"><p><l>giardino<b/>zoologico</l><r>giardino<b/>zoologico<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="giardino zoologico"><p><l>giardini<b/>zoologici</l><r>giardino<b/>zoologico<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="ballerino classico"><p><l>ballerino<b/>classico</l><r>ballerino<b/>classico<s n="n"/><s n="m"/><s n="sg"/></r></p></e>

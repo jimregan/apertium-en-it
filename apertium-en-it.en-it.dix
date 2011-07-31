@@ -12418,7 +12418,8 @@
     <e r="LR"><p><l>Her<b/>Serene<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>serenissima<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Their<b/>Serene<b/>Highnesses<s n="n"/><s n="pl"/></l><r>Sua<b/>Altezza<b/>serenissima<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>His<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>His<b/>Imperial<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>imperiale<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>His<b/>Imperial<b/>Highness<s n="n"/><s n="sg"/></l><r>Sua<b/>Altezza<b/>imperiale<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Their<b/>Imperial<b/>Highnesses<s n="n"/><s n="pl"/></l><r>Sua<b/>Altezza<b/>imperiale<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>His<b/>Majesty<s n="n"/></l><r>Sua<b/>Maestà<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>His<b/>Royal<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>reale<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>His<b/>Royal<b/>Majesty<s n="n"/></l><r>Sua<b/>Maestà<b/>reale<s n="n"/><s n="f"/></r></p></e>
@@ -18363,6 +18364,7 @@
     <e r="RL"><p><l>pianist<s n="n"/></l><r>pianista<s n="n"/></r></p></e>
     <e r="LR"><p><l>pianist<s n="n"/></l><r>pianista<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>piano<s n="n"/></l><r>pianoforte<s n="n"/><s n="m"/></r></p></e>
+    <e srl="piano" r="RL"><p><l>piano<s n="n"/></l><r>piano<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>picture<s n="n"/></l><r>quadro<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>picture<s n="n"/></l><r>tabella<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>picture<n></l><r>quadro<n><m></r></e>).-->
     <e i="yes"><p><l>picture<s n="n"/></l><r>fotografia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>photograph<n></l><r>fotografia<n><f></r></e>).-->
@@ -18408,12 +18410,20 @@
     <e><p><l>plagiarism<s n="n"/></l><r>plagio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>plague<s n="n"/></l><r>peste<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>plain<s n="n"/></l><r>pianura<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>plan<s n="n"/></l><r>piano<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>plane<s n="n"/></l><r>aereo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>airplane<n></l><r>aereo<n><m></r></e>).-->
-    <e i="yes"><p><l>plane<s n="n"/></l><r>piano<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>plan<n></l><r>piano<n><m></r></e>).-->
+    <e srl="plan D"><p><l>plan<s n="n"/></l><r>piano<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rescue<b/>plan<s n="n"/></l><r>piano<g><b/>di<b/>salvataggio</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>financial<b/>rescue<b/>plan<s n="n"/></l><r>piano<g><b/>di<b/>salvataggio<b/>finanziario</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bus<b/>pass<s n="n"/></l><r>tessera<g><b/>dell'autobus</g><s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>card<s n="n"/></l><r>tessera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>contracting<b/>party<s n="n"/></l><r>parte<b/>contraente<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>billy<b/>goat<s n="n"/></l><r>caprone<s n="n"/><s n="m"/></r></p></e>
+    <e slr="aereo D" r="LR"><p><l>plane<s n="n"/></l><r>aereo<s n="n"/><s n="m"/></r></p></e>
+    <e slr="piano" srl="plane"><p><l>plane<s n="n"/></l><r>piano<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>planet<s n="n"/></l><r>pianeta<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>planetarium<s n="n"/></l><r>planetario<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>planetology<s n="n"/></l><r>planetologia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mountain<b/>range<s n="n"/></l><r>catena<b/>montuosa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>juridic<b/>person<s n="n"/></l><r>persona<b/>giuridica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>planimetry<s n="n"/></l><r>planimetria<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>planing<s n="n"/></l><r>progettazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>plankton<s n="n"/><s n="sg"/></l><r>plancton<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
