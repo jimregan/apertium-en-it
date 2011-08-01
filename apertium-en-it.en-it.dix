@@ -13424,7 +13424,7 @@
     <e><p><l>living<b/>room<s n="n"/></l><r>salotto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>feather<b/>duster<s n="n"/></l><r>piumino<g><b/>per<b/>la<b/>polvere</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>capital<b/>letter<s n="n"/></l><r>maiuscola<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>baking<b/>powder<s n="n"/></l><r>lievito<g><b/>in<b/>polvere</g><s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>baking<b/>powder<s n="n"/></l><r>lievito<g><b/>in<b/>polvere</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>high<b/>court<s n="n"/></l><r>supremo<b/>tribunale<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>high<b/>court<s n="n"/></l><r>tribunale<b/>supremo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ingrown<b/>toenail<s n="n"/></l><r>unghia<b/>incarnita<s n="n"/><s n="f"/></r></p></e>
@@ -14519,6 +14519,7 @@
     <e><p><l>paper<b/>towel<s n="n"/></l><r>asciugamano<g><b/>di<b/>carta</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>machining<b/>centre<s n="n"/></l><r>centro<g><b/>di<b/>lavoro</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>job<b/>centre<s n="n"/></l><r>ufficio<g><b/>di<b/>collocamento</g><s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>work<b/>centre<s n="n"/></l><r>ufficio<g><b/>di<b/>collocamento</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>medicine<b/>cabinet<s n="n"/></l><r>armadietto<g><b/>dei<b/>medicinali</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>weekly<b/>newspaper<s n="n"/></l><r>settimanale<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rapeseed<s n="n"/></l><r>colza<s n="n"/><s n="f"/></r></p></e>
@@ -15185,7 +15186,7 @@
     <e r="LR"><p><l>dregs<s n="n"/></l><r>feccia<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>dregs<s n="n"/><s n="pl"/></l><r>feccia<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>dress<s n="n"/></l><r>abito<s n="n"/><s n="m"/></r></p></e>
-    <e slr="fasciatura D"><p><l>dressing<s n="n"/></l><r>fasciatura<s n="n"/><s n="f"/></r></p></e>
+    <e slr="fasciatura D" r="LR"><p><l>dressing<s n="n"/></l><r>fasciatura<s n="n"/><s n="f"/></r></p></e>
     <e slr="condimento" r="LR"><p><l>dressing<s n="n"/></l><r>condimento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>dribble<s n="n"/></l><r>bava<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>dried<s n="n"/></l><r>disseccazione<s n="n"/><s n="f"/></r></p></e>
@@ -18441,7 +18442,7 @@
     <e><p><l>planetarium<s n="n"/></l><r>planetario<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>planetology<s n="n"/></l><r>planetologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mountain<b/>range<s n="n"/></l><r>catena<b/>montuosa<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>juridic<b/>person<s n="n"/></l><r>persona<b/>giuridica<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>juridic<b/>person<s n="n"/></l><r>persona<b/>giuridica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>press<b/>conference<s n="n"/></l><r>conferenza<b/>stampa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chess<b/>piece<s n="n"/></l><r>pezzo<g><b/>degli<b/>scacchi</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>early<b/>repayment<s n="n"/></l><r>rimborso<b/>anticipato<s n="n"/><s n="m"/></r></p></e>
@@ -21057,7 +21058,6 @@
     <e r="LR" slr="opera"><p><l>work<s n="n"/></l><r>opera<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>opera<n></l><r>opera<n><f></r></e>).-->
     <e slr="lavoro D" i="yes"><p><l>work<s n="n"/></l><r>lavoro<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>work<n></l><r>opera<n><f></r></e>).-->
     <e r="LR"><p><l>work<b/>bench<s n="n"/></l><r>banco<g><b/>di<b/>lavoro</g><s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>work<b/>centre<s n="n"/></l><r>centro<g><b/>di<b/>lavoro</g><s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>work<b/>day<s n="n"/></l><r>giorno<g><b/>di<b/>lavoro</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>workbench<s n="n"/></l><r>banco<g><b/>di<b/>lavoro</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>workday<s n="n"/></l><r>giorno<g><b/>di<b/>lavoro</g><s n="n"/><s n="m"/></r></p></e>
@@ -21183,7 +21183,7 @@
     <e><p><l>bird<b/>flu<s n="n"/></l><r>influenza<b/>aviaria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>time<b/>zone<s n="n"/></l><r>fuso<b/>orario<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bechamel<b/>sauce<s n="n"/></l><r>besciamella<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>proper<b/>name<s n="n"/></l><r>nome<b/>proprio<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>proper<b/>name<s n="n"/></l><r>nome<b/>proprio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ice<b/>cream<s n="n"/></l><r>gelato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>convertible<b/>bond<s n="n"/></l><r>obbligazione<b/>convertibile<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dental<b/>floss<s n="n"/></l><r>filo<b/>interdentale<s n="n"/><s n="m"/></r></p></e>
