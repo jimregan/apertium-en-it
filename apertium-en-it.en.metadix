@@ -20185,6 +20185,7 @@
     <e lm="intentionality"><i>intentionalit</i><par n="bab/y__n"/>    </e>
     <e lm="intermediary"><i>intermediar</i><par n="bab/y__n"/>    </e>
     <e lm="intermediate"><i>intermediate</i><par n="expensive__adj"/>    </e>
+    <e lm="obligatory"><i>obligatory</i><par n="expensive__adj"/>    </e>
     <e lm="hyphenated"><i>hyphenated</i><par n="expensive__adj"/>    </e>
     <e lm="ardent"><i>ardent</i><par n="expensive__adj"/>    </e>
     <e lm="pastoral"><i>pastoral</i><par n="expensive__adj"/>    </e>
@@ -25053,6 +25054,8 @@
     <e lm="annexationist"><i>annexationist</i><par n="expensive__adj"/>    </e>
     <e lm="host"><i>host</i><par n="expensive__adj"/>    </e>
     <e lm="antiracist"><i>antiracist</i><par n="expensive__adj"/>    </e>
+    <e lm="antiracist"><i>antiracist</i><par n="house__n"/>    </e>
+    <e lm="pointed"><i>pointed</i><par n="expensive__adj"/>    </e>
     <e lm="handmade"><i>handmade</i><par n="expensive__adj"/>    </e>
     <e lm="insurance" r="RL"><i>insurance</i><par n="expensive__adj"/>    </e>
     <e lm="attacker"><i>attacker</i><par n="expensive__adj"/>    </e>
@@ -25167,7 +25170,10 @@
     <e lm="go up">      <i/>      <par n="/go__vblex"/>      <p>        <l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="shed light on"><i>shed</i><par n="outbid__vblex"/>      <p>        <l><b/>light<b/>on</l><r><g><b/>light<b/>on</g></r></p></e>
     <e lm="abandon"><i>abandon</i><par n="accept__vblex"/>    </e>
+    <e lm="lacquer"><i>lacquer</i><par n="accept__vblex"/>    </e>
+    <e lm="border"><i>border</i><par n="accept__vblex"/>    </e>
     <e lm="abbreviate"><i>abbreviat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="resuscitate"><i>resuscitat</i><par n="liv/e__vblex"/>    </e>
     <e lm="notice"><i>notic</i><par n="liv/e__vblex"/>    </e>
     <e lm="alliterate"><i>alliterat</i><par n="liv/e__vblex"/>    </e>
     <e lm="abash"><i>abash</i><par n="approach__vblex"/>    </e>
@@ -26673,6 +26679,7 @@
     <e lm="sweep"><i>swe</i><par n="ke/ep__vblex"/>    </e>
     <e lm="sweat"><i>sweat</i><par n="accept__vblex"/>    </e>
     <e lm="program"><i>program</i><par n="program__vblex"/>    </e>
+    <e lm="dim"><i>dim</i><par n="program__vblex"/>    </e>
     <e lm="switch"><i>switch</i><par n="approach__vblex"/>    </e>
     <e lm="prosper"><i>prosper</i><par n="approach__vblex"/>    </e>
     <e lm="blackmail"><i>blackmail</i><par n="approach__vblex"/>    </e>
@@ -33709,6 +33716,7 @@
     <e lm="beyond" a="greenbreen"><i>beyond</i><par n="at__pr"/></e>
     <e lm="in the past" a="greenbreen"><i>in<b/>the<b/>past</i><par n="maybe__adv"/></e>
     <e lm="northeastern" a="greenbreen"><i>northeastern</i><par n="expensive__adj"/></e>
+    <e lm="catastrophic"><i>catastrophic</i><par n="expensive__adj"/></e>
     <e lm="amusement" a="greenbreen"><i>amusement</i><par n="house__n"/></e>
     <e lm="rod" a="greenbreen"><i>rod</i><par n="house__n"/></e>
     <e lm="kettle" a="greenbreen"><i>kettle</i><par n="house__n"/></e>

@@ -39718,7 +39718,7 @@
 
     </pardef>
   <pardef n="c/uocere__vblex">
-      <e>
+      <e r="LR">
 	<p>
 	  <l>oceremmo</l>
 	  <r>uocere<s n="vblex"/><s n="cni"/><s n="p1"/><s n="pl"/></r>
@@ -39732,7 +39732,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocerei</l>
 	  <r>uocere<s n="vblex"/><s n="cni"/><s n="p1"/><s n="sg"/></r>
@@ -39746,7 +39746,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocereste</l>
 	  <r>uocere<s n="vblex"/><s n="cni"/><s n="p2"/><s n="pl"/></r>
@@ -39760,7 +39760,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>oceresti</l>
 	  <r>uocere<s n="vblex"/><s n="cni"/><s n="p2"/><s n="sg"/></r>
@@ -39788,7 +39788,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocerebbero</l>
 	  <r>uocere<s n="vblex"/><s n="cni"/><s n="p3"/><s n="pl"/></r>
@@ -39802,7 +39802,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocerebbe</l>
 	  <r>uocere<s n="vblex"/><s n="cni"/><s n="p3"/><s n="sg"/></r>
@@ -39816,7 +39816,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>oceremo</l>
 	  <r>uocere<s n="vblex"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
@@ -39830,7 +39830,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocerò</l>
 	  <r>uocere<s n="vblex"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
@@ -39844,7 +39844,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocerete</l>
 	  <r>uocere<s n="vblex"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
@@ -39858,7 +39858,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocerai</l>
 	  <r>uocere<s n="vblex"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
@@ -39886,7 +39886,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>oceranno</l>
 	  <r>uocere<s n="vblex"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
@@ -39900,7 +39900,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocerà</l>
 	  <r>uocere<s n="vblex"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
@@ -39914,7 +39914,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocendo</l>
 	  <r>uocere<s n="vblex"/><s n="ger"/></r>
@@ -39928,7 +39928,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocendo</l>
 	  <r>uocere<s n="vblex"/><s n="ger"/><j/></r>
@@ -39942,7 +39942,7 @@
 	</p><par n="S__cantando"/>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocemmo</l>
 	  <r>uocere<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r>
@@ -39956,7 +39956,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ossi</l>
 	  <r>uocere<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r>
@@ -39970,7 +39970,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>oceste</l>
 	  <r>uocere<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r>
@@ -39984,7 +39984,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocesti</l>
 	  <r>uocere<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r>
@@ -40012,7 +40012,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ossero</l>
 	  <r>uocere<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r>
@@ -40026,7 +40026,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>osse</l>
 	  <r>uocere<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r>
@@ -40040,7 +40040,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ociamo</l>
 	  <r>uocere<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r>
@@ -40054,7 +40054,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocete</l>
 	  <r>uocere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
@@ -40117,7 +40117,7 @@
 	</p><par n="S__cantar"/>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocevamo</l>
 	  <r>uocere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r>
@@ -40131,7 +40131,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocevo</l>
 	  <r>uocere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r>
@@ -40145,7 +40145,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocevate</l>
 	  <r>uocere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r>
@@ -40159,7 +40159,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocevi</l>
 	  <r>uocere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r>
@@ -40187,7 +40187,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocevano</l>
 	  <r>uocere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r>
@@ -40201,7 +40201,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>oceva</l>
 	  <r>uocere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r>
@@ -40215,7 +40215,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocessimo</l>
 	  <r>uocere<s n="vblex"/><s n="pis"/><s n="p1"/><s n="pl"/></r>
@@ -40229,7 +40229,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocessi</l>
 	  <r>uocere<s n="vblex"/><s n="pis"/><s n="p1"/><s n="sg"/></r>
@@ -40243,7 +40243,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>oceste</l>
 	  <r>uocere<s n="vblex"/><s n="pis"/><s n="p2"/><s n="pl"/></r>
@@ -40257,7 +40257,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocessi</l>
 	  <r>uocere<s n="vblex"/><s n="pis"/><s n="p2"/><s n="sg"/></r>
@@ -40285,7 +40285,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocessero</l>
 	  <r>uocere<s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r>
@@ -40299,7 +40299,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ocesse</l>
 	  <r>uocere<s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r>
@@ -40390,7 +40390,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ociamo</l>
 	  <r>uocere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r>
@@ -40411,7 +40411,7 @@
 	</p>
       </e>
 
-      <e>
+      <e r="LR">
 	<p>
 	  <l>ociate</l>
 	  <r>uocere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r>
@@ -77647,6 +77647,12 @@
     <e lm="Leonardo"><i>Leonardo</i><par n="Juan__np"/></e>
     <e lm="Lettonia"><i>Lettonia</i><par n="Europa__np"/></e>
     <e lm="Linux"><i>Linux</i><par n="ABC__np"/></e>
+    <e lm="El Correo"><i>El<b/>Correo</i><par n="ABC__np"/></e>
+    <e lm="Web 2.0"><i>Web<b/>2.0</i><par n="ABC__np"/></e>
+    <e lm="Ibex 35"><i>Ibex<b/>35</i><par n="ABC__np"/></e>
+    <e lm="Athletic Bilbao"><i>Athletic<b/>Bilbao</i><par n="ABC__np"/></e>
+    <e lm="E.H. Sukarra"><i>E.H.<b/>Sukarra</i><par n="ABC__np"/></e>
+    <e lm="Dow Jones"><i>Dow<b/>Jones</i><par n="ABC__np"/></e>
     <e lm="Ognissanti"><i>Ognissanti</i><par n="ABC__np"/></e>
     <e lm="Nuovo Testamento"><i>Nuovo<b/>Testamento</i><par n="ABC__np"/></e>
     <e lm="Antico Testamento"><i>Antico<b/>Testamento</i><par n="ABC__np"/></e>
@@ -90465,6 +90471,8 @@
     <e lm="agroindustriale"><i>agroindustrial</i><par n="agroalimentar/e__adj"/></e>
     <e lm="albanese"><i>albanes</i><par n="albanes/e__adj"/></e>
     <e lm="scioccante"><i>scioccant</i><par n="albanes/e__adj"/></e>
+    <e lm="taiwanese"><i>taiwanes</i><par n="albanes/e__adj"/></e>
+    <e lm="taiwanese"><i>taiwanes</i><par n="albanes/e__n"/></e>
     <e lm="albino"><i>albin</i><par n="abbandonat/o__adj"/></e>
     <e lm="alcalino"><i>alcalin</i><par n="abbandonat/o__adj"/></e>
     <e lm="alcolico"><i>alcolic</i><par n="tecnic/o__adj"/></e>
@@ -92449,6 +92457,7 @@
     <e lm="fingere"><i>fin</i><par n="ader/gere__vblex"/></e>
     <e lm="finire"><i>fin</i><par n="abbell/ire__vblex"/></e>
     <e lm="inorridire"><i>inorrid</i><par n="abbell/ire__vblex"/></e>
+    <e lm="inumidire"><i>inumid</i><par n="abbell/ire__vblex"/></e>
     <e lm="concepire"><i>concep</i><par n="abbell/ire__vblex"/></e>
     <e lm="fiorire"><i>fior</i><par n="abbell/ire__vblex"/></e>
     <e lm="proibire"><i>proib</i><par n="abbell/ire__vblex"/></e>
@@ -92524,7 +92533,7 @@
     <e lm="inaugurare"><i>inaugur</i><par n="abbacin/are__vblex"/></e>
     <e lm="incantare"><i>incant</i><par n="abbacin/are__vblex"/></e>
     <e lm="incendiare"><i>incendi</i><par n="abbacchi/are__vblex"/></e>
-    <e lm="incediare"><i>incedi</i><par n="abbacchi/are__vblex"/></e>
+    <e lm="insediare"><i>insedi</i><par n="abbacchi/are__vblex"/></e>
     <e lm="incentivare"><i>incentiv</i><par n="abbacin/are__vblex"/></e>
     <e lm="incitare"><i>incit</i><par n="abbacin/are__vblex"/></e>
     <e lm="inclinare"><i>inclin</i><par n="abbacin/are__vblex"/></e>
@@ -92618,6 +92627,7 @@
     <e lm="rimediare"><i>rimedi</i><par n="abbacchi/are__vblex"/></e>
     <e lm="abbagliare"><i>abbagli</i><par n="abbacchi/are__vblex"/></e>
     <e lm="deragliare"><i>deragli</i><par n="abbacchi/are__vblex"/></e>
+    <e lm="dettagliare"><i>dettagli</i><par n="abbacchi/are__vblex"/></e>
     <e lm="deviare"><i>devi</i><par n="abbacchi/are__vblex"/></e>
     <e lm="divorziare"><i>divorzi</i><par n="abbacchi/are__vblex"/></e>
     <e lm="raddoppiare"><i>raddoppi</i><par n="abbacchi/are__vblex"/></e>

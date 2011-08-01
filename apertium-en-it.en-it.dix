@@ -454,7 +454,7 @@
     <e r="LR"><p><l>blackmailer<s n="n"/></l><r>ricattatore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>blackmailer<s n="n"/></l><r>ricattatore<s n="n"/></r></p></e>
     <e><p><l>asturian<s n="adj"/></l><r>asturiano<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>Castilian<s n="adj"/></l><r>castiglionese<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>Castilian<s n="adj"/></l><r>castiglionese<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>ethiopian<s n="adj"/></l><r>etiope<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>flemish<s n="adj"/></l><r>fiammingo<s n="adj"/></r></p></e>
     <e r="RL"><p><l>flemish<s n="n"/></l><r>fiammingo<s n="n"/></r></p></e>
@@ -1547,7 +1547,7 @@
     <e><p><l>genial<s n="adj"/></l><r>affabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>genic<s n="adj"/></l><r>genico<s n="adj"/></r></p></e>
     <e><p><l>genital<s n="adj"/></l><r>genitale<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>gentle<s n="adj"/></l><r>soave<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>gentle<s n="adj"/><s n="sint"/></l><r>soave<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>genuine<s n="adj"/></l><r>genuino<s n="adj"/></r></p></e>
     <e><p><l>geodesic<s n="adj"/></l><r>geodetico<s n="adj"/></r></p></e>
     <e><p><l>geographic<s n="adj"/></l><r>geografico<s n="adj"/></r></p></e>
@@ -2362,6 +2362,7 @@
     <e><p><l>palatine<s n="adj"/></l><r>palatino<s n="adj"/></r></p></e>
     <e><p><l>pale<s n="adj"/></l><r>pallido<s n="adj"/></r></p></e>
     <e><p><l>palestinian<s n="adj"/></l><r>palestinese<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>palestinian<s n="n"/></l><r>palestinese<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>palliative<s n="adj"/></l><r>palliativo<s n="adj"/></r></p></e>
     <e><p><l>palpable<s n="adj"/></l><r>palpabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>panamanian<s n="adj"/></l><r>panamense<s n="adj"/><s n="mf"/></r></p></e>
@@ -2544,7 +2545,7 @@
     <e><p><l>pythagorean<s n="adj"/></l><r>pitagorico<s n="adj"/></r></p></e>
     <e><p><l>quadratic<s n="adj"/></l><r>quadratico<s n="adj"/></r></p></e>
     <e><p><l>quadrilateral<s n="adj"/></l><r>quadrilatero<s n="adj"/></r></p></e>
-    <e><p><l>quaint<s n="adj"/></l><r>pittoresco<s n="adj"/></r></p></e>
+    <e><p><l>quaint<s n="adj"/><s n="sint"/></l><r>pittoresco<s n="adj"/></r></p></e>
     <e><p><l>qualified<s n="adj"/></l><r>qualificato<s n="adj"/></r></p></e>
     <e><p><l>quantifiable<s n="adj"/></l><r>quantificabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>quantity<s n="adj"/></l><r>quantitativo<s n="adj"/></r></p></e>
@@ -8579,6 +8580,12 @@
     <e><i>Lino<s n="np"/><s n="ant"/></i></e>
     <e><i>Linus<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Linux<s n="np"/><s n="al"/></l><r>Linux<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+    <e><p><l>Web<b/>2.0<s n="np"/><s n="al"/></l><r>Web<b/>2.0<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+    <e><p><l>El<b/>Correo<s n="np"/><s n="al"/></l><r>El<b/>Correo<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+    <e><p><l>Ibex<b/>35<s n="np"/><s n="al"/></l><r>Ibex<b/>35<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+    <e><p><l>Athletic<b/>Bilbao<s n="np"/><s n="al"/></l><r>Athletic<b/>Bilbao<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+    <e><p><l>E.H.<b/>Sukarra<s n="np"/><s n="al"/></l><r>E.H.<b/>Sukarra<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+    <e><p><l>Dow<b/>Jones<s n="np"/><s n="al"/></l><r>Dow<b/>Jones<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><i>Lionel<s n="np"/><s n="ant"/></i></e>
     <e><i>Liqué<s n="np"/><s n="ant"/></i></e>
     <e><i>Lisa<s n="np"/><s n="ant"/></i></e>
@@ -13639,7 +13646,7 @@
     <e><p><l>brake<s n="n"/></l><r>freno<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bran<s n="n"/></l><r>crusca<s n="n"/><s n="f"/></r></p></e>
     <e srl="brand"><p><l>brand<s n="n"/></l><r>marca<s n="n"/><s n="f"/></r></p></e>
-    <e srl="brand D"><p><l>brand<s n="n"/></l><r>marchio<s n="n"/><s n="m"/></r></p></e>
+    <e srl="brand D" r="RL"><p><l>brand<s n="n"/></l><r>marchio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>brandy<s n="n"/></l><r>acquavite<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>breach<s n="n"/></l><r>violazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bread<s n="n"/></l><r>pane<s n="n"/><s n="m"/></r></p></e>
@@ -18020,7 +18027,8 @@
     <e r="LR"><p><l>outlay<s n="n"/></l><r>costo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>outline<s n="n"/></l><r>abbozzo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>output<s n="n"/></l><r>produzione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>outskirts<s n="n"/></l><r>periferia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>outskirts<s n="n"/><s n="pl"/></l><r>periferia<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>outskirts<s n="n"/><s n="pl"/></l><r>periferia<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>ovary<s n="n"/></l><r>ovaia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ovation<s n="n"/></l><r>ovazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>oven<s n="n"/></l><r>forno<s n="n"/><s n="m"/></r></p></e>
@@ -22722,6 +22730,7 @@
     <e r="RL"><p><l>claim<s n="vblex"/></l><r>reclamare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>claim<vblex></l><r>affermare<vblex></r></e>).-->
     <e r="RL"><p><l>claim<s n="vblex"/></l><r>rivendicare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>claim<vblex></l><r>affermare<vblex></r></e>).-->
     <e><p><l>clarify<s n="vblex"/></l><r>chiarire<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>clarify<s n="vblex"/></l><r>precisare<s n="vblex"/></r></p></e>
     <e><p><l>classify<s n="vblex"/></l><r>classificare<s n="vblex"/></r></p></e>
     <e><p><l>clean<s n="vblex"/></l><r>pulire<s n="vblex"/></r></p></e>
     <e c="liquidar una deuda"><p><l>clear<s n="vblex"/></l><r>liquidare<s n="vblex"/></r></p></e>
@@ -23053,7 +23062,7 @@
     <e><p><l>dry<s n="vblex"/></l><r>asciugare<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>dry<s n="vblex"/></l><r>seccare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>dry<vblex></l><r>asciugare<vblex></r></e>).-->
     <e><p><l>dub<s n="vblex"/></l><r>doppiare<s n="vblex"/></r></p></e>
-    <e><p><l>dull<s n="vblex"/></l><r>ottundere<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>dull<s n="vblex"/></l><r>ottundere<s n="vblex"/></r></p></e>
     <e><p><l>dump<s n="vblex"/></l><r>buttare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>dupe<s n="vblex"/></l><r>ingannare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>cheat<vblex></l><r>ingannare<vblex></r></e>).-->
     <e><p><l>duplicate<s n="vblex"/></l><r>duplicare<s n="vblex"/></r></p></e>
@@ -23498,7 +23507,7 @@
     <e><p><l>rest<s n="vblex"/></l><r>riposare<s n="vblex"/></r></p></e>
     <e><p><l>restart<s n="vblex"/></l><r>ripartire<s n="vblex"/></r></p></e>
     <e><p><l>restate<s n="vblex"/></l><r>riesporre<s n="vblex"/></r></p></e>
-    <e><p><l>resurrect<s n="vblex"/></l><r>risuscitare<s n="vblex"/></r></p></e>
+    <e><p><l>resuscitate<s n="vblex"/></l><r>risuscitare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>retard<s n="vblex"/></l><r>ritardare<s n="vblex"/></r></p></e>
     <e><p><l>retouch<s n="vblex"/></l><r>ritoccare<s n="vblex"/></r></p></e>
     <e><p><l>revalidate<s n="vblex"/></l><r>rivalidare<s n="vblex"/></r></p></e>
@@ -23513,7 +23522,7 @@
     <e><p><l>contravene<s n="vblex"/></l><r>contravvenire<s n="vblex"/></r></p></e>
     <e><p><l>crush<s n="vblex"/></l><r>schiacciare<s n="vblex"/></r></p></e>
     <e><p><l>curse<s n="vblex"/></l><r>maledire<s n="vblex"/></r></p></e>
-    <e><p><l>dampen<s n="vblex"/></l><r>smorzare<s n="vblex"/></r></p></e>
+    <e><p><l>dim<s n="vblex"/></l><r>smorzare<s n="vblex"/></r></p></e>
     <e><p><l>dazzle<s n="vblex"/></l><r>abbagliare<s n="vblex"/></r></p></e>
     <e><p><l>deduce<s n="vblex"/></l><r>dedurre<s n="vblex"/></r></p></e>
     <e><p><l>discuss<s n="vblex"/></l><r>discutere<s n="vblex"/></r></p></e>
@@ -23580,7 +23589,8 @@
     <e><p><l>lie<s n="vblex"/></l><r>mentire<s n="vblex"/></r></p></e>
     <e><p><l>light<s n="vblex"/></l><r>accendere<s n="vblex"/></r></p></e>
     <e><p><l>lighten<s n="vblex"/></l><r>illuminare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>like<s n="vblex"/></l><r>piacere<s n="vblex"/></r></p></e>
+    <e><p><l>border<s n="vblex"/></l><r>marginare<s n="vblex"/></r></p></e>
+    <e><p><l>like<s n="vblex"/></l><r>piacere<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>like<s n="vblex"/></l><r>gustare<s n="vblex"/></r></p></e>
     <e><p><l>limit<s n="vblex"/></l><r>limitare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>line<s n="vblex"/></l><r>allineare<s n="vblex"/></r></p></e>
@@ -23712,6 +23722,7 @@
     <e><p><l>pack<s n="vblex"/></l><r>impaccare<s n="vblex"/></r></p></e>
     <e><p><l>paginate<s n="vblex"/></l><r>compaginare<s n="vblex"/></r></p></e>
     <e><p><l>paint<s n="vblex"/></l><r>dipingere<s n="vblex"/></r></p></e>
+    <e><p><l>lacquer<s n="vblex"/></l><r>laccare<s n="vblex"/></r></p></e>
     <e><p><l>parade<s n="vblex"/></l><r>sfoggiare<s n="vblex"/></r></p></e>
     <e><p><l>paralyse<s n="vblex"/></l><r>paralizzare<s n="vblex"/></r></p></e>
     <e><p><l>park<s n="vblex"/></l><r>parcheggiare<s n="vblex"/></r></p></e>
@@ -24718,7 +24729,8 @@
     <e><p><l>iodine<s n="n"/></l><r>iodio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>marine<s n="n"/></l><r>marine<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>caliph<s n="n"/></l><r>califfo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>binoculars<s n="n"/></l><r>binocolo<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>binoculars<s n="n"/><s n="pl"/></l><r>binocolo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e><p><l>binoculars<s n="n"/><s n="pl"/></l><r>binocolo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>razor<s n="n"/></l><r>rasoio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>recipe<s n="n"/></l><r>ricetta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>visa<s n="n"/></l><r>visto<s n="n"/><s n="m"/></r></p></e>
@@ -24843,13 +24855,18 @@
     <e><p><l>chinese<s n="n"/></l><r>cinese<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>congolese<s n="n"/></l><r>congolese<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>icelandic<s n="n"/></l><r>islandese<s n="n"/><s n="mf"/></r></p></e>
-    <e><p><l>cypriot<s n="n"/></l><r>cipriota<s n="n"/><s n="mf"/></r></p></e>
-    <e><p><l>jacobite<s n="n"/></l><r>jacobita<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>taiwanese<s n="n"/></l><r>taiwanese<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>taiwanese<s n="adj"/></l><r>taiwanese<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>cypriot<s n="n"/></l><r>cipriota<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>cypriot<s n="n"/></l><r>cipriota<s n="n"/></r></p></e>
+    <e r="LR"><p><l>jacobite<s n="n"/></l><r>jacobita<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>jacobite<s n="n"/></l><r>jacobita<s n="n"/></r></p></e>
     <e><p><l>latvian<s n="n"/></l><r>lettone<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>lebanese<s n="n"/></l><r>libanese<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>maltese<s n="n"/></l><r>maltese<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>nepalese<s n="n"/></l><r>nepalese<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>nicaraguan<s n="n"/></l><r>nicaraguense<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>nicaraguan<s n="adj"/></l><r>nicaraguense<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>panamanian<s n="n"/></l><r>panamense<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>saxon<s n="n"/></l><r>sassone<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>scottish<s n="n"/></l><r>scozzese<s n="n"/><s n="mf"/></r></p></e>
