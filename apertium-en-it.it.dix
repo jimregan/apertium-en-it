@@ -86234,6 +86234,7 @@
     <e lm="decomposizione"><i>decomposizion</i><par n="abbreviazion/e__n"/></e>
     <e lm="decorazione"><i>decorazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="deficiente"><i>deficient</i><par n="albanes/e__n"/></e>
+    <e lm="mentalmente disabile"><i>mentalmente<b/>disabil</i><par n="albanes/e__n"/></e>
     <e lm="definizione"><i>definizion</i><par n="abbreviazion/e__n"/></e>
     <e lm="defunto"><i>defunt</i><par n="bambin/o__n"/></e>
     <e lm="degradazione"><i>degradazion</i><par n="abbreviazion/e__n"/></e>
@@ -87132,6 +87133,7 @@
     <e lm="indovino"><i>indovin</i><par n="bambin/o__n"/></e>
     <e lm="indulto"><i>indult</i><par n="abbain/o__n"/></e>
     <e lm="industria"><i>industri</i><par n="cas/a__n"/></e>
+    <e lm="industria dell'ospitalità"><i>industri</i><par n="cas/a__n"/><p><l><b/>dell'ospitalità</l><r><g><b/>dell'ospitalità</g></r></p></e>
     <e lm="industrializzazione"><i>industrializzazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="inerzia"><i>inerzi</i><par n="cas/a__n"/></e>
     <e lm="infante"><i>infant</i><par n="albanes/e__n"/></e>
@@ -88494,6 +88496,7 @@
     <e lm="portafoglio"><i>portafogli</i><par n="abbagli/o__n"/></e>
     <e lm="portata"><i>portat</i><par n="cas/a__n"/></e>
     <e lm="portatore"><i>portat</i><par n="agricolt/ore__n"/></e>
+    <e lm="portatore di handicap"><i>portat</i><par n="agricolt/ore__n"/><p><l><b/>di<b/>handicap</l><r><g><b/>di<b/>handicap</g></r></p></e>
     <e lm="portavoce"><i>portavoce</i><par n="blogger__n"/></e>
     <e lm="portiere"><i>portier</i><par n="infermier/e__n"/></e>
     <e lm="portinaio"><i>portinai</i><par n="abbagli/o__n"/></e>
@@ -90156,6 +90159,7 @@
     <e lm="Visitazione"><i>Visitazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="visualizzazione"><i>visualizzazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="votazione"><i>votazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="recinzione"><i>recinzion</i><par n="abbreviazion/e__n"/></e>
 
 <!-- ità-->
 
@@ -92893,6 +92897,7 @@
     <e lm="fognatura"><i>fognatur</i><par n="cas/a__n"/></e>
     <e lm="valuta"><i>valut</i><par n="cas/a__n"/></e>
     <e lm="valuta di reserva"><i>valut</i><par n="cas/a__n"/><p><l><b/>di<b/>reserva</l><r><g><b/>di<b/>reserva</g></r></p></e>
+    <e lm="valuta a corso forzoso"><i>valut</i><par n="cas/a__n"/><p><l><b/>a<b/>corso<b/>forzoso</l><r><g><b/>a<b/>corso<b/>forzoso</g></r></p></e>
     <e lm="gara di sci"><i>gar</i><par n="cas/a__n"/><p><l><b/>di<b/>sci</l><r><g><b/>di<b/>sci</g></r></p></e>
     <e lm="terra di nessuno"><i>terr</i><par n="cas/a__n"/><p><l><b/>di<b/>nessuno</l><r><g><b/>di<b/>nessuno</g></r></p></e>
     <e lm="palizzata"><i>palizzat</i><par n="cas/a__n"/></e>
@@ -94259,6 +94264,8 @@
     <e lm="unghia incarnita"><p><l>unghie<b/>incarnite</l><r>unghia<b/>incarnita<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="giardino zoologico"><p><l>giardino<b/>zoologico</l><r>giardino<b/>zoologico<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="giardino zoologico"><p><l>giardini<b/>zoologici</l><r>giardino<b/>zoologico<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="abito sporco"><p><l>abito<b/>sporco</l><r>abito<b/>sporco<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="abito sporco"><p><l>abiti<b/>sporchi</l><r>abito<b/>sporco<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="ballerino classico"><p><l>ballerino<b/>classico</l><r>ballerino<b/>classico<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="ballerino classico"><p><l>ballerini<b/>classici</l><r>ballerino<b/>classico<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="ballerino classico"><p><l>ballerina<b/>classica</l><r>ballerino<b/>classico<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -94277,8 +94284,12 @@
     <e lm="rimborso anticipato"><p><l>rimborsi<b/>anticipati</l><r>rimborso<b/>anticipato<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="bacino fluviale"><p><l>bacino<b/>fluviale</l><r>bacino<b/>fluviale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="bacino fluviale"><p><l>bacini<b/>fluviali</l><r>bacino<b/>fluviale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="centro culturale"><p><l>centro<b/>culturale</l><r>centro<b/>culturale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="centro culturale"><p><l>centri<b/>culturali</l><r>centro<b/>culturale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="salice piangente"><p><l>salice<b/>piangente</l><r>salice<b/>piangente<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="salice piangente"><p><l>salici<b/>piangenti</l><r>salice<b/>piangente<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="tallone aureo"><p><l>tallone<b/>aureo</l><r>tallone<b/>aureo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="tallone aureo"><p><l>talloni<b/>aurei</l><r>tallone<b/>aureo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="essere umano"><p><l>essere<b/>umano</l><r>essere<b/>umano<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="essere umano"><p><l>esseri<b/>umani</l><r>essere<b/>umano<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="capo del governo"><p><l>capo<b/>del<b/>governo</l><r>capo<b/>del<b/>governo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>

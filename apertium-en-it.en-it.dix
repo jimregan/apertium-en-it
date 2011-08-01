@@ -15710,6 +15710,9 @@
     <e><p><l>hedge<s n="n"/></l><r>siepe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>barbed<b/>wire<s n="n"/></l><r>filo<b/>spinato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fencing<s n="n"/></l><r>scherma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hospitality<b/>industry<s n="n"/></l><r>industria<g><b/>dell'ospitalità</g><s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>fence<s n="n"/></l><r>recinzione<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>wire<b/>fence<s n="n"/></l><r>recinzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fennel<s n="n"/></l><r>finocchio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fermentation<s n="n"/></l><r>fermentazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fermium<s n="n"/></l><r>fermio<s n="n"/><s n="m"/></r></p></e>
@@ -17396,10 +17399,17 @@
     <e r="RL"><p><l>mentality<s n="n"/><s n="ND"/></l><r>mentalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>mentality<s n="n"/><s n="sg"/></l><r>mentalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>mentality<s n="n"/><s n="pl"/></l><r>mentalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e c="check"><p><l>mentally<b/>handicapped<b/>person<s n="n"/></l><r>deficiente<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>mentally<b/>handicapped<b/>person<s n="n"/></l><r>mentalmente<b/>disabile<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>handicapped<b/>person<s n="n"/></l><r>portatore<g><b/>di<b/>handicap</g><s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>handicapped<b/>person<s n="n"/></l><r>portatore<g><b/>di<b/>handicap</g><s n="n"/></r></p></e>
     <e><p><l>menthol<s n="n"/></l><r>mentolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mention<s n="n"/></l><r>menzione<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>menu<s n="n"/></l><r>carta<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>card<n></l><r>carta<n><f></r></e>).-->
+    <e><p><l>gold-coin<b/>standard<s n="n"/></l><r>tallone<b/>aureo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>fiat<b/>currency<s n="n"/></l><r>valuta<g><b/>a<b/>corso<b/>forzoso</g><s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dirty<b/>clothes<s n="n"/><s n="pl"/></l><r>abito<b/>sporco<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>dirty<b/>clothes<s n="n"/><s n="pl"/></l><r>abito<b/>sporco<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e><p><l>cultural<b/>centre<s n="n"/></l><r>centro<b/>culturale<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>menu<s n="n"/></l><r>carta<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>menu<s n="n"/><s n="ND"/></l><r>menu<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>mercenary<s n="n"/></l><r>mercenario<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>mercenary<s n="n"/></l><r>mercenario<s n="n"/></r></p></e>
