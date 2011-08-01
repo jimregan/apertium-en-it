@@ -1981,6 +1981,8 @@
     <e><p><l>labial<s n="adj"/></l><r>labiale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>labiodental<s n="adj"/></l><r>labiodentale<s n="adj"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>labour<s n="adj"/></l><r>laburista<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>Labour<b/>Party<b/>member<s n="n"/></l><r>laburista<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Labour<b/>Party<b/>member<s n="n"/></l><r>laburista<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>labour<s n="adj"/></l><r>lavorativo<s n="adj"/></r></p></e>
     <e><p><l>lacking<s n="adj"/></l><r>carente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>lacrimal<s n="adj"/></l><r>lacrimale<s n="adj"/><s n="mf"/></r></p></e>
@@ -12939,6 +12941,11 @@
     <e><p><l>amplitude<s n="n"/></l><r>ampiezza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>amputation<s n="n"/></l><r>amputazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>amulet<s n="n"/></l><r>amuleto<s n="n"/><s n="m"/></r></p></e>
+    <e slr="amuleto D" r="LR"><p><l>charm<s n="n"/></l><r>amuleto<s n="n"/><s n="m"/></r></p></e>
+    <e slr="incanto"><p><l>charm<s n="n"/></l><r>incanto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>incantation<s n="n"/></l><r>incanto<s n="n"/><s n="m"/></r></p></e>
+    <e slr="fascino" r="LR"><p><l>charm<s n="n"/></l><r>fascino<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>fascination<s n="n"/></l><r>fascino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>anachronism<s n="n"/></l><r>anacronismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>anaemia<s n="n"/></l><r>anemia<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>anaemic<s n="n"/></l><r>anemico<s n="n"/></r></p></e>
@@ -13525,7 +13532,6 @@
     <e><p><l>biopsy<s n="n"/></l><r>biopsia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>biotechnology<s n="n"/></l><r>biotecnologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>biotope<s n="n"/></l><r>biotopo<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>bird<s n="n"/></l><r>passero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bird<s n="n"/></l><r>uccello<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>bird<s n="n"/></l><r>volatile<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>birefringence<s n="n"/></l><r>birifrangenza<s n="n"/><s n="f"/></r></p></e>
@@ -17175,7 +17181,7 @@
     <e><p><l>pancake<s n="n"/></l><r>crêpe<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e r="LR"><p><l>grandmaster<s n="n"/></l><r>gran<b/>maestro<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>grandmaster<s n="n"/></l><r>gran<b/>maestro<s n="n"/></r></p></e>
-    <e><p><l>backup<s n="n"/></l><r>riserva<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>backup<s n="n"/></l><r>riserva<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>LASIK<s n="n"/><s n="acr"/></l><r>LASIK<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>location<s n="n"/></l><r>ubicazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>location<s n="n"/></l><r>collocazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>location<n></l><r>localizzazione<n><f></r></e>).-->
@@ -17290,7 +17296,7 @@
     <e><p><l>manipulation<s n="n"/></l><r>manipolazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>mankind<s n="n"/></l><r>umanità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e r="RL"><p><l>mankind<s n="n"/><s n="ND"/></l><r>humanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e><p><l>manner<s n="n"/></l><r>maniera<s n="n"/><s n="f"/></r></p></e>
+    <e srl="manner"><p><l>manner<s n="n"/></l><r>maniera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mannerism<s n="n"/></l><r>manierismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>manometer<s n="n"/></l><r>manometro<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>manservant<s n="n"/></l><r>maggiordomo<s n="n"/><s n="m"/></r></p></e>
@@ -18613,7 +18619,7 @@
     <e r="LR"><p><l>poverty<s n="n"/><s n="pl"/></l><r>povertà<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>poverty<s n="n"/><s n="ND"/></l><r>povertà<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e srl="powder D"><p><l>powder<s n="n"/></l><r>polvere<s n="n"/><s n="f"/></r></p></e>
-    <e slr="energia"><p><l>power<s n="n"/></l><r>energia<s n="n"/><s n="f"/></r></p></e>
+    <e slr="energia" r="LR"><p><l>power<s n="n"/></l><r>energia<s n="n"/><s n="f"/></r></p></e>
     <e slr="potere D" r="LR"><p><l>power<s n="n"/></l><r>potere<s n="n"/><s n="m"/></r></p></e>
     <e slr="potenza"><p><l>power<s n="n"/></l><r>potenza<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>practicality<s n="n"/><s n="ND"/></l><r>praticità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -20956,8 +20962,7 @@
     <e><p><l>wave<s n="n"/></l><r>ondata<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wax<s n="n"/></l><r>cera<s n="n"/><s n="f"/></r></p></e>
     <e r="LR" slr="cammino"><p><l>way<s n="n"/></l><r>cammino<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>lane<n></l><r>cammino<n><m></r></e>).-->
-    <e slr="maniera D" i="yes"><p><l>way<s n="n"/></l><r>maniera<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>manner<n></l><r>maniera<n><f></r></e>).-->
-    <e i="yes"><p><l>way<s n="n"/></l><r>modo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>mode<n></l><r>modo<n><m></r></e>).-->
+    <e slr="maniera D" r="RL"><p><l>way<s n="n"/></l><r>maniera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>way<g><b/>of<b/>life</g><s n="n"/></l><r>modo<g><b/>di<b/>vita</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>weakness<s n="n"/></l><r>debolezza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wealth<s n="n"/></l><r>ricchezza<s n="n"/><s n="f"/></r></p></e>
@@ -21935,7 +21940,7 @@
     <e r="LR"><p><l>on<b/>a<b/>small<b/>scale<s n="adv"/></l><r>a<b/>breve<b/>termine<s n="adv"/></r></p></e><!--  autorestricted (<e><l>in<b/>the<b/>short<b/>term<adv></l><r>a<b/>breve<b/>termine<adv></r></e>).-->
     <e r="LR"><p><l>on<b/>an<b/>individual<b/>basis<s n="adv"/></l><r>individualmente<s n="adv"/></r></p></e><!--  autorestricted (<e><l>individually<adv></l><r>individualmente<adv></r></e>).-->
     <e><p><l>on<b/>average<s n="adv"/></l><r>mediamente<s n="adv"/></r></p></e>
-    <e><p><l>on<b/>board<s n="adv"/></l><r>a<b/>bordo<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>on<b/>board<s n="adv"/></l><r>a<b/>bordo<s n="adv"/></r></p></e>
     <e r="LR"><p><l>on<b/>hand<s n="adv"/></l><r>a<b/>mano<s n="adv"/></r></p></e><!--  autorestricted (<e><l>at<b/>hand<adv></l><r>a<b/>mano<adv></r></e>).-->
     <e><p><l>on<b/>holiday<s n="adv"/></l><r>in<b/>vacanza<s n="adv"/></r></p></e>
     <e r="LR"><p><l>on<b/>impulse<s n="adv"/></l><r>all&apos;improvviso<s n="adv"/></r></p></e><!--  autorestricted (<e><l>all<b/>of<b/>a<b/>sudden<adv></l><r>all'improvviso<adv></r></e>).-->
@@ -24521,7 +24526,8 @@
     <e><p><l>cowardice<s n="n"/></l><r>viltà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>criminality<s n="n"/></l><r>criminalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>curium<s n="n"/></l><r>curio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
-    <e><p><l>dangerousness<s n="n"/></l><r>pericolosità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e r="LR"><p><l>dangerousness<s n="n"/></l><r>pericolosità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e a="eleka"><p><l>president<g><b/>of<b/>the<b/>Basque<b/>Country</g><s n="n"/></l><r>lehendakari<s n="n"/><s n="mf"/></r></p><par n="SP"/></e>
     <e><p><l>deformity<s n="n"/></l><r>deformità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>desktop<s n="n"/></l><r>desktop<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>deuterium<s n="n"/></l><r>deuterio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -24540,7 +24546,7 @@
     <e><p><l>frigidity<s n="n"/></l><r>frigidità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>generosity<s n="n"/></l><r>generosità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>goodness<s n="n"/></l><r>bontà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
-    <e><p><l>gratuitousness<s n="n"/></l><r>gratuità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e r="LR"><p><l>gratuitousness<s n="n"/></l><r>gratuità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>gremlin<s n="n"/></l><r>gremlin<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e r="RL"><p><l>zombie<s n="n"/></l><r>zombi<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>zombie<s n="n"/></l><r>zombie<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -24573,7 +24579,7 @@
     <e><p><l>libido<s n="n"/></l><r>libido<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>liquidity<s n="n"/></l><r>liquidità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>lithium<s n="n"/></l><r>litio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
-    <e><p><l>liveliness<s n="n"/></l><r>vivacità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e r="LR"><p><l>liveliness<s n="n"/></l><r>vivacità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>longevity<s n="n"/></l><r>longevità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>loyalty<s n="n"/></l><r>lealtà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>lutetium<s n="n"/></l><r>lutezio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -24632,7 +24638,6 @@
     <e><p><l>sincerity<s n="n"/></l><r>sincerità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>singularity<s n="n"/></l><r>singolarità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>solidarity<s n="n"/></l><r>solidarietà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
-    <e><p><l>specialty<s n="n"/></l><r>specialità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>speed<g><b/>of<b/>light</g><s n="n"/></l><r>velocità<b/>della<b/>luce<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>spirituality<s n="n"/></l><r>spiritualità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>sporangium<s n="n"/></l><r>sporangio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -24727,8 +24732,11 @@
     <e><p><l>notebook<s n="n"/></l><r>taccuino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>blackboard<s n="n"/></l><r>lavagna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>grammar<s n="n"/></l><r>grammatica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mantle<s n="n"/></l><r>mantello<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>mentor<s n="n"/></l><r>mentore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>mentor<s n="n"/></l><r>mentore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>chauffeur<s n="n"/></l><r>autista<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>chauffeur<s n="n"/></l><r>autista<s n="n"/></r></p></e>
     <e r="LR"><p><l>Asian<s n="n"/></l><r>asiatico<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Asian<s n="n"/></l><r>asiatico<s n="n"/></r></p></e>
     <e r="LR"><p><l>European<s n="n"/></l><r>europeo<s n="n"/><s n="GD"/></r></p></e>
@@ -24742,10 +24750,11 @@
     <e><p><l>dean<s n="n"/></l><r>decano<s n="n"/><s n="m"/></r></p></e>
     <e srl="roar"><p><l>roar<s n="n"/></l><r>rombo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>offence<s n="n"/></l><r>reato<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>roll<s n="n"/></l><r>lista<s n="n"/><s n="f"/></r></p></e>
+    <e slr="lista" r="LR"><p><l>roll<s n="n"/></l><r>lista<s n="n"/><s n="f"/></r></p></e>
+    <e slr="panino D"><p><l>roll<s n="n"/></l><r>panino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>passenger<s n="n"/></l><r>passeggero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fellow<s n="n"/></l><r>individuo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>holiday<s n="n"/></l><r>vacanza<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>holiday<s n="n"/></l><r>vacanza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>impertinence<s n="n"/></l><r>insolenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>break<s n="n"/></l><r>rottura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reserve<s n="n"/></l><r>riserva<s n="n"/><s n="f"/></r></p></e>

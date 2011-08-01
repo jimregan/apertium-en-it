@@ -20611,6 +20611,7 @@
     <e lm="melomaniac"><i>melomaniac</i><par n="house__n"/>    </e>
     <e lm="melon"><i>melon</i><par n="house__n"/>    </e>
     <e lm="member"><i>member</i><par n="house__n"/>    </e>
+    <e lm="Labour Party member"><i>Labour<b/>Party<b/>member</i><par n="house__n"/>    </e>
     <e lm="member of parliament"><i>member</i><par n="house__n"/>      <p>        <l><b/>of<b/>parliament</l><r><g><b/>of<b/>parliament</g></r></p></e>
     <e lm="member of the European Parliament"><i>member</i><par n="house__n"/>      <p>        <l><b/>of<b/>the<b/>European<b/>Parliament</l><r><g><b/>of<b/>the<b/>European<b/>Parliament</g></r></p></e>
     <e lm="term of office"><i>term</i><par n="house__n"/>      <p>        <l><b/>of<b/>office</l><r><g><b/>of<b/>office</g></r></p></e>
@@ -33337,7 +33338,9 @@
 <e lm="blast"><i>blast</i><par n="accept__vblex" /></e>
 <e lm="sole"><i>sole</i><par n="expensive__adj"/>     </e>
 <e lm="cabin"><i>cabin</i><par n="house__n"/></e>
-
+<e lm="boyar"><i>boyar</i><par n="house__n"/></e>
+<e lm="president of the Basque Country" a="eleka"><i>president</i><par n="house__n"/><p><l><b/>of<b/>the<b/>Basque<b/>Country</l><r><g><b/>of<b/>the<b/>Basque<b/>Country</g></r></p></e>
+<e lm="incantation"><i>incantation</i><par n="house__n"/></e>
 <e lm="Spanish State"><p><l>Spanish<b/>State</l><r>spanish<b/>state<s n="n"/><s n="sg"/></r></p></e>
 <e lm="French State"><p><l>French<b/>State</l><r>french<b/>state<s n="n"/><s n="sg"/></r></p></e>
 <e lm="bow"><i>bow</i><par n="accept__vblex"/></e>
