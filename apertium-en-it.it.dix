@@ -2130,8 +2130,8 @@
     <pardef n="ca/ne__n">
     <e>
       <p>
-        <l>i</l>
-        <r>e<s n="n"/><s n="m"/><s n="pl"/></r>
+        <l>ni</l>
+        <r>ne<s n="n"/><s n="m"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -2139,8 +2139,8 @@
 
     <e>
       <p>
-        <l>e</l>
-        <r>e<s n="n"/><s n="m"/><s n="sg"/></r>
+        <l>ne</l>
+        <r>ne<s n="n"/><s n="m"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -2149,7 +2149,7 @@
     <e>
       <p>
         <l>gne</l>
-        <r>e<s n="n"/><s n="f"/><s n="pl"/></r>
+        <r>ne<s n="n"/><s n="f"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -2158,7 +2158,7 @@
     <e>
       <p>
         <l>gna</l>
-        <r>e<s n="n"/><s n="f"/><s n="sg"/></r>
+        <r>ne<s n="n"/><s n="f"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -85484,6 +85484,18 @@
     <e lm="base"><i>bas</i><par n="abbreviazion/e__n"/></e>
     <e lm="basco"><i>basc</i><par n="fung/o__n"/></e>
     <e lm="baseball"><i>baseball</i><par n="ace__n"/></e>
+    <e lm="gen."><i>gen.</i><par n="ace__n"/></e>
+    <e lm="feb."><i>feb.</i><par n="ace__n"/></e>
+    <e lm="mar."><i>mar.</i><par n="ace__n"/></e>
+    <e lm="apr."><i>apr.</i><par n="ace__n"/></e>
+    <e lm="mag."><i>mag.</i><par n="ace__n"/></e>
+    <e lm="giu."><i>giu.</i><par n="ace__n"/></e>
+    <e lm="lug."><i>lug.</i><par n="ace__n"/></e>
+    <e lm="ago."><i>ago.</i><par n="ace__n"/></e>
+    <e lm="set."><i>set.</i><par n="ace__n"/></e>
+    <e lm="ott."><i>ott.</i><par n="ace__n"/></e>
+    <e lm="nov."><i>nov.</i><par n="ace__n"/></e>
+    <e lm="dic."><i>dic.</i><par n="ace__n"/></e>
     <e lm="gg/mm/aaaa"><i>gg/mm/aaaa</i><par n="ace__n"/></e>
     <e lm="basket"><i>basket</i><par n="ace__n"/></e>
     <e lm="basilica"><i>basilic</i><par n="tasc/a__n"/></e>
@@ -85654,8 +85666,8 @@
     <e lm="campionato"><i>campionat</i><par n="abbain/o__n"/></e>
     <e lm="campus"><i>campus</i><par n="albatros__n"/></e>
     <e lm="camuffamento"><i>camuffament</i><par n="abbain/o__n"/></e>
-    <e lm="cane"><i>can</i><par n="ca/ne__n"/></e>
-    <e lm="cane da guardia"><i>can</i><par n="ca/ne__n"/><p><l><b/>da<b/>guardia</l><r><g><b/>da<b/>guardia</g></r></p></e>
+    <e lm="cane"><i>ca</i><par n="ca/ne__n"/></e>
+    <e lm="cane da guardia"><i>ca</i><par n="ca/ne__n"/><p><l><b/>da<b/>guardia</l><r><g><b/>da<b/>guardia</g></r></p></e>
     <e lm="canale"><i>canal</i><par n="abat/e__n"/></e>
     <e lm="canalizzazione"><i>canalizzazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="canapa"><i>canap</i><par n="cas/a__n"/></e>
@@ -87288,6 +87300,7 @@
     <e lm="lavoro"><i>lavor</i><par n="abbain/o__n"/></e>
     <e lm="lavorante"><i>lavorant</i><par n="albanes/e__n"/></e>
     <e lm="leader"><i>leader</i><par n="single__n"/></e>
+    <e lm="single"><i>single</i><par n="single__n"/></e>
     <e lm="lega"><i>leg</i><par n="tasc/a__n"/></e>
     <e lm="legaccio"><i>legacci</i><par n="abbagli/o__n"/></e>
     <e lm="legamento"><i>legament</i><par n="abbain/o__n"/></e>
@@ -87297,9 +87310,11 @@
     <e lm="legislazione"><i>legislazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="legna"><i>legn</i><par n="cas/a__n"/></e>
     <e lm="legno"><i>legn</i><par n="abbain/o__n"/></e>
+    <e lm="balaustro"><i>balaustr</i><par n="abbain/o__n"/></e>
     <e lm="legname"><i>legnam</i><par n="abat/e__n"/></e>
     <e lm="lehendakari"><i>lehendakari</i><par n="blogger__n"/></e>
     <e lm="leitmotiv"><i>leitmotiv</i><par n="albatros__n"/></e>
+    <e lm="barbecue"><i>barbecue</i><par n="albatros__n"/></e>
     <e lm="lemma"><i>lemm</i><par n="autom/a__n"/></e>
     <e lm="leninismo"><i>leninism</i><par n="abbain/o__n"/></e>
     <e lm="leninista"><i>leninist</i><par n="suicid/a__n"/></e>

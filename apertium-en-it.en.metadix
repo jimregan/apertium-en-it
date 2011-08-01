@@ -17758,6 +17758,7 @@
     <e lm="altercation"><i>altercation</i><par n="house__n"/>    </e>
     <e lm="alternative"><i>alternative</i><par n="house__n"/>    </e>
     <e lm="alternative medicine"><i>alternative<b/>medicine</i><par n="house__n"/>    </e>
+    <e lm="veterinary medicine"><i>veterinary<b/>medicine</i><par n="house__n"/>    </e>
     <e lm="altitude"><i>altitude</i><par n="house__n"/>    </e>
     <e lm="altruist"><i>altruist</i><par n="house__n"/>    </e>
     <e lm="aluminium" r="LR"><i>aluminium</i><par n="house__n"/>    </e>
@@ -20845,7 +20846,7 @@
     <e lm="negligence"><i>negligence</i><par n="house__n"/>    </e>
     <e lm="negotiation"><i>negotiation</i><par n="house__n"/>    </e>
     <e lm="neighbour" c="UE"><i>neighb</i><par n="col/our__n"/>    </e>
-    <e lm="neighbourhood" c="UE"><i>neighbourhood</i><par n="house__n"/>    </e>
+    <e lm="neighbourhood" c="UE"><i>neighb</i><par n="o_ou"/><i>rhood</i><par n="house__n"/>    </e>
     <e lm="neoclassicism"><i>neoclassicism</i><par n="house__n"/>    </e>
     <e lm="neocolonialism"><i>neocolonialism</i><par n="house__n"/>    </e>
     <e lm="neon"><i>neon</i><par n="house__n"/>    </e>
@@ -21027,6 +21028,7 @@
     <e lm="ovary"><i>ovar</i><par n="bab/y__n"/>    </e>
     <e lm="ovation"><i>ovation</i><par n="house__n"/>    </e>
     <e lm="oven"><i>oven</i><par n="house__n"/>    </e>
+    <e lm="insole"><i>insole</i><par n="house__n"/>    </e>
     <e lm="overdose"><i>overdose</i><par n="house__n"/>    </e>
     <e lm="overexploitation"><i>overexploitation</i><par n="house__n"/>    </e>
     <e lm="overpopulation"><i>overpopulation</i><par n="house__n"/>    </e>
@@ -22125,6 +22127,7 @@
     <e lm="snail"><i>snail</i><par n="house__n"/>    </e>
     <e lm="snake"><i>snake</i><par n="house__n"/>    </e>
     <e lm="sniper"><i>sniper</i><par n="house__n"/>    </e>
+    <e lm="viper"><i>viper</i><par n="house__n"/>    </e>
     <e lm="snow"><i>snow</i><par n="house__n"/>    </e>
     <e lm="soap"><i>soap</i><par n="house__n"/>    </e>
     <e lm="socialism"><i>socialism</i><par n="house__n"/>    </e>
@@ -28265,8 +28268,8 @@
     <e lm="legal tender"><i>legal<b/>tender</i><par n="house__n"/>   </e>
     <e lm="rescue plan"><i>rescue<b/>plan</i><par n="house__n"/>   </e>
     <e lm="financial rescue plan"><i>financial<b/>rescue<b/>plan</i><par n="house__n"/>   </e>
-    <e lm="gold standard"><i>gold<b/>standard</i><par n="east__n"/>   </e>
-    <e lm="gold exchange standard"><i>gold<b/>exchange<b/>standard</i><par n="east__n"/>   </e>
+    <e lm="gold standard"><i>gold<b/>standard</i><par n="house__n"/>   </e>
+    <e lm="gold exchange standard"><i>gold<b/>exchange<b/>standard</i><par n="house__n"/>   </e>
     <e lm="gold-coin standard"><i>gold-coin<b/>standard</i><par n="house__n"/>   </e>
     <e lm="monetary policy"><i>monetary<b/>polic</i><par n="bab/y__n"/>   </e>
     <e lm="no man's land"><i>no<b/>man's<b/>land</i><par n="house__n"/>   </e>

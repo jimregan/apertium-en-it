@@ -12242,9 +12242,12 @@
     <e><p><l>desinence<s n="n"/></l><r>desinenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>discomfort<s n="n"/></l><r>disagio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>distribution<s n="n"/></l><r>distribuzione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Dutchman<s n="n"/></l><r>olandese<s n="n"/><s n="mf"/></r></p></e>
-    <e><p><l>Dutchwoman<s n="n"/></l><r>olandese<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>Dutchman<s n="n"/></l><r>olandese<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>Dutchwoman<s n="n"/></l><r>olandese<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>electronics<s n="n"/></l><r>elettronica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>insole<s n="n"/></l><r>soletta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>survey<s n="n"/></l><r>sondaggio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>neighbourhood<s n="n"/></l><r>vicinato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>equality<s n="n"/></l><r>eguaglianza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>exit<s n="n"/></l><r>partenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>float<s n="n"/></l><r>galleggiante<s n="n"/><s n="m"/></r></p></e>
@@ -12263,8 +12266,8 @@
     <e><p><l>misfortune<s n="n"/></l><r>disgrazia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mobile<s n="n"/></l><r>cellulare<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>momentum<s n="n"/></l><r>momento<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>Mr.<s n="n"/></l><r>Signore<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>Mrs.<s n="n"/></l><r>Signore<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>Mr.<s n="n"/></l><r>Signore<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>Mrs.<s n="n"/></l><r>Signore<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Ms.<s n="n"/></l><r>Signore<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>northwest<s n="n"/></l><r>nord-est<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>obsession<s n="n"/></l><r>ossessione<s n="n"/><s n="f"/></r></p></e>
@@ -14748,7 +14751,7 @@
     <e><p><l>daily<b/>newspaper<s n="n"/></l><r>giornale<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>daltonism<s n="n"/></l><r>daltonismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>dam<s n="n"/></l><r>diga<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>damage<s n="n"/></l><r>danno<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>damage<s n="n"/></l><r>danno<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>dance<s n="n"/></l><r>ballo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>dance<s n="n"/></l><r>danza<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>dancer<s n="n"/></l><r>ballerino<s n="n"/><s n="GD"/></r></p></e>
@@ -17030,10 +17033,12 @@
     <e><p><l>layout<s n="n"/></l><r>impaginazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>lazy<s n="n"/></l><r>pigro<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>lazy<s n="n"/></l><r>pigro<s n="n"/></r></p></e>
+    <e><p><l>single<s n="n"/></l><r>single<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>baluster<s n="n"/></l><r>balaustro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>barbecue<s n="n"/></l><r>barbecue<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>lead<s n="n"/></l><r>piombo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>lead<b/>dancer<s n="n"/></l><r>primo<b/>ballerino<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>lead<b/>dancer<s n="n"/></l><r>primo<b/>ballerino<s n="n"/><s n="GD"/></r></p></e>
-    <e i="yes"><p><l>leader<s n="n"/></l><r>capo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>boss<n></l><r>capo<n><m></r></e>).-->
     <e><p><l>leader<s n="n"/></l><r>dirigente<s n="n"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>leader<s n="n"/></l><r>leader<s n="n"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>leader<n></l><r>dirigente<n><mf></r></e>).-->
     <e r="LR"><p><l>leaf<s n="n"/></l><r>foglia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>blade<n></l><r>foglia<n><f></r></e>).-->
@@ -24902,7 +24907,18 @@
     <e r="RL"><p><l>ukrainian<s n="n"/></l><r>ucraino<s n="n"/></r></p></e>
     <e r="LR"><p><l>valencian<s n="n"/></l><r>valenziano<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>valencian<s n="n"/></l><r>valenziano<s n="n"/></r></p></e>
+    <e><p><l>jan.<s n="n"/></l><r>gen.<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>feb.<s n="n"/></l><r>feb.<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mar.<s n="n"/></l><r>mar.<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>apr.<s n="n"/></l><r>apr.<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>may<s n="n"/></l><r>mag.<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>jun.<s n="n"/></l><r>giu.<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>jul.<s n="n"/></l><r>lug.<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>aug.<s n="n"/></l><r>ago.<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sep.<s n="n"/></l><r>set.<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>oct.<s n="n"/></l><r>ott.<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>nov.<s n="n"/></l><r>nov.<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>dec.<s n="n"/></l><r>dic.<s n="n"/><s n="m"/></r></p></e>
     <!-- assuming masculine for all of these. Caveat emptor. -->
     <e><p><l>aragonite<s n="n"/></l><r>aragonite<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>augite<s n="n"/></l><r>augite<s n="n"/><s n="m"/></r></p></e>
