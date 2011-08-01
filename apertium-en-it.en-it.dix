@@ -12146,11 +12146,9 @@
     <e><p><l>humerus<s n="n"/></l><r>omero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kick<s n="n"/></l><r>calcio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>loan<s n="n"/></l><r>prestito<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>loom<s n="n"/></l><r>telaio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>microstate<s n="n"/></l><r>microstato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>musk<s n="n"/></l><r>muschio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nitrite<s n="n"/></l><r>nitrito<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>noon<s n="n"/></l><r>mezzogiorno<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ogre<s n="n"/></l><r>orco<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ovule<s n="n"/></l><r>ovulo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>simile<s n="n"/></l><r>similitudine<s n="n"/><s n="f"/></r></p></e>
@@ -12189,7 +12187,6 @@
     <e><p><l>placebo<s n="n"/></l><r>placebo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>stalemate<s n="n"/></l><r>stallo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tropic<s n="n"/></l><r>tropico<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>wagon<s n="n"/></l><r>carro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>frigate<s n="n"/></l><r>fregata<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gang<s n="n"/></l><r>banda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>jellyfish<s n="n"/></l><r>medusa<s n="n"/><s n="f"/></r></p></e>
@@ -14018,8 +14015,8 @@
     <e><p><l>charisma<s n="n"/></l><r>carisma<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chart<s n="n"/></l><r>grafico<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chase<s n="n"/></l><r>persecuzione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>chassis<s n="n"/></l><r>telaio<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>chassis<s n="n"/><s n="ND"/></l><r>telaio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR" srl="chassis"><p><l>chassis<s n="n"/></l><r>telaio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>chassis<s n="n"/></l><r>chassis<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e r="RL"><p><l>chastity<s n="n"/><s n="ND"/></l><r>castità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>chastity<s n="n"/><s n="sg"/></l><r>castità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>chastity<s n="n"/><s n="pl"/></l><r>castità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -17793,9 +17790,6 @@
     <e r="LR"><p><l>neutrality<s n="n"/><s n="pl"/></l><r>neutralità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>newborn<s n="n"/></l><r>neonato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>news<s n="n"/></l><r>notizia<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>news<s n="n"/><s n="ND"/></l><r>novità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>news<s n="n"/><s n="sg"/></l><r>novità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>news<s n="n"/><s n="pl"/></l><r>novità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>newspaper<s n="n"/></l><r>quotidiano<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>newspaper<s n="n"/></l><r>giornale<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>daily<b/>newspaper<n></l><r>giornale<n><m></r></e>).-->
     <e><p><l>niche<s n="n"/></l><r>nicchia<s n="n"/><s n="f"/></r></p></e>
@@ -19130,7 +19124,6 @@
     <e><p><l>relief<s n="n"/></l><r>rilievo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>relief<s n="n"/></l><r>attenuazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>relief<n></l><r>rilievo<n><m></r></e>).-->
     <e><p><l>religion<s n="n"/></l><r>religione<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>religiosity<s n="n"/><s n="ND"/></l><r>religiosità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>religiosity<s n="n"/><s n="sg"/></l><r>religiosità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>religiosity<s n="n"/><s n="pl"/></l><r>religiosità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>religious<s n="n"/></l><r>religioso<s n="n"/><s n="GD"/></r></p></e>
@@ -19249,7 +19242,7 @@
     <e><p><l>rheology<s n="n"/></l><r>reologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rhetoric<s n="n"/></l><r>retorica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rheumatism<s n="n"/></l><r>reumatismo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>rhombus<s n="n"/></l><r>rombo<s n="n"/><s n="m"/></r></p></e>
+    <e srl="rhombus D"><p><l>rhombus<s n="n"/></l><r>rombo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rhotacism<s n="n"/></l><r>rotacismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rhyme<s n="n"/></l><r>rima<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>rhythm<s n="n"/></l><r>ritmo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>rate<n></l><r>ritmo<n><m></r></e>).-->
@@ -22298,7 +22291,6 @@
     <e r="LR"><p><l>up<b/>till<b/>now<s n="adv"/></l><r>finora<s n="adv"/></r></p></e><!--  autorestricted (<e><l>as<b/>yet<adv></l><r>finora<adv></r></e>).-->
     <e r="LR"><p><l>up<b/>to<b/>here<s n="adv"/></l><r>qui<s n="adv"/></r></p></e><!--  autorestricted (<e><l>here<adv></l><r>qui<adv></r></e>).-->
     <e r="LR"><p><l>up<b/>to<b/>now<s n="adv"/></l><r>finora<s n="adv"/></r></p></e><!--  autorestricted (<e><l>as<b/>yet<adv></l><r>finora<adv></r></e>).-->
-    <e i="yes"><p><l>up<b/>to<b/>the<b/>present<s n="adv"/></l><r>finora<s n="adv"/></r></p></e><!--  autorestricted (<e><l>as<b/>yet<adv></l><r>finora<adv></r></e>).-->
     <e r="LR"><p><l>up<b/>until<b/>now<s n="adv"/></l><r>finora<s n="adv"/></r></p></e><!--  autorestricted (<e><l>as<b/>yet<adv></l><r>finora<adv></r></e>).-->
     <e r="LR"><p><l>uppermost<s n="adv"/></l><r>addirittura<s n="adv"/></r></p></e><!--  autorestricted (<e><l>above<adv></l><r>addirittura<adv></r></e>).-->
     <e r="LR"><p><l>upward<s n="adv"/></l><r>sopra<s n="adv"/></r></p></e><!--  autorestricted (<e><l>aloft<adv></l><r>sopra<adv></r></e>).-->
@@ -22387,10 +22379,10 @@
     <e><p><l>to<b/>no<b/>effect<s n="adv"/></l><r>inutilmente<s n="adv"/></r></p></e>
     <e><p><l>uniquely<s n="adv"/></l><r>singolarmente<s n="adv"/></r></p></e>
     <e><p><l>unquestionably<s n="adv"/></l><r>indubbiamente<s n="adv"/></r></p></e>
-    <e><p><l>up<b/>to<b/>the<b/>present<s n="adv"/></l><r>finora<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>up<b/>to<b/>the<b/>present<s n="adv"/></l><r>finora<s n="adv"/></r></p></e>
     <e><p><l>vehemently<s n="adv"/></l><r>veementemente<s n="adv"/></r></p></e>
     <e><p><l>with<b/>hindsight<s n="adv"/></l><r>a<b/>posteriori<s n="adv"/></r></p></e>
-    <e><p><l>with<b/>one<b/>mind<s n="adv"/></l><r>unanimemente<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>with<b/>one<b/>mind<s n="adv"/></l><r>unanimemente<s n="adv"/></r></p></e>
     <!-- ******************************
           group vbmod_symbol
       ****************************** -->
@@ -24577,7 +24569,7 @@
     <e><p><l>iridium<s n="n"/></l><r>iridio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>irrationality<s n="n"/></l><r>irrazionalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>irresponsibility<s n="n"/></l><r>irresponsabilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
-    <e><p><l>lawfulness<s n="n"/></l><r>legalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e r="LR"><p><l>lawfulness<s n="n"/></l><r>legalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>libido<s n="n"/></l><r>libido<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>liquidity<s n="n"/></l><r>liquidità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>lithium<s n="n"/></l><r>litio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -24592,7 +24584,7 @@
     <e><p><l>mendelevium<s n="n"/></l><r>mendelevio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>molybdenum<s n="n"/></l><r>molibdeno<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>mutuality<s n="n"/></l><r>mutualità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
-    <e><p><l>natality<s n="n"/></l><r>natalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e r="LR"><p><l>natality<s n="n"/></l><r>natalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>neodymium<s n="n"/></l><r>neodimio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>neptunium<s n="n"/></l><r>nettunio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>niobium<s n="n"/></l><r>niobio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -24610,13 +24602,13 @@
     <e><p><l>plasmodium<s n="n"/></l><r>plasmodium<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>plutonium<s n="n"/></l><r>plutonio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>polonium<s n="n"/></l><r>polonio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
-    <e><p><l>potentiality<s n="n"/></l><r>potenzialità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e r="LR"><p><l>potentiality<s n="n"/></l><r>potenzialità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>praseodymium<s n="n"/></l><r>praseodimio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>precocity<s n="n"/></l><r>precocità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>prognosis<s n="n"/></l><r>prognosi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>puberty<s n="n"/></l><r>pubertà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>quorum<s n="n"/></l><r>quorum<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
-    <e><p><l>rapidity<s n="n"/></l><r>rapidità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e r="LR"><p><l>rapidity<s n="n"/></l><r>rapidità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>rationality<s n="n"/></l><r>razionalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>reciprocity<s n="n"/></l><r>reciprocità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>religiousness<s n="n"/></l><r>religiosità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
@@ -24724,7 +24716,7 @@
     <e><p><l>figure<s n="n"/></l><r>figura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sum<s n="n"/></l><r>somma<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>iodine<s n="n"/></l><r>iodio<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>marine<s n="n"/></l><r>marina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>marine<s n="n"/></l><r>marine<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>caliph<s n="n"/></l><r>califfo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>binoculars<s n="n"/></l><r>binocolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>razor<s n="n"/></l><r>rasoio<s n="n"/><s n="m"/></r></p></e>
@@ -24748,7 +24740,7 @@
     <e r="RL"><p><l>Sumerian<s n="n"/></l><r>sumero<s n="n"/></r></p></e>
     <e><p><l>emir<s n="n"/></l><r>emiro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>dean<s n="n"/></l><r>decano<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>roar<s n="n"/></l><r>rombo<s n="n"/><s n="m"/></r></p></e>
+    <e srl="roar"><p><l>roar<s n="n"/></l><r>rombo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>offence<s n="n"/></l><r>reato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>roll<s n="n"/></l><r>lista<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>passenger<s n="n"/></l><r>passeggero<s n="n"/><s n="m"/></r></p></e>
@@ -24814,7 +24806,8 @@
     <e><p><l>stethoscope<s n="n"/></l><r>stetofonendoscopio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>etymon<s n="n"/></l><r>etimo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>palaeoclimatology<s n="n"/></l><r>paleoclimatologia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>palaeontologist<s n="n"/></l><r>paleontologia<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>palaeontologist<s n="n"/></l><r>paleontologo<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>palaeontologist<s n="n"/></l><r>paleontologo<s n="n"/></r></p></e>
     <e><p><l>podiatry<s n="n"/></l><r>podologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>teleology<s n="n"/></l><r>teleologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cladogram<s n="n"/></l><r>cladogramma<s n="n"/><s n="f"/></r></p></e>
@@ -25006,7 +24999,7 @@
     <e><p><l>humerus<s n="n"/></l><r>omero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kick<s n="n"/></l><r>calcio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>loan<s n="n"/></l><r>prestito<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>loom<s n="n"/></l><r>telaio<s n="n"/><s n="m"/></r></p></e>
+    <e srl="loom D"><p><l>loom<s n="n"/></l><r>telaio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>microstate<s n="n"/></l><r>microstato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>musk<s n="n"/></l><r>muschio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nitrite<s n="n"/></l><r>nitrito<s n="n"/><s n="m"/></r></p></e>
@@ -25017,7 +25010,7 @@
     <e><p><l>placebo<s n="n"/></l><r>placebo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>stalemate<s n="n"/></l><r>stallo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tropic<s n="n"/></l><r>tropico<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>wagon<s n="n"/></l><r>carro<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>wagon<s n="n"/></l><r>carro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>abstentionist<s n="adj"/></l><r>astensionista<s n="adj"/></r></p></e>
     <e><p><l>mucous<s n="adj"/></l><r>mucoso<s n="adj"/></r></p></e>
     <e><p><l>altruistic<s n="adj"/></l><r>altruista<s n="adj"/></r></p></e>
