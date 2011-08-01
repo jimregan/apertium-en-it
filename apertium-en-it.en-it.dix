@@ -14879,7 +14879,7 @@
     <e><p><l>denaturation<s n="n"/></l><r>denaturazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dendrochronology<s n="n"/></l><r>dendrocronologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dendrology<s n="n"/></l><r>dendrologia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>denial<s n="n"/></l><r>rifiuto<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>denial<s n="n"/></l><r>rifiuto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>denigration<s n="n"/></l><r>denigrazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>denitrification<s n="n"/></l><r>denitrificazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>denomination<s n="n"/></l><r>denominazione<s n="n"/><s n="f"/></r></p></e>
@@ -16977,7 +16977,7 @@
     <e><p><l>label<s n="n"/></l><r>etichetta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>labelling<s n="n"/></l><r>etichettatura<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>laboratory<s n="n"/></l><r>laboratorio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>lab<n></l><r>laboratorio<n><m></r></e>).-->
-    <e><p><l>labour<s n="n"/></l><r>lavoro<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>labour<s n="n"/></l><r>lavoro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>labyrinth<s n="n"/></l><r>labirinto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lace<s n="n"/></l><r>merletto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lactose<s n="n"/></l><r>lattosio<s n="n"/><s n="m"/></r></p></e>
@@ -17232,6 +17232,8 @@
     <e><p><l>lyophilisation<s n="n"/></l><r>liofilizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lyric<s n="n"/><s n="pl"/></l><r>lettera<s n="n"/></r></p></e>
     <e><p><l>lyricism<s n="n"/></l><r>lirismo<s n="n"/><s n="m"/></r></p></e>
+    <e srl="rainbow D"><p><l>rainbow<s n="n"/></l><r>iride<s n="n"/><s n="f"/></r></p></e>
+    <e srl="iris"><p><l>iris<s n="n"/></l><r>iride<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>macaroni<s n="n"/></l><r>maccherone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>machination<s n="n"/></l><r>macchinazione<s n="n"/><s n="f"/></r></p></e>
     <e slr="macchina D"><p><l>machine<s n="n"/></l><r>macchina<s n="n"/><s n="f"/></r></p></e>
@@ -20009,7 +20011,8 @@
     <e><p><l>stress<s n="n"/><s n="sg"/></l><r>stress<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>stress<s n="n"/></l><r>tensione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>strain<n></l><r>tensione<n><f></r></e>).-->
     <e><p><l>strike<s n="n"/></l><r>sciopero<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>string<s n="n"/></l><r>corda<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>rope<n></l><r>corda<n><f></r></e>).-->
+    <e r="LR"><p><l>string<s n="n"/></l><r>corda<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>string<s n="n"/></l><r>legaccio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR" slr="attacco D"><p><l>stroke<s n="n"/></l><r>attacco<s n="n"/><s n="m"/></r></p></e>
     <e slr="colpo" srl="stroke" i="yes"><p><l>stroke<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>blow<n></l><r>colpo<n><m></r></e>).-->
     <e r="RL" slr="traccia"><p><l>stroke<s n="n"/></l><r>traccia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>stroke<n></l><r>attacco<n><m></r></e>).-->
@@ -21212,7 +21215,7 @@
     <e r="LR"><p><l>by<b/>the<b/>skin<b/>of<b/>their<b/>teeth<s n="adv"/></l><r>per<b/>un<b/>pelo<s n="adv"/></r></p></e>
     <e r="LR"><p><l>by<b/>the<b/>skin<b/>of<b/>your<b/>teeth<s n="adv"/></l><r>per<b/>un<b/>pelo<s n="adv"/></r></p></e>
     <e><p><l>aboard<s n="adv"/></l><r>a<b/>bordo<s n="adv"/></r></p></e>
-    <e><p><l>abruptly<s n="adv"/></l><r>bruscamente<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>abruptly<s n="adv"/></l><r>bruscamente<s n="adv"/></r></p></e>
     <e><p><l>accordingly<s n="adv"/></l><r>di<b/>conseguenza<s n="adv"/></r></p></e>
     <e><p><l>acidly<s n="adv"/></l><r>acidamente<s n="adv"/></r></p></e>
     <e><p><l>adventurously<s n="adv"/></l><r>avventurosamente<s n="adv"/></r></p></e>
@@ -21756,7 +21759,7 @@
     <e><p><l>indisputably<s n="adv"/></l><r>indiscutibilmente<s n="adv"/></r></p></e>
     <e><p><l>indistinctly<s n="adv"/></l><r>indistintamente<s n="adv"/></r></p></e>
     <e><p><l>individually<s n="adv"/></l><r>individualmente<s n="adv"/></r></p></e>
-    <e><p><l>indubitably<s n="adv"/></l><r>indubbiamente<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>indubitably<s n="adv"/></l><r>indubbiamente<s n="adv"/></r></p></e>
     <e><p><l>industrially<s n="adv"/></l><r>industrialmente<s n="adv"/></r></p></e>
     <e><p><l>inevitably<s n="adv"/></l><r>inevitabilmente<s n="adv"/></r></p></e>
     <e><p><l>inexorably<s n="adv"/></l><r>inesorabilmente<s n="adv"/></r></p></e>
@@ -22203,16 +22206,16 @@
     <e><p><l>the<b/>day<b/>before<b/>yesterday<s n="adv"/></l><r>l&apos;altro<b/>ieri<s n="adv"/></r></p></e>
     <e><p><l>the<b/>first<b/>time<s n="adv"/></l><r>la<b/>prima<b/>volta<s n="adv"/></r></p></e>
     <e><p><l>the<b/>last<b/>time<s n="adv"/></l><r>l&apos;ultima<b/>volta<s n="adv"/></r></p></e>
-    <e><p><l>the<b/>next<b/>Easter<s n="adv"/></l><r>la<b/>prossima<b/>Pasqua<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>the<b/>next<b/>Easter<s n="adv"/></l><r>la<b/>prossima<b/>Pasqua<s n="adv"/></r></p></e>
     <e r="LR"><p><l>the<b/>next<b/>May<s n="adv"/></l><r>il<b/>prossimo<b/>maggio<s n="adv"/></r></p></e><!--  autorestricted (<e><l>next<b/>May<adv></l><r>il<b/>prossimo<b/>maggio<adv></r></e>).-->
-    <e><p><l>the<b/>next<b/>November<s n="adv"/></l><r>il<b/>prossimo<b/>novembre<s n="adv"/></r></p></e>
-    <e><p><l>the<b/>next<b/>autumn<s n="adv"/></l><r>il<b/>prossimo<b/>autunno<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>the<b/>next<b/>November<s n="adv"/></l><r>il<b/>prossimo<b/>novembre<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>the<b/>next<b/>autumn<s n="adv"/></l><r>il<b/>prossimo<b/>autunno<s n="adv"/></r></p></e>
     <e r="RL"><p><l>the<b/>next<b/>day<s n="adv"/></l><r>il<b/>giorno<b/>seguente<s n="adv"/></r></p></e>
     <e r="RL"><p><l>the<b/>next<b/>day<s n="adv"/></l><r>il<b/>giorno<b/>successivo<s n="adv"/></r></p></e>
     <e><p><l>the<b/>next<b/>day<s n="adv"/></l><r>il<b/>giorno<b/>dopo<s n="adv"/></r></p></e>
     <e r="LR"><p><l>the<b/>next<b/>fall<s n="adv"/></l><r>il<b/>prossimo<b/>autunno<s n="adv"/></r></p></e><!--  autorestricted (<e><l>the<b/>next<b/>autumn<adv></l><r>il<b/>prossimo<b/>autunno<adv></r></e>).-->
-    <e><p><l>the<b/>next<b/>spring<s n="adv"/></l><r>la<b/>prossima<b/>primavera<s n="adv"/></r></p></e>
-    <e><p><l>the<b/>next<b/>summer<s n="adv"/></l><r>la<b/>prossima<b/>estate<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>the<b/>next<b/>spring<s n="adv"/></l><r>la<b/>prossima<b/>primavera<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>the<b/>next<b/>summer<s n="adv"/></l><r>la<b/>prossima<b/>estate<s n="adv"/></r></p></e>
     <e r="LR"><p><l>the<b/>next<b/>week<s n="adv"/></l><r>la<b/>settimana<b/>prossima<s n="adv"/></r></p></e><!--  autorestricted (<e><l>next<b/>week<adv></l><r>la<b/>settimana<b/>prossima<adv></r></e>).-->
     <e><p><l>the<b/>next<b/>winter<s n="adv"/></l><r>il<b/>prossimo<b/>inverno<s n="adv"/></r></p></e>
     <e r="LR"><p><l>the<b/>next<b/>year<s n="adv"/></l><r>l&apos;anno<b/>prossimo<s n="adv"/></r></p></e><!--  autorestricted (<e><l>next<b/>year<adv></l><r>l'anno<b/>prossimo<adv></r></e>).-->
@@ -22277,7 +22280,7 @@
     <e><p><l>under<b/>certain<b/>conditions<s n="adv"/></l><r>a<b/>determinate<b/>condizioni<s n="adv"/></r></p></e>
     <e r="LR"><p><l>under<b/>cover<s n="adv"/></l><r>in<b/>segreto<s n="adv"/></r></p></e>
     <e r="LR"><p><l>underneath<s n="adv"/></l><r>sotto<s n="adv"/></r></p></e><!--  autorestricted (<e r="RL"><l>below<adv></l><r>sotto<adv></r></e>).-->
-    <e r="LR"><p><l>undoubtedly<s n="adv"/></l><r>indubbiamente<s n="adv"/></r></p></e><!--  autorestricted (<e><l>indubitably<adv></l><r>indubbiamente<adv></r></e>).-->
+    <e><p><l>undoubtedly<s n="adv"/></l><r>indubbiamente<s n="adv"/></r></p></e>
     <e><p><l>unfairly<s n="adv"/></l><r>ingiustamente<s n="adv"/></r></p></e>
     <e r="RL"><p><l>unfairly<s n="adv"/></l><r>indebitamente<s n="adv"/></r></p></e>
     <e c="fuera de coloquial"><p><l>unfortunately<s n="adv"/></l><r>sfortunatamente<s n="adv"/></r></p></e>
@@ -22361,16 +22364,16 @@
     <e><p><l>as<b/>a<b/>whole<s n="adv"/></l><r>complessivamente<s n="adv"/></r></p></e>
     <e><p><l>beautifully<s n="adv"/></l><r>fantasticamente<s n="adv"/></r></p></e>
     <e><p><l>bitterly<s n="adv"/></l><r>aspramente<s n="adv"/></r></p></e>
-    <e><p><l>doubtless<s n="adv"/></l><r>indubbiamente<s n="adv"/></r></p></e>
-    <e><p><l>every<b/>now<b/>and<b/>again<s n="adv"/></l><r>continuamente<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>doubtless<s n="adv"/></l><r>indubbiamente<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>every<b/>now<b/>and<b/>again<s n="adv"/></l><r>continuamente<s n="adv"/></r></p></e>
     <e><p><l>extensively<s n="adv"/></l><r>largamente<s n="adv"/></r></p></e>
     <e><p><l>fondly<s n="adv"/></l><r>affettuosamente<s n="adv"/></r></p></e>
-    <e><p><l>for<b/>dear<b/>life<s n="adv"/></l><r>disperatamente<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>for<b/>dear<b/>life<s n="adv"/></l><r>disperatamente<s n="adv"/></r></p></e>
     <e><p><l>globally<s n="adv"/></l><r>complessivamente<s n="adv"/></r></p></e>
     <e><p><l>helically<s n="adv"/></l><r>elicoidalmente<s n="adv"/></r></p></e>
     <e><p><l>hence<s n="adv"/></l><r>per<b/>questo<s n="adv"/></r></p></e>
     <e><p><l>impressively<s n="adv"/></l><r>mirabilmente<s n="adv"/></r></p></e>
-    <e><p><l>in<s n="adv"/></l><r>dentro<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>in<s n="adv"/></l><r>dentro<s n="adv"/></r></p></e>
     <e><p><l>incoherently<s n="adv"/></l><r>incoerentemente<s n="adv"/></r></p></e>
     <e><p><l>intestate<s n="adv"/></l><r>ab<b/>intestato<s n="adv"/></r></p></e>
     <e><p><l>larghetto<s n="adv"/></l><r>larghetto<s n="adv"/></r></p></e>
@@ -22381,7 +22384,7 @@
     <e><p><l>superbly<s n="adv"/></l><r>magnificamente<s n="adv"/></r></p></e>
     <e><p><l>suspiciously<s n="adv"/></l><r>sospettosamente<s n="adv"/></r></p></e>
     <e><p><l>therefore<s n="adv"/></l><r>pertanto<s n="adv"/></r></p></e>
-    <e><p><l>to<b/>no<b/>effect<s n="adv"/></l><r>inutilmente<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>to<b/>no<b/>effect<s n="adv"/></l><r>inutilmente<s n="adv"/></r></p></e>
     <e><p><l>uniquely<s n="adv"/></l><r>singolarmente<s n="adv"/></r></p></e>
     <e><p><l>unquestionably<s n="adv"/></l><r>indubbiamente<s n="adv"/></r></p></e>
     <e r="LR"><p><l>up<b/>to<b/>the<b/>present<s n="adv"/></l><r>finora<s n="adv"/></r></p></e>
@@ -23185,7 +23188,6 @@
     <e r="RL"><p><l>favour<s n="vblex"/></l><r>privilegiare<s n="vblex"/></r></p></e>
     <e><p><l>fear<s n="vblex"/></l><r>temere<s n="vblex"/></r></p></e>
     <e c="en el sentido de figurar (entre)"><p><l>feature<s n="vblex"/></l><r>constare<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>feature<s n="vblex"/></l><r>presentare<s n="vblex"/></r></p></e>
     <e><p><l>feed<s n="vblex"/></l><r>alimentare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>feel<s n="vblex"/></l><r>sentire<s n="vblex"/></r></p></e>
     <e><p><l>ferment<s n="vblex"/></l><r>fermentare<s n="vblex"/></r></p></e>
