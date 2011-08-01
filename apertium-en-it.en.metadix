@@ -18115,7 +18115,7 @@
     <e lm="biomass"><i>biomass</i><par n="access__n"/>    </e>
     <e lm="biopsy"><i>biops</i><par n="bab/y__n"/>    </e>
     <e lm="bird"><i>bird</i><par n="house__n"/>    </e>
-    <e lm="bird flu"><i>bird<b/>flu</i><par n="east__n"/>    </e>
+    <e lm="bird flu"><i>bird<b/>flu</i><par n="house__n"/>    </e>
     <e lm="ladybird" r="LR"><i>ladybird</i><par n="house__n"/>    </e>
     <e lm="ladybird" alt="en_GB" r="RL"><i>ladybird</i><par n="house__n"/>    </e>
     <e lm="birth"><i>birth</i><par n="house__n"/>    </e>
@@ -18823,7 +18823,7 @@
     <e lm="courage"><i>courage</i><par n="house__n"/>    </e>
     <e lm="course"><i>course</i><par n="house__n"/>    </e>
     <e lm="court"><i>court</i><par n="house__n"/>    </e>
-    <e lm="high court"><i>high<b/>court</i><par n="east__n"/>    </e>
+    <e lm="high court"><i>high<b/>court</i><par n="house__n"/>    </e>
     <e lm="National High Court" r="RL"><i>National<b/>High<b/>Court</i><par n="east__n"/>    </e>
     <e lm="courtship"><i>courtship</i><par n="house__n"/>    </e>
     <e lm="courtyard"><i>courtyard</i><par n="house__n"/>    </e>
@@ -22387,7 +22387,7 @@
     <e lm="swine"><i>swine</i><par n="house__n"/>    </e>
     <e lm="swine"><i>swine</i><par n="expensive__adj"/>    </e>
     <e lm="blurred"><i>blurred</i><par n="expensive__adj"/>    </e>
-    <e lm="swine flu"><i>swine<b/>flu</i><par n="east__n"/>    </e>
+    <e lm="swine flu"><i>swine<b/>flu</i><par n="house__n"/>    </e>
     <e lm="swing"><i>swing</i><par n="house__n"/>    </e>
     <e lm="switch"><i>switch</i><par n="access__n"/>    </e>
     <e lm="wick"><i>wick</i><par n="house__n"/>    </e>
@@ -24728,6 +24728,7 @@
     <e lm="sincere"><i>sincere</i><par n="nice/__adj"/>    </e>
     <e lm="sindical"><i>sindical</i><par n="expensive__adj"/>    </e>
     <e lm="single"><i>single</i><par n="expensive__adj"/>    </e>
+    <e lm="single"><i>single</i><par n="house__n"/>    </e>
     <e lm="singular"><i>singular</i><par n="expensive__adj"/>    </e>
     <e lm="sinister"><i>sinister</i><par n="expensive__adj"/>    </e>
     <e lm="skeptical"><i>skeptical</i><par n="expensive__adj"/>    </e>
@@ -29697,6 +29698,7 @@
     <e lm="decoupling"><i>decoupling</i><par n="house__n"/>     </e>
     <e lm="decreasing"><i>decreasing</i><par n="house__n"/>     </e>
     <e lm="decury"><i>decur</i><par n="bab/y__n"/>     </e>
+    <e lm="nursery"><i>nurser</i><par n="bab/y__n"/>     </e>
     <e lm="deductible"><i>deductible</i><par n="expensive__adj"/>     </e>
     <e lm="deer"><i>deer</i><par n="house__n"/>     </e>
     <e lm="defeatism"><i>defeatism</i><par n="house__n"/>     </e>

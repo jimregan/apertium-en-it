@@ -14791,7 +14791,7 @@
     <e><p><l>decalcomania<s n="n"/></l><r>decalcomania<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>decantation<s n="n"/></l><r>decantazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>decapitation<s n="n"/></l><r>decapitazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>decay<s n="n"/></l><r>decadenza<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>decay<s n="n"/></l><r>rovina<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>deceased<s n="n"/></l><r>defunto<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>deceased<s n="n"/></l><r>defunto<s n="n"/></r></p></e>
     <e><p><l>deceleration<s n="n"/></l><r>decelerazione<s n="n"/><s n="f"/></r></p></e>
@@ -14895,8 +14895,7 @@
     <e><p><l>deodorant<s n="n"/></l><r>deodorante<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>deontology<s n="n"/></l><r>deontologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>department<s n="n"/></l><r>dipartimento<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>departure<s n="n"/></l><r>marcia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>course<n></l><r>marcia<n><f></r></e>).-->
-    <e r="RL"><p><l>departure<s n="n"/></l><r>partenza<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>departure<n></l><r>marcia<n><f></r></e>).-->
+    <e r="LR"><p><l>departure<s n="n"/></l><r>marcia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dependence<s n="n"/></l><r>dipendenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>depilation<s n="n"/></l><r>depilazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>deployment<s n="n"/></l><r>distribuzione<s n="n"/><s n="f"/></r></p></e>
@@ -17034,6 +17033,8 @@
     <e r="LR"><p><l>lazy<s n="n"/></l><r>pigro<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>lazy<s n="n"/></l><r>pigro<s n="n"/></r></p></e>
     <e><p><l>single<s n="n"/></l><r>single<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>deaf-mute<s n="n"/></l><r>sordomuto<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>deaf-mute<s n="n"/></l><r>sordomuto<s n="n"/></r></p></e>
     <e><p><l>baluster<s n="n"/></l><r>balaustro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>barbecue<s n="n"/></l><r>barbecue<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>lead<s n="n"/></l><r>piombo<s n="n"/><s n="m"/></r></p></e>
@@ -17672,7 +17673,7 @@
     <e r="RL"><p><l>multiplicity<s n="n"/><s n="ND"/></l><r>molteplicità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>multiplicity<s n="n"/><s n="sg"/></l><r>molteplicità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>multiplicity<s n="n"/><s n="pl"/></l><r>molteplicità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e><p><l>multitude<s n="n"/></l><r>moltitudine<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>multitude<s n="n"/></l><r>moltitudine<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mum<s n="n"/></l><r>mamma<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mummification<s n="n"/></l><r>mummificazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mummy<s n="n"/></l><r>mummia<s n="n"/><s n="f"/></r></p></e>
@@ -19627,7 +19628,6 @@
     <e><p><l>short<b/>film<s n="n"/></l><r>cortometraggio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>shortage<s n="n"/><s n="sg"/></l><r>scarsità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>shortage<s n="n"/><s n="pl"/></l><r>scarsità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>shortage<s n="n"/><s n="ND"/></l><r>scarsità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>shortage<s n="n"/></l><r>carenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>shortcrust<b/>pastry<s n="n"/></l><r>pasta<b/>frolla<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>shortcrust<b/>pastry<s n="n"/></l><r>pastafrolla<s n="n"/><s n="f"/></r></p></e>
@@ -24907,6 +24907,7 @@
     <e r="RL"><p><l>ukrainian<s n="n"/></l><r>ucraino<s n="n"/></r></p></e>
     <e r="LR"><p><l>valencian<s n="n"/></l><r>valenziano<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>valencian<s n="n"/></l><r>valenziano<s n="n"/></r></p></e>
+    <e><p><l>cabriolet<s n="n"/></l><r>cabriolet<s n="n"/><s n="mf"/></r></p><par n="SP"/></e>
     <e><p><l>jan.<s n="n"/></l><r>gen.<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>feb.<s n="n"/></l><r>feb.<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mar.<s n="n"/></l><r>mar.<s n="n"/><s n="m"/></r></p></e>
