@@ -22454,7 +22454,7 @@
     <e><p><l>square<s n="vblex"/></l><r>quadrare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>schedule<s n="vblex"/></l><r>pianificare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>shiver<s n="vblex"/></l><r>tremare<s n="vblex"/></r></p></e>
-    <e><p><l>shock<s n="vblex"/></l><r>impressionare<s n="vblex"/></r></p></e>
+    <e><p><l>shock<s n="vblex"/></l><r>scioccare<s n="vblex"/></r></p></e>
     <e><p><l>spare<s n="vblex"/></l><r>risparmiare<s n="vblex"/></r></p></e>
     <e><p><l>stall<s n="vblex"/></l><r>fermare<s n="vblex"/></r></p></e>
     <e><p><l>strengthen<s n="vblex"/></l><r>fortificare<s n="vblex"/></r></p></e>
@@ -22656,9 +22656,12 @@
     <e r="LR"><p><l>strike<g><b/>out</g><s n="vblex"/><s n="sep"/></l><r>sbarrare<s n="vblex"/></r></p></e>
     <e><p><l>cross<g><b/>out</g><s n="vblex"/><s n="sep"/></l><r>sbarrare<s n="vblex"/></r></p></e>
     <e><p><l>stick<s n="vblex"/></l><r>conficcare<s n="vblex"/></r></p></e>
+    <e><p><l>sharpen<s n="vblex"/></l><r>affilare<s n="vblex"/></r></p></e>
+    <e><p><l>scratch<s n="vblex"/></l><r>graffiare<s n="vblex"/></r></p></e>
     <e><p><l>superimpose<s n="vblex"/></l><r>sovrapporre<s n="vblex"/></r></p></e>
     <e><p><l>tackle<s n="vblex"/></l><r>affrontare<s n="vblex"/></r></p></e>
-    <e><p><l>take<g><b/>off</g><s n="vblex"/></l><r>decollare<s n="vblex"/></r></p></e>
+    <e slr="decollare"><p><l>take<g><b/>off</g><s n="vblex"/><s n="sep"/></l><r>decollare<s n="vblex"/></r></p></e>
+    <e slr="togliere D" r="LR"><p><l>take<g><b/>off</g><s n="vblex"/><s n="sep"/></l><r>togliere<s n="vblex"/></r></p></e>
     <e><p><l>tighten<s n="vblex"/></l><r>stringere<s n="vblex"/></r></p></e>
     <e><p><l>suspect<s n="vblex"/></l><r>sospettare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>award<s n="vblex"/></l><r>conferire<s n="vblex"/></r></p></e>
@@ -22691,7 +22694,7 @@
     <e><p><l>be<g><b/>shipwrecked</g><s n="vblex"/></l><r>naufragare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>be<g><b/>sorry</g><s n="vblex"/></l><r>dispiacere<s n="vblex"/></r></p></e>
     <e><p><l>be<g><b/>used<b/>to</g><s n="vblex"/></l><r>solere<s n="vblex"/></r></p></e>
-    <e><p><l>slow<g><b/>down</g><s n="vblex"/><s n="sep"/></l><r>rallentare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>slow<g><b/>down</g><s n="vblex"/><s n="sep"/></l><r>rallentare<s n="vblex"/></r></p></e>
     <e><p><l>take<g><b/>into<b/>account</g><s n="vblex"/><s n="sep"/></l><r>mettere<g><b/>in<b/>conto</g><s n="vblex"/></r></p></e>
     <e r="LR"><p><l>take<g><b/>advantage<b/>of</g><s n="vblex"/></l><r>usufruire<g><b/>di</g><s n="vblex"/></r></p></e>
     <e r="LR"><p><l>be<g><b/>very<b/>sorry</g><s n="vblex"/></l><r>dispiacere<g><b/>molto</g><s n="vblex"/></r></p></e>
@@ -22747,7 +22750,7 @@
     <e r="LR"><p><l>bow<s n="vblex"/></l><r>inclinare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>bend<vblex></l><r>inclinare<vblex></r></e>).-->
     <e><p><l>boycott<s n="vblex"/></l><r>boicottare<s n="vblex"/></r></p></e>
     <e><p><l>brake<s n="vblex"/></l><r>frenare<s n="vblex"/></r></p></e>
-    <e><p><l>brave<s n="vblex"/></l><r>affrontare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>brave<s n="vblex"/></l><r>affrontare<s n="vblex"/></r></p></e>
     <e><p><l>break<s n="vblex"/></l><r>rompere<s n="vblex"/></r></p></e>
     <e><p><l>breathe<s n="vblex"/></l><r>respirare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>breed<s n="vblex"/></l><r>generare<s n="vblex"/></r></p></e>
@@ -23500,7 +23503,7 @@
     <e><p><l>initiate<s n="vblex"/></l><r>avviare<s n="vblex"/></r></p></e>
     <e><p><l>inject<s n="vblex"/></l><r>iniettare<s n="vblex"/></r></p></e>
     <e><p><l>injure<s n="vblex"/></l><r>ferire<s n="vblex"/></r></p></e>
-    <e><p><l>inscribe<s n="vblex"/></l><r>inscrivere<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>inscribe<s n="vblex"/></l><r>inscrivere<s n="vblex"/></r></p></e>
     <e><p><l>insert<s n="vblex"/></l><r>inserire<s n="vblex"/></r></p></e>
     <e><p><l>insinuate<s n="vblex"/></l><r>insinuare<s n="vblex"/></r></p></e>
     <e><p><l>insist<s n="vblex"/></l><r>insistere<s n="vblex"/></r></p></e>
