@@ -22609,9 +22609,14 @@
     <e><p><l>await<s n="vblex"/></l><r>aspettare<s n="vblex"/></r></p></e>
     <e><p><l>awake<s n="vblex"/></l><r>svegliare<s n="vblex"/></r></p></e>
     <e><p><l>awaken<s n="vblex"/></l><r>risvegliare<s n="vblex"/></r></p></e>
+    <e><p><l>shoe<s n="vblex"/></l><r>ferrare<s n="vblex"/></r></p></e>
+    <e><p><l>space<s n="vblex"/></l><r>spaziare<s n="vblex"/></r></p></e>
+    <e><p><l>spell<s n="vblex"/></l><r>compitare<s n="vblex"/></r></p></e>
+    <e><p><l>grease<s n="vblex"/></l><r>ungere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>award<s n="vblex"/></l><r>conferire<s n="vblex"/></r></p></e>
-    <e r="LR" slr="difendere D"><p><l>back<s n="vblex"/></l><r>difendere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>advocate<vblex></l><r>difendere<vblex></r></e>).-->
-    <e r="RL" slr="appoggiare"><p><l>back<s n="vblex"/></l><r>appoggiare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>back<vblex></l><r>difendere<vblex></r></e>).-->
+    <e r="LR" slr="difendere D"><p><l>back<s n="vblex"/></l><r>difendere<s n="vblex"/></r></p></e>
+    <e r="RL" slr="appoggiare"><p><l>back<s n="vblex"/></l><r>appoggiare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>second<s n="vblex"/></l><r>appoggiare<s n="vblex"/></r></p></e>
     <e r="RL" slr="puntare"><p><l>back<s n="vblex"/></l><r>puntare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>back<vblex></l><r>difendere<vblex></r></e>).-->
     <e r="RL" slr="lanciare"><p><l>back<s n="vblex"/></l><r>lanciare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>back<vblex></l><r>difendere<vblex></r></e>).-->
     <e r="LR"><p><l>baffle<s n="vblex"/></l><r>sconcertare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>abash<vblex></l><r>sconcertare<vblex></r></e>).-->
@@ -24041,6 +24046,7 @@
     <e r="LR"><p><l>seem<g><b/>like</g><s n="vblex"/></l><r>sembrare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>seize<s n="vblex"/></l><r>confiscare<s n="vblex"/></r></p></e>
     <e><p><l>seduce<s n="vblex"/></l><r>sedurre<s n="vblex"/></r></p></e>
+    <e><p><l>satiate<s n="vblex"/></l><r>saziare<s n="vblex"/></r></p></e>
     <e><p><l>sell<s n="vblex"/></l><r>vendere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>send<s n="vblex"/></l><r>inviare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>forward<vblex></l><r>inviare<vblex></r></e>).-->
     <e r="LR"><p><l>send<g><b/>in</g><s n="vblex"/></l><r>inviare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>forward<vblex></l><r>inviare<vblex></r></e>).-->
@@ -24061,8 +24067,10 @@
     <e><p><l>shine<s n="vblex"/></l><r>brillare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>ship<s n="vblex"/></l><r>imbarcare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>embark<vblex></l><r>imbarcare<vblex></r></e>).-->
     <e><p><l>shit<s n="vblex"/></l><r>cacare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>shout<s n="vblex"/></l><r>gridare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>cry<vblex></l><r>gridare<vblex></r></e>).-->
-    <e r="LR"><p><l>show<s n="vblex"/></l><r>dimostrare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>demonstrate<vblex></l><r>dimostrare<vblex></r></e>).-->
+    <e r="LR"><p><l>shout<s n="vblex"/></l><r>gridare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>scream<s n="vblex"/></l><r>gridare<s n="vblex"/></r></p></e>
+    <e><p><l>slacken<s n="vblex"/></l><r>allentare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>show<s n="vblex"/></l><r>dimostrare<s n="vblex"/></r></p></e>
     <e i="yes"><p><l>show<s n="vblex"/></l><r>mostrare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>display<vblex></l><r>mostrare<vblex></r></e>).-->
     <e r="LR"><p><l>show<g><b/>up</g><s n="vblex"/></l><r>apparire<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>shower<s n="vblex"/></l><r>piovere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>rain<vblex></l><r>piovere<vblex></r></e>).-->
