@@ -22641,6 +22641,11 @@
     <e><p><l>suggest<s n="vblex"/></l><r>suggerire<s n="vblex"/></r></p></e>
     <e><p><l>suppress<s n="vblex"/></l><r>sopprimere<s n="vblex"/></r></p></e>
     <e><p><l>swing<s n="vblex"/></l><r>oscillare<s n="vblex"/></r></p></e>
+    <e><p><l>shorten<s n="vblex"/></l><r>accorciare<s n="vblex"/></r></p></e>
+    <e><p><l>shudder<s n="vblex"/></l><r>rabbrividire<s n="vblex"/></r></p></e>
+    <e><p><l>skate<s n="vblex"/></l><r>pattinare<s n="vblex"/></r></p></e>
+    <e><p><l>slow<s n="vblex"/></l><r>rallentare<s n="vblex"/></r></p></e>
+    <e><p><l>soften<s n="vblex"/></l><r>ammorbidire<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>award<s n="vblex"/></l><r>conferire<s n="vblex"/></r></p></e>
     <e r="LR" slr="difendere D"><p><l>back<s n="vblex"/></l><r>difendere<s n="vblex"/></r></p></e>
     <e r="RL" slr="appoggiare"><p><l>back<s n="vblex"/></l><r>appoggiare<s n="vblex"/></r></p></e>
@@ -22746,6 +22751,7 @@
     <e><p><l>rot<s n="vblex"/></l><r>marcire<s n="vblex"/></r></p></e>
     <e><p><l>scare<s n="vblex"/></l><r>spaventare<s n="vblex"/></r></p></e>
     <e><p><l>seal<s n="vblex"/></l><r>sigillare<s n="vblex"/></r></p></e>
+    <e><p><l>rebound<s n="vblex"/></l><r>rimbalzare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>bring<g><b/>together</g><s n="vblex"/><s n="sep"/></l><r>riunire<s n="vblex"/></r></p></e>
     <e><p><l>broaden<s n="vblex"/></l><r>ampliare<s n="vblex"/></r></p></e>
     <e><p><l>brush<s n="vblex"/></l><r>spazzolare<s n="vblex"/></r></p></e>
@@ -23212,7 +23218,9 @@
     <e r="RL"><p><l>establish<s n="vblex"/></l><r>instaurare<s n="vblex"/></r></p></e>
     <e><p><l>estimate<s n="vblex"/></l><r>stimare<s n="vblex"/></r></p></e>
     <e><p><l>evacuate<s n="vblex"/></l><r>evacuare<s n="vblex"/></r></p></e>
+    <e><p><l>sin<s n="vblex"/></l><r>peccare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>evade<s n="vblex"/></l><r>evitare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>shun<s n="vblex"/></l><r>evitare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>evaluate<s n="vblex"/></l><r>valutare<s n="vblex"/></r></p></e>
     <e><p><l>evaporate<s n="vblex"/></l><r>evaporare<s n="vblex"/></r></p></e>
     <e><p><l>evoke<s n="vblex"/></l><r>evocare<s n="vblex"/></r></p></e>
@@ -23323,7 +23331,7 @@
     <e><p><l>freeze<s n="vblex"/></l><r>congelare<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>freeze<s n="vblex"/></l><r>gelare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>freeze<vblex></l><r>congelare<vblex></r></e>).-->
     <e r="LR"><p><l>freshen<s n="vblex"/></l><r>rinfrescare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>cool<vblex></l><r>rinfrescare<vblex></r></e>).-->
-    <e><p><l>frighten<s n="vblex"/></l><r>spaventare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>frighten<s n="vblex"/></l><r>spaventare<s n="vblex"/></r></p></e>
     <e><p><l>frustrate<s n="vblex"/></l><r>frustrare<s n="vblex"/></r></p></e>
     <e><p><l>fry<s n="vblex"/></l><r>friggere<s n="vblex"/></r></p></e>
     <e><p><l>fuck<s n="vblex"/></l><r>scopare<s n="vblex"/></r></p></e>
@@ -23838,11 +23846,10 @@
     <e><p><l>pick<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>captare<s n="vblex"/></r></p></e>
     <e><p><l>pilot<s n="vblex"/></l><r>pilotare<s n="vblex"/></r></p></e>
     <e><p><l>pin<s n="vblex"/></l><r>appuntare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>pioneer<s n="vblex"/></l><r>avviare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>initiate<vblex></l><r>avviare<vblex></r></e>).-->
+    <e r="LR"><p><l>pioneer<s n="vblex"/></l><r>avviare<s n="vblex"/></r></p></e>
     <e><p><l>pirate<s n="vblex"/></l><r>predare<s n="vblex"/></r></p></e>
     <e><p><l>pity<s n="vblex"/></l><r>compatire<s n="vblex"/></r></p></e>
     <e><p><l>place<s n="vblex"/></l><r>disporre<s n="vblex"/></r></p></e>
-    <e i="yes"><p><l>place<s n="vblex"/></l><r>collocare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>dispose<vblex></l><r>collocare<vblex></r></e>).-->
     <e><p><l>plagiarise<s n="vblex"/></l><r>plagiare<s n="vblex"/></r></p></e>
     <e><p><l>plan<s n="vblex"/></l><r>pianificare<s n="vblex"/></r></p></e>
     <e><p><l>plant<s n="vblex"/></l><r>piantare<s n="vblex"/></r></p></e>
