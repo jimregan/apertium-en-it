@@ -26709,6 +26709,8 @@
     <e lm="tear"><i>t</i><par n="sw/ear__vblex"/>    </e>
     <e lm="take off"><i>t</i><par n="t/ake__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>off</l><r><g><b/>off</g></r></p></e>
     <e lm="take out"><i>t</i><par n="t/ake__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>out</l><r><g><b/>out</g></r></p></e>
+    <e lm="strike out"><i>t</i><par n="str/ike__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>out</l><r><g><b/>out</g></r></p></e>
+    <e lm="cross out"><i>cross</i><par n="approach__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="take care"><i>t</i><par n="t/ake__vblex"/>      <p>        <l><b/>care</l><r><g><b/>care</g></r></p></e>
     <e lm="take part"><i>t</i><par n="t/ake__vblex"/>      <p>        <l><b/>part</l><r><g><b/>part</g></r></p></e>
     <e lm="take place"><i>t</i><par n="t/ake__vblex"/>      <p>        <l><b/>place</l><r><g><b/>place</g></r></p></e>
@@ -33308,6 +33310,7 @@
 <e lm="(x)th-(y)th centuries (AD|BC)"><par n="ordinals-century"/><i>-</i><par n="ordinals-century"/><i><b/>centuries</i><par n="BC"/><i/><par n="personnel__n"/></e>
 
 <e lm="be sorry"><i/><par n="/be__vblex"/><p><l><b/>sorry</l><r><g><b/>sorry</g></r></p></e>
+<e lm="be enough"><i/><par n="/be__vblex"/><p><l><b/>enough</l><r><g><b/>enough</g></r></p></e>
 
 <e lm="be very sorry"><i/><par n="/be__vblex"/><p><l><b/>very<b/>sorry</l><r><g><b/>very<b/>sorry</g></r></p></e>
 
