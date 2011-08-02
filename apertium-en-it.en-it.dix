@@ -20915,7 +20915,18 @@
     <e r="LR"><p><l>voucher<s n="n"/></l><r>buono<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>coupon<n></l><r>buono<n><m></r></e>).-->
     <e><p><l>vowel<s n="n"/></l><r>vocale<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>voyage<s n="n"/></l><r>viaggio<s n="n"/><s n="m"/></r></p></e>
-    <e i="yes"><p><l>voyager<s n="n"/></l><r>viaggiatore<s n="n"/></r></p></e><!--  autorestricted (<e r="RL"><l>traveller<n></l><r>viaggiatore<n></r></e>).-->
+    <e r="LR"><p><l>voyager<s n="n"/></l><r>viaggiatore<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>velleity<s n="n"/></l><r>velleità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>culpability<s n="n"/></l><r>culpabilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>vulgarity<s n="n"/></l><r>volgarità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e r="RL"><p><l>vulgarity<s n="n"/></l><r>vulgarità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>similarity<s n="n"/></l><r>similarità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>universality<s n="n"/></l><r>universalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>volatile<s n="adj"/></l><r>volatile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>volatility<s n="n"/></l><r>volatilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>confidentiality<s n="n"/></l><r>confidenzialità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e r="RL"><p><l>stranger<s n="n"/></l><r>sconosciuto<s n="n"/></r></p></e>
+    <e r="LR"><p><l>stranger<s n="n"/></l><r>sconosciuto<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>voyeurism<s n="n"/></l><r>voyeurismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vulcanism<s n="n"/></l><r>vulcanismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vulcanology<s n="n"/></l><r>vulcanologia<s n="n"/><s n="f"/></r></p></e>
@@ -23338,6 +23349,7 @@
     <e r="RL"><p><l>highlight<s n="vblex"/></l><r>evidenziare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>highlight<vblex></l><r>distaccare<vblex></r></e>).-->
     <e r="LR"><p><l>hinder<s n="vblex"/></l><r>impacciare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>hamper<vblex></l><r>impacciare<vblex></r></e>).-->
     <e><p><l>hire<s n="vblex"/></l><r>affittare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>hire<g><b/>out</g><s n="vblex"/></l><r>affittare<s n="vblex"/></r></p></e>
     <e><p><l>hit<s n="vblex"/></l><r>incollare<s n="vblex"/></r></p></e>
     <e><p><l>hold<s n="vblex"/></l><r>tenere<s n="vblex"/></r></p></e>
     <e><p><l>honour<s n="vblex"/></l><r>onorare<s n="vblex"/></r></p></e>
