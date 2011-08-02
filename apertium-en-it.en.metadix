@@ -22862,7 +22862,8 @@
     <e lm="watchmaking"><i>watchmaking</i><par n="house__n"/>    </e>
     <e lm="watchtower"><i>watchtower</i><par n="house__n"/>    </e>
     <e lm="water"><i>water</i><par n="house__n"/>    </e>
-    <e lm="running water"><i>running<b/>water</i><par n="east__n"/>    </e>
+    <e lm="inlet"><i>inlet</i><par n="house__n"/>    </e>
+    <e lm="running water"><i>running<b/>water</i><par n="house__n"/>    </e>
     <e lm="watercolour"><i>watercol</i><par n="col/our__n"/>    </e>
     <e lm="watering"><i>watering</i><par n="house__n"/>    </e>
     <e lm="watermelon"><i>watermelon</i><par n="house__n"/>    </e>
@@ -24736,6 +24737,17 @@
     <e lm="single"><i>single</i><par n="house__n"/>    </e>
     <e lm="mutualist"><i>mutualist</i><par n="house__n"/>    </e>
     <e lm="isolationist"><i>isolationist</i><par n="house__n"/>    </e>
+    <e lm="futurist"><i>futurist</i><par n="house__n"/>    </e>
+    <e lm="inflationist"><i>inflationist</i><par n="house__n"/>    </e>
+    <e lm="irrationalist"><i>irrationalist</i><par n="house__n"/>    </e>
+    <e lm="fetishist"><i>fetishist</i><par n="house__n"/>    </e>
+    <e lm="fatalist"><i>fatalist</i><par n="house__n"/>    </e>
+    <e lm="elitist"><i>elitist</i><par n="house__n"/>    </e>
+    <e lm="empiricist"><i>empiricist</i><par n="house__n"/>    </e>
+    <e lm="expansionist"><i>expansionist</i><par n="house__n"/>    </e>
+    <e lm="determinist"><i>determinist</i><par n="house__n"/>    </e>
+    <e lm="centralist"><i>centralist</i><par n="house__n"/>    </e>
+    <e lm="chauvinist"><i>chauvinist</i><par n="house__n"/>    </e>
     <e lm="singular"><i>singular</i><par n="expensive__adj"/>    </e>
     <e lm="sinister"><i>sinister</i><par n="expensive__adj"/>    </e>
     <e lm="skeptical"><i>skeptical</i><par n="expensive__adj"/>    </e>
@@ -25542,6 +25554,7 @@
     <e lm="compact"><i>compact</i><par n="accept__vblex"/>    </e>
     <e lm="compare"><i>compar</i><par n="liv/e__vblex"/>    </e>
     <e lm="compensate"><i>compensat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="recompensate"><i>recompensat</i><par n="liv/e__vblex"/>    </e>
     <e lm="compete"><i>compet</i><par n="liv/e__vblex"/>    </e>
     <e lm="complement"><i>complement</i><par n="accept__vblex"/>    </e>
     <e lm="complete"><i>complet</i><par n="liv/e__vblex"/>    </e>
@@ -25835,6 +25848,8 @@
     <e lm="erode"><i>erod</i><par n="liv/e__vblex"/>    </e>
     <e lm="escape"><i>escap</i><par n="liv/e__vblex"/>    </e>
     <e lm="establish"><i>establish</i><par n="approach__vblex"/>    </e>
+    <e lm="reestablish"><i>reestablish</i><par n="approach__vblex"/>    </e>
+    <e lm="redimension"><i>redimension</i><par n="accept__vblex"/>    </e>
     <e lm="estimate"><i>estimat</i><par n="liv/e__vblex"/>    </e>
     <e lm="evacuate"><i>evacuat</i><par n="liv/e__vblex"/>    </e>
     <e lm="evade"><i>evad</i><par n="liv/e__vblex"/>    </e>
@@ -27950,6 +27965,8 @@
     <e lm="as"><i>as</i><par n="at__pr"/>    </e>
     <e lm="as a"><i>as<b/>a</i><par n="at__pr"/>    </e>
     <e lm="as a result of"><i>as<b/>a<b/>result<b/>of</i><par n="at__pr"/>    </e>
+    <e lm="at the sight of"><i>at<b/>the<b/>sight<b/>of</i><par n="at__pr"/>    </e>
+    <e lm="in hope of"><i>in<b/>hope<b/>of</i><par n="at__pr"/>    </e>
     <e lm="as for"><i>as<b/>for</i><par n="at__pr"/>    </e>
     <e lm="as regards"><i>as<b/>regards</i><par n="at__pr"/>    </e>
     <e lm="with regard to"><i>with<b/>regard<b/>to</i><par n="at__pr"/>    </e>
@@ -34031,6 +34048,7 @@
     <e lm="video game" r="LR"><p><l>videogame</l><r>video<b/>game</r></p><par n="house__n"/></e>
     <e lm="follower" a="greenbreen"><i>follower</i><par n="house__n"/></e>
     <e lm="Vatican" a="greenbreen"><i>Vatican</i><par n="Barcelona__np"/></e>
+    <e lm="Vatican City"><i>Vatican<b/>City</i><par n="Barcelona__np"/></e>
     <e lm="T-shirt" r="LR" a="greenbreen"><i>T-shirt</i><par n="house__n"/></e>
     <e lm="T-shirt" r="LR" a="greenbreen"><p><l>t-shirt</l><r>T-shirt</r></p><par n="house__n"/></e>
     <e lm="T-shirt" r="RL" a="greenbreen"><p><l>T-shirt</l><r>t-shirt</r></p><par n="house__n"/></e>
