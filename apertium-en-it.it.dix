@@ -88496,6 +88496,7 @@
     <e lm="decimale"><i>decimal</i><par n="abat/e__n"/></e>
     <e lm="cellulare"><i>cellular</i><par n="abat/e__n"/></e>
     <e lm="precedente"><i>precedent</i><par n="abat/e__n"/></e>
+    <e lm="precedente"><i>precedent</i><par n="albanes/e__adj"/></e>
     <e lm="cotile"><i>cotil</i><par n="abat/e__n"/></e>
     <e lm="carnevale"><i>carneval</i><par n="abat/e__n"/></e>
     <e lm="interruzione"><i>interruzion</i><par n="abbreviazion/e__n"/></e>
@@ -91913,6 +91914,7 @@
     <e lm="c&apos;è"><p><l>c&apos;è</l><r>c&apos;è<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="c&apos;è"><p><l>ci<b/>sono</l><r>c&apos;è<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
     <e lm="abbandonare"><i>abbandon</i><par n="abbacin/are__vblex"/></e>
+    <e lm="bronzare"><i>bronz</i><par n="abbacin/are__vblex"/></e>
     <e lm="abbassare"><i>abbass</i><par n="abbacin/are__vblex"/></e>
     <e lm="abbattere"><i>abbatt</i><par n="abbatt/ere__vblex"/></e>
     <e lm="dibattere"><i>dibatt</i><par n="abbatt/ere__vblex"/></e>
@@ -92435,6 +92437,7 @@
     <e lm="escogitare"><i>escogit</i><par n="abbacin/are__vblex"/></e>
     <e lm="disabilitare"><i>disabilit</i><par n="abbacin/are__vblex"/></e>
     <e lm="disgustare"><i>disgust</i><par n="abbacin/are__vblex"/></e>
+    <e lm="quadrare"><i>quadr</i><par n="abbacin/are__vblex"/></e>
     <e lm="attenuare"><i>attenu</i><par n="abbacin/are__vblex"/></e>
     <e lm="editare"><i>edit</i><par n="abbacin/are__vblex"/></e>
     <e lm="esasperare"><i>esasper</i><par n="abbacin/are__vblex"/></e>
@@ -92445,6 +92448,10 @@
     <e lm="rifare"><i>rif</i><par n="assuef/are__vblex"/></e>
     <e lm="fare possibile"><i>f</i><par n="f/are__vblex"/><p><l><b/>possibile</l><r><g><b/>possibile</g></r></p></e>
     <e lm="fare possibile"><i>f</i><par n="assuef/are__vblex"/><p><l><b/>possibile</l><r><g><b/>possibile</g></r></p></e>
+    <e lm="fare impazzire"><i>f</i><par n="f/are__vblex"/><p><l><b/>impazzire</l><r><g><b/>impazzire</g></r></p></e>
+    <e lm="fare impazzire"><i>f</i><par n="assuef/are__vblex"/><p><l><b/>impazzire</l><r><g><b/>impazzire</g></r></p></e>
+    <e lm="fare rima"><i>f</i><par n="f/are__vblex"/><p><l><b/>rima</l><r><g><b/>rima</g></r></p></e>
+    <e lm="fare rima"><i>f</i><par n="assuef/are__vblex"/><p><l><b/>rima</l><r><g><b/>rima</g></r></p></e>
     <e lm="fare soldi"><i>f</i><par n="f/are__vblex"/><p><l><b/>soldi</l><r><g><b/>soldi</g></r></p></e>
     <e lm="fare soldi"><i>f</i><par n="assuef/are__vblex"/><p><l><b/>soldi</l><r><g><b/>soldi</g></r></p></e>
     <e lm="fare un errore"><i>f</i><par n="f/are__vblex"/><p><l><b/>un<b/>errore</l><r><g><b/>un<b/>errore</g></r></p></e>
@@ -95901,6 +95908,7 @@
     <e lm="defraudare"><i>defraud</i><par n="abbacin/are__vblex"/></e>
     <e lm="delimitare"><i>delimit</i><par n="abbacin/are__vblex"/></e>
     <e lm="deprezzare"><i>deprezz</i><par n="abbacin/are__vblex"/></e>
+    <e lm="prezzare"><i>prezz</i><par n="abbacin/are__vblex"/></e>
     <e lm="dettare"><i>dett</i><par n="abbacin/are__vblex"/></e>
     <e lm="discordare"><i>discord</i><par n="abbacin/are__vblex"/></e>
     <e lm="disertare"><i>disert</i><par n="abbacin/are__vblex"/></e>
@@ -98139,6 +98147,8 @@
     <e lm="similarità"><i>similarità</i><par n="abilità__n"/></e>
     <e lm="universalità"><i>universalità</i><par n="abilità__n"/></e>
     <e lm="volatilità"><i>volatilità</i><par n="abilità__n"/></e>
+    <e lm="confidenzialità"><i>confidenzialità</i><par n="abilità__n"/></e>
+    <e lm="territorialità"><i>territorialità</i><par n="abilità__n"/></e>
     <e lm="tensore"><i>tensor</i><par n="abat/e__n"/></e>
     <e lm="terrore"><i>terror</i><par n="abat/e__n"/></e>
     <e lm="termistore"><i>termistor</i><par n="abat/e__n"/></e>

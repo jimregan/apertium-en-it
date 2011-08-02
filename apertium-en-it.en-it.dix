@@ -2715,8 +2715,7 @@
     <e r="LR"><p><l>similar<s n="adj"/></l><r>simile<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>alike<adj></l><r>simile<adj><mf></r></e>).-->
     <e r="LR"><p><l>simple<s n="adj"/><s n="sint"/></l><r>semplice<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>facile<adj></l><r>semplice<adj><mf></r></e>).-->
     <e><p><l>simultaneous<s n="adj"/></l><r>simultaneo<s n="adj"/></r></p></e>
-    <e><p><l>sincere<s n="adj"/></l><r>sincero<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>sincere<s n="adj"/><s n="sint"/></l><r>sincero<s n="adj"/></r></p></e><!--  autorestricted (<e><l>sincere<adj></l><r>sincero<adj></r></e>).-->
+    <e><p><l>sincere<s n="adj"/><s n="sint"/></l><r>sincero<s n="adj"/></r></p></e>
     <e><p><l>sindical<s n="adj"/></l><r>sindacale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>singing<s n="adj"/></l><r>cantante<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>single<s n="adj"/></l><r>solo<s n="adj"/></r></p></e><!--  autorestricted (<e><l>alone<adj></l><r>solo<adj></r></e>).-->
@@ -18647,6 +18646,7 @@
     <e><p><l>preaching<s n="n"/></l><r>predicazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>precedence<s n="n"/></l><r>precedenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>precedent<s n="n"/></l><r>precedente<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>precedent<s n="adj"/></l><r>precedente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>reunion<s n="n"/></l><r>ricongiungimento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>recourse<s n="n"/></l><r>ricorso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>precipice<s n="n"/></l><r>precipizio<s n="n"/><s n="m"/></r></p></e>
@@ -20925,6 +20925,7 @@
     <e><p><l>volatile<s n="adj"/></l><r>volatile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>volatility<s n="n"/></l><r>volatilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>confidentiality<s n="n"/></l><r>confidenzialità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>territoriality<s n="n"/></l><r>territorialità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e r="RL"><p><l>stranger<s n="n"/></l><r>sconosciuto<s n="n"/></r></p></e>
     <e r="LR"><p><l>stranger<s n="n"/></l><r>sconosciuto<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>voyeurism<s n="n"/></l><r>voyeurismo<s n="n"/><s n="m"/></r></p></e>
@@ -22426,6 +22427,11 @@
     <e r="LR"><p><l>reach<g><b/>for</g><s n="vblex"/></l><r>prendere<s n="vblex"/></r></p></e>
     <e><p><l>reinstate<s n="vblex"/></l><r>ristabilire<s n="vblex"/></r></p></e>
     <e><p><l>repel<s n="vblex"/></l><r>repellere<s n="vblex"/></r></p></e>
+    <e><p><l>bronze<s n="vblex"/></l><r>bronzare<s n="vblex"/></r></p></e>
+    <e><p><l>price<s n="vblex"/></l><r>prezzare<s n="vblex"/></r></p></e>
+    <e><p><l>madden<s n="vblex"/></l><r>fare<g><b/>impazzire</g><s n="vblex"/></r></p></e>
+    <e><p><l>rhyme<s n="vblex"/></l><r>fare<g><b/>rima</g><s n="vblex"/></r></p></e>
+    <e><p><l>square<s n="vblex"/></l><r>quadrare<s n="vblex"/></r></p></e>
     <e><p><l>schedule<s n="vblex"/></l><r>pianificare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>shiver<s n="vblex"/></l><r>tremare<s n="vblex"/></r></p></e>
     <e><p><l>shock<s n="vblex"/></l><r>impressionare<s n="vblex"/></r></p></e>
