@@ -1568,7 +1568,7 @@
     <e><p><l>germanic<s n="adj"/></l><r>germanico<s n="adj"/></r></p></e>
     <e><p><l>germinal<s n="adj"/></l><r>germinale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>gestural<s n="adj"/></l><r>gestuale<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>giant<s n="adj"/></l><r>gigante<s n="adj"/></r></p></e>
+    <e><p><l>giant<s n="adj"/></l><r>gigante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>gigantic<s n="adj"/></l><r>gigantesco<s n="adj"/></r></p></e>
     <e><p><l>gingival<s n="adj"/></l><r>gengivale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>glacial<s n="adj"/></l><r>glaciale<s n="adj"/><s n="mf"/></r></p></e>
@@ -2739,7 +2739,7 @@
     <e><p><l>solar<s n="adj"/></l><r>solare<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>sole<s n="adj"/></l><r>unico<s n="adj"/></r></p></e><!--  autorestricted (<e><l>only<adj></l><r>unico<adj></r></e>).-->
     <e><p><l>solemn<s n="adj"/></l><r>solenne<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>solid<s n="adj"/></l><r>solido<s n="adj"/></r></p></e>
+    <e><p><l>solid<s n="adj"/><s n="sint"/></l><r>solido<s n="adj"/></r></p></e>
     <e r="LR"><p><l>solitary<s n="adj"/></l><r>solitario<s n="adj"/></r></p></e><!--  autorestricted (<e><l>lonely<adj></l><r>solitario<adj></r></e>).-->
     <e><p><l>soluble<s n="adj"/></l><r>solubile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>solvent<s n="adj"/></l><r>solvente<s n="adj"/><s n="mf"/></r></p></e>
@@ -14098,7 +14098,7 @@
     <e r="RL"><p><l>chocolate<s n="n"/></l><r>cioccolatino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>choice<s n="n"/></l><r>elezione<s n="n"/><s n="f"/></r></p></e>
     <e srl="choir D"><p><l>choir<s n="n"/></l><r>coro<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>cholera<s n="n"/></l><r>collera<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cholera<s n="n"/></l><r>colera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cholesterol<s n="n"/></l><r>colesterolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>choline<s n="n"/></l><r>colina<s n="n"/><s n="f"/></r></p></e>
     <e c="check"><p><l>choral<s n="n"/></l><r>corallo<s n="n"/><s n="m"/></r></p></e>
@@ -17161,7 +17161,8 @@
     <e><p><l>link<s n="n"/></l><r>collegamento<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>link<s n="n"/></l><r>tramite<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>linkage<s n="n"/></l><r>connessione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>linoleum<s n="n"/></l><r>linoleum<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>linoleum<s n="n"/><s n="sg"/></l><r>linoleum<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>linoleum<s n="n"/><s n="pl"/></l><r>linoleum<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>lion<s n="n"/></l><r>leone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lioness<s n="n"/></l><r>leone<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lip<s n="n"/><s n="sg"/></l><r>labbro<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -24404,6 +24405,7 @@
     <e r="LR"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="nt"/></r></p></e>
     <e r="RL" c="he posat com a traducció per defecte de 'li' him, també pot ser 'her' o 'it'- revisar"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
