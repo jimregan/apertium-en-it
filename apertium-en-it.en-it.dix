@@ -273,7 +273,7 @@
     <e r="LR" c="'as much time'. Cal afegir també 'as many'?"><p><l>as<b/>much<s n="det"/><s n="qnt"/></l><r>tanto<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>both<s n="det"/><s n="ind"/><s n="pl"/></l><r>entrambi<b/>i<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>both<s n="det"/><s n="ind"/></l><r>entrambi<b/>i<s n="det"/><s n="ind"/><s n="GD"/><s n="pl"/></r></p></e>
-    <e lm="LR"><p><l>diverse<s n="adj"/></l><r>diverso<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e lm="LR"><p><l>diverse<s n="adj"/></l><r>diverso<s n="adj"/></r></p></e>
     <e c="té polisèmia amb 'every', però no he posat marca de polisèmia"><p><l>each<s n="det"/><s n="ind"/></l><r>ogni<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
     <e r="RL" c="té polisèmia amb 'every', però no he posat marca de polisèmia"><p><l>each<s n="det"/><s n="ind"/></l><r>ciascuno<s n="det"/><s n="ind"/><s n="m"/></r></p></e>
     <e r="RL" c="té polisèmia amb 'every', però no he posat marca de polisèmia"><p><l>each<s n="det"/><s n="ind"/></l><r>ciascuno<s n="det"/><s n="ind"/><s n="f"/></r></p></e>
@@ -474,6 +474,8 @@
     <e><p><l>abdominal<s n="adj"/></l><r>addominale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>aberrant<s n="adj"/></l><r>aberrante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>able<s n="adj"/><s n="sint"/></l><r>capace<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>oily<s n="adj"/><s n="sint"/></l><r>unto<s n="adj"/></r></p></e>
+    <e><p><l>tidy<s n="adj"/><s n="sint"/></l><r>ordinato<s n="adj"/></r></p></e>
     <e><p><l>abnormal<s n="adj"/></l><r>anormale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>absent<s n="adj"/></l><r>assente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>absolute<s n="adj"/></l><r>assoluto<s n="adj"/></r></p></e>
@@ -1475,6 +1477,10 @@
     <e><p><l>morphogenetic<s n="adj"/></l><r>morfogenetico<s n="adj"/></r></p></e>
     <e><p><l>planetary<s n="adj"/></l><r>planetario<s n="adj"/></r></p></e>
     <e><p><l>venetian<s n="adj"/></l><r>veneziano<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>venetian<s n="n"/></l><r>veneziano<s n="n"/></r></p></e>
+    <e r="LR"><p><l>venetian<s n="n"/></l><r>veneziano<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>vietnamese<s n="n"/></l><r>vietnamita<s n="n"/></r></p></e>
+    <e r="LR"><p><l>vietnamese<s n="n"/></l><r>vietnamita<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>millionaire<s n="adj"/></l><r>milionario<s n="adj"/></r></p></e>
     <e r="RL"><p><l>millionaire<s n="n"/></l><r>milionario<s n="n"/></r></p></e>
     <e r="LR"><p><l>millionaire<s n="n"/></l><r>milionario<s n="n"/><s n="GD"/></r></p></e>
@@ -3347,6 +3353,7 @@
     <e><p><l>satisfied<s n="adj"/></l><r>soddisfatto<s n="adj"/></r></p></e>
     <e><p><l>saxon<s n="adj"/></l><r>sassone<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>saxon<s n="n"/></l><r>sassone<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>anemograph<s n="n"/></l><r>anemografo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>scandinavian<s n="adj"/></l><r>scandinavo<s n="adj"/></r></p></e>
     <e><p><l>scarce<s n="adj"/></l><r>scarso<s n="adj"/></r></p></e>
     <e><p><l>scarlet<s n="adj"/></l><r>scarlatto<s n="adj"/></r></p></e>
@@ -12726,6 +12733,7 @@
     <e><p><l>advancement<s n="n"/></l><r>avanzamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>advantage<s n="n"/></l><r>vantaggio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>adventurer<s n="n"/></l><r>avventuriero<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>adventure<s n="n"/></l><r>avventura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>adverb<s n="n"/></l><r>avverbio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>advert<s n="n"/><s n="sg"/></l><r>pubblicità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>advert<s n="n"/><s n="pl"/></l><r>pubblicità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -12737,7 +12745,7 @@
     <e r="RL"><p><l>advertising<b/>agent<s n="n"/></l><r>pubblicitario<s n="n"/></r></p></e>
     <e><p><l>advice<s n="n"/></l><r>consiglio<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>advice<s n="n"/></l><r>consulenza<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>adviser<s n="n"/></l><r>consigliere<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>adviser<s n="n"/></l><r>consigliere<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>advocacy<s n="n"/></l><r>avvocatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aerodynamic<s n="n"/></l><r>aerodinamica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aerograph<s n="n"/></l><r>aerografo<s n="n"/><s n="m"/></r></p></e>
@@ -15262,7 +15270,7 @@
     <e><p><l>eardrum<s n="n"/></l><r>timpano<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>earl<s n="n"/></l><r>conte<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>earl<s n="n"/></l><r>conte<s n="n"/></r></p></e>
-    <e r="LR"><p><l>earnings<s n="n"/><s n="pl"/></l><r>entrata<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>earnings<s n="n"/><s n="pl"/></l><r>entrata<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>earring<s n="n"/></l><r>orecchino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>earth<s n="n"/></l><r>terra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>earthquake<s n="n"/></l><r>terremoto<s n="n"/><s n="m"/></r></p></e>
@@ -18416,9 +18424,8 @@
     <e r="RL"><p><l>pile<s n="n"/></l><r>mucchio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>pile<n></l><r>pila<n><f></r></e>).-->
     <e><p><l>pilgrimage<s n="n"/></l><r>pellegrinaggio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pillar<s n="n"/></l><r>pilastro<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>pilot<s n="n"/></l><r>pilota<s n="n"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>pilot<s n="n"/></l><r>pilota<s n="n"/></r></p></e>
-    <e i="yes"><p><l>pilot<s n="n"/></l><r>pilota<s n="n"/><s n="GD"/></r></p></e><!--  autorestricted (<e><l>pilot<n></l><r>pilota<n><mf></r></e>).-->
+    <e r="LR"><p><l>pilot<s n="n"/></l><r>pilota<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>pin<s n="n"/></l><r>spilla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pine<s n="n"/></l><r>pino<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>pioneer<s n="n"/></l><r>pioniere<s n="n"/><s n="GD"/></r></p></e>
@@ -20792,7 +20799,7 @@
     <e r="LR"><p><l>venezuelan<s n="n"/></l><r>venezuelano<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>venezuelan<s n="n"/></l><r>venezuelano<s n="n"/></r></p></e>
     <e><p><l>ventilation<s n="n"/></l><r>ventilazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>venture<s n="n"/></l><r>avventura<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>venture<s n="n"/></l><r>avventura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>venue<s n="n"/></l><r>locale<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>veracity<s n="n"/><s n="ND"/></l><r>veridicità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>veracity<s n="n"/><s n="sg"/></l><r>veridicità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>

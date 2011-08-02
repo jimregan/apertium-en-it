@@ -77110,7 +77110,6 @@
     <e lm="alcun"><i>alcun</i><par n="alcun__det"/></e>
     <!--<e lm="qualcun"><i>qualcun</i><par n="alcun__det"/></e>-->
     <e lm="certo"><i>cert</i><par n="cert/o__det"/></e>
-    <e lm="diverso"><i>divers</i><par n="vari/o__det"/></e>
     <e lm="il"><par n="/il__det"/></e>
     <e lm="il loro"><par n="/il_loro__det"/></e>
     <e lm="il mio"><par n="/il_mio__det"/></e>
@@ -84690,6 +84689,7 @@
     <e lm="etimo"><i>etim</i><par n="abbain/o__n"/></e>
     <e lm="prestito"><i>prestit</i><par n="abbain/o__n"/></e>
     <e lm="telaio"><i>telai</i><par n="abbagli/o__n"/></e>
+    <e lm="disagio"><i>disagi</i><par n="abbagli/o__n"/></e>
     <e lm="trapezio"><i>trapezi</i><par n="abbagli/o__n"/></e>
     <e lm="antalgico"><i>antalgic</i><par n="abbagli/o__n"/></e>
     <e lm="analgesico"><i>analgesic</i><par n="abbagli/o__n"/></e>
@@ -84753,6 +84753,7 @@
     <e lm="comunità internazionale"><i>comunità<b/>internazional</i><par n="abbreviazion/e__n"/></e>
     <e lm="abbece"><i>abbec</i><par n="abbreviazion/e__n"/></e>
     <e lm="turchese"><i>turches</i><par n="albanes/e__n"/></e>
+    <e lm="combattente"><i>combattent</i><par n="albanes/e__n"/></e>
     <e lm="ufficiale"><i>ufficial</i><par n="albanes/e__n"/></e>
     <e lm="solitudine"><i>solitudin</i><par n="abbreviazion/e__n"/></e>
     <e lm="similitudine"><i>similitudin</i><par n="abbreviazion/e__n"/></e>
@@ -90261,6 +90262,7 @@
     <e lm="penalità"><i>penalità</i><par n="abilità__n"/></e>
     <e lm="penitenziario"><i>penitenziari</i><par n="abbagli/o__n"/></e>
     <e lm="tirocinio"><i>tirocini</i><par n="abbagli/o__n"/></e>
+    <e lm="attinio"><i>attini</i><par n="abbagli/o__n"/></e>
     <e lm="pericolosità"><i>pericolosità</i><par n="abilità__n"/></e>
     <e lm="periodicità"><i>periodicità</i><par n="abilità__n"/></e>
     <e lm="permeabilità"><i>permeabilità</i><par n="abilità__n"/></e>
@@ -90409,6 +90411,8 @@
 
     <e lm="entrambi"><i>entramb</i><par n="entramb/i_i__det"/></e>
     <e lm="abbronzato"><i>abbronzat</i><par n="abbandonat/o__adj"/></e>
+    <e lm="diverso"><i>divers</i><par n="vari/o__det"/></e>
+    <e lm="diverso" r="RL"><i>divers</i><par n="abbandonat/o__adj"/></e>
     <e lm="atto"><i>att</i><par n="abbandonat/o__adj"/></e>
     <e lm="lucrativo"><i>lucrativ</i><par n="abbandonat/o__adj"/></e>
     <e lm="positivo"><i>positiv</i><par n="abbandonat/o__adj"/></e>
@@ -90826,6 +90830,8 @@
     <e lm="deficiente"><i>deficient</i><par n="albanes/e__adj"/></e>
     <e lm="definitivo"><i>definitiv</i><par n="abbandonat/o__adj"/></e>
     <e lm="defunto"><i>defunt</i><par n="abbandonat/o__adj"/></e>
+    <e lm="unto"><i>unt</i><par n="abbandonat/o__adj"/></e>
+    <e lm="ordinato"><i>ordinat</i><par n="abbandonat/o__adj"/></e>
     <e lm="degno"><i>degn</i><par n="abbandonat/o__adj"/></e>
     <e lm="degradante"><i>degrada</i><par n="abbacchia/nte__adj"/></e>
     <e lm="degradante"><i>degradant</i><par n="albanes/e__adj"/></e>
@@ -98359,6 +98365,7 @@
     <e lm="statutario"><i>statutari</i><par n="ampi/o__adj"/></e>
     <e lm="commemorativo"><i>commemorativ</i><par n="abbandonat/o__adj"/></e>
     <e lm="veneziano"><i>venezian</i><par n="abbandonat/o__adj"/></e>
+    <e lm="veneziano"><i>venezian</i><par n="bambin/o__n"/></e>
     <e lm="disinteressando"><i>disinteressand</i><par n="abbandonat/o__adj"/></e>
     <e lm="mesenchimatoso"><i>mesenchimatos</i><par n="abbandonat/o__adj"/></e>
     <e lm="misto"><i>mist</i><par n="abbandonat/o__adj"/></e>
@@ -98506,6 +98513,7 @@
     <e lm="sesamo"><i>sesam</i><par n="abbain/o__n"/></e>
     <e lm="tungsteno"><i>tungsten</i><par n="abbain/o__n"/></e>
     <e lm="tarlo"><i>tarl</i><par n="abbain/o__n"/></e>
+    <e lm="anemografo"><i>anemograf</i><par n="abbain/o__n"/></e>
     <e lm="asiatico"><i>asiatic</i><par n="cosmetic/o__n"/></e>
     <e lm="europeo"><i>europe</i><par n="bambin/o__n"/></e>
     <e lm="patrono"><i>patron</i><par n="bambin/o__n"/></e>
@@ -98559,6 +98567,7 @@
     <e lm="cipriota"><i>cipriot</i><par n="suicid/a__n"/></e>
     <e lm="falangista"><i>falangist</i><par n="suicid/a__n"/></e>
     <e lm="jacobita"><i>jacobit</i><par n="suicid/a__n"/></e>
+    <e lm="vietnamita"><i>vietnamit</i><par n="suicid/a__n"/></e>
     <e lm="aragonite"><i>aragonit</i><par n="abat/e__n"/></e>
     <e lm="augite"><i>augit</i><par n="abat/e__n"/></e>
     <e lm="austenite"><i>austenit</i><par n="abat/e__n"/></e>
