@@ -90107,6 +90107,7 @@
     <e lm="studio di registrazione"><i>studi</i><par n="abbagli/o__n"/><p><l><b/>di<b/>registrazione</l><r><g><b/>di<b/>registrazione</g></r></p></e>
     <e lm="stufa"><i>stuf</i><par n="cas/a__n"/></e>
     <e lm="stupore"><i>stupor</i><par n="abat/e__n"/></e>
+    <e lm="anidride"><i>anidrid</i><par n="abat/e__n"/></e>
     <e lm="stupro"><i>stupr</i><par n="abbain/o__n"/></e>
     <e lm="succo"><i>succ</i><par n="fung/o__n"/></e>
     <e lm="successo"><i>success</i><par n="abbain/o__n"/></e>
@@ -90151,12 +90152,16 @@
     <e lm="tamponamento"><i>tamponament</i><par n="abbain/o__n"/></e>
     <e lm="tandem"><i>tandem</i><par n="albatros__n"/></e>
     <e lm="tangente"><i>tangent</i><par n="abbreviazion/e__n"/></e>
+    <e lm="amalgamazione"><i>amalgamazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="tanto"><i>tant</i><par n="abbain/o__n"/></e>
     <e lm="tappa"><i>tapp</i><par n="cas/a__n"/></e>
     <e lm="tappeto"><i>tappet</i><par n="abbain/o__n"/></e>
     <e lm="teppezzeria"><i>tappezzeri</i><par n="cas/a__n"/></e>
     <e lm="tara"><i>tar</i><par n="cas/a__n"/></e>
+    <e lm="astenosfera"><i>astenosfer</i><par n="cas/a__n"/></e>
+    <e lm="angiosperma"><i>angiosperm</i><par n="cas/a__n"/></e>
     <e lm="tasca"><i>tasc</i><par n="tasc/a__n"/></e>
+    <e lm="arca"><i>arc</i><par n="tasc/a__n"/></e>
     <e lm="tasso"><i>tass</i><par n="bambin/o__n"/></e>
     <e lm="tasso di cambio"><i>tass</i><par n="abbain/o__n"/><p><l><b/>di<b/>cambio</l><r><g><b/>di<b/>cambio</g></r></p></e>
     <e lm="bicarbonato di sodio"><i>bicarbonat</i><par n="abbain/o__n"/><p><l><b/>di<b/>sodio</l><r><g><b/>di<b/>sodio</g></r></p></e>
@@ -93306,6 +93311,7 @@
     <e lm="esplodere"><i>esplo</i><par n="acclu/dere__vblex"/></e>
     <e lm="erodere"><i>ero</i><par n="acclu/dere__vblex"/></e>
     <e lm="esprimere"><i>espr</i><par n="compr/imere__vblex"/></e>
+    <e lm="sopprimere"><i>soppr</i><par n="compr/imere__vblex"/></e>
     <e lm="comprimere"><i>compr</i><par n="compr/imere__vblex"/></e>
     <e lm="deprimere"><i>depr</i><par n="compr/imere__vblex"/></e>
     <e lm="imprimere"><i>impr</i><par n="compr/imere__vblex"/></e>
@@ -93504,6 +93510,7 @@
     <e lm="dedurre"><i>ded</i><par n="add/urre__vblex"/></e>
     <e lm="invalidare"><i>invalid</i><par n="abbacin/are__vblex"/></e>
     <e lm="invecchiare"><i>invecchi</i><par n="abbacchi/are__vblex"/></e>
+    <e lm="succhiare"><i>succhi</i><par n="abbacchi/are__vblex"/></e>
     <e lm="raschiare"><i>raschi</i><par n="abbacchi/are__vblex"/></e>
     <e lm="rischiare"><i>rischi</i><par n="abbacchi/are__vblex"/></e>
     <e lm="inventare"><i>invent</i><par n="abbacin/are__vblex"/></e>
@@ -93629,6 +93636,7 @@
     <e lm="partire"><i>part</i><par n="abbrut/ire__vblex"/></e>
     <e lm="partecipare"><i>partecip</i><par n="abbacin/are__vblex"/></e>
     <e lm="partorire"><i>partor</i><par n="abbell/ire__vblex"/></e>
+    <e lm="suggerire"><i>sugger</i><par n="abbell/ire__vblex"/></e>
     <e lm="pendere"><i>pe</i><par n="acce/ndere__vblex"/></e>
     <e lm="peggiorare"><i>peggior</i><par n="abbacin/are__vblex"/></e>
     <e lm="pelare"><i>pel</i><par n="abbacin/are__vblex"/></e>
@@ -93673,6 +93681,7 @@
     <e lm="predominare"><i>predomin</i><par n="abbacin/are__vblex"/></e>
     <e lm="pregare"><i>preg</i><par n="abbarbic/are__vblex"/></e>
     <e lm="premiare"><i>premi</i><par n="abbacchi/are__vblex"/></e>
+    <e lm="risparmiare"><i>risparmi</i><par n="abbacchi/are__vblex"/></e>
     <e lm="prenotare"><i>prenot</i><par n="abbarbic/are__vblex"/></e>
     <e lm="preparare"><i>prepar</i><par n="abbacin/are__vblex"/></e>
     <e lm="prescindere"><i>presci</i><par n="presci/ndere__vblex"/></e>
@@ -93688,6 +93697,7 @@
     <e lm="prevalere"><i>preva</i><par n="equiva/lere__vblex"/></e>
     <e lm="privare"><i>priv</i><par n="abbacin/are__vblex"/></e>
     <e lm="privatizzare"><i>privatizz</i><par n="abbacin/are__vblex"/></e>
+    <e lm="puzzare"><i>puzz</i><par n="abbacin/are__vblex"/></e>
     <e lm="privilegiare"><i>privileg</i><par n="abbiosc/iare__vblex"/></e>
     <e lm="proclamare"><i>proclam</i><par n="abbacin/are__vblex"/></e>
     <e lm="procreare"><i>procre</i><par n="abbacin/are__vblex"/></e>
@@ -93860,6 +93870,7 @@
     <e lm="convergere"><i>conver</i><par n="accin/gere__vblex"/></e>
     <e lm="sorprendere"><i>sorpre</i><par n="acce/ndere__vblex"/></e>
     <e lm="sospendere"><i>sospe</i><par n="acce/ndere__vblex"/></e>
+    <e lm="spendere"><i>spe</i><par n="acce/ndere__vblex"/></e>
     <e lm="sospirare"><i>sospir</i><par n="abbacin/are__vblex"/></e>
     <e lm="sostenere"><i>sost</i><par n="appart/enere__vblex"/></e>
     <e lm="sottovalutare"><i>sottovalut</i><par n="abbacin/are__vblex"/></e>

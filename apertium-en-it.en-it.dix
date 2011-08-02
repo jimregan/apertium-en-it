@@ -3353,6 +3353,10 @@
     <e><p><l>saxon<s n="adj"/></l><r>sassone<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>saxon<s n="n"/></l><r>sassone<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>anemograph<s n="n"/></l><r>anemografo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ark<s n="n"/></l><r>arca<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>amalgamation<s n="n"/></l><r>amalgamazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>angiosperm<s n="n"/></l><r>angiosperma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>asthenosphere<s n="n"/></l><r>astenosfera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>scandinavian<s n="adj"/></l><r>scandinavo<s n="adj"/></r></p></e>
     <e><p><l>scarce<s n="adj"/></l><r>scarso<s n="adj"/></r></p></e>
     <e><p><l>scarlet<s n="adj"/></l><r>scarlatto<s n="adj"/></r></p></e>
@@ -3451,6 +3455,7 @@
     <e><p><l>Abidjan<s n="np"/><s n="loc"/></l><r>Abidjan<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><p><l>Samoa<s n="np"/><s n="loc"/><s n="sg"/></l><r>Samoa<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>Gambia<s n="np"/><s n="loc"/></l><r>Gambia<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>The<b/>Gambia<s n="np"/><s n="loc"/></l><r>Gambia<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><p><l>Mississippi<s n="np"/><s n="loc"/></l><r>Mississippi<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><p><l>Nagasaki<s n="np"/><s n="loc"/></l><r>Nagasaki<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><p><l>Metallica<s n="np"/><s n="al"/></l><r>Metallica<s n="np"/><s n="al"/><s n="m"/></r></p></e>
@@ -12909,6 +12914,8 @@
     <e r="RL"><p><l>amateur<s n="n"/></l><r>amatore<s n="n"/></r></p></e>
     <e><p><l>amateurism<s n="n"/></l><r>dilettantismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>amazement<s n="n"/></l><r>stupore<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>astonishment<s n="n"/></l><r>stupore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>anhydride<s n="n"/></l><r>anidride<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>ambassador<s n="n"/></l><r>ambasciatore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>ambassador<s n="n"/></l><r>ambasciatore<s n="n"/></r></p></e>
     <e><p><l>amber<s n="n"/></l><r>ambra<s n="n"/><s n="f"/></r></p></e>
@@ -22438,14 +22445,14 @@
     <e><p><l>round<s n="vblex"/></l><r>arrotondare<s n="vblex"/></r></p></e>
     <e><p><l>roll<s n="vblex"/></l><r>rotolare<s n="vblex"/></r></p></e>
     <e><p><l>roar<s n="vblex"/></l><r>ruggire<s n="vblex"/></r></p></e>
-    <e><p><l>rip<s n="vblex"/></l><r>strappare<s n="vblex"/></r></p></e>
-    <e><p><l>rub<s n="vblex"/></l><r>strofinare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>rip<s n="vblex"/></l><r>strappare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>rub<s n="vblex"/></l><r>strofinare<s n="vblex"/></r></p></e>
     <e><p><l>madden<s n="vblex"/></l><r>fare<g><b/>impazzire</g><s n="vblex"/></r></p></e>
     <e><p><l>knit<s n="vblex"/></l><r>lavorare<g><b/>a<b/>maglia</g><s n="vblex"/></r></p></e>
     <e><p><l>rhyme<s n="vblex"/></l><r>fare<g><b/>rima</g><s n="vblex"/></r></p></e>
     <e><p><l>pop<s n="vblex"/></l><r>fare<g><b/>scoppiare</g><s n="vblex"/></r></p></e>
     <e><p><l>square<s n="vblex"/></l><r>quadrare<s n="vblex"/></r></p></e>
-    <e><p><l>schedule<s n="vblex"/></l><r>pianificare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>schedule<s n="vblex"/></l><r>pianificare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>shiver<s n="vblex"/></l><r>tremare<s n="vblex"/></r></p></e>
     <e><p><l>shock<s n="vblex"/></l><r>impressionare<s n="vblex"/></r></p></e>
     <e><p><l>spare<s n="vblex"/></l><r>risparmiare<s n="vblex"/></r></p></e>
@@ -22626,6 +22633,14 @@
     <e><p><l>smile<s n="vblex"/></l><r>sorridere<s n="vblex"/></r></p></e>
     <e><p><l>snatch<s n="vblex"/></l><r>strappare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>sieve<s n="vblex"/></l><r>setacciare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>spill<s n="vblex"/></l><r>versare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>stink<s n="vblex"/></l><r>puzzare<s n="vblex"/></r></p></e>
+    <e><p><l>smell<s n="vblex"/></l><r>puzzare<s n="vblex"/></r></p></e>
+    <e><p><l>stutter<s n="vblex"/></l><r>balbettare<s n="vblex"/></r></p></e>
+    <e><p><l>suck<s n="vblex"/></l><r>succhiare<s n="vblex"/></r></p></e>
+    <e><p><l>suggest<s n="vblex"/></l><r>suggerire<s n="vblex"/></r></p></e>
+    <e><p><l>suppress<s n="vblex"/></l><r>sopprimere<s n="vblex"/></r></p></e>
+    <e><p><l>swing<s n="vblex"/></l><r>oscillare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>award<s n="vblex"/></l><r>conferire<s n="vblex"/></r></p></e>
     <e r="LR" slr="difendere D"><p><l>back<s n="vblex"/></l><r>difendere<s n="vblex"/></r></p></e>
     <e r="RL" slr="appoggiare"><p><l>back<s n="vblex"/></l><r>appoggiare<s n="vblex"/></r></p></e>
@@ -23020,7 +23035,7 @@
     <e><p><l>detail<s n="vblex"/></l><r>dettagliare<s n="vblex"/></r></p></e>
     <e><p><l>detain<s n="vblex"/></l><r>detenere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>detect<s n="vblex"/></l><r>scoprire<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>deter<s n="vblex"/></l><r>distogliere<s n="vblex"/></r></p></e>
+    <e><p><l>deter<s n="vblex"/></l><r>distogliere<s n="vblex"/></r></p></e>
     <e><p><l>determine<s n="vblex"/></l><r>determinare<s n="vblex"/></r></p></e>
     <e><p><l>detest<s n="vblex"/></l><r>detestare<s n="vblex"/></r></p></e>
     <e><p><l>detonate<s n="vblex"/></l><r>detonare<s n="vblex"/></r></p></e>
@@ -23264,7 +23279,7 @@
     <e r="LR"><p><l>find<g><b/>out</g><s n="vblex"/></l><r>scoprire<s n="vblex"/></r></p></e>
     <e><p><l>fine<s n="vblex"/></l><r>multare<s n="vblex"/></r></p></e>
     <e><p><l>finish<s n="vblex"/></l><r>finire<s n="vblex"/></r></p></e>
-    <e><p><l>fire<s n="vblex"/></l><r>sparare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>fire<s n="vblex"/></l><r>sparare<s n="vblex"/></r></p></e>
     <e><p><l>fish<s n="vblex"/></l><r>pescare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>fit<s n="vblex"/></l><r>adattare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>fix<s n="vblex"/></l><r>riparare<s n="vblex"/></r></p></e>
@@ -23289,7 +23304,7 @@
     <e><p><l>form<s n="vblex"/></l><r>formare<s n="vblex"/></r></p></e>
     <e><p><l>formalise<s n="vblex"/></l><r>formalizzare<s n="vblex"/></r></p></e>
     <e><p><l>formulate<s n="vblex"/></l><r>formulare<s n="vblex"/></r></p></e>
-    <e><p><l>fortify<s n="vblex"/></l><r>fortificare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>fortify<s n="vblex"/></l><r>fortificare<s n="vblex"/></r></p></e>
     <e><p><l>forward<s n="vblex"/></l><r>inviare<s n="vblex"/></r></p></e>
     <e><p><l>found<s n="vblex"/></l><r>fondare<s n="vblex"/></r></p></e>
     <e><p><l>fractionate<s n="vblex"/></l><r>frazionare<s n="vblex"/></r></p></e>
@@ -23628,7 +23643,7 @@
     <e><p><l>enrol<s n="vblex"/></l><r>iscriversi<s n="vblex"/><s n="pron"/></r></p></e>
     <e><p><l>fork<s n="vblex"/></l><r>biforcarsi<s n="vblex"/><s n="pron"/></r></p></e>
     <e><p><l>drift<s n="vblex"/></l><r>andare<g><b/>alla<b/>deriva</g><s n="vblex"/></r></p></e>
-    <e><p><l>refrain<s n="vblex"/></l><r>astenersi<s n="vblex"/><s n="pron"/></r></p></e>
+    <e r="LR"><p><l>refrain<s n="vblex"/></l><r>astenersi<s n="vblex"/><s n="pron"/></r></p></e>
     <e><p><l>relax<s n="vblex"/></l><r>rilassarsi<s n="vblex"/><s n="pron"/></r></p></e>
     <e><p><l>revolt<s n="vblex"/></l><r>ribellarsi<s n="vblex"/><s n="pron"/></r></p></e>
     <e><p><l>take<g><b/>responsibility</g><s n="vblex"/></l><r>responsabilizzarsi<s n="vblex"/><s n="pron"/></r></p></e>
@@ -23665,12 +23680,13 @@
     <e><p><l>locate<s n="vblex"/></l><r>localizzare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>lock<s n="vblex"/></l><r>chiudere<s n="vblex"/></r></p></e>
     <e><p><l>lodge<s n="vblex"/></l><r>albergare<s n="vblex"/></r></p></e>
+    <e><p><l>leave<g><b/>aside</g><s n="vblex"/><s n="sep"/></l><r>prescindere<s n="vblex"/></r></p></e>
     <e slr="guardare D"><p><l>look<s n="vblex"/></l><r>guardare<s n="vblex"/></r></p></e>
     <e c="(he looks tired)" slr="parere" r="LR"><p><l>look<s n="vblex"/></l><r>parere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>look<g><b/>after</g><s n="vblex"/></l><r>vigilare<s n="vblex"/></r></p></e>
     <e><p><l>look<g><b/>for</g><s n="vblex"/></l><r>buscare<s n="vblex"/></r></p></e>
-    <e r="LR" slr="parere D"><p><l>look<g><b/>like</g><s n="vblex"/></l><r>parere<s n="vblex"/></r></p></e>
-    <e slr="sembrare"><p r="LR"><l>look<g><b/>like</g><s n="vblex"/></l><r>sembrare<s n="vblex"/></r></p></e>
+    <e slr="parere D"><p><l>look<g><b/>like</g><s n="vblex"/></l><r>parere<s n="vblex"/></r></p></e>
+    <e slr="sembrare" r="LR"><p><l>look<g><b/>like</g><s n="vblex"/></l><r>sembrare<s n="vblex"/></r></p></e>
     <e><p><l>loom<s n="vblex"/></l><r>tessere<s n="vblex"/></r></p></e>
     <e><p><l>lose<s n="vblex"/></l><r>perdere<s n="vblex"/></r></p></e>
     <e><p><l>love<s n="vblex"/></l><r>amare<s n="vblex"/></r></p></e>
@@ -23771,7 +23787,7 @@
     <e><p><l>orbit<s n="vblex"/></l><r>orbitare<s n="vblex"/></r></p></e>
     <e><p><l>order<s n="vblex"/></l><r>ordinare<s n="vblex"/></r></p></e>
     <e><p><l>organise<s n="vblex"/></l><r>organizzare<s n="vblex"/></r></p></e>
-    <e><p><l>oscillate<s n="vblex"/></l><r>oscillare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>oscillate<s n="vblex"/></l><r>oscillare<s n="vblex"/></r></p></e>
     <e><p><l>outline<s n="vblex"/></l><r>delineare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>overcome<s n="vblex"/></l><r>vincere<s n="vblex"/></r></p></e><!--  autorestricted (<e r="RL"><l>earn<vblex></l><r>vincere<vblex></r></e>).-->
     <e><p><l>overwhelm<s n="vblex"/></l><r>sopraffare<s n="vblex"/></r></p></e>
@@ -23807,7 +23823,8 @@
     <e><p><l>phone<s n="vblex"/></l><r>telefonare<s n="vblex"/></r></p></e>
     <e><p><l>photocopy<s n="vblex"/></l><r>fotocopiare<s n="vblex"/></r></p></e>
     <e><p><l>photograph<s n="vblex"/></l><r>fotografare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>pick<s n="vblex"/></l><r>scegliere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>choose<vblex></l><r>scegliere<vblex></r></e>).-->
+    <e r="LR"><p><l>pick<s n="vblex"/></l><r>scegliere<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>select<s n="vblex"/></l><r>scegliere<s n="vblex"/></r></p></e>
     <e><p><l>pick<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>captare<s n="vblex"/></r></p></e>
     <e><p><l>pilot<s n="vblex"/></l><r>pilotare<s n="vblex"/></r></p></e>
     <e><p><l>pin<s n="vblex"/></l><r>appuntare<s n="vblex"/></r></p></e>
@@ -24133,7 +24150,7 @@
     <e><p><l>stabilise<s n="vblex"/></l><r>stabilizzare<s n="vblex"/></r></p></e>
     <e><p><l>stage<s n="vblex"/></l><r>inscenare<s n="vblex"/></r></p></e>
     <e><p><l>stagnate<s n="vblex"/></l><r>ristagnare<s n="vblex"/></r></p></e>
-    <e><p><l>stammer<s n="vblex"/></l><r>balbettare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>stammer<s n="vblex"/></l><r>balbettare<s n="vblex"/></r></p></e>
     <e><p><l>stamp<s n="vblex"/></l><r>imprimere<s n="vblex"/></r></p></e>
     <e c="(intransitiu)"><p><l>stand<s n="vblex"/></l><r>stare<s n="vblex"/></r></p></e>
     <e><p><l>standardise<s n="vblex"/></l><r>standardizzare<s n="vblex"/></r></p></e>

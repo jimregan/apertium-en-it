@@ -26720,6 +26720,7 @@
     <e lm="teach"><i>t</i><par n="t/each__vblex"/>    </e>
     <e lm="take"><i>t</i><par n="t/ake__vblex"/>    </e>
     <e lm="take away"><i>t</i><par n="t/ake__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>away</l><r><g><b/>away</g></r></p></e>
+    <e lm="leave aside"><i>le</i><par n="le/ave__vblex" sa="sep"/><par n="probj_dem__prn"/><p><l><b/>aside</l><r><g><b/>aside</g></r></p></e>
     <e lm="tackle"><i>tackl</i><par n="liv/e__vblex"/>    </e>
     <e lm="talk"><i>talk</i><par n="accept__vblex"/>    </e>
     <e lm="tap"><i>tap</i><par n="step__vblex"/>    </e>
