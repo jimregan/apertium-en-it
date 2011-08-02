@@ -91950,6 +91950,7 @@
     <e lm="adeguare"><i>adegu</i><par n="abbacin/are__vblex"/></e>
     <e lm="adorare"><i>ador</i><par n="abbacin/are__vblex"/></e>
     <e lm="adornare"><i>adorn</i><par n="abbacin/are__vblex"/></e>
+    <e lm="obiettare"><i>obiett</i><par n="abbacin/are__vblex"/></e>
     <e lm="adottare"><i>adott</i><par n="abbacin/are__vblex"/></e>
     <e lm="adulterare"><i>adulter</i><par n="abbacin/are__vblex"/></e>
     <e lm="afferrare"><i>afferr</i><par n="abbacin/are__vblex"/></e>
@@ -91957,6 +91958,7 @@
     <e lm="affidare"><i>affid</i><par n="abbacin/are__vblex"/></e>
     <e lm="delucidare"><i>delucid</i><par n="abbacin/are__vblex"/></e>
     <e lm="affiliare"><i>affili</i><par n="abbacchi/are__vblex"/></e>
+    <e lm="uguagliare"><i>uguagli</i><par n="abbacchi/are__vblex"/></e>
     <e lm="affliggere"><i>affli</i><par n="affi/ggere__vblex"/></e>
     <e lm="affrontare"><i>affront</i><par n="abbacin/are__vblex"/></e>
     <e lm="agire"><i>ag</i><par n="abbell/ire__vblex"/></e>
@@ -92167,6 +92169,8 @@
     <e lm="clonare"><i>clon</i><par n="abbacin/are__vblex"/></e>
     <e lm="colare"><i>col</i><par n="abbacin/are__vblex"/></e>
     <e lm="colare a picco"><i>col</i><par n="abbacin/are__vblex"/><p><l><b/>a<b/>picco</l><r><g><b/>a<b/>picco</g></r></p></e>
+    <e lm="lavorare a maglia"><i>lavor</i><par n="abbacin/are__vblex"/><p><l><b/>a<b/>maglia</l><r><g><b/>a<b/>maglia</g></r></p></e>
+    <e lm="rotolare"><i>rotol</i><par n="abbacin/are__vblex"/></e>
     <e lm="collocare"><i>colloc</i><par n="abbarbic/are__vblex"/></e>
     <e lm="colmare"><i>colm</i><par n="abbacin/are__vblex"/></e>
     <e lm="colorare"><i>color</i><par n="abbacin/are__vblex"/></e>
@@ -92452,6 +92456,8 @@
     <e lm="fare impazzire"><i>f</i><par n="assuef/are__vblex"/><p><l><b/>impazzire</l><r><g><b/>impazzire</g></r></p></e>
     <e lm="fare rima"><i>f</i><par n="f/are__vblex"/><p><l><b/>rima</l><r><g><b/>rima</g></r></p></e>
     <e lm="fare rima"><i>f</i><par n="assuef/are__vblex"/><p><l><b/>rima</l><r><g><b/>rima</g></r></p></e>
+    <e lm="fare scoppiare"><i>f</i><par n="f/are__vblex"/><p><l><b/>scoppiare</l><r><g><b/>scoppiare</g></r></p></e>
+    <e lm="fare scoppiare"><i>f</i><par n="assuef/are__vblex"/><p><l><b/>scoppiare</l><r><g><b/>scoppiare</g></r></p></e>
     <e lm="fare soldi"><i>f</i><par n="f/are__vblex"/><p><l><b/>soldi</l><r><g><b/>soldi</g></r></p></e>
     <e lm="fare soldi"><i>f</i><par n="assuef/are__vblex"/><p><l><b/>soldi</l><r><g><b/>soldi</g></r></p></e>
     <e lm="fare un errore"><i>f</i><par n="f/are__vblex"/><p><l><b/>un<b/>errore</l><r><g><b/>un<b/>errore</g></r></p></e>
@@ -92494,7 +92500,10 @@
     <e lm="frenare"><i>fren</i><par n="abbacin/are__vblex"/></e>
     <e lm="frustrare"><i>frustr</i><par n="abbacin/are__vblex"/></e>
     <e lm="fuggire"><i>fugg</i><par n="abbrut/ire__vblex"/></e>
+    <e lm="ruggire"><i>rugg</i><par n="abbrut/ire__vblex"/></e>
     <e lm="fulminare"><i>fulmin</i><par n="abbacin/are__vblex"/></e>
+    <e lm="strappare"><i>strapp</i><par n="abbacin/are__vblex"/></e>
+    <e lm="strofinare"><i>strofin</i><par n="abbacin/are__vblex"/></e>
     <e lm="fumare"><i>fum</i><par n="abbacin/are__vblex"/></e>
     <e lm="funzionare"><i>funzion</i><par n="abbacin/are__vblex"/></e>
     <e lm="galleggiare"><i>galleggi</i><par n="abbacin/are__vblex"/></e>
@@ -92580,14 +92589,18 @@
     <e lm="intercettare"><i>intercett</i><par n="abbacin/are__vblex"/></e>
     <e lm="interiorizzare"><i>interiorizz</i><par n="abbacin/are__vblex"/></e>
     <e lm="internare"><i>intern</i><par n="abbacin/are__vblex"/></e>
+    <e lm="arrotondare"><i>arrotond</i><par n="abbacin/are__vblex"/></e>
     <e lm="interrompere"><i>interr</i><par n="corr/ompere__vblex"/></e>
     <e lm="interrogare"><i>interrog</i><par n="abbarbic/are__vblex"/></e>
+    <e lm="radicare"><i>radic</i><par n="abbarbic/are__vblex"/></e>
     <e lm="intervistare"><i>intervist</i><par n="abbacin/are__vblex"/></e>
     <e lm="intimidire"><i>intimid</i><par n="abbell/ire__vblex"/></e>
     <e lm="introdurre"><i>introd</i><par n="add/urre__vblex"/></e>
+    <e lm="sedurre"><i>sed</i><par n="add/urre__vblex"/></e>
     <e lm="dedurre"><i>ded</i><par n="add/urre__vblex"/></e>
     <e lm="invalidare"><i>invalid</i><par n="abbacin/are__vblex"/></e>
     <e lm="invecchiare"><i>invecchi</i><par n="abbacchi/are__vblex"/></e>
+    <e lm="rischiare"><i>rischi</i><par n="abbacchi/are__vblex"/></e>
     <e lm="inventare"><i>invent</i><par n="abbacin/are__vblex"/></e>
     <e lm="invertire"><i>invert</i><par n="abbrut/ire__vblex"/></e>
     <e lm="investire"><i>invest</i><par n="abbrut/ire__vblex"/></e>
@@ -92614,6 +92627,7 @@
     <e lm="legittimare"><i>legittim</i><par n="abbacin/are__vblex"/></e>
     <e lm="liberare"><i>liber</i><par n="abbacin/are__vblex"/></e>
     <e lm="licenziare"><i>licenzi</i><par n="abbacchi/are__vblex"/></e>
+    <e lm="saziare"><i>sazi</i><par n="abbacchi/are__vblex"/></e>
     <e lm="limitare"><i>limit</i><par n="abbacin/are__vblex"/></e>
     <e lm="liquidare"><i>liquid</i><par n="abbacin/are__vblex"/></e>
     <e lm="listare"><i>list</i><par n="abbacin/are__vblex"/></e>
@@ -92624,6 +92638,7 @@
     <e lm="lustrare"><i>lustr</i><par n="abbacin/are__vblex"/></e>
     <e lm="morire"><i>m</i><par n="m/orire__vblex"/></e>
     <e lm="mettere"><i>m</i><par n="amm/ettere__vblex"/></e>
+    <e lm="rimettere"><i>rim</i><par n="amm/ettere__vblex"/></e>
     <e lm="mettere in conto"><i>m</i><par n="amm/ettere__vblex"/><p><l><b/>in<b/>conto</l><r><g><b/>in<b/>conto</g></r></p></e>
     <e lm="promettere"><i>prom</i><par n="amm/ettere__vblex"/></e>
     <e lm="premettere"><i>prem</i><par n="amm/ettere__vblex"/></e>

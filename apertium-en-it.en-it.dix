@@ -22429,8 +22429,21 @@
     <e><p><l>repel<s n="vblex"/></l><r>repellere<s n="vblex"/></r></p></e>
     <e><p><l>bronze<s n="vblex"/></l><r>bronzare<s n="vblex"/></r></p></e>
     <e><p><l>price<s n="vblex"/></l><r>prezzare<s n="vblex"/></r></p></e>
+    <e><p><l>match<s n="vblex"/></l><r>uguagliare<s n="vblex"/></r></p></e>
+    <e><p><l>object<s n="vblex"/></l><r>obiettare<s n="vblex"/></r></p></e>
+    <e><p><l>remit<s n="vblex"/></l><r>rimettere<s n="vblex"/></r></p></e>
+    <e><p><l>risk<s n="vblex"/></l><r>rischiare<s n="vblex"/></r></p></e>
+    <e><p><l>roll<s n="vblex"/></l><r>rotolare<s n="vblex"/></r></p></e>
+    <e><p><l>root<s n="vblex"/></l><r>radicare<s n="vblex"/></r></p></e>
+    <e><p><l>round<s n="vblex"/></l><r>arrotondare<s n="vblex"/></r></p></e>
+    <e><p><l>roll<s n="vblex"/></l><r>rotolare<s n="vblex"/></r></p></e>
+    <e><p><l>roar<s n="vblex"/></l><r>ruggire<s n="vblex"/></r></p></e>
+    <e><p><l>rip<s n="vblex"/></l><r>strappare<s n="vblex"/></r></p></e>
+    <e><p><l>rub<s n="vblex"/></l><r>strofinare<s n="vblex"/></r></p></e>
     <e><p><l>madden<s n="vblex"/></l><r>fare<g><b/>impazzire</g><s n="vblex"/></r></p></e>
+    <e><p><l>knit<s n="vblex"/></l><r>lavorare<g><b/>a<b/>maglia</g><s n="vblex"/></r></p></e>
     <e><p><l>rhyme<s n="vblex"/></l><r>fare<g><b/>rima</g><s n="vblex"/></r></p></e>
+    <e><p><l>pop<s n="vblex"/></l><r>fare<g><b/>scoppiare</g><s n="vblex"/></r></p></e>
     <e><p><l>square<s n="vblex"/></l><r>quadrare<s n="vblex"/></r></p></e>
     <e><p><l>schedule<s n="vblex"/></l><r>pianificare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>shiver<s n="vblex"/></l><r>tremare<s n="vblex"/></r></p></e>
@@ -22538,7 +22551,7 @@
     <e><p><l>anticipate<s n="vblex"/></l><r>anticipare<s n="vblex"/></r></p></e>
     <e><p><l>apologise<s n="vblex"/></l><r>chiedere<g><b/>scusa</g><s n="vblex"/></r></p></e>
     <e><p><l>appeal<s n="vblex"/></l><r>fare<g><b/>appello</g><s n="vblex"/></r></p></e>
-    <e><p><l>appear<s n="vblex"/></l><r>apparire<s n="vblex"/></r></p></e>
+    <e slr="apparire D"><p><l>appear<s n="vblex"/></l><r>apparire<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>appear<s n="vblex"/></l><r>figurare<s n="vblex"/></r></p></e>
     <e><p><l>appease<s n="vblex"/></l><r>placare<s n="vblex"/></r></p></e>
     <e><p><l>applaud<s n="vblex"/></l><r>applaudire<s n="vblex"/></r></p></e>
@@ -22867,6 +22880,7 @@
     <e><p><l>converse<s n="vblex"/></l><r>conversare<s n="vblex"/></r></p></e>
     <e><p><l>convert<s n="vblex"/></l><r>convertire<s n="vblex"/></r></p></e>
     <e><p><l>convey<s n="vblex"/></l><r>trasmettere<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>pipe<s n="vblex"/></l><r>trasmettere<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>convey<s n="vblex"/></l><r>trasportare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>convict<s n="vblex"/></l><r>condannare<s n="vblex"/></r></p></e>
     <e><p><l>convince<s n="vblex"/></l><r>convincere<s n="vblex"/></r></p></e>
@@ -23634,11 +23648,11 @@
     <e r="LR"><p><l>lock<s n="vblex"/></l><r>chiudere<s n="vblex"/></r></p></e>
     <e><p><l>lodge<s n="vblex"/></l><r>albergare<s n="vblex"/></r></p></e>
     <e slr="guardare D"><p><l>look<s n="vblex"/></l><r>guardare<s n="vblex"/></r></p></e>
-    <e c="(he looks tired)" slr="parere"><p><l>look<s n="vblex"/></l><r>parere<s n="vblex"/></r></p></e>
+    <e c="(he looks tired)" slr="parere" r="LR"><p><l>look<s n="vblex"/></l><r>parere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>look<g><b/>after</g><s n="vblex"/></l><r>vigilare<s n="vblex"/></r></p></e>
     <e><p><l>look<g><b/>for</g><s n="vblex"/></l><r>buscare<s n="vblex"/></r></p></e>
     <e r="LR" slr="parere D"><p><l>look<g><b/>like</g><s n="vblex"/></l><r>parere<s n="vblex"/></r></p></e>
-    <e slr="sembrare"><p><l>look<g><b/>like</g><s n="vblex"/></l><r>sembrare<s n="vblex"/></r></p></e>
+    <e slr="sembrare"><p r="LR"><l>look<g><b/>like</g><s n="vblex"/></l><r>sembrare<s n="vblex"/></r></p></e>
     <e><p><l>loom<s n="vblex"/></l><r>tessere<s n="vblex"/></r></p></e>
     <e><p><l>lose<s n="vblex"/></l><r>perdere<s n="vblex"/></r></p></e>
     <e><p><l>love<s n="vblex"/></l><r>amare<s n="vblex"/></r></p></e>
@@ -24022,9 +24036,11 @@
     <e><p><l>see<s n="vblex"/></l><r>vedere<s n="vblex"/></r></p></e>
     <e><p><l>seed<s n="vblex"/></l><r>seminare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>seek<s n="vblex"/></l><r>cercare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>seem<s n="vblex"/></l><r>parere<s n="vblex"/></r></p></e><!--  autorestricted (<e r="RL"><l>look<vblex></l><r>parere<vblex></r></e>).-->
-    <e i="yes"><p><l>seem<s n="vblex"/></l><r>sembrare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="RL"><l>look<g><b/>like</g><vblex></l><r>sembrare<vblex></r></e>).-->
-    <e r="LR"><p><l>seize<s n="vblex"/></l><r>confiscare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>confiscate<vblex></l><r>confiscare<vblex></r></e>).-->
+    <e slr="parere" r="LR"><p><l>appear<s n="vblex"/></l><r>parere<s n="vblex"/></r></p></e>
+    <e><p><l>seem<s n="vblex"/></l><r>sembrare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>seem<g><b/>like</g><s n="vblex"/></l><r>sembrare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>seize<s n="vblex"/></l><r>confiscare<s n="vblex"/></r></p></e>
+    <e><p><l>seduce<s n="vblex"/></l><r>sedurre<s n="vblex"/></r></p></e>
     <e><p><l>sell<s n="vblex"/></l><r>vendere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>send<s n="vblex"/></l><r>inviare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>forward<vblex></l><r>inviare<vblex></r></e>).-->
     <e r="LR"><p><l>send<g><b/>in</g><s n="vblex"/></l><r>inviare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>forward<vblex></l><r>inviare<vblex></r></e>).-->
