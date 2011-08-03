@@ -89125,6 +89125,7 @@
     <e lm="museruola"><i>museruol</i><par n="cas/a__n"/></e>
     <e lm="musica"><i>music</i><par n="tasc/a__n"/></e>
     <e lm="musicale"><i>musical</i><par n="albanes/e__n"/></e>
+    <e lm="rifrattore"><i>rifrattor</i><par n="albanes/e__n"/></e>
     <e lm="musicassetta"><i>musicassett</i><par n="cas/a__n"/></e>
     <e lm="cassetta di pronto soccorso"><i>cassett</i><par n="cas/a__n"/><p><l><b/>di<b/>pronto<b/>soccorso</l><r><g><b/>di<b/>pronto<b/>soccorso</g></r></p></e>
     <e lm="musicista"><i>musicist</i><par n="suicid/a__n"/></e>
@@ -89137,6 +89138,14 @@
     <e lm="narciso"><i>narcis</i><par n="abbain/o__n"/></e>
     <e lm="narice"><i>naric</i><par n="abbreviazion/e__n"/></e>
     <e lm="narratore"><i>narrat</i><par n="agricolt/ore__n"/></e>
+    <e lm="dimostratore"><i>dimostrat</i><par n="agricolt/ore__n"/></e>
+    <e lm="deflettore"><i>deflettor</i><par n="abat/e__n"/></e>
+    <e lm="delimitatore"><i>delimitator</i><par n="abat/e__n"/></e>
+    <e lm="demodulatore"><i>demodulator</i><par n="abat/e__n"/></e>
+    <e lm="descrittore"><i>descrittor</i><par n="abat/e__n"/></e>
+    <e lm="detonatore"><i>detonator</i><par n="abat/e__n"/></e>
+    <e lm="disonore"><i>disonor</i><par n="abat/e__n"/></e>
+    <e lm="essiccatore"><i>essiccator</i><par n="abat/e__n"/></e>
     <e lm="naso"><i>nas</i><par n="abbain/o__n"/></e>
     <e lm="nascita"><i>nascit</i><par n="cas/a__n"/></e>
     <e lm="nascondino"><i>nascondin</i><par n="abbain/o__n"/></e>
@@ -89146,6 +89155,7 @@
     <e lm="naufragio"><i>naufragi</i><par n="abbagli/o__n"/></e>
     <e lm="nave"><i>nav</i><par n="abbreviazion/e__n"/></e>
     <e lm="navigatore"><i>navigat</i><par n="agricolt/ore__n"/></e>
+    <e lm="debitore"><i>debit</i><par n="agricolt/ore__n"/></e>
     <e lm="navigazione"><i>navigazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="nazionalità"><i>nazionalità</i><par n="abilità__n"/></e>
     <e lm="nazione"><i>nazion</i><par n="abbreviazion/e__n"/></e>
@@ -89267,6 +89277,10 @@
     <e lm="ondata"><i>ondat</i><par n="cas/a__n"/></e>
     <e lm="onnivoro"><i>onnivor</i><par n="bambin/o__n"/></e>
     <e lm="onore"><i>onor</i><par n="abat/e__n"/></e>
+    <e lm="disonore"><i>disonor</i><par n="abat/e__n"/></e>
+    <e lm="proiettore"><i>proiettor</i><par n="abat/e__n"/></e>
+    <e lm="recettore"><i>recettor</i><par n="abat/e__n"/></e>
+    <e lm="cursore"><i>cursor</i><par n="abat/e__n"/></e>
     <e lm="onorario"><i>onorari</i><par n="abbain/o__n"/></e>
     <e lm="xeno"><i>xen</i><par n="abbain/o__n"/></e>
     <e lm="zodiaco"><i>zodiac</i><par n="abbain/o__n"/></e>
@@ -89544,6 +89558,24 @@
     <e lm="pecora"><i>pecor</i><par n="cas/a__n"/></e>
     <e lm="diaspora"><i>diaspor</i><par n="cas/a__n"/></e>
     <e lm="pedaggio"><i>pedaggi</i><par n="abbagli/o__n"/></e>
+    <e lm="polinomio"><i>polinomi</i><par n="abbagli/o__n"/></e>
+    <e lm="portafoglio"><i>portafogli</i><par n="abbagli/o__n"/></e>
+    <e lm="premio"><i>premi</i><par n="abbagli/o__n"/></e>
+    <e lm="presbiterio"><i>presbiteri</i><par n="abbagli/o__n"/></e>
+    <e lm="proemio"><i>proemi</i><par n="abbagli/o__n"/></e>
+    <e lm="promontorio"><i>promontori</i><par n="abbagli/o__n"/></e>
+    <e lm="proscenio"><i>prosceni</i><par n="abbagli/o__n"/></e>
+    <e lm="pompaggio"><i>pompaggi</i><par n="abbagli/o__n"/></e>
+    <e lm="purgatorio"><i>purgatori</i><par n="abbagli/o__n"/></e>
+    <e lm="questionario"><i>questionari</i><par n="abbagli/o__n"/></e>
+    <e lm="riformatorio"><i>riformatori</i><par n="abbagli/o__n"/></e>
+    <e lm="rilancio"><i>rilanci</i><par n="abbagli/o__n"/></e>
+    <e lm="rimpatrio"><i>rimpatri</i><par n="abbagli/o__n"/></e>
+    <e lm="repertorio"><i>repertori</i><par n="abbagli/o__n"/></e>
+    <e lm="ripudio"><i>ripudi</i><par n="abbagli/o__n"/></e>
+    <e lm="frantoio"><i>frantoi</i><par n="abbagli/o__n"/></e>
+    <e lm="destrosio"><i>destrosi</i><par n="abbagli/o__n"/></e>
+    <e lm="svantaggio"><i>svantaggi</i><par n="abbagli/o__n"/></e>
     <e lm="pedagogia"><i>pedagogi</i><par n="cas/a__n"/></e>
     <e lm="pedalata"><i>pedalat</i><par n="cas/a__n"/></e>
     <e lm="pediatra"><i>pediatr</i><par n="suicid/a__n"/></e>
@@ -89635,6 +89667,8 @@
     <e lm="pesce"><i>pesc</i><par n="abat/e__n"/></e>
     <e lm="pesca"><i>pesc</i><par n="tasc/a__n"/></e>
     <e lm="pescatore"><i>pescat</i><par n="agricolt/ore__n"/></e>
+    <e lm="riformatore"><i>riformat</i><par n="agricolt/ore__n"/></e>
+    <e lm="suggeritore"><i>suggerit</i><par n="agricolt/ore__n"/></e>
     <e lm="peseta"><i>peseta</i><par n="bagarre__n"/></e>
     <e lm="pessimismo"><i>pessimism</i><par n="abbain/o__n"/></e>
     <e lm="pessimista"><i>pessimist</i><par n="suicid/a__n"/></e>
