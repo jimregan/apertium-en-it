@@ -90302,6 +90302,7 @@
     <e lm="scienza"><i>scienz</i><par n="cas/a__n"/></e>
     <e lm="scienziato"><i>scienziat</i><par n="bambin/o__n"/></e>
     <e lm="scimmia"><i>scimmi</i><par n="cas/a__n"/></e>
+    <e lm="acquifera"><i>acquifer</i><par n="cas/a__n"/></e>
     <e lm="scintilla"><i>scintill</i><par n="cas/a__n"/></e>
     <e lm="sciopero"><i>scioper</i><par n="abbain/o__n"/></e>
     <e lm="scodella"><i>scodell</i><par n="cas/a__n"/></e>
@@ -91035,10 +91036,14 @@
     <e lm="riguardo"><i>riguard</i><par n="abbagli/o__n"/></e>
     <e lm="rilancio"><i>rilanci</i><par n="abbagli/o__n"/></e>
     <e lm="rispetto"><i>rispett</i><par n="abbain/o__n"/></e>
+    <e lm="sorso"><i>sors</i><par n="abbain/o__n"/></e>
     <e lm="ginocchio"><i>ginocchi</i><par n="bracci/o__n"/></e>
     <e lm="stimolo"><i>stimol</i><par n="abbain/o__n"/></e>
     <e lm="significato"><i>significat</i><par n="abbain/o__n"/></e>
     <e lm="scorta"><i>scort</i><par n="cas/a__n"/></e>
+    <e lm="lambda"><i>lambd</i><par n="cas/a__n"/></e>
+    <e lm="catena"><i>caten</i><par n="cas/a__n"/></e>
+    <e lm="perestrojka"><i>perestrojk</i><par n="cas/a__n"/></e>
     <e lm="lenzuolo"><i>lenzuol</i><par n="calcagn/o__n"/></e>
     <e lm="ortaggio"><i>ortaggi</i><par n="abbagli/o__n"/></e>
     <e lm="imbarcazione"><i>imbarcazion</i><par n="abbreviazion/e__n"/></e>
@@ -91046,6 +91051,32 @@
     <e lm="festival cinematografico"><i>festival<b/>cinematografic</i><par n="abbain/o__n"/></e>
     <e lm="lustrino"><i>lustrin</i><par n="abbain/o__n"/></e>
     <e lm="reverendo"><i>reverend</i><par n="abbain/o__n"/></e>
+    <e lm="comunicato"><i>comunicat</i><par n="abbain/o__n"/></e>
+    <e lm="indebolimento"><i>indeboliment</i><par n="abbain/o__n"/></e>
+    <e lm="ristorazione"><i>ristorazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="combustione"><i>combustion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="conclusione"><i>conclusion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="confusione"><i>confusion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="congestione"><i>congestion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="conversione"><i>conversion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="convulsione"><i>convulsion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="disconnessione"><i>disconnession</i><par n="abbreviazion/e__n"/></e>
+    <e lm="disillusione"><i>disillusion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="distensione"><i>distension</i><par n="abbreviazion/e__n"/></e>
+    <e lm="erosione"><i>erosion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="escursione"><i>escursion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="estorsione"><i>estorsion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="previsione"><i>prevision</i><par n="abbreviazion/e__n"/></e>
+    <e lm="immersione"><i>immersion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="imprecisione"><i>imprecision</i><par n="abbreviazion/e__n"/></e>
+    <e lm="reclusione"><i>reclusion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="inclusione"><i>inclusion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="inflessione"><i>inflession</i><par n="abbreviazion/e__n"/></e>
+    <e lm="interconnessione"><i>interconnession</i><par n="abbreviazion/e__n"/></e>
+    <e lm="intrusione"><i>intrusion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="legione"><i>legion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="omissione"><i>omission</i><par n="abbreviazion/e__n"/></e>
+    <e lm="perversione"><i>perversion</i><par n="abbreviazion/e__n"/></e>
 
 <!--zione-->
 
@@ -91126,7 +91157,10 @@
     <e lm="computazione"><i>computazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="concatenazione"><i>concatenazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="concertazione"><i>concertazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="rondine"><i>rondin</i><par n="abbreviazion/e__n"/></e>
+    <e lm="castiglianizzazione"><i>castiglianizzazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="concime"><i>concim</i><par n="abat/e__n"/></e>
+    <e lm="catetere"><i>cateter</i><par n="abat/e__n"/></e>
     <e lm="settimanale"><i>settimanal</i><par n="abat/e__n"/></e>
     <e lm="concimazione"><i>concimazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="condensazione"><i>condensazion</i><par n="abbreviazion/e__n"/></e>
@@ -91881,6 +91915,7 @@
     <e lm="anormale"><i>anormal</i><par n="albanes/e__adj"/></e>
     <e lm="ansioso"><i>ansios</i><par n="abbandonat/o__adj"/></e>
     <e lm="antecedente"><i>antecedent</i><par n="albanes/e__adj"/></e>
+    <e lm="antecedente"><i>antecedent</i><par n="albanes/e__n"/></e>
     <e lm="anteriore"><i>anterior</i><par n="albanes/e__adj"/></e>
     <e lm="antico"><i>antic</i><par n="caric/o__adj"/></e>
     <e lm="anticlericale"><i>anticlerical</i><par n="albanes/e__adj"/></e>
@@ -92415,6 +92450,7 @@
     <e lm="gratuito"><i>gratuit</i><par n="abbandonat/o__adj"/></e>
     <e lm="grave"><i>grav</i><par n="albanes/e__adj"/></e>
     <e lm="greco"><i>grec</i><par n="tecnic/o__adj"/></e>
+    <e lm="stechiometrico"><i>stechiometric</i><par n="tecnic/o__adj"/></e>
     <e lm="grigio"><i>grigi</i><par n="abbandonat/o__adj"/></e>
     <e lm="grigio"><i>grigi</i><par n="segretari/o__n"/></e>
     <e lm="reazionario"><i>reazionari</i><par n="segretari/o__n"/></e>
@@ -94360,6 +94396,7 @@
     <e lm="gara di sci"><i>gar</i><par n="cas/a__n"/><p><l><b/>di<b/>sci</l><r><g><b/>di<b/>sci</g></r></p></e>
     <e lm="terra di nessuno"><i>terr</i><par n="cas/a__n"/><p><l><b/>di<b/>nessuno</l><r><g><b/>di<b/>nessuno</g></r></p></e>
     <e lm="palizzata"><i>palizzat</i><par n="cas/a__n"/></e>
+    <e lm="alternativa"><i>alternativ</i><par n="cas/a__n"/></e>
     <e lm="valutare"><i>valut</i><par n="abbacin/are__vblex"/></e>
     <e lm="sottrarre"><i>sottra</i><par n="astra/rre__vblex"/></e>
     <e lm="distrarre"><i>distra</i><par n="astra/rre__vblex"/></e>
@@ -98598,6 +98635,7 @@
     <e lm="frivolo"><i>frivol</i><par n="abbandonat/o__adj"/></e>
     <e lm="fruttifero"><i>fruttifer</i><par n="abbandonat/o__adj"/></e>
     <e lm="fuggitivo"><i>fuggitiv</i><par n="abbandonat/o__adj"/></e>
+    <e lm="fuggitivo"><i>fuggitiv</i><par n="bambin/o__n"/></e>
     <e lm="furioso"><i>furios</i><par n="abbandonat/o__adj"/></e>
     <e lm="geloso"><i>gelos</i><par n="abbandonat/o__adj"/></e>
     <e lm="generoso"><i>generos</i><par n="abbandonat/o__adj"/></e>

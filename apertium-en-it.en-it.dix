@@ -618,6 +618,10 @@
     <e><p><l>anonymous<s n="adj"/></l><r>anonimo<s n="adj"/></r></p></e>
     <e><p><l>antarctic<s n="adj"/></l><r>antartico<s n="adj"/></r></p></e>
     <e><p><l>antecedent<s n="adj"/></l><r>antecedente<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>antecedent<s n="n"/></l><r>antecedente<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>ape<s n="n"/></l><r>scimmia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>acquifer<s n="n"/></l><r>acquifera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alternative<s n="n"/></l><r>alternativa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antepenultimate<s n="adj"/></l><r>ante-penultimo<s n="adj"/></r></p></e>
     <e><p><l>anthropological<s n="adj"/></l><r>antropologico<s n="adj"/></r></p></e>
     <e><p><l>anticlerical<s n="adj"/></l><r>anticlericale<s n="adj"/><s n="mf"/></r></p></e>
@@ -1528,6 +1532,8 @@
     <e><p><l>fruitless<s n="adj"/></l><r>infruttuoso<s n="adj"/></r></p></e>
     <e><p><l>fucking<s n="adj"/></l><r>maledetto<s n="adj"/></r></p></e>
     <e><p><l>fugitive<s n="adj"/></l><r>fuggitivo<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>fugitive<s n="n"/></l><r>fuggitivo<s n="n"/></r></p></e>
+    <e r="LR"><p><l>fugitive<s n="n"/></l><r>fuggitivo<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>full<s n="adj"/><s n="sint"/></l><r>pieno<s n="adj"/></r></p></e>
     <e><p><l>fun<s n="adj"/></l><r>divertito<s n="adj"/></r></p></e>
     <e><p><l>functional<s n="adj"/></l><r>funzionale<s n="adj"/><s n="mf"/></r></p></e>
@@ -2566,6 +2572,7 @@
     <e><p><l>rancid<s n="adj"/></l><r>rancido<s n="adj"/></r></p></e>
     <e r="LR"><p><l>rapid<s n="adj"/></l><r>rapido<s n="adj"/></r></p></e><!--  autorestricted (<e><l>fast<adj><sint></l><r>rapido<adj></r></e>).-->
     <e><p><l>rare<s n="adj"/><s n="sint"/></l><r>raro<s n="adj"/></r></p></e>
+    <e><p><l>stoichiometric<s n="adj"/></l><r>stechiometrico<s n="adj"/></r></p></e>
     <e><p><l>rational<s n="adj"/></l><r>razionale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>reactionary<s n="adj"/></l><r>reazionario<s n="adj"/></r></p></e>
     <e r="RL"><p><l>reactionary<s n="n"/></l><r>reazionario<s n="n"/></r></p></e>
@@ -2641,6 +2648,12 @@
     <e><p><l>reusable<s n="adj"/></l><r>riutilizzabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>reverend<s n="adj"/></l><r>reverendo<s n="adj"/></r></p></e>
     <e><p><l>reverend<s n="n"/></l><r>reverendo<s n="n"/><s n="m"/></r></p></e>
+    <e slr="sorso"><p><l>swallow<s n="n"/></l><r>sorso<s n="n"/><s n="m"/></r></p></e>
+    <e slr="rondine D"><p><l>swallow<s n="n"/></l><r>rondine<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>castilianisation<s n="n"/></l><r>castiglianizzazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>catena<s n="n"/></l><r>catena<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lambda<s n="n"/></l><r>lambda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>perestroika<s n="n"/></l><r>perestrojka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reverse<s n="adj"/></l><r>inverso<s n="adj"/></r></p></e>
     <e><p><l>reversible<s n="adj"/></l><r>reversibile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>revocable<s n="adj"/></l><r>revocabile<s n="adj"/><s n="mf"/></r></p></e>
@@ -13521,9 +13534,12 @@
     <e><p><l>bibliography<s n="n"/></l><r>bibliografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bibliometrics<s n="n"/></l><r>bibliometria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bicameralism<s n="n"/></l><r>bicameralismo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>communiqué<s n="n"/></l><r>comunicato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>impairment<s n="n"/></l><r>indebolimento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bicycle<s n="n"/></l><r>bicicletta<s n="n"/><s n="f"/></r></p></e>
     <e i="yes"><p><l>bid<s n="n"/></l><r>intento<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>attempt<n></l><r>intento<n><m></r></e>).-->
     <e><p><l>bid<s n="n"/></l><r>offerta<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>bidding<s n="n"/></l><r>offerta<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>bidet<s n="n"/><s n="ND"/></l><r>bidet<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>bidet<s n="n"/><s n="sg"/></l><r>bidet<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>bidet<s n="n"/><s n="pl"/></l><r>bidet<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -14119,6 +14135,7 @@
     <e><p><l>choreography<s n="n"/></l><r>coreografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chorology<s n="n"/></l><r>corologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>quotation<s n="n"/></l><r>quotazione<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>listing<s n="n"/></l><r>quotazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>retribution<s n="n"/></l><r>retribuzione<s n="n"/><s n="f"/></r></p></e>
     <e srl="chorus"><p><l>chorus<s n="n"/></l><r>coro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>christianisation<s n="n"/></l><r>cristianizzazione<s n="n"/><s n="f"/></r></p></e>
@@ -25283,6 +25300,30 @@
     <e r="RL"><p><l>traditionalist<s n="n"/></l><r>tradizionalista<s n="n"/></r></p></e>
     <e r="LR"><p><l>tsarist<s n="n"/></l><r>zarista<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>tsarist<s n="n"/></l><r>zarista<s n="n"/></r></p></e>
+    <e><p><l>catering<s n="n"/></l><r>ristorazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>combustion<s n="n"/></l><r>combustione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>conclusion<s n="n"/></l><r>conclusione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>confusion<s n="n"/></l><r>confusione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>congestion<s n="n"/></l><r>congestione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>conversion<s n="n"/></l><r>conversione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>convulsion<s n="n"/></l><r>convulsione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>disconnection<s n="n"/></l><r>disconnessione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>disillusionment<s n="n"/></l><r>disillusione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>distention<s n="n"/></l><r>distensione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>erosion<s n="n"/></l><r>erosione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>excursion<s n="n"/></l><r>escursione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>extortion<s n="n"/></l><r>estorsione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>forecast<s n="n"/></l><r>previsione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>immersion<s n="n"/></l><r>immersione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>imprecision<s n="n"/></l><r>imprecisione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>imprisonment<s n="n"/></l><r>reclusione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>inclusion<s n="n"/></l><r>inclusione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>inflection<s n="n"/></l><r>inflessione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>interconnection<s n="n"/></l><r>interconnessione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>intrusion<s n="n"/></l><r>intrusione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>legion<s n="n"/></l><r>legione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>omission<s n="n"/></l><r>omissione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>perversion<s n="n"/></l><r>perversione<s n="n"/><s n="f"/></r></p></e>
 
     <!-- ******************************
           group ij_symbol
