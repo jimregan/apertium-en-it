@@ -17855,7 +17855,8 @@
     <e lm="aquifer"><i>aquifer</i><par n="house__n"/>    </e>
     <e lm="arbitrariness"><i>arbitrariness</i><par n="access__n"/>    </e>
     <e lm="arch" a="carmentano"><i>arch</i><par n="access__n"/>    </e>
-    <e lm="archaeology"><i>archaeolog</i><par n="bab/y__n"/>    </e>
+    <e lm="archaeology"><i>arch</i><par n="e_ae"/><i>olog</i><par n="bab/y__n"/>    </e>
+    <e lm="scarcity"><i>scarcit</i><par n="bab/y__n"/>    </e>
     <e lm="archbishop"><i>archbishop</i><par n="house__n"/>    </e>
     <e lm="archipelago"><i>archipelago</i><par n="house__n"/>    </e>
     <e lm="architect"><i>architect</i><par n="house__n"/>    </e>
@@ -18482,6 +18483,7 @@
     <e lm="chronicler"><i>chronicler</i><par n="house__n"/>    </e>
     <e lm="chronology"><i>chronolog</i><par n="bab/y__n"/>    </e>
     <e lm="church"><i>church</i><par n="access__n"/>    </e>
+    <e lm="lurch"><i>lurch</i><par n="access__n"/>    </e>
     <e lm="cicada"><i>cicada</i><par n="house__n"/>    </e>
     <e lm="cigar"><i>cigar</i><par n="house__n"/>    </e>
     <e lm="cigarette"><i>cigarette</i><par n="house__n"/>    </e>
@@ -19596,6 +19598,11 @@
     <e lm="firmness"><i>firmness</i><par n="access__n"/>    </e>
     <e lm="fish"><i>fish</i><par n="bass__n"/>    </e>
     <e lm="fishing"><i>fishing</i><par n="house__n"/>    </e>
+    <e lm="angling"><i>angling</i><par n="house__n"/>    </e>
+    <e lm="authentication"><i>authentication</i><par n="house__n"/>    </e>
+    <e lm="switching"><i>switching</i><par n="house__n"/>    </e>
+    <e lm="convocation"><i>convocation</i><par n="house__n"/>    </e>
+    <e lm="conurbation"><i>conurbation</i><par n="house__n"/>    </e>
     <e lm="fly"><i>fl</i><par n="bab/y__n"/>    </e>
     <e lm="flag"><i>flag</i><par n="house__n"/>    </e>
     <e lm="flame"><i>flame</i><par n="house__n"/>    </e>

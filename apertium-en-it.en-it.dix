@@ -620,7 +620,7 @@
     <e><p><l>antecedent<s n="adj"/></l><r>antecedente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>antecedent<s n="n"/></l><r>antecedente<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>ape<s n="n"/></l><r>scimmia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>acquifer<s n="n"/></l><r>acquifera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aquifer<s n="n"/></l><r>acquifera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>alternative<s n="n"/></l><r>alternativa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antepenultimate<s n="adj"/></l><r>ante-penultimo<s n="adj"/></r></p></e>
     <e><p><l>anthropological<s n="adj"/></l><r>antropologico<s n="adj"/></r></p></e>
@@ -5979,6 +5979,7 @@
     <e><p><l>Earth<s n="np"/><s n="loc"/></l><r>Terra<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>Easter<b/>Island<s n="np"/><s n="loc"/></l><r>Isola<b/>di<b/>Pasqua<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>Marchena<b/>Island<s n="np"/><s n="loc"/></l><r>Isola<b/>Marchena<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>Isla<b/>Marchena<s n="np"/><s n="loc"/></l><r>Isola<b/>Marchena<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><i>Easton<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Eastwood<s n="np"/><s n="cog"/><s n="sg"/></l><r>Eastwood<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>Eastwood<s n="np"/><s n="cog"/><s n="pl"/></l><r>Eastwood<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -7025,6 +7026,7 @@
     <e><i>Graziano<s n="np"/><s n="ant"/></i></e>
     <e><i>Graziella<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Great<b/>Britain<s n="np"/><s n="loc"/></l><r>Gran<b/>Bretagna<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Britain<s n="np"/><s n="loc"/></l><r>Bretagna<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>Grecia<s n="np"/><s n="ant"/></l><r>Grecia<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Greece<s n="np"/><s n="loc"/></l><r>Grecia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>Greenland<s n="np"/><s n="loc"/></l><r>Groenlandia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
@@ -12149,9 +12151,11 @@
     <e><p><l>atrium<s n="n"/></l><r>atrio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>xenon<s n="n"/></l><r>xeno<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>zodiac<s n="n"/></l><r>zodiaco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lurch<s n="n"/></l><r>scarto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yoke<s n="n"/></l><r>giogo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>agnosia<s n="n"/></l><r>agnosia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>agora<s n="n"/></l><r>agorà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>scarcity<s n="n"/></l><r>scarsità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e r="RL"><p><l>pâté<s n="n"/></l><r>pâté<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>pâté<s n="n"/></l><r>patè<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>albite<s n="n"/></l><r>albite<s n="n"/><s n="f"/></r></p></e>
@@ -13018,8 +13022,7 @@
     <e><p><l>angina<s n="n"/></l><r>angina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>angle<s n="n"/></l><r>angolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>anglicism<s n="n"/></l><r>anglicismo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>angling<s n="n"/><s n="sg"/></l><r>angolazione<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>angling<s n="n"/><s n="sg"/></l><r>angolazione<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e><p><l>angling<s n="n"/></l><r>angolazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>animal<s n="n"/></l><r>animale<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>animation<s n="n"/></l><r>animazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>animism<s n="n"/></l><r>animismo<s n="n"/><s n="m"/></r></p></e>
@@ -17044,6 +17047,7 @@
     <e><p><l>kite<s n="n"/></l><r>aquilone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>knee<s n="n"/><s n="sg"/></l><r>ginocchio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>knee<s n="n"/><s n="pl"/></l><r>ginocchio<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>knee<s n="n"/><s n="pl"/></l><r>ginocchio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e><p><l>knife<s n="n"/></l><r>coltello<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>knight<s n="n"/></l><r>cavaliere<s n="n"/><s n="m"/></r></p></e>
     <e srl="knock"><p><l>knock<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e>
