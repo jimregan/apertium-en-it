@@ -3470,6 +3470,7 @@
     <e><i>Abercio<s n="np"/><s n="ant"/></i></e>
     <e><i>Abi<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Thebes<s n="np"/><s n="loc"/></l><r>Tebe<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Sri<b/>Lanka<s n="np"/><s n="loc"/></l><r>Sri<b/>Lanka<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>Abidjan<s n="np"/><s n="loc"/></l><r>Abidjan<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e><p><l>Samoa<s n="np"/><s n="loc"/><s n="sg"/></l><r>Samoa<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>Gambia<s n="np"/><s n="loc"/></l><r>Gambia<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
@@ -7943,6 +7944,7 @@
     <e r="LR"><p><l>Jones<s n="np"/><s n="cog"/><s n="pl"/></l><r>Jones<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><i>Jonás<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Jordan<s n="np"/><s n="loc"/></l><r>Giordania<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Generalitat<s n="np"/><s n="loc"/></l><r>Generalitat<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><i>Jordan<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Jordana<s n="np"/><s n="ant"/></l><r>Jordana<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Jordana<s n="np"/><s n="cog"/><s n="sg"/></l><r>Jordana<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -14155,9 +14157,9 @@
     <e><p><l>christmas<s n="n"/></l><r>natale<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chromatin<s n="n"/></l><r>cromatina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chromatism<s n="n"/></l><r>cromatismo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>chromatogram<s n="n"/></l><r>cromatografia<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>chromatograph<s n="n"/></l><r>cromatografia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>chromatogram<n></l><r>cromatografia<n><f></r></e>).-->
-    <e r="LR"><p><l>chromatography<s n="n"/></l><r>cromatografia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>chromatogram<n></l><r>cromatografia<n><f></r></e>).-->
+    <e><p><l>chromatogram<s n="n"/></l><r>cromatogramma<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>chromatograph<s n="n"/></l><r>cromatogramma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>chromatography<s n="n"/></l><r>cromatografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chromosome<s n="n"/></l><r>cromosoma<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chronicle<s n="n"/></l><r>cronaca<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chronology<s n="n"/></l><r>cronologia<s n="n"/><s n="f"/></r></p></e>
