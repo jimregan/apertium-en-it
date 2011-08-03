@@ -13112,11 +13112,16 @@
     <e><p><l>applause<s n="n"/></l><r>applauso<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>clap<s n="n"/></l><r>applauso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>felt<s n="n"/></l><r>feltro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>begging<s n="n"/></l><r>accattonaggio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>carbuncle<s n="n"/></l><r>carbonchio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>chamfer<s n="n"/></l><r>cianfrinatura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>asterisk<s n="n"/></l><r>asterisco<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>apple<s n="n"/></l><r>mela<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>appliance<s n="n"/></l><r>elettrodomestico<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>appliance<s n="n"/></l><r>elettrodomestico<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>applicability<s n="n"/></l><r>applicabilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>blogger<s n="n"/></l><r>blogger<s n="n"/><s n="mf"/></r></p><par n="SP"/></e>
+    <e><p><l>audio<s n="n"/></l><r>audio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>application<s n="n"/></l><r>applicazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>appointment<s n="n"/></l><r>appuntamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>apposition<s n="n"/></l><r>apposizione<s n="n"/><s n="f"/></r></p></e>
@@ -13601,6 +13606,7 @@
     <e><p><l>bleach<s n="n"/></l><r>candeggina<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>bleaching<s n="n"/></l><r>candeggina<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>bleach<n></l><r>candeggina<n><f></r></e>).-->
     <e><p><l>bleeding<s n="n"/></l><r>emorragia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bloodletting<s n="n"/></l><r>salasso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>blessing<s n="n"/></l><r>benedizione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>blind<s n="n"/></l><r>cieco<s n="n"/></r></p></e>
     <e r="LR"><p><l>blind<s n="n"/></l><r>cieco<s n="n"/><s n="GD"/></r></p></e>
@@ -15337,6 +15343,7 @@
     <e><p><l>edaphology<s n="n"/></l><r>edafologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>edema<s n="n"/></l><r>edema<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>edge<s n="n"/></l><r>canto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>brink<s n="n"/></l><r>orlo<s n="n"/><s n="m"/></r></p></e>
     <e i="yes"><p><l>edge<s n="n"/></l><r>filo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>cut<n></l><r>filo<n><m></r></e>).-->
     <e><p><l>edible<b/>pasta<s n="n"/></l><r>pasta<b/>alimentara<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>edict<s n="n"/></l><r>bando<s n="n"/><s n="m"/></r></p></e>
@@ -15648,6 +15655,7 @@
     <e><p><l>penance<s n="n"/></l><r>penitenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>existentialism<s n="n"/></l><r>esistenzialismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>exodus<s n="n"/></l><r>esodo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>beau<s n="n"/></l><r>corteggiatore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>exogamy<s n="n"/></l><r>esogamia<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>exotic<b/>dancer<s n="n"/></l><r>ballerino<b/>esotico<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>exotic<b/>dancer<s n="n"/></l><r>ballerino<b/>esotico<s n="n"/></r></p></e>
@@ -17279,6 +17287,17 @@
     <e><p><l>loss<s n="n"/></l><r>perdita<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lotion<s n="n"/></l><r>lozione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lottery<s n="n"/></l><r>lotteria<s n="n"/><s n="f"/></r></p></e>
+    <e srl="lottery D"><p><l>lottery<s n="n"/></l><r>lotto<s n="n"/><s n="m"/></r></p></e>
+    <e srl="batch"><p><l>batch<s n="n"/></l><r>lotto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bulletin<s n="n"/></l><r>bollettino<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>appellative<s n="n"/></l><r>appellativo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>appreciation<s n="n"/></l><r>apprezzamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>auspice<s n="n"/></l><r>auspicio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>betrayal<s n="n"/></l><r>tradimento<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>biographer<s n="n"/></l><r>biografo<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>biographer<s n="n"/></l><r>biografo<s n="n"/></r></p></e>
+    <e><p><l>bishopric<s n="n"/></l><r>vescovato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ashlar<s n="n"/></l><r>bugna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>louse<s n="n"/></l><r>pidocchio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>love<s n="n"/></l><r>amore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lover<s n="n"/></l><r>amante<s n="n"/><s n="mf"/></r></p></e>
@@ -21283,6 +21302,8 @@
     <e r="LR"><p><l>back<b/>to<b/>front<s n="adv"/></l><r>all'indietro<s n="adv"/></r></p></e>
     <e r="LR"><p><l>inside<b/>out<s n="adv"/></l><r>all'indietro<s n="adv"/></r></p></e>
     <e><p><l>the<b/>other<b/>way<b/>around<s n="adv"/></l><r>all'indietro<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>the<b/>brink<s n="adv"/></l><r>sull'orlo<b/>del<b/>precipizio<s n="adv"/></r></p></e>
+    <e><p><l>to<b/>on<b/>very<b/>brink<s n="adv"/></l><r>sull'orlo<b/>dell'abisso<s n="adv"/></r></p></e>
     <e r="LR"><p><l>the<b/>other<b/>way<b/>round<s n="adv"/></l><r>all'indietro<s n="adv"/></r></p></e>
     <e r="LR"><p><l>upside<b/>down<s n="adv"/></l><r>all'indietro<s n="adv"/></r></p></e>
     <e r="LR"><p><l>wrong<b/>side<b/>out<s n="adv"/></l><r>all'indietro<s n="adv"/></r></p></e>

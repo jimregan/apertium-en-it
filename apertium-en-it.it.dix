@@ -87940,7 +87940,9 @@
     <e lm="esecuzione"><i>esecuzion</i><par n="abbreviazion/e__n"/></e>
     <e lm="esempio"><i>esempi</i><par n="abbagli/o__n"/></e>
     <e lm="esemplare"><i>esemplar</i><par n="abat/e__n"/></e>
+    <e lm="corteggiatore"><i>corteggiator</i><par n="abat/e__n"/></e>
     <e lm="esercito"><i>esercit</i><par n="abbain/o__n"/></e>
+    <e lm="salasso"><i>salass</i><par n="abbain/o__n"/></e>
     <e lm="esercizio"><i>esercizi</i><par n="abbagli/o__n"/></e>
     <e lm="esigenza"><i>esigenz</i><par n="cas/a__n"/></e>
     <e lm="esiliato"><i>esiliat</i><par n="bambin/o__n"/></e>
@@ -91011,6 +91013,8 @@
     <e lm="bestialità"><i>bestialità</i><par n="abilità__n"/></e>
     <e lm="oculista"><i>oculist</i><par n="suicid/a__n"/></e>
     <e lm="villaggio"><i>villaggi</i><par n="abbagli/o__n"/></e>
+    <e lm="accattonaggio"><i>accattonaggi</i><par n="abbagli/o__n"/></e>
+    <e lm="carbonchio"><i>carbonchi</i><par n="abbagli/o__n"/></e>
     <e lm="attenuazione"><i>attenuazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="apprendista"><i>apprendist</i><par n="suicid/a__n"/></e>
     <e lm="autenticità"><i>autenticità</i><par n="abilità__n"/></e>
@@ -91027,7 +91031,9 @@
     <e lm="rock"><i>rock</i><par n="albatros__n"/></e>
     <e lm="pâté"><i>pâté</i><par n="albatros__n"/></e>
     <e lm="patè"><i>patè</i><par n="albatros__n"/></e>
+    <e lm="audio"><i>audio</i><par n="albatros__n"/></e>
     <e lm="cava"><i>cav</i><par n="cas/a__n"/></e>
+    <e lm="cianfrinatura"><i>cianfrinatur</i><par n="cas/a__n"/></e>
     <e lm="sopracciglio"><i>sopraccigli</i><par n="bracci/o__n"/></e>
     <e lm="collettivo"><i>collettiv</i><par n="abbain/o__n"/></e>
     <e lm="collezionista"><i>collezionist</i><par n="suicid/a__n"/></e>
@@ -91043,6 +91049,7 @@
     <e lm="rilascio"><i>rilasci</i><par n="abbagli/o__n"/></e>
     <e lm="sostanza"><i>sostanz</i><par n="cas/a__n"/></e>
     <e lm="tariffa"><i>tariff</i><par n="cas/a__n"/></e>
+    <e lm="bugna"><i>bugn</i><par n="cas/a__n"/></e>
     <e lm="freschezza"><i>freschezz</i><par n="cas/a__n"/></e>
     <e lm="carrozza"><i>carrozz</i><par n="cas/a__n"/></e>
     <e lm="generale"><i>general</i><par n="general/e__n"/></e>
@@ -91053,10 +91060,20 @@
     <e lm="labbro"><i>labbr</i><par n="budell/o__n"/></e>
     <e lm="lingerie"><i>lingerie</i><par n="abilità__n"/></e>
     <e lm="elenco"><i>elenc</i><par n="fung/o__n"/></e>
+    <e lm="asterisco"><i>asterisc</i><par n="fung/o__n"/></e>
     <e lm="prosieguo"><i>prosiegu</i><par n="abbain/o__n"/></e>
+    <e lm="orlo"><i>orl</i><par n="abbain/o__n"/></e>
+    <e lm="tradimento"><i>tradiment</i><par n="abbain/o__n"/></e>
+    <e lm="biografo"><i>biograf</i><par n="bambin/o__n"/></e>
+    <e lm="vescovato"><i>vescovat</i><par n="abbain/o__n"/></e>
+    <e lm="lotto"><i>lott</i><par n="abbain/o__n"/></e>
+    <e lm="bollettino"><i>bollettin</i><par n="abbain/o__n"/></e>
+    <e lm="appellativo"><i>appellativ</i><par n="abbain/o__n"/></e>
+    <e lm="apprezzamento"><i>apprezzament</i><par n="abbain/o__n"/></e>
     <e lm="obbligato"><i>obbligat</i><par n="bambin/o__n"/></e>
     <e lm="obbligo"><i>obblig</i><par n="fung/o__n"/></e>
     <e lm="scenario"><i>scenari</i><par n="abbagli/o__n"/></e>
+    <e lm="auspicio"><i>auspici</i><par n="abbagli/o__n"/></e>
     <e lm="paio"><i>pai</i><par n="budell/o__n"/></e>
     <e lm="ciglio"><i>cigli</i><par n="budell/o__n"/></e>
     <e lm="reputazione"><i>reputazion</i><par n="abbreviazion/e__n"/></e>
@@ -94919,6 +94936,8 @@
 <!--       ******************************      (adv) group      ******************************    -->
 
     <e lm="a breve"><i>a<b/>breve</i><par n="ieri__adv"/></e>
+    <e lm="sull'orlo del precipizio"><i>sull'orlo<b/>del<b/>precipizio</i><par n="ieri__adv"/></e>
+    <e lm="sull'orlo dell'abisso"><i>sull'orlo<b/>dell'abisso</i><par n="ieri__adv"/></e>
     <e lm="all'indietro"><i>all'indietro</i><par n="ieri__adv"/></e>
     <e lm="per un pelo"><i>per<b/>un<b/>pelo</i><par n="ieri__adv"/></e>
     <e lm="a bordo"><i>a<b/>bordo</i><par n="ieri__adv"/></e>
