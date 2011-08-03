@@ -2135,6 +2135,8 @@
     <e><p><l>meaningless<s n="adj"/></l><r>senza<b/>senso<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>measurable<s n="adj"/></l><r>misurabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>mechanical<s n="adj"/></l><r>meccanico<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>mechanic<s n="n"/></l><r>meccanico<s n="n"/></r></p></e>
+    <e r="LR"><p><l>mechanic<s n="n"/></l><r>meccanico<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>mediaeval<s n="adj"/></l><r>medioevale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>medial<s n="adj"/></l><r>mediale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>medical<s n="adj"/></l><r>medico<s n="adj"/></r></p></e>
@@ -12158,6 +12160,7 @@
     <e><p><l>agnosia<s n="n"/></l><r>agnosia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>agora<s n="n"/></l><r>agorà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>scarcity<s n="n"/></l><r>scarsità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>durability<s n="n"/></l><r>durabilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e r="RL"><p><l>pâté<s n="n"/></l><r>pâté<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>pâté<s n="n"/></l><r>patè<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>albite<s n="n"/></l><r>albite<s n="n"/><s n="f"/></r></p></e>
@@ -12189,7 +12192,15 @@
     <e><p><l>hammer<s n="n"/></l><r>martello<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hippocampus<s n="n"/></l><r>ippocampo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>humerus<s n="n"/></l><r>omero<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>kick<s n="n"/></l><r>calcio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>encounter<s n="n"/></l><r>incontro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>enthusiasm<s n="n"/></l><r>entusiasmo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>epic<s n="n"/></l><r>epica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>epilogue<s n="n"/></l><r>epilogo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>oesophagus<s n="n"/></l><r>esofago<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>excess<s n="n"/></l><r>eccesso<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>fanfare<s n="n"/></l><r>fanfara<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>femininity<s n="n"/></l><r>femminilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e srl="kick D"><p><l>kick<s n="n"/></l><r>calcio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>loan<s n="n"/></l><r>prestito<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>microstate<s n="n"/></l><r>microstato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>musk<s n="n"/></l><r>muschio<s n="n"/><s n="m"/></r></p></e>
@@ -15956,7 +15967,7 @@
     <e r="RL"><p><l>food<s n="n"/></l><r>alimento<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>food<n></l><r>cibo<n><m></r></e>).-->
     <e><p><l>foot<s n="n"/></l><r>piede<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>foot-and-mouth<b/>disease<s n="n"/></l><r>afta<b/>epizootica<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>football<s n="n"/><s n="sg"/></l><r>calcio<s n="n"/></r></p></e>
+    <e srl="football"><p><l>football<s n="n"/><s n="sg"/></l><r>calcio<s n="n"/></r></p><par n="SP"/></e>
     <e r="RL"><p><l>football<b/>pool<s n="n"/><s n="ND"/></l><r>totocalcio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>football<b/>pool<s n="n"/><s n="sg"/></l><r>totocalcio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>football<b/>pool<s n="n"/><s n="pl"/></l><r>totocalcio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -24770,7 +24781,7 @@
     <e><p><l>bisexuality<s n="n"/></l><r>bisessualità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e r="RL"><p><l>breadwinner<s n="n"/></l><r>capofamiglia<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>caducity<s n="n"/></l><r>caducità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
-    <e><p><l>calcium<s n="n"/></l><r>calcio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e srl="calcium"><p><l>calcium<s n="n"/></l><r>calcio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>capacity<s n="n"/></l><r>capacità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>captivity<s n="n"/></l><r>cattività<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>cerium<s n="n"/></l><r>cerio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -25276,7 +25287,6 @@
     <e><p><l>hammer<s n="n"/></l><r>martello<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hippocampus<s n="n"/></l><r>ippocampo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>humerus<s n="n"/></l><r>omero<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>kick<s n="n"/></l><r>calcio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>loan<s n="n"/></l><r>prestito<s n="n"/><s n="m"/></r></p></e>
     <e srl="loom D"><p><l>loom<s n="n"/></l><r>telaio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>microstate<s n="n"/></l><r>microstato<s n="n"/><s n="m"/></r></p></e>

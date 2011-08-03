@@ -86118,6 +86118,7 @@
     <e lm="abilità"><i>abilità</i><par n="abilità__n"/></e>
     <e lm="anafilassi"><i>anafilassi</i><par n="abilità__n"/></e>
     <e lm="serietà"><i>serietà</i><par n="abilità__n"/></e>
+    <e lm="durabilità"><i>durabilità</i><par n="abilità__n"/></e>
     <e lm="agorà"><i>agorà</i><par n="abilità__n"/></e>
     <e lm="albite"><i>albit</i><par n="abbreviazion/e__n"/></e>
     <e lm="agnosia"><i>agnosi</i><par n="cas/a__n"/></e>
@@ -91053,6 +91054,7 @@
     <e lm="bugna"><i>bugn</i><par n="cas/a__n"/></e>
     <e lm="freschezza"><i>freschezz</i><par n="cas/a__n"/></e>
     <e lm="carrozza"><i>carrozz</i><par n="cas/a__n"/></e>
+    <e lm="fanfara"><i>fanfar</i><par n="cas/a__n"/></e>
     <e lm="generale"><i>general</i><par n="general/e__n"/></e>
     <e lm="uovo"><i>uov</i><par n="budell/o__n"/></e>
     <e lm="inserimento"><i>inseriment</i><par n="abbain/o__n"/></e>
@@ -91060,6 +91062,7 @@
     <e lm="luglio"><i>lugli</i><par n="febbrai/o__n"/></e>
     <e lm="labbro"><i>labbr</i><par n="budell/o__n"/></e>
     <e lm="lingerie"><i>lingerie</i><par n="abilità__n"/></e>
+    <e lm="femminilità"><i>femminilità</i><par n="abilità__n"/></e>
     <e lm="elenco"><i>elenc</i><par n="fung/o__n"/></e>
     <e lm="asterisco"><i>asterisc</i><par n="fung/o__n"/></e>
     <e lm="prosieguo"><i>prosiegu</i><par n="abbain/o__n"/></e>
@@ -91068,11 +91071,14 @@
     <e lm="biografo"><i>biograf</i><par n="bambin/o__n"/></e>
     <e lm="vescovato"><i>vescovat</i><par n="abbain/o__n"/></e>
     <e lm="lotto"><i>lott</i><par n="abbain/o__n"/></e>
+    <e lm="eccesso"><i>eccess</i><par n="abbain/o__n"/></e>
     <e lm="bollettino"><i>bollettin</i><par n="abbain/o__n"/></e>
     <e lm="appellativo"><i>appellativ</i><par n="abbain/o__n"/></e>
     <e lm="apprezzamento"><i>apprezzament</i><par n="abbain/o__n"/></e>
     <e lm="obbligato"><i>obbligat</i><par n="bambin/o__n"/></e>
     <e lm="obbligo"><i>obblig</i><par n="fung/o__n"/></e>
+    <e lm="epilogo"><i>epilog</i><par n="fung/o__n"/></e>
+    <e lm="esofago"><i>esofag</i><par n="fung/o__n"/></e>
     <e lm="scenario"><i>scenari</i><par n="abbagli/o__n"/></e>
     <e lm="auspicio"><i>auspici</i><par n="abbagli/o__n"/></e>
     <e lm="paio"><i>pai</i><par n="budell/o__n"/></e>
@@ -96704,6 +96710,7 @@
     <e lm="sovvenzionare"><i>sovvenzion</i><par n="abbacin/are__vblex"/></e>
     <e lm="supervisionare"><i>supervision</i><par n="abbacin/are__vblex"/></e>
     <e lm="antropologo"><i>antropolog</i><par n="cosmetic/o__n"/></e>
+    <e lm="meccanico"><i>meccanic</i><par n="cosmetic/o__n"/></e>
     <e lm="paleontologo"><i>paleontolog</i><par n="cosmetic/o__n"/></e>
     <e lm="turco"><i>turc</i><par n="cosmetic/o__n"/></e>
     <e lm="agnostico"><i>agnostic</i><par n="cosmetic/o__n"/></e>
@@ -99541,6 +99548,8 @@
     <e lm="sussidiaria"><i>sussidiari</i><par n="cas/a__n"/></e>
     <e lm="taenia"><i>taeni</i><par n="cas/a__n"/></e>
     <e lm="allarmismo"><i>allarmism</i><par n="abbain/o__n"/></e>
+    <e lm="incontro"><i>incontr</i><par n="abbain/o__n"/></e>
+    <e lm="entusiasmo"><i>entusiasm</i><par n="abbain/o__n"/></e>
     <e lm="azzurro"><i>azzurr</i><par n="abbain/o__n"/></e>
     <e lm="netto"><i>nett</i><par n="abbain/o__n"/></e>
     <e lm="americanismo"><i>americanism</i><par n="abbain/o__n"/></e>
@@ -100099,6 +100108,7 @@
     <e lm="siriano"><i>sirian</i><par n="bambin/o__n"/></e>
     <e lm="sumero"><i>sumer</i><par n="bambin/o__n"/></e>
     <e lm="brocca"><i>brocc</i><par n="tasc/a__n"/></e>
+    <e lm="epica"><i>epic</i><par n="tasc/a__n"/></e>
     <e lm="bistecca"><i>bistecc</i><par n="tasc/a__n"/></e>
     <e lm="politica"><i>politic</i><par n="tasc/a__n"/></e>
     <e lm="mucca"><i>mucc</i><par n="tasc/a__n"/></e>

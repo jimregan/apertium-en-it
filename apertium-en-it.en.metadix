@@ -9322,6 +9322,12 @@
 	  <r>oe</r>
 	</p>
       </e>
+      <e r="LR">
+	<p>
+	  <l>œ</l>
+	  <r>oe</r>
+	</p>
+      </e>
     </pardef>
     <pardef n="organi/ze__vblex">
       <e r="LR" c="en_GB, en_ZA, en_IE">
@@ -19031,7 +19037,7 @@
     <e lm="desertion"><i>desertion</i><par n="house__n"/>    </e>
     <e lm="desertisation"><i>deserti</i><par n="globali/sation__n"/>    </e>
     <e lm="desexualisation"><i>desexuali</i><par n="globali/sation__n"/>    </e>
-    <e lm="deshumanisation"><i>deshumani</i><par n="globali/sation__n"/>    </e>
+    <e lm="dehumanisation"><i>dehumani</i><par n="globali/sation__n"/>    </e>
     <e lm="design"><i>design</i><par n="house__n"/>    </e>
     <e lm="designation"><i>designation</i><par n="house__n"/>    </e>
     <e lm="designer" a="carmentano"><i>designer</i><par n="house__n"/>    </e>
@@ -19400,7 +19406,7 @@
     <e lm="eruption"><i>eruption</i><par n="house__n"/>    </e>
     <e lm="escape"><i>escape</i><par n="house__n"/>    </e>
     <e lm="escrow"><i>escrow</i><par n="house__n"/>    </e>
-    <e lm="esophagus"><i>esophagus</i><par n="access__n"/>    </e>
+    <e lm="esophagus"><par n="e_oe"/><i>sophagus</i><par n="access__n"/>    </e>
     <e lm="esoterism"><i>esoterism</i><par n="house__n"/>    </e>
     <e lm="espionage"><i>espionage</i><par n="house__n"/>    </e>
     <e lm="essay"><i>essay</i><par n="house__n"/>    </e>
@@ -19560,7 +19566,7 @@
     <e lm="female"><i>female</i><par n="house__n"/>    </e>
     <e lm="feminism"><i>feminism</i><par n="house__n"/>    </e>
     <e lm="feminist"><i>feminist</i><par n="house__n"/>    </e>
-    <e lm="feminity"><i>feminit</i><par n="bab/y__n"/>    </e>
+    <e lm="femininity"><i>femininit</i><par n="bab/y__n"/>    </e>
     <e lm="femur"><i>femur</i><par n="house__n"/>    </e>
     <e lm="fence"><i>fence</i><par n="house__n"/>    </e>
     <e lm="wire fence"><i>wire<b/>fence</i><par n="house__n"/>    </e>
