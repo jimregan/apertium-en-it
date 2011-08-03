@@ -90888,6 +90888,7 @@
     <e lm="vettore"><i>vettor</i><par n="abat/e__n"/></e>
     <e lm="via"><i>vi</i><par n="cas/a__n"/></e>
     <e lm="viaggiatore"><i>viaggiat</i><par n="agricolt/ore__n"/></e>
+    <e lm="impalatore"><i>impalat</i><par n="agricolt/ore__n"/></e>
     <e lm="viaggio"><i>viaggi</i><par n="abbagli/o__n"/></e>
     <e lm="viadotto"><i>viadott</i><par n="abbain/o__n"/></e>
     <e lm="vibrazione"><i>vibrazion</i><par n="abbreviazion/e__n"/></e>
@@ -90992,12 +90993,15 @@
     <e lm="zip"><i>zip</i><par n="albatros__n"/></e>
     <e lm="tesla"><i>tesla</i><par n="albatros__n"/></e>
     <e lm="rock"><i>rock</i><par n="albatros__n"/></e>
+    <e lm="pâté"><i>pâté</i><par n="albatros__n"/></e>
+    <e lm="patè"><i>patè</i><par n="albatros__n"/></e>
     <e lm="cava"><i>cav</i><par n="cas/a__n"/></e>
     <e lm="sopracciglio"><i>sopraccigli</i><par n="bracci/o__n"/></e>
     <e lm="collettivo"><i>collettiv</i><par n="abbain/o__n"/></e>
     <e lm="collezionista"><i>collezionist</i><par n="suicid/a__n"/></e>
     <e lm="confronto"><i>confront</i><par n="abbain/o__n"/></e>
     <e lm="assessore"><i>assessor</i><par n="albanes/e__n"/></e>
+    <e lm="adattore"><i>adattor</i><par n="albanes/e__n"/></e>
     <e lm="raffronto"><i>raffront</i><par n="abbain/o__n"/></e>
     <e lm="guscio"><i>gusci</i><par n="abbagli/o__n"/></e>
     <e lm="perturbazione"><i>perturbazion</i><par n="abbreviazion/e__n"/></e>
@@ -91041,6 +91045,7 @@
     <e lm="significazione"><i>significazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="festival cinematografico"><i>festival<b/>cinematografic</i><par n="abbain/o__n"/></e>
     <e lm="lustrino"><i>lustrin</i><par n="abbain/o__n"/></e>
+    <e lm="reverendo"><i>reverend</i><par n="abbain/o__n"/></e>
 
 <!--zione-->
 
@@ -91667,6 +91672,8 @@
     <e lm="vitalità"><i>vitalità</i><par n="abilità__n"/></e>
     <e lm="vivacità"><i>vivacità</i><par n="abilità__n"/></e>
     <e lm="vulnerabilità"><i>vulnerabilità</i><par n="abilità__n"/></e>
+    <e lm="glasnost'"><i>glasnost'</i><par n="abilità__n"/></e>
+    <e lm="glasnost"><i>glasnost</i><par n="abilità__n"/></e>
 
 <!-- enza -->
     <e lm="accoglienza"><i>accoglienz</i><par n="cas/a__n"/></e>
@@ -92410,6 +92417,7 @@
     <e lm="greco"><i>grec</i><par n="tecnic/o__adj"/></e>
     <e lm="grigio"><i>grigi</i><par n="abbandonat/o__adj"/></e>
     <e lm="grigio"><i>grigi</i><par n="segretari/o__n"/></e>
+    <e lm="reazionario"><i>reazionari</i><par n="segretari/o__n"/></e>
     <e lm="grossista"><i>grossist</i><par n="suicid/a__adj"/></e>
     <e lm="grosso"><i>gross</i><par n="abbandonat/o__adj"/></e>
     <e lm="guerriero"><i>guerrier</i><par n="abbandonat/o__adj"/></e>
@@ -92873,6 +92881,7 @@
     <e lm="relativo"><i>relativ</i><par n="abbandonat/o__adj"/></e>
     <e lm="religioso"><i>religios</i><par n="abbandonat/o__adj"/></e>
     <e lm="repubblicano"><i>repubblican</i><par n="abbandonat/o__adj"/></e>
+    <e lm="repubblicano"><i>repubblican</i><par n="bambin/o__n"/></e>
     <e lm="residenziale"><i>residenzial</i><par n="albanes/e__adj"/></e>
     <e lm="residuale"><i>residual</i><par n="albanes/e__adj"/></e>
     <e lm="resistente"><i>resiste</i><par n="abbacchia/nte__adj"/></e>
@@ -94393,6 +94402,7 @@
     <e lm="telefonare"><i>telefon</i><par n="abbacin/are__vblex"/></e>
     <e lm="temere"><i>tem</i><par n="abbatt/ere__vblex"/></e>
     <e lm="gemere"><i>gem</i><par n="abbatt/ere__vblex"/></e>
+    <e lm="spremere"><i>sprem</i><par n="abbatt/ere__vblex"/></e>
     <e lm="temperare"><i>temper</i><par n="abbacin/are__vblex"/></e>
     <e lm="tenere"><i>t</i><par n="appart/enere__vblex"/></e>
     <e lm="intrattenere"><i>intratt</i><par n="appart/enere__vblex"/></e>
@@ -94428,6 +94438,7 @@
     <e lm="trattare"><i>tratt</i><par n="abbacin/are__vblex"/></e>
     <e lm="tributare"><i>tribut</i><par n="abbacin/are__vblex"/></e>
     <e lm="trionfare"><i>trionf</i><par n="abbacin/are__vblex"/></e>
+    <e lm="stufare"><i>stuf</i><par n="abbacin/are__vblex"/></e>
     <e lm="triplicare"><i>triplic</i><par n="abbarbic/are__vblex"/></e>
     <e lm="trovare"><i>trov</i><par n="abbacin/are__vblex"/></e>
     <e lm="tutelare"><i>tutel</i><par n="abbacin/are__vblex"/></e>

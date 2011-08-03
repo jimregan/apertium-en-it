@@ -2568,6 +2568,8 @@
     <e><p><l>rare<s n="adj"/><s n="sint"/></l><r>raro<s n="adj"/></r></p></e>
     <e><p><l>rational<s n="adj"/></l><r>razionale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>reactionary<s n="adj"/></l><r>reazionario<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>reactionary<s n="n"/></l><r>reazionario<s n="n"/></r></p></e>
+    <e r="LR"><p><l>reactionary<s n="n"/></l><r>reazionario<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>readable<s n="adj"/></l><r>leggibile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>reader<s n="adj"/></l><r>lettore<s n="adj"/></r></p></e>
     <e r="LR"><p><l>real<s n="adj"/></l><r>reale<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>actual<adj></l><r>reale<adj><mf></r></e>).-->
@@ -2615,6 +2617,8 @@
     <e><p><l>representative<s n="adj"/></l><r>rappresentativo<s n="adj"/></r></p></e>
     <e><p><l>reproducible<s n="adj"/></l><r>riproducibile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>republican<s n="adj"/></l><r>repubblicano<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>republican<s n="n"/></l><r>repubblicano<s n="n"/></r></p></e>
+    <e r="LR"><p><l>republican<s n="n"/></l><r>repubblicano<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>repugnant<s n="adj"/></l><r>ripugnante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>resident<s n="adj"/></l><r>residente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>residential<s n="adj"/></l><r>residenziale<s n="adj"/><s n="mf"/></r></p></e>
@@ -2636,6 +2640,7 @@
     <e><p><l>retrospective<s n="adj"/></l><r>retrospettivo<s n="adj"/></r></p></e>
     <e><p><l>reusable<s n="adj"/></l><r>riutilizzabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>reverend<s n="adj"/></l><r>reverendo<s n="adj"/></r></p></e>
+    <e><p><l>reverend<s n="n"/></l><r>reverendo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>reverse<s n="adj"/></l><r>inverso<s n="adj"/></r></p></e>
     <e><p><l>reversible<s n="adj"/></l><r>reversibile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>revocable<s n="adj"/></l><r>revocabile<s n="adj"/><s n="mf"/></r></p></e>
@@ -12134,6 +12139,8 @@
     <e><p><l>yoke<s n="n"/></l><r>giogo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>agnosia<s n="n"/></l><r>agnosia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>agora<s n="n"/></l><r>agorà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e r="RL"><p><l>pâté<s n="n"/></l><r>pâté<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>pâté<s n="n"/></l><r>patè<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>albite<s n="n"/></l><r>albite<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>apriority<s n="n"/></l><r>apriorismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>calque<s n="n"/></l><r>calco<s n="n"/><s n="m"/></r></p></e>
@@ -24196,6 +24203,7 @@
     <e r="LR"><p><l>spring<s n="vblex"/></l><r>saltare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>jump<vblex></l><r>saltare<vblex></r></e>).-->
     <e><p><l>spy<s n="vblex"/></l><r>spiare<s n="vblex"/></r></p></e>
     <e><p><l>squeeze<s n="vblex"/></l><r>spremere<s n="vblex"/></r></p></e>
+    <e><p><l>stew<s n="vblex"/></l><r>stufare<s n="vblex"/></r></p></e>
     <e><p><l>stabilise<s n="vblex"/></l><r>stabilizzare<s n="vblex"/></r></p></e>
     <e><p><l>stage<s n="vblex"/></l><r>inscenare<s n="vblex"/></r></p></e>
     <e><p><l>stagnate<s n="vblex"/></l><r>ristagnare<s n="vblex"/></r></p></e>
@@ -24618,6 +24626,11 @@
       ****************************** -->
     <e><p><l>Ash<b/>Wednesday<s n="n"/></l><r>Mercoledì<b/>delle<b/>Ceneri<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>ability<s n="n"/></l><r>abilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>glasnost<s n="n"/></l><r>glasnost'<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e r="RL"><p><l>glasnost<s n="n"/></l><r>glasnost<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>adaptor<s n="n"/></l><r>adattore<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>impaler<s n="n"/></l><r>impalatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>impaler<s n="n"/></l><r>impalatore<s n="n"/></r></p></e>
     <e><p><l>abnormality<s n="n"/></l><r>anormalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e r="LR"><p><l>accountancy<s n="n"/></l><r>contabilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>accounting<s n="n"/></l><r>contabilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
