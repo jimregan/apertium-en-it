@@ -17660,6 +17660,8 @@
     <e lm="ad"><i>ad</i><par n="house__n"/>    </e>
     <e lm="adaptation"><i>adaptation</i><par n="house__n"/>    </e>
     <e lm="adapter"><i>adapter</i><par n="house__n"/>    </e>
+    <e lm="assessor"><i>assessor</i><par n="house__n"/>    </e>
+    <e lm="collective"><i>collective</i><par n="house__n"/>    </e>
     <e lm="addendum"><i>addendum</i><par n="house__n"/>    </e>
     <e lm="addict"><i>addict</i><par n="house__n"/>    </e>
     <e lm="addition"><i>addition</i><par n="house__n"/>    </e>
@@ -17915,7 +17917,7 @@
     <e lm="asymmetry"><i>asymmetr</i><par n="bab/y__n"/>    </e>
     <e lm="athlete"><i>athlete</i><par n="house__n"/>    </e>
     <e lm="athletics"><i>athletics</i><par n="east__n"/>    </e>
-    <e lm="perestroika"><i>perestroika</i><par n="east__n"/>    </e>
+    <e lm="perestroika"><i>perestroika</i><par n="house__n"/>    </e>
     <e lm="glasnost"><i>glasnost</i><par n="east__n"/>    </e>
     <e lm="atmosphere"><i>atmosphere</i><par n="house__n"/>    </e>
     <e lm="atom"><i>atom</i><par n="house__n"/>    </e>
@@ -22442,6 +22444,7 @@
     <e lm="task"><i>task</i><par n="house__n"/>    </e>
     <e lm="taste"><i>taste</i><par n="house__n"/>    </e>
     <e lm="tax"><i>tax</i><par n="access__n"/>    </e>
+    <e lm="surtax"><i>surtax</i><par n="access__n"/>    </e>
     <e lm="tax haven"><i>tax<b/>haven</i><par n="house__n"/>    </e>
     <e lm="haven"><i>haven</i><par n="house__n"/>    </e>
     <e lm="refuge"><i>refuge</i><par n="house__n"/>    </e>
@@ -28297,6 +28300,7 @@
     <e lm="appetiser">	  <i>appeti</i><par n="z_s"/><i>er</i> 	  <par n="house__n"/> 	</e>
     <e lm="solar cooker">	  <i>solar<b/>cooker</i> 	  <par n="house__n"/> 	</e>
     <e lm="stability">	  <i>stabilit</i> 	  <par n="bab/y__n"/> 	</e>
+    <e lm="confraternity">	  <i>confraternit</i> 	  <par n="bab/y__n"/> 	</e>
     <e lm="stock exchange">	  <i>stock<b/>exchange</i> 	  <par n="house__n"/> 	</e>
     <e lm="stock market">	  <i>stock<b/>market</i> 	  <par n="house__n"/> 	</e>
     <e lm="NASDAQ">	  <i>NASDAQ</i> 	  <par n="BBC__n"/> 	</e>

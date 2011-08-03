@@ -13018,7 +13018,8 @@
     <e><p><l>angina<s n="n"/></l><r>angina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>angle<s n="n"/></l><r>angolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>anglicism<s n="n"/></l><r>anglicismo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>angling<s n="n"/></l><r>angolazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>angling<s n="n"/><s n="sg"/></l><r>angolazione<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>angling<s n="n"/><s n="sg"/></l><r>angolazione<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>animal<s n="n"/></l><r>animale<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>animation<s n="n"/></l><r>animazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>animism<s n="n"/></l><r>animismo<s n="n"/><s n="m"/></r></p></e>
@@ -14035,6 +14036,7 @@
     <e><p><l>chalcography<s n="n"/></l><r>calcografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chalk<s n="n"/></l><r>gesso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>challenge<s n="n"/></l><r>sfida<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>challenge<s n="n"/></l><r>contestazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chamber<s n="n"/></l><r>stanza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chameleon<s n="n"/></l><r>camaleonte<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>champagne<s n="n"/><s n="sg"/></l><r>champagne<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -14520,6 +14522,8 @@
     <e><p><l>continent<s n="n"/></l><r>continente<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>contingent<s n="n"/></l><r>contingente<s n="n"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>continuation<s n="n"/></l><r>proseguimento<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>continuation<s n="n"/></l><r>prosieguo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>surtax<s n="n"/></l><r>soprattassa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>continuation<s n="n"/></l><r>continuazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>continuity<s n="n"/><s n="ND"/></l><r>continuità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>continuity<s n="n"/><s n="sg"/></l><r>continuità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -17038,7 +17042,8 @@
     <e r="RL"><p><l>kiss<s n="n"/></l><r>bacetto<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>kitchen<s n="n"/></l><r>cucina<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>cooker<n></l><r>cucina<n><f></r></e>).-->
     <e><p><l>kite<s n="n"/></l><r>aquilone<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>knee<s n="n"/></l><r>ginocchio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>knee<s n="n"/><s n="sg"/></l><r>ginocchio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>knee<s n="n"/><s n="pl"/></l><r>ginocchio<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>knife<s n="n"/></l><r>coltello<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>knight<s n="n"/></l><r>cavaliere<s n="n"/><s n="m"/></r></p></e>
     <e srl="knock"><p><l>knock<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e>
@@ -17287,12 +17292,14 @@
     <e><p><l>loss<s n="n"/></l><r>perdita<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lotion<s n="n"/></l><r>lozione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lottery<s n="n"/></l><r>lotteria<s n="n"/><s n="f"/></r></p></e>
-    <e srl="lottery D"><p><l>lottery<s n="n"/></l><r>lotto<s n="n"/><s n="m"/></r></p></e>
+    <e srl="lottery D" r="RL"><p><l>lottery<s n="n"/></l><r>lotto<s n="n"/><s n="m"/></r></p></e>
     <e srl="batch"><p><l>batch<s n="n"/></l><r>lotto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bulletin<s n="n"/></l><r>bollettino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>appellative<s n="n"/></l><r>appellativo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>appreciation<s n="n"/></l><r>apprezzamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>auspice<s n="n"/></l><r>auspicio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>catheter<s n="n"/></l><r>catetere<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>admission<s n="n"/></l><r>ammissione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>betrayal<s n="n"/></l><r>tradimento<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>biographer<s n="n"/></l><r>biografo<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>biographer<s n="n"/></l><r>biografo<s n="n"/></r></p></e>
@@ -21233,6 +21240,8 @@
     <e><p><l>criterion<s n="n"/></l><r>criterio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>decree<s n="n"/></l><r>decreto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>disenchantment<s n="n"/></l><r>disincanto<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>confrerie<s n="n"/></l><r>confraternita<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>confraternity<s n="n"/></l><r>confraternita<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>disequilibrium<s n="n"/></l><r>squilibrio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>diskette<s n="n"/></l><r>dischetto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>dismantlement<s n="n"/></l><r>smantellamento<s n="n"/><s n="m"/></r></p></e>
@@ -21329,7 +21338,7 @@
     <e r="LR"><p><l>inside<b/>out<s n="adv"/></l><r>all'indietro<s n="adv"/></r></p></e>
     <e><p><l>the<b/>other<b/>way<b/>around<s n="adv"/></l><r>all'indietro<s n="adv"/></r></p></e>
     <e><p><l>on<b/>the<b/>brink<s n="adv"/></l><r>sull'orlo<b/>del<b/>precipizio<s n="adv"/></r></p></e>
-    <e><p><l>to<b/>on<b/>very<b/>brink<s n="adv"/></l><r>sull'orlo<b/>dell'abisso<s n="adv"/></r></p></e>
+    <e><p><l>to<b/>the<b/>very<b/>brink<s n="adv"/></l><r>sull'orlo<b/>dell'abisso<s n="adv"/></r></p></e>
     <e r="LR"><p><l>the<b/>other<b/>way<b/>round<s n="adv"/></l><r>all'indietro<s n="adv"/></r></p></e>
     <e r="LR"><p><l>upside<b/>down<s n="adv"/></l><r>all'indietro<s n="adv"/></r></p></e>
     <e r="LR"><p><l>wrong<b/>side<b/>out<s n="adv"/></l><r>all'indietro<s n="adv"/></r></p></e>
@@ -24724,7 +24733,8 @@
     <e><p><l>ability<s n="n"/></l><r>abilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>glasnost<s n="n"/></l><r>glasnost'<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e r="RL"><p><l>glasnost<s n="n"/></l><r>glasnost<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
-    <e><p><l>adaptor<s n="n"/></l><r>adattore<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>adapter<s n="n"/></l><r>adattore<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>assessor<s n="n"/></l><r>assessore<s n="n"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>impaler<s n="n"/></l><r>impalatore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>impaler<s n="n"/></l><r>impalatore<s n="n"/></r></p></e>
     <e><p><l>abnormality<s n="n"/></l><r>anormalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
