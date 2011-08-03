@@ -12199,6 +12199,8 @@
     <e><p><l>oesophagus<s n="n"/></l><r>esofago<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>excess<s n="n"/></l><r>eccesso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fanfare<s n="n"/></l><r>fanfara<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>backstitch<s n="n"/></l><r>punto<b/>indietro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>beautician<s n="n"/></l><r>estetista<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dehumanisation<s n="n"/></l><r>disumanizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>faeces<s n="n"/></l><r>feci<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>malleability<s n="n"/></l><r>malleabilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
@@ -14992,9 +14994,16 @@
     <e r="LR"><p><l>depth<s n="n"/><s n="sg"/></l><r>profondità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>depth<s n="n"/><s n="pl"/></l><r>profondità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>deputation<s n="n"/></l><r>deputazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>deputy<s n="n"/></l><r>aiutante<s n="n"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>assistant<n></l><r>aiutante<n><mf></r></e>).-->
-    <e i="yes"><p><l>deputy<s n="n"/></l><r>deputato<s n="n"/><s n="GD"/></r></p></e><!--  autorestricted (<e r="LR"><l>deputy<n></l><r>aiutante<n><mf></r></e>).-->
+    <e><p><l>vent<s n="n"/></l><r>sfogo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>respirator<s n="n"/></l><r>respiratore<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>breather<s n="n"/></l><r>respiratore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cannibal<s n="n"/></l><r>cannibale<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>yankee<s n="n"/></l><r>yankee<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>zen<s n="n"/></l><r>zen<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e r="LR"><p><l>deputy<s n="n"/></l><r>deputato<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>deputy<s n="n"/></l><r>deputato<s n="n"/></r></p></e>
+    <e r="LR"><p><l>euro-deputy<s n="n"/></l><r>eurodeputato<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>euro-deputy<s n="n"/></l><r>eurodeputato<s n="n"/></r></p></e>
     <e><p><l>derivation<s n="n"/></l><r>derivazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>derivative<s n="n"/></l><r>derivata<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dermatology<s n="n"/></l><r>dermatologia<s n="n"/><s n="f"/></r></p></e>
@@ -19920,6 +19929,19 @@
     <e><p><l>somnambulism<s n="n"/></l><r>sonnambulismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>son<s n="n"/></l><r>figlio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>song<s n="n"/></l><r>canzone<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>song<s n="n"/></l><r>cantata<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>cantata<s n="n"/></l><r>cantata<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>caciquism<s n="n"/></l><r>cacicchismo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Thomism<s n="n"/></l><r>tomismo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Wagnerism<s n="n"/></l><r>wagnerismo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>capsid<s n="n"/></l><r>capside<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bandwidth<s n="n"/></l><r>larghezza<g><b/>di<b/>banda</g><s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cadmium<s n="n"/><s n="sg"/></l><r>cadmio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>cadmium<s n="n"/><s n="pl"/></l><r>cadmio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>cacique<s n="n"/></l><r>cacicco<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>cacique<s n="n"/></l><r>cacicco<s n="n"/></r></p></e>
+    <e r="LR"><p><l>uruguayan<s n="n"/></l><r>uruguaiano<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>uruguayan<s n="n"/></l><r>uruguaiano<s n="n"/></r></p></e>
     <e r="LR"><p><l>songwriter<s n="n"/></l><r>compositore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>sonority<s n="n"/><s n="ND"/></l><r>sonorità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>sonority<s n="n"/><s n="sg"/></l><r>sonorità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -19943,7 +19965,8 @@
     <e><p><l>sow<s n="n"/></l><r>scrofa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>soya<s n="n"/></l><r>soia<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>soybean<s n="n"/></l><r>soia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>spa<s n="n"/></l><r>terme<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>spa<s n="n"/></l><r>terme<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>allergology<s n="n"/></l><r>allergologia<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>space<s n="n"/></l><r>spazio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>spacecraft<s n="n"/></l><r>velivolo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>spacer<s n="n"/></l><r>spaziatore<s n="n"/><s n="GD"/></r></p></e>
@@ -24802,6 +24825,8 @@
     <e><p><l>community<s n="n"/></l><r>comunità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>complementarity<s n="n"/></l><r>complementarità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>condom<s n="n"/></l><r>profilattico<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>doughnut<s n="n"/></l><r>bombolone<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>donut<s n="n"/></l><r>bombolone<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>condom<s n="n"/></l><r>condom<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>connectivity<s n="n"/></l><r>connettività<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>consanguinity<s n="n"/></l><r>consanguineità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
