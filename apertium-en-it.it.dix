@@ -86314,6 +86314,7 @@
     <e lm="alcool denaturato"><i>alcool<b/>denaturat</i><par n="abbain/o__n"/></e>
     <e lm="amilasi"><i>amilasi</i><par n="abilità__n"/></e>
     <e lm="ammoniaca"><i>ammoniac</i><par n="tasc/a__n"/></e>
+    <e lm="atletica"><i>atletic</i><par n="tasc/a__n"/></e>
     <e lm="borough"><i>borough</i><par n="albatros__n"/></e>
     <e lm="stuzzicadenti"><i>stuzzicadenti</i><par n="albatros__n"/></e>
     <e lm="gremlin"><i>gremlin</i><par n="albatros__n"/></e>
@@ -87945,6 +87946,30 @@
     <e lm="esiliato"><i>esiliat</i><par n="bambin/o__n"/></e>
     <e lm="esilio"><i>esili</i><par n="abbain/o__n"/></e>
     <e lm="esistenza"><i>esistenz</i><par n="cas/a__n"/></e>
+    <e lm="non esistenza"><i>non<b/>esistenz</i><par n="cas/a__n"/></e>
+    <e lm="contrattura"><i>contrattur</i><par n="cas/a__n"/></e>
+    <e lm="stagionatura"><i>stagionatur</i><par n="cas/a__n"/></e>
+    <e lm="tintura"><i>tintur</i><par n="cas/a__n"/></e>
+    <e lm="sfaccettatura"><i>sfaccettatur</i><par n="cas/a__n"/></e>
+    <e lm="fioritura"><i>fioritur</i><par n="cas/a__n"/></e>
+    <e lm="investitura"><i>investitur</i><par n="cas/a__n"/></e>
+    <e lm="etichettatura"><i>etichettatur</i><par n="cas/a__n"/></e>
+    <e lm="muscolatura"><i>muscolatur</i><par n="cas/a__n"/></e>
+    <e lm="consulenza"><i>consulenz</i><par n="cas/a__n"/></e>
+    <e lm="convalescenza"><i>convalescenz</i><par n="cas/a__n"/></e>
+    <e lm="convenienza"><i>convenienz</i><par n="cas/a__n"/></e>
+    <e lm="decenza"><i>decenz</i><par n="cas/a__n"/></e>
+    <e lm="dipendenza"><i>dipendenz</i><par n="cas/a__n"/></e>
+    <e lm="disobbedienza"><i>disobbedienz</i><par n="cas/a__n"/></e>
+    <e lm="dissidenza"><i>dissidenz</i><par n="cas/a__n"/></e>
+    <e lm="eminenza"><i>eminenz</i><par n="cas/a__n"/></e>
+    <e lm="impazienza"><i>impazienz</i><par n="cas/a__n"/></e>
+    <e lm="incompetenza"><i>incompetenz</i><par n="cas/a__n"/></e>
+    <e lm="incontinenza"><i>incontinenz</i><par n="cas/a__n"/></e>
+    <e lm="insolvenza"><i>insolvenz</i><par n="cas/a__n"/></e>
+    <e lm="scadenza"><i>scadenz</i><par n="cas/a__n"/></e>
+    <e lm="occorrenza"><i>occorrenz</i><par n="cas/a__n"/></e>
+    <e lm="penitenza"><i>penitenz</i><par n="cas/a__n"/></e>
     <e lm="esito"><i>esit</i><par n="abbain/o__n"/></e>
     <e lm="esodo"><i>esod</i><par n="abbain/o__n"/></e>
     <e lm="espansione"><i>espansion</i><par n="abbreviazion/e__n"/></e>
@@ -88066,6 +88091,12 @@
     <e lm="fico"><i>fic</i><par n="abbain/o__n"/></e>
     <e lm="ficus"><i>ficus</i><par n="albatros__n"/></e>
     <e lm="fidanzato"><i>fidanzat</i><par n="mugnai/o__n"/></e>
+    <e lm="belligeranza"><i>belligeranz</i><par n="cas/a__n"/></e>
+    <e lm="fratellanza"><i>fratellanz</i><par n="cas/a__n"/></e>
+    <e lm="circostanza"><i>circostanz</i><par n="cas/a__n"/></e>
+    <e lm="discrepanza"><i>discrepanz</i><par n="cas/a__n"/></e>
+    <e lm="eleganza"><i>eleganz</i><par n="cas/a__n"/></e>
+    <e lm="interpellanza"><i>interpellanz</i><par n="cas/a__n"/></e>
     <e lm="fiducia"><i>fiduc</i><par n="alzatacc/ia__n"/></e>
     <e lm="figlio"><i>figli</i><par n="mugnai/o__n"/></e>
     <e lm="filatelia"><i>filateli</i><par n="cas/a__n"/></e>
@@ -91031,6 +91062,15 @@
     <e lm="reputazione"><i>reputazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="reclamo"><i>reclam</i><par n="abbain/o__n"/></e>
     <e lm="pollice"><i>pollic</i><par n="abat/e__n"/></e>
+    <e lm="bottone"><i>botton</i><par n="abat/e__n"/></e>
+    <e lm="lubrificante"><i>lubrificant</i><par n="abat/e__n"/></e>
+    <e lm="attaccante"><i>attaccant</i><par n="albanes/e__n"/></e>
+    <e lm="badante"><i>badant</i><par n="albanes/e__n"/></e>
+    <e lm="dichiarante"><i>dichiarant</i><par n="albanes/e__n"/></e>
+    <e lm="emigrante"><i>emigrant</i><par n="albanes/e__n"/></e>
+    <e lm="mandante"><i>mandant</i><par n="albanes/e__n"/></e>
+    <e lm="militante"><i>militant</i><par n="albanes/e__n"/></e>
+    <e lm="occupante"><i>occupant</i><par n="albanes/e__n"/></e>
     <e lm="traccia"><i>tracc</i><par n="alzatacc/ia__n"/></e>
     <e lm="soprattassa"><i>soprattass</i><par n="cas/a__n"/></e>
     <e lm="riguardo"><i>riguard</i><par n="abbagli/o__n"/></e>
@@ -91053,6 +91093,7 @@
     <e lm="reverendo"><i>reverend</i><par n="abbain/o__n"/></e>
     <e lm="comunicato"><i>comunicat</i><par n="abbain/o__n"/></e>
     <e lm="indebolimento"><i>indeboliment</i><par n="abbain/o__n"/></e>
+    <e lm="smantellamento"><i>smantellament</i><par n="abbain/o__n"/></e>
     <e lm="ristorazione"><i>ristorazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="combustione"><i>combustion</i><par n="abbreviazion/e__n"/></e>
     <e lm="conclusione"><i>conclusion</i><par n="abbreviazion/e__n"/></e>
