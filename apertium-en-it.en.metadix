@@ -19603,6 +19603,13 @@
     <e lm="switching"><i>switching</i><par n="house__n"/>    </e>
     <e lm="convocation"><i>convocation</i><par n="house__n"/>    </e>
     <e lm="conurbation"><i>conurbation</i><par n="house__n"/>    </e>
+    <e lm="carmine"><i>carmine</i><par n="house__n"/>    </e>
+    <e lm="kinescope"><i>kinescope</i><par n="house__n"/>    </e>
+    <e lm="concertation"><i>concertation</i><par n="house__n"/>    </e>
+    <e lm="self-limitation"><i>self-limitation</i><par n="house__n"/>    </e>
+    <e lm="admission"><i>admission</i><par n="house__n"/>    </e>
+    <e lm="sixth"><i>sixth</i><par n="house__n"/>    </e>
+    <e lm="call"><i>call</i><par n="house__n"/>    </e>
     <e lm="fly"><i>fl</i><par n="bab/y__n"/>    </e>
     <e lm="flag"><i>flag</i><par n="house__n"/>    </e>
     <e lm="flame"><i>flame</i><par n="house__n"/>    </e>
@@ -27913,8 +27920,7 @@
     <e lm="mine"><i>mine</i><par n="mine__prn"/>    </e>
     <e lm="most"><i>most</i><par n="both__prn"/>    </e>
   
-<!--    <e lm="most of"><i>most<b/>of</i><par n="enough__det"/>    </e>
- -->
+    <e lm="most of" r="RL"><i>most<b/>of</i><par n="enough__det"/>    </e>
     <e lm="most of"><p><l>most<b/>of</l><r>most<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/><j/>of<s n="pr"/></r></p></e>
     <e lm="the majority" r="RL"><i>the<b/>majority</i><par n="both__prn"/></e>
     <e lm="no one"><i>no<b/>one</i><par n="everyone__prn"/>    </e>

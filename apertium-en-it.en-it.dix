@@ -317,8 +317,7 @@
     <e r="LR"><p><l>his<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>suo<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>his<s n="det"/><s n="pos"/><s n="ND"/></l><r>il<b/>suo<s n="det"/><s n="pos"/></r></p></e>
     <e r="RL"><p><l>his<s n="det"/><s n="pos"/><s n="ND"/></l><r>suo<s n="det"/><s n="pos"/></r></p></e>
-    <e r="RL"><p><l>his<s n="det"/><s n="pos"/><s n="sg"/></l><r>il<b/>loro<s n="det"/><s n="pos"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>his<s n="det"/><s n="pos"/><s n="sg"/></l><r>il<b/>loro<s n="det"/><s n="pos"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>his<s n="det"/><s n="pos"/></l><r>il<b/>loro<s n="det"/><s n="pos"/></r></p></e>
     <e r="LR"><p><l>how<b/>many<s n="det"/><s n="itg"/></l><r>quanto<s n="det"/><s n="itg"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>how<b/>many<s n="det"/><s n="itg"/><s n="pl"/></l><r>quanto<s n="det"/><s n="itg"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>how<b/>many<s n="det"/><s n="itg"/><s n="pl"/></l><r>quanto<s n="det"/><s n="itg"/><s n="f"/><s n="pl"/></r></p></e>
@@ -405,6 +404,7 @@
     <e r="RL"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>il<s n="det"/><s n="def"/></r></p></e>
     <e r="LR"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>il<s n="det"/><s n="def"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="LR"><p><l>the<b/>most<s n="det"/><s n="qnt"/><s n="sp"/></l><r>la<b/>maggioranza<b/>di<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>most<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>la<b/>maggioranza<b/>di<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>the<b/>same<s n="det"/><s n="ind"/><s n="sp"/></l><r>lo<b/>stesso<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>the<b/>same<s n="det"/></l><r>lo<b/>stesso<s n="det"/></r></p></e>
     <e r="LR"><p><l>their<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>suo<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -434,11 +434,11 @@
     <e r="RL"><p><l>two<b/>hundredth<s n="det"/></l><r>duecentesimo<s n="det"/></r></p></e>
     <e r="LR"><p><l>what<s n="det"/><s n="itg"/><s n="sp"/></l><r>che<s n="det"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>whatever<s n="det"/><s n="ind"/></l><r>qualsiasi<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
-    <e r="RL" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>tuo<s n="det"/><s n="pos"/></r></p></e>
-    <e r="RL" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>tuo<s n="det"/><s n="pos"/></r></p></e>
+    <e r="RL" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/><s n="pos"/></l><r>il<b/>tuo<s n="det"/><s n="pos"/></r></p></e>
+    <e r="RL" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/><s n="pos"/></l><r>tuo<s n="det"/><s n="pos"/></r></p></e>
     <e r="LR" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>tuo<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>il<b/>vostro<s n="det"/><s n="pos"/></r></p></e>
-    <e r="RL"><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>vostro<s n="det"/><s n="pos"/></r></p></e>
+    <e r="RL"><p><l>your<s n="det"/><s n="pos"/></l><r>il<b/>vostro<s n="det"/><s n="pos"/></r></p></e>
+    <e r="RL"><p><l>your<s n="det"/><s n="pos"/></l><r>vostro<s n="det"/><s n="pos"/></r></p></e>
     <!-- ******************************
           group adj_symbol
       ****************************** -->
@@ -7026,7 +7026,7 @@
     <e><i>Graziano<s n="np"/><s n="ant"/></i></e>
     <e><i>Graziella<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Great<b/>Britain<s n="np"/><s n="loc"/></l><r>Gran<b/>Bretagna<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
-    <e><p><l>Britain<s n="np"/><s n="loc"/></l><r>Bretagna<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>Britain<s n="np"/><s n="loc"/></l><r>Bretagna<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>Grecia<s n="np"/><s n="ant"/></l><r>Grecia<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Greece<s n="np"/><s n="loc"/></l><r>Grecia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>Greenland<s n="np"/><s n="loc"/></l><r>Groenlandia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
@@ -12777,7 +12777,7 @@
     <e><p><l>advocacy<s n="n"/></l><r>avvocatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aerodynamic<s n="n"/></l><r>aerodinamica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aerograph<s n="n"/></l><r>aerografo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>aerometry<s n="n"/></l><r>aerometria<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>aerometry<s n="n"/></l><r>aerometria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aerophagy<s n="n"/></l><r>aerofagia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aestheticism<s n="n"/></l><r>estetismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aesthetics<s n="n"/></l><r>estetica<s n="n"/><s n="f"/></r></p></e>
@@ -13592,6 +13592,8 @@
     <e r="RL"><p><l>birthday<s n="n"/><s n="ND"/></l><r>compleanno<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>biscuit<s n="n"/></l><r>biscotto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bisection<s n="n"/></l><r>bisezione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>seclusion<s n="n"/></l><r>clausura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>call<s n="n"/></l><r>richiamo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bishop<s n="n"/></l><r>vescovo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bismuth<s n="n"/></l><r>bismuto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bite<s n="n"/></l><r>morsicatura<s n="n"/><s n="f"/></r></p></e>
@@ -20209,6 +20211,7 @@
     <e><p><l>supersaturation<s n="n"/></l><r>sovrasaturazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>superstition<s n="n"/></l><r>superstizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>supply<s n="n"/></l><r>provvista<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>supply<s n="n"/></l><r>rifornimento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>support<s n="n"/></l><r>appoggio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>supposition<s n="n"/></l><r>supposizione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>assumption<n></l><r>supposizione<n><f></r></e>).-->
     <e><p><l>supremacy<s n="n"/></l><r>supremazia<s n="n"/><s n="f"/></r></p></e>
