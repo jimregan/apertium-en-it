@@ -14270,15 +14270,15 @@
     <e><p><l>cloister<s n="n"/></l><r>chiostro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>clone<s n="n"/></l><r>clone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cloning<s n="n"/></l><r>clonazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>closet<s n="n"/></l><r>armadio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>cabinet<n></l><r>armadio<n><m></r></e>).-->
+    <e r="LR"><p><l>closet<s n="n"/></l><r>armadio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>closure<s n="n"/></l><r>chiusura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cloth<s n="n"/><s n="pl"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cloth<b/>pulp<s n="n"/></l><r>pasta<g><b/>di<b/>stracci</g><s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>clothes<s n="n"/><s n="pl"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>cloth<n><pl></l><r>vestito<n><m></r></e>).-->
+    <e><p><l>clothes<s n="n"/><s n="pl"/></l><r>vestito<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>clothes<s n="n"/><s n="pl"/></l><r>vestito<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>clothing<s n="n"/></l><r>abbigliamento<s n="n"/><s n="m"/></r></p></e>
-    <e i="yes"><p><l>clothing<s n="n"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>cloth<n><pl></l><r>vestito<n><m></r></e>).-->
     <e><p><l>cloud<s n="n"/></l><r>nuvola<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>cloud<s n="n"/></l><r>nube<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>cloud<n></l><r>nuvola<n><f></r></e>).-->
+    <e r="RL"><p><l>cloud<s n="n"/></l><r>nube<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cloudburst<s n="n"/></l><r>acquazzone<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>clown<s n="n"/></l><r>pagliaccio<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>clown<s n="n"/></l><r>pagliaccio<s n="n"/><s n="m"/></r></p></e>
@@ -15765,6 +15765,7 @@
     <e><p><l>eyelash<s n="n"/><s n="sg"/></l><r>ciglio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>eyelash<s n="n"/><s n="pl"/></l><r>ciglio<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>fabric<s n="n"/></l><r>tessuto<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>cloth<s n="n"/></l><r>tessuto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fabulation<s n="n"/></l><r>affabulazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>face<s n="n"/></l><r>faccia<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>face<s n="n"/></l><r>viso<s n="n"/><s n="m"/></r></p></e>
@@ -20726,13 +20727,12 @@
     <e><p><l>suffrage<s n="n"/></l><r>suffragio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sugar<s n="n"/></l><r>zucchero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>suggestion<s n="n"/></l><r>suggerimento<s n="n"/><s n="m"/></r></p></e>
-    <e slr="suicidio D"><p><l>suicide<s n="n"/></l><r>suicidio<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL" slr="suicida"><p><l>suicide<s n="n"/></l><r>suicida<s n="n"/><s n="GD"/></r></p></e><!--  autorestricted (<e><l>suicide<n></l><r>suicidio<n><m></r></e>).-->
+    <e r="LR"><p><l>suicide<s n="n"/></l><r>suicida<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>suicide<s n="n"/></l><r>suicida<s n="n"/></r></p></e>
-    <e r="LR" slr="contenzioso" c="Jur."><p><l>suit<s n="n"/></l><r>contenzioso<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>dispute<n></l><r>contenzioso<n><m></r></e>).-->
-    <e slr="vestito D" i="yes"><p><l>suit<s n="n"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>cloth<n><pl></l><r>vestito<n><m></r></e>).-->
+    <e r="LR" slr="contenzioso" c="Jur."><p><l>suit<s n="n"/></l><r>contenzioso<s n="n"/><s n="m"/></r></p></e>
+    <e slr="vestito D"><p><l>suit<s n="n"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>suitability<s n="n"/></l><r>convenienza<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>suitcase<s n="n"/></l><r>valigia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>case<n></l><r>valigia<n><f></r></e>).-->
+    <e r="LR"><p><l>suitcase<s n="n"/></l><r>valigia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>summary<s n="n"/></l><r>sommario<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>summation<s n="n"/></l><r>sommazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>summation<s n="n"/></l><r>sommatoria<s n="n"/><s n="f"/></r></p></e>
@@ -26644,7 +26644,7 @@
     <e><par n="Hundreds"/><p><l>eighty-three<b/>thousand<s n="num"/><s n="sp"/></l><r>ottantatremila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>eighty-two<s n="num"/><s n="sp"/></l><r>ottantadue<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>eighty-two<b/>thousand<s n="num"/><s n="sp"/></l><r>ottantaduemila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><par n="Hundreds"/><p><l>eighty<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>ottantunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><par n="Hundreds"/><p><l>eighty<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>ottantunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>eighty<b/>thousand<s n="num"/><s n="sp"/></l><r>ottantamila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>eleven<s n="num"/><s n="sp"/></l><r>undici<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>eleven<b/>thousand<s n="num"/><s n="sp"/></l><r>undicimila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -26667,7 +26667,7 @@
     <e><par n="Hundreds"/><p><l>fifty-three<b/>thousand<s n="num"/><s n="sp"/></l><r>cinquantatremila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>fifty-two<s n="num"/><s n="sp"/></l><r>cinquantadue<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>fifty-two<b/>thousand<s n="num"/><s n="sp"/></l><r>cinquantaduemila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><par n="Hundreds"/><p><l>fifty<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>cinquantunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><par n="Hundreds"/><p><l>fifty<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>cinquantunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>fifty<b/>thousand<s n="num"/><s n="sp"/></l><r>cinquantamila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>five<s n="num"/><s n="sp"/></l><r>cinque<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>five<b/>thousand<s n="num"/><s n="sp"/></l><r>cinquemila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -26688,7 +26688,7 @@
     <e><par n="Hundreds"/><p><l>forty-three<b/>thousand<s n="num"/><s n="sp"/></l><r>quarantatremila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>forty-two<s n="num"/><s n="sp"/></l><r>quarantadue<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>forty-two<b/>thousand<s n="num"/><s n="sp"/></l><r>quarantaduemila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><par n="Hundreds"/><p><l>forty<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>quarantunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><par n="Hundreds"/><p><l>forty<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>quarantunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>forty<b/>thousand<s n="num"/><s n="sp"/></l><r>quarantamila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>four<s n="num"/><s n="sp"/></l><r>quattro<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>four<b/>thousand<s n="num"/><s n="sp"/></l><r>quattromila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -26715,7 +26715,7 @@
     <e><par n="Hundreds"/><p><l>ninety-three<b/>thousand<s n="num"/><s n="sp"/></l><r>novantatremila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>ninety-two<s n="num"/><s n="sp"/></l><r>novantadue<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>ninety-two<b/>thousand<s n="num"/><s n="sp"/></l><r>novantaduemila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><par n="Hundreds"/><p><l>ninety<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>novantunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><par n="Hundreds"/><p><l>ninety<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>novantunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>ninety<b/>thousand<s n="num"/><s n="sp"/></l><r>novantamila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>seven<s n="num"/><s n="sp"/></l><r>sette<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>seven<b/>thousand<s n="num"/><s n="sp"/></l><r>settemila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -26738,7 +26738,7 @@
     <e><par n="Hundreds"/><p><l>seventy-three<b/>thousand<s n="num"/><s n="sp"/></l><r>settantatremila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>seventy-two<s n="num"/><s n="sp"/></l><r>settantadue<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>seventy-two<b/>thousand<s n="num"/><s n="sp"/></l><r>settantaduemila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><par n="Hundreds"/><p><l>seventy<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>settantunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><par n="Hundreds"/><p><l>seventy<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>settantunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>seventy<b/>thousand<s n="num"/><s n="sp"/></l><r>settantamila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>six<s n="num"/><s n="sp"/></l><r>sei<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>six<b/>thousand<s n="num"/><s n="sp"/></l><r>seimila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -26761,7 +26761,7 @@
     <e><par n="Hundreds"/><p><l>sixty-three<b/>thousand<s n="num"/><s n="sp"/></l><r>sessantatremila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>sixty-two<s n="num"/><s n="sp"/></l><r>sessantadue<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>sixty-two<b/>thousand<s n="num"/><s n="sp"/></l><r>sessantaduemila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><par n="Hundreds"/><p><l>sixty<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>sessantunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><par n="Hundreds"/><p><l>sixty<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>sessantunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>sixty<b/>thousand<s n="num"/><s n="sp"/></l><r>sessantamila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>ten<s n="num"/><s n="sp"/></l><r>dieci<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>ten<b/>thousand<s n="num"/><s n="sp"/></l><r>diecimila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -26784,7 +26784,7 @@
     <e><par n="Hundreds"/><p><l>thirty-three<b/>thousand<s n="num"/><s n="sp"/></l><r>trentatremila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>thirty-two<s n="num"/><s n="sp"/></l><r>trentadue<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>thirty-two<b/>thousand<s n="num"/><s n="sp"/></l><r>trentaduemila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><par n="Hundreds"/><p><l>thirty<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>trentunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><par n="Hundreds"/><p><l>thirty<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>trentunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>thirty<b/>thousand<s n="num"/><s n="sp"/></l><r>trentamila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>three<s n="num"/><s n="sp"/></l><r>tré<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>three<b/>thousand<s n="num"/><s n="sp"/></l><r>tremila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -26807,7 +26807,7 @@
     <e><par n="Hundreds"/><p><l>twenty-three<b/>thousand<s n="num"/><s n="sp"/></l><r>ventitremila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>twenty-two<s n="num"/><s n="sp"/></l><r>ventidue<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>twenty-two<b/>thousand<s n="num"/><s n="sp"/></l><r>ventiduemila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><par n="Hundreds"/><p><l>twenty<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>ventunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><par n="Hundreds"/><p><l>twenty<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>ventunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>twenty<b/>thousand<s n="num"/><s n="sp"/></l><r>ventimila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
 
     <e><par n="Hundreds"/><p><l>two<s n="num"/><s n="sp"/></l><r>due<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
