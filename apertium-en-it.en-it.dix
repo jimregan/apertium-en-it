@@ -12226,6 +12226,7 @@
     <e><p><l>octant<s n="n"/></l><r>ottante<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>comparator<s n="n"/></l><r>comparatore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>deserter<s n="n"/></l><r>disertore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>synchroniser<s n="n"/></l><r>sincronizzatore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>magnesite<s n="n"/></l><r>magnesite<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>silhouette<s n="n"/></l><r>silhouette<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>collage<s n="n"/></l><r>collage<s n="n"/><s n="m"/></r></p></e>
@@ -16636,7 +16637,7 @@
     <e><p><l>gum<s n="n"/></l><r>gengiva<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gun<s n="n"/></l><r>pistola<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gunpowder<s n="n"/></l><r>polvere<g><b/>da<b/>sparo</g><s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>guy<s n="n"/></l><r>tipo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>guy<s n="n"/></l><r>tipo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>gym<s n="n"/></l><r>palestra<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>gymnasium<s n="n"/></l><r>palestra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gymnastics<s n="n"/></l><r>ginnastica<s n="n"/><s n="f"/></r></p></e>
@@ -20995,7 +20996,7 @@
     <e r="RL"><p><l>toilet<s n="n"/></l><r>lavabo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>toilet<n></l><r>gabinetto<n><m></r></e>).-->
     <e><p><l>toilet<b/>paper<s n="n"/></l><r>carta<b/>igienica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>toll<s n="n"/></l><r>pedaggio<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>tomb<s n="n"/></l><r>tomba<s n="n"/><s n="f"/></r></p></e>
+    <e srl="tomb"><p><l>tomb<s n="n"/></l><r>tomba<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tomography<s n="n"/></l><r>tomografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ton<s n="n"/></l><r>tonnellata<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tonality<s n="n"/><s n="ND"/></l><r>tonalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -21210,9 +21211,19 @@
     <e r="LR"><p><l>tuxedo<s n="n"/><s n="pl"/></l><r>smoking<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>tuxedo<s n="n"/><s n="ND"/></l><r>smoking<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>twist<s n="n"/></l><r>giro<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>type<s n="n"/></l><r>tipo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>guy<n></l><r>tipo<n><m></r></e>).-->
+    <e><p><l>type<s n="n"/></l><r>tipo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>allele<s n="n"/></l><r>allele<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bully<s n="n"/></l><r>prepotente<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nozzle<s n="n"/></l><r>boccalino<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>grandchild<s n="n"/></l><r>nipote<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>grandson<s n="n"/></l><r>nipote<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>granddaughter<s n="n"/></l><r>nipote<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>nephew<s n="n"/></l><r>nipote<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>niece<s n="n"/></l><r>nipote<s n="n"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>typist<s n="n"/></l><r>dattilografo<s n="n"/></r></p></e>
     <e r="LR"><p><l>typist<s n="n"/></l><r>dattilografo<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>northerner<s n="n"/></l><r>nordico<s n="n"/></r></p></e>
+    <e r="LR"><p><l>northerner<s n="n"/></l><r>nordico<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>typography<s n="n"/></l><r>tipografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>typology<s n="n"/></l><r>tipologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tyranny<s n="n"/></l><r>tirannia<s n="n"/><s n="f"/></r></p></e>
@@ -21274,7 +21285,8 @@
     <e><p><l>gentian<s n="n"/></l><r>genziana<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gilding<s n="n"/></l><r>doratura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>grandstand<s n="n"/></l><r>tribuna<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>grave<s n="n"/></l><r>tomba<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>interlingua<s n="n"/></l><r>interlingua<s n="n"/><s n="f"/></r></p></e>
+    <e srl="grave D"><p><l>grave<s n="n"/></l><r>tomba<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>greatness<s n="n"/></l><r>grandezza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>groove<s n="n"/></l><r>scanalatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>guard<s n="n"/></l><r>guardia<s n="n"/><s n="f"/></r></p></e>
@@ -21467,6 +21479,8 @@
     <e><p><l>user<s n="n"/></l><r>utente<s n="n"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>usurper<s n="n"/></l><r>usurpatore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>usurper<s n="n"/></l><r>usurpatore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>internaut<s n="n"/></l><r>internauta<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>internaut<s n="n"/></l><r>internauta<s n="n"/></r></p></e>
     <e><p><l>usury<s n="n"/></l><r>usura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>uterus<s n="n"/></l><r>utero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>utilisation<s n="n"/></l><r>utilizzazione<s n="n"/><s n="f"/></r></p></e>
@@ -21523,8 +21537,8 @@
     <e r="RL"><p><l>vastness<s n="n"/><s n="ND"/></l><r>vastità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>vastness<s n="n"/><s n="sg"/></l><r>vastità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>vastness<s n="n"/><s n="pl"/></l><r>vastità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR" slr="volta D" srl="vault"><p><l>vault<s n="n"/></l><r>volta<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>time<n></l><r>volta<n><f></r></e>).-->
-    <e slr="tomba" i="yes"><p><l>vault<s n="n"/></l><r>tomba<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>vault<n></l><r>volta<n><f></r></e>).-->
+    <e slr="volta D" srl="vault"><p><l>vault<s n="n"/></l><r>volta<s n="n"/><s n="f"/></r></p></e>
+    <e slr="tomba" srl="vault"><p><l>vault<s n="n"/></l><r>tomba<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vector<s n="n"/></l><r>vettore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vegetable<s n="n"/></l><r>vegetale<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vegetable<s n="n"/></l><r>verdura<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>vegetable<n></l><r>vegetale<n><m></r></e>).-->
