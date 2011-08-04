@@ -13376,7 +13376,7 @@
     <e><p><l>average<s n="n"/></l><r>media<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aversion<s n="n"/></l><r>avversione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aviation<s n="n"/></l><r>aviazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>award<s n="n"/></l><r>premio<s n="n"/><s n="m"/></r></p></e>
+    <e srl="award D"><p><l>award<s n="n"/></l><r>premio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>awe<s n="n"/></l><r>soggezione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>axe<s n="n"/></l><r>ascia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>axiology<s n="n"/></l><r>assiologia<s n="n"/><s n="f"/></r></p></e>
@@ -13535,7 +13535,7 @@
     <e><p><l>behaviourism<s n="n"/></l><r>comportamentismo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>beheading<s n="n"/></l><r>decapitazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>being<s n="n"/></l><r>essere<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>belief<s n="n"/></l><r>credenza<s n="n"/><s n="f"/></r></p></e>
+    <e srl="belief D"><p><l>belief<s n="n"/></l><r>credenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bell<s n="n"/></l><r>campana<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bell<b/>tower<s n="n"/></l><r>campanile<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>belly<s n="n"/></l><r>pancia<s n="n"/><s n="f"/></r></p></e>
@@ -14072,11 +14072,11 @@
     <e><p><l>championship<s n="n"/></l><r>campionato<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>chance<s n="n"/><s n="sg"/></l><r>possibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>chance<s n="n"/><s n="pl"/></l><r>possibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>chance<s n="n"/></l><r>caso<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>case<n></l><r>caso<n><m></r></e>).-->
+    <e r="LR"><p><l>chance<s n="n"/></l><r>caso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chancellery<s n="n"/></l><r>cancelleria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>change<s n="n"/></l><r>cambiamento<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>change<s n="n"/></l><r>cambio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>change<n></l><r>cambiamento<n><m></r></e>).-->
-    <e><p><l>changing<b/>room<s n="n"/></l><r>vestiario<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>change<s n="n"/></l><r>cambio<s n="n"/><s n="m"/></r></p></e>
+    <e srl="changing room D"><p><l>changing<b/>room<s n="n"/></l><r>vestiario<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>channel<s n="n"/></l><r>canale<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>chaos<s n="n"/><s n="sg"/></l><r>caos<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>chaos<s n="n"/><s n="pl"/></l><r>caos<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -18783,10 +18783,11 @@
     <e><p><l>prediction<s n="n"/></l><r>predizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>predilection<s n="n"/></l><r>predilezione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>predisposition<s n="n"/></l><r>predisposizione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>preeminence<s n="n"/></l><r>preminenza<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>preeminence<s n="n"/></l><r>preminenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>preface<s n="n"/></l><r>prefazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>preference<s n="n"/></l><r>preferenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>prefix<s n="n"/></l><r>prefisso<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>stump<s n="n"/></l><r>ceppo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>prefixation<s n="n"/></l><r>prefissazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pregnancy<s n="n"/></l><r>gravidanza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pregnant<b/>woman<s n="n"/></l><r>incinta<s n="n"/><s n="f"/></r></p></e>
@@ -18809,6 +18810,8 @@
     <e r="LR"><p><l>presidency<s n="n"/></l><r>presidenza<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>chair<n></l><r>presidenza<n><f></r></e>).-->
     <e r="LR"><p><l>president<s n="n"/></l><r>presidente<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>president<s n="n"/></l><r>presidente<s n="n"/></r></p></e>
+    <e r="LR"><p><l>oligarch<s n="n"/></l><r>oligarca<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>oligarch<s n="n"/></l><r>oligarca<s n="n"/></r></p></e>
     <e r="LR"><p><l>vice-president<s n="n"/></l><r>vicepresidente<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>vice-president<s n="n"/></l><r>vicepresidente<s n="n"/></r></p></e>
     <e r="LR"><p><l>vice<b/>president<s n="n"/></l><r>vicepresidente<s n="n"/><s n="GD"/></r></p></e>
@@ -18852,7 +18855,7 @@
     <e r="RL"><p><l>privacy<s n="n"/><s n="ND"/></l><r>privacy<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>privatisation<s n="n"/></l><r>privatizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>privilege<s n="n"/></l><r>privilegio<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>prize<s n="n"/></l><r>premio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>award<n></l><r>premio<n><m></r></e>).-->
+    <e r="LR"><p><l>prize<s n="n"/></l><r>premio<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>probability<s n="n"/><s n="ND"/></l><r>probabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>probability<s n="n"/><s n="sg"/></l><r>probabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>probability<s n="n"/><s n="pl"/></l><r>probabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -19957,7 +19960,7 @@
     <e><p><l>dioxin<s n="n"/></l><r>diossina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>discipline<s n="n"/></l><r>disciplina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dissonance<s n="n"/></l><r>dissonanza<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>dresser<s n="n"/></l><r>credenza<s n="n"/><s n="f"/></r></p></e>
+    <e srl="dresser"><p><l>dresser<s n="n"/></l><r>credenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>effervescence<s n="n"/></l><r>effervescenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>depalatalisation<s n="n"/></l><r>depalatalizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>desexualisation<s n="n"/></l><r>desessualizzazione<s n="n"/><s n="f"/></r></p></e>
@@ -19968,7 +19971,7 @@
     <e><p><l>reintegration<s n="n"/></l><r>reintegrazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>repercussion<s n="n"/></l><r>ripercussione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>decompression<s n="n"/></l><r>decompressione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>decreasing<s n="n"/></l><r>diminuzione<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>decreasing<s n="n"/></l><r>diminuzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>derision<s n="n"/></l><r>derisione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>digression<s n="n"/></l><r>digressione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>echelon<s n="n"/></l><r>scaglione<s n="n"/><s n="m"/></r></p></e>
@@ -19982,8 +19985,8 @@
     <e><p><l>bandwidth<s n="n"/></l><r>larghezza<g><b/>di<b/>banda</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cadmium<s n="n"/><s n="sg"/></l><r>cadmio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>polynomial<s n="n"/></l><r>polinomio<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>portfolio<s n="n"/></l><r>portafoglio<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>premium<s n="n"/></l><r>premio<s n="n"/><s n="m"/></r></p></e>
+    <e srl="portfolio"><p><l>portfolio<s n="n"/></l><r>portafoglio<s n="n"/><s n="m"/></r></p></e>
+    <e srl="premium"><p><l>premium<s n="n"/></l><r>premio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>presbytery<s n="n"/></l><r>presbiterio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>proem<s n="n"/></l><r>proemio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>promontory<s n="n"/></l><r>promontorio<s n="n"/><s n="m"/></r></p></e>
@@ -19992,7 +19995,7 @@
     <e><p><l>purgatory<s n="n"/></l><r>purgatorio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>questionnaire<s n="n"/></l><r>questionario<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>reformatory<s n="n"/></l><r>riformatorio<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>relaunching<s n="n"/></l><r>rilancio<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>relaunching<s n="n"/></l><r>rilancio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>repatriation<s n="n"/></l><r>rimpatrio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>repertoire<s n="n"/></l><r>repertorio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>repudiation<s n="n"/></l><r>ripudio<s n="n"/><s n="m"/></r></p></e>
@@ -20004,6 +20007,7 @@
     <e><p><l>receptor<s n="n"/></l><r>recettore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>refractor<s n="n"/></l><r>rifrattore<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>deflector<s n="n"/></l><r>deflettore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cursor<s n="n"/></l><r>cursore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>delimiter<s n="n"/></l><r>delimitatore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>demodulator<s n="n"/></l><r>demodulatore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>descriptor<s n="n"/></l><r>descrittore<s n="n"/><s n="m"/></r></p></e>
@@ -21170,14 +21174,14 @@
     <e><p><l>wall<s n="n"/></l><r>parete<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>wall<s n="n"/></l><r>muro<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>wall<s n="n"/><s n="pl"/></l><r>muro<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-    <e><p><l>wallet<s n="n"/></l><r>portafoglio<s n="n"/><s n="m"/></r></p></e>
+    <e srl="wallet D"><p><l>wallet<s n="n"/></l><r>portafoglio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>walling<s n="n"/></l><r>muratura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>walnut<s n="n"/></l><r>noce<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>walrus<s n="n"/></l><r>morsa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wand<s n="n"/></l><r>bacchetta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>war<s n="n"/></l><r>guerra<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>wardrobe<s n="n"/></l><r>armadio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>cabinet<n></l><r>armadio<n><m></r></e>).-->
-    <e i="yes"><p><l>wardrobe<s n="n"/></l><r>vestiario<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>changing<b/>room<n></l><r>vestiario<n><m></r></e>).-->
+    <e r="LR"><p><l>wardrobe<s n="n"/></l><r>armadio<s n="n"/><s n="m"/></r></p></e>
+    <e srl="wardrobe"><p><l>wardrobe<s n="n"/></l><r>vestiario<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>wardrobe<s n="n"/><s n="ND"/></l><r>guardaroba<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>wardrobe<s n="n"/><s n="sg"/></l><r>guardaroba<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>wardrobe<s n="n"/><s n="pl"/></l><r>guardaroba<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
