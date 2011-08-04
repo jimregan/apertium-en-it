@@ -87760,6 +87760,7 @@
     <e lm="disoccupato"><i>disoccupat</i><par n="bambin/o__n"/></e>
     <e lm="disoccupazione"><i>disoccupazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="disordine"><i>disordin</i><par n="abat/e__n"/></e>
+    <e lm="sottordine"><i>sottordin</i><par n="abat/e__n"/></e>
     <e lm="dispersione"><i>dispersion</i><par n="abbreviazion/e__n"/></e>
     <e lm="disponibilità"><i>disponibilità</i><par n="abilità__n"/></e>
     <e lm="dispositivo"><i>dispositiv</i><par n="abbain/o__n"/></e>
@@ -88046,8 +88047,10 @@
     <e lm="fanatismo"><i>fanatism</i><par n="abbain/o__n"/></e>
     <e lm="fango"><i>fang</i><par n="fung/o__n"/></e>
     <e lm="fantasia"><i>fantasi</i><par n="cas/a__n"/></e>
-    <e lm="fantasma"><i>fantasm</i><par n="autom/a__n"/></e>
     <e lm="faro"><i>far</i><par n="abbain/o__n"/></e>
+    <e lm="sopravento"><i>sopravent</i><par n="abbain/o__n"/></e>
+    <e lm="germanesimo"><i>germanesim</i><par n="abbain/o__n"/></e>
+    <e lm="gametofito"><i>gametofit</i><par n="abbain/o__n"/></e>
     <e lm="faraone"><i>faraon</i><par n="abat/e__n"/></e>
     <e lm="farfalla"><i>farfall</i><par n="cas/a__n"/></e>
     <e lm="farina"><i>farin</i><par n="cas/a__n"/></e>
@@ -88091,6 +88094,7 @@
     <e lm="festival"><i>festival</i><par n="albatros__n"/></e>
     <e lm="feto"><i>fet</i><par n="abbain/o__n"/></e>
     <e lm="feticcio"><i>feticci</i><par n="abbagli/o__n"/></e>
+    <e lm="marsupio"><i>marsupi</i><par n="abbagli/o__n"/></e>
     <e lm="feticismo"><i>feticism</i><par n="abbain/o__n"/></e>
     <e lm="feudalesimo"><i>feudalesim</i><par n="abbain/o__n"/></e>
     <e lm="fiamma"><i>fiamm</i><par n="cas/a__n"/></e>
@@ -88941,10 +88945,12 @@
     <e lm="melograno"><i>melogran</i><par n="abbain/o__n"/></e>
     <e lm="membro"><i>membr</i><par n="abbain/o__n"/></e>
     <e lm="membro del parlamento"><i>membr</i><par n="abbain/o__n"/><p><l><b/>del<b/>parlamento</l><r><g><b/>del<b/>parlamento</g></r></p></e>
+    <e lm="membro di equipaggio"><i>membr</i><par n="abbain/o__n"/><p><l><b/>di<b/>equipaggio</l><r><g><b/>di<b/>equipaggio</g></r></p></e>
     <e lm="membro del Parlamento Europeo"><i>membr</i><par n="abbain/o__n"/><p><l><b/>del<b/>Parlamento<b/>Europeo</l><r><g><b/>del<b/>Parlamento<b/>Europeo</g></r></p></e>
     <e lm="membrana"><i>membran</i><par n="cas/a__n"/></e>
     <e lm="memoria"><i>memori</i><par n="cas/a__n"/></e>
     <e lm="mente"><i>ment</i><par n="abbreviazion/e__n"/></e>
+    <e lm="vertigine"><i>vertigin</i><par n="abbreviazion/e__n"/></e>
     <e lm="mento"><i>ment</i><par n="abbain/o__n"/></e>
     <e lm="menta"><i>ment</i><par n="cas/a__n"/></e>
     <e lm="menu"><i>menu</i><par n="albatros__n"/></e>
@@ -89550,6 +89556,7 @@
     <e lm="pazzia"><i>pazzi</i><par n="cas/a__n"/></e>
     <e lm="pc"><i>pc</i><par n="albatros__n"/></e>
     <e lm="byte"><i>byte</i><par n="albatros__n"/></e>
+    <e lm="zoom"><i>zoom</i><par n="albatros__n"/></e>
     <e lm="ranch"><i>ranch</i><par n="albatros__n"/></e>
     <e lm="curry"><i>curry</i><par n="albatros__n"/></e>
     <e lm="poker"><i>poker</i><par n="albatros__n"/></e>
@@ -89667,6 +89674,7 @@
     <e lm="pesce"><i>pesc</i><par n="abat/e__n"/></e>
     <e lm="pesca"><i>pesc</i><par n="tasc/a__n"/></e>
     <e lm="pescatore"><i>pescat</i><par n="agricolt/ore__n"/></e>
+    <e lm="inventore"><i>invent</i><par n="agricolt/ore__n"/></e>
     <e lm="riformatore"><i>riformat</i><par n="agricolt/ore__n"/></e>
     <e lm="suggeritore"><i>suggerit</i><par n="agricolt/ore__n"/></e>
     <e lm="peseta"><i>peseta</i><par n="bagarre__n"/></e>
@@ -95964,6 +95972,8 @@
     <e lm="capo del governo"><p><l>capi<b/>di<b/>governo</l><r>capo<b/>del<b/>governo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="carne bovina"><p><l>carne<b/>bovina</l><r>carne<b/>bovina<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="carne bovina"><p><l>carni<b/>bovine</l><r>carne<b/>bovina<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="stazione secondaria"><p><l>stazione<b/>secondaria</l><r>stazione<b/>secondaria<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="stazione secondaria"><p><l>stazioni<b/>secondarie</l><r>stazione<b/>secondaria<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="immersione subacquea"><p><l>immersione<b/>subacquea</l><r>immersione<b/>subacquea<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="immersione subacquea"><p><l>immersioni<b/>subacquee</l><r>immersione<b/>subacquea<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="nodo senoatriale"><p><l>nodo<b/>senoatriale</l><r>nodo<b/>senoatriale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>

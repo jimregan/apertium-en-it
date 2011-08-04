@@ -16028,7 +16028,7 @@
     <e r="LR"><p><l>founder<s n="n"/></l><r>fondatore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>founder<s n="n"/></l><r>fondatore<s n="n"/></r></p></e>
     <e r="LR"><p><l>foundry<s n="n"/></l><r>fusione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>casting<n></l><r>fusione<n><f></r></e>).-->
-    <e r="LR"><p><l>fountain<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>font<n></l><r>fonte<n><f></r></e>).-->
+    <e srl="fountain"><p><l>fountain<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fraction<s n="n"/></l><r>frazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fracture<s n="n"/></l><r>frattura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fragaria<s n="n"/></l><r>fragola<s n="n"/><s n="f"/></r></p></e>
@@ -16181,8 +16181,10 @@
     <e r="LR"><p><l>gesticulation<s n="n"/></l><r>gesto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>gesture<s n="n"/></l><r>gesto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ghetto<s n="n"/></l><r>ghetto<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>ghost<s n="n"/></l><r>fantasma<s n="n"/><s n="mf"/></r></p></e>
-    <e r="RL"><p><l>ghost<s n="n"/></l><r>fantasma<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>ghost<n></l><r>fantasma<n><mf></r></e>).-->
+    <e><p><l>germanism<s n="n"/></l><r>germanesimo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>gametophyte<s n="n"/></l><r>gametofito<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>marsupium<s n="n"/></l><r>marsupio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ghost<s n="n"/></l><r>fantasma<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>giant<s n="n"/></l><r>gigante<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>giant<s n="n"/></l><r>gigante<s n="n"/></r></p></e>
     <e><p><l>gift<s n="n"/></l><r>dono<s n="n"/><s n="m"/></r></p></e>
@@ -16948,6 +16950,8 @@
     <e><p><l>invasion<s n="n"/></l><r>invasione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>invention<s n="n"/></l><r>invenzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>inventory<s n="n"/></l><r>inventario<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>inventor<s n="n"/></l><r>inventore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>inventor<s n="n"/></l><r>inventore<s n="n"/></r></p></e>
     <e><p><l>investigation<s n="n"/></l><r>investigazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>investigator<s n="n"/></l><r>investigatore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>investment<s n="n"/></l><r>investimento<s n="n"/><s n="m"/></r></p></e>
@@ -17703,12 +17707,12 @@
     <e r="LR"><p><l>modernity<s n="n"/><s n="pl"/></l><r>modernità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>modesty<s n="n"/></l><r>modestia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>modification<s n="n"/></l><r>modifica<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>modification<s n="n"/></l><r>modificazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>modification<n></l><r>modifica<n><f></r></e>).-->
+    <e r="RL"><p><l>modification<s n="n"/></l><r>modificazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>modulation<s n="n"/></l><r>modulazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>module<s n="n"/></l><r>modulo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>form<n></l><r>modulo<n><m></r></e>).-->
+    <e r="LR"><p><l>module<s n="n"/></l><r>modulo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>moistening<s n="n"/></l><r>inumidificazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>molasses<s n="n"/></l><r>melassa<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>mold<s n="n"/></l><r>stampo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>cast<n></l><r>stampo<n><m></r></e>).-->
+    <e r="LR"><p><l>mold<s n="n"/></l><r>stampo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>moldavian<s n="n"/></l><r>moldavo<s n="n"/></r></p></e>
     <e r="LR"><p><l>moldavian<s n="n"/></l><r>moldavo<s n="n"/><s n="GD"/></r></p></e>
     <e slr="neo"><p><l>mole<s n="n"/></l><r>neo<s n="n"/><s n="m"/></r></p></e>
@@ -19949,6 +19953,10 @@
     <e><p><l>protrusion<s n="n"/></l><r>sporgenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>protuberance<s n="n"/></l><r>protuberanza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>providence<s n="n"/></l><r>provvidenza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>giddiness<s n="n"/></l><r>vertigine<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>suborder<s n="n"/></l><r>sottordine<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>crewman<s n="n"/></l><r>membro<g><b/>di<b/>equipaggio</g><s n="n"/><s n="m"/></r></p></e>
+
     <e><p><l>punctuation<s n="n"/></l><r>punteggiatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>purity<s n="n"/></l><r>purezza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>quadrature<s n="n"/></l><r>quadratura<s n="n"/><s n="f"/></r></p></e>
@@ -19974,6 +19982,7 @@
     <e r="LR"><p><l>decreasing<s n="n"/></l><r>diminuzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>derision<s n="n"/></l><r>derisione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>digression<s n="n"/></l><r>digressione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>waystation<s n="n"/></l><r>stazione<b/>secondaria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>echelon<s n="n"/></l><r>scaglione<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>digitigrade<s n="n"/></l><r>digitigrade<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>byte<s n="n"/></l><r>byte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -19982,6 +19991,7 @@
     <e><p><l>curry<s n="n"/></l><r>curry<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>pogrom<s n="n"/></l><r>pogrom<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>poker<s n="n"/></l><r>poker<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>zoom<s n="n"/></l><r>zoom<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>bandwidth<s n="n"/></l><r>larghezza<g><b/>di<b/>banda</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cadmium<s n="n"/><s n="sg"/></l><r>cadmio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>polynomial<s n="n"/></l><r>polinomio<s n="n"/><s n="m"/></r></p></e>
@@ -20034,13 +20044,13 @@
     <e r="LR"><p><l>sonority<s n="n"/><s n="sg"/></l><r>sonorità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>sonority<s n="n"/><s n="pl"/></l><r>sonorità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>soot<s n="n"/></l><r>fuliggine<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>sorcery<s n="n"/></l><r>stregoneria<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>sort<s n="n"/></l><r>classe<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>class<n></l><r>classe<n><f></r></e>).-->
+    <e r="LR"><p><l>sorcery<s n="n"/></l><r>stregoneria<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>sort<s n="n"/></l><r>classe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>soul<s n="n"/></l><r>anima<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sound<s n="n"/></l><r>suono<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>soundproofing<s n="n"/></l><r>insonorizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>soup<s n="n"/></l><r>minestra<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>source<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>font<n></l><r>fonte<n><f></r></e>).-->
+    <e srl="source D"><p><l>source<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>south<s n="n"/><s n="sg"/></l><r>sud<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>south<s n="n"/><s n="pl"/></l><r>sud<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>south<s n="n"/><s n="ND"/></l><r>sud<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -20124,7 +20134,7 @@
     <e r="RL"><p><l>spouse<s n="n"/></l><r>sposo<s n="n"/></r></p></e>
     <e r="LR"><p><l>spouse<s n="n"/></l><r>sposo<s n="n"/><s n="GD"/></r></p></e>
     <e srl="sprain"><p><l>sprain<s n="n"/></l><r>distorsione<s n="n"/><s n="f"/></r></p></e>
-    <e slr="fonte"><p><l>spring<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e>
+    <e slr="fonte" srl="spring"><p><l>spring<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e>
     <e slr="primavera D"><p><l>spring<s n="n"/></l><r>primavera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>spumante<s n="n"/></l><r>spumante<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>spurt<s n="n"/></l><r>impulso<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>boost<n></l><r>impulso<n><m></r></e>).-->
@@ -21289,9 +21299,10 @@
     <e r="LR"><p><l>wish<s n="n"/></l><r>desiderio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>desire<n></l><r>desiderio<n><m></r></e>).-->
     <e><p><l>wit<s n="n"/></l><r>ingegno<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>witch<s n="n"/></l><r>strega<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>witchcraft<s n="n"/></l><r>stregoneria<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>sorcery<n></l><r>stregoneria<n><f></r></e>).-->
+    <e><p><l>witchcraft<s n="n"/></l><r>stregoneria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>withdrawal<s n="n"/></l><r>ritirata<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wizard<s n="n"/></l><r>stregone<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>windward<s n="n"/></l><r>sopravento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fox<s n="n"/></l><r>volpe<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>vixen<s n="n"/></l><r>volpe<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>wolf<s n="n"/></l><r>lupo<s n="n"/><s n="GD"/></r></p></e>
@@ -21301,7 +21312,7 @@
     <e><p><l>wonder<s n="n"/></l><r>meraviglia<s n="n"/><s n="f"/></r></p></e>
     <e r="LR" slr="bosco"><p><l>wood<s n="n"/><s n="sg"/></l><r>bosco<s n="n"/></r></p></e>
     <e r="LR"><p><l>wood<s n="n"/><s n="pl"/></l><r>bosco<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e r="RL" slr="legno D"><p><l>wood<s n="n"/><s n="sg"/></l><r>legno<s n="n"/></r></p></e><!--  autorestricted (<e r="LR"><l>wood<n><sg></l><r>bosco<n></r></e>).-->
+    <e slr="legno D"><p><l>wood<s n="n"/><s n="sg"/></l><r>legno<s n="n"/></r></p></e>
     <e r="RL"><p><l>wood<s n="n"/><s n="sg"/></l><r>legname<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>wood<b/>paste<s n="n"/></l><r>pasta<g><b/>da<b/>carta</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wood<b/>pulp<s n="n"/></l><r>pasta<g><b/>di<b/>legno</g><s n="n"/><s n="f"/></r></p></e>
