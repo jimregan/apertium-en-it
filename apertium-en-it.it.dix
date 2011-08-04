@@ -88261,9 +88261,16 @@
     <e lm="galassia"><i>galassi</i><par n="cas/a__n"/></e>
     <e lm="galaverna"><i>galavern</i><par n="cas/a__n"/></e>
     <e lm="galiziano"><i>galizian</i><par n="bambin/o__n"/></e>
+    <e lm="parigino"><i>parigin</i><par n="bambin/o__n"/></e>
+    <e lm="tiranno"><i>tirann</i><par n="bambin/o__n"/></e>
+    <e lm="sottoscritto"><i>sottoscritt</i><par n="bambin/o__n"/></e>
+    <e lm="contadino"><i>contadin</i><par n="bambin/o__n"/></e>
     <e lm="gallico"><i>gallic</i><par n="cosmetic/o__n"/></e>
     <e lm="grammatico"><i>grammatic</i><par n="cosmetic/o__n"/></e>
+    <e lm="matematico"><i>matematic</i><par n="cosmetic/o__n"/></e>
+    <e lm="teologo"><i>teolog</i><par n="cosmetic/o__n"/></e>
     <e lm="gallo"><i>gall</i><par n="abbain/o__n"/></e>
+    <e lm="estratto"><i>estratt</i><par n="abbain/o__n"/></e>
     <e lm="trionfo"><i>trionf</i><par n="abbain/o__n"/></e>
     <e lm="galleria"><i>galleri</i><par n="cas/a__n"/></e>
     <e lm="gallina"><i>gallin</i><par n="cas/a__n"/></e>
@@ -88407,7 +88414,13 @@
     <e lm="guerra"><i>guerr</i><par n="cas/a__n"/></e>
     <e lm="guerriero"><i>guerrier</i><par n="bambin/o__n"/></e>
     <e lm="guerriglia"><i>guerrigli</i><par n="cas/a__n"/></e>
-    <e lm="guerrigliero"><i>guerriglier</i><par n="segretari/o__n"/></e>
+    <e lm="guerrigliero"><i>guerriglier</i><par n="bambin/o__n"/></e>
+    <e lm="rivoluzionario"><i>rivoluzionari</i><par n="segretari/o__n"/></e>
+    <e lm="sempliciotto"><i>sempliciott</i><par n="bambin/o__n"/></e>
+    <e lm="figliastro"><i>figliastr</i><par n="bambin/o__n"/></e>
+    <e lm="sostituto"><i>sostitut</i><par n="bambin/o__n"/></e>
+    <e lm="sopravvissuto"><i>sopravvissut</i><par n="bambin/o__n"/></e>
+    <e lm="inquilino"><i>inquilin</i><par n="bambin/o__n"/></e>
     <e lm="gufo"><i>guf</i><par n="abbain/o__n"/></e>
     <e lm="guinzaglio"><i>guinzagli</i><par n="abbagli/o__n"/></e>
     <e lm="gusto"><i>gust</i><par n="abbain/o__n"/></e>
@@ -95964,6 +95977,8 @@
     <e lm="ballerino esotico"><p><l>ballerine<b/>esotiche</l><r>ballerino<b/>esotico<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="fuso orario"><p><l>fuso<b/>orario</l><r>fuso<b/>orario<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="fuso orario"><p><l>fusi<b/>orari</l><r>fuso<b/>orario<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="libero arbitrio"><p><l>libero<b/>arbitrio</l><r>libero<b/>arbitrio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="libero arbitrio"><p><l>liberi<b/>arbitri</l><r>libero<b/>arbitrio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="punto indietro"><p><l>punto<b/>indietro</l><r>punto<b/>indietro<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="punto indietro"><p><l>punti<b/>indietri</l><r>punto<b/>indietro<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="filo spinato"><p><l>filo<b/>spinato</l><r>filo<b/>spinato<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -96082,6 +96097,8 @@
     <e lm="guerra punica"><p><l>guerre<b/>puniche</l><r>guerra<b/>punica<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="giorno lavorativo"><p><l>giorno<b/>lavorativo</l><r>giorno<b/>lavorativo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="giorno lavorativo"><p><l>giorni<b/>lavorativi</l><r>giorno<b/>lavorativo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="laccio emostatico"><p><l>laccio<b/>emostatico</l><r>laccio<b/>emostatico<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="laccio emostatico"><p><l>lacci<b/>emostatici</l><r>laccio<b/>emostatico<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="segretario generale"><p><l>segretario<b/>generale</l><r>segretario<b/>generale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="segretario generale"><p><l>segretari<b/>generali</l><r>segretario<b/>generale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="segretario generale"><p><l>segretaria<b/>generale</l><r>segretario<b/>generale<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -100228,12 +100245,16 @@
     <e lm="disuso"><i>disus</i><par n="abbain/o__n"/></e>
     <e lm="farsetto"><i>farsett</i><par n="abbain/o__n"/></e>
     <e lm="contegno"><i>contegn</i><par n="abbain/o__n"/></e>
+    <e lm="prurito"><i>prurit</i><par n="abbain/o__n"/></e>
     <e lm="deragliamento"><i>deragliament</i><par n="abbain/o__n"/></e>
     <e lm="distaccamento"><i>distaccament</i><par n="abbain/o__n"/></e>
     <e lm="europeo"><i>europe</i><par n="bambin/o__n"/></e>
     <e lm="patrono"><i>patron</i><par n="bambin/o__n"/></e>
     <e lm="siriano"><i>sirian</i><par n="bambin/o__n"/></e>
     <e lm="sumero"><i>sumer</i><par n="bambin/o__n"/></e>
+    <e lm="intruso"><i>intrus</i><par n="bambin/o__n"/></e>
+    <e lm="gattino"><i>gattin</i><par n="bambin/o__n"/></e>
+    <e lm="bagnino"><i>bagnin</i><par n="bambin/o__n"/></e>
     <e lm="brocca"><i>brocc</i><par n="tasc/a__n"/></e>
     <e lm="epica"><i>epic</i><par n="tasc/a__n"/></e>
     <e lm="bistecca"><i>bistecc</i><par n="tasc/a__n"/></e>
@@ -100417,6 +100438,255 @@
     <e lm="simbolista"><i>simbolist</i><par n="suicid/a__n"/></e>
     <e lm="tradizionalista"><i>tradizionalist</i><par n="suicid/a__n"/></e>
     <e lm="zarista"><i>zarist</i><par n="suicid/a__n"/></e>
+    <e lm="epitaffio"><i>epitaffi</i><par n="abbagli/o__n"/></e>
+    <e lm="epitelio"><i>epiteli</i><par n="abbagli/o__n"/></e>
+    <e lm="erbio"><i>erbi</i><par n="abbagli/o__n"/></e>
+    <e lm="estuario"><i>estuari</i><par n="abbagli/o__n"/></e>
+    <e lm="europio"><i>europi</i><par n="abbagli/o__n"/></e>
+    <e lm="espatrio"><i>espatri</i><par n="abbagli/o__n"/></e>
+    <e lm="sterminio"><i>stermini</i><par n="abbagli/o__n"/></e>
+    <e lm="fermio"><i>fermi</i><par n="abbagli/o__n"/></e>
+    <e lm="avambraccio"><i>avambracci</i><par n="abbagli/o__n"/></e>
+    <e lm="fratricidio"><i>fratricidi</i><par n="abbagli/o__n"/></e>
+    <e lm="frontespizio"><i>frontespizi</i><par n="abbagli/o__n"/></e>
+    <e lm="gadolinio"><i>gadolini</i><par n="abbagli/o__n"/></e>
+    <e lm="germanio"><i>germani</i><par n="abbagli/o__n"/></e>
+    <e lm="gerundio"><i>gerundi</i><par n="abbagli/o__n"/></e>
+    <e lm="glossario"><i>glossari</i><par n="abbagli/o__n"/></e>
+    <e lm="granaio"><i>granai</i><par n="abbagli/o__n"/></e>
+    <e lm="afnio"><i>afni</i><par n="abbagli/o__n"/></e>
+    <e lm="elio"><i>eli</i><par n="abbagli/o__n"/></e>
+    <e lm="olmio"><i>olmi</i><par n="abbagli/o__n"/></e>
+    <e lm="ospizio"><i>ospizi</i><par n="abbagli/o__n"/></e>
+    <e lm="ostaggio"><i>ostaggi</i><par n="abbagli/o__n"/></e>
+    <e lm="idillio"><i>idilli</i><par n="abbagli/o__n"/></e>
+    <e lm="infanticidio"><i>infanticidi</i><par n="abbagli/o__n"/></e>
+    <e lm="interrogatorio"><i>interrogatori</i><par n="abbagli/o__n"/></e>
+    <e lm="tornio"><i>torni</i><par n="abbagli/o__n"/></e>
+    <e lm="legionario"><i>legionari</i><par n="abbagli/o__n"/></e>
+    <e lm="giglio"><i>gigli</i><par n="abbagli/o__n"/></e>
+    <e lm="tiglio"><i>tigli</i><par n="abbagli/o__n"/></e>
+    <e lm="linciaggio"><i>linciaggi</i><par n="abbagli/o__n"/></e>
+    <e lm="intarsio"><i>intarsi</i><par n="abbagli/o__n"/></e>
+    <e lm="martirio"><i>martiri</i><par n="abbagli/o__n"/></e>
+    <e lm="massaggio"><i>massaggi</i><par n="abbagli/o__n"/></e>
+    <e lm="metalinguaggio"><i>metalinguaggi</i><par n="abbagli/o__n"/></e>
+    <e lm="monomio"><i>monomi</i><par n="abbagli/o__n"/></e>
+    <e lm="necrologio"><i>necrologi</i><par n="abbagli/o__n"/></e>
+    <e lm="osservatorio"><i>osservatori</i><par n="abbagli/o__n"/></e>
+    <e lm="orifizio"><i>orifizi</i><par n="abbagli/o__n"/></e>
+    <e lm="orfanotrofio"><i>orfanotrofi</i><par n="abbagli/o__n"/></e>
+    <e lm="oltraggio"><i>oltraggi</i><par n="abbagli/o__n"/></e>
+    <e lm="pericardio"><i>pericardi</i><par n="abbagli/o__n"/></e>
+    <e lm="saccheggio"><i>saccheggi</i><par n="abbagli/o__n"/></e>
+    <e lm="pilotaggio"><i>pilotaggi</i><par n="abbagli/o__n"/></e>
+    <e lm="piumaggio"><i>piumaggi</i><par n="abbagli/o__n"/></e>
+    <e lm="sacrilegio"><i>sacrilegi</i><par n="abbagli/o__n"/></e>
+    <e lm="santuario"><i>santuari</i><par n="abbagli/o__n"/></e>
+    <e lm="punteggio"><i>punteggi</i><par n="abbagli/o__n"/></e>
+    <e lm="graffio"><i>graffi</i><par n="abbagli/o__n"/></e>
+    <e lm="calzolaio"><i>calzolai</i><par n="abbagli/o__n"/></e>
+    <e lm="setaccio"><i>setacci</i><par n="abbagli/o__n"/></e>
+    <e lm="silenzio"><i>silenzi</i><par n="abbagli/o__n"/></e>
+    <e lm="spettroscopio"><i>spettroscopi</i><par n="abbagli/o__n"/></e>
+    <e lm="simposio"><i>simposi</i><par n="abbagli/o__n"/></e>
+    <e lm="tintinnio"><i>tintinni</i><par n="abbagli/o__n"/></e>
+    <e lm="avvoltoio"><i>avvoltoi</i><par n="abbagli/o__n"/></e>
+    <e lm="capriccio"><i>capricci</i><par n="abbagli/o__n"/></e>
+    <e lm="sbadiglio"><i>sbadigli</i><par n="abbagli/o__n"/></e>
+    <e lm="eunuco"><i>eunuc</i><par n="fung/o__n"/></e>
+    <e lm="fianco"><i>fianc</i><par n="fung/o__n"/></e>
+    <e lm="geroglifico"><i>geroglific</i><par n="fung/o__n"/></e>
+    <e lm="intrigo"><i>intrig</i><par n="fung/o__n"/></e>
+    <e lm="mollusco"><i>mollusc</i><par n="fung/o__n"/></e>
+    <e lm="narcotico"><i>narcotic</i><par n="fung/o__n"/></e>
+    <e lm="obelisco"><i>obelisc</i><par n="fung/o__n"/></e>
+    <e lm="paleolitico"><i>paleolitic</i><par n="fung/o__n"/></e>
+    <e lm="panegirico"><i>panegiric</i><par n="fung/o__n"/></e>
+    <e lm="pizzico"><i>pizzic</i><par n="fung/o__n"/></e>
+    <e lm="solco"><i>solc</i><par n="fung/o__n"/></e>
+    <e lm="sceicco"><i>sceicc</i><par n="fung/o__n"/></e>
+    <e lm="scirocco"><i>scirocc</i><par n="fung/o__n"/></e>
+    <e lm="spreco"><i>sprec</i><par n="fung/o__n"/></e>
+    <e lm="talco"><i>talc</i><par n="fung/o__n"/></e>
+    <e lm="sego"><i>seg</i><par n="fung/o__n"/></e>
+    <e lm="trucco"><i>trucc</i><par n="fung/o__n"/></e>
+    <e lm="trittico"><i>trittic</i><par n="fung/o__n"/></e>
+    <e lm="allungamento"><i>allungament</i><par n="abbain/o__n"/></e>
+    <e lm="incoraggiamento"><i>incoraggiament</i><par n="abbain/o__n"/></e>
+    <e lm="arruolamento"><i>arruolament</i><par n="abbain/o__n"/></e>
+    <e lm="ermellino"><i>ermellin</i><par n="abbain/o__n"/></e>
+    <e lm="sfratto"><i>sfratt</i><par n="abbain/o__n"/></e>
+    <e lm="estratto"><i>estratt</i><par n="abbain/o__n"/></e>
+    <e lm="filamento"><i>filament</i><par n="abbain/o__n"/></e>
+    <e lm="fiordo"><i>fiord</i><par n="abbain/o__n"/></e>
+    <e lm="puledro"><i>puledr</i><par n="abbain/o__n"/></e>
+    <e lm="fulcro"><i>fulcr</i><par n="abbain/o__n"/></e>
+    <e lm="galoppo"><i>galopp</i><par n="abbain/o__n"/></e>
+    <e lm="zenzero"><i>zenzer</i><par n="abbain/o__n"/></e>
+    <e lm="folletto"><i>follett</i><par n="abbain/o__n"/></e>
+    <e lm="gozzo"><i>gozz</i><par n="abbain/o__n"/></e>
+    <e lm="grano"><i>gran</i><par n="abbain/o__n"/></e>
+    <e lm="grammofono"><i>grammofon</i><par n="abbain/o__n"/></e>
+    <e lm="pompelmo"><i>pompelm</i><par n="abbain/o__n"/></e>
+    <e lm="nasello"><i>nasell</i><par n="abbain/o__n"/></e>
+    <e lm="criceto"><i>cricet</i><par n="abbain/o__n"/></e>
+    <e lm="fieno"><i>fien</i><par n="abbain/o__n"/></e>
+    <e lm="eliporto"><i>eliport</i><par n="abbain/o__n"/></e>
+    <e lm="corno"><i>corn</i><par n="abbain/o__n"/></e>
+    <e lm="ibrido"><i>ibrid</i><par n="abbain/o__n"/></e>
+    <e lm="idrato"><i>idrat</i><par n="abbain/o__n"/></e>
+    <e lm="issopo"><i>issop</i><par n="abbain/o__n"/></e>
+    <e lm="impulso"><i>impuls</i><par n="abbain/o__n"/></e>
+    <e lm="impoverimento"><i>impoveriment</i><par n="abbain/o__n"/></e>
+    <e lm="lingotto"><i>lingott</i><par n="abbain/o__n"/></e>
+    <e lm="intero"><i>inter</i><par n="abbain/o__n"/></e>
+    <e lm="intelletto"><i>intellett</i><par n="abbain/o__n"/></e>
+    <e lm="intervallo"><i>intervall</i><par n="abbain/o__n"/></e>
+    <e lm="internamento"><i>internament</i><par n="abbain/o__n"/></e>
+    <e lm="interregno"><i>interregn</i><par n="abbain/o__n"/></e>
+    <e lm="sciacallo"><i>sciacall</i><par n="abbain/o__n"/></e>
+    <e lm="vaso"><i>vas</i><par n="abbain/o__n"/></e>
+    <e lm="diaspro"><i>diaspr</i><par n="abbain/o__n"/></e>
+    <e lm="mestolo"><i>mestol</i><par n="abbain/o__n"/></e>
+    <e lm="reticolo"><i>reticol</i><par n="abbain/o__n"/></e>
+    <e lm="zimbello"><i>zimbell</i><par n="abbain/o__n"/></e>
+    <e lm="porro"><i>porr</i><par n="abbain/o__n"/></e>
+    <e lm="leopardo"><i>leopard</i><par n="abbain/o__n"/></e>
+    <e lm="lucro"><i>lucr</i><par n="abbain/o__n"/></e>
+    <e lm="macronucleo"><i>macronucle</i><par n="abbain/o__n"/></e>
+    <e lm="disadattamento"><i>disadattament</i><par n="abbain/o__n"/></e>
+    <e lm="mandarino"><i>mandarin</i><par n="abbain/o__n"/></e>
+    <e lm="mandolino"><i>mandolin</i><par n="abbain/o__n"/></e>
+    <e lm="maresciallo"><i>maresciall</i><par n="abbain/o__n"/></e>
+    <e lm="mascheramento"><i>mascherament</i><par n="abbain/o__n"/></e>
+    <e lm="tappetino"><i>tappetin</i><par n="abbain/o__n"/></e>
+    <e lm="massimo"><i>massim</i><par n="abbain/o__n"/></e>
+    <e lm="nespolo"><i>nespol</i><par n="abbain/o__n"/></e>
+    <e lm="microfilamento"><i>microfilament</i><par n="abbain/o__n"/></e>
+    <e lm="micronucleo"><i>micronucle</i><par n="abbain/o__n"/></e>
+    <e lm="millisecondo"><i>millisecond</i><par n="abbain/o__n"/></e>
+    <e lm="gemito"><i>gemit</i><par n="abbain/o__n"/></e>
+    <e lm="monocolo"><i>monocol</i><par n="abbain/o__n"/></e>
+    <e lm="monopolo"><i>monopol</i><par n="abbain/o__n"/></e>
+    <e lm="monossido"><i>monossid</i><par n="abbain/o__n"/></e>
+    <e lm="multiplo"><i>multipl</i><par n="abbain/o__n"/></e>
+    <e lm="nutrimento"><i>nutriment</i><par n="abbain/o__n"/></e>
+    <e lm="unguento"><i>unguent</i><par n="abbain/o__n"/></e>
+    <e lm="bovindo"><i>bovind</i><par n="abbain/o__n"/></e>
+    <e lm="affioramento"><i>affiorament</i><par n="abbain/o__n"/></e>
+    <e lm="sovrasfruttamento"><i>sovrasfruttament</i><par n="abbain/o__n"/></e>
+    <e lm="sorpasso"><i>sorpass</i><par n="abbain/o__n"/></e>
+    <e lm="rovesciamento"><i>rovesciament</i><par n="abbain/o__n"/></e>
+    <e lm="ovidotto"><i>ovidott</i><par n="abbain/o__n"/></e>
+    <e lm="patto"><i>patt</i><par n="abbain/o__n"/></e>
+    <e lm="lucchetto"><i>lucchett</i><par n="abbain/o__n"/></e>
+    <e lm="pannello"><i>pannell</i><par n="abbain/o__n"/></e>
+    <e lm="patriarcato"><i>patriarcat</i><par n="abbain/o__n"/></e>
+    <e lm="modello"><i>modell</i><par n="abbain/o__n"/></e>
+    <e lm="pagamento"><i>pagament</i><par n="abbain/o__n"/></e>
+    <e lm="peduncolo"><i>peduncol</i><par n="abbain/o__n"/></e>
+    <e lm="spioncino"><i>spioncin</i><par n="abbain/o__n"/></e>
+    <e lm="pentagono"><i>pentagon</i><par n="abbain/o__n"/></e>
+    <e lm="fototipo"><i>fototip</i><par n="abbain/o__n"/></e>
+    <e lm="picchetto"><i>picchett</i><par n="abbain/o__n"/></e>
+    <e lm="pistillo"><i>pistill</i><par n="abbain/o__n"/></e>
+    <e lm="plebiscito"><i>plebiscit</i><par n="abbain/o__n"/></e>
+    <e lm="risentimento"><i>risentiment</i><par n="abbain/o__n"/></e>
+    <e lm="residuo"><i>residu</i><par n="abbain/o__n"/></e>
+    <e lm="ricorso"><i>ricors</i><par n="abbain/o__n"/></e>
+    <e lm="reticolo"><i>reticol</i><par n="abbain/o__n"/></e>
+    <e lm="riavvolgimento"><i>riavvolgiment</i><par n="abbain/o__n"/></e>
+    <e lm="rabarbaro"><i>rabarbar</i><par n="abbain/o__n"/></e>
+    <e lm="rullo"><i>rull</i><par n="abbain/o__n"/></e>
+    <e lm="rotolamento"><i>rotolament</i><par n="abbain/o__n"/></e>
+    <e lm="rossetto"><i>rossett</i><par n="abbain/o__n"/></e>
+    <e lm="sabato"><i>sabat</i><par n="abbain/o__n"/></e>
+    <e lm="cartamo"><i>cartam</i><par n="abbain/o__n"/></e>
+    <e lm="satiro"><i>satir</i><par n="abbain/o__n"/></e>
+    <e lm="detto"><i>dett</i><par n="abbain/o__n"/></e>
+    <e lm="scarlatto"><i>scarlatt</i><par n="abbain/o__n"/></e>
+    <e lm="profumo"><i>profum</i><par n="abbain/o__n"/></e>
+    <e lm="flagello"><i>flagell</i><par n="abbain/o__n"/></e>
+    <e lm="raschietto"><i>raschiett</i><par n="abbain/o__n"/></e>
+    <e lm="scrupolo"><i>scrupol</i><par n="abbain/o__n"/></e>
+    <e lm="sedativo"><i>sedativ</i><par n="abbain/o__n"/></e>
+    <e lm="autoritratto"><i>autoritratt</i><par n="abbain/o__n"/></e>
+    <e lm="semolino"><i>semolin</i><par n="abbain/o__n"/></e>
+    <e lm="sepalo"><i>sepal</i><par n="abbain/o__n"/></e>
+    <e lm="siero"><i>sier</i><par n="abbain/o__n"/></e>
+    <e lm="sestetto"><i>sestett</i><par n="abbain/o__n"/></e>
+    <e lm="sceriffo"><i>sceriff</i><par n="abbain/o__n"/></e>
+    <e lm="scellino"><i>scellin</i><par n="abbain/o__n"/></e>
+    <e lm="brivido"><i>brivid</i><par n="abbain/o__n"/></e>
+    <e lm="toporagno"><i>toporagn</i><par n="abbain/o__n"/></e>
+    <e lm="brivido"><i>brivid</i><par n="abbain/o__n"/></e>
+    <e lm="sospiro"><i>sospir</i><par n="abbain/o__n"/></e>
+    <e lm="silicato"><i>silicat</i><par n="abbain/o__n"/></e>
+    <e lm="limo"><i>lim</i><par n="abbain/o__n"/></e>
+    <e lm="peccato"><i>peccat</i><par n="abbain/o__n"/></e>
+    <e lm="sorso"><i>sors</i><par n="abbain/o__n"/></e>
+    <e lm="starnuto"><i>starnut</i><par n="abbain/o__n"/></e>
+    <e lm="cecchino"><i>cecchin</i><par n="abbain/o__n"/></e>
+    <e lm="solido"><i>solid</i><par n="abbain/o__n"/></e>
+    <e lm="assolo"><i>assol</i><par n="abbain/o__n"/></e>
+    <e lm="sonetto"><i>sonett</i><par n="abbain/o__n"/></e>
+    <e lm="spettacolo"><i>spettacol</i><par n="abbain/o__n"/></e>
+    <e lm="spettrografo"><i>spettrograf</i><par n="abbain/o__n"/></e>
+    <e lm="dispetto"><i>dispett</i><par n="abbain/o__n"/></e>
+    <e lm="stufato"><i>stufat</i><par n="abbain/o__n"/></e>
+    <e lm="tratto"><i>tratt</i><par n="abbain/o__n"/></e>
+    <e lm="spogliarello"><i>spogliarell</i><par n="abbain/o__n"/></e>
+    <e lm="sottotitolo"><i>sottotitol</i><par n="abbain/o__n"/></e>
+    <e lm="congiuntivo"><i>congiuntiv</i><par n="abbain/o__n"/></e>
+    <e lm="solfato"><i>solfat</i><par n="abbain/o__n"/></e>
+    <e lm="solfuro"><i>solfur</i><par n="abbain/o__n"/></e>
+    <e lm="superlativo"><i>superlativ</i><par n="abbain/o__n"/></e>
+    <e lm="supplemento"><i>supplement</i><par n="abbain/o__n"/></e>
+    <e lm="rapido"><i>rapid</i><par n="abbain/o__n"/></e>
+    <e lm="sicomoro"><i>sicomor</i><par n="abbain/o__n"/></e>
+    <e lm="sintomo"><i>sintom</i><par n="abbain/o__n"/></e>
+    <e lm="sinodo"><i>sinod</i><par n="abbain/o__n"/></e>
+    <e lm="sciroppo"><i>sciropp</i><par n="abbain/o__n"/></e>
+    <e lm="girino"><i>girin</i><par n="abbain/o__n"/></e>
+    <e lm="sarto"><i>sart</i><par n="abbain/o__n"/></e>
+    <e lm="racconto"><i>raccont</i><par n="abbain/o__n"/></e>
+    <e lm="tartaro"><i>tartar</i><par n="abbain/o__n"/></e>
+    <e lm="telegrafo"><i>telegraf</i><par n="abbain/o__n"/></e>
+    <e lm="tentacolo"><i>tentacol</i><par n="abbain/o__n"/></e>
+    <e lm="terrazzamento"><i>terrazzament</i><par n="abbain/o__n"/></e>
+    <e lm="testicolo"><i>testicol</i><par n="abbain/o__n"/></e>
+    <e lm="tetraedro"><i>tetraedr</i><par n="abbain/o__n"/></e>
+    <e lm="termostato"><i>termostat</i><par n="abbain/o__n"/></e>
+    <e lm="filo"><i>fil</i><par n="abbain/o__n"/></e>
+    <e lm="timo"><i>tim</i><par n="abbain/o__n"/></e>
+    <e lm="rospo"><i>rosp</i><par n="abbain/o__n"/></e>
+    <e lm="tormento"><i>torment</i><par n="abbain/o__n"/></e>
+    <e lm="siluro"><i>silur</i><par n="abbain/o__n"/></e>
+    <e lm="tradizionalismo"><i>tradizionalism</i><par n="abbain/o__n"/></e>
+    <e lm="trasbordo"><i>trasbord</i><par n="abbain/o__n"/></e>
+    <e lm="tesoro"><i>tesor</i><par n="abbain/o__n"/></e>
+    <e lm="trattato"><i>trattat</i><par n="abbain/o__n"/></e>
+    <e lm="triciclo"><i>tricicl</i><par n="abbain/o__n"/></e>
+    <e lm="grilletto"><i>grillett</i><par n="abbain/o__n"/></e>
+    <e lm="trillo"><i>trill</i><par n="abbain/o__n"/></e>
+    <e lm="trimero"><i>trimer</i><par n="abbain/o__n"/></e>
+    <e lm="triumvirato"><i>triumvirat</i><par n="abbain/o__n"/></e>
+    <e lm="trotto"><i>trott</i><par n="abbain/o__n"/></e>
+    <e lm="corredo"><i>corred</i><par n="abbain/o__n"/></e>
+    <e lm="troncamento"><i>troncament</i><par n="abbain/o__n"/></e>
+    <e lm="tubero"><i>tuber</i><par n="abbain/o__n"/></e>
+    <e lm="tumulto"><i>tumult</i><par n="abbain/o__n"/></e>
+    <e lm="ramoscello"><i>ramoscell</i><par n="abbain/o__n"/></e>
+    <e lm="usufrutto"><i>usufrutt</i><par n="abbain/o__n"/></e>
+    <e lm="vandalo"><i>vandal</i><par n="abbain/o__n"/></e>
+    <e lm="vassallo"><i>vassall</i><par n="abbain/o__n"/></e>
+    <e lm="velluto"><i>vellut</i><par n="abbain/o__n"/></e>
+    <e lm="ventricolo"><i>ventricol</i><par n="abbain/o__n"/></e>
+    <e lm="verdetto"><i>verdett</i><par n="abbain/o__n"/></e>
+    <e lm="vernacolo"><i>vernacol</i><par n="abbain/o__n"/></e>
+    <e lm="indebolimento"><i>indeboliment</i><par n="abbain/o__n"/></e>
+    <e lm="zelo"><i>zel</i><par n="abbain/o__n"/></e>
   </section>
   <section id="apostrophes" type="postblank">
 

@@ -16088,7 +16088,284 @@
     <e r="RL"><p><l>funding<s n="n"/></l><r>finanziamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>funding<s n="n"/></l><r>finanziamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>funeral<s n="n"/></l><r>funerale<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>fungus<s n="n"/></l><r>fungo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>extract<s n="n"/></l><r>estratto<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>offprint<s n="n"/></l><r>estratto<s n="n"/><s n="m"/></r></p></e>
+    <e srl="fungus D"><p><l>fungus<s n="n"/></l><r>fungo<s n="n"/><s n="m"/></r></p></e>
+    <e srl="mushroom"><p><l>mushroom<s n="n"/></l><r>fungo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>parisian<s n="n"/></l><r>parigino<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>parisian<s n="n"/></l><r>parigino<s n="n"/></r></p></e>
+    <e r="LR"><p><l>peasant<s n="n"/></l><r>contadino<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>peasant<s n="n"/></l><r>contadino<s n="n"/></r></p></e>
+    <e r="LR"><p><l>revolutionary<s n="n"/></l><r>rivoluzionario<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>revolutionary<s n="n"/></l><r>rivoluzionario<s n="n"/></r></p></e>
+    <e r="LR"><p><l>simpleton<s n="n"/></l><r>sempliciotto<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>simpleton<s n="n"/></l><r>sempliciotto<s n="n"/></r></p></e>
+    <e r="LR"><p><l>substitute<s n="n"/></l><r>sostituto<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>substitute<s n="n"/></l><r>sostituto<s n="n"/></r></p></e>
+    <e r="LR"><p><l>survivor<s n="n"/></l><r>sopravvissuto<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>survivor<s n="n"/></l><r>sopravvissuto<s n="n"/></r></p></e>
+    <e r="LR"><p><l>tenant<s n="n"/></l><r>inquilino<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>tenant<s n="n"/></l><r>inquilino<s n="n"/></r></p></e>
+    <e r="LR"><p><l>theologian<s n="n"/></l><r>teologo<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>theologian<s n="n"/></l><r>teologo<s n="n"/></r></p></e>
+    <e r="LR"><p><l>tyrant<s n="n"/></l><r>tiranno<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>tyrant<s n="n"/></l><r>tiranno<s n="n"/></r></p></e>
+    <e r="LR"><p><l>undersigned<s n="n"/></l><r>sottoscritto<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>undersigned<s n="n"/></l><r>sottoscritto<s n="n"/></r></p></e>
+    <e r="LR"><p><l>stepchild<s n="n"/></l><r>figliastro<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>stepson<s n="n"/></l><r>figliastro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>stepdaughter<s n="n"/></l><r>figliastro<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>elongation<s n="n"/></l><r>allungamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>encouragement<s n="n"/></l><r>incoraggiamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>enlistment<s n="n"/></l><r>arruolamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>epitaph<s n="n"/></l><r>epitaffio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>epithelium<s n="n"/></l><r>epitelio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>erbium<s n="n"/></l><r>erbio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ermine<s n="n"/></l><r>ermellino<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>estuary<s n="n"/></l><r>estuario<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>eunuch<s n="n"/></l><r>eunuco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>europium<s n="n"/></l><r>europio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>eviction<s n="n"/></l><r>sfratto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>expatriation<s n="n"/></l><r>espatrio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>extermination<s n="n"/></l><r>sterminio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>extract<s n="n"/></l><r>estratto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>fermium<s n="n"/></l><r>fermio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>filament<s n="n"/></l><r>filamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>fiord<s n="n"/></l><r>fiordo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>flank<s n="n"/></l><r>fianco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>foal<s n="n"/></l><r>puledro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>forearm<s n="n"/></l><r>avambraccio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>fratricide<s n="n"/></l><r>fratricidio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>freewill<s n="n"/></l><r>libero<b/>arbitrio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>frontispiece<s n="n"/></l><r>frontespizio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>fulcrum<s n="n"/></l><r>fulcro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>gadolinium<s n="n"/></l><r>gadolinio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>gallop<s n="n"/></l><r>galoppo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>germanium<s n="n"/></l><r>germanio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>gerund<s n="n"/></l><r>gerundio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ginger<s n="n"/></l><r>zenzero<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>glossary<s n="n"/></l><r>glossario<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>goblin<s n="n"/></l><r>folletto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>goitre<s n="n"/></l><r>gozzo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>grain<s n="n"/></l><r>grano<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>gramophone<s n="n"/></l><r>grammofono<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>granary<s n="n"/></l><r>granaio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>grapefruit<s n="n"/></l><r>pompelmo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hafnium<s n="n"/></l><r>afnio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hake<s n="n"/></l><r>nasello<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hamster<s n="n"/></l><r>criceto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hay<s n="n"/></l><r>fieno<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>heliport<s n="n"/></l><r>eliporto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>helium<s n="n"/></l><r>elio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hieroglyph<s n="n"/></l><r>geroglifico<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>holmium<s n="n"/></l><r>olmio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>horn<s n="n"/></l><r>corno<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hospice<s n="n"/></l><r>ospizio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hostage<s n="n"/></l><r>ostaggio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hybrid<s n="n"/></l><r>ibrido<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hydrate<s n="n"/></l><r>idrato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hyssop<s n="n"/></l><r>issopo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>idyll<s n="n"/></l><r>idillio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>impetus<s n="n"/></l><r>impulso<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>impoverishment<s n="n"/></l><r>impoverimento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>infanticide<s n="n"/></l><r>infanticidio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ingot<s n="n"/></l><r>lingotto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>integer<s n="n"/></l><r>intero<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>intellect<s n="n"/></l><r>intelletto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>intermission<s n="n"/></l><r>intervallo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>internment<s n="n"/></l><r>internamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>interregnum<s n="n"/></l><r>interregno<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>interrogation<s n="n"/></l><r>interrogatorio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>intrigue<s n="n"/></l><r>intrigo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>jackal<s n="n"/></l><r>sciacallo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>jar<s n="n"/></l><r>vaso<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>jasper<s n="n"/></l><r>diaspro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ladle<s n="n"/></l><r>mestolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lathe<s n="n"/></l><r>tornio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lattice<s n="n"/></l><r>reticolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>laughingstock<s n="n"/></l><r>zimbello<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>leek<s n="n"/></l><r>porro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>legionary<s n="n"/></l><r>legionario<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>leopard<s n="n"/></l><r>leopardo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lily<s n="n"/></l><r>giglio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>linden<s n="n"/></l><r>tiglio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lucre<s n="n"/></l><r>lucro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lynching<s n="n"/></l><r>linciaggio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>macronucleus<s n="n"/></l><r>macronucleo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>maladjustment<s n="n"/></l><r>disadattamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mandarin<s n="n"/></l><r>mandarino<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mandoline<s n="n"/></l><r>mandolino<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>marquetry<s n="n"/></l><r>intarsio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>marshal<s n="n"/></l><r>maresciallo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>martyrdom<s n="n"/></l><r>martirio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>masking<s n="n"/></l><r>mascheramento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>massage<s n="n"/></l><r>massaggio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mat<s n="n"/></l><r>tappetino<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>maximum<s n="n"/></l><r>massimo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>medlar<s n="n"/></l><r>nespolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>metalanguage<s n="n"/></l><r>metalinguaggio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>microfilament<s n="n"/></l><r>microfilamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>micronucleus<s n="n"/></l><r>micronucleo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>millisecond<s n="n"/></l><r>millisecondo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>moan<s n="n"/></l><r>gemito<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mollusc<s n="n"/></l><r>mollusco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>monocle<s n="n"/></l><r>monocolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>monomial<s n="n"/></l><r>monomio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>monopole<s n="n"/></l><r>monopolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>monoxide<s n="n"/></l><r>monossido<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>multiple<s n="n"/></l><r>multiplo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>narcotic<s n="n"/></l><r>narcotico<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>nourishment<s n="n"/></l><r>nutrimento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>obelisk<s n="n"/></l><r>obelisco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>obituary<s n="n"/></l><r>necrologio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>observatory<s n="n"/></l><r>osservatorio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ointment<s n="n"/></l><r>unguento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>oriel<s n="n"/></l><r>bovindo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>orifice<s n="n"/></l><r>orifizio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>orphanage<s n="n"/></l><r>orfanotrofio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>outcrop<s n="n"/></l><r>affioramento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>outrage<s n="n"/></l><r>oltraggio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>overexploitation<s n="n"/></l><r>sovrasfruttamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>overtaking<s n="n"/></l><r>sorpasso<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>overthrow<s n="n"/></l><r>rovesciamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>oviduct<s n="n"/></l><r>ovidotto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pact<s n="n"/></l><r>patto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>padlock<s n="n"/></l><r>lucchetto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>paleolithic<s n="n"/></l><r>paleolitico<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>panegyric<s n="n"/></l><r>panegirico<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>panel<s n="n"/></l><r>pannello<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>patriarchy<s n="n"/></l><r>patriarcato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pattern<s n="n"/></l><r>modello<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>payment<s n="n"/></l><r>pagamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>peduncle<s n="n"/></l><r>peduncolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>peephole<s n="n"/></l><r>spioncino<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pentagon<s n="n"/></l><r>pentagono<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pericardium<s n="n"/></l><r>pericardio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>phototype<s n="n"/></l><r>fototipo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>picket<s n="n"/></l><r>picchetto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pillage<s n="n"/></l><r>saccheggio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pilotage<s n="n"/></l><r>pilotaggio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pinch<s n="n"/></l><r>pizzico<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pistil<s n="n"/></l><r>pistillo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>plebiscite<s n="n"/></l><r>plebiscito<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>plumage<s n="n"/></l><r>piumaggio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>resentment<s n="n"/></l><r>risentimento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>residue<s n="n"/></l><r>residuo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>resorting<s n="n"/></l><r>ricorso<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>reticle<s n="n"/></l><r>reticolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rewind<s n="n"/></l><r>riavvolgimento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rhubarb<s n="n"/></l><r>rabarbaro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>roller<s n="n"/></l><r>rullo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rolling<s n="n"/></l><r>rotolamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rouge<s n="n"/></l><r>rossetto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rut<s n="n"/></l><r>solco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sabbath<s n="n"/></l><r>sabato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sacrilege<s n="n"/></l><r>sacrilegio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>safflower<s n="n"/></l><r>cartamo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sanctuary<s n="n"/></l><r>santuario<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>satyr<s n="n"/></l><r>satiro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>saying<s n="n"/></l><r>detto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>scarlet<s n="n"/></l><r>scarlatto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>scent<s n="n"/></l><r>profumo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>score<s n="n"/></l><r>punteggio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>scourge<s n="n"/></l><r>flagello<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>scraper<s n="n"/></l><r>raschietto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>scratch<s n="n"/></l><r>graffio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>scruple<s n="n"/></l><r>scrupolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sedative<s n="n"/></l><r>sedativo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>self-portrait<s n="n"/></l><r>autoritratto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>semolina<s n="n"/></l><r>semolino<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sepal<s n="n"/></l><r>sepalo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>serum<s n="n"/></l><r>siero<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sextet<s n="n"/></l><r>sestetto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sheik<s n="n"/></l><r>sceicco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sheriff<s n="n"/></l><r>sceriffo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>shilling<s n="n"/></l><r>scellino<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>shiver<s n="n"/></l><r>brivido<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>shoemaker<s n="n"/></l><r>calzolaio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>shrew<s n="n"/></l><r>toporagno<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>shudder<s n="n"/></l><r>brivido<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sieve<s n="n"/></l><r>setaccio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sigh<s n="n"/></l><r>sospiro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>silence<s n="n"/></l><r>silenzio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>silicate<s n="n"/></l><r>silicato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>silt<s n="n"/></l><r>limo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sin<s n="n"/></l><r>peccato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sip<s n="n"/></l><r>sorso<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sirocco<s n="n"/></l><r>scirocco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sneeze<s n="n"/></l><r>starnuto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sniper<s n="n"/></l><r>cecchino<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>solid<s n="n"/></l><r>solido<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>solo<s n="n"/></l><r>assolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sonnet<s n="n"/></l><r>sonetto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>spectacle<s n="n"/></l><r>spettacolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>spectrograph<s n="n"/></l><r>spettrografo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>spectroscope<s n="n"/></l><r>spettroscopio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>spite<s n="n"/></l><r>dispetto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>squandering<s n="n"/></l><r>spreco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>stew<s n="n"/></l><r>stufato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>stretch<s n="n"/></l><r>tratto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>striptease<s n="n"/></l><r>spogliarello<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>subhead<s n="n"/></l><r>sottotitolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>subjunctive<s n="n"/></l><r>congiuntivo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sulphate<s n="n"/></l><r>solfato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sulphide<s n="n"/></l><r>solfuro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>superlative<s n="n"/></l><r>superlativo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>supplement<s n="n"/></l><r>supplemento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>swift<s n="n"/></l><r>rapido<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sycamore<s n="n"/></l><r>sicomoro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>symposium<s n="n"/></l><r>simposio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>symptom<s n="n"/></l><r>sintomo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>synod<s n="n"/></l><r>sinodo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>syrup<s n="n"/></l><r>sciroppo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tadpole<s n="n"/></l><r>girino<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tailor<s n="n"/></l><r>sarto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>talc<s n="n"/></l><r>talco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tale<s n="n"/></l><r>racconto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tallow<s n="n"/></l><r>sego<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tartar<s n="n"/></l><r>tartaro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>telegraph<s n="n"/></l><r>telegrafo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tentacle<s n="n"/></l><r>tentacolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>terracing<s n="n"/></l><r>terrazzamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>testicle<s n="n"/></l><r>testicolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tetrahedron<s n="n"/></l><r>tetraedro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>thermostat<s n="n"/></l><r>termostato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>thread<s n="n"/></l><r>filo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>thyme<s n="n"/></l><r>timo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tinkle<s n="n"/></l><r>tintinnio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>toad<s n="n"/></l><r>rospo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>torment<s n="n"/></l><r>tormento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>torpedo<s n="n"/></l><r>siluro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tourniquet<s n="n"/></l><r>laccio<b/>emostatico<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>traditionalism<s n="n"/></l><r>tradizionalismo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>transhipment<s n="n"/></l><r>trasbordo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>treasure<s n="n"/></l><r>tesoro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>treaty<s n="n"/></l><r>trattato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>trick<s n="n"/></l><r>trucco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tricycle<s n="n"/></l><r>triciclo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>trigger<s n="n"/></l><r>grilletto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>trill<s n="n"/></l><r>trillo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>trimer<s n="n"/></l><r>trimero<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>triptych<s n="n"/></l><r>trittico<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>triumvirate<s n="n"/></l><r>triumvirato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>trot<s n="n"/></l><r>trotto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>trousseau<s n="n"/></l><r>corredo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>truncation<s n="n"/></l><r>troncamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tuber<s n="n"/></l><r>tubero<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tumult<s n="n"/></l><r>tumulto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>twig<s n="n"/></l><r>ramoscello<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>usufruct<s n="n"/></l><r>usufrutto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vandal<s n="n"/></l><r>vandalo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vassal<s n="n"/></l><r>vassallo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>velvet<s n="n"/></l><r>velluto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ventricle<s n="n"/></l><r>ventricolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>verdict<s n="n"/></l><r>verdetto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vernacular<s n="n"/></l><r>vernacolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vulture<s n="n"/></l><r>avvoltoio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>weakening<s n="n"/></l><r>indebolimento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>whim<s n="n"/></l><r>capriccio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>yawn<s n="n"/></l><r>sbadiglio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>zeal<s n="n"/></l><r>zelo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>funicular<s n="n"/></l><r>funicolare<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fur<s n="n"/></l><r>pellicceria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>furniture<s n="n"/></l><r>arredo<s n="n"/><s n="m"/></r></p></e>
@@ -18216,7 +18493,10 @@
     <e c="un par de"><p><l>pair<s n="n"/><s n="pl"/></l><r>paio<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>pakistani<s n="n"/></l><r>pakistano<s n="n"/></r></p></e>
     <e r="LR"><p><l>pakistani<s n="n"/></l><r>pakistano<s n="n"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>mathematician<s n="n"/></l><r>matematico<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>mathematician<s n="n"/></l><r>matematico<s n="n"/></r></p></e>
     <e><p><l>palace<s n="n"/></l><r>palazzo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>mansion<s n="n"/></l><r>palazzo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>palaeoecology<s n="n"/></l><r>paleoecologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palaeography<s n="n"/></l><r>paleografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palaeomagnetism<s n="n"/></l><r>paleomagnetismo<s n="n"/><s n="m"/></r></p></e>
@@ -20008,6 +20288,16 @@
     <e r="LR"><p><l>envoy<s n="n"/></l><r>inviato<s n="n"/><s n="GD"/></r></p></
 e>
     <e r="RL"><p><l>envoy<s n="n"/></l><r>inviato<s n="n"/></r></p></e>
+    <e r="LR"><p><l>interloper<s n="n"/></l><r>intruso<s n="n"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>intruder<s n="n"/></l><r>intruso<s n="n"/><s n="GD"/></r></p
+></e>
+    <e r="RL"><p><l>intruder<s n="n"/></l><r>intruso<s n="n"/></r></p></e>
+    <e><p><l>itch<s n="n"/></l><r>prurito<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>itching<s n="n"/></l><r>prurito<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>kitten<s n="n"/></l><r>gattino<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>kitten<s n="n"/></l><r>gattino<s n="n"/></r></p></e>
+    <e r="RL"><p><l>lifeguard<s n="n"/></l><r>bagnino<s n="n"/></r></p></e>
+    <e r="LR"><p><l>lifeguard<s n="n"/></l><r>bagnino<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>viceroy<s n="n"/></l><r>viceré<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>nonsense<s n="n"/></l><r>assurdità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>titularity<s n="n"/></l><r>titolarità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
@@ -25448,7 +25738,8 @@ e>
     <e><p><l>loan<s n="n"/></l><r>prestito<s n="n"/><s n="m"/></r></p></e>
     <e srl="loom D"><p><l>loom<s n="n"/></l><r>telaio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>microstate<s n="n"/></l><r>microstato<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>musk<s n="n"/></l><r>muschio<s n="n"/><s n="m"/></r></p></e>
+    <e srl="musk D"><p><l>musk<s n="n"/></l><r>muschio<s n="n"/><s n="m"/></r></p></e>
+    <e srl="moss"><p><l>moss<s n="n"/></l><r>muschio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nitrite<s n="n"/></l><r>nitrito<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>noon<s n="n"/></l><r>mezzogiorno<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ogre<s n="n"/></l><r>orco<s n="n"/><s n="m"/></r></p></e>
