@@ -13771,7 +13771,7 @@
     <e><p><l>translocation<s n="n"/></l><r>traslocazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>typhoon<s n="n"/></l><r>tifone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>voltage<s n="n"/></l><r>tensione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>witness<s n="n"/></l><r>testimone<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>witness<s n="n"/></l><r>testimone<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>bridge<s n="n"/></l><r>ponte<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>brine<s n="n"/></l><r>salamoia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>broadcast<s n="n"/></l><r>emissione<s n="n"/><s n="f"/></r></p></e>
@@ -18182,10 +18182,10 @@
     <e><p><l>national<b/>directorate<s n="n"/></l><r>direzione<b/>nazionale<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nationalisation<s n="n"/></l><r>nazionalizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nationalism<s n="n"/></l><r>nazionalismo<s n="n"/><s n="m"/></r></p></e>
-    <e c="check"><p><l>nationalist<s n="n"/></l><r>nazionalista<s n="n"/><s n="mf"/></r></p></e>
-    <e r="RL" c="check"><p><l>nationalist<s n="n"/></l><r>nazionalista<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>nationalist<n></l><r>nazionalista<n><mf></r></e>).-->
     <e r="RL"><p><l>nationalist<s n="n"/></l><r>nazionalista<s n="n"/></r></p></e>
-    <e i="yes"><p><l>nationalist<s n="n"/></l><r>nazionalista<s n="n"/><s n="GD"/></r></p></e><!--  autorestricted (<e><l>nationalist<n></l><r>nazionalista<n><mf></r></e>).-->
+    <e r="LR"><p><l>nationalist<s n="n"/></l><r>nazionalista<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>statesman<s n="n"/></l><r>statista<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>stateswoman<s n="n"/></l><r>statista<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>nationality<s n="n"/><s n="ND"/></l><r>nazionalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>nationality<s n="n"/><s n="sg"/></l><r>nazionalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>nationality<s n="n"/><s n="pl"/></l><r>nazionalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -21230,23 +21230,22 @@
     <e r="LR"><p><l>ultimatum<s n="n"/><s n="pl"/></l><r>ultimatum<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>ultimatum<s n="n"/><s n="ND"/></l><r>ultimatum<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>ultrasound<s n="n"/></l><r>ultrasuono<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>umbrella<s n="n"/><s n="ND"/></l><r>ombrello<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>umbrella<s n="n"/></l><r>ombrello<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>unanimity<s n="n"/><s n="ND"/></l><r>unanimità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>unanimity<s n="n"/><s n="sg"/></l><r>unanimità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>unanimity<s n="n"/><s n="pl"/></l><r>unanimità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>uncertainty<s n="n"/></l><r>indeterminazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>uncle<s n="n"/></l><r>zio<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>uncoiling<s n="n"/></l><r>sviluppo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>development<n></l><r>sviluppo<n><m></r></e>).-->
+    <e r="LR"><p><l>uncoiling<s n="n"/></l><r>sviluppo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>unconformity<s n="n"/></l><r>discordanza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>underdevelopment<s n="n"/></l><r>sottosviluppo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>underemployment<s n="n"/></l><r>sottoccupazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>underground<s n="n"/></l><r>sotterraneo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>undershirt<s n="n"/></l><r>canottiera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>understanding<s n="n"/></l><r>comprensione<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>understanding<s n="n"/></l><r>intendimento<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>understanding<n></l><r>comprensione<n><f></r></e>).-->
-    <e r="LR"><p><l>undertaking<s n="n"/></l><r>garanzia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>assurance<n></l><r>garanzia<n><f></r></e>).-->
-    <e r="LR"><p><l>undervaluation<s n="n"/></l><r>svalutazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>devaluation<n></l><r>svalutazione<n><f></r></e>).-->
+    <e r="RL"><p><l>understanding<s n="n"/></l><r>intendimento<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>undertaking<s n="n"/></l><r>garanzia<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>undervaluation<s n="n"/></l><r>svalutazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>unemployed<s n="n"/><s n="pl"/></l><r>disoccupato<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>unemployed<s n="n"/><s n="pl"/></l><r>disoccupato<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>unemployed<s n="n"/><s n="pl"/></l><r>disoccupato<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
@@ -21254,6 +21253,172 @@
     <e r="RL"><p><l>unemployed<b/>person<s n="n"/><s n="sg"/></l><r>disoccupato<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>unemployed<b/>person<s n="n"/><s n="sg"/></l><r>disoccupato<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>unemployment<s n="n"/></l><r>disoccupazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>embezzlement<s n="n"/></l><r>appropriazione<b/>indebita<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>emphysema<s n="n"/></l><r>enfisema<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>escape<s n="n"/></l><r>fuga<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>escarpment<s n="n"/></l><r>scarpata<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>esteem<s n="n"/></l><r>stima<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>eugenics<s n="n"/></l><r>eugenetica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>excuse<s n="n"/></l><r>scusa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>expectancy<s n="n"/></l><r>aspettativa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>exuberance<s n="n"/></l><r>esuberanza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fair<s n="n"/></l><r>fiera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fang<s n="n"/></l><r>zanna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>farmyard<s n="n"/></l><r>aia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>firmness<s n="n"/></l><r>fermezza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>flannel<s n="n"/></l><r>flanella<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fleet<s n="n"/></l><r>flotta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>flower-bed<s n="n"/></l><r>aiuola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>folder<s n="n"/></l><r>cartella<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fondue<s n="n"/></l><r>fonduta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>footprint<s n="n"/></l><r>impronta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>frankness<s n="n"/></l><r>franchezza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>genome<s n="n"/></l><r>genoma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gentian<s n="n"/></l><r>genziana<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gilding<s n="n"/></l><r>doratura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>grandstand<s n="n"/></l><r>tribuna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>grave<s n="n"/></l><r>tomba<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>greatness<s n="n"/></l><r>grandezza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>groove<s n="n"/></l><r>scanalatura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>guard<s n="n"/></l><r>guardia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>guide<s n="n"/></l><r>guida<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>guillotine<s n="n"/></l><r>ghigliottina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gunboat<s n="n"/></l><r>cannoniera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hailstorm<s n="n"/></l><r>grandinata<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hallelujah<s n="n"/></l><r>alleluia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>halter<s n="n"/></l><r>cavezza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hangman<s n="n"/></l><r>boia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>haste<s n="n"/></l><r>fretta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>haze<s n="n"/></l><r>foschia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>headache<s n="n"/></l><r>mal<b/>di<b/>testa<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>heath<s n="n"/></l><r>brughiera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hemoglobin<s n="n"/></l><r>emoglobina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>histamine<s n="n"/></l><r>istamina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hologram<s n="n"/></l><r>ologramma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hump<s n="n"/></l><r>gobba<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hypotenuse<s n="n"/></l><r>ipotenusa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>impedance<s n="n"/></l><r>impedenza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>incandescence<s n="n"/></l><r>incandescenza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>indictment<s n="n"/></l><r>atto<g><b/>d'accusa</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>indiscipline<s n="n"/></l><r>indisciplina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>indorsement<s n="n"/></l><r>girata<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>insecurity<s n="n"/></l><r>insicurezza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>insolence<s n="n"/></l><r>insolenza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>inventiveness<s n="n"/></l><r>inventiva<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ionosphere<s n="n"/></l><r>ionosfera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>iridescence<s n="n"/></l><r>iridescenza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>isobar<s n="n"/></l><r>isobara<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>isotherm<s n="n"/></l><r>isoterma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>jay<s n="n"/></l><r>ghiandaia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>jersey<s n="n"/></l><r>maglia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kindness<s n="n"/></l><r>gentilezza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>knuckle<s n="n"/></l><r>nocca<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>landslide<s n="n"/></l><r>frana<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lark<s n="n"/></l><r>allodola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>latrine<s n="n"/></l><r>latrina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lavender<s n="n"/></l><r>lavanda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lemonade<s n="n"/></l><r>limonata<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>leprosy<s n="n"/></l><r>lebbra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lint<s n="n"/></l><r>garza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lizard<s n="n"/></l><r>lucertola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>macromolecule<s n="n"/></l><r>macromolecola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>maid<s n="n"/></l><r>cameriera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>malevolence<s n="n"/></l><r>malevolenza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>marten<s n="n"/></l><r>martora<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>martingale<s n="n"/></l><r>martingala<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>menopause<s n="n"/></l><r>menopausa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>meteor<s n="n"/></l><r>meteora<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>microclimate<s n="n"/></l><r>microclima<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mildew<s n="n"/></l><r>muffa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>milking<s n="n"/></l><r>mungitura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mitre<s n="n"/></l><r>mitra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>morpheme<s n="n"/></l><r>morfema<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>morphine<s n="n"/></l><r>morfina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>moth<s n="n"/></l><r>falena<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mussel<s n="n"/></l><r>cozza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>myrrh<s n="n"/></l><r>mirra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nacre<s n="n"/></l><r>madreperla<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nape<s n="n"/></l><r>nuca<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>neuralgia<s n="n"/></l><r>nevralgia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nitroglycerine<s n="n"/></l><r>nitroglicerina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>observance<s n="n"/></l><r>osservanza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>obsolescence<s n="n"/></l><r>obsolescenza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ochre<s n="n"/></l><r>ocra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>oddity<s n="n"/></l><r>stranezza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>offensive<s n="n"/></l><r>offensiva<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ogive<s n="n"/></l><r>ogiva<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>overprinting<s n="n"/></l><r>sovrastampa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>oyster<s n="n"/></l><r>ostrica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>paleogeography<s n="n"/></l><r>paleogeografia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>palisade<s n="n"/></l><r>palizzata<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pantomime<s n="n"/></l><r>pantomima<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>parchment<s n="n"/></l><r>pergamena<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>patriot<s n="n"/></l><r>patriota<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pause<s n="n"/></l><r>pausa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pay<s n="n"/></l><r>paga<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>payday<s n="n"/></l><r>giorno<g><b/>di<b/>paga</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pear<s n="n"/></l><r>pera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pectin<s n="n"/></l><r>pectina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>perjury<s n="n"/></l><r>falsa<b/>testimonianza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pharmacopoeia<s n="n"/></l><r>farmacopea<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>phonetics<s n="n"/></l><r>fonetica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>phonogram<s n="n"/></l><r>fonogramma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pickle<s n="n"/></l><r>salamoia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pictogram<s n="n"/></l><r>pittogramma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pinewood<s n="n"/></l><r>pineta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pipette<s n="n"/></l><r>pipetta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pirouette<s n="n"/></l><r>piroetta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>plug<s n="n"/></l><r>spina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ply<s n="n"/></l><r>piega<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>resurgence<s n="n"/></l><r>rinascita<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reverence<s n="n"/></l><r>riverenza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reward<s n="n"/></l><r>ricompensa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rewriting<s n="n"/></l><r>riscrittura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rhapsody<s n="n"/></l><r>rapsodia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rhizome<s n="n"/></l><r>rizoma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>robustness<s n="n"/></l><r>robustezza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rock<s n="n"/></l><r>roccia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rump<s n="n"/></l><r>groppa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>saccharine<s n="n"/></l><r>saccarina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>saddle<s n="n"/></l><r>sella<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sadness<s n="n"/></l><r>tristezza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sailboat<s n="n"/></l><r>barca<g><b/>a<b/>vela</g><s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sap<s n="n"/></l><r>linfa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>savannah<s n="n"/></l><r>savana<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>scale<s n="n"/></l><r>scala<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>scapula<s n="n"/></l><r>scapola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>scrub<s n="n"/></l><r>macchia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>secrecy<s n="n"/></l><r>segretezza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>shaving<s n="n"/></l><r>rasatura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>shearing<s n="n"/></l><r>tosatura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>shoe<s n="n"/></l><r>scarpa<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>slat<s n="n"/></l><r>stecca<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sled<s n="n"/></l><r>slitta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>slime<s n="n"/></l><r>melma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>softness<s n="n"/></l><r>morbidezza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sorrel<s n="n"/></l><r>acetosa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sperm<s n="n"/></l><r>sperma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>spinet<s n="n"/></l><r>spinetta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>spinning<s n="n"/></l><r>filatura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>splint<s n="n"/></l><r>stecca<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>spy<s n="n"/></l><r>spia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>stamping<s n="n"/></l><r>timbratura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>steelworks<s n="n"/></l><r>acciaieria<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>stepmother<s n="n"/></l><r>matrigna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>strategist<s n="n"/></l><r>stratega<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>stratosphere<s n="n"/></l><r>stratosfera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>subculture<s n="n"/></l><r>sottocultura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>substance<s n="n"/></l><r>sostanza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>subsystem<s n="n"/></l><r>sottosistema<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>suppository<s n="n"/></l><r>supposta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>surveillance<s n="n"/></l><r>sorveglianza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sweatshirt<s n="n"/></l><r>felpa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>syllable<s n="n"/></l><r>sillaba<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>telepathy<s n="n"/></l><r>telepatia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>truce<s n="n"/></l><r>tregua<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tune<s n="n"/></l><r>melodia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tureen<s n="n"/></l><r>zuppiera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>umbel<s n="n"/></l><r>ombrella<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>unexpected<s n="n"/></l><r>imprevisto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>scaffolding<s n="n"/></l><r>impalcatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>unicorn<s n="n"/></l><r>unicorno<s n="n"/><s n="m"/></r></p></e>
@@ -21420,6 +21585,7 @@
     <e r="LR"><p><l>videoconsole<s n="n"/><s n="sg"/></l><r>videoconsole<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>videoconsole<s n="n"/><s n="pl"/></l><r>videoconsole<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>view<s n="n"/></l><r>vista<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>sight<s n="n"/></l><r>vista<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>viewer<s n="n"/></l><r>spettatore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>viewer<s n="n"/></l><r>spettatore<s n="n"/></r></p></e>
     <e><p><l>vigour<s n="n"/></l><r>vigore<s n="n"/><s n="m"/></r></p></e>

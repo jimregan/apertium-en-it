@@ -86207,7 +86207,7 @@
     <e lm="trasgressione"><i>trasgression</i><par n="abbreviazion/e__n"/></e>
     <e lm="traslocazione"><i>traslocazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="tensione"><i>tension</i><par n="abbreviazion/e__n"/></e>
-    <e lm="testimone"><i>testimon</i><par n="abbreviazion/e__n"/></e>
+    <e lm="testimone"><i>testimon</i><par n="albanes/e__n"/></e>
     <e lm="burrone"><i>burron</i><par n="abat/e__n"/></e>
     <e lm="monsone"><i>monson</i><par n="abat/e__n"/></e>
     <e lm="neutrone"><i>neutron</i><par n="abat/e__n"/></e>
@@ -86734,6 +86734,7 @@
     <e lm="attacco"><i>attacc</i><par n="fung/o__n"/></e>
     <e lm="attico"><i>attic</i><par n="abbain/o__n"/></e>
     <e lm="atto"><i>att</i><par n="abbain/o__n"/></e>
+    <e lm="atto d'accusa"><i>att</i><par n="abbain/o__n"/><p><l><b/>d'accusa</l><r><g><b/>d'accusa</g></r></p></e>
     <e lm="attaccamento"><i>attaccament</i><par n="abbain/o__n"/></e>
     <e lm="atteggiamento"><i>atteggiament</i><par n="abbain/o__n"/></e>
     <e lm="attendibilità"><i>attendibilità</i><par n="abilità__n"/></e>
@@ -86753,6 +86754,7 @@
     <e lm="attualità"><i>attualità</i><par n="abilità__n"/></e>
     <e lm="audience"><i>audience</i><par n="abilità__n"/></e>
     <e lm="auditorium"><i>auditorium</i><par n="albatros__n"/></e>
+    <e lm="mal di testa"><i>mal<b/>di<b/>testa</i><par n="albatros__n"/></e>
     <e lm="audizione"><i>audizion</i><par n="abbreviazion/e__n"/></e>
     <e lm="aula"><i>aul</i><par n="cas/a__n"/></e>
     <e lm="aumento"><i>aument</i><par n="abbain/o__n"/></e>
@@ -86852,6 +86854,7 @@
     <e lm="barbarie"><i>barbarie</i><par n="abilità__n"/></e>
     <e lm="barbiere"><i>barbier</i><par n="abat/e__n"/></e>
     <e lm="barca"><i>barc</i><par n="tasc/a__n"/></e>
+    <e lm="barca a vela"><i>barc</i><par n="tasc/a__n"/><p><l><b/>a<b/>vela</l><r><g><b/>a<b/>vela</g></r></p></e>
     <e lm="barile"><i>baril</i><par n="abat/e__n"/></e>
     <e lm="barocco"><i>barocc</i><par n="fung/o__n"/></e>
     <e lm="barometro"><i>barometr</i><par n="abbain/o__n"/></e>
@@ -87888,6 +87891,7 @@
     <e lm="economia"><i>economi</i><par n="cas/a__n"/></e>
     <e lm="economista"><i>economist</i><par n="suicid/a__n"/></e>
     <e lm="ecosistema"><i>ecosistem</i><par n="autom/a__n"/></e>
+    <e lm="sottosistema"><i>sottosistem</i><par n="autom/a__n"/></e>
     <e lm="plasma"><i>plasm</i><par n="autom/a__n"/></e>
     <e lm="ecuadoriano"><i>ecuadorian</i><par n="bambin/o__n"/></e>
     <e lm="edema"><i>edem</i><par n="autom/a__n"/></e>
@@ -88374,6 +88378,7 @@
     <e lm="giornata"><i>giornat</i><par n="cas/a__n"/></e>
     <e lm="giornata di lavoro"><i>giornat</i><par n="cas/a__n"/><p><l><b/>di<b/>lavoro</l><r><g><b/>di<b/>lavoro</g></r></p></e>
     <e lm="giorno di lavoro"><i>giorn</i><par n="abbain/o__n"/><p><l><b/>di<b/>lavoro</l><r><g><b/>di<b/>lavoro</g></r></p></e>
+    <e lm="giorno di paga"><i>giorn</i><par n="abbain/o__n"/><p><l><b/>di<b/>paga</l><r><g><b/>di<b/>paga</g></r></p></e>
     <e lm="giorno di nozze"><i>giorn</i><par n="abbain/o__n"/><p><l><b/>di<b/>nozze</l><r><g><b/>di<b/>nozze</g></r></p></e>
     <e lm="banco di lavoro"><i>banc</i><par n="fung/o__n"/><p><l><b/>di<b/>lavoro</l><r><g><b/>di<b/>lavoro</g></r></p></e>
     <e lm="fine settimana"><i>fine<b/>settiman</i><par n="bancarott/a__n"/></e>
@@ -89230,6 +89235,7 @@
     <e lm="nazione"><i>nazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="nazionalismo"><i>nazionalism</i><par n="abbain/o__n"/></e>
     <e lm="nazionalista"><i>nazionalist</i><par n="suicid/a__n"/></e>
+    <e lm="statista"><i>statist</i><par n="suicid/a__n"/></e>
     <e lm="nazionalsocialismo"><i>nazionalsocialism</i><par n="abbain/o__n"/></e>
     <e lm="nazista"><i>nazist</i><par n="suicid/a__n"/></e>
     <e lm="neonazista"><i>neonazist</i><par n="suicid/a__n"/></e>
@@ -96045,6 +96051,8 @@
     <e lm="stazione secondaria"><p><l>stazioni<b/>secondarie</l><r>stazione<b/>secondaria<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="immersione subacquea"><p><l>immersione<b/>subacquea</l><r>immersione<b/>subacquea<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="immersione subacquea"><p><l>immersioni<b/>subacquee</l><r>immersione<b/>subacquea<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="appropriazione indebita"><p><l>appropriazione<b/>indebita</l><r>appropriazione<b/>indebita<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="appropriazione indebita"><p><l>appropriazioni<b/>indebite</l><r>appropriazione<b/>indebita<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="nodo senoatriale"><p><l>nodo<b/>senoatriale</l><r>nodo<b/>senoatriale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="nodo senoatriale"><p><l>nodi<b/>senoatriali</l><r>nodo<b/>senoatriale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="filo interdentale"><p><l>filo<b/>interdentale</l><r>filo<b/>interdentale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -96091,6 +96099,8 @@
     <e lm="afta epizootica"><p><l>afte<b/>epizootiche</l><r>afta<b/>epizootica<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="frequenza cardiaca"><p><l>frequenza<b/>cardiaca</l><r>frequenza<b/>cardiaca<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="frequenza cardiaca"><p><l>frequenze<b/>cardiache</l><r>frequenza<b/>cardiaca<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="falsa testimonianza"><p><l>falsa<b/>testimonianza</l><r>falsa<b/>testimonianza<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="falsa testimonianza"><p><l>false<b/>testimonianze</l><r>falsa<b/>testimonianza<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="sorella mezza"><p><l>sorella<b/>mezza</l><r>sorella<b/>mezza<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="sorella mezza"><p><l>sorelle<b/>mezze</l><r>sorella<b/>mezza<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="patata fritta"><p><l>patata<b/>fritta</l><r>patata<b/>fritta<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -100726,6 +100736,165 @@
     <e lm="vernacolo"><i>vernacol</i><par n="abbain/o__n"/></e>
     <e lm="indebolimento"><i>indeboliment</i><par n="abbain/o__n"/></e>
     <e lm="zelo"><i>zel</i><par n="abbain/o__n"/></e>
+    <e lm="eugenetica"><i>eugenetic</i><par n="tasc/a__n"/></e>
+    <e lm="fonetica"><i>fonetic</i><par n="tasc/a__n"/></e>
+    <e lm="fuga"><i>fug</i><par n="tasc/a__n"/></e>
+    <e lm="nocca"><i>nocc</i><par n="tasc/a__n"/></e>
+    <e lm="nuca"><i>nuc</i><par n="tasc/a__n"/></e>
+    <e lm="ostrica"><i>ostric</i><par n="tasc/a__n"/></e>
+    <e lm="paga"><i>pag</i><par n="tasc/a__n"/></e>
+    <e lm="piega"><i>pieg</i><par n="tasc/a__n"/></e>
+    <e lm="stecca"><i>stecc</i><par n="tasc/a__n"/></e>
+    <e lm="stratega"><i>strateg</i><par n="tasc/a__n"/></e>
+    <e lm="acciaieria"><i>acciaieri</i><par n="cas/a__n"/></e>
+    <e lm="acetosa"><i>acetos</i><par n="cas/a__n"/></e>
+    <e lm="aia"><i>ai</i><par n="cas/a__n"/></e>
+    <e lm="aiuola"><i>aiuol</i><par n="cas/a__n"/></e>
+    <e lm="alleluia"><i>allelui</i><par n="cas/a__n"/></e>
+    <e lm="allodola"><i>allodol</i><par n="cas/a__n"/></e>
+    <e lm="aspettativa"><i>aspettativ</i><par n="cas/a__n"/></e>
+    <e lm="boia"><i>boi</i><par n="cas/a__n"/></e>
+    <e lm="brughiera"><i>brughier</i><par n="cas/a__n"/></e>
+    <e lm="cameriera"><i>camerier</i><par n="cas/a__n"/></e>
+    <e lm="cannoniera"><i>cannonier</i><par n="cas/a__n"/></e>
+    <e lm="cartella"><i>cartell</i><par n="cas/a__n"/></e>
+    <e lm="cavezza"><i>cavezz</i><par n="cas/a__n"/></e>
+    <e lm="cozza"><i>cozz</i><par n="cas/a__n"/></e>
+    <e lm="doratura"><i>doratur</i><par n="cas/a__n"/></e>
+    <e lm="emoglobina"><i>emoglobin</i><par n="cas/a__n"/></e>
+    <e lm="enfisema"><i>enfisem</i><par n="cas/a__n"/></e>
+    <e lm="esuberanza"><i>esuberanz</i><par n="cas/a__n"/></e>
+    <e lm="falena"><i>falen</i><par n="cas/a__n"/></e>
+    <e lm="farmacopea"><i>farmacope</i><par n="cas/a__n"/></e>
+    <e lm="felpa"><i>felp</i><par n="cas/a__n"/></e>
+    <e lm="fermezza"><i>fermezz</i><par n="cas/a__n"/></e>
+    <e lm="fiera"><i>fier</i><par n="cas/a__n"/></e>
+    <e lm="filatura"><i>filatur</i><par n="cas/a__n"/></e>
+    <e lm="flanella"><i>flanell</i><par n="cas/a__n"/></e>
+    <e lm="flotta"><i>flott</i><par n="cas/a__n"/></e>
+    <e lm="fonduta"><i>fondut</i><par n="cas/a__n"/></e>
+    <e lm="fonogramma"><i>fonogramm</i><par n="cas/a__n"/></e>
+    <e lm="foschia"><i>foschi</i><par n="cas/a__n"/></e>
+    <e lm="frana"><i>fran</i><par n="cas/a__n"/></e>
+    <e lm="franchezza"><i>franchezz</i><par n="cas/a__n"/></e>
+    <e lm="fretta"><i>frett</i><par n="cas/a__n"/></e>
+    <e lm="garza"><i>garz</i><par n="cas/a__n"/></e>
+    <e lm="genoma"><i>genom</i><par n="cas/a__n"/></e>
+    <e lm="gentilezza"><i>gentilezz</i><par n="cas/a__n"/></e>
+    <e lm="genziana"><i>genzian</i><par n="cas/a__n"/></e>
+    <e lm="ghiandaia"><i>ghiandai</i><par n="cas/a__n"/></e>
+    <e lm="ghigliottina"><i>ghigliottin</i><par n="cas/a__n"/></e>
+    <e lm="girata"><i>girat</i><par n="cas/a__n"/></e>
+    <e lm="gobba"><i>gobb</i><par n="cas/a__n"/></e>
+    <e lm="grandezza"><i>grandezz</i><par n="cas/a__n"/></e>
+    <e lm="grandinata"><i>grandinat</i><par n="cas/a__n"/></e>
+    <e lm="groppa"><i>gropp</i><par n="cas/a__n"/></e>
+    <e lm="guardia"><i>guardi</i><par n="cas/a__n"/></e>
+    <e lm="guida"><i>guid</i><par n="cas/a__n"/></e>
+    <e lm="impedenza"><i>impedenz</i><par n="cas/a__n"/></e>
+    <e lm="impronta"><i>impront</i><par n="cas/a__n"/></e>
+    <e lm="incandescenza"><i>incandescenz</i><par n="cas/a__n"/></e>
+    <e lm="indisciplina"><i>indisciplin</i><par n="cas/a__n"/></e>
+    <e lm="insicurezza"><i>insicurezz</i><par n="cas/a__n"/></e>
+    <e lm="insolenza"><i>insolenz</i><par n="cas/a__n"/></e>
+    <e lm="inventiva"><i>inventiv</i><par n="cas/a__n"/></e>
+    <e lm="ionosfera"><i>ionosfer</i><par n="cas/a__n"/></e>
+    <e lm="ipotenusa"><i>ipotenus</i><par n="cas/a__n"/></e>
+    <e lm="iridescenza"><i>iridescenz</i><par n="cas/a__n"/></e>
+    <e lm="isobara"><i>isobar</i><par n="cas/a__n"/></e>
+    <e lm="isoterma"><i>isoterm</i><par n="cas/a__n"/></e>
+    <e lm="istamina"><i>istamin</i><par n="cas/a__n"/></e>
+    <e lm="latrina"><i>latrin</i><par n="cas/a__n"/></e>
+    <e lm="lavanda"><i>lavand</i><par n="cas/a__n"/></e>
+    <e lm="lebbra"><i>lebbr</i><par n="cas/a__n"/></e>
+    <e lm="limonata"><i>limonat</i><par n="cas/a__n"/></e>
+    <e lm="linfa"><i>linf</i><par n="cas/a__n"/></e>
+    <e lm="lucertola"><i>lucertol</i><par n="cas/a__n"/></e>
+    <e lm="macchia"><i>macchi</i><par n="cas/a__n"/></e>
+    <e lm="macromolecola"><i>macromolecol</i><par n="cas/a__n"/></e>
+    <e lm="madreperla"><i>madreperl</i><par n="cas/a__n"/></e>
+    <e lm="maglia"><i>magli</i><par n="cas/a__n"/></e>
+    <e lm="malevolenza"><i>malevolenz</i><par n="cas/a__n"/></e>
+    <e lm="martingala"><i>martingal</i><par n="cas/a__n"/></e>
+    <e lm="martora"><i>martor</i><par n="cas/a__n"/></e>
+    <e lm="matrigna"><i>matrign</i><par n="cas/a__n"/></e>
+    <e lm="melma"><i>melm</i><par n="cas/a__n"/></e>
+    <e lm="melodia"><i>melodi</i><par n="cas/a__n"/></e>
+    <e lm="menopausa"><i>menopaus</i><par n="cas/a__n"/></e>
+    <e lm="meteora"><i>meteor</i><par n="cas/a__n"/></e>
+    <e lm="microclima"><i>microclim</i><par n="cas/a__n"/></e>
+    <e lm="mirra"><i>mirr</i><par n="cas/a__n"/></e>
+    <e lm="mitra"><i>mitr</i><par n="cas/a__n"/></e>
+    <e lm="morbidezza"><i>morbidezz</i><par n="cas/a__n"/></e>
+    <e lm="morfema"><i>morfem</i><par n="cas/a__n"/></e>
+    <e lm="morfina"><i>morfin</i><par n="cas/a__n"/></e>
+    <e lm="muffa"><i>muff</i><par n="cas/a__n"/></e>
+    <e lm="mungitura"><i>mungitur</i><par n="cas/a__n"/></e>
+    <e lm="nevralgia"><i>nevralgi</i><par n="cas/a__n"/></e>
+    <e lm="nitroglicerina"><i>nitroglicerin</i><par n="cas/a__n"/></e>
+    <e lm="obsolescenza"><i>obsolescenz</i><par n="cas/a__n"/></e>
+    <e lm="ocra"><i>ocr</i><par n="cas/a__n"/></e>
+    <e lm="offensiva"><i>offensiv</i><par n="cas/a__n"/></e>
+    <e lm="ogiva"><i>ogiv</i><par n="cas/a__n"/></e>
+    <e lm="ologramma"><i>ologramm</i><par n="cas/a__n"/></e>
+    <e lm="ombrella"><i>ombrell</i><par n="cas/a__n"/></e>
+    <e lm="osservanza"><i>osservanz</i><par n="cas/a__n"/></e>
+    <e lm="paleogeografia"><i>paleogeografi</i><par n="cas/a__n"/></e>
+    <e lm="palizzata"><i>palizzat</i><par n="cas/a__n"/></e>
+    <e lm="pantomima"><i>pantomim</i><par n="cas/a__n"/></e>
+    <e lm="patriota"><i>patriot</i><par n="cas/a__n"/></e>
+    <e lm="pausa"><i>paus</i><par n="cas/a__n"/></e>
+    <e lm="pectina"><i>pectin</i><par n="cas/a__n"/></e>
+    <e lm="pera"><i>per</i><par n="cas/a__n"/></e>
+    <e lm="pergamena"><i>pergamen</i><par n="cas/a__n"/></e>
+    <e lm="pineta"><i>pinet</i><par n="cas/a__n"/></e>
+    <e lm="pipetta"><i>pipett</i><par n="cas/a__n"/></e>
+    <e lm="piroetta"><i>piroett</i><par n="cas/a__n"/></e>
+    <e lm="pittogramma"><i>pittogramm</i><par n="cas/a__n"/></e>
+    <e lm="rapsodia"><i>rapsodi</i><par n="cas/a__n"/></e>
+    <e lm="rasatura"><i>rasatur</i><par n="cas/a__n"/></e>
+    <e lm="ricompensa"><i>ricompens</i><par n="cas/a__n"/></e>
+    <e lm="rinascita"><i>rinascit</i><par n="cas/a__n"/></e>
+    <e lm="riscrittura"><i>riscrittur</i><par n="cas/a__n"/></e>
+    <e lm="riverenza"><i>riverenz</i><par n="cas/a__n"/></e>
+    <e lm="rizoma"><i>rizom</i><par n="cas/a__n"/></e>
+    <e lm="robustezza"><i>robustezz</i><par n="cas/a__n"/></e>
+    <e lm="roccia"><i>rocci</i><par n="cas/a__n"/></e>
+    <e lm="saccarina"><i>saccarin</i><par n="cas/a__n"/></e>
+    <e lm="salamoia"><i>salamoi</i><par n="cas/a__n"/></e>
+    <e lm="savana"><i>savan</i><par n="cas/a__n"/></e>
+    <e lm="scala"><i>scal</i><par n="cas/a__n"/></e>
+    <e lm="scanalatura"><i>scanalatur</i><par n="cas/a__n"/></e>
+    <e lm="scapola"><i>scapol</i><par n="cas/a__n"/></e>
+    <e lm="scarpa"><i>scarp</i><par n="cas/a__n"/></e>
+    <e lm="scarpata"><i>scarpat</i><par n="cas/a__n"/></e>
+    <e lm="scusa"><i>scus</i><par n="cas/a__n"/></e>
+    <e lm="segretezza"><i>segretezz</i><par n="cas/a__n"/></e>
+    <e lm="sella"><i>sell</i><par n="cas/a__n"/></e>
+    <e lm="sillaba"><i>sillab</i><par n="cas/a__n"/></e>
+    <e lm="slitta"><i>slitt</i><par n="cas/a__n"/></e>
+    <e lm="sorveglianza"><i>sorveglianz</i><par n="cas/a__n"/></e>
+    <e lm="sostanza"><i>sostanz</i><par n="cas/a__n"/></e>
+    <e lm="sottocultura"><i>sottocultur</i><par n="cas/a__n"/></e>
+    <e lm="sottosistema"><i>sottosistem</i><par n="cas/a__n"/></e>
+    <e lm="sovrastampa"><i>sovrastamp</i><par n="cas/a__n"/></e>
+    <e lm="sperma"><i>sperm</i><par n="cas/a__n"/></e>
+    <e lm="spia"><i>spi</i><par n="cas/a__n"/></e>
+    <e lm="spina"><i>spin</i><par n="cas/a__n"/></e>
+    <e lm="spinetta"><i>spinett</i><par n="cas/a__n"/></e>
+    <e lm="stima"><i>stim</i><par n="cas/a__n"/></e>
+    <e lm="stranezza"><i>stranezz</i><par n="cas/a__n"/></e>
+    <e lm="stratosfera"><i>stratosfer</i><par n="cas/a__n"/></e>
+    <e lm="supposta"><i>suppost</i><par n="cas/a__n"/></e>
+    <e lm="telepatia"><i>telepati</i><par n="cas/a__n"/></e>
+    <e lm="timbratura"><i>timbratur</i><par n="cas/a__n"/></e>
+    <e lm="tomba"><i>tomb</i><par n="cas/a__n"/></e>
+    <e lm="tosatura"><i>tosatur</i><par n="cas/a__n"/></e>
+    <e lm="tregua"><i>tregu</i><par n="cas/a__n"/></e>
+    <e lm="tribuna"><i>tribun</i><par n="cas/a__n"/></e>
+    <e lm="tristezza"><i>tristezz</i><par n="cas/a__n"/></e>
+    <e lm="zanna"><i>zann</i><par n="cas/a__n"/></e>
+    <e lm="zuppiera"><i>zuppier</i><par n="cas/a__n"/></e>
   </section>
   <section id="apostrophes" type="postblank">
 
