@@ -113,33 +113,46 @@
         <r><s n="sp"/></r>
       </p>
     </e>
-
-
-
-
-
     <e r="LR">
       <p>
         <l><s n="pl"/></l>
         <r><s n="sp"/></r>
       </p>
     </e>
-
-
-
-
-
     <e r="RL">
       <p>
         <l><s n="ND"/></l>
         <r><s n="sp"/></r>
       </p>
     </e>
-
-
-
-
-
+    </pardef>
+    <pardef n="OneUno">
+    <e r="RL">
+      <p>
+        <l><s n="sp"/></l>
+        <r><s n="m"/><s n="sp"/></r>
+      </p>
+    </e>
+    <e r="RL">
+      <p>
+        <l><s n="sp"/></l>
+        <r><s n="f"/><s n="sp"/></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l><s n="sp"/></l>
+        <r><s n="GD"/><s n="sp"/></r>
+      </p>
+    </e>
+    </pardef>
+    <pardef n="Num">
+      <e>
+        <p>
+          <l><s n="sp"/></l>
+          <r><s n="mf"/><s n="sp"/></r>
+        </p>
+      </e>
     </pardef>
     <pardef n="Hundreds">
     <e>
@@ -148,100 +161,60 @@
         <r>cento</r>
       </p>
     </e>
-
-
-
-
     <e r="LR">
       <p>
         <l>a<b/>hundred<b/>and<b/></l>
         <r>cento</r>
       </p>
     </e>
-
-
-
-
     <e>
       <p>
         <l>two<b/>hundred<b/>and<b/></l>
         <r>duecento</r>
       </p>
     </e>
-
-
-
-
     <e>
       <p>
         <l>three<b/>hundred<b/>and<b/></l>
         <r>trecento</r>
       </p>
     </e>
-
-
-
-
     <e>
       <p>
         <l>four<b/>hundred<b/>and<b/></l>
         <r>quattrocento</r>
       </p>
     </e>
-
-
-
-
     <e>
       <p>
         <l>five<b/>hundred<b/>and<b/></l>
         <r>cinquecento</r>
       </p>
     </e>
-
-
-
-
     <e>
       <p>
         <l>six<b/>hundred<b/>and<b/></l>
         <r>seicento</r>
       </p>
     </e>
-
-
-
-
     <e>
       <p>
         <l>seven<b/>hundred<b/>and<b/></l>
         <r>settecento</r>
       </p>
     </e>
-
-
-
-
     <e>
       <p>
         <l>eight<b/>hundred<b/>and<b/></l>
         <r>ottocento</r>
       </p>
     </e>
-
-
-
-
     <e>
       <p>
         <l>nine<b/>hundred<b/>and<b/></l>
         <r>novecento</r>
       </p>
     </e>
-
-
-
-
     </pardef>
   </pardefs>
 
@@ -24103,7 +24076,8 @@
     <e><p><l>enter<s n="vblex"/></l><r>introdurre<s n="vblex"/></r></p></e>
     <e><p><l>entertain<s n="vblex"/></l><r>intrattenere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>entitle<s n="vblex"/></l><r>autorizzare<s n="vblex"/></r></p></e>
-    <e><p><l>entrust<s n="vblex"/></l><r>affidare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>entrust<s n="vblex"/></l><r>affidare<s n="vblex"/></r></p></e>
+    <e><p><l>be<g><b/>jacketless</g><s n="vblex"/></l><r>scamiciare<s n="vblex"/></r></p></e>
     <e><p><l>enumerate<s n="vblex"/></l><r>elencare<s n="vblex"/></r></p></e>
     <e><p><l>envy<s n="vblex"/></l><r>invidiare<s n="vblex"/></r></p></e>
     <e><p><l>equalise<s n="vblex"/></l><r>equalizzare<s n="vblex"/></r></p></e>
@@ -24387,7 +24361,9 @@
     <e><p><l>initiate<s n="vblex"/></l><r>avviare<s n="vblex"/></r></p></e>
     <e><p><l>inject<s n="vblex"/></l><r>iniettare<s n="vblex"/></r></p></e>
     <e><p><l>injure<s n="vblex"/></l><r>ferire<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>inscribe<s n="vblex"/></l><r>inscrivere<s n="vblex"/></r></p></e>
+    <e><p><l>inscribe<s n="vblex"/></l><r>inscrivere<s n="vblex"/></r></p></e>
+    <e><p><l>reforest<s n="vblex"/></l><r>rimboscare<s n="vblex"/></r></p></e>
+    <e><p><l>change<g><b/>rhythm</g><s n="vblex"/></l><r>ritmare<s n="vblex"/></r></p></e>
     <e><p><l>insert<s n="vblex"/></l><r>inserire<s n="vblex"/></r></p></e>
     <e><p><l>insinuate<s n="vblex"/></l><r>insinuare<s n="vblex"/></r></p></e>
     <e><p><l>insist<s n="vblex"/></l><r>insistere<s n="vblex"/></r></p></e>
@@ -24911,12 +24887,11 @@
     <e><p><l>reign<s n="vblex"/></l><r>regnare<s n="vblex"/></r></p></e>
     <e><p><l>reinvest<s n="vblex"/></l><r>reinvestire<s n="vblex"/></r></p></e>
     <e><p><l>relate<s n="vblex"/></l><r>relazionare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>release<s n="vblex"/></l><r>liberare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>discharge<vblex></l><r>liberare<vblex></r></e>).-->
-    <e r="LR"><p><l>relieve<s n="vblex"/></l><r>rilevare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>purchase<vblex></l><r>rilevare<vblex></r></e>).-->
-    <e r="LR"><p><l>rely<s n="vblex"/></l><r>affidare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>entrust<vblex></l><r>affidare<vblex></r></e>).-->
+    <e r="LR"><p><l>release<s n="vblex"/></l><r>liberare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>relieve<s n="vblex"/></l><r>rilevare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>rely<s n="vblex"/></l><r>affidare<s n="vblex"/></r></p></e>
     <e><p><l>remain<s n="vblex"/></l><r>rimanere<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>remain<s n="vblex"/></l><r>permanere<s n="vblex"/></r></p></e>
-    <e i="yes"><p><l>remain<s n="vblex"/></l><r>restare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>be<g><b/>left</g><vblex></l><r>restare<vblex></r></e>).-->
     <e r="LR"><p><l>remember<s n="vblex"/></l><r>ricordare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="RL"><l>agree<vblex></l><r>ricordare<vblex></r></e>).-->
     <e r="LR"><p><l>remind<s n="vblex"/></l><r>ricordare<s n="vblex"/></r></p></e>
     <e><p><l>remove<s n="vblex"/></l><r>togliere<s n="vblex"/></r></p></e>
@@ -25190,14 +25165,15 @@
     <e><p><l>triple<s n="vblex"/></l><r>triplicare<s n="vblex"/></r></p></e>
     <e><p><l>triumph<s n="vblex"/></l><r>trionfare<s n="vblex"/></r></p></e>
     <e><p><l>truncate<s n="vblex"/></l><r>troncare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>trust<s n="vblex"/></l><r>affidare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>entrust<vblex></l><r>affidare<vblex></r></e>).-->
+    <e><p><l>trust<s n="vblex"/></l><r>affidare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>try<s n="vblex"/></l><r>tentare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>attempt<vblex></l><r>tentare<vblex></r></e>).-->
     <e r="LR"><p><l>turn<s n="vblex"/></l><r>girare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>spin<vblex></l><r>girare<vblex></r></e>).-->
     <e r="RL"><p><l>turn<s n="vblex"/></l><r>virare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>turn<vblex></l><r>girare<vblex></r></e>).-->
     <e r="LR"><p><l>turn<g><b/>out</g><s n="vblex"/></l><r>risultare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>turn<g><b/>up</g><s n="vblex"/></l><r>apparire<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>twist<s n="vblex"/></l><r>torcere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>curve<vblex></l><r>torcere<vblex></r></e>).-->
-    <e r="RL"><p><l>twist<s n="vblex"/></l><r>storcere<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>twist<vblex></l><r>torcere<vblex></r></e>).-->
+    <e r="LR"><p><l>twist<s n="vblex"/></l><r>torcere<s n="vblex"/></r></p></e>
+    <e><p><l>retwist<s n="vblex"/></l><r>ritorcere<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>twist<s n="vblex"/></l><r>storcere<s n="vblex"/></r></p></e>
     <e><p><l>type<s n="vblex"/></l><r>scrivere<s n="vblex"/></r></p></e>
     <e><p><l>unblock<s n="vblex"/></l><r>sbloccare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>unchain<s n="vblex"/></l><r>liberare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>discharge<vblex></l><r>liberare<vblex></r></e>).-->
@@ -26615,6 +26591,39 @@
     <!-- ******************************
           group Hundreds
       ****************************** -->
+    <e><p><l>eighty-one<s n="num"/></l><r>ottantuno<s n="num"/></r></p><par n="OneUno"/></e>
+    <e><p><l>eighty-one<b/>thousand<s n="num"/></l><r>ottantunomila<s n="num"/></r></p><par n="Num"/></e>
+    <e><p><l>fifty-one<s n="num"/></l><r>cinquantuno<s n="num"/></r></p><par n="OneUno"/></e>
+    <e><p><l>fifty-one<b/>thousand<s n="num"/></l><r>cinquantunomila<s n="num"/></r></p><par n="Num"/></e>
+    <e><p><l>forty-one<s n="num"/></l><r>quarantuno<s n="num"/></r></p><par n="OneUno"/></e>
+    <e><p><l>forty-one<b/>thousand<s n="num"/></l><r>quarantunomila<s n="num"/></r></p><par n="Num"/></e>
+    <e><p><l>ninety-one<s n="num"/></l><r>novantuno<s n="num"/></r></p><par n="OneUno"/></e>
+    <e><p><l>ninety-one<b/>thousand<s n="num"/></l><r>novantunomila<s n="num"/></r></p><par n="Num"/></e>
+    <e><p><l>seventy-one<s n="num"/></l><r>settantuno<s n="num"/></r></p><par n="OneUno"/></e>
+    <e><p><l>seventy-one<b/>thousand<s n="num"/></l><r>settantunomila<s n="num"/></r></p><par n="Num"/></e>
+    <e><p><l>sixty-one<s n="num"/></l><r>sessantuno<s n="num"/></r></p><par n="OneUno"/></e>
+    <e><p><l>sixty-one<b/>thousand<s n="num"/></l><r>sessantunomila<s n="num"/></r></p><par n="Num"/></e>
+    <e><p><l>thirty-one<s n="num"/></l><r>trentuno<s n="num"/></r></p><par n="OneUno"/></e>
+    <e><p><l>thirty-one<b/>thousand<s n="num"/></l><r>trentunomila<s n="num"/></r></p><par n="Num"/></e>
+    <e><p><l>twenty-one<s n="num"/></l><r>ventuno<s n="num"/></r></p><par n="OneUno"/></e>
+    <e><p><l>twenty-one<b/>thousand<s n="num"/></l><r>ventunomila<s n="num"/></r></p><par n="Num"/></e>
+    <e><par n="Hundreds"/><p><l>eighty-one<s n="num"/></l><r>ottantuno<s n="num"/></r></p><par n="OneUno"/></e>
+    <e><par n="Hundreds"/><p><l>eighty-one<b/>thousand<s n="num"/></l><r>ottantunomila<s n="num"/></r></p><par n="Num"/></e>
+    <e><par n="Hundreds"/><p><l>fifty-one<s n="num"/></l><r>cinquantuno<s n="num"/></r></p><par n="OneUno"/></e>
+    <e><par n="Hundreds"/><p><l>fifty-one<b/>thousand<s n="num"/></l><r>cinquantunomila<s n="num"/></r></p><par n="Num"/></e>
+    <e><par n="Hundreds"/><p><l>forty-one<s n="num"/></l><r>quarantuno<s n="num"/></r></p><par n="OneUno"/></e>
+    <e><par n="Hundreds"/><p><l>forty-one<b/>thousand<s n="num"/></l><r>quarantunomila<s n="num"/></r></p><par n="Num"/></e>
+    <e><par n="Hundreds"/><p><l>ninety-one<s n="num"/></l><r>novantuno<s n="num"/></r></p><par n="OneUno"/></e>
+    <e><par n="Hundreds"/><p><l>ninety-one<b/>thousand<s n="num"/></l><r>novantunomila<s n="num"/></r></p><par n="Num"/></e>
+    <e><par n="Hundreds"/><p><l>seventy-one<s n="num"/></l><r>settantuno<s n="num"/></r></p><par n="OneUno"/></e>
+    <e><par n="Hundreds"/><p><l>seventy-one<b/>thousand<s n="num"/></l><r>settantunomila<s n="num"/></r></p><par n="Num"/></e>
+    <e><par n="Hundreds"/><p><l>sixty-one<s n="num"/></l><r>sessantuno<s n="num"/></r></p><par n="OneUno"/></e>
+    <e><par n="Hundreds"/><p><l>sixty-one<b/>thousand<s n="num"/></l><r>sessantunomila<s n="num"/></r></p><par n="Num"/></e>
+    <e><par n="Hundreds"/><p><l>thirty-one<s n="num"/></l><r>trentuno<s n="num"/></r></p><par n="OneUno"/></e>
+    <e><par n="Hundreds"/><p><l>thirty-one<b/>thousand<s n="num"/></l><r>trentunomila<s n="num"/></r></p><par n="Num"/></e>
+    <e><par n="Hundreds"/><p><l>twenty-one<s n="num"/></l><r>ventuno<s n="num"/></r></p><par n="OneUno"/></e>
+    <e><par n="Hundreds"/><p><l>twenty-one<b/>thousand<s n="num"/></l><r>ventunomila<s n="num"/></r></p><par n="Num"/></e>
+
     <e><par n="Hundreds"/><p><l>eight<s n="num"/><s n="sp"/></l><r>otto<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>eight<b/>thousand<s n="num"/><s n="sp"/></l><r>ottomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><par n="Hundreds"/><p><l>eighteen<s n="num"/><s n="sp"/></l><r>diciotto<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>

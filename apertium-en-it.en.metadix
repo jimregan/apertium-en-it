@@ -24105,7 +24105,7 @@
     <e lm="handwritten"><i>handwritten</i><par n="expensive__adj"/>    </e>
     <e lm="haphazard"><i>haphazard</i><par n="expensive__adj"/>    </e>
     <e lm="happy"><i>happ</i><par n="happ/y__adj"/>    </e>
-    <e lm="bloody"><i>blood</i><par n="blood/y__adj"/>    </e>
+    <e lm="bloody"><i>blood</i><par n="happ/y__adj"/>    </e>
     <e lm="hard"><i>hard</i><par n="long/__adj"/>    </e>
     <e lm="bald"><i>bald</i><par n="long/__adj"/>    </e>
     <e lm="harmful"><i>harmful</i><par n="expensive__adj"/>    </e>
@@ -25614,6 +25614,7 @@
     <e lm="chain"><i>chain</i><par n="accept__vblex"/>    </e>
     <e lm="chair"><i>chair</i><par n="accept__vblex"/>    </e>
     <e lm="change"><i>chang</i><par n="liv/e__vblex"/>    </e>
+    <e lm="change rhythm"><i>chang</i><par n="liv/e__vblex"/><p><l><b/>rhythm</l><r><g><b/>rhythm</g></r></p></e>
     <e lm="characterize"><i>characteri</i><par n="organi/ze__vblex"/>    </e>
     <e lm="charge"><i>charg</i><par n="liv/e__vblex"/>    </e>
     <e lm="chase"><i>chas</i><par n="liv/e__vblex"/>    </e>
@@ -26886,6 +26887,7 @@
     <e lm="turn out"><i>turn</i><par n="accept__vblex"/>      <p>        <l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="turn up"><i>turn</i><par n="accept__vblex"/>      <p>        <l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="twist"><i>twist</i><par n="accept__vblex"/>    </e>
+    <e lm="retwist"><i>retwist</i><par n="accept__vblex"/>    </e>
     <e lm="type"><i>typ</i><par n="liv/e__vblex"/>    </e>
     <e lm="unblock"><i>unblock</i><par n="accept__vblex"/>    </e>
     <e lm="unchain"><i>unchain</i><par n="accept__vblex"/>    </e>
@@ -27026,6 +27028,7 @@
     <e lm="annoy" a="ebenimeli"><i>annoy</i><par n="enjoy__vblex"/>    </e>
     <e lm="breach" a="ebenimeli"><i>breach</i><par n="approach__vblex"/>    </e>
     <e lm="be hungry"><par n="/be__vblex"/>      <p>        <l><b/>hungry</l><r><g><b/>hungry</g></r></p></e>
+    <e lm="be jacketless"><par n="/be__vblex"/>      <p>        <l><b/>jacketless</l><r><g><b/>jacketless</g></r></p></e>
     <e lm="be possible"><par n="/be__vblex"/>      <p>        <l><b/>possible</l><r><g><b/>possible</g></r></p></e>
     <e lm="be dying"><par n="/be__vblex"/>      <p>        <l><b/>dying</l><r><g><b/>dying</g></r></p></e>
     <e lm="be in decline"><par n="/be__vblex"/>      <p>        <l><b/>in<b/>decline</l><r><g><b/>in<b/>decline</g></r></p></e>
@@ -37299,6 +37302,150 @@
     <e lm="seventy one thousand"><i>seventy<b/>one<b/>thousand</i><par n="million__num"/></e>
     <e lm="eighty one thousand"><i>eighty<b/>one<b/>thousand</i><par n="million__num"/></e>
     <e lm="ninety one thousand"><i>ninety<b/>one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="one hundred and twenty-one"><i>one<b/>hundred<b/>and<b/>twenty-one</i><par n="million__num"/></e>
+    <e lm="one hundred and twenty-one thousand"><i>one<b/>hundred<b/>and<b/>twenty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="one hundred and thirty-one"><i>one<b/>hundred<b/>and<b/>thirty-one</i><par n="million__num"/></e>
+    <e lm="one hundred and thirty-one thousand"><i>one<b/>hundred<b/>and<b/>thirty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="one hundred and forty-one"><i>one<b/>hundred<b/>and<b/>forty-one</i><par n="million__num"/></e>
+    <e lm="one hundred and forty-one thousand"><i>one<b/>hundred<b/>and<b/>forty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="one hundred and fifty-one"><i>one<b/>hundred<b/>and<b/>fifty-one</i><par n="million__num"/></e>
+    <e lm="one hundred and fifty-one thousand"><i>one<b/>hundred<b/>and<b/>fifty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="one hundred and sixty-one"><i>one<b/>hundred<b/>and<b/>sixty-one</i><par n="million__num"/></e>
+    <e lm="one hundred and sixty-one thousand"><i>one<b/>hundred<b/>and<b/>sixty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="one hundred and seventy-one"><i>one<b/>hundred<b/>and<b/>seventy-one</i><par n="million__num"/></e>
+    <e lm="one hundred and seventy-one thousand"><i>one<b/>hundred<b/>and<b/>seventy-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="one hundred and eighty-one"><i>one<b/>hundred<b/>and<b/>eighty-one</i><par n="million__num"/></e>
+    <e lm="one hundred and eighty-one thousand"><i>one<b/>hundred<b/>and<b/>eighty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="one hundred and ninety-one"><i>one<b/>hundred<b/>and<b/>ninety-one</i><par n="million__num"/></e>
+    <e lm="one hundred and ninety-one thousand"><i>one<b/>hundred<b/>and<b/>ninety-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="two hundred and twenty-one"><i>two<b/>hundred<b/>and<b/>twenty-one</i><par n="million__num"/></e>
+    <e lm="two hundred and twenty-one thousand"><i>two<b/>hundred<b/>and<b/>twenty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="two hundred and thirty-one"><i>two<b/>hundred<b/>and<b/>thirty-one</i><par n="million__num"/></e>
+    <e lm="two hundred and thirty-one thousand"><i>two<b/>hundred<b/>and<b/>thirty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="two hundred and forty-one"><i>two<b/>hundred<b/>and<b/>forty-one</i><par n="million__num"/></e>
+    <e lm="two hundred and forty-one thousand"><i>two<b/>hundred<b/>and<b/>forty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="two hundred and fifty-one"><i>two<b/>hundred<b/>and<b/>fifty-one</i><par n="million__num"/></e>
+    <e lm="two hundred and fifty-one thousand"><i>two<b/>hundred<b/>and<b/>fifty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="two hundred and sixty-one"><i>two<b/>hundred<b/>and<b/>sixty-one</i><par n="million__num"/></e>
+    <e lm="two hundred and sixty-one thousand"><i>two<b/>hundred<b/>and<b/>sixty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="two hundred and seventy-one"><i>two<b/>hundred<b/>and<b/>seventy-one</i><par n="million__num"/></e>
+    <e lm="two hundred and seventy-one thousand"><i>two<b/>hundred<b/>and<b/>seventy-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="two hundred and eighty-one"><i>two<b/>hundred<b/>and<b/>eighty-one</i><par n="million__num"/></e>
+    <e lm="two hundred and eighty-one thousand"><i>two<b/>hundred<b/>and<b/>eighty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="two hundred and ninety-one"><i>two<b/>hundred<b/>and<b/>ninety-one</i><par n="million__num"/></e>
+    <e lm="two hundred and ninety-one thousand"><i>two<b/>hundred<b/>and<b/>ninety-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="three hundred and twenty-one"><i>three<b/>hundred<b/>and<b/>twenty-one</i><par n="million__num"/></e>
+    <e lm="three hundred and twenty-one thousand"><i>three<b/>hundred<b/>and<b/>twenty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="three hundred and thirty-one"><i>three<b/>hundred<b/>and<b/>thirty-one</i><par n="million__num"/></e>
+    <e lm="three hundred and thirty-one thousand"><i>three<b/>hundred<b/>and<b/>thirty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="three hundred and forty-one"><i>three<b/>hundred<b/>and<b/>forty-one</i><par n="million__num"/></e>
+    <e lm="three hundred and forty-one thousand"><i>three<b/>hundred<b/>and<b/>forty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="three hundred and fifty-one"><i>three<b/>hundred<b/>and<b/>fifty-one</i><par n="million__num"/></e>
+    <e lm="three hundred and fifty-one thousand"><i>three<b/>hundred<b/>and<b/>fifty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="three hundred and sixty-one"><i>three<b/>hundred<b/>and<b/>sixty-one</i><par n="million__num"/></e>
+    <e lm="three hundred and sixty-one thousand"><i>three<b/>hundred<b/>and<b/>sixty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="three hundred and seventy-one"><i>three<b/>hundred<b/>and<b/>seventy-one</i><par n="million__num"/></e>
+    <e lm="three hundred and seventy-one thousand"><i>three<b/>hundred<b/>and<b/>seventy-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="three hundred and eighty-one"><i>three<b/>hundred<b/>and<b/>eighty-one</i><par n="million__num"/></e>
+    <e lm="three hundred and eighty-one thousand"><i>three<b/>hundred<b/>and<b/>eighty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="three hundred and ninety-one"><i>three<b/>hundred<b/>and<b/>ninety-one</i><par n="million__num"/></e>
+    <e lm="three hundred and ninety-one thousand"><i>three<b/>hundred<b/>and<b/>ninety-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="four hundred and twenty-one"><i>four<b/>hundred<b/>and<b/>twenty-one</i><par n="million__num"/></e>
+    <e lm="four hundred and twenty-one thousand"><i>four<b/>hundred<b/>and<b/>twenty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="four hundred and thirty-one"><i>four<b/>hundred<b/>and<b/>thirty-one</i><par n="million__num"/></e>
+    <e lm="four hundred and thirty-one thousand"><i>four<b/>hundred<b/>and<b/>thirty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="four hundred and forty-one"><i>four<b/>hundred<b/>and<b/>forty-one</i><par n="million__num"/></e>
+    <e lm="four hundred and forty-one thousand"><i>four<b/>hundred<b/>and<b/>forty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="four hundred and fifty-one"><i>four<b/>hundred<b/>and<b/>fifty-one</i><par n="million__num"/></e>
+    <e lm="four hundred and fifty-one thousand"><i>four<b/>hundred<b/>and<b/>fifty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="four hundred and sixty-one"><i>four<b/>hundred<b/>and<b/>sixty-one</i><par n="million__num"/></e>
+    <e lm="four hundred and sixty-one thousand"><i>four<b/>hundred<b/>and<b/>sixty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="four hundred and seventy-one"><i>four<b/>hundred<b/>and<b/>seventy-one</i><par n="million__num"/></e>
+    <e lm="four hundred and seventy-one thousand"><i>four<b/>hundred<b/>and<b/>seventy-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="four hundred and eighty-one"><i>four<b/>hundred<b/>and<b/>eighty-one</i><par n="million__num"/></e>
+    <e lm="four hundred and eighty-one thousand"><i>four<b/>hundred<b/>and<b/>eighty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="four hundred and ninety-one"><i>four<b/>hundred<b/>and<b/>ninety-one</i><par n="million__num"/></e>
+    <e lm="four hundred and ninety-one thousand"><i>four<b/>hundred<b/>and<b/>ninety-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="five hundred and twenty-one"><i>five<b/>hundred<b/>and<b/>twenty-one</i><par n="million__num"/></e>
+    <e lm="five hundred and twenty-one thousand"><i>five<b/>hundred<b/>and<b/>twenty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="five hundred and thirty-one"><i>five<b/>hundred<b/>and<b/>thirty-one</i><par n="million__num"/></e>
+    <e lm="five hundred and thirty-one thousand"><i>five<b/>hundred<b/>and<b/>thirty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="five hundred and forty-one"><i>five<b/>hundred<b/>and<b/>forty-one</i><par n="million__num"/></e>
+    <e lm="five hundred and forty-one thousand"><i>five<b/>hundred<b/>and<b/>forty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="five hundred and fifty-one"><i>five<b/>hundred<b/>and<b/>fifty-one</i><par n="million__num"/></e>
+    <e lm="five hundred and fifty-one thousand"><i>five<b/>hundred<b/>and<b/>fifty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="five hundred and sixty-one"><i>five<b/>hundred<b/>and<b/>sixty-one</i><par n="million__num"/></e>
+    <e lm="five hundred and sixty-one thousand"><i>five<b/>hundred<b/>and<b/>sixty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="five hundred and seventy-one"><i>five<b/>hundred<b/>and<b/>seventy-one</i><par n="million__num"/></e>
+    <e lm="five hundred and seventy-one thousand"><i>five<b/>hundred<b/>and<b/>seventy-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="five hundred and eighty-one"><i>five<b/>hundred<b/>and<b/>eighty-one</i><par n="million__num"/></e>
+    <e lm="five hundred and eighty-one thousand"><i>five<b/>hundred<b/>and<b/>eighty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="five hundred and ninety-one"><i>five<b/>hundred<b/>and<b/>ninety-one</i><par n="million__num"/></e>
+    <e lm="five hundred and ninety-one thousand"><i>five<b/>hundred<b/>and<b/>ninety-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="six hundred and twenty-one"><i>six<b/>hundred<b/>and<b/>twenty-one</i><par n="million__num"/></e>
+    <e lm="six hundred and twenty-one thousand"><i>six<b/>hundred<b/>and<b/>twenty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="six hundred and thirty-one"><i>six<b/>hundred<b/>and<b/>thirty-one</i><par n="million__num"/></e>
+    <e lm="six hundred and thirty-one thousand"><i>six<b/>hundred<b/>and<b/>thirty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="six hundred and forty-one"><i>six<b/>hundred<b/>and<b/>forty-one</i><par n="million__num"/></e>
+    <e lm="six hundred and forty-one thousand"><i>six<b/>hundred<b/>and<b/>forty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="six hundred and fifty-one"><i>six<b/>hundred<b/>and<b/>fifty-one</i><par n="million__num"/></e>
+    <e lm="six hundred and fifty-one thousand"><i>six<b/>hundred<b/>and<b/>fifty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="six hundred and sixty-one"><i>six<b/>hundred<b/>and<b/>sixty-one</i><par n="million__num"/></e>
+    <e lm="six hundred and sixty-one thousand"><i>six<b/>hundred<b/>and<b/>sixty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="six hundred and seventy-one"><i>six<b/>hundred<b/>and<b/>seventy-one</i><par n="million__num"/></e>
+    <e lm="six hundred and seventy-one thousand"><i>six<b/>hundred<b/>and<b/>seventy-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="six hundred and eighty-one"><i>six<b/>hundred<b/>and<b/>eighty-one</i><par n="million__num"/></e>
+    <e lm="six hundred and eighty-one thousand"><i>six<b/>hundred<b/>and<b/>eighty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="six hundred and ninety-one"><i>six<b/>hundred<b/>and<b/>ninety-one</i><par n="million__num"/></e>
+    <e lm="six hundred and ninety-one thousand"><i>six<b/>hundred<b/>and<b/>ninety-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="seven hundred and twenty-one"><i>seven<b/>hundred<b/>and<b/>twenty-one</i><par n="million__num"/></e>
+    <e lm="seven hundred and twenty-one thousand"><i>seven<b/>hundred<b/>and<b/>twenty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="seven hundred and thirty-one"><i>seven<b/>hundred<b/>and<b/>thirty-one</i><par n="million__num"/></e>
+    <e lm="seven hundred and thirty-one thousand"><i>seven<b/>hundred<b/>and<b/>thirty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="seven hundred and forty-one"><i>seven<b/>hundred<b/>and<b/>forty-one</i><par n="million__num"/></e>
+    <e lm="seven hundred and forty-one thousand"><i>seven<b/>hundred<b/>and<b/>forty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="seven hundred and fifty-one"><i>seven<b/>hundred<b/>and<b/>fifty-one</i><par n="million__num"/></e>
+    <e lm="seven hundred and fifty-one thousand"><i>seven<b/>hundred<b/>and<b/>fifty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="seven hundred and sixty-one"><i>seven<b/>hundred<b/>and<b/>sixty-one</i><par n="million__num"/></e>
+    <e lm="seven hundred and sixty-one thousand"><i>seven<b/>hundred<b/>and<b/>sixty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="seven hundred and seventy-one"><i>seven<b/>hundred<b/>and<b/>seventy-one</i><par n="million__num"/></e>
+    <e lm="seven hundred and seventy-one thousand"><i>seven<b/>hundred<b/>and<b/>seventy-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="seven hundred and eighty-one"><i>seven<b/>hundred<b/>and<b/>eighty-one</i><par n="million__num"/></e>
+    <e lm="seven hundred and eighty-one thousand"><i>seven<b/>hundred<b/>and<b/>eighty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="seven hundred and ninety-one"><i>seven<b/>hundred<b/>and<b/>ninety-one</i><par n="million__num"/></e>
+    <e lm="seven hundred and ninety-one thousand"><i>seven<b/>hundred<b/>and<b/>ninety-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="eight hundred and twenty-one"><i>eight<b/>hundred<b/>and<b/>twenty-one</i><par n="million__num"/></e>
+    <e lm="eight hundred and twenty-one thousand"><i>eight<b/>hundred<b/>and<b/>twenty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="eight hundred and thirty-one"><i>eight<b/>hundred<b/>and<b/>thirty-one</i><par n="million__num"/></e>
+    <e lm="eight hundred and thirty-one thousand"><i>eight<b/>hundred<b/>and<b/>thirty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="eight hundred and forty-one"><i>eight<b/>hundred<b/>and<b/>forty-one</i><par n="million__num"/></e>
+    <e lm="eight hundred and forty-one thousand"><i>eight<b/>hundred<b/>and<b/>forty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="eight hundred and fifty-one"><i>eight<b/>hundred<b/>and<b/>fifty-one</i><par n="million__num"/></e>
+    <e lm="eight hundred and fifty-one thousand"><i>eight<b/>hundred<b/>and<b/>fifty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="eight hundred and sixty-one"><i>eight<b/>hundred<b/>and<b/>sixty-one</i><par n="million__num"/></e>
+    <e lm="eight hundred and sixty-one thousand"><i>eight<b/>hundred<b/>and<b/>sixty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="eight hundred and seventy-one"><i>eight<b/>hundred<b/>and<b/>seventy-one</i><par n="million__num"/></e>
+    <e lm="eight hundred and seventy-one thousand"><i>eight<b/>hundred<b/>and<b/>seventy-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="eight hundred and eighty-one"><i>eight<b/>hundred<b/>and<b/>eighty-one</i><par n="million__num"/></e>
+    <e lm="eight hundred and eighty-one thousand"><i>eight<b/>hundred<b/>and<b/>eighty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="eight hundred and ninety-one"><i>eight<b/>hundred<b/>and<b/>ninety-one</i><par n="million__num"/></e>
+    <e lm="eight hundred and ninety-one thousand"><i>eight<b/>hundred<b/>and<b/>ninety-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="nine hundred and twenty-one"><i>nine<b/>hundred<b/>and<b/>twenty-one</i><par n="million__num"/></e>
+    <e lm="nine hundred and twenty-one thousand"><i>nine<b/>hundred<b/>and<b/>twenty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="nine hundred and thirty-one"><i>nine<b/>hundred<b/>and<b/>thirty-one</i><par n="million__num"/></e>
+    <e lm="nine hundred and thirty-one thousand"><i>nine<b/>hundred<b/>and<b/>thirty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="nine hundred and forty-one"><i>nine<b/>hundred<b/>and<b/>forty-one</i><par n="million__num"/></e>
+    <e lm="nine hundred and forty-one thousand"><i>nine<b/>hundred<b/>and<b/>forty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="nine hundred and fifty-one"><i>nine<b/>hundred<b/>and<b/>fifty-one</i><par n="million__num"/></e>
+    <e lm="nine hundred and fifty-one thousand"><i>nine<b/>hundred<b/>and<b/>fifty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="nine hundred and sixty-one"><i>nine<b/>hundred<b/>and<b/>sixty-one</i><par n="million__num"/></e>
+    <e lm="nine hundred and sixty-one thousand"><i>nine<b/>hundred<b/>and<b/>sixty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="nine hundred and seventy-one"><i>nine<b/>hundred<b/>and<b/>seventy-one</i><par n="million__num"/></e>
+    <e lm="nine hundred and seventy-one thousand"><i>nine<b/>hundred<b/>and<b/>seventy-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="nine hundred and eighty-one"><i>nine<b/>hundred<b/>and<b/>eighty-one</i><par n="million__num"/></e>
+    <e lm="nine hundred and eighty-one thousand"><i>nine<b/>hundred<b/>and<b/>eighty-one<b/>thousand</i><par n="million__num"/></e>
+    <e lm="nine hundred and ninety-one"><i>nine<b/>hundred<b/>and<b/>ninety-one</i><par n="million__num"/></e>
+    <e lm="nine hundred and ninety-one thousand"><i>nine<b/>hundred<b/>and<b/>ninety-one<b/>thousand</i><par n="million__num"/></e>
     <e lm="bijection"><i>bijection</i><par n="house__n"/></e>
     <e lm="conflagration"><i>conflagration</i><par n="house__n"/></e>
     <e lm="solace"><i>solace</i><par n="house__n"/></e>
