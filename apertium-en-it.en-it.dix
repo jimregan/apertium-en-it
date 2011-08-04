@@ -15398,7 +15398,6 @@
     <e r="LR"><p><l>editorial<b/>staff<s n="n"/></l><r>redazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>editorialist<s n="n"/></l><r>editorialista<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>education<s n="n"/></l><r>educazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>education<s n="n"/></l><r>insegnamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>eel<s n="n"/></l><r>anguilla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>effect<s n="n"/></l><r>effetto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>effectiveness<s n="n"/></l><r>efficacia<s n="n"/><s n="f"/></r></p></e>
@@ -21352,7 +21351,7 @@
     <e><p><l>hallelujah<s n="n"/></l><r>alleluia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>halter<s n="n"/></l><r>cavezza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hangman<s n="n"/></l><r>boia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>haste<s n="n"/></l><r>fretta<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>haste<s n="n"/></l><r>fretta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>haze<s n="n"/></l><r>foschia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>headache<s n="n"/></l><r>mal<b/>di<b/>testa<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>heath<s n="n"/></l><r>brughiera<s n="n"/><s n="f"/></r></p></e>
@@ -22995,7 +22994,7 @@
     <e r="RL"><p><l>since<s n="adv"/></l><r>dal<b/>momento<b/>che<s n="adv"/></r></p></e>
     <e r="LR"><p><l>sincerely<s n="adv"/></l><r>sinceramente<s n="adv"/></r></p></e><!--  autorestricted (<e><l>earnestly<adv></l><r>sinceramente<adv></r></e>).-->
     <e r="LR"><p><l>single<b/>file<s n="adv"/></l><r>in<b/>fila<b/>indiana<s n="adv"/></r></p></e><!--  autorestricted (<e><l>in<b/>Indian<b/>file<adv></l><r>in<b/>fila<b/>indiana<adv></r></e>).-->
-    <e><p><l>singularly<s n="adv"/></l><r>singolarmente<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>singularly<s n="adv"/></l><r>singolarmente<s n="adv"/></r></p></e>
     <e r="LR"><p><l>slightly<s n="adv"/></l><r>leggermente<s n="adv"/></r></p></e>
     <e r="RL"><p><l>slightly<s n="adv"/></l><r>lievemente<s n="adv"/></r></p></e><!--  autorestricted (<e r="LR"><l>slightly<adv></l><r>leggermente<adv></r></e>).-->
     <e><p><l>slow<s n="adv"/></l><r>piano<s n="adv"/></r></p></e>
@@ -23225,7 +23224,7 @@
     <e r="LR"><p><l>doubtless<s n="adv"/></l><r>indubbiamente<s n="adv"/></r></p></e>
     <e r="LR"><p><l>every<b/>now<b/>and<b/>again<s n="adv"/></l><r>continuamente<s n="adv"/></r></p></e>
     <e><p><l>extensively<s n="adv"/></l><r>largamente<s n="adv"/></r></p></e>
-    <e><p><l>fondly<s n="adv"/></l><r>affettuosamente<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>fondly<s n="adv"/></l><r>affettuosamente<s n="adv"/></r></p></e>
     <e r="LR"><p><l>for<b/>dear<b/>life<s n="adv"/></l><r>disperatamente<s n="adv"/></r></p></e>
     <e><p><l>globally<s n="adv"/></l><r>complessivamente<s n="adv"/></r></p></e>
     <e><p><l>helically<s n="adv"/></l><r>elicoidalmente<s n="adv"/></r></p></e>
@@ -23244,7 +23243,7 @@
     <e><p><l>therefore<s n="adv"/></l><r>pertanto<s n="adv"/></r></p></e>
     <e r="LR"><p><l>to<b/>no<b/>effect<s n="adv"/></l><r>inutilmente<s n="adv"/></r></p></e>
     <e><p><l>uniquely<s n="adv"/></l><r>singolarmente<s n="adv"/></r></p></e>
-    <e><p><l>unquestionably<s n="adv"/></l><r>indubbiamente<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>unquestionably<s n="adv"/></l><r>indubbiamente<s n="adv"/></r></p></e>
     <e r="LR"><p><l>up<b/>to<b/>the<b/>present<s n="adv"/></l><r>finora<s n="adv"/></r></p></e>
     <e><p><l>vehemently<s n="adv"/></l><r>veementemente<s n="adv"/></r></p></e>
     <e><p><l>with<b/>hindsight<s n="adv"/></l><r>a<b/>posteriori<s n="adv"/></r></p></e>
@@ -23263,7 +23262,7 @@
     <e><p><l>house<s n="vblex"/></l><r>albergare<s n="vblex"/></r></p></e>
     <e><p><l>practice<s n="vblex"/></l><r>praticare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>reach<g><b/>for</g><s n="vblex"/></l><r>prendere<s n="vblex"/></r></p></e>
-    <e><p><l>reinstate<s n="vblex"/></l><r>ristabilire<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>reinstate<s n="vblex"/></l><r>ristabilire<s n="vblex"/></r></p></e>
     <e><p><l>repel<s n="vblex"/></l><r>repellere<s n="vblex"/></r></p></e>
     <e><p><l>bronze<s n="vblex"/></l><r>bronzare<s n="vblex"/></r></p></e>
     <e><p><l>price<s n="vblex"/></l><r>prezzare<s n="vblex"/></r></p></e>
@@ -23618,7 +23617,7 @@
     <e><p><l>rot<s n="vblex"/></l><r>marcire<s n="vblex"/></r></p></e>
     <e><p><l>scare<s n="vblex"/></l><r>spaventare<s n="vblex"/></r></p></e>
     <e><p><l>seal<s n="vblex"/></l><r>sigillare<s n="vblex"/></r></p></e>
-    <e><p><l>rebound<s n="vblex"/></l><r>rimbalzare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>rebound<s n="vblex"/></l><r>rimbalzare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>bring<g><b/>together</g><s n="vblex"/><s n="sep"/></l><r>riunire<s n="vblex"/></r></p></e>
     <e><p><l>broaden<s n="vblex"/></l><r>ampliare<s n="vblex"/></r></p></e>
     <e><p><l>brush<s n="vblex"/></l><r>spazzolare<s n="vblex"/></r></p></e>
@@ -23767,7 +23766,7 @@
     <e><p><l>consolidate<s n="vblex"/></l><r>consolidare<s n="vblex"/></r></p></e>
     <e><p><l>conspire<s n="vblex"/></l><r>cospirare<s n="vblex"/></r></p></e>
     <e><p><l>constitute<s n="vblex"/></l><r>costituire<s n="vblex"/></r></p></e>
-    <e><p><l>constrain<s n="vblex"/></l><r>costringere<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>constrain<s n="vblex"/></l><r>costringere<s n="vblex"/></r></p></e>
     <e><p><l>construct<s n="vblex"/></l><r>costruire<s n="vblex"/></r></p></e>
     <e><p><l>consult<s n="vblex"/></l><r>consultare<s n="vblex"/></r></p></e>
     <e><p><l>consume<s n="vblex"/></l><r>consumare<s n="vblex"/></r></p></e>
@@ -24062,7 +24061,7 @@
     <e r="LR"><p><l>enjoy<s n="vblex"/></l><r>piacere<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>enjoy<s n="vblex"/></l><r>usufruire<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>enlarge<s n="vblex"/></l><r>ampliare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>broaden<vblex></l><r>ampliare<vblex></r></e>).-->
-    <e><p><l>enrol<s n="vblex"/></l><r>iscrivere<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>enrol<s n="vblex"/></l><r>iscrivere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>ensure<s n="vblex"/></l><r>assicurare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>assure<vblex></l><r>assicurare<vblex></r></e>).-->
     <e><p><l>enter<s n="vblex"/></l><r>introdurre<s n="vblex"/></r></p></e>
     <e><p><l>entertain<s n="vblex"/></l><r>intrattenere<s n="vblex"/></r></p></e>
@@ -24524,7 +24523,6 @@
     <e><p><l>frame<s n="vblex"/></l><r>incorniciare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>fuse<s n="vblex"/></l><r>fondere<s n="vblex"/></r></p></e>
     <e><p><l>garnish<s n="vblex"/></l><r>guarnire<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>inscribe<s n="vblex"/></l><r>iscrivere<s n="vblex"/></r></p></e>
     <e><p><l>complain<s n="vblex"/></l><r>lamentarsi<s n="vblex"/><s n="pron"/></r></p></e>
     <e><p><l>crumble<s n="vblex"/></l><r>sgretolarsi<s n="vblex"/><s n="pron"/></r></p></e>
     <e><p><l>enrol<s n="vblex"/></l><r>iscriversi<s n="vblex"/><s n="pron"/></r></p></e>
@@ -24566,7 +24564,7 @@
     <e><p><l>loan<s n="vblex"/></l><r>prestare<s n="vblex"/></r></p></e>
     <e><p><l>locate<s n="vblex"/></l><r>localizzare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>lock<s n="vblex"/></l><r>chiudere<s n="vblex"/></r></p></e>
-    <e><p><l>lodge<s n="vblex"/></l><r>albergare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>lodge<s n="vblex"/></l><r>albergare<s n="vblex"/></r></p></e>
     <e><p><l>leave<g><b/>aside</g><s n="vblex"/><s n="sep"/></l><r>prescindere<s n="vblex"/></r></p></e>
     <e slr="guardare D"><p><l>look<s n="vblex"/></l><r>guardare<s n="vblex"/></r></p></e>
     <e c="(he looks tired)" slr="parere" r="LR"><p><l>look<s n="vblex"/></l><r>parere<s n="vblex"/></r></p></e>
@@ -25258,8 +25256,17 @@
     <e r="LR" c="comparacions"><p><l>as<s n="preadv"/></l><r>tanto<s n="preadv"/></r></p></e>
     <e r="LR"><p><l>just<b/>as<s n="preadv"/></l><r>tanto<s n="preadv"/></r></p></e>
     <e><p><l>so<s n="preadv"/></l><r>tanto<s n="preadv"/></r></p></e>
+    <e r="RL"><p><l>so<s n="preadv"/></l><r>talmente<s n="preadv"/></r></p></e>
+    <e><p><l>more<s n="preadv"/></l><r>più<s n="preadv"/></r></p></e>
     <e><p><l>very<s n="preadv"/></l><r>molto<s n="preadv"/></r></p></e>
-    <e r="RL"><p><l>very<s n="preadv"/></l><r>bene<s n="preadv"/></r></p></e><!--  autorestricted (<e><l>very<preadv></l><r>molto<preadv></r></e>).-->
+    <e><p><l>quite<s n="preadv"/></l><r>abbastanza<s n="preadv"/></r></p></e>
+    <e r="LR"><p><l>pretty<s n="preadv"/></l><r>abbastanza<s n="preadv"/></r></p></e>
+    <e r="LR"><p><l>fairly<s n="preadv"/></l><r>abbastanza<s n="preadv"/></r></p></e>
+    <e><p><l>really<s n="preadv"/></l><r>realmente<s n="preadv"/></r></p></e>
+    <e><p><l>too<s n="preadv"/></l><r>troppo<s n="preadv"/></r></p></e>
+    <e r="LR"><p><l>overly<s n="preadv"/></l><r>troppo<s n="preadv"/></r></p></e>
+    <e><p><l>how<s n="preadv"/></l><r>che<s n="preadv"/></r></p></e>
+    <e r="RL"><p><l>very<s n="preadv"/></l><r>bene<s n="preadv"/></r></p></e>
     <!-- ******************************
           group prn_symbol
       ****************************** -->
