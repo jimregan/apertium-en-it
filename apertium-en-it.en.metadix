@@ -14921,6 +14921,7 @@
     <e lm="Joey"><i>Joey</i><par n="Mark__np"/>    </e>
     <e lm="Johan"><i>Johan</i><par n="Mark__np"/>    </e>
     <e lm="John"><i>John</i><par n="Mark__np"/>    </e>
+    <e lm="Satan"><i>Satan</i><par n="Mark__np"/>    </e>
     <e lm="Sherlock Holmes"><i>Sherlock<b/>Holmes</i><par n="Mark__np"/>    </e>
     <e lm="Holy Spirit"><i>Holy<b/>Spirit</i><par n="Mark__np"/>    </e>
     <e lm="Holy Ghost"><i>Holy<b/>Ghost</i><par n="Mark__np"/>    </e>
@@ -17492,6 +17493,7 @@
     <e lm="Santiago"><i>Santiago</i><par n="Mark__np"/>    </e>
     <e lm="Sara"><i>Sara</i><par n="Mary__np"/>    </e>
     <e lm="Saturn"><i>Saturn</i><par n="Barcelona__np"/>    </e>
+    <e lm="Saturn" r="RL"><i>Saturn</i><par n="Linux__np"/>    </e>
     <e lm="Saudi Arabia"><i>Saudi<b/>Arabia</i><par n="Barcelona__np"/>    </e>
     <e lm="Scotland"><i>Scotland</i><par n="Barcelona__np"/>    </e>
     <e lm="Sebastià"><i>Sebastià</i><par n="Mark__np"/>    </e>
@@ -19693,6 +19695,7 @@
     <e lm="follow-up"><i>follow-up</i><par n="house__n"/>    </e>
     <e lm="following" a="carmentano"><i>following</i><par n="house__n"/>    </e>
     <e lm="food"><i>food</i><par n="house__n"/>    </e>
+    <e lm="seafood"><i>seafood</i><par n="house__n"/>    </e>
     <e lm="foolishness"><i>foolishness</i><par n="access__n"/>    </e>
     <e lm="football"><i>football</i><par n="house__n"/>    </e>
     <e lm="footballer"><i>footballer</i><par n="house__n"/>    </e>
@@ -23172,6 +23175,15 @@
     <e lm="AIDS"><i>AIDS</i><par n="BBC__n"/>    </e>
     <e lm="CD" a="carmentano"><i>CD</i><par n="BBC__n"/>    </e>
     <e lm="CDC"><i>CDC</i><par n="BBC__n"/>    </e>
+    <e lm="IMF"><i>IMF</i><par n="BBC__n"/>    </e>
+    <e lm="PNV"><i>PNV</i><par n="BBC__n"/>    </e>
+    <e lm="UA"><i>UA</i><par n="BBC__n"/>    </e>
+    <e lm="UGT"><i>UGT</i><par n="BBC__n"/>    </e>
+    <e lm="www"><i>www</i><par n="BBC__n"/>    </e>
+    <e lm="URL"><i>URL</i><par n="BBC__n"/>    </e>
+    <e lm="UHF"><i>UHF</i><par n="BBC__n"/>    </e>
+    <e lm="UPC"><i>UPC</i><par n="BBC__n"/>    </e>
+    <e lm="UPV"><i>UPV</i><par n="BBC__n"/>    </e>
     <e lm="DNA" a="carmentano"><i>DNA</i><par n="BBC__n"/>    </e>
     <e lm="DVD" a="carmentano"><i>DVD</i><par n="BBC__n"/>    </e>
     <e lm="ECB"><i>ECB</i><par n="BBC__n"/>    </e>
@@ -23446,7 +23458,7 @@
     <e lm="His Majesty"><i>His<b/>Majesty</i><par n="east__n"/></e>
     <e lm="Her Royal Majesty"><i>Her<b/>Royal<b/>Majesty</i><par n="east__n"/></e>
     <e lm="His Royal Majesty"><i>His<b/>Royal<b/>Majesty</i><par n="east__n"/></e>
-    <e lm="Your Royal Majesty"><i>Your<b/>Royal<b/>Majesty</i><par n="east__n"/></e>
+    <e lm="Your Royal Majesty"><i>Your<b/>Royal<b/>Majest</i><par n="bab/y__n"/></e>
     <e lm="Her Majesty the Queen"><i>Her<b/>Majesty<b/>the<b/>Queen</i><par n="east__n"/></e>
     <e lm="His Majesty the King"><i>His<b/>Majesty<b/>the<b/>King</i><par n="east__n"/></e>
     <e lm="Their Majesties"><i>Their<b/>Majesties</i><par n="alms__n"/></e>
@@ -30767,6 +30779,7 @@
     <e lm="identifier"><i>identifier</i><par n="house__n"/>     </e>
     <e lm="idiolect"><i>idiolect</i><par n="house__n"/>     </e>
     <e lm="idiom"><i>idiom</i><par n="house__n"/>     </e>
+    <e lm="pond"><i>pond</i><par n="house__n"/>     </e>
     <e lm="idiomatic"><i>idiomatic</i><par n="expensive__adj"/>     </e>
     <e lm="idiosyncratic"><i>idiosyncratic</i><par n="expensive__adj"/>     </e>
     <e lm="ignominy"><i>ignomin</i><par n="bab/y__n"/>     </e>
@@ -32587,6 +32600,7 @@
     <e lm="sorter"><i>sorter</i><par n="house__n"/>     </e>
     <e lm="soundproofing"><i>soundproofing</i><par n="house__n"/>     </e>
     <e lm="soybean"><i>soybean</i><par n="house__n"/>     </e>
+    <e lm="broad bean"><i>broad<b/>bean</i><par n="house__n"/>     </e>
     <e lm="spin"><i>sp</i><par n="sp/in__vblex"/>     </e>
     <e lm="spacer"><i>spacer</i><par n="house__n"/>     </e>
     <e lm="sparingly"><i>sparingly</i><par n="maybe__adv"/>     </e>

@@ -12401,6 +12401,15 @@
     <e><p><l>Avogadro<b/>number<s n="n"/></l><r>numero<g><b/>di<b/>Avogadro</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>income<b/>tax<s n="n"/></l><r>imposta<g><b/>sul<b/>reddito</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>BBC<s n="n"/><s n="acr"/></l><r>BBC<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>IMF<s n="n"/><s n="acr"/></l><r>FMI<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>PNV<s n="n"/><s n="acr"/></l><r>PNV<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>UA<s n="n"/><s n="acr"/></l><r>UA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>UGT<s n="n"/><s n="acr"/></l><r>UGT<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>www<s n="n"/><s n="acr"/></l><r>www<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>URL<s n="n"/><s n="acr"/></l><r>URL<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>UHF<s n="n"/><s n="acr"/></l><r>UHF<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>UPC<s n="n"/><s n="acr"/></l><r>UPC<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>UPV<s n="n"/><s n="acr"/></l><r>UPV<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>CD<s n="n"/><s n="acr"/></l><r>CD<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
     <e><p><l>CDC<s n="n"/><s n="acr"/></l><r>CDC<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
     <e><p><l>DVD<s n="n"/><s n="acr"/></l><r>DVD<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
@@ -15016,8 +15025,7 @@
     <e r="LR"><p><l>deployment<s n="n"/></l><r>distribuzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>depolymerisation<s n="n"/></l><r>depolimerizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>deportation<s n="n"/></l><r>deportazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>deposit<s n="n"/></l><r>deposito<s n="n"/><s n="m"/></r></p></e>
-    <e i="yes"><p><l>deposit<s n="n"/></l><r>custodia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>custody<n></l><r>custodia<n><f></r></e>).-->
+    <e slr="deposito D"><p><l>deposit<s n="n"/></l><r>deposito<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>deposition<s n="n"/></l><r>deposizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>depravation<s n="n"/></l><r>depravazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>depreciation<s n="n"/></l><r>deprezzamento<s n="n"/><s n="m"/></r></p></e>
@@ -15980,6 +15988,8 @@
     <e><p><l>floor<s n="n"/></l><r>pavimento<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>floor<s n="n"/></l><r>suolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>flora<s n="n"/></l><r>flora<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>florist<s n="n"/></l><r>fioreria<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>broad<b/>bean<s n="n"/></l><r>fava<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>florist<s n="n"/></l><r>fiorista<s n="n"/></r></p></e>
     <e r="LR"><p><l>florist<s n="n"/></l><r>fiorista<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>flotation<s n="n"/></l><r>flottazione<s n="n"/><s n="f"/></r></p></e>
@@ -16509,15 +16519,14 @@
     <e r="LR"><p><l>gin<s n="n"/><s n="pl"/></l><r>gin<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>girl<s n="n"/></l><r>ragazzo<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>girl<s n="n"/></l><r>bambino<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>girlfriend<s n="n"/></l><r>fidanzato<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>girlfriend<s n="n"/></l><r>fidanzato<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>glaciation<s n="n"/></l><r>glaciazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>glacier<s n="n"/></l><r>ghiacciaio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>glaciology<s n="n"/></l><r>glaciologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gland<s n="n"/></l><r>ghiandola<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>glass<s n="n"/></l><r>tazza<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>cup<n></l><r>tazza<n><f></r></e>).-->
-    <e i="yes"><p><l>glass<s n="n"/></l><r>cristallo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>crystal<n></l><r>cristallo<n><m></r></e>).-->
-    <e r="RL"><p><l>glass<s n="n"/></l><r>bicchiere<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>glass<n></l><r>tazza<n><f></r></e>).-->
-    <e r="RL"><p><l>glass<s n="n"/></l><r>vetro<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>glass<n></l><r>tazza<n><f></r></e>).-->
+    <e r="RL"><p><l>glass<s n="n"/></l><r>bicchiere<s n="n"/><s n="m"/></r></p></e>
+    <e slr="vetro D"><p><l>glass<s n="n"/></l><r>vetro<s n="n"/><s n="m"/></r></p></e>
+    <e slr="cristalleria"><p><l>glass<s n="n"/></l><r>cristalleria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>glasses<s n="n"/></l><r>occhiale<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>globalisation<s n="n"/></l><r>globalizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>glorification<s n="n"/></l><r>glorificazione<s n="n"/><s n="f"/></r></p></e>
@@ -16525,6 +16534,7 @@
     <e><p><l>glottochronology<s n="n"/></l><r>glottocronologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>glove<s n="n"/></l><r>guanto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>glow<s n="n"/></l><r>fulgore<s n="n"/><s n="m"/></r></p></e>
+    <e slr="giacimento"><p><l>deposit<s n="n"/></l><r>giacimento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>glucose<s n="n"/></l><r>glucosio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>glue<s n="n"/></l><r>adesivo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>gluten<s n="n"/></l><r>glutine<s n="n"/><s n="m"/></r></p></e>
@@ -17336,6 +17346,7 @@
     <e r="LR"><p><l>journey<s n="n"/></l><r>viaggio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>joy<s n="n"/></l><r>gioia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>judge<s n="n"/></l><r>magistrato<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>judge<s n="n"/></l><r>giudice<s n="n"/><s n="mf"/></r></p></e>
     <e slr="giudizio D"><p><l>judgement<s n="n"/></l><r>giudizio<s n="n"/><s n="m"/></r></p></e>
     <e slr="sentenza" r="LR"><p><l>judgement<s n="n"/></l><r>sentenza<s n="n"/><s n="f"/></r></p></e>
     <e c="de carne"><p><l>juice<s n="n"/></l><r>succo<s n="n"/><s n="m"/></r></p></e>
@@ -17420,18 +17431,18 @@
     <e r="LR"><p><l>laicism<s n="n"/><s n="pl"/></l><r>laicità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>laicism<s n="n"/><s n="ND"/></l><r>laicità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>laicism<s n="n"/></l><r>laicismo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>lake<s n="n"/></l><r>stagno<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>lake<s n="n"/></l><r>lago<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>lake<n></l><r>stagno<n><m></r></e>).-->
+    <e><p><l>pond<s n="n"/></l><r>stagno<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lake<s n="n"/></l><r>lago<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lamb<s n="n"/></l><r>agnello<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lamp<s n="n"/></l><r>lampada<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>land<s n="n"/></l><r>terra<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>earth<n></l><r>terra<n><f></r></e>).-->
+    <e r="LR"><p><l>land<s n="n"/></l><r>terra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>landing<s n="n"/></l><r>atterraggio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>landlord<s n="n"/></l><r>proprietario<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>landscape<s n="n"/></l><r>paesaggio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lane<s n="n"/></l><r>cammino<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>language<s n="n"/></l><r>idioma<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>language<s n="n"/></l><r>lingua<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>language<n></l><r>idioma<n><m></r></e>).-->
-    <e r="RL"><p><l>language<s n="n"/></l><r>linguaggio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>language<n></l><r>idioma<n><m></r></e>).-->
+    <e><p><l>idiom<s n="n"/></l><r>idioma<s n="n"/><s n="m"/></r></p></e>
+    <e srl="language"><p><l>language<s n="n"/></l><r>lingua<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>language<s n="n"/></l><r>linguaggio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>language<b/>professional<s n="n"/></l><r>professionista<g><b/>delle<b/>lingue</g><s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>language<b/>professional<s n="n"/></l><r>professionista<g><b/>delle<b/>lingue</g><s n="n"/></r></p></e>
     <e r="LR"><p><l>lantern<s n="n"/></l><r>lanterna<s n="n"/><s n="f"/></r></p></e>
@@ -21078,7 +21089,8 @@
     <e r="LR"><p><l>tonality<s n="n"/><s n="sg"/></l><r>tonalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>tonality<s n="n"/><s n="pl"/></l><r>tonalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>tone<s n="n"/></l><r>tono<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>tongue<s n="n"/></l><r>lingua<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>language<n></l><r>lingua<n><f></r></e>).-->
+    <e srl="tongue D"><p><l>tongue<s n="n"/></l><r>lingua<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tongue<s n="n"/></l><r>linguetta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tonnage<s n="n"/></l><r>stazza<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>tonne<s n="n"/></l><r>tonnellata<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tonsil<s n="n"/></l><r>tonsilla<s n="n"/><s n="f"/></r></p></e>
