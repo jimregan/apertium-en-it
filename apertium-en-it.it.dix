@@ -89625,11 +89625,13 @@
     <e lm="pattinaggio"><i>pattinaggi</i><par n="abbagli/o__n"/></e>
     <e lm="paura"><i>paur</i><par n="cas/a__n"/></e>
     <e lm="pavimento"><i>paviment</i><par n="abbain/o__n"/></e>
+    <e lm="vacuolo"><i>vacuol</i><par n="abbain/o__n"/></e>
     <e lm="pavé"><i>pavé</i><par n="albatros__n"/></e>
     <e lm="paziente"><i>pazient</i><par n="albanes/e__n"/></e>
     <e lm="pazzia"><i>pazzi</i><par n="cas/a__n"/></e>
     <e lm="pc"><i>pc</i><par n="albatros__n"/></e>
     <e lm="byte"><i>byte</i><par n="albatros__n"/></e>
+    <e lm="varicap"><i>varicap</i><par n="albatros__n"/></e>
     <e lm="zoom"><i>zoom</i><par n="albatros__n"/></e>
     <e lm="ranch"><i>ranch</i><par n="albatros__n"/></e>
     <e lm="curry"><i>curry</i><par n="albatros__n"/></e>
@@ -89687,6 +89689,7 @@
     <e lm="radionuclide"><i>radionuclid</i><par n="abat/e__n"/></e>
     <e lm="pelo"><i>pel</i><par n="abbain/o__n"/></e>
     <e lm="pelle"><i>pell</i><par n="abbreviazion/e__n"/></e>
+    <e lm="epicicloide"><i>epicicloid</i><par n="abbreviazion/e__n"/></e>
     <e lm="professione"><i>profession</i><par n="abbreviazion/e__n"/></e>
     <e lm="propensione"><i>propension</i><par n="abbreviazion/e__n"/></e>
     <e lm="riconversione"><i>riconversion</i><par n="abbreviazion/e__n"/></e>
@@ -90090,6 +90093,10 @@
     <e lm="potenza"><i>potenz</i><par n="cas/a__n"/></e>
     <e lm="potenziale"><i>potenzial</i><par n="abat/e__n"/></e>
     <e lm="potere"><i>poter</i><par n="abat/e__n"/></e>
+    <e lm="intrappolare"><i>intrappolar</i><par n="abat/e__n"/></e>
+    <e lm="estere"><i>ester</i><par n="abat/e__n"/></e>
+    <e lm="etile"><i>etil</i><par n="abat/e__n"/></e>
+    <e lm="stimatore"><i>stimator</i><par n="abat/e__n"/></e>
     <e lm="povertà"><i>povertà</i><par n="abilità__n"/></e>
     <e lm="pozzo"><i>pozz</i><par n="abbain/o__n"/></e>
     <e lm="pozzanghera"><i>pozzangher</i><par n="cas/a__n"/></e>
@@ -90116,6 +90123,7 @@
     <e lm="preposto"><i>prepost</i><par n="bambin/o__n"/></e>
     <e lm="prescrizione"><i>prescrizion</i><par n="abbreviazion/e__n"/></e>
     <e lm="presente"><i>present</i><par n="albanes/e__n"/></e>
+    <e lm="girante"><i>girant</i><par n="albanes/e__n"/></e>
     <e lm="presentazione"><i>presentazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="presepe"><i>presep</i><par n="abat/e__n"/></e>
     <e lm="presenza"><i>presenz</i><par n="cas/a__n"/></e>
@@ -90149,6 +90157,7 @@
     <e lm="prodotto"><i>prodott</i><par n="abbain/o__n"/></e>
     <e lm="produttività"><i>produttività</i><par n="abilità__n"/></e>
     <e lm="produttore"><i>produtt</i><par n="agricolt/ore__n"/></e>
+    <e lm="esaminatore"><i>esaminat</i><par n="agricolt/ore__n"/></e>
     <e lm="produzione"><i>produzion</i><par n="abbreviazion/e__n"/></e>
     <e lm="professionista"><i>professionist</i><par n="suicid/a__n"/></e>
     <e lm="professionista delle lingue"><i>professionist</i><par n="suicid/a__n"/><p><l><b/>delle<b/>lingue</l><r><g><b/>delle<b/>lingue</g></r></p></e>
@@ -97393,6 +97402,7 @@
     <e lm="berkelio"><i>berkelio</i><par n="albatros__n"/></e>
     <e lm="penalty"><i>penalty</i><par n="albatros__n"/></e>
     <e lm="visir"><i>visir</i><par n="albatros__n"/></e>
+    <e lm="moiré"><i>moiré</i><par n="albatros__n"/></e>
     <e lm="gran visir" r="LR"><i>gran<b/>visir</i><par n="albatros__n"/></e>
     <e lm="gran visir" r="RL"><p><l>Gran<b/>Visir</l><r>gran<b/>visir</r></p><par n="albatros__n"/></e>
     <e lm="ablativo"><i>ablativ</i><par n="abbain/o__n"/></e>
@@ -97515,6 +97525,7 @@
     <e lm="telegrafo"><i>telegraf</i><par n="abbain/o__n"/></e>
     <e lm="bardo"><i>bard</i><par n="abbain/o__n"/></e>
     <e lm="rovescio"><i>rovesci</i><par n="abbagli/o__n"/></e>
+    <e lm="incrocio"><i>incroci</i><par n="abbagli/o__n"/></e>
     <e lm="libido"><i>libido</i><par n="abilità__n"/></e>
     <e lm="bisessualità"><i>bisessualità</i><par n="abilità__n"/></e>
     <e lm="moralità"><i>moralità</i><par n="abilità__n"/></e>
@@ -99887,7 +99898,7 @@
     <e lm="confidenzialità"><i>confidenzialità</i><par n="abilità__n"/></e>
     <e lm="territorialità"><i>territorialità</i><par n="abilità__n"/></e>
     <e lm="tensore"><i>tensor</i><par n="abat/e__n"/></e>
-    <e lm="sincronizzatorore"><i>sincronizzatoror</i><par n="abat/e__n"/></e>
+    <e lm="sincronizzatore"><i>sincronizzator</i><par n="abat/e__n"/></e>
     <e lm="terrore"><i>terror</i><par n="abat/e__n"/></e>
     <e lm="termistore"><i>termistor</i><par n="abat/e__n"/></e>
     <e lm="termoregolatore"><i>termoregolator</i><par n="abat/e__n"/></e>
