@@ -23306,6 +23306,7 @@
     <e><p><l>bronze<s n="vblex"/></l><r>bronzare<s n="vblex"/></r></p></e>
     <e><p><l>price<s n="vblex"/></l><r>prezzare<s n="vblex"/></r></p></e>
     <e><p><l>match<s n="vblex"/></l><r>uguagliare<s n="vblex"/></r></p></e>
+    <e><p><l>nominate<s n="vblex"/></l><r>candidare<s n="vblex"/></r></p></e>
     <e><p><l>object<s n="vblex"/></l><r>obiettare<s n="vblex"/></r></p></e>
     <e><p><l>remit<s n="vblex"/></l><r>rimettere<s n="vblex"/></r></p></e>
     <e><p><l>risk<s n="vblex"/></l><r>rischiare<s n="vblex"/></r></p></e>
@@ -23429,6 +23430,7 @@
     <e><p><l>annihilate<s n="vblex"/></l><r>annientare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>announce<s n="vblex"/></l><r>annunciare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>advertise<vblex></l><r>annunciare<vblex></r></e>).-->
     <e><p><l>annoy<s n="vblex"/></l><r>molestare<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>annoy<s n="vblex"/></l><r>importunare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>answer<s n="vblex"/></l><r>contestare<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>answer<s n="vblex"/></l><r>rispondere<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>answer<vblex></l><r>contestare<vblex></r></e>).-->
     <e><p><l>anticipate<s n="vblex"/></l><r>anticipare<s n="vblex"/></r></p></e>
@@ -23459,15 +23461,16 @@
     <e r="RL"><p><l>arrive<s n="vblex"/></l><r>giungere<s n="vblex"/></r></p></e>
     <e><p><l>articulate<s n="vblex"/></l><r>articolare<s n="vblex"/></r></p></e>
     <e><p><l>ascertain<s n="vblex"/></l><r>constatare<s n="vblex"/></r></p></e>
-    <e r="LR" slr="chiedere"><p><l>ask<s n="vblex"/></l><r>chiedere<s n="vblex"/></r></p></e>
-    <e r="RL" slr="domandare D"><p><l>ask<s n="vblex"/></l><r>domandare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>ask<vblex></l><r>chiedere<vblex></r></e>).-->
+    <e slr="chiedere"><p><l>ask<s n="vblex"/></l><r>chiedere<s n="vblex"/></r></p></e>
+    <e r="RL" slr="domandare D"><p><l>ask<s n="vblex"/></l><r>domandare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>ask<g><b/>for</g><s n="vblex"/></l><r>chiedere<s n="vblex"/></r></p></e>
     <e><p><l>asphalt<s n="vblex"/></l><r>asfaltare<s n="vblex"/></r></p></e>
     <e><p><l>assault<s n="vblex"/></l><r>assaltare<s n="vblex"/></r></p></e>
     <e><p><l>assemble<s n="vblex"/></l><r>assemblare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>assert<s n="vblex"/></l><r>affermare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>affirm<vblex></l><r>affermare<vblex></r></e>).-->
+    <e r="LR"><p><l>assert<s n="vblex"/></l><r>affermare<s n="vblex"/></r></p></e>
     <e><p><l>assess<s n="vblex"/></l><r>valutare<s n="vblex"/></r></p></e>
     <e><p><l>assign<s n="vblex"/></l><r>assegnare<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>assign<s n="vblex"/></l><r>destinare<s n="vblex"/></r></p></e>
     <e><p><l>assimilate<s n="vblex"/></l><r>assimilare<s n="vblex"/></r></p></e>
     <e><p><l>assist<s n="vblex"/></l><r>assistere<s n="vblex"/></r></p></e>
     <e><p><l>associate<s n="vblex"/></l><r>associare<s n="vblex"/></r></p></e>
@@ -23922,9 +23925,9 @@
     <e><p><l>notice<s n="vblex"/></l><r>notare<s n="vblex"/></r></p></e>
     <e><p><l>denounce<s n="vblex"/></l><r>denunciare<s n="vblex"/></r></p></e>
     <e><p><l>deny<s n="vblex"/></l><r>negare<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>deny<s n="vblex"/></l><r>smentire<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>deny<vblex></l><r>negare<vblex></r></e>).-->
+    <e r="RL"><p><l>deny<s n="vblex"/></l><r>smentire<s n="vblex"/></r></p></e>
     <e><p><l>depend<s n="vblex"/></l><r>dipendere<s n="vblex"/></r></p></e>
-    <e><p><l>depict<s n="vblex"/></l><r>descrivere<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>depict<s n="vblex"/></l><r>descrivere<s n="vblex"/></r></p></e>
     <e><p><l>deplete<s n="vblex"/></l><r>vuotare<s n="vblex"/></r></p></e>
     <e><p><l>deploy<s n="vblex"/></l><r>schierare<s n="vblex"/></r></p></e>
     <e><p><l>deport<s n="vblex"/></l><r>deportare<s n="vblex"/></r></p></e>
@@ -23937,13 +23940,12 @@
     <e><p><l>derive<s n="vblex"/></l><r>derivare<s n="vblex"/></r></p></e>
     <e><p><l>derogate<s n="vblex"/></l><r>sminuire<s n="vblex"/></r></p></e>
     <e><p><l>descend<s n="vblex"/></l><r>discendere<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>describe<s n="vblex"/></l><r>descrivere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>depict<vblex></l><r>descrivere<vblex></r></e>).-->
+    <e><p><l>describe<s n="vblex"/></l><r>descrivere<s n="vblex"/></r></p></e>
     <e><p><l>desecrate<s n="vblex"/></l><r>sconsacrare<s n="vblex"/></r></p></e>
     <e><p><l>desert<s n="vblex"/></l><r>disertare<s n="vblex"/></r></p></e>
     <e><p><l>deserve<s n="vblex"/></l><r>meritare<s n="vblex"/></r></p></e>
     <e><p><l>design<s n="vblex"/></l><r>disegnare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>designate<s n="vblex"/></l><r>denominare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>denominate<vblex></l><r>denominare<vblex></r></e>).-->
-    <e r="RL"><p><l>designate<s n="vblex"/></l><r>designare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>designate<vblex></l><r>denominare<vblex></r></e>).-->
+    <e><p><l>designate<s n="vblex"/></l><r>designare<s n="vblex"/></r></p></e>
     <e><p><l>desire<s n="vblex"/></l><r>desiderare<s n="vblex"/></r></p></e>
     <e><p><l>desist<s n="vblex"/></l><r>desistere<s n="vblex"/></r></p></e>
     <e><p><l>despise<s n="vblex"/></l><r>disprezzare<s n="vblex"/></r></p></e>
@@ -25276,10 +25278,12 @@
     <e><p><l>worry<s n="vblex"/></l><r>infastidire<s n="vblex"/></r></p></e>
     <e><p><l>worsen<s n="vblex"/></l><r>peggiorare<s n="vblex"/></r></p></e>
     <e><p><l>wrap<s n="vblex"/></l><r>avvolgere<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>write<s n="vblex"/></l><r>scrivere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>type<vblex></l><r>scrivere<vblex></r></e>).-->
+    <e><p><l>fulminate<s n="vblex"/></l><r>fulminare<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>scratch<s n="vblex"/></l><r>grattare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>write<s n="vblex"/></l><r>scrivere<s n="vblex"/></r></p></e>
     <e><p><l>yawn<s n="vblex"/></l><r>sbadigliare<s n="vblex"/></r></p></e>
     <e><p><l>yield<s n="vblex"/></l><r>cedere<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>zone<s n="vblex"/></l><r>circondare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>surround<vblex></l><r>circondare<vblex></r></e>).-->
+    <e r="LR"><p><l>zone<s n="vblex"/></l><r>circondare<s n="vblex"/></r></p></e>
     <!-- ******************************
           group preadv_symbol
       ****************************** -->
@@ -26269,6 +26273,7 @@
     <e r="RL"><p><l>be<s n="vbser"/></l><r>essere<s n="vbser"/><s n="auxser"/></r></p></e>
     <e r="RL"><p><l>be<s n="vbser"/></l><r>stare<s n="vbser"/></r></p></e>
     <e><p><l>be<s n="vbser"/></l><r>essere<s n="vbser"/></r></p></e>
+    <e r="RL"><p><l>be<s n="vbser"/></l><r>essere<s n="vblex"/></r></p></e>
     <!-- ******************************
           group num_symbol
       ****************************** -->
