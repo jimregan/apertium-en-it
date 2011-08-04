@@ -20060,20 +20060,18 @@
     <e r="RL"><p><l>shine<s n="n"/></l><r>luccichio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>shine<n></l><r>lucentezza<n><f></r></e>).-->
     <e><p><l>ship<s n="n"/></l><r>barca<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ship<s n="n"/></l><r>nave<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>ship<n></l><r>barca<n><m></r></e>).-->
-    <e r="LR"><p><l>shipment<s n="n"/></l><r>spedizione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>dispatch<n></l><r>spedizione<n><f></r></e>).-->
+    <e r="LR"><p><l>shipment<s n="n"/></l><r>spedizione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>shipping<s n="n"/></l><r>spedizione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>dispatch<n></l><r>spedizione<n><f></r></e>).-->
     <e><p><l>shipwreck<s n="n"/></l><r>naufragio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>shirt<s n="n"/></l><r>camicia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>shit<s n="n"/></l><r>merda<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>shock<s n="n"/></l><r>scossa<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>shake<n></l><r>scossa<n><f></r></e>).-->
+    <e r="LR"><p><l>shock<s n="n"/></l><r>scossa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>shock<b/>absorber<s n="n"/></l><r>ammortizzatore<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>shoe<s n="n"/></l><r>scarpa<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>shoe<s n="n"/></l><r>scarpa<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>shoe<n></l><r>scarpa<n><m></r></e>).-->
     <e><p><l>shooting<s n="n"/></l><r>fucilazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>shop<s n="n"/></l><r>negozio<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>shopping<s n="n"/></l><r>spesa<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>expense<n></l><r>spesa<n><f></r></e>).-->
-    <e r="LR"><p><l>shopping<s n="n"/><s n="sg"/></l><r>acquisto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>acquisition<n></l><r>acquisto<n><m></r></e>).-->
-    <e r="RL"><p><l>shopping<s n="n"/><s n="sg"/></l><r>spesa<s n="n"/></r></p></e><!--  autorestricted (<e r="LR"><l>shopping<n><sg></l><r>acquisto<n><m></r></e>).-->
+    <e r="LR"><p><l>shopping<s n="n"/></l><r>spesa<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>shopping<s n="n"/><s n="sg"/></l><r>acquisto<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>shopping<s n="n"/><s n="sg"/></l><r>spesa<s n="n"/></r></p></e>
     <e><p><l>shore<s n="n"/></l><r>riva<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>short<b/>circuit<s n="n"/></l><r>cortocircuito<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>short<b/>film<s n="n"/></l><r>cortometraggio<s n="n"/><s n="m"/></r></p></e>
@@ -20479,7 +20477,6 @@
     <e slr="primavera D"><p><l>spring<s n="n"/></l><r>primavera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>spumante<s n="n"/></l><r>spumante<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>spurt<s n="n"/></l><r>impulso<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>spy<s n="n"/></l><r>spia<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>square<s n="n"/></l><r>piazza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>squid<s n="n"/></l><r>calamaro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>squirrel<s n="n"/></l><r>scoiattolo<s n="n"/><s n="m"/></r></p></e>
@@ -25628,7 +25625,6 @@
     <e><p><l>slap<s n="n"/></l><r>schiaffo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>human<s n="n"/></l><r>umano<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pill<s n="n"/></l><r>pillola<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>headache<s n="n"/></l><r>mal<g><b/>di<b/>testa</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>spine<s n="n"/></l><r>spina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>figure<s n="n"/></l><r>figura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sum<s n="n"/></l><r>somma<s n="n"/><s n="f"/></r></p></e>
