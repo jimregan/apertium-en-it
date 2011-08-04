@@ -1650,18 +1650,38 @@
         <r>a<s n="n"/><s n="f"/><s n="sg"/></r>
       </p>
     </e>
-
-
-
     <e>
       <p>
         <l>he</l>
         <r>a<s n="n"/><s n="f"/><s n="pl"/></r>
       </p>
     </e>
-
-
-
+    </pardef>
+    <pardef n="strateg/a__n">
+    <e>
+      <p>
+        <l>hi</l>
+        <r>a<s n="n"/><s n="m"/><s n="pl"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>a</l>
+        <r>a<s n="n"/><s n="m"/><s n="sg"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>a</l>
+        <r>a<s n="n"/><s n="f"/><s n="sg"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>he</l>
+        <r>a<s n="n"/><s n="f"/><s n="pl"/></r>
+      </p>
+    </e>
     </pardef>
     <pardef n="tedesc/o__n">
     <e>
@@ -1670,36 +1690,24 @@
         <r>o<s n="n"/><s n="m"/><s n="pl"/></r>
       </p>
     </e>
-
-
-
     <e>
       <p>
         <l>o</l>
         <r>o<s n="n"/><s n="m"/><s n="sg"/></r>
       </p>
     </e>
-
-
-
     <e>
       <p>
         <l>a</l>
         <r>o<s n="n"/><s n="f"/><s n="sg"/></r>
       </p>
     </e>
-
-
-
     <e>
       <p>
         <l>he</l>
         <r>o<s n="n"/><s n="f"/><s n="pl"/></r>
       </p>
     </e>
-
-
-
     </pardef>
     <pardef n="bambin/o__n">
     <e>
@@ -99265,7 +99273,7 @@
     <e lm="off-line"><i>off-line</i><par n="extra__adj"/></e>
     <e lm="olandese"><i>olandes</i><par n="albanes/e__adj"/></e>
     <e lm="omopolare"><i>omopolar</i><par n="albanes/e__adj"/></e>
-    <e lm="nipote"><i>nipot</i><par n="albanes/e__adj"/></e>
+    <e lm="nipote"><i>nipot</i><par n="albanes/e__n"/></e>
     <e lm="on-line"><i>on-line</i><par n="extra__adj"/></e>
     <e lm="onnipotente"><i>onnipotent</i><par n="albanes/e__adj"/></e>
     <e lm="palestinese"><i>palestines</i><par n="albanes/e__adj"/></e>
@@ -100763,7 +100771,7 @@
     <e lm="paga"><i>pag</i><par n="tasc/a__n"/></e>
     <e lm="piega"><i>pieg</i><par n="tasc/a__n"/></e>
     <e lm="stecca"><i>stecc</i><par n="tasc/a__n"/></e>
-    <e lm="stratega"><i>strateg</i><par n="tasc/a__n"/></e>
+    <e lm="stratega"><i>strateg</i><par n="strateg/a__n"/></e>
     <e lm="acciaieria"><i>acciaieri</i><par n="cas/a__n"/></e>
     <e lm="acetosa"><i>acetos</i><par n="cas/a__n"/></e>
     <e lm="aia"><i>ai</i><par n="cas/a__n"/></e>
