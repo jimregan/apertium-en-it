@@ -22910,6 +22910,20 @@
     <e lm="walnut"><i>walnut</i><par n="house__n"/>    </e>
     <e lm="wand"><i>wand</i><par n="house__n"/>    </e>
     <e lm="war"><i>war</i><par n="house__n"/>    </e>
+    <e lm="post-war"><i>post-war</i><par n="house__n"/>    </e>
+    <e lm="dawn"><i>dawn</i><par n="house__n"/>    </e>
+    <e lm="cordovan"><i>cordovan</i><par n="house__n"/>    </e>
+    <e lm="pad"><i>pad</i><par n="house__n"/>    </e>
+    <e lm="pincushion"><i>pincushion</i><par n="house__n"/>    </e>
+    <e lm="pike"><i>pike</i><par n="house__n"/>    </e>
+    <e lm="indicative"><i>indicative</i><par n="house__n"/>    </e>
+    <e lm="mortal"><i>mortal</i><par n="house__n"/>    </e>
+    <e lm="mural"><i>mural</i><par n="house__n"/>    </e>
+    <e lm="calibration"><i>calibration</i><par n="house__n"/>    </e>
+    <e lm="saffron"><i>saffron</i><par n="house__n"/>    </e>
+    <e lm="retribution"><i>retribution</i><par n="house__n"/>    </e>
+    <e lm="prize-giving"><i>prize-giving</i><par n="house__n"/>    </e>
+    <e lm="preaching"><i>preaching</i><par n="house__n"/>    </e>
     <e lm="wardrobe"><i>wardrobe</i><par n="house__n"/>    </e>
     <e lm="warehouse"><i>warehouse</i><par n="house__n"/>    </e>
     <e lm="warming"><i>warming</i><par n="house__n"/>    </e>
@@ -24091,7 +24105,9 @@
     <e lm="handwritten"><i>handwritten</i><par n="expensive__adj"/>    </e>
     <e lm="haphazard"><i>haphazard</i><par n="expensive__adj"/>    </e>
     <e lm="happy"><i>happ</i><par n="happ/y__adj"/>    </e>
+    <e lm="bloody"><i>blood</i><par n="blood/y__adj"/>    </e>
     <e lm="hard"><i>hard</i><par n="long/__adj"/>    </e>
+    <e lm="bald"><i>bald</i><par n="long/__adj"/>    </e>
     <e lm="harmful"><i>harmful</i><par n="expensive__adj"/>    </e>
     <e lm="harmonic"><i>harmonic</i><par n="expensive__adj"/>    </e>
     <e lm="harsh"><i>harsh</i><par n="long/__adj"/>    </e>
@@ -24099,6 +24115,21 @@
     <e lm="healthy"><i>health</i><par n="happ/y__adj"/>    </e>
     <e lm="heavenly"><i>heavenly</i><par n="expensive__adj"/>    </e>
     <e lm="helpful"><i>helpful</i><par n="expensive__adj"/>    </e>
+    <e lm="constructive"><i>constructive</i><par n="expensive__adj"/>    </e>
+    <e lm="culinary"><i>culinary</i><par n="expensive__adj"/>    </e>
+    <e lm="football"><i>football</i><par n="expensive__adj"/>    </e>
+    <e lm="bluish"><i>bluish</i><par n="expensive__adj"/>    </e>
+    <e lm="lying"><i>lying</i><par n="expensive__adj"/>    </e>
+    <e lm="calculator"><i>calculator</i><par n="expensive__adj"/>    </e>
+    <e lm="centigrade"><i>centigrade</i><par n="expensive__adj"/>    </e>
+    <e lm="clandestine"><i>clandestine</i><par n="expensive__adj"/>    </e>
+    <e lm="stuck"><i>stuck</i><par n="expensive__adj"/>    </e>
+    <e lm="comic"><i>comic</i><par n="expensive__adj"/>    </e>
+    <e lm="congenital"><i>congenital</i><par n="expensive__adj"/>    </e>
+    <e lm="convex"><i>convex</i><par n="expensive__adj"/>    </e>
+    <e lm="corpulent"><i>corpulent</i><par n="expensive__adj"/>    </e>
+    <e lm="corrosive"><i>corrosive</i><par n="expensive__adj"/>    </e>
+    <e lm="contraceptive"><i>contraceptive</i><par n="expensive__adj"/>    </e>
     <e lm="hepatic"><i>hepatic</i><par n="expensive__adj"/>    </e>
     <e lm="hereditary"><i>hereditary</i><par n="expensive__adj"/>    </e>
     <e lm="hermetical"><i>hermetical</i><par n="expensive__adj"/>    </e>

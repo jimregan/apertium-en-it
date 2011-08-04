@@ -13812,13 +13812,14 @@
     <e r="LR"><p><l>budgie<s n="n"/></l><r>pappagallino<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>budgie<s n="n"/></l><r>pappagallino<s n="n"/></r></p></e>
     <e><p><l>building<s n="n"/></l><r>edilizia<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>building<s n="n"/></l><r>edificio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>building<n></l><r>edilizia<n><f></r></e>).-->
-    <e r="RL"><p><l>building<s n="n"/></l><r>edificazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>building<n></l><r>edilizia<n><f></r></e>).-->
+    <e r="RL"><p><l>building<s n="n"/></l><r>edificio<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>building<s n="n"/></l><r>edificazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bulimia<s n="n"/></l><r>bulimia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bull<s n="n"/></l><r>toro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bulldozer<s n="n"/></l><r>ruspa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bullet<s n="n"/></l><r>pallottola<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>bullying<s n="n"/></l><r>prepotenze<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e><p><l>bullying<s n="n"/></l><r>prepotenze<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>prize-giving<s n="n"/></l><r>premiazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bumblebee<s n="n"/></l><r>bombo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>bump<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>bump<s n="n"/></l><r>bernoccolo<s n="n"/><s n="m"/></r></p></e>
@@ -13843,7 +13844,7 @@
     <e r="LR"><p><l>bus<s n="n"/><s n="pl"/></l><r>autobus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>bus<s n="n"/><s n="ND"/></l><r>autobus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>bus<s n="n"/><s n="ND"/></l><r>pullman<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>business<s n="n"/></l><r>affare<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>affair<n></l><r>affare<n><m></r></e>).-->
+    <e r="LR"><p><l>business<s n="n"/></l><r>affare<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>butane<s n="n"/></l><r>butano<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>butter<s n="n"/></l><r>burro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>butterfly<s n="n"/></l><r>farfalla<s n="n"/><s n="f"/></r></p></e>
@@ -17345,8 +17346,7 @@
     <e r="RL"><p><l>journalist<s n="n"/></l><r>giornalista<s n="n"/></r></p></e>
     <e r="LR"><p><l>journey<s n="n"/></l><r>viaggio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>joy<s n="n"/></l><r>gioia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>judge<s n="n"/></l><r>magistrato<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>judge<s n="n"/></l><r>giudice<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>judge<s n="n"/></l><r>giudice<s n="n"/><s n="mf"/></r></p></e>
     <e slr="giudizio D"><p><l>judgement<s n="n"/></l><r>giudizio<s n="n"/><s n="m"/></r></p></e>
     <e slr="sentenza" r="LR"><p><l>judgement<s n="n"/></l><r>sentenza<s n="n"/><s n="f"/></r></p></e>
     <e c="de carne"><p><l>juice<s n="n"/></l><r>succo<s n="n"/><s n="m"/></r></p></e>
@@ -17716,7 +17716,7 @@
     <e r="LR"><p><l>magician<s n="n"/></l><r>mago<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>magician<s n="n"/></l><r>mago<s n="n"/></r></p></e>
     <e r="LR"><p><l>magistrate<s n="n"/></l><r>magistrato<s n="n"/><s n="GD"/></r></p></e>
-    <e i="yes"><p><l>magistrate<s n="n"/></l><r>magistrato<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>judge<n></l><r>magistrato<n><m></r></e>).-->
+    <e r="RL"><p><l>magistrate<s n="n"/></l><r>magistrato<s n="n"/></r></p></e>
     <e><p><l>magnetisation<s n="n"/></l><r>magnetizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>magnetism<s n="n"/></l><r>magnetismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>magnetometer<s n="n"/></l><r>magnetometro<s n="n"/><s n="m"/></r></p></e>
@@ -18079,9 +18079,13 @@
     <e r="LR"><p><l>morality<s n="n"/><s n="sg"/></l><r>moralità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>morality<s n="n"/><s n="pl"/></l><r>moralità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>moratorium<s n="n"/></l><r>moratoria<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>morning<s n="n"/></l><r>alba<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>morning<s n="n"/></l><r>mattina<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>morning<n></l><r>alba<n><f></r></e>).-->
-    <e r="RL"><p><l>morning<s n="n"/></l><r>domani<s n="n"/><s n="m"/><s n="sp"/></r></p></e><!--  autorestricted (<e><l>morning<n></l><r>alba<n><f></r></e>).-->
+    <e><p><l>dawn<s n="n"/></l><r>alba<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cordovan<s n="n"/></l><r>cordovese<s n="n"/><s n="mf"/></r></p></e>
+    <e slr="cuscinetto D" r="LR"><p><l>pad<s n="n"/></l><r>cuscinetto<s n="n"/><s n="m"/></r></p></e>
+    <e slr="blocco" r="LR"><p><l>pad<s n="n"/></l><r>blocco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pincushion<s n="n"/></l><r>cuscinetto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>morning<s n="n"/></l><r>mattina<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>morning<s n="n"/></l><r>domani<s n="n"/><s n="m"/><s n="sp"/></r></p><par n="SP"/></e>
     <e><p><l>morning<b/>star<s n="n"/></l><r>stella<g><b/>del<b/>mattino</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>morphology<s n="n"/></l><r>morfologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>morphophonology<s n="n"/></l><r>morfofonologia<s n="n"/><s n="f"/></r></p></e>
@@ -19050,7 +19054,7 @@
     <e><p><l>possible<s n="n"/></l><r>possibile<s n="n"/><s n="m"/></r></p></e>
     <e slr="carico"><p><l>post<s n="n"/></l><r>carico<s n="n"/><s n="m"/></r></p></e>
     <e slr="posta D" r="LR"><p><l>post<s n="n"/></l><r>posta<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>post-war<s n="n"/></l><r>dopoguerra<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>post-war<s n="n"/></l><r>dopoguerra<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>postage<s n="n"/></l><r>affrancatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>postage<b/>and<b/>packaging<s n="n"/></l><r>spese<b/>di<b/>spedizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>postcard<s n="n"/></l><r>cartolina<b/>postale<s n="n"/><s n="f"/></r></p></e>
