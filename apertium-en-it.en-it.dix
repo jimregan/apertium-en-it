@@ -707,8 +707,8 @@
     <e><p><l>back<s n="adj"/></l><r>posteriore<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>bacteriological<s n="adj"/></l><r>batteriologico<s n="adj"/></r></p></e>
     <e><p><l>bad<s n="adj"/><s n="sint"/></l><r>cattivo<s n="adj"/></r></p></e>
-    <e><p><l>bad<s n="adj"/><s n="sint"/><s n="comp"/></l><r>peggiore<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>bad<s n="adj"/><s n="sint"/><s n="sup"/></l><r>peggiore<s n="adj"/></r></p></e>
+    <e><p><l>bad<s n="adj"/><s n="sint"/><s n="comp"/></l><r>peggiore<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>bad<s n="adj"/><s n="sint"/><s n="sup"/></l><r>peggiore<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>bald<s n="adj"/><s n="sint"/></l><r>calvo<s n="adj"/></r></p></e>
     <e><p><l>balearic<s n="adj"/></l><r>balearico<s n="adj"/></r></p></e>
     <e><p><l>balkan<s n="adj"/></l><r>balcanico<s n="adj"/></r></p></e>
@@ -1625,7 +1625,6 @@
     <e><p><l>hierarchical<s n="adj"/></l><r>gerarchico<s n="adj"/></r></p></e>
     <e><p><l>hieroglyphic<s n="adj"/></l><r>geroglifico<s n="adj"/></r></p></e>
     <e><p><l>high<s n="adj"/><s n="sint"/></l><r>alto<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>high<s n="adj"/><s n="sint"/><s n="sup"/></l><r>summo<s n="adj"/></r></p></e>
     <e c="traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="adj"/></l><r>suo<s n="adj"/></r></p></e>
     <e><p><l>hispanic<s n="adj"/></l><r>ispanico<s n="adj"/></r></p></e>
     <e><p><l>historical<s n="adj"/></l><r>storico<s n="adj"/></r></p></e>
@@ -2042,7 +2041,7 @@
     <e><p><l>lordly<s n="adj"/></l><r>signorile<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>lovely<s n="adj"/><s n="sint"/></l><r>prezioso<s n="adj"/></r></p></e>
     <e><p><l>loving<s n="adj"/></l><r>amante<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>low<s n="adj"/><s n="sint"/><s n="comp"/></l><r>minore<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>low<s n="adj"/><s n="sint"/><s n="comp"/></l><r>minore<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>low<s n="adj"/><s n="sint"/></l><r>basso<s n="adj"/></r></p></e>
     <e><p><l>low<b/>quality<s n="adj"/></l><r>di<b/>bassa<b/>qualità<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>loyal<s n="adj"/></l><r>leale<s n="adj"/><s n="mf"/></r></p></e>
@@ -12288,7 +12287,7 @@
     <e><p><l>fusion<s n="n"/></l><r>fusione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>harm<s n="n"/></l><r>danno<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>heiress<s n="n"/></l><r>erede<s n="n"/><s n="mf"/></r></p></e>
-    <e><p><l>hobby<s n="n"/></l><r>hobby<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hobby<s n="n"/></l><r>hobby<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>initiative<s n="n"/></l><r>iniziativa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>issue<s n="n"/></l><r>affare<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kit<s n="n"/></l><r>scatola<s n="n"/><s n="f"/></r></p></e>
@@ -12433,9 +12432,8 @@
     <e r="RL"><p><l>Egyptologist<s n="n"/></l><r>egittologo<s n="n"/></r></p></e>
     <e r="LR"><p><l>Egyptologist<s n="n"/></l><r>egittologo<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>English<s n="n"/></l><r>inglese<s n="n"/><s n="mf"/></r></p></e>
-    <e r="RL"><p><l>February<s n="n"/><s n="ND"/></l><r>febbraio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>February<s n="n"/><s n="pl"/></l><r>febbraio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e r="LR"><p><l>February<s n="n"/><s n="sg"/></l><r>febbraio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>February<s n="n"/><s n="sg"/></l><r>febbraio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>February<s n="n"/></l><r>febbraio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Finn<s n="n"/></l><r>finlandese<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>Franco&apos;s<b/>regime<s n="n"/></l><r>franchismo<s n="n"/><s n="m"/></r></p></e>
@@ -12460,10 +12458,10 @@
     <e r="LR"><p><l>Her<b/>Royal<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>reale<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Her<b/>Royal<b/>Majesty<s n="n"/></l><r>Sua<b/>Maestà<b/>reale<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Her<b/>Serene<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>serenissima<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Their<b/>Serene<b/>Highnesses<s n="n"/><s n="pl"/></l><r>Sua<b/>Altezza<b/>serenissima<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e><p><l>Their<b/>Serene<b/>Highnesses<s n="n"/><s n="pl"/></l><r>Loro<b/>Altezze<b/>serenissimi<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>His<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>His<b/>Imperial<b/>Highness<s n="n"/><s n="sg"/></l><r>Sua<b/>Altezza<b/>imperiale<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>Their<b/>Imperial<b/>Highnesses<s n="n"/><s n="pl"/></l><r>Sua<b/>Altezza<b/>imperiale<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e><p><l>Their<b/>Imperial<b/>Highnesses<s n="n"/><s n="pl"/></l><r>Loro<b/>Altezze<b/>imperiali<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>His<b/>Majesty<s n="n"/></l><r>Sua<b/>Maestà<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>His<b/>Royal<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>reale<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>His<b/>Royal<b/>Majesty<s n="n"/></l><r>Sua<b/>Maestà<b/>reale<s n="n"/><s n="f"/></r></p></e>
@@ -12478,14 +12476,12 @@
     <e r="RL"><p><l>algerian<s n="n"/></l><r>algerino<s n="n"/></r></p></e>
     <e r="LR"><p><l>Jamaican<s n="n"/></l><r>giamaicano<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Jamaican<s n="n"/></l><r>giamaicano<s n="n"/></r></p></e>
-    <e r="RL"><p><l>January<s n="n"/><s n="ND"/></l><r>gennaio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e r="LR"><p><l>January<s n="n"/><s n="sg"/></l><r>gennaio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>January<s n="n"/><s n="sg"/></l><r>gennaio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>January<s n="n"/><s n="pl"/></l><r>gennaio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Japanese<s n="n"/></l><r>giapponese<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>Judaism<s n="n"/></l><r>ebraismo<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>July<s n="n"/><s n="ND"/></l><r>luglio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>July<s n="n"/><s n="pl"/></l><r>luglio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>July<s n="n"/><s n="sg"/></l><r>luglio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>July<s n="n"/><s n="pl"/></l><r>luglio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>July<s n="n"/><s n="sg"/></l><r>luglio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>July<s n="n"/></l><r>luglio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>June<s n="n"/></l><r>giugno<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>Korean<s n="n"/></l><r>coreano<s n="n"/><s n="GD"/></r></p></e>
@@ -12503,10 +12499,8 @@
     <e><p><l>Marxism<s n="n"/></l><r>marxismo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>Marxist<s n="n"/></l><r>marxista<s n="n"/></r></p></e>
     <e r="LR"><p><l>Marxist<s n="n"/></l><r>marxista<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>May<s n="n"/><s n="ND"/></l><r>maggio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>May<s n="n"/><s n="sg"/></l><r>maggio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>May<s n="n"/><s n="pl"/></l><r>maggio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e><p><l>May<s n="n"/></l><r>maggio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>May<s n="n"/><s n="sg"/></l><r>maggio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>May<s n="n"/><s n="pl"/></l><r>maggio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>Monday<s n="n"/><s n="sg"/></l><r>lunedì<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>Monday<s n="n"/><s n="pl"/></l><r>lunedì<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>Monday<s n="n"/><s n="ND"/></l><r>lunedì<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -12574,7 +12568,6 @@
     <e r="LR"><p><l>U.N.<s n="n"/><s n="acr"/></l><r>ONU<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>UA<s n="n"/><s n="acr"/></l><r>UA<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>UEFA<s n="n"/><s n="acr"/></l><r>UEFA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
-    <e><p><l>UGT<s n="n"/><s n="acr"/></l><r>UGT<s n="n"/><s n="f"/></r></p></e>
     <e c="United Nations "><p><l>UN<s n="n"/><s n="acr"/></l><r>ONU<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>VAT<s n="n"/><s n="acr"/></l><r>IVA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Wednesday<s n="n"/><s n="sg"/></l><r>mercoledì<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -14549,7 +14542,6 @@
     <e i="yes"><p><l>construction<s n="n"/></l><r>edilizia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>building<n></l><r>edilizia<n><f></r></e>).-->
     <e><p><l>construction<s n="n"/></l><r>costruzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>constructivism<s n="n"/></l><r>costruttivismo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>consul<s n="n"/></l><r>console<s n="n"/><s n="mf"/></r></p></e>
     <e slr="consulta"><p><l>consultation<s n="n"/></l><r>consulta<s n="n"/><s n="f"/></r></p></e>
     <e slr="consultazione D"><p><l>consultation<s n="n"/></l><r>consultazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>consumer<s n="n"/></l><r>consumatore<s n="n"/><s n="GD"/></r></p></e>
@@ -16007,7 +15999,7 @@
     <e r="RL"><p><l>football<b/>pool<s n="n"/><s n="ND"/></l><r>totocalcio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>football<b/>pool<s n="n"/><s n="sg"/></l><r>totocalcio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>football<b/>pool<s n="n"/><s n="pl"/></l><r>totocalcio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>footballer<s n="n"/></l><r>calciatore<s n="n"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>footballer<s n="n"/></l><r>calciatore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>footballer<s n="n"/></l><r>calciatore<s n="n"/></r></p></e>
     <e><p><l>foothold<s n="n"/></l><r>appiglio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>footpath<s n="n"/></l><r>sentiero<s n="n"/><s n="m"/></r></p></e>
@@ -16601,15 +16593,14 @@
     <e><p><l>growth<s n="n"/></l><r>crescita<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>guarantee<s n="n"/></l><r>avallo<s n="n"/><s n="m"/></r></p></e>
     <e i="yes"><p><l>guarantee<s n="n"/></l><r>garanzia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>assurance<n></l><r>garanzia<n><f></r></e>).-->
-    <e><p><l>guard<s n="n"/></l><r>guardia<s n="n"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>guard<b/>dog<s n="n"/></l><r>cane<g><b/>da<b/>guardia</g><s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>guard<b/>dog<s n="n"/></l><r>cane<g><b/>da<b/>guardia</g><s n="n"/></r></p></e>
-    <e><p><l>guerrilla<s n="n"/></l><r>guerriglia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>guerrilla<b/>warfare<s n="n"/></l><r>guerriglia<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>guerrilla<s n="n"/></l><r>guerrigliero<s n="n"/></r></p></e>
-    <e i="yes"><p><l>guerrilla<s n="n"/></l><r>guerrigliero<s n="n"/><s n="GD"/></r></p></e><!--  autorestricted (<e><l>guerrilla<n></l><r>guerriglia<n><f></r></e>).-->
-    <e r="LR"><p><l>guess<s n="n"/></l><r>supposizione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>assumption<n></l><r>supposizione<n><f></r></e>).-->
+    <e r="LR"><p><l>guerrilla<s n="n"/></l><r>guerrigliero<s n="n"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>guess<s n="n"/></l><r>supposizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>guest<s n="n"/></l><r>ospite<s n="n"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>guesthouse<s n="n"/></l><r>pensione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>allowance<n></l><r>pensione<n><f></r></e>).-->
+    <e r="LR"><p><l>guesthouse<s n="n"/></l><r>pensione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>guidance<s n="n"/></l><r>orientamento<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>guide<b/>dog<s n="n"/></l><r>cane<b/>guida<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>guide<b/>dog<s n="n"/></l><r>cane<b/>guida<s n="n"/></r></p></e>
@@ -21890,10 +21881,9 @@
     <e><p><l>woman<s n="n"/></l><r>donna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>woman<g><b/>in<b/>labour</g><s n="n"/></l><r>partoriente<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wonder<s n="n"/></l><r>meraviglia<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR" slr="bosco"><p><l>wood<s n="n"/><s n="sg"/></l><r>bosco<s n="n"/></r></p></e>
-    <e r="LR"><p><l>wood<s n="n"/><s n="pl"/></l><r>bosco<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e slr="legno D"><p><l>wood<s n="n"/><s n="sg"/></l><r>legno<s n="n"/></r></p></e>
-    <e r="RL"><p><l>wood<s n="n"/><s n="sg"/></l><r>legname<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="bosco"><p><l>wood<s n="n"/></l><r>bosco<s n="n"/><s n="m"/></r></p></e>
+    <e slr="legno D"><p><l>wood<s n="n"/></l><r>legno<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>wood<s n="n"/></l><r>legname<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>wood<b/>paste<s n="n"/></l><r>pasta<g><b/>da<b/>carta</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wood<b/>pulp<s n="n"/></l><r>pasta<g><b/>di<b/>legno</g><s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>woodchuck<s n="n"/></l><r>marmotta<b/>americana<s n="n"/><s n="f"/></r></p></e>
@@ -22508,7 +22498,7 @@
     <e><p><l>geologically<s n="adv"/></l><r>geologicamente<s n="adv"/></r></p></e>
     <e><p><l>geometrically<s n="adv"/></l><r>geometricamente<s n="adv"/></r></p></e>
     <e><p><l>gloriously<s n="adv"/></l><r>gloriosamente<s n="adv"/></r></p></e>
-    <e r="RL"><p><l>good<s n="adj"/><s n="sint"/><s n="comp"/></l><r>migliore<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>good<s n="adj"/><s n="sint"/><s n="comp"/></l><r>migliore<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>good<s n="adv"/></l><r>bene<s n="adv"/></r></p></e>
     <e><p><l>good-naturedly<s n="adv"/></l><r>bonariamente<s n="adv"/></r></p></e>
     <e r="LR"><p><l>gradually<s n="adv"/></l><r>gradualmente<s n="adv"/></r></p></e><!--  autorestricted (<e><l>by<b/>degrees<adv></l><r>gradualmente<adv></r></e>).-->
@@ -23075,7 +23065,7 @@
     <e><p><l>the<b/>first<b/>time<s n="adv"/></l><r>la<b/>prima<b/>volta<s n="adv"/></r></p></e>
     <e><p><l>the<b/>last<b/>time<s n="adv"/></l><r>l&apos;ultima<b/>volta<s n="adv"/></r></p></e>
     <e r="LR"><p><l>the<b/>next<b/>Easter<s n="adv"/></l><r>la<b/>prossima<b/>Pasqua<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>the<b/>next<b/>May<s n="adv"/></l><r>il<b/>prossimo<b/>maggio<s n="adv"/></r></p></e><!--  autorestricted (<e><l>next<b/>May<adv></l><r>il<b/>prossimo<b/>maggio<adv></r></e>).-->
+    <e r="LR"><p><l>the<b/>next<b/>May<s n="adv"/></l><r>il<b/>prossimo<b/>maggio<s n="adv"/></r></p></e>
     <e r="LR"><p><l>the<b/>next<b/>November<s n="adv"/></l><r>il<b/>prossimo<b/>novembre<s n="adv"/></r></p></e>
     <e r="LR"><p><l>the<b/>next<b/>autumn<s n="adv"/></l><r>il<b/>prossimo<b/>autunno<s n="adv"/></r></p></e>
     <e r="RL"><p><l>the<b/>next<b/>day<s n="adv"/></l><r>il<b/>giorno<b/>seguente<s n="adv"/></r></p></e>
@@ -23524,6 +23514,8 @@
     <e r="LR"><p><l>baffle<s n="vblex"/></l><r>sconcertare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>abash<vblex></l><r>sconcertare<vblex></r></e>).-->
     <e><p><l>bake<s n="vblex"/></l><r>cuocere<s n="vblex"/></r></p></e>
     <e><p><l>balance<s n="vblex"/></l><r>equilibrare<s n="vblex"/></r></p></e>
+    <e><p><l>turn<g><b/>off</g><s n="vblex"/><s n="sep"/></l><r>spegnere<s n="vblex"/></r></p></e>
+    <e><p><l>go<g><b/>Dutch</g><s n="vblex"/></l><r>fare<g><b/>alla<b/>Romana</g><s n="vblex"/></r></p></e>
     <e r="LR"><p><l>ban<s n="vblex"/></l><r>proibire<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>bang<s n="vblex"/></l><r>colpire<s n="vblex"/></r></p></e>
     <e><p><l>banish<s n="vblex"/></l><r>bandire<s n="vblex"/></r></p></e>
