@@ -2653,7 +2653,7 @@
     <e slr="sorso"><p><l>swallow<s n="n"/></l><r>sorso<s n="n"/><s n="m"/></r></p></e>
     <e slr="rondine D"><p><l>swallow<s n="n"/></l><r>rondine<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>castilianisation<s n="n"/></l><r>castiglianizzazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>catena<s n="n"/></l><r>catena<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>catena<s n="n"/></l><r>catena<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lambda<s n="n"/></l><r>lambda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>perestroika<s n="n"/></l><r>perestrojka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reverse<s n="adj"/></l><r>inverso<s n="adj"/></r></p></e>
@@ -12515,7 +12515,6 @@
     <e r="LR"><p><l>Lithuanian<s n="n"/></l><r>lituano<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Lithuanian<s n="n"/></l><r>lituano<s n="n"/></r></p></e>
     <e><p><l>MP3<b/>player<s n="n"/></l><r>lettore<g><b/>MP3</g><s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>Mandarin<s n="n"/></l><r>mandarino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Maoism<s n="n"/></l><r>maoismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>March<s n="n"/></l><r>marzo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Marxism<s n="n"/></l><r>marxismo<s n="n"/><s n="m"/></r></p></e>
@@ -13678,7 +13677,7 @@
     <e><p><l>book<b/>jacket<s n="n"/></l><r>copertina<g><b/>di<b/>libro</g><s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>boor<s n="n"/></l><r>villano<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>boor<s n="n"/></l><r>villano<s n="n"/></r></p></e>
-    <e><p><l>boost<s n="n"/></l><r>impulso<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>boost<s n="n"/></l><r>impulso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>booty<s n="n"/></l><r>bottino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>border<s n="n"/></l><r>frontiera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>boredom<s n="n"/></l><r>noia<s n="n"/><s n="f"/></r></p></e>
@@ -13736,8 +13735,8 @@
     <e><p><l>brick<s n="n"/></l><r>mattone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bricklayer<s n="n"/></l><r>muratore<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>bricklayer<s n="n"/></l><r>paletta<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>bride<s n="n"/></l><r>fidanzato<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>bridegroom<s n="n"/></l><r>fidanzato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bride<s n="n"/></l><r>sposina<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>bridegroom<s n="n"/></l><r>sposo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bridge<s n="n"/></l><r>ponte<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>brine<s n="n"/></l><r>salamoia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>broadcast<s n="n"/></l><r>emissione<s n="n"/><s n="f"/></r></p></e>
@@ -13804,20 +13803,18 @@
     <e><p><l>butter<s n="n"/></l><r>burro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>butterfly<s n="n"/></l><r>farfalla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>buttock<s n="n"/></l><r>culo<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>buttock<s n="n"/></l><r>natica<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>buttock<n></l><r>culo<n><m></r></e>).-->
-    <e r="RL"><p><l>buttock<s n="n"/></l><r>chiappa<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>buttock<n></l><r>culo<n><m></r></e>).-->
+    <e r="RL"><p><l>buttock<s n="n"/></l><r>natica<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>buttock<s n="n"/></l><r>chiappa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>buttonhole<s n="n"/></l><r>occhiello<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>buttonhole<s n="n"/></l><r>asola<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>buttonhole<n></l><r>occhiello<n><m></r></e>).-->
+    <e r="RL"><p><l>buttonhole<s n="n"/></l><r>asola<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>buyer<s n="n"/></l><r>compratore<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>buyer<s n="n"/></l><r>acquirente<s n="n"/><s n="mf"/></r></p></e><!--  autorestricted (<e r="LR"><l>buyer<n></l><r>compratore<n><GD></r></e>).-->
+    <e r="RL"><p><l>buyer<s n="n"/></l><r>acquirente<s n="n"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>buyer<s n="n"/></l><r>committente<s n="n"/></r></p></e>
-    <e r="RL"><p><l>buyer<s n="n"/></l><r>acquirente<s n="n"/></r></p></e>
     <e r="RL"><p><l>buyer<s n="n"/></l><r>compratore<s n="n"/></r></p></e>
     <e><p><l>cabbage<s n="n"/></l><r>cavolo<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>cabbage<s n="n"/></l><r>cavolo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>cabbage<n></l><r>cavolo<n><f></r></e>).-->
     <e><p><l>cabin<s n="n"/></l><r>capanna<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>cabinet<s n="n"/></l><r>armadio<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>cabinet<s n="n"/></l><r>gabinetto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>cabinet<n></l><r>armadio<n><m></r></e>).-->
+    <e slr="armadio"><p><l>cabinet<s n="n"/></l><r>armadio<s n="n"/><s n="m"/></r></p></e>
+    <e slr="gabinetto D"><p><l>cabinet<s n="n"/></l><r>gabinetto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cabinetmaking<s n="n"/></l><r>ebanisteria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cable<s n="n"/></l><r>cavo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>cablegram<s n="n"/></l><r>telegrafo<s n="n"/><s n="m"/></r></p></e>
@@ -14730,8 +14727,8 @@
     <e r="RL"><p><l>criminologist<s n="n"/></l><r>criminologo<s n="n"/></r></p></e>
     <e r="LR"><p><l>criminologist<s n="n"/></l><r>criminologo<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>criminology<s n="n"/></l><r>criminologia<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>crisis<s n="n"/><s n="ND"/></l><r>crisi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e><p><l>crisis<s n="n"/></l><r>crisi<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>crisis<s n="n"/></l><r>crisi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>elite<s n="n"/></l><r>élite<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e r="LR"><p><l>critic<s n="n"/></l><r>critico<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>critic<s n="n"/></l><r>critico<s n="n"/></r></p></e>
     <e><p><l>criticism<s n="n"/></l><r>critica<s n="n"/><s n="f"/></r></p></e>
@@ -15710,7 +15707,7 @@
     <e r="LR"><p><l>expert<s n="n"/></l><r>esperto<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>expert<s n="n"/></l><r>esperto<s n="n"/></r></p></e>
     <e><p><l>expiation<s n="n"/></l><r>espiazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>expiration<s n="n"/></l><r>scadenza<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>expiration<s n="n"/></l><r>scadenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>explanation<s n="n"/></l><r>spiegazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>exploitation<s n="n"/></l><r>sfruttamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>exploration<s n="n"/></l><r>esplorazione<s n="n"/><s n="f"/></r></p></e>
@@ -16017,7 +16014,8 @@
     <e><p><l>fortification<s n="n"/></l><r>fortificazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fortress<s n="n"/></l><r>fortezza<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>fortress<s n="n"/></l><r>potere<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>fortress<n></l><r>fortezza<n><f></r></e>).-->
-    <e><p><l>fortune<s n="n"/></l><r>fortuna<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>fortune<s n="n"/></l><r>fortuna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>luck<s n="n"/></l><r>fortuna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tuna<s n="n"/></l><r>tonno<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>fortune<b/>teller<s n="n"/></l><r>indovino<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>fortune<b/>teller<s n="n"/></l><r>indovino<s n="n"/></r></p></e>
@@ -16172,7 +16170,7 @@
     <e><p><l>ingot<s n="n"/></l><r>lingotto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>integer<s n="n"/></l><r>intero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>intellect<s n="n"/></l><r>intelletto<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>intermission<s n="n"/></l><r>intervallo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>intermission<s n="n"/></l><r>intervallo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>internment<s n="n"/></l><r>internamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>interregnum<s n="n"/></l><r>interregno<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>interrogation<s n="n"/></l><r>interrogatorio<s n="n"/><s n="m"/></r></p></e>
@@ -16252,21 +16250,21 @@
     <e><p><l>resentment<s n="n"/></l><r>risentimento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>residue<s n="n"/></l><r>residuo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>resorting<s n="n"/></l><r>ricorso<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>reticle<s n="n"/></l><r>reticolo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>reticle<s n="n"/></l><r>reticolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rewind<s n="n"/></l><r>riavvolgimento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rhubarb<s n="n"/></l><r>rabarbaro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>roller<s n="n"/></l><r>rullo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rolling<s n="n"/></l><r>rotolamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rouge<s n="n"/></l><r>rossetto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rut<s n="n"/></l><r>solco<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>sabbath<s n="n"/></l><r>sabato<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>sabbath<s n="n"/></l><r>sabato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sacrilege<s n="n"/></l><r>sacrilegio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>safflower<s n="n"/></l><r>cartamo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sanctuary<s n="n"/></l><r>santuario<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>satyr<s n="n"/></l><r>satiro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>saying<s n="n"/></l><r>detto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>scarlet<s n="n"/></l><r>scarlatto<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>scent<s n="n"/></l><r>profumo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>scent<s n="n"/></l><r>profumo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>score<s n="n"/></l><r>punteggio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>scourge<s n="n"/></l><r>flagello<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>scraper<s n="n"/></l><r>raschietto<s n="n"/><s n="m"/></r></p></e>
@@ -16284,7 +16282,7 @@
     <e><p><l>shiver<s n="n"/></l><r>brivido<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>shoemaker<s n="n"/></l><r>calzolaio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>shrew<s n="n"/></l><r>toporagno<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>shudder<s n="n"/></l><r>brivido<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>shudder<s n="n"/></l><r>brivido<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sieve<s n="n"/></l><r>setaccio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sigh<s n="n"/></l><r>sospiro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>silence<s n="n"/></l><r>silenzio<s n="n"/><s n="m"/></r></p></e>
@@ -16302,7 +16300,7 @@
     <e><p><l>spectrograph<s n="n"/></l><r>spettrografo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>spectroscope<s n="n"/></l><r>spettroscopio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>spite<s n="n"/></l><r>dispetto<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>squandering<s n="n"/></l><r>spreco<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>squandering<s n="n"/></l><r>spreco<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>stew<s n="n"/></l><r>stufato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>stretch<s n="n"/></l><r>tratto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>striptease<s n="n"/></l><r>spogliarello<s n="n"/><s n="m"/></r></p></e>
@@ -16362,7 +16360,7 @@
     <e><p><l>verdict<s n="n"/></l><r>verdetto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vernacular<s n="n"/></l><r>vernacolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vulture<s n="n"/></l><r>avvoltoio<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>weakening<s n="n"/></l><r>indebolimento<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>weakening<s n="n"/></l><r>indebolimento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>whim<s n="n"/></l><r>capriccio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yawn<s n="n"/></l><r>sbadiglio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>zeal<s n="n"/></l><r>zelo<s n="n"/><s n="m"/></r></p></e>
@@ -17013,7 +17011,7 @@
     <e r="LR"><p><l>impressionist<s n="n"/></l><r>impressionista<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>improvisation<s n="n"/></l><r>improvvisazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>impugnation<s n="n"/></l><r>impugnazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>impulse<s n="n"/></l><r>impulso<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>boost<n></l><r>impulso<n><m></r></e>).-->
+    <e r="LR"><p><l>impulse<s n="n"/></l><r>impulso<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>impunity<s n="n"/><s n="sg"/></l><r>impunità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>impunity<s n="n"/><s n="pl"/></l><r>impunità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>impunity<s n="n"/><s n="ND"/></l><r>impunità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -17200,7 +17198,6 @@
     <e><p><l>interposition<s n="n"/></l><r>interposizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>interpretation<s n="n"/></l><r>interpretazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>interpreter<s n="n"/></l><r>interprete<s n="n"/><s n="mf"/></r></p></e>
-    <e><p><l>interregnum<s n="n"/></l><r>interregnum<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>interrelation<s n="n"/></l><r>interrelazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>interruption<s n="n"/></l><r>interruzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>intersection<s n="n"/></l><r>intersezione<s n="n"/><s n="f"/></r></p></e>
@@ -17550,8 +17547,8 @@
     <e r="LR"><p><l>linoleum<s n="n"/><s n="pl"/></l><r>linoleum<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>lion<s n="n"/></l><r>leone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lioness<s n="n"/></l><r>leone<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>fiancé<s n="n"/></l><r>fidanzato<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>fiancée<s n="n"/></l><r>fidanzato<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>fiancé<s n="n"/></l><r>fidanzato<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>fiancée<s n="n"/></l><r>fidanzato<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>belligerency<s n="n"/></l><r>belligeranza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>brotherhood<s n="n"/></l><r>fratellanza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>circumstance<s n="n"/></l><r>circostanza<s n="n"/><s n="f"/></r></p></e>
@@ -17630,7 +17627,6 @@
     <e r="RL"><p><l>lucidity<s n="n"/><s n="ND"/></l><r>lucidità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>lucidity<s n="n"/><s n="sg"/></l><r>lucidità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>lucidity<s n="n"/><s n="pl"/></l><r>lucidità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>luck<s n="n"/></l><r>regime<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>diet<n></l><r>regime<n><m></r></e>).-->
     <e r="LR"><p><l>luggage<s n="n"/></l><r>bagaglio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>baggage<n></l><r>bagaglio<n><m></r></e>).-->
     <e r="LR"><p><l>lumber<s n="n"/></l><r>legno<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>luminance<s n="n"/></l><r>luminanza<s n="n"/><s n="f"/></r></p></e>
@@ -19497,22 +19493,20 @@
     <e><p><l>refoundation<s n="n"/></l><r>rifondazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>refraction<s n="n"/></l><r>rifrazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>refrigeration<s n="n"/></l><r>refrigerazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>refrigerator<s n="n"/></l><r>frigorifero<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>fridge<n></l><r>frigorifero<n><f></r></e>).-->
-    <e i="yes"><p><l>refrigerator<s n="n"/></l><r>frigorifero<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>fridge<n></l><r>frigorifero<n><m></r></e>).-->
+    <e r="LR"><p><l>refrigerator<s n="n"/></l><r>frigorifero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>refuge<s n="n"/></l><r>rifugio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>refugee<b/>camp<s n="n"/></l><r>campo<g><b/>per<b/>rifugiati</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>refund<s n="n"/></l><r>rimborso<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>refusal<s n="n"/></l><r>negazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>negation<n></l><r>negazione<n><f></r></e>).-->
-    <e><p><l>refuse<s n="n"/><s n="sg"/></l><r>residuo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>refusal<s n="n"/></l><r>negazione<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>refuse<s n="n"/><s n="sg"/></l><r>residuo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>refuse<s n="n"/><s n="pl"/></l><r>residuo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e><p><l>refutation<s n="n"/></l><r>confutazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>regalism<s n="n"/></l><r>regalismo<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>regard<s n="n"/></l><r>considerazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>consideration<n></l><r>considerazione<n><f></r></e>).-->
-    <e r="RL"><p><l>regard<s n="n"/></l><r>riguardo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>regard<n></l><r>considerazione<n><f></r></e>).-->
+    <e><p><l>regard<s n="n"/></l><r>riguardo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>regatta<s n="n"/></l><r>regata<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>regency<s n="n"/></l><r>reggenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>regeneration<s n="n"/></l><r>rigenerazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>regime<s n="n"/></l><r>regime<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>diet<n></l><r>regime<n><m></r></e>).-->
+    <e r="LR"><p><l>regime<s n="n"/></l><r>regime<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>regiment<s n="n"/></l><r>reggimento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>region<s n="n"/></l><r>regione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>regionalisation<s n="n"/></l><r>regionalizzazione<s n="n"/><s n="f"/></r></p></e>
@@ -19620,7 +19614,6 @@
     <e><p><l>reserve<b/>currency<s n="n"/></l><r>valuta<g><b/>di<b/>reserva</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>residence<s n="n"/></l><r>residenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>residue<s n="n"/></l><r>residuo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>residue<s n="n"/><s n="sg"/></l><r>residuo<s n="n"/></r></p></e>
     <e><p><l>resignation<s n="n"/></l><r>rassegnazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>resistance<s n="n"/></l><r>resistenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>resolution<s n="n"/></l><r>risoluzione<s n="n"/><s n="f"/></r></p></e>
@@ -20450,7 +20443,7 @@
     <e slr="fonte" srl="spring"><p><l>spring<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e>
     <e slr="primavera D"><p><l>spring<s n="n"/></l><r>primavera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>spumante<s n="n"/></l><r>spumante<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>spurt<s n="n"/></l><r>impulso<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>boost<n></l><r>impulso<n><m></r></e>).-->
+    <e r="LR"><p><l>spurt<s n="n"/></l><r>impulso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>spy<s n="n"/></l><r>spia<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>square<s n="n"/></l><r>piazza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>squid<s n="n"/></l><r>calamaro<s n="n"/><s n="m"/></r></p></e>
@@ -21264,7 +21257,7 @@
     <e><p><l>urbanisation<s n="n"/></l><r>urbanizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>urbanism<s n="n"/></l><r>urbanistica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>urethra<s n="n"/></l><r>uretra<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>urge<s n="n"/></l><r>impulso<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>boost<n></l><r>impulso<n><m></r></e>).-->
+    <e r="LR"><p><l>urge<s n="n"/></l><r>impulso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>urgency<s n="n"/></l><r>urgenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>urination<s n="n"/></l><r>minzione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>urine<s n="n"/></l><r>urina<s n="n"/><s n="f"/></r></p></e>
@@ -21503,7 +21496,6 @@
     <e><p><l>walrus<s n="n"/></l><r>morsa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wand<s n="n"/></l><r>bacchetta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>war<s n="n"/></l><r>guerra<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>wardrobe<s n="n"/></l><r>armadio<s n="n"/><s n="m"/></r></p></e>
     <e srl="wardrobe"><p><l>wardrobe<s n="n"/></l><r>vestiario<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>wardrobe<s n="n"/><s n="ND"/></l><r>guardaroba<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>wardrobe<s n="n"/><s n="sg"/></l><r>guardaroba<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -22433,12 +22425,12 @@
     <e><p><l>logically<s n="adv"/></l><r>logicamente<s n="adv"/></r></p></e>
     <e><p><l>long<b/>before<s n="adv"/></l><r>molto<b/>prima<s n="adv"/></r></p></e>
     <e r="LR"><p><l>longhand<s n="adv"/></l><r>a<b/>mano<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>low<s n="adv"/></l><r>giù<s n="adv"/></r></p></e><!--  autorestricted (<e><l>below<adv></l><r>giù<adv></r></e>).-->
-    <e r="LR"><p><l>luckily<s n="adv"/></l><r>fortunatamente<s n="adv"/></r></p></e><!--  autorestricted (<e><l>fortunately<adv></l><r>fortunatamente<adv></r></e>).-->
+    <e r="LR"><p><l>low<s n="adv"/></l><r>giù<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>luckily<s n="adv"/></l><r>fortunatamente<s n="adv"/></r></p></e>
     <e><p><l>magically<s n="adv"/></l><r>magicamente<s n="adv"/></r></p></e>
     <e><p><l>magisterially<s n="adv"/></l><r>magistralmente<s n="adv"/></r></p></e>
     <e><p><l>magnificently<s n="adv"/></l><r>magnificamente<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>mainly<s n="adv"/></l><r>principalmente<s n="adv"/></r></p></e><!--  autorestricted (<e><l>chiefly<adv></l><r>principalmente<adv></r></e>).-->
+    <e r="LR"><p><l>mainly<s n="adv"/></l><r>principalmente<s n="adv"/></r></p></e>
     <e><p><l>majestically<s n="adv"/></l><r>maestosamente<s n="adv"/></r></p></e>
     <e><p><l>manifestly<s n="adv"/></l><r>manifestamente<s n="adv"/></r></p></e>
     <e><p><l>manually<s n="adv"/></l><r>manualmente<s n="adv"/></r></p></e>
@@ -22802,7 +22794,7 @@
     <e><p><l>temporarily<s n="adv"/></l><r>temporalmente<s n="adv"/></r></p></e>
     <e r="RL"><p><l>temporarily<s n="adv"/></l><r>temporaneamente<s n="adv"/></r></p></e>
     <e><p><l>terribly<s n="adv"/></l><r>terribilmente<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>thankfully<s n="adv"/></l><r>fortunatamente<s n="adv"/></r></p></e><!--  autorestricted (<e><l>fortunately<adv></l><r>fortunatamente<adv></r></e>).-->
+    <e r="LR"><p><l>thankfully<s n="adv"/></l><r>fortunatamente<s n="adv"/></r></p></e>
     <e><p><l>the<b/>day<b/>after<b/>tomorrow<s n="adv"/></l><r>dopodomani<s n="adv"/></r></p></e>
     <e><p><l>the<b/>day<b/>before<b/>yesterday<s n="adv"/></l><r>l&apos;altro<b/>ieri<s n="adv"/></r></p></e>
     <e><p><l>the<b/>first<b/>time<s n="adv"/></l><r>la<b/>prima<b/>volta<s n="adv"/></r></p></e>
@@ -23327,11 +23319,11 @@
     <e><p><l>boil<s n="vblex"/></l><r>bollire<s n="vblex"/></r></p></e>
     <e><p><l>bomb<s n="vblex"/></l><r>bombardare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>book<s n="vblex"/></l><r>riservare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>boost<s n="vblex"/></l><r>aumentare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>augment<vblex></l><r>aumentare<vblex></r></e>).-->
+    <e r="LR"><p><l>boost<s n="vblex"/></l><r>aumentare<s n="vblex"/></r></p></e>
     <e slr="scalciare D"><p><l>boot<s n="vblex"/></l><r>scalciare<s n="vblex"/></r></p></e>
     <e slr="annoiare D"><p><l>bore<s n="vblex"/></l><r>annoiare<s n="vblex"/></r></p></e>
-    <e r="RL" slr="forare"><p><l>bore<s n="vblex"/></l><r>forare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>bore<vblex></l><r>annoiare<vblex></r></e>).-->
-    <e r="LR"><p><l>bother<s n="vblex"/></l><r>molestare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>annoy<vblex></l><r>molestare<vblex></r></e>).-->
+    <e r="RL" slr="forare"><p><l>bore<s n="vblex"/></l><r>forare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>bother<s n="vblex"/></l><r>molestare<s n="vblex"/></r></p></e>
     <e><p><l>bottle<s n="vblex"/></l><r>imbottigliare<s n="vblex"/></r></p></e>
     <e><p><l>bounce<s n="vblex"/></l><r>rimbalzare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>bow<s n="vblex"/></l><r>inclinare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>bend<vblex></l><r>inclinare<vblex></r></e>).-->
