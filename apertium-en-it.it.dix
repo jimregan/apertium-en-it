@@ -86142,11 +86142,15 @@
     <e lm="credente"><i>credent</i><par n="albanes/e__n"/></e>
     <e lm="aderente"><i>aderent</i><par n="albanes/e__n"/></e>
     <e lm="abitatore"><i>abitat</i><par n="agricolt/ore__n"/></e>
+    <e lm="analizzatore"><i>analizzat</i><par n="agricolt/ore__n"/></e>
     <e lm="sceneggiatore"><i>sceneggiat</i><par n="agricolt/ore__n"/></e>
     <e lm="mentore"><i>ment</i><par n="agricolt/ore__n"/></e>
     <e lm="stupratore"><i>stuprat</i><par n="agricolt/ore__n"/></e>
     <e lm="attuatore"><i>attuator</i><par n="abat/e__n"/></e>
+    <e lm="alternatore"><i>alternator</i><par n="abat/e__n"/></e>
     <e lm="abitazione"><i>abitazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="annessione"><i>annession</i><par n="abbreviazion/e__n"/></e>
+    <e lm="apprensione"><i>apprension</i><par n="abbreviazion/e__n"/></e>
     <e lm="abitudine"><i>abitudin</i><par n="abbreviazion/e__n"/></e>
     <e lm="ablazione"><i>ablazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="abnegazione"><i>abnegazion</i><par n="abbreviazion/e__n"/></e>
@@ -86155,6 +86159,8 @@
     <e lm="aborto"><i>abort</i><par n="abbain/o__n"/></e>
     <e lm="abuso"><i>abus</i><par n="abbagli/o__n"/></e>
     <e lm="accademia"><i>accademi</i><par n="cas/a__n"/></e>
+    <e lm="alternanza"><i>alternanz</i><par n="cas/a__n"/></e>
+    <e lm="arroganza"><i>arroganz</i><par n="cas/a__n"/></e>
     <e lm="accampamento"><i>accampament</i><par n="abbain/o__n"/></e>
     <e lm="accelerazione"><i>accelerazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="accendino"><i>accendin</i><par n="abbain/o__n"/></e>
@@ -87887,8 +87893,10 @@
     <e lm="dualismo"><i>dualism</i><par n="abbain/o__n"/></e>
     <e lm="dubbio"><i>dubbi</i><par n="abbagli/o__n"/></e>
     <e lm="duca"><i>duc</i><par n="duc/a__n"/></e>
+    <e lm="arciduca"><i>arciduc</i><par n="duc/a__n"/></e>
     <e lm="duello"><i>duell</i><par n="abbain/o__n"/></e>
     <e lm="duetto"><i>duett</i><par n="abbain/o__n"/></e>
+    <e lm="artropodo"><i>artropod</i><par n="abbain/o__n"/></e>
     <e lm="duna"><i>dun</i><par n="cas/a__n"/></e>
     <e lm="durata"><i>durat</i><par n="cas/a__n"/></e>
     <e lm="durezza"><i>durezz</i><par n="cas/a__n"/></e>
@@ -100255,6 +100263,8 @@
     <e lm="paraffina"><i>paraffin</i><par n="cas/a__n"/></e>
     <e lm="confraternita"><i>confraternit</i><par n="cas/a__n"/></e>
     <e lm="pantera"><i>panter</i><par n="cas/a__n"/></e>
+    <e lm="actina"><i>actin</i><par n="cas/a__n"/></e>
+    <e lm="antera"><i>anter</i><par n="cas/a__n"/></e>
     <e lm="coeducazione"><i>coeducazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="iperbole"><i>iperbol</i><par n="abbreviazion/e__n"/></e>
     <e lm="coercizione"><i>coercizion</i><par n="abbreviazion/e__n"/></e>
@@ -100264,6 +100274,7 @@
     <e lm="biocarburante"><i>biocarburant</i><par n="abat/e__n"/></e>
     <e lm="melone"><i>melon</i><par n="abat/e__n"/></e>
     <e lm="cartone"><i>carton</i><par n="abat/e__n"/></e>
+    <e lm="abside"><i>absid</i><par n="abat/e__n"/></e>
     <e lm="girasole"><i>girasol</i><par n="abat/e__n"/></e>
     <e lm="isolante"><i>isolant</i><par n="abat/e__n"/></e>
     <e lm="manganese"><i>manganes</i><par n="abat/e__n"/></e>
@@ -100275,6 +100286,7 @@
     <e lm="bulbo"><i>bulb</i><par n="abbain/o__n"/></e>
     <e lm="globo"><i>glob</i><par n="abbain/o__n"/></e>
     <e lm="miglio"><i>migli</i><par n="abbagli/o__n"/></e>
+    <e lm="antimonio"><i>antimoni</i><par n="abbagli/o__n"/></e>
     <e lm="passero"><i>passer</i><par n="abbain/o__n"/></e>
     <e lm="topo"><i>top</i><par n="abbain/o__n"/></e>
     <e lm="schiaffo"><i>schiaff</i><par n="abbain/o__n"/></e>
@@ -100327,7 +100339,10 @@
     <e lm="corpuscolo"><i>corpuscol</i><par n="abbain/o__n"/></e>
     <e lm="cosmo"><i>cosm</i><par n="abbain/o__n"/></e>
     <e lm="contrattacco"><i>contrattacc</i><par n="fung/o__n"/></e>
+    <e lm="anestetico"><i>anestetic</i><par n="fung/o__n"/></e>
+    <e lm="bivacco"><i>bivacc</i><par n="fung/o__n"/></e>
     <e lm="contrappunto"><i>contrappunt</i><par n="abbain/o__n"/></e>
+    <e lm="berlino"><i>berlin</i><par n="abbain/o__n"/></e>
     <e lm="contrappeso"><i>contrappes</i><par n="abbain/o__n"/></e>
     <e lm="criterio"><i>criteri</i><par n="abbagli/o__n"/></e>
     <e lm="decreto"><i>decret</i><par n="abbain/o__n"/></e>
