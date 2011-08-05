@@ -78526,8 +78526,6 @@
     <e lm="Paco"><i>Paco</i><par n="Juan__np"/></e>
     <e lm="Espanyol"><i>Espanyol</i><par n="Juan__np"/></e>
     <e lm="Raúl"><i>Raúl</i><par n="Juan__np"/></e>
-    <e lm="Expo"><i>Expo</i><par n="María__np"/></e>
-    <e lm="DGA"><i>DGA</i><par n="María__np"/></e>
     <e lm="Pamesa"><i>Pamesa</i><par n="Juan__np"/></e>
     <e lm="Joan"><i>Joan</i><par n="Juan__np"/></e>
     <e lm="ETA"><i>ETA</i><par n="BBVA__n"/></e>
@@ -78536,7 +78534,7 @@
     <e lm="Rubén"><i>Rubén</i><par n="Juan__np"/></e>
     <e lm="Hernández"><i>Hernández</i><par n="Juan__np"/></e>
     <e lm="Navarro"><i>Navarro</i><par n="Juan__np"/></e>
-    <e lm="Athletic"><i>Athletic</i><par n="Juan__np"/></e>
+    <e lm="Athletic"><i>Athletic</i><par n="ABC__np"/></e>
     <e lm="Maragall"><i>Maragall</i><par n="Juan__np"/></e>
     <e lm="Pitagora"><i>Pitagora</i><par n="Juan__np"/></e>
     <e lm="Gesù Cristo"><i>Gesù<b/>Cristo</i><par n="Juan__np"/></e>
@@ -78573,7 +78571,6 @@
     <e lm="Michael"><i>Michael</i><par n="Juan__np"/></e>
     <e lm="Guillermo"><i>Guillermo</i><par n="Juan__np"/></e>
     <e lm="Peter"><i>Peter</i><par n="Juan__np"/></e>
-    <e lm="Wikipedia"><i>Wikipedia</i><par n="María__np"/></e>
     <e lm="Mario"><i>Mario</i><par n="Juan__np"/></e>
     <e lm="Charles"><i>Charles</i><par n="Juan__np"/></e>
     <e lm="Fernández"><i>Fernández</i><par n="Juan__np"/></e>
@@ -79155,6 +79152,7 @@
     <e lm="Corte dei conti"><i>Corte<b/>dei<b/>conti</i><par n="Polizia__np"/></e>
     <e lm="Corte dei conti europea"><i>Corte<b/>dei<b/>conti<b/>europea</i><par n="Polizia__np"/></e>
     <e lm="Magna Carta"><i>Magna<b/>Carta</i><par n="Polizia__np"/></e>
+    <e lm="Expo"><i>Expo</i><par n="Polizia__np"/></e>
     <e lm="Polonia"><i>Polonia</i><par n="Europa__np"/></e>
     <e lm="Pontevedra"><i>Pontevedra</i><par n="Afghanistan__np"/></e>
     <e lm="Portogallo"><i>Portogallo</i><par n="Afghanistan__np"/></e>
@@ -85963,6 +85961,7 @@
     <e lm="pubblico ministero"><p><l>pubblici<b/>ministeri</l><r>pubblico<b/>ministero<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="&apos;ndrangheta"><i>&apos;ndranghet</i><par n="cas/a__n"/></e>
     <e lm="anguilla"><i>anguill</i><par n="cas/a__n"/></e>
+    <e lm="Wikipedia"><i>Wikipedi</i><par n="cas/a__n"/></e>
     <e lm="FMI"><i>FMI</i><par n="BBVA__n"/></e>
     <e lm="PP"><i>PP</i><par n="BBVA__n"/></e>
     <e lm="mp3"><i>mp3</i><par n="BBVA__n"/></e>
@@ -86010,6 +86009,7 @@
     <e lm="ONU"><i>ONU</i><par n="TV__n"/></e>
     <e lm="PIL"><i>PIL</i><par n="PIL__n"/></e>
     <e lm="UA"><i>UA</i><par n="TV__n"/></e>
+    <e lm="DGA"><i>DGA</i><par n="TV__n"/></e>
     <e lm="UE"><i>UE</i><par n="TV__n"/></e>
     <e lm="UEFA"><i>UEFA</i><par n="TV__n"/></e>
     <e lm="UGT"><i>UGT</i><par n="TV__n"/></e>
@@ -94741,6 +94741,7 @@
     <e lm="fognatura"><i>fognatur</i><par n="cas/a__n"/></e>
     <e lm="valuta"><i>valut</i><par n="cas/a__n"/></e>
     <e lm="valuta di reserva"><i>valut</i><par n="cas/a__n"/><p><l><b/>di<b/>reserva</l><r><g><b/>di<b/>reserva</g></r></p></e>
+    <e lm="spilla di sicurezza"><i>spill</i><par n="cas/a__n"/><p><l><b/>di<b/>sicurezza</l><r><g><b/>di<b/>sicurezza</g></r></p></e>
     <e lm="valuta a corso forzoso"><i>valut</i><par n="cas/a__n"/><p><l><b/>a<b/>corso<b/>forzoso</l><r><g><b/>a<b/>corso<b/>forzoso</g></r></p></e>
     <e lm="gara di sci"><i>gar</i><par n="cas/a__n"/><p><l><b/>di<b/>sci</l><r><g><b/>di<b/>sci</g></r></p></e>
     <e lm="terra di nessuno"><i>terr</i><par n="cas/a__n"/><p><l><b/>di<b/>nessuno</l><r><g><b/>di<b/>nessuno</g></r></p></e>

@@ -8589,6 +8589,7 @@
     <e><i>Lino<s n="np"/><s n="ant"/></i></e>
     <e><i>Linus<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Linux<s n="np"/><s n="al"/></l><r>Linux<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+    <e><p><l>Expo<s n="np"/><s n="al"/></l><r>Expo<s n="np"/><s n="al"/><s n="f"/></r></p></e>
     <e><p><l>Web<b/>2.0<s n="np"/><s n="al"/></l><r>Web<b/>2.0<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>El<b/>Correo<s n="np"/><s n="al"/></l><r>El<b/>Correo<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>Ibex<b/>35<s n="np"/><s n="al"/></l><r>Ibex<b/>35<s n="np"/><s n="al"/><s n="m"/></r></p></e>
@@ -12569,6 +12570,7 @@
     <e r="RL"><p><l>Tuesday<s n="n"/><s n="ND"/></l><r>martedì<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>U.N.<s n="n"/><s n="acr"/></l><r>ONU<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>UA<s n="n"/><s n="acr"/></l><r>UA<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>DGA<s n="n"/><s n="acr"/></l><r>DGA<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>UEFA<s n="n"/><s n="acr"/></l><r>UEFA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e c="United Nations "><p><l>UN<s n="n"/><s n="acr"/></l><r>ONU<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>VAT<s n="n"/><s n="acr"/></l><r>IVA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
@@ -17020,7 +17022,7 @@
     <e r="RL"><p><l>ideologist<s n="n"/></l><r>ideologo<s n="n"/></r></p></e>
     <e r="LR"><p><l>ideologist<s n="n"/></l><r>ideologo<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>ideology<s n="n"/></l><r>ideologia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>idiom<s n="n"/></l><r>idiotismo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>idiom<s n="n"/></l><r>idiotismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>idiosyncrasy<s n="n"/></l><r>idiosincrasia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>idiot<s n="n"/></l><r>idiota<s n="n"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>idiot<s n="n"/></l><r>somaro<s n="n"/></r></p></e>
@@ -18666,9 +18668,9 @@
     <e><p><l>partridge<s n="n"/></l><r>pernice<s n="n"/><s n="f"/></r></p></e>
     <e slr="partito D"><p><l>party<s n="n"/></l><r>partito<s n="n"/><s n="m"/></r></p></e>
     <e slr="festa"><p><l>party<s n="n"/></l><r>festa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Wikipedia<s n="n"/></l><r>Wikipedia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>passage<s n="n"/></l><r>passaggio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>arcade<s n="n"/></l><r>passaggio<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>arthropod<s n="n"/></l><r>artropode<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>passenger<b/>compartment<s n="n"/></l><r>abitacolo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>passing<s n="n"/></l><r>morte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>passion<s n="n"/></l><r>passione<s n="n"/><s n="f"/></r></p></e>
