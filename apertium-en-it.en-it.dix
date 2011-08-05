@@ -12472,7 +12472,7 @@
     <e><p><l>Their<b/>Serene<b/>Highnesses<s n="n"/><s n="pl"/></l><r>Loro<b/>Altezze<b/>serenissime<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>His<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>His<b/>Imperial<b/>Highness<s n="n"/><s n="sg"/></l><r>Sua<b/>Altezza<b/>imperiale<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>Their<b/>Imperial<b/>Highnesses<s n="n"/><s n="pl"/></l><r>Loro<b/>Altezze<b/>imperiale<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e><p><l>Their<b/>Imperial<b/>Highnesses<s n="n"/><s n="pl"/></l><r>Loro<b/>Altezze<b/>imperiali<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>His<b/>Majesty<s n="n"/></l><r>Sua<b/>Maestà<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>His<b/>Royal<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>reale<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>His<b/>Royal<b/>Majesty<s n="n"/></l><r>Sua<b/>Maestà<b/>reale<s n="n"/><s n="f"/></r></p></e>
@@ -13504,7 +13504,6 @@
     <e r="LR"><p><l>bear<s n="n"/></l><r>orso<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>bear<s n="n"/></l><r>orso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>beard<s n="n"/></l><r>barba<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>bearer<s n="n"/></l><r>portatore<s n="n"/></r></p></e>
     <e r="LR"><p><l>bearer<s n="n"/></l><r>portatore<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>beast<s n="n"/></l><r>bestia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>beauty<s n="n"/></l><r>bellezza<s n="n"/><s n="f"/></r></p></e>
@@ -16432,6 +16431,7 @@
     <e><p><l>vandal<s n="n"/></l><r>vandalo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vassal<s n="n"/></l><r>vassallo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>velvet<s n="n"/></l><r>velluto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>corduroy<s n="n"/></l><r>velluto<g><b/>a<b/>coste</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ventricle<s n="n"/></l><r>ventricolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>verdict<s n="n"/></l><r>verdetto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vernacular<s n="n"/></l><r>vernacolo<s n="n"/><s n="m"/></r></p></e>
@@ -18899,7 +18899,7 @@
     <e i="yes"><p><l>picture<s n="n"/></l><r>fotografia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>photograph<n></l><r>fotografia<n><f></r></e>).-->
     <e r="LR"><p><l>pie<s n="n"/></l><r>torta<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>cake<n></l><r>torta<n><f></r></e>).-->
     <e r="RL"><p><l>pie<s n="n"/></l><r>pasticcio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>pie<n></l><r>torta<n><f></r></e>).-->
-    <e><p><l>piece<s n="n"/></l><r>pezzetto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>piece<s n="n"/></l><r>pezzo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>piece<g><b/>of<b/>furniture</g><s n="n"/></l><r>mobile<s n="n"/><s n="m"/></r></p></e>
     <e srl="pig D"><p><l>pig<s n="n"/></l><r>porco<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>pigeon<s n="n"/></l><r>piccione<s n="n"/><s n="GD"/></r></p></e>
@@ -20323,6 +20323,13 @@
     <e r="LR"><p><l>builder<s n="n"/></l><r>costruttore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>baboon<s n="n"/></l><r>babbuino<s n="n"/></r></p></e>
     <e r="LR"><p><l>baboon<s n="n"/></l><r>babbuino<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>carrier<s n="n"/></l><r>portatore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>carrier<s n="n"/></l><r>portatore<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>castling<s n="n"/></l><r>arrocco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>carbohydrate<s n="n"/></l><r>carboidrato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>carboy<s n="n"/></l><r>damigiana<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>carovan<s n="n"/></l><r>carovana<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>carovan<s n="n"/></l><r>carrozzone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>burner<s n="n"/></l><r>bruciatore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>solstice<s n="n"/></l><r>solstizio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>solution<s n="n"/></l><r>soluzione<s n="n"/><s n="f"/></r></p></e>
@@ -20410,6 +20417,8 @@
     <e><p><l>revisor<s n="n"/></l><r>revisore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>auditor<s n="n"/></l><r>revisore<g><b/>dei<b/>conti</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>byte<s n="n"/></l><r>byte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e r="RL"><p><l>corduroy<s n="n"/></l><r>corduroy<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>cachemire<s n="n"/></l><r>cachemire<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>bonus<s n="n"/></l><r>bonus<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>bikini<s n="n"/></l><r>bikini<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>bel<s n="n"/></l><r>bel<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -20763,7 +20772,10 @@
     <e><p><l>bond<s n="n"/></l><r>legame<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>bombardier<s n="n"/></l><r>bombardiere<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bomber<s n="n"/></l><r>bombardiere<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>bit<s n="n"/></l><r>pezzetto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bit<s n="n"/></l><r>pezzetto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cowboy<s n="n"/></l><r>mandriano<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cowgirl<s n="n"/></l><r>mandriano<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>coyote<s n="n"/></l><r>coyote<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asteroid<s n="n"/></l><r>asteroide<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>autoclave<s n="n"/></l><r>autoclave<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bitumen<s n="n"/></l><r>bitume<s n="n"/><s n="m"/></r></p></e>
@@ -20790,6 +20802,10 @@
     <e r="LR"><p><l>strand<s n="n"/></l><r>filo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>cut<n></l><r>filo<n><m></r></e>).-->
     <e r="RL"><p><l>strategist<s n="n"/></l><r>stratega<s n="n"/></r></p></e>
     <e r="LR"><p><l>strategist<s n="n"/></l><r>stratega<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>cousin<s n="n"/></l><r>cugino<s n="n"/></r></p></e>
+    <e r="LR"><p><l>cousin<s n="n"/></l><r>cugino<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>second<b/>cousin<s n="n"/></l><r>biscugino<s n="n"/></r></p></e>
+    <e r="LR"><p><l>second<b/>cousin<s n="n"/></l><r>biscugino<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>strategy<s n="n"/></l><r>strategia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>stratification<s n="n"/></l><r>stratificazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>stratigraphy<s n="n"/></l><r>stratigrafia<s n="n"/><s n="f"/></r></p></e>
