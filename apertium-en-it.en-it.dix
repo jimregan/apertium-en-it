@@ -12469,10 +12469,10 @@
     <e r="LR"><p><l>Her<b/>Royal<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>reale<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Her<b/>Royal<b/>Majesty<s n="n"/></l><r>Sua<b/>Maestà<b/>reale<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Her<b/>Serene<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>serenissima<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Their<b/>Serene<b/>Highnesses<s n="n"/><s n="pl"/></l><r>Loro<b/>Altezze<b/>serenissimi<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e><p><l>Their<b/>Serene<b/>Highnesses<s n="n"/><s n="pl"/></l><r>Loro<b/>Altezze<b/>serenissime<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>His<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>His<b/>Imperial<b/>Highness<s n="n"/><s n="sg"/></l><r>Sua<b/>Altezza<b/>imperiale<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>Their<b/>Imperial<b/>Highnesses<s n="n"/><s n="pl"/></l><r>Loro<b/>Altezze<b/>imperiali<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e><p><l>Their<b/>Imperial<b/>Highnesses<s n="n"/><s n="pl"/></l><r>Loro<b/>Altezze<b/>imperiale<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>His<b/>Majesty<s n="n"/></l><r>Sua<b/>Maestà<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>His<b/>Royal<b/>Highness<s n="n"/></l><r>Sua<b/>Altezza<b/>reale<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>His<b/>Royal<b/>Majesty<s n="n"/></l><r>Sua<b/>Maestà<b/>reale<s n="n"/><s n="f"/></r></p></e>
@@ -18900,7 +18900,6 @@
     <e r="LR"><p><l>pie<s n="n"/></l><r>torta<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>cake<n></l><r>torta<n><f></r></e>).-->
     <e r="RL"><p><l>pie<s n="n"/></l><r>pasticcio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>pie<n></l><r>torta<n><f></r></e>).-->
     <e><p><l>piece<s n="n"/></l><r>pezzetto<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>piece<s n="n"/></l><r>pezzo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>piece<n></l><r>pezzetto<n><m></r></e>).-->
     <e><p><l>piece<g><b/>of<b/>furniture</g><s n="n"/></l><r>mobile<s n="n"/><s n="m"/></r></p></e>
     <e srl="pig D"><p><l>pig<s n="n"/></l><r>porco<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>pigeon<s n="n"/></l><r>piccione<s n="n"/><s n="GD"/></r></p></e>
@@ -20241,7 +20240,7 @@
     <e><p><l>sleep<s n="n"/></l><r>sonno<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sleeper<s n="n"/></l><r>traversina<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>sleeplessness<s n="n"/></l><r>insonnia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>sleet<s n="n"/></l><r>nevischio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>snow<b/>grain<s n="n"/></l><r>nevischio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sleeve<s n="n"/></l><r>manica<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>slenderness<s n="n"/><s n="ND"/></l><r>esiguità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>slenderness<s n="n"/><s n="sg"/></l><r>esiguità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -20275,6 +20274,7 @@
     <e r="RL"><p><l>snail<s n="n"/></l><r>chiocciola<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>snake<s n="n"/></l><r>serpente<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>snow<s n="n"/></l><r>neve<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sleet<s n="n"/></l><r>acquaneve<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>snowman<s n="n"/></l><r>pupazzo<g><b/>di<b/>neve</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>soap<s n="n"/></l><r>sapone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>socialisation<s n="n"/></l><r>socializzazione<s n="n"/><s n="f"/></r></p></e>
@@ -20410,6 +20410,7 @@
     <e><p><l>revisor<s n="n"/></l><r>revisore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>auditor<s n="n"/></l><r>revisore<g><b/>dei<b/>conti</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>byte<s n="n"/></l><r>byte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>bonus<s n="n"/></l><r>bonus<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>bikini<s n="n"/></l><r>bikini<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>bel<s n="n"/></l><r>bel<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>becquerel<s n="n"/></l><r>becquerel<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -20762,6 +20763,7 @@
     <e><p><l>bond<s n="n"/></l><r>legame<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>bombardier<s n="n"/></l><r>bombardiere<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bomber<s n="n"/></l><r>bombardiere<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>bit<s n="n"/></l><r>pezzetto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asteroid<s n="n"/></l><r>asteroide<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>autoclave<s n="n"/></l><r>autoclave<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bitumen<s n="n"/></l><r>bitume<s n="n"/><s n="m"/></r></p></e>
