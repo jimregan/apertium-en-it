@@ -5317,6 +5317,8 @@
     <e><i>Clint<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Clinton<s n="np"/><s n="cog"/><s n="sg"/></l><r>Clinton<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>Clinton<s n="np"/><s n="cog"/><s n="pl"/></l><r>Clinton<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>Maragall<s n="np"/><s n="cog"/><s n="sg"/></l><r>Maragall<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>Maragall<s n="np"/><s n="cog"/><s n="pl"/></l><r>Maragall<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><i>Clinton<s n="np"/><s n="ant"/></i></e>
     <e><i>Clodoaldo<s n="np"/><s n="ant"/></i></e>
     <e><i>Clodomiro<s n="np"/><s n="ant"/></i></e>
@@ -8016,6 +8018,8 @@
     <e><i>Juanita<s n="np"/><s n="ant"/></i></e>
     <e><i>Juanito<s n="np"/><s n="ant"/></i></e>
     <e><i>Juanse<s n="np"/><s n="ant"/></i></e>
+    <e><i>Roque<s n="np"/><s n="ant"/></i></e>
+    <e><i>El<b/>Greco<s n="np"/><s n="ant"/></i></e>
     <e><i>Jubal<s n="np"/><s n="ant"/></i></e>
     <e><i>Judah<s n="np"/><s n="ant"/></i></e>
     <e><i>Judas<s n="np"/><s n="ant"/></i></e>
@@ -8589,6 +8593,10 @@
     <e><i>Lino<s n="np"/><s n="ant"/></i></e>
     <e><i>Linus<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Linux<s n="np"/><s n="al"/></l><r>Linux<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+    <e><p><l>Espanyol<s n="np"/><s n="al"/></l><r>Espanyol<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+    <e><p><l>Athletic<s n="np"/><s n="al"/></l><r>Athletic<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+    <e><p><l>Betis<s n="np"/><s n="al"/></l><r>Betis<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+    <e><p><l>Pamesa<s n="np"/><s n="al"/></l><r>Pamesa<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>Expo<s n="np"/><s n="al"/></l><r>Expo<s n="np"/><s n="al"/><s n="f"/></r></p></e>
     <e><p><l>Web<b/>2.0<s n="np"/><s n="al"/></l><r>Web<b/>2.0<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>El<b/>Correo<s n="np"/><s n="al"/></l><r>El<b/>Correo<s n="np"/><s n="al"/><s n="m"/></r></p></e>
