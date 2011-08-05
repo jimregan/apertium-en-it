@@ -19468,6 +19468,8 @@
     <e r="LR"><p><l>rapist<s n="n"/></l><r>stupratore<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>raspberry<s n="n"/></l><r>lampone<s n="n"/><s n="m"/></r></p></e>
     <e slr="ritmo"><p><l>rate<s n="n"/></l><r>ritmo<s n="n"/><s n="m"/></r></p></e>
+    <e slr="tasso" srl="rate D"><p><l>rate<s n="n"/></l><r>tasso<s n="n"/><s n="m"/></r></p></e>
+    <e srl="badger"><p><l>badger<s n="n"/></l><r>tasso<s n="n"/><s n="m"/></r></p></e>
     <e slr="indice D" srl="rate"><p><l>rate<s n="n"/></l><r>indice<s n="n"/><s n="m"/></r></p></e>
     <e slr="aliquota"><p><l>rate<s n="n"/></l><r>aliquota<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>rating<s n="n"/></l><r>indice<s n="n"/><s n="m"/></r></p></e>
@@ -20275,8 +20277,16 @@
     <e r="LR"><p><l>solicitor<s n="n"/></l><r>avvocato<s n="n"/><s n="GD"/></r></p></e>
     <e i="yes"><p><l>solicitor<s n="n"/></l><r>avvocato<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>attorney<n></l><r>avvocato<n><m></r></e>).-->
     <e><p><l>solidification<s n="n"/></l><r>solidificazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>build<s n="n"/></l><r>corporatura<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>soloist<s n="n"/></l><r>solista<s n="n"/></r></p></e>
     <e r="LR"><p><l>soloist<s n="n"/></l><r>solista<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>cadet<s n="n"/></l><r>cadetto<s n="n"/></r></p></e>
+    <e r="LR"><p><l>cadet<s n="n"/></l><r>cadetto<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>builder<s n="n"/></l><r>costruttore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>builder<s n="n"/></l><r>costruttore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>baboon<s n="n"/></l><r>babbuino<s n="n"/></r></p></e>
+    <e r="LR"><p><l>baboon<s n="n"/></l><r>babbuino<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>burner<s n="n"/></l><r>bruciatore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>solstice<s n="n"/></l><r>solstizio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>solution<s n="n"/></l><r>soluzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>solvent<s n="n"/></l><r>solvente<s n="n"/><s n="m"/></r></p></e>
@@ -20359,8 +20369,16 @@
     <e><p><l>submodule<s n="n"/></l><r>sottomodulo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>subdomain<s n="n"/></l><r>sottodominio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>subjugation<s n="n"/></l><r>soggiogamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>revisor<s n="n"/></l><r>revisore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>auditor<s n="n"/></l><r>revisore<g><b/>dei<b/>conti<g/><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>byte<s n="n"/></l><r>byte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>bungalow<s n="n"/></l><r>bungalow<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>buffet<s n="n"/></l><r>buffet<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>boom<s n="n"/></l><r>boom<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>boa<s n="n"/></l><r>boa<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e r="LR"><p><l>brevier<s n="n"/></l><r>breviario<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>breviary<s n="n"/></l><r>breviario<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>galliard<s n="n"/></l><r>gagliarda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>badminton<s n="n"/></l><r>badminton<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>kilobyte<s n="n"/></l><r>chilobyte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>moiré<s n="n"/></l><r>moiré<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -20959,8 +20977,7 @@
     <e><p><l>tautology<s n="n"/></l><r>tautologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tavern<s n="n"/></l><r>taverna<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tax<s n="n"/></l><r>imposta<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>tax<s n="n"/></l><r>tasso<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>tax<s n="n"/></l><r>tasso<s n="n"/></r></p></e>
+    <e><p><l>tax<s n="n"/></l><r>tassa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tax<b/>haven<s n="n"/></l><r>paradiso<b/>fiscale<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>taxation<s n="n"/></l><r>imposizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>taxation<s n="n"/></l><r>tassazione<s n="n"/><s n="f"/></r></p></e>
