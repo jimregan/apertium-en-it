@@ -86076,6 +86076,8 @@
     <e lm="portale"><i>portal</i><par n="abat/e__n"/></e>
     <e lm="apice"><i>apic</i><par n="abat/e__n"/></e>
     <e lm="contabile"><i>contabil</i><par n="abat/e__n"/></e>
+    <e lm="apice"><i>apic</i><par n="abat/e__n"/></e>
+    <e lm="grembiule"><i>grembiul</i><par n="abat/e__n"/></e>
     <e lm="abbandono"><i>abbandon</i><par n="abbain/o__n"/></e>
     <e lm="lapsus freudiano"><i>lapsus<b/>freudian</i><par n="abbain/o__n"/></e>
     <e lm="abbattimento"><i>abbattiment</i><par n="abbain/o__n"/></e>
@@ -86096,8 +86098,10 @@
     <e lm="riciclaggio"><i>riciclaggi</i><par n="abbagli/o__n"/></e>
     <e lm="rifugio"><i>rifugi</i><par n="abbagli/o__n"/></e>
     <e lm="abbozzo"><i>abbozz</i><par n="abbain/o__n"/></e>
+    <e lm="antro"><i>antr</i><par n="abbain/o__n"/></e>
     <e lm="abbraccio"><i>abbracci</i><par n="abbagli/o__n"/></e>
     <e lm="andesite"><i>andesit</i><par n="abbreviazion/e__n"/></e>
+    <e lm="aracnoide"><i>aracnoid</i><par n="abbreviazion/e__n"/></e>
     <e lm="abbreviazione"><i>abbreviazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="comunità internazionale"><i>comunità<b/>internazional</i><par n="abbreviazion/e__n"/></e>
     <e lm="abbece"><i>abbec</i><par n="abbreviazion/e__n"/></e>
@@ -87917,6 +87921,7 @@
     <e lm="ecuadoriano"><i>ecuadorian</i><par n="bambin/o__n"/></e>
     <e lm="edema"><i>edem</i><par n="autom/a__n"/></e>
     <e lm="edificio"><i>edifici</i><par n="abbagli/o__n"/></e>
+    <e lm="bario"><i>bari</i><par n="abbagli/o__n"/></e>
     <e lm="edilizia"><i>edilizi</i><par n="cas/a__n"/></e>
     <e lm="editoriale"><i>editorial</i><par n="abat/e__n"/></e>
     <e lm="edizione"><i>edizion</i><par n="abbreviazion/e__n"/></e>
@@ -89640,6 +89645,7 @@
     <e lm="patrocinio"><i>patrocini</i><par n="abbagli/o__n"/></e>
     <e lm="patrimonio"><i>patrimoni</i><par n="abbagli/o__n"/></e>
     <e lm="pattinaggio"><i>pattinaggi</i><par n="abbagli/o__n"/></e>
+    <e lm="adagio"><i>adagi</i><par n="abbagli/o__n"/></e>
     <e lm="paura"><i>paur</i><par n="cas/a__n"/></e>
     <e lm="pavimento"><i>paviment</i><par n="abbain/o__n"/></e>
     <e lm="vacuolo"><i>vacuol</i><par n="abbain/o__n"/></e>
@@ -89648,6 +89654,7 @@
     <e lm="pazzia"><i>pazzi</i><par n="cas/a__n"/></e>
     <e lm="pc"><i>pc</i><par n="albatros__n"/></e>
     <e lm="byte"><i>byte</i><par n="albatros__n"/></e>
+    <e lm="adret"><i>adret</i><par n="albatros__n"/></e>
     <e lm="chilobyte"><i>chilobyte</i><par n="albatros__n"/></e>
     <e lm="hobby"><i>hobby</i><par n="albatros__n"/></e>
     <e lm="varicap"><i>varicap</i><par n="albatros__n"/></e>
@@ -89703,6 +89710,8 @@
     <e lm="pedofilo"><i>pedofil</i><par n="abbain/o__n"/></e>
     <e lm="poliedro"><i>poliedr</i><par n="abbain/o__n"/></e>
     <e lm="pedone"><i>pedon</i><par n="abat/e__n"/></e>
+    <e lm="amiloide"><i>amiloid</i><par n="abat/e__n"/></e>
+    <e lm="anellide"><i>anellid</i><par n="abat/e__n"/></e>
     <e lm="scaglione"><i>scaglion</i><par n="abat/e__n"/></e>
     <e lm="bastione"><i>bastion</i><par n="abat/e__n"/></e>
     <e lm="radionuclide"><i>radionuclid</i><par n="abat/e__n"/></e>
@@ -90142,6 +90151,7 @@
     <e lm="preposto"><i>prepost</i><par n="bambin/o__n"/></e>
     <e lm="prescrizione"><i>prescrizion</i><par n="abbreviazion/e__n"/></e>
     <e lm="presente"><i>present</i><par n="albanes/e__n"/></e>
+    <e lm="androide"><i>android</i><par n="albanes/e__n"/></e>
     <e lm="girante"><i>girant</i><par n="albanes/e__n"/></e>
     <e lm="presentazione"><i>presentazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="presepe"><i>presep</i><par n="abat/e__n"/></e>
@@ -99496,9 +99506,11 @@
     <e lm="tabulazione"><i>tabulazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="umificazione"><i>umificazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="unzione"><i>unzion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="viale"><i>vial</i><par n="abbreviazion/e__n"/></e>
     <e lm="adenopatia"><i>adenopati</i><par n="cas/a__n"/></e>
     <e lm="affrancatura"><i>affrancatur</i><par n="cas/a__n"/></e>
     <e lm="afonia"><i>afoni</i><par n="cas/a__n"/></e>
+    <e lm="azalea"><i>azale</i><par n="cas/a__n"/></e>
     <e lm="agiografia"><i>agiografi</i><par n="cas/a__n"/></e>
     <e lm="agroecologia"><i>agroecologi</i><par n="cas/a__n"/></e>
     <e lm="altimetria"><i>altimetri</i><par n="cas/a__n"/></e>
@@ -99862,6 +99874,9 @@
     <e lm="strabismo"><i>strabism</i><par n="abbain/o__n"/></e>
     <e lm="strutturalismo"><i>strutturalism</i><par n="abbain/o__n"/></e>
     <e lm="temperamento"><i>temperament</i><par n="abbain/o__n"/></e>
+    <e lm="assenso"><i>assens</i><par n="abbain/o__n"/></e>
+    <e lm="zaino"><i>zain</i><par n="abbain/o__n"/></e>
+    <e lm="avocado"><i>avocad</i><par n="abbain/o__n"/></e>
     <e lm="adattabilità"><i>adattabilità</i><par n="abilità__n"/></e>
     <e lm="affettività"><i>affettività</i><par n="abilità__n"/></e>
     <e lm="ammissibilità"><i>ammissibilità</i><par n="abilità__n"/></e>
@@ -100265,8 +100280,11 @@
     <e lm="pantera"><i>panter</i><par n="cas/a__n"/></e>
     <e lm="actina"><i>actin</i><par n="cas/a__n"/></e>
     <e lm="antera"><i>anter</i><par n="cas/a__n"/></e>
+    <e lm="angora"><i>angor</i><par n="cas/a__n"/></e>
+    <e lm="ampolla"><i>ampoll</i><par n="cas/a__n"/></e>
     <e lm="coeducazione"><i>coeducazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="iperbole"><i>iperbol</i><par n="abbreviazion/e__n"/></e>
+    <e lm="architrave"><i>architrav</i><par n="abbreviazion/e__n"/></e>
     <e lm="coercizione"><i>coercizion</i><par n="abbreviazion/e__n"/></e>
     <e lm="cogenerazione"><i>cogenerazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="segale"><i>segal</i><par n="abbreviazion/e__n"/></e>
@@ -100371,6 +100389,7 @@
     <e lm="mucca"><i>mucc</i><par n="tasc/a__n"/></e>
     <e lm="grammatica"><i>grammatic</i><par n="tasc/a__n"/></e>
     <e lm="bavarese"><i>bavares</i><par n="albanes/e__n"/></e>
+    <e lm="aspirante"><i>aspirant</i><par n="albanes/e__n"/></e>
     <e lm="camerunese"><i>camerunes</i><par n="albanes/e__n"/></e>
     <e lm="canadese"><i>canades</i><par n="albanes/e__n"/></e>
     <e lm="cinese"><i>cines</i><par n="albanes/e__n"/></e>
