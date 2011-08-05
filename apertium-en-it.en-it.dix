@@ -15542,9 +15542,10 @@
     <e><p><l>engineering<s n="n"/></l><r>ingegneria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>enigma<s n="n"/></l><r>enigma<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>enjoyment<s n="n"/></l><r>divertimento<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>amusement<s n="n"/></l><r>divertimento<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>amusement<s n="n"/></l><r>divertimento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>anther<s n="n"/></l><r>antera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>apse<s n="n"/></l><r>abside<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>actinide<s n="n"/></l><r>attinide<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>applicant<s n="n"/></l><r>aspirante<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>angora<s n="n"/></l><r>angora<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ampoule<s n="n"/></l><r>ampolla<s n="n"/><s n="f"/></r></p></e>
@@ -15767,6 +15768,11 @@
     <e><p><l>expression<s n="n"/></l><r>espressione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>expression<s n="n"/></l><r>locuzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>expressionism<s n="n"/></l><r>espressionismo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>spillage<s n="n"/></l><r>spargimento<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>shedding<s n="n"/></l><r>spargimento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bloodshed<s n="n"/></l><r>spargimento<g><b/>di<b/>sangue</g><s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>bailiff<s n="n"/></l><r>ufficiale<b/>giudiziario<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>bailiff<s n="n"/></l><r>ufficiale<b/>giudiziario<s n="n"/></r></p></e>
     <e><p><l>expropriation<s n="n"/></l><r>espropriazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>expulsion<s n="n"/></l><r>espulsione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>extension<s n="n"/></l><r>estensione<s n="n"/><s n="f"/></r></p></e>
@@ -15776,6 +15782,8 @@
     <e><p><l>extinguisher<s n="n"/></l><r>estintore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>extirpation<s n="n"/></l><r>estirpazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>extra<s n="n"/></l><r>extra<s n="n"/><s n="mf"/></r></p><par n="SP"/></e>
+    <e><p><l>bonfire<s n="n"/></l><r>falò<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>bobsled<s n="n"/></l><r>bob<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>adret<s n="n"/></l><r>adret<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>extraction<s n="n"/></l><r>estrazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>extradition<s n="n"/></l><r>estradizione<s n="n"/><s n="f"/></r></p></e>
@@ -20332,6 +20340,7 @@
     <e><p><l>telediffusion<s n="n"/></l><r>telediffusione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vincamine<s n="n"/></l><r>vincamina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>videography<s n="n"/></l><r>videografia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>amazon<s n="n"/></l><r>amazzone<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tracheostomy<s n="n"/></l><r>tracheostomia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>thermograph<s n="n"/></l><r>termografia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sylviculture<s n="n"/></l><r>silvicoltura<s n="n"/><s n="f"/></r></p></e>
@@ -20351,6 +20360,8 @@
     <e><p><l>subdomain<s n="n"/></l><r>sottodominio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>subjugation<s n="n"/></l><r>soggiogamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>byte<s n="n"/></l><r>byte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>boa<s n="n"/></l><r>boa<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>badminton<s n="n"/></l><r>badminton<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>kilobyte<s n="n"/></l><r>chilobyte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>moiré<s n="n"/></l><r>moiré<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>varactor<s n="n"/></l><r>varicap<s n="n"/><s n="m"/></r></p><par n="SP"/></e>

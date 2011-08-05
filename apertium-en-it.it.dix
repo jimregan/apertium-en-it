@@ -89575,11 +89575,13 @@
     <e lm="passeggio"><i>passeggi</i><par n="abbain/o__n"/></e>
     <e lm="passero"><i>passer</i><par n="abbain/o__n"/></e>
     <e lm="passione"><i>passion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="amazzone"><i>amazzon</i><par n="abbreviazion/e__n"/></e>
     <e lm="password"><i>password</i><par n="abilità__n"/></e>
     <e lm="pasta"><i>past</i><par n="cas/a__n"/></e>
     <e lm="pasticcio"><i>pasticci</i><par n="abbagli/o__n"/></e>
     <e lm="pasto"><i>past</i><par n="abbain/o__n"/></e>
     <e lm="pastore"><i>pastor</i><par n="abat/e__n"/></e>
+    <e lm="attinide"><i>attinid</i><par n="abat/e__n"/></e>
     <e lm="patata"><i>patat</i><par n="cas/a__n"/></e>
     <e lm="patologia"><i>patologi</i><par n="cas/a__n"/></e>
     <e lm="ampelografia"><i>ampelografi</i><par n="cas/a__n"/></e>
@@ -89673,11 +89675,16 @@
     <e lm="paura"><i>paur</i><par n="cas/a__n"/></e>
     <e lm="pavimento"><i>paviment</i><par n="abbain/o__n"/></e>
     <e lm="vacuolo"><i>vacuol</i><par n="abbain/o__n"/></e>
+    <e lm="spargimento"><i>spargiment</i><par n="abbain/o__n"/></e>
+    <e lm="spargimento di sangue"><i>spargiment</i><par n="abbain/o__n"/><p><l><b/>di<b/>sangue</l><r><g><b/>di<b/>sangue</g></r></p></e>
     <e lm="pavé"><i>pavé</i><par n="albatros__n"/></e>
+    <e lm="falò"><i>falò</i><par n="albatros__n"/></e>
+    <e lm="bob"><i>bob</i><par n="albatros__n"/></e>
     <e lm="paziente"><i>pazient</i><par n="albanes/e__n"/></e>
     <e lm="pazzia"><i>pazzi</i><par n="cas/a__n"/></e>
     <e lm="pc"><i>pc</i><par n="albatros__n"/></e>
     <e lm="byte"><i>byte</i><par n="albatros__n"/></e>
+    <e lm="boa"><i>boa</i><par n="albatros__n"/></e>
     <e lm="badminton"><i>badminton</i><par n="albatros__n"/></e>
     <e lm="adret"><i>adret</i><par n="albatros__n"/></e>
     <e lm="chilobyte"><i>chilobyte</i><par n="albatros__n"/></e>
@@ -96128,6 +96135,10 @@
     <e lm="tallone aureo"><p><l>talloni<b/>aurei</l><r>tallone<b/>aureo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="essere umano"><p><l>essere<b/>umano</l><r>essere<b/>umano<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="essere umano"><p><l>esseri<b/>umani</l><r>essere<b/>umano<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="ufficiale giudiziario"><p><l>ufficiale<b/>giudiziario</l><r>ufficiale<b/>giudiziario<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="ufficiale giudiziario"><p><l>ufficiali<b/>giudiziari</l><r>ufficiale<b/>giudiziario<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="ufficiale giudiziario"><p><l>ufficiale<b/>giudiziaria</l><r>ufficiale<b/>giudiziario<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="ufficiale giudiziario"><p><l>ufficiali<b/>giudiziarie</l><r>ufficiale<b/>giudiziario<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="capo del governo"><p><l>capo<b/>del<b/>governo</l><r>capo<b/>del<b/>governo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="capo del governo"><p><l>capi<b/>di<b/>governo</l><r>capo<b/>del<b/>governo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="carne bovina"><p><l>carne<b/>bovina</l><r>carne<b/>bovina<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
