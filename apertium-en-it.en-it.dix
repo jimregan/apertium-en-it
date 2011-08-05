@@ -14151,6 +14151,8 @@
     <e><p><l>triumph<s n="n"/></l><r>trionfo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>python<s n="n"/></l><r>pitone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pity<s n="n"/></l><r>pietà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e r="LR"><p><l>bistoury<s n="n"/></l><r>bisturi<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>scalpel<s n="n"/></l><r>bisturi<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e r="LR"><p><l>chronicler<s n="n"/></l><r>cronista<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>chronicler<s n="n"/></l><r>cronista<s n="n"/></r></p></e>
     <e r="LR"><p><l>borrower<s n="n"/></l><r>mutuatario<s n="n"/><s n="GD"/></r></p></e>
@@ -14238,6 +14240,8 @@
     <e><p><l>classification<s n="n"/></l><r>classificazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>classroom<s n="n"/></l><r>aula<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>clause<s n="n"/></l><r>clausola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>blackout<s n="n"/></l><r>oscuramento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>blackthorn<s n="n"/></l><r>prugnolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>claustrophobia<s n="n"/></l><r>claustrofobia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>baton<s n="n"/></l><r>bastone<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>clave<s n="n"/></l><r>bastone<s n="n"/><s n="m"/></r></p></e>
@@ -18585,7 +18589,14 @@
     <e><p><l>papyrus<s n="n"/></l><r>papiro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>parabola<s n="n"/></l><r>parabola<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>paracetamol<s n="n"/></l><r>paracetamolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>artiodactyl<s n="n"/></l><r>artiodattilo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>arsenate<s n="n"/></l><r>arseniato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>astrocyte<s n="n"/></l><r>astrocita<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>att.<s n="n"/></l><r>att.<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>autogamy<s n="n"/></l><r>autogamia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>automedication<s n="n"/></l><r>automedicazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>parachute<s n="n"/></l><r>paracadute<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>asepsis<s n="n"/></l><r>asepsi<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>parachuting<s n="n"/></l><r>paracadutismo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>parachutist<s n="n"/></l><r>paracadutista<s n="n"/></r></p></e>
     <e r="LR"><p><l>parachutist<s n="n"/></l><r>paracadutista<s n="n"/><s n="GD"/></r></p></e>
@@ -18644,12 +18655,13 @@
     <e r="LR"><p><l>partnership<s n="n"/><s n="sg"/></l><r>società<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>partnership<s n="n"/><s n="pl"/></l><r>società<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>partridge<s n="n"/></l><r>pernice<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>party<s n="n"/></l><r>partito<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>party<s n="n"/></l><r>festa<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>party<n></l><r>partito<n><m></r></e>).-->
-    <e r="LR"><p><l>passage<s n="n"/></l><r>passo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>pace<n></l><r>passo<n><m></r></e>).-->
+    <e slr="partito D"><p><l>party<s n="n"/></l><r>partito<s n="n"/><s n="m"/></r></p></e>
+    <e slr="festa"><p><l>party<s n="n"/></l><r>festa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>passage<s n="n"/></l><r>passaggio<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>arcade<s n="n"/></l><r>passaggio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>arthropod<s n="n"/></l><r>artropode<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>passenger<b/>compartment<s n="n"/></l><r>abitacolo<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>passing<s n="n"/></l><r>morte<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>death<n></l><r>morte<n><f></r></e>).-->
-    <e i="yes"><p><l>passing<s n="n"/></l><r>passo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>pace<n></l><r>passo<n><m></r></e>).-->
+    <e r="LR"><p><l>passing<s n="n"/></l><r>morte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>passion<s n="n"/></l><r>passione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>passionate<s n="n"/></l><r>appassionato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>passivation<s n="n"/></l><r>passivazione<s n="n"/><s n="f"/></r></p></e>
@@ -20435,8 +20447,21 @@
     <e><p><l>arrogance<s n="n"/></l><r>arroganza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>anaesthetic<s n="n"/></l><r>anestetico<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bivouac<s n="n"/></l><r>bivacco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>blastocoel<s n="n"/></l><r>blastocele<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>blastema<s n="n"/></l><r>blastema<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>blackhead<s n="n"/></l><r>comedone<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>boot<s n="n"/></l><r>stivale<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>berlin<s n="n"/></l><r>berlino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>actin<s n="n"/></l><r>actina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>branchia<s n="n"/></l><r>branchia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>blende<s n="n"/></l><r>blenda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bronchiole<s n="n"/></l><r>bronchiolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>butadiene<s n="n"/></l><r>butadiene<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>buna<s n="n"/></l><r>buna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aragonesism<s n="n"/></l><r>aragonesismo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>alienism<s n="n"/></l><r>alienismo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>argon<s n="n"/><s n="sg"/></l><r>argo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>argon<s n="n"/><s n="pl"/></l><r>argo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>polynomial<s n="n"/></l><r>polinomio<s n="n"/><s n="m"/></r></p></e>
     <e srl="portfolio"><p><l>portfolio<s n="n"/></l><r>portafoglio<s n="n"/><s n="m"/></r></p></e>
     <e srl="premium"><p><l>premium<s n="n"/></l><r>premio<s n="n"/><s n="m"/></r></p></e>
@@ -20520,6 +20545,7 @@
     <e r="RL"><p><l>specialist<s n="n"/></l><r>specialista<s n="n"/></r></p></e>
     <e r="LR"><p><l>specialist<s n="n"/></l><r>specialista<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>speciality<s n="n"/></l><r>specialità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>bouillabaisse<s n="n"/></l><r>bouillabaisse<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e r="LR"><p><l>specialty<s n="n"/></l><r>specialità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>speciation<s n="n"/></l><r>speciazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>species<s n="n"/><s n="sg"/></l><r>specie<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -22758,7 +22784,7 @@
     <e><p><l>merely<s n="adv"/></l><r>semplicemente<s n="adv"/></r></p></e>
     <e><p><l>meticulously<s n="adv"/></l><r>meticolosamente<s n="adv"/></r></p></e>
     <e><p><l>midnight<s n="adv"/></l><r>mezza<b/>notte<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>mildly<s n="adv"/></l><r>un<b/>pò<s n="adv"/></r></p></e><!--  autorestricted (<e><l>a<b/>bit<adv></l><r>un<b/>pò<adv></r></e>).-->
+    <e r="LR"><p><l>mildly<s n="adv"/></l><r>un<b/>pò<s n="adv"/></r></p></e>
     <e r="LR"><p><l>miles<b/>better<s n="adv"/></l><r>molto<b/>meglio<s n="adv"/></r></p></e><!--  autorestricted (<e><l>all<b/>the<b/>better<adv></l><r>molto<b/>meglio<adv></r></e>).-->
     <e><p><l>militarily<s n="adv"/></l><r>militarmente<s n="adv"/></r></p></e>
     <e><p><l>miraculously<s n="adv"/></l><r>miracolosamente<s n="adv"/></r></p></e>
@@ -23045,21 +23071,21 @@
     <e r="LR"><p><l>singularly<s n="adv"/></l><r>singolarmente<s n="adv"/></r></p></e>
     <e r="LR"><p><l>slightly<s n="adv"/></l><r>leggermente<s n="adv"/></r></p></e>
     <e r="RL"><p><l>slightly<s n="adv"/></l><r>lievemente<s n="adv"/></r></p></e><!--  autorestricted (<e r="LR"><l>slightly<adv></l><r>leggermente<adv></r></e>).-->
-    <e><p><l>slow<s n="adv"/></l><r>piano<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>slowly<s n="adv"/></l><r>piano<s n="adv"/></r></p></e><!--  autorestricted (<e><l>slow<adv></l><r>piano<adv></r></e>).-->
+    <e r="LR"><p><l>slow<s n="adv"/></l><r>piano<s n="adv"/></r></p></e>
+    <e><p><l>slowly<s n="adv"/></l><r>piano<s n="adv"/></r></p></e>
     <e r="RL"><p><l>slowly<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>
     <e c="sols singular"><p><l>so<b/>much<s n="adv"/></l><r>tanto<s n="adv"/></r></p></e>
     <e><p><l>socially<s n="adv"/></l><r>socialmente<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>solely<s n="adv"/></l><r>soltanto<s n="adv"/></r></p></e><!--  autorestricted (<e><l>alone<adv></l><r>soltanto<adv></r></e>).-->
+    <e r="LR"><p><l>solely<s n="adv"/></l><r>soltanto<s n="adv"/></r></p></e>
     <e><p><l>solemnly<s n="adv"/></l><r>solennemente<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>some<s n="adv"/></l><r>un<b/>pò<s n="adv"/></r></p></e><!--  autorestricted (<e><l>a<b/>bit<adv></l><r>un<b/>pò<adv></r></e>).-->
+    <e r="LR"><p><l>some<s n="adv"/></l><r>un<b/>pò<s n="adv"/></r></p></e>
     <e><p><l>somehow<s n="adv"/></l><r>in<b/>qualche<b/>modo<s n="adv"/></r></p></e>
     <e><p><l>sometimes<s n="adv"/></l><r>a<b/>volte<s n="adv"/></r></p></e>
     <e r="RL"><p><l>sometimes<s n="adv"/></l><r>qualche<b/>volta<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>somewhat<s n="adv"/></l><r>un<b/>pò<s n="adv"/></r></p></e><!--  autorestricted (<e><l>a<b/>bit<adv></l><r>un<b/>pò<adv></r></e>).-->
+    <e r="LR"><p><l>somewhat<s n="adv"/></l><r>un<b/>pò<s n="adv"/></r></p></e>
     <e><p><l>somewhere<s n="adv"/></l><r>in<b/>qualche<b/>luogo<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>soon<s n="adv"/></l><r>presto<s n="adv"/></r></p></e><!--  autorestricted (<e><l>early<adv></l><r>presto<adv></r></e>).-->
-    <e r="LR"><p><l>specially<s n="adv"/></l><r>specialmente<s n="adv"/></r></p></e><!--  autorestricted (<e><l>especially<adv></l><r>specialmente<adv></r></e>).-->
+    <e r="LR"><p><l>soon<s n="adv"/></l><r>presto<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>specially<s n="adv"/></l><r>specialmente<s n="adv"/></r></p></e>
     <e r="RL"><p><l>specifically<s n="adv"/></l><r>concretamente<s n="adv"/></r></p></e>
     <e><p><l>specifically<s n="adv"/></l><r>specificamente<s n="adv"/></r></p></e>
     <e r="RL"><p><l>specifically<s n="adv"/></l><r>specificatamente<s n="adv"/></r></p></e>
