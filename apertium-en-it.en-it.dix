@@ -14237,10 +14237,10 @@
     <e><p><l>classicism<s n="n"/></l><r>classicismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>classification<s n="n"/></l><r>classificazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>classroom<s n="n"/></l><r>aula<s n="n"/><s n="f"/></r></p></e>
-    <e i="yes"><p><l>classroom<s n="n"/></l><r>classe<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>class<n></l><r>classe<n><f></r></e>).-->
     <e><p><l>clause<s n="n"/></l><r>clausola<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>claustrophobia<s n="n"/></l><r>claustrofobia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>clave<s n="n"/></l><r>bastone<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>baton<s n="n"/></l><r>bastone<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>clave<s n="n"/></l><r>bastone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>clay<s n="n"/></l><r>argilla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cleaning<s n="n"/></l><r>pulizia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cleanup<s n="n"/></l><r>epurazione<s n="n"/><s n="f"/></r></p></e>
@@ -14776,7 +14776,7 @@
     <e><p><l>crystallography<s n="n"/></l><r>cristallografia<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>crêpe<s n="n"/><s n="sg"/></l><r>crêpe<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>crêpe<s n="n"/><s n="pl"/></l><r>crêpe<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>cube<s n="n"/></l><r>cubo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>bin<n></l><r>cubo<n><m></r></e>).-->
+    <e r="LR"><p><l>cube<s n="n"/></l><r>cubo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cubism<s n="n"/></l><r>cubismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cucumber<s n="n"/></l><r>cetriolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cue<s n="n"/></l><r>spunto<s n="n"/><s n="m"/></r></p></e>
@@ -14785,10 +14785,12 @@
     <e><p><l>culture<s n="n"/></l><r>cultura<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>cunt<s n="n"/></l><r>vulva<s n="n"/><s n="f"/></r></p></e>
     <e c="Dep."><p><l>cup<s n="n"/></l><r>tazza<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>cupboard<s n="n"/></l><r>armadio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>cabinet<n></l><r>armadio<n><m></r></e>).-->
+    <e r="RL"><p><l>cup<s n="n"/></l><r>coppa<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>beaker<s n="n"/></l><r>coppa<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>cupboard<s n="n"/></l><r>armadio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cupid<s n="n"/></l><r>cupido<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>cure<s n="n"/></l><r>cura<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>care<n></l><r>cura<n><f></r></e>).-->
-    <e r="RL"><p><l>cure<s n="n"/></l><r>prete<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>cure<n></l><r>cura<n><f></r></e>).-->
+    <e r="LR"><p><l>cure<s n="n"/></l><r>cura<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>cure<s n="n"/></l><r>prete<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>curia<s n="n"/></l><r>curia<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>curiosity<s n="n"/><s n="ND"/></l><r>curiosità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>curiosity<s n="n"/><s n="sg"/></l><r>curiosità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -15549,6 +15551,9 @@
     <e><p><l>avocado<s n="n"/></l><r>avocado<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>avenue<s n="n"/></l><r>viale<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>azalea<s n="n"/></l><r>azalea<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bait<s n="n"/></l><r>esca<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bacon<s n="n"/></l><r>pancetta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>barycentre<s n="n"/></l><r>baricentro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>enjoyment<s n="n"/></l><r>godimento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>enmity<s n="n"/></l><r>inimicizia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>enquiry<s n="n"/></l><r>ricerca<s n="n"/><s n="f"/></r></p></e>
@@ -15589,6 +15594,9 @@
     <e><p><l>equalisation<s n="n"/></l><r>equiparazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>equation<s n="n"/></l><r>equazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>equator<s n="n"/></l><r>equatore<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>traitor<s n="n"/></l><r>traditore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>traitor<s n="n"/></l><r>traditore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>betrayer<s n="n"/></l><r>traditore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>equilibrist<s n="n"/></l><r>equilibrista<s n="n"/></r></p></e>
     <e r="LR"><p><l>equilibrist<s n="n"/></l><r>equilibrista<s n="n"/><s n="GD"/></r></p></e>
     <e r="LR"><p><l>equilibrium<s n="n"/></l><r>equilibrio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>balance<n></l><r>equilibrio<n><m></r></e>).-->
@@ -21107,7 +21115,7 @@
     <e><p><l>toothbrush<s n="n"/></l><r>spazzolino<g><b/>da<b/>denti</g><s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>toothpaste<s n="n"/></l><r>pasta<b/>dentifricia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>toothpaste<s n="n"/></l><r>dentifricio<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR" c="de un árbol"><p><l>top<s n="n"/></l><r>tazza<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>cup<n></l><r>tazza<n><f></r></e>).-->
+    <e r="LR" c="de un árbol"><p><l>top<s n="n"/></l><r>tazza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>topic<s n="n"/></l><r>tema<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>topic<g><b/>of<b/>conversation</g><s n="n"/></l><r>tema<g><b/>di<b/>conversazione</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>topography<s n="n"/></l><r>topografia<s n="n"/><s n="f"/></r></p></e>
