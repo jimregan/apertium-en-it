@@ -8593,6 +8593,7 @@
     <e><i>Lino<s n="np"/><s n="ant"/></i></e>
     <e><i>Linus<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Linux<s n="np"/><s n="al"/></l><r>Linux<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+    <e><p><l>Yahoo<s n="np"/><s n="al"/></l><r>Yahoo<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>Espanyol<s n="np"/><s n="al"/></l><r>Espanyol<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>Athletic<s n="np"/><s n="al"/></l><r>Athletic<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e><p><l>Betis<s n="np"/><s n="al"/></l><r>Betis<s n="np"/><s n="al"/><s n="m"/></r></p></e>
@@ -12384,8 +12385,8 @@
     <e><p><l>Avogadro<b/>number<s n="n"/></l><r>numero<g><b/>di<b/>Avogadro</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>income<b/>tax<s n="n"/></l><r>imposta<g><b/>sul<b/>reddito</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>BBC<s n="n"/><s n="acr"/></l><r>BBC<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
-    <e><p><l>IMF<s n="n"/><s n="acr"/></l><r>FMI<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
-    <e><p><l>PNV<s n="n"/><s n="acr"/></l><r>PNV<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>IMF<s n="n"/><s n="acr"/></l><r>FMI<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>PNV<s n="n"/><s n="acr"/></l><r>PNV<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
     <e><p><l>UA<s n="n"/><s n="acr"/></l><r>UA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>UGT<s n="n"/><s n="acr"/></l><r>UGT<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>www<s n="n"/><s n="acr"/></l><r>www<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
@@ -20327,6 +20328,7 @@
     <e r="LR"><p><l>carrier<s n="n"/></l><r>portatore<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>castling<s n="n"/></l><r>arrocco<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>carbohydrate<s n="n"/></l><r>carboidrato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>capsomer<s n="n"/></l><r>capsomero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>carboy<s n="n"/></l><r>damigiana<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>carovan<s n="n"/></l><r>carovana<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>carovan<s n="n"/></l><r>carrozzone<s n="n"/><s n="m"/></r></p></e>
@@ -20417,8 +20419,9 @@
     <e><p><l>revisor<s n="n"/></l><r>revisore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>auditor<s n="n"/></l><r>revisore<g><b/>dei<b/>conti</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>byte<s n="n"/></l><r>byte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>catalepsy<s n="n"/></l><r>catalessi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e r="RL"><p><l>corduroy<s n="n"/></l><r>corduroy<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
-    <e><p><l>cachemire<s n="n"/></l><r>cachemire<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>cashmere<s n="n"/></l><r>cachemire<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>bonus<s n="n"/></l><r>bonus<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>bikini<s n="n"/></l><r>bikini<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>bel<s n="n"/></l><r>bel<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -23432,6 +23435,9 @@
       ****************************** -->
     <e><p><l>get<g><b/>dark</g><s n="vblex"/></l><r>oscurare<s n="vblex"/></r></p></e>
     <e><p><l>house<s n="vblex"/></l><r>albergare<s n="vblex"/></r></p></e>
+    <e><p><l>quit<s n="vblex"/></l><r>smettere<s n="vblex"/></r></p></e>
+    <e r="LR">  <p><l>give<g><b/>up<b/>smoking</g><s n="vblex"/></l><r>smettere<g><b/>di<b/>fumare</g><s n="vblex"/></r></p></e>
+    <e>  <p><l>quit<g><b/>smoking</g><s n="vblex"/></l><r>smettere<g><b/>di<b/>fumare</g><s n="vblex"/></r></p></e>
     <e><p><l>breach<s n="vblex"/></l><r>infrangere<s n="vblex"/></r></p></e>
     <e><p><l>practice<s n="vblex"/></l><r>praticare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>reach<g><b/>for</g><s n="vblex"/></l><r>prendere<s n="vblex"/></r></p></e>

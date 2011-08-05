@@ -18882,7 +18882,7 @@
     <e lm="courtship"><i>courtship</i><par n="house__n"/>    </e>
     <e lm="courtyard"><i>courtyard</i><par n="house__n"/>    </e>
     <e lm="cousin"><i>cousin</i><par n="house__n"/>    </e>
-    <e lm="second<b/>cousin"><i>second<b/>cousin</i><par n="house__n"/>    </e>
+    <e lm="second cousin"><i>second<b/>cousin</i><par n="house__n"/>    </e>
     <e lm="cover"><i>cover</i><par n="house__n"/>    </e>
     <e lm="book cover"><i>book<b/>cover</i><par n="house__n"/>    </e>
     <e lm="book jacket"><i>book<b/>jacket</i><par n="house__n"/>    </e>
@@ -26092,6 +26092,9 @@
     <e lm="get hold of"><i>g</i><par n="g/et__vblex"/>      <p>        <l><b/>hold<b/>of</l><r><g><b/>hold<b/>of</g></r></p></e>
     <e lm="get dark"><i>g</i><par n="g/et__vblex"/>      <p>        <l><b/>dark</l><r><g><b/>dark</g></r></p></e>
     <e lm="give up"><i>g</i><par n="g/ive__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>up</l><r><g><b/>up</g></r></p></e>
+    <e lm="give up smoking"><i>g</i><par n="g/ive__vblex"/><p><l><b/>up<b/>smoking</l><r><g><b/>up<b/>smoking</g></r></p></e>
+    <e lm="quit" a="imaxinsoftware"><i>quit</i><par n="accept__vblex"/></e>
+    <e lm="quit smoking"><i>quit</i><par n="accept__vblex"/><p><l><b/>smoking</l><r><g><b/>smoking</g></r></p></e>
     <e lm="give back"><i>g</i><par n="g/ive__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>back</l><r><g><b/>back</g></r></p></e>
     <e lm="gain" a="doriua"><i>gain</i><par n="accept__vblex"/>    </e>
     <e lm="gallop"><i>gallop</i><par n="accept__vblex"/>    </e>
@@ -28406,6 +28409,7 @@
     <e lm="German Democratic Republic">	<i>German<b/>Democratic<b/>Republic</i> 	<par n="Linux__np"/>       </e>
     <e lm="Federal Republic of Germany">	<i>Federal<b/>Republic<b/>of<b/>Germany</i> 	<par n="Linux__np"/>       </e>
     <e lm="Facebook">	<i>Facebook</i> 	<par n="Linux__np"/>       </e>
+    <e lm="Yahoo">	<i>Yahoo</i> 	<par n="Linux__np"/>       </e>
     <e lm="Web 2.0">	<i>Web<b/>2.0</i> 	<par n="Linux__np"/>       </e>
     <e lm="St. James's Palace">	<i>St.<b/>James's<b/>Palace</i> 	<par n="Barcelona__np"/>       </e>
     <e lm="World War I">	<i>World<b/>War<b/>I</i> 	<par n="Linux__np"/>       </e>
