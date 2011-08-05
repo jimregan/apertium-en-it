@@ -12681,7 +12681,7 @@
     <e r="RL"><p><l>acidity<s n="n"/><s n="ND"/></l><r>acidità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>acidity<s n="n"/><s n="sg"/></l><r>acidità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>acidity<s n="n"/><s n="pl"/></l><r>acidità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e><p><l>acme<s n="n"/></l><r>apice<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>acme<s n="n"/></l><r>apice<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aconite<s n="n"/></l><r>aconito<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>acorn<s n="n"/></l><r>ghianda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>acoustics<s n="n"/></l><r>acustica<s n="n"/><s n="f"/></r></p></e>
@@ -14244,7 +14244,7 @@
     <e><p><l>blackthorn<s n="n"/></l><r>prugnolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>claustrophobia<s n="n"/></l><r>claustrofobia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>baton<s n="n"/></l><r>bastone<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>clave<s n="n"/></l><r>bastone<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>clave<s n="n"/></l><r>bastone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>clay<s n="n"/></l><r>argilla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cleaning<s n="n"/></l><r>pulizia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cleanup<s n="n"/></l><r>epurazione<s n="n"/><s n="f"/></r></p></e>
@@ -15209,6 +15209,7 @@
     <e><p><l>dissociation<s n="n"/></l><r>dissociazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dissolution<s n="n"/></l><r>dissoluzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>distance<s n="n"/></l><r>distanza<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>distance<s n="n"/></l><r>percorrenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>distillation<s n="n"/></l><r>distillazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>distinction<s n="n"/></l><r>distinzione<s n="n"/><s n="f"/></r></p></e>
     <e srl="distortion D"><p><l>distortion<s n="n"/></l><r>distorsione<s n="n"/><s n="f"/></r></p></e>
@@ -15330,10 +15331,11 @@
     <e><p><l>duel<s n="n"/></l><r>duello<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>duet<s n="n"/></l><r>duetto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>duke<s n="n"/></l><r>duca<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bagatelle<s n="n"/></l><r>bagattella<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dutchess<s n="n"/></l><r>duca<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>archduke<s n="n"/></l><r>arciduca<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>archdutchess<s n="n"/></l><r>arciduca<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>arthropode<s n="n"/></l><r>artropodo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>arthropod<s n="n"/></l><r>artropodo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>arachnoid<s n="n"/></l><r>aracnoide<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antrum<s n="n"/></l><r>antro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>apex<s n="n"/></l><r>apice<s n="n"/><s n="m"/></r></p></e>
@@ -16642,8 +16644,7 @@
     <e i="yes"><p><l>group<s n="n"/></l><r>gruppo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>cluster<n></l><r>gruppo<n><m></r></e>).-->
     <e><p><l>grouping<s n="n"/></l><r>raggruppazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>growth<s n="n"/></l><r>crescita<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>guarantee<s n="n"/></l><r>avallo<s n="n"/><s n="m"/></r></p></e>
-    <e i="yes"><p><l>guarantee<s n="n"/></l><r>garanzia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>assurance<n></l><r>garanzia<n><f></r></e>).-->
+    <e><p><l>guarantee<s n="n"/></l><r>avallo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>guard<b/>dog<s n="n"/></l><r>cane<g><b/>da<b/>guardia</g><s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>guard<b/>dog<s n="n"/></l><r>cane<g><b/>da<b/>guardia</g><s n="n"/></r></p></e>
     <e><p><l>guerrilla<b/>warfare<s n="n"/></l><r>guerriglia<s n="n"/><s n="f"/></r></p></e>
@@ -19485,6 +19486,7 @@
     <e><p><l>blastula<s n="n"/></l><r>blastula<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>breeze<s n="n"/></l><r>brezza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>brooch<s n="n"/></l><r>spilla<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>safety<b/>pin<s n="n"/></l><r>spilla<g><b/>di<b/>sicurezza</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>camphor<s n="n"/></l><r>canfora<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>canteen<s n="n"/></l><r>mensa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>canvas<s n="n"/></l><r>tela<s n="n"/><s n="f"/></r></p></e>
@@ -20396,7 +20398,7 @@
     <e><p><l>subjugation<s n="n"/></l><r>soggiogamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bicep<s n="n"/></l><r>bicipite<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>revisor<s n="n"/></l><r>revisore<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>auditor<s n="n"/></l><r>revisore<g><b/>dei<b/>conti<g/><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>auditor<s n="n"/></l><r>revisore<g><b/>dei<b/>conti</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>byte<s n="n"/></l><r>byte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>bikini<s n="n"/></l><r>bikini<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>bel<s n="n"/></l><r>bel<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -20748,7 +20750,8 @@
     <e><p><l>bryophyte<s n="n"/></l><r>briofita<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>butyl<s n="n"/></l><r>butile<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bond<s n="n"/></l><r>legame<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>bombardier<s n="n"/></l><r>bombardiere<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>bombardier<s n="n"/></l><r>bombardiere<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bomber<s n="n"/></l><r>bombardiere<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asteroid<s n="n"/></l><r>asteroide<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>autoclave<s n="n"/></l><r>autoclave<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bitumen<s n="n"/></l><r>bitume<s n="n"/><s n="m"/></r></p></e>

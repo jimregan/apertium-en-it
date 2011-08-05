@@ -18200,6 +18200,8 @@
     <e lm="boiler"><i>boiler</i><par n="house__n"/>    </e>
     <e lm="bomb"><i>bomb</i><par n="house__n"/>    </e>
     <e lm="bombardment"><i>bombardment</i><par n="house__n"/>    </e>
+    <e lm="bombardier"><i>bombardier</i><par n="house__n"/>    </e>
+    <e lm="galliard"><i>galliard</i><par n="house__n"/>    </e>
     <e lm="bomber"><i>bomber</i><par n="house__n"/>    </e>
     <e lm="bond" a="carmentano"><i>bond</i><par n="house__n"/>    </e>
     <e lm="bone"><i>bone</i><par n="house__n"/>    </e>
@@ -21297,6 +21299,7 @@
     <e lm="pill"><i>pill</i><par n="house__n"/>    </e>
     <e lm="pilot"><i>pilot</i><par n="house__n"/>    </e>
     <e lm="pin"><i>pin</i><par n="house__n"/>    </e>
+    <e lm="safety pin"><i>safety<b/>pin</i><par n="house__n"/>    </e>
     <e lm="pineapple"><i>pineapple</i><par n="house__n"/>    </e>
     <e lm="pink" a="carmentano"><i>pink</i><par n="house__n"/>    </e>
     <e lm="pioneer"><i>pioneer</i><par n="house__n"/>    </e>
@@ -22334,8 +22337,10 @@
     <e lm="stick"><i>stick</i><par n="house__n"/>    </e>
     <e lm="sticker"><i>sticker</i><par n="house__n"/>    </e>
     <e lm="stigma"><i>stigma</i><par n="schema__n"/>    </e>
+    <e lm="enigma"><i>enigma</i><par n="schema__n"/>    </e>
     <e lm="stimulation"><i>stimulation</i><par n="house__n"/>    </e>
     <e lm="stimulus"><i>stimulus</i><par n="access__n"/>    </e>
+    <e lm="paradox"><i>paradox</i><par n="access__n"/>    </e>
     <e lm="sting"><i>sting</i><par n="house__n"/>    </e>
     <e lm="stink"><i>stink</i><par n="house__n"/>    </e>
     <e lm="stink"><i>stink</i><par n="house__n"/>    </e>
@@ -29063,6 +29068,8 @@
     <e lm="arthralgia"><i>arthralgia</i><par n="house__n"/>     </e>
     <e lm="arthrology"><i>arthrolog</i><par n="bab/y__n"/>     </e>
     <e lm="arthropod"><i>arthropod</i><par n="house__n"/>     </e>
+    <e lm="bagatelle"><i>bagatelle</i><par n="house__n"/>    </e>
+    <e lm="hecatomb"><i>hecatomb</i><par n="house__n"/>    </e>
     <e lm="arthroscopy"><i>arthroscop</i><par n="bab/y__n"/>     </e>
     <e lm="articulatory"><i>articulatory</i><par n="expensive__adj"/>     </e>
     <e lm="artiodactyl"><i>artiodactyl</i><par n="house__n"/>     </e>
