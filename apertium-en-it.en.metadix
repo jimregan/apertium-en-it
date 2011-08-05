@@ -29355,7 +29355,8 @@
     <e lm="bronchus"><i>bronchus</i><par n="access__n"/>     </e>
     <e lm="brucite"><i>brucite</i><par n="house__n"/>     </e>
     <e lm="bruise"><i>bruise</i><par n="house__n"/>     </e>
-    <e lm="bryophite"><i>bryophite</i><par n="house__n"/>     </e>
+    <e lm="bryophyte"><i>bryophyte</i><par n="house__n"/>     </e>
+    <e lm="bryophite" r="LR"><p><l>bryophite</l><r>bryophyte</r></p><par n="house__n"/>     </e>
     <e lm="buckwheat"><i>buckwheat</i><par n="house__n"/>     </e>
     <e lm="buffoonery"><i>buffooner</i><par n="bab/y__n"/>     </e>
     <e lm="bulldozer"><i>bulldozer</i><par n="house__n"/>     </e>
@@ -34152,7 +34153,7 @@
     <e lm="oxytonic" a="greenbreen"><i>oxytonic</i><par n="expensive__adj"/></e>
     <e lm="paroxytone" a="greenbreen"><i>paroxytone</i><par n="expensive__adj"/></e>
     <e lm="proparoxytone" a="greenbreen"><i>proparoxytone</i><par n="expensive__adj"/></e>
-    <e lm="biceps" a="greenbreen"><i>biceps</i><par n="alms__n"/></e>
+    <e lm="bicep" a="greenbreen"><i>bicep</i><par n="house__n"/></e>
     <e lm="forceps" a="greenbreen"><i>forceps</i><par n="alms__n"/></e>
     <e lm="ironic" a="greenbreen"><i>ironic</i><par n="expensive__adj"/></e>
     <e lm="sermon" a="greenbreen"><i>sermon</i><par n="house__n"/></e>

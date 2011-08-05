@@ -86226,6 +86226,7 @@
     <e lm="trasgressione"><i>trasgression</i><par n="abbreviazion/e__n"/></e>
     <e lm="traslocazione"><i>traslocazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="tensione"><i>tension</i><par n="abbreviazion/e__n"/></e>
+    <e lm="autoclave"><i>autoclav</i><par n="abbreviazion/e__n"/></e>
     <e lm="testimone"><i>testimon</i><par n="albanes/e__n"/></e>
     <e lm="burrone"><i>burron</i><par n="abat/e__n"/></e>
     <e lm="monsone"><i>monson</i><par n="abat/e__n"/></e>
@@ -86237,6 +86238,11 @@
     <e lm="maglione"><i>maglion</i><par n="abat/e__n"/></e>
     <e lm="tampone"><i>tampon</i><par n="abat/e__n"/></e>
     <e lm="tifone"><i>tifon</i><par n="abat/e__n"/></e>
+    <e lm="butile"><i>butil</i><par n="abat/e__n"/></e>
+    <e lm="legame"><i>legam</i><par n="abat/e__n"/></e>
+    <e lm="bombardiere"><i>bombardier</i><par n="abat/e__n"/></e>
+    <e lm="bitume"><i>bitum</i><par n="abat/e__n"/></e>
+    <e lm="asteroide"><i>asteroid</i><par n="abat/e__n"/></e>
     <e lm="acrobata"><i>acrobat</i><par n="suicid/a__n"/></e>
     <e lm="cronista"><i>cronist</i><par n="suicid/a__n"/></e>
     <e lm="acrobazia"><i>acrobazi</i><par n="cas/a__n"/></e>
@@ -87667,6 +87673,9 @@
     <e lm="decentralizzazione"><i>decentralizzazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="decesso"><i>decess</i><par n="abbain/o__n"/></e>
     <e lm="decibel"><i>decibel</i><par n="albatros__n"/></e>
+    <e lm="bel"><i>bel</i><par n="albatros__n"/></e>
+    <e lm="becquerel"><i>becquerel</i><par n="albatros__n"/></e>
+    <e lm="audiphone"><i>audiphone</i><par n="albatros__n"/></e>
     <e lm="decisione"><i>decision</i><par n="abbreviazion/e__n"/></e>
     <e lm="declassamento"><i>declassament</i><par n="abbain/o__n"/></e>
     <e lm="decollo"><i>decoll</i><par n="abbain/o__n"/></e>
@@ -87688,6 +87697,7 @@
     <e lm="demografia"><i>demografi</i><par n="cas/a__n"/></e>
     <e lm="demolizione"><i>demolizion</i><par n="abbreviazion/e__n"/></e>
     <e lm="demone"><i>demon</i><par n="abat/e__n"/></e>
+    <e lm="bicipite"><i>bicipit</i><par n="abat/e__n"/></e>
     <e lm="denaro"><i>denar</i><par n="abbain/o__n"/></e>
     <e lm="denominazione"><i>denominazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="densità"><i>densità</i><par n="abilità__n"/></e>
@@ -89685,6 +89695,7 @@
     <e lm="pazzia"><i>pazzi</i><par n="cas/a__n"/></e>
     <e lm="pc"><i>pc</i><par n="albatros__n"/></e>
     <e lm="byte"><i>byte</i><par n="albatros__n"/></e>
+    <e lm="bikini"><i>bikini</i><par n="albatros__n"/></e>
     <e lm="bungalow"><i>bungalow</i><par n="albatros__n"/></e>
     <e lm="buffet"><i>buffet</i><par n="albatros__n"/></e>
     <e lm="boom"><i>boom</i><par n="albatros__n"/></e>
@@ -101117,6 +101128,7 @@
     <e lm="canfora"><i>canfor</i><par n="cas/a__n"/></e>
     <e lm="mensa"><i>mens</i><par n="cas/a__n"/></e>
     <e lm="tela"><i>tel</i><par n="cas/a__n"/></e>
+    <e lm="briofita"><i>briofit</i><par n="cas/a__n"/></e>
   </section>
   <section id="apostrophes" type="postblank">
 
