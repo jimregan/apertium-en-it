@@ -222,6 +222,8 @@
     <!-- ******************************
           group det_symbol
       ****************************** -->
+    <e><p><l>most<s n="det"/><s n="qnt"/><s n="sp"/></l><r>la<b/>maggioranza<b/>di<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>more<s n="det"/><s n="qnt"/><s n="sp"/></l><r>più<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>a<s n="det"/><s n="ind"/></l><r>un<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
@@ -23086,11 +23088,12 @@
     <e r="LR"><p><l>then<b/>and<b/>there<s n="adv"/></l><r>immediatamente<s n="adv"/></r></p></e><!--  autorestricted (<e><l>at<b/>a<b/>moment's<b/>notice<adv></l><r>immediatamente<adv></r></e>).-->
     <e><p><l>theoretically<s n="adv"/></l><r>teoricamente<s n="adv"/></r></p></e>
     <e r="RL"><p><l>there<s n="adv"/></l><r>là<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>there<s n="adv"/></l><r>ci<s n="adv"/></r></p></e>
     <e r="LR"><p><l>there<s n="adv"/></l><r>lì<s n="adv"/></r></p></e><!--  autorestricted (<e r="RL"><l>here<adv></l><r>lì<adv></r></e>).-->
-    <e r="LR"><p><l>there<b/>again<s n="adv"/></l><r>oltretutto<s n="adv"/></r></p></e><!--  autorestricted (<e><l>additionally<adv></l><r>oltretutto<adv></r></e>).-->
-    <e r="LR"><p><l>there<b/>and<b/>then<s n="adv"/></l><r>immediatamente<s n="adv"/></r></p></e><!--  autorestricted (<e><l>at<b/>a<b/>moment's<b/>notice<adv></l><r>immediatamente<adv></r></e>).-->
-    <e r="LR"><p><l>thereafter<s n="adv"/></l><r>dopo<s n="adv"/></r></p></e><!--  autorestricted (<e><l>after<adv></l><r>dopo<adv></r></e>).-->
-    <e r="LR"><p><l>thereby<s n="adv"/></l><r>così<s n="adv"/></r></p></e><!--  autorestricted (<e><l>like<b/>this<adv></l><r>così<adv></r></e>).-->
+    <e r="LR"><p><l>there<b/>again<s n="adv"/></l><r>oltretutto<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>there<b/>and<b/>then<s n="adv"/></l><r>immediatamente<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>thereafter<s n="adv"/></l><r>dopo<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>thereby<s n="adv"/></l><r>così<s n="adv"/></r></p></e>
     <e><p><l>this<b/>morning<s n="adv"/></l><r>questa<b/>mattina<s n="adv"/></r></p></e>
     <e r="RL"><p><l>this<b/>morning<s n="adv"/></l><r>stamane<s n="adv"/></r></p></e>
     <e r="RL"><p><l>this<b/>morning<s n="adv"/></l><r>stamattina<s n="adv"/></r></p></e>
@@ -23260,6 +23263,7 @@
       ****************************** -->
     <e><p><l>get<g><b/>dark</g><s n="vblex"/></l><r>oscurare<s n="vblex"/></r></p></e>
     <e><p><l>house<s n="vblex"/></l><r>albergare<s n="vblex"/></r></p></e>
+    <e><p><l>breach<s n="vblex"/></l><r>infrangere<s n="vblex"/></r></p></e>
     <e><p><l>practice<s n="vblex"/></l><r>praticare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>reach<g><b/>for</g><s n="vblex"/></l><r>prendere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>reinstate<s n="vblex"/></l><r>ristabilire<s n="vblex"/></r></p></e>
@@ -24061,7 +24065,7 @@
     <e r="LR"><p><l>enjoy<s n="vblex"/></l><r>piacere<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>enjoy<s n="vblex"/></l><r>usufruire<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>enlarge<s n="vblex"/></l><r>ampliare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>broaden<vblex></l><r>ampliare<vblex></r></e>).-->
-    <e r="LR"><p><l>enrol<s n="vblex"/></l><r>iscrivere<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>enrol<s n="vblex"/></l><r>iscrivere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>ensure<s n="vblex"/></l><r>assicurare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>assure<vblex></l><r>assicurare<vblex></r></e>).-->
     <e><p><l>enter<s n="vblex"/></l><r>introdurre<s n="vblex"/></r></p></e>
     <e><p><l>entertain<s n="vblex"/></l><r>intrattenere<s n="vblex"/></r></p></e>
@@ -25254,8 +25258,9 @@
       ****************************** -->
     <e r="LR"><p><l>any<s n="preadv"/></l><r>molto<s n="preadv"/></r></p></e>
     <e r="LR" c="comparacions"><p><l>as<s n="preadv"/></l><r>tanto<s n="preadv"/></r></p></e>
-    <e r="LR"><p><l>just<b/>as<s n="preadv"/></l><r>tanto<s n="preadv"/></r></p></e>
-    <e><p><l>so<s n="preadv"/></l><r>tanto<s n="preadv"/></r></p></e>
+    <e><p><l>just<b/>as<s n="preadv"/></l><r>tanto<s n="preadv"/></r></p></e>
+    <e r="RL"><p><l>just<s n="preadv"/></l><r>appena<s n="preadv"/></r></p></e>
+    <e><p><l>so<s n="preadv"/></l><r>così<s n="preadv"/></r></p></e>
     <e r="RL"><p><l>so<s n="preadv"/></l><r>talmente<s n="preadv"/></r></p></e>
     <e><p><l>more<s n="preadv"/></l><r>più<s n="preadv"/></r></p></e>
     <e><p><l>very<s n="preadv"/></l><r>molto<s n="preadv"/></r></p></e>
@@ -25399,6 +25404,7 @@
     <e r="RL" c="agafar-los - take them"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="RL" c="agafar-les - take them"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>lo<s n="prn"/><s n="enc"/><s n="p3"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>lo<s n="detnt"/></r></p></e>
     <e r="LR"><p><l>several<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></l><r>moltos<s n="prn"/><s n="tn"/><s n="GD"/><s n="pl"/></r></p></e>
     <e c="frases afirmatives"><p><l>some<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></l><r>alcuno<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
     <e r="RL" c="frases afirmatives"><p><l>some<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></l><r>alcuno<s n="prn"/><s n="tn"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>some<prn><tn><mf><pl></l><r>alcuno<prn><tn><m></r></e>).-->
@@ -26378,7 +26384,7 @@
     <e><p><l>ninety-three<b/>thousand<s n="num"/><s n="sp"/></l><r>novantatremila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>ninety-two<s n="num"/><s n="sp"/></l><r>novantadue<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>ninety-two<b/>thousand<s n="num"/><s n="sp"/></l><r>novantaduemila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><p><l>ninety<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>novantunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>ninety<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>novantunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>ninety<b/>thousand<s n="num"/><s n="sp"/></l><r>novantamila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>one<b/>hundred<s n="num"/><s n="sp"/></l><r>cento<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>seven<s n="num"/><s n="sp"/></l><r>sette<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -26428,6 +26434,7 @@
     <e><p><l>sixty<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>sessantunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>sixty<b/>thousand<s n="num"/><s n="sp"/></l><r>sessantamila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>ten<s n="num"/><s n="sp"/></l><r>dieci<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>ten<s n="num"/><s n="sp"/></l><r>decine<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>ten<b/>hundred<s n="num"/></l><r>mille<s n="num"/><s n="mf"/></r></p></e>
     <e><p><l>ten<b/>thousand<s n="num"/><s n="sp"/></l><r>diecimila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>thirteen<s n="num"/><s n="sp"/></l><r>tredici<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -26452,6 +26459,7 @@
     <e><p><l>thirty<b/>one<b/>thousand<s n="num"/><s n="sp"/></l><r>trentunomila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>thirty<b/>thousand<s n="num"/><s n="sp"/></l><r>trentamila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>thousand<s n="num"/></l><r>mille<s n="num"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>thousand<s n="num"/><s n="sp"/></l><r>mille<s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>three<s n="num"/><s n="sp"/></l><r>tre<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>three<b/>thousand<s n="num"/><s n="sp"/></l><r>tremila<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>twelve<s n="num"/><s n="sp"/></l><r>dodici<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
