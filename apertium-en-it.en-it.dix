@@ -18522,6 +18522,18 @@
     <e><p><l>chelicera<s n="n"/></l><r>chelicera<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chiropter<s n="n"/></l><r>chiroptera<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chlorenchyma<s n="n"/></l><r>collenchima<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>chondrocite<s n="n"/></l><r>condrocita<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>chou<s n="n"/></l><r>bignè<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e r="LR"><p><l>chancellor<s n="n"/></l><r>cancelliere<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>chancellor<s n="n"/></l><r>cancelliere<s n="n"/></r></p></e>
+    <e><p><l>charleston<s n="n"/></l><r>charleston<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>climax<s n="n"/></l><r>culmine<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>coach<s n="n"/></l><r>allenatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>coach<s n="n"/></l><r>allenatore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>collaborator<s n="n"/></l><r>collaboratore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>collaborator<s n="n"/></l><r>collaboratore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>colleague<s n="n"/></l><r>collega<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>colleague<s n="n"/></l><r>collega<s n="n"/></r></p></e>
     <e><p><l>outskirts<s n="n"/><s n="pl"/></l><r>periferia<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>outskirts<s n="n"/><s n="pl"/></l><r>periferia<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>ovary<s n="n"/></l><r>ovaia<s n="n"/><s n="f"/></r></p></e>
@@ -20319,6 +20331,8 @@
     <e r="LR"><p><l>solicitor<s n="n"/></l><r>avvocato<s n="n"/><s n="GD"/></r></p></e>
     <e i="yes"><p><l>solicitor<s n="n"/></l><r>avvocato<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>attorney<n></l><r>avvocato<n><m></r></e>).-->
     <e><p><l>solidification<s n="n"/></l><r>solidificazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>confetti<s n="n"/><s n="sg"/></l><r>coriandoli<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>confetti<s n="n"/><s n="pl"/></l><r>coriandoli<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e><p><l>build<s n="n"/></l><r>corporatura<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>soloist<s n="n"/></l><r>solista<s n="n"/></r></p></e>
     <e r="LR"><p><l>soloist<s n="n"/></l><r>solista<s n="n"/><s n="GD"/></r></p></e>
@@ -20326,6 +20340,7 @@
     <e r="LR"><p><l>cadet<s n="n"/></l><r>cadetto<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>builder<s n="n"/></l><r>costruttore<s n="n"/></r></p></e>
     <e r="LR"><p><l>builder<s n="n"/></l><r>costruttore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>constructor<s n="n"/></l><r>costruttore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>baboon<s n="n"/></l><r>babbuino<s n="n"/></r></p></e>
     <e r="LR"><p><l>baboon<s n="n"/></l><r>babbuino<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>carrier<s n="n"/></l><r>portatore<s n="n"/></r></p></e>
@@ -20429,6 +20444,9 @@
     <e><p><l>eye<b/>drop<s n="n"/></l><r>collirio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>auditor<s n="n"/></l><r>revisore<g><b/>dei<b/>conti</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>byte<s n="n"/></l><r>byte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>coulomb<s n="n"/></l><r>coulomb<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>colophon<s n="n"/></l><r>colophon<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>chorion<s n="n"/></l><r>corion<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>catalepsy<s n="n"/></l><r>catalessi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e r="RL"><p><l>corduroy<s n="n"/></l><r>corduroy<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>cashmere<s n="n"/></l><r>cachemire<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -20502,6 +20520,10 @@
     <e><p><l>hemistich<s n="n"/></l><r>emistichio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>examiner<s n="n"/></l><r>esaminatore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>examiner<s n="n"/></l><r>esaminatore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>compensator<s n="n"/></l><r>compensatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>compensator<s n="n"/></l><r>compensatore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>compiler<s n="n"/></l><r>esaminatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>compiler<s n="n"/></l><r>compilatore<s n="n"/></r></p></e>
     <e r="LR"><p><l>grammarian<s n="n"/></l><r>grammatico<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>grammarian<s n="n"/></l><r>grammatico<s n="n"/></r></p></e>
     <e r="RL"><p><l>furrier<s n="n"/></l><r>pellicciaio<s n="n"/></r></p></e>

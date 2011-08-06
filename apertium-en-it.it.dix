@@ -87076,6 +87076,7 @@
     <e lm="cameraman"><i>cameraman</i><par n="albatros__n"/></e>
     <e lm="camerata"><i>camerat</i><par n="suicid/a__n"/></e>
     <e lm="cameriere"><i>camerier</i><par n="infermier/e__n"/></e>
+    <e lm="cancelliere"><i>cancellier</i><par n="infermier/e__n"/></e>
     <e lm="accattone"><i>accatton</i><par n="infermier/e__n"/></e>
     <e lm="camicia"><i>camici</i><par n="cas/a__n"/></e>
     <e lm="camino"><i>camin</i><par n="abbain/o__n"/></e>
@@ -89436,6 +89437,7 @@
     <e lm="opinione"><i>opinion</i><par n="abbreviazion/e__n"/></e>
     <e lm="opponente"><i>opponent</i><par n="albanes/e__n"/></e>
     <e lm="oppositore"><i>opposit</i><par n="agricolt/ore__n"/></e>
+    <e lm="collaboratore"><i>collaborat</i><par n="agricolt/ore__n"/></e>
     <e lm="opuscolo"><i>opuscol</i><par n="abbain/o__n"/></e>
     <e lm="opzione"><i>opzion</i><par n="abbreviazion/e__n"/></e>
     <e lm="ora"><i>or</i><par n="cas/a__n"/></e>
@@ -89703,6 +89705,11 @@
     <e lm="pazzia"><i>pazzi</i><par n="cas/a__n"/></e>
     <e lm="pc"><i>pc</i><par n="albatros__n"/></e>
     <e lm="byte"><i>byte</i><par n="albatros__n"/></e>
+    <e lm="coulomb"><i>coulomb</i><par n="albatros__n"/></e>
+    <e lm="colophon"><i>colophon</i><par n="albatros__n"/></e>
+    <e lm="corion"><i>corion</i><par n="albatros__n"/></e>
+    <e lm="charleston"><i>charleston</i><par n="albatros__n"/></e>
+    <e lm="bignè"><i>bignè</i><par n="albatros__n"/></e>
     <e lm="corduroy"><i>corduroy</i><par n="albatros__n"/></e>
     <e lm="cachemire"><i>cachemire</i><par n="albatros__n"/></e>
     <e lm="bonus"><i>bonus</i><par n="albatros__n"/></e>
@@ -89770,6 +89777,7 @@
     <e lm="pedofilo"><i>pedofil</i><par n="abbain/o__n"/></e>
     <e lm="poliedro"><i>poliedr</i><par n="abbain/o__n"/></e>
     <e lm="pedone"><i>pedon</i><par n="abat/e__n"/></e>
+    <e lm="culmine"><i>culmin</i><par n="abat/e__n"/></e>
     <e lm="revisore"><i>revisor</i><par n="abat/e__n"/></e>
     <e lm="revisore dei conti"><i>revisor</i><par n="abat/e__n"/><p><l><b/>dei<b/>conti</l><r><g><b/>dei<b/>conti</g></r></p></e>
     <e lm="amiloide"><i>amiloid</i><par n="abat/e__n"/></e>
@@ -89844,6 +89852,8 @@
     <e lm="pesce"><i>pesc</i><par n="abat/e__n"/></e>
     <e lm="pesca"><i>pesc</i><par n="tasc/a__n"/></e>
     <e lm="pescatore"><i>pescat</i><par n="agricolt/ore__n"/></e>
+    <e lm="compensatore"><i>compensat</i><par n="agricolt/ore__n"/></e>
+    <e lm="compilatore"><i>compilat</i><par n="agricolt/ore__n"/></e>
     <e lm="costruttore"><i>costrutt</i><par n="agricolt/ore__n"/></e>
     <e lm="inventore"><i>invent</i><par n="agricolt/ore__n"/></e>
     <e lm="riformatore"><i>riformat</i><par n="agricolt/ore__n"/></e>
@@ -90570,6 +90580,7 @@
     <e lm="sbocco"><i>sbocc</i><par n="fung/o__n"/></e>
     <e lm="scala"><i>scal</i><par n="cas/a__n"/></e>
     <e lm="scacchi"><i>scacchi</i><par n="scacchi__n"/></e>
+    <e lm="coriandoli"><i>coriandoli</i><par n="scacchi__n"/></e>
     <e lm="metri sul livello del mare"><i>metri<b/>sul<b/>livello<b/>del<b/>mare</i><par n="scacchi__n"/></e>
     <e lm="metri sopra il livello del mare"><i>metri<b/>sopra<b/>il<b/>livello<b/>del<b/>mare</i><par n="scacchi__n"/></e>
     <e lm="postumi della sbornia"><i>postumi<b/>della<b/>sbornia</i><par n="scacchi__n"/></e>
@@ -91065,6 +91076,7 @@
     <e lm="chelicera"><i>chelicer</i><par n="autom/a__n"/></e>
     <e lm="chiroptera"><i>chiropter</i><par n="autom/a__n"/></e>
     <e lm="collenchima"><i>collenchim</i><par n="autom/a__n"/></e>
+    <e lm="condrocita"><i>condrocit</i><par n="autom/a__n"/></e>
     <e lm="traumatologia"><i>traumatologi</i><par n="cas/a__n"/></e>
     <e lm="trave"><i>trav</i><par n="abbreviazion/e__n"/></e>
     <e lm="traverso"><i>travers</i><par n="abbain/o__n"/></e>
@@ -100923,6 +100935,7 @@
     <e lm="piega"><i>pieg</i><par n="tasc/a__n"/></e>
     <e lm="stecca"><i>stecc</i><par n="tasc/a__n"/></e>
     <e lm="stratega"><i>strateg</i><par n="strateg/a__n"/></e>
+    <e lm="collega"><i>colleg</i><par n="strateg/a__n"/></e>
     <e lm="acciaieria"><i>acciaieri</i><par n="cas/a__n"/></e>
     <e lm="acetosa"><i>acetos</i><par n="cas/a__n"/></e>
     <e lm="aia"><i>ai</i><par n="cas/a__n"/></e>
