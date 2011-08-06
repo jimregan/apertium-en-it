@@ -89341,12 +89341,18 @@
     <e lm="nitrogeno"><i>nitrogen</i><par n="abbain/o__n"/></e>
     <e lm="nobiltà"><i>nobiltà</i><par n="abilità__n"/></e>
     <e lm="noce"><i>noc</i><par n="abbreviazion/e__n"/></e>
+    <e lm="noce di cocco"><i>noc</i><par n="abbreviazion/e__n"/><p><l><b/>di<b/>cocco</l><r><g><b/>di<b/>cocco</g></r></p></e>
+    <e lm="cardioide"><i>cardioid</i><par n="abbreviazion/e__n"/></e>
+    <e lm="corrosione"><i>corrosion</i><par n="abbreviazion/e__n"/></e>
     <e lm="nocciola"><i>nocciol</i><par n="cas/a__n"/></e>
     <e lm="nocciolo"><i>nocciol</i><par n="abbain/o__n"/></e>
     <e lm="noccioleto"><i>nocciolet</i><par n="abbain/o__n"/></e>
     <e lm="nodo"><i>nod</i><par n="abbain/o__n"/></e>
     <e lm="nome"><i>nom</i><par n="abat/e__n"/></e>
     <e lm="nomade"><i>nomad</i><par n="albanes/e__n"/></e>
+    <e lm="concorrente"><i>concorrent</i><par n="albanes/e__n"/></e>
+    <e lm="consulente"><i>consulent</i><par n="albanes/e__n"/></e>
+    <e lm="corrispondente"><i>corrispondent</i><par n="albanes/e__n"/></e>
     <e lm="nomenclatura"><i>nomenclatur</i><par n="cas/a__n"/></e>
     <e lm="nomina"><i>nomin</i><par n="cas/a__n"/></e>
     <e lm="nomination"><i>nomination</i><par n="abilità__n"/></e>
@@ -90617,6 +90623,11 @@
     <e lm="sciarpa"><i>sciarp</i><par n="cas/a__n"/></e>
     <e lm="sciattezza"><i>sciattezz</i><par n="cas/a__n"/></e>
     <e lm="sciatore"><i>sciat</i><par n="agricolt/ore__n"/></e>
+    <e lm="creditore"><i>credit</i><par n="agricolt/ore__n"/></e>
+    <e lm="creatore"><i>creat</i><par n="agricolt/ore__n"/></e>
+    <e lm="coordinatore"><i>coordinat</i><par n="agricolt/ore__n"/></e>
+    <e lm="trasportatore"><i>trasportat</i><par n="agricolt/ore__n"/></e>
+    <e lm="convertitore"><i>convertit</i><par n="agricolt/ore__n"/></e>
     <e lm="scienza"><i>scienz</i><par n="cas/a__n"/></e>
     <e lm="scienziato"><i>scienziat</i><par n="bambin/o__n"/></e>
     <e lm="scimmia"><i>scimmi</i><par n="cas/a__n"/></e>
@@ -101177,6 +101188,75 @@
     <e lm="mensa"><i>mens</i><par n="cas/a__n"/></e>
     <e lm="tela"><i>tel</i><par n="cas/a__n"/></e>
     <e lm="briofita"><i>briofit</i><par n="cas/a__n"/></e>
+    <e lm="caviale"><i>cavial</i><par n="abat/e__n"/></e>
+    <e lm="clamore"><i>clamor</i><par n="abat/e__n"/></e>
+    <e lm="coefficiente"><i>coefficient</i><par n="abat/e__n"/></e>
+    <e lm="colloide"><i>colloid</i><par n="abat/e__n"/></e>
+    <e lm="comunicatore"><i>comunicat</i><par n="agricolt/ore__n"/></e>
+    <e lm="connettore"><i>connettor</i><par n="abat/e__n"/></e>
+    <e lm="copale"><i>copal</i><par n="abat/e__n"/></e>
+    <e lm="cortisone"><i>cortison</i><par n="abat/e__n"/></e>
+    <e lm="carburo"><i>carbur</i><par n="abbain/o__n"/></e>
+    <e lm="garofano"><i>garofan</i><par n="abbain/o__n"/></e>
+    <e lm="amento"><i>ament</i><par n="abbain/o__n"/></e>
+    <e lm="cappellano"><i>cappellan</i><par n="abbain/o__n"/></e>
+    <e lm="zigomo"><i>zigom</i><par n="abbain/o__n"/></e>
+    <e lm="pulcino"><i>pulcin</i><par n="abbain/o__n"/></e>
+    <e lm="cloruro"><i>clorur</i><par n="abbain/o__n"/></e>
+    <e lm="cronografo"><i>cronograf</i><par n="abbain/o__n"/></e>
+    <e lm="cinabro"><i>cinabr</i><par n="abbain/o__n"/></e>
+    <e lm="cladismo"><i>cladism</i><par n="abbain/o__n"/></e>
+    <e lm="clavicordo"><i>clavicord</i><par n="abbain/o__n"/></e>
+    <e lm="cobalto"><i>cobalt</i><par n="abbain/o__n"/></e>
+    <e lm="bozzolo"><i>bozzol</i><par n="abbain/o__n"/></e>
+    <e lm="codicillo"><i>codicill</i><par n="abbain/o__n"/></e>
+    <e lm="crollo"><i>croll</i><par n="abbain/o__n"/></e>
+    <e lm="colonnato"><i>colonnat</i><par n="abbain/o__n"/></e>
+    <e lm="colorimetro"><i>colorimetr</i><par n="abbain/o__n"/></e>
+    <e lm="commissariato"><i>commissariat</i><par n="abbain/o__n"/></e>
+    <e lm="condizionamento"><i>condizionament</i><par n="abbain/o__n"/></e>
+    <e lm="consonantismo"><i>consonantism</i><par n="abbain/o__n"/></e>
+    <e lm="disprezzo"><i>disprezz</i><par n="abbain/o__n"/></e>
+    <e lm="raffreddamento"><i>raffreddament</i><par n="abbain/o__n"/></e>
+    <e lm="coriandolo"><i>coriandol</i><par n="abbain/o__n"/></e>
+    <e lm="fiordaliso"><i>fiordalis</i><par n="abbain/o__n"/></e>
+    <e lm="credo"><i>cred</i><par n="abbain/o__n"/></e>
+    <e lm="cloroformio"><i>cloroformi</i><par n="abbagli/o__n"/></e>
+    <e lm="circumcerchio"><i>circumcerchi</i><par n="abbagli/o__n"/></e>
+    <e lm="colloquio"><i>colloqui</i><par n="abbagli/o__n"/></e>
+    <e lm="corollario"><i>corollari</i><par n="abbagli/o__n"/></e>
+    <e lm="controspionaggio"><i>controspionaggi</i><par n="abbagli/o__n"/></e>
+    <e lm="controesempio"><i>controesempi</i><par n="abbagli/o__n"/></e>
+    <e lm="crematorio"><i>crematori</i><par n="abbagli/o__n"/></e>
+    <e lm="equipaggio"><i>equipaggi</i><par n="abbagli/o__n"/></e>
+    <e lm="colica"><i>colic</i><par n="tasc/a__n"/></e>
+    <e lm="capsula"><i>capsul</i><par n="cas/a__n"/></e>
+    <e lm="casta"><i>cast</i><par n="cas/a__n"/></e>
+    <e lm="catacomba"><i>catacomb</i><par n="cas/a__n"/></e>
+    <e lm="cantina"><i>cantin</i><par n="cas/a__n"/></e>
+    <e lm="certezza"><i>certezz</i><par n="cas/a__n"/></e>
+    <e lm="scacchiera"><i>scacchier</i><par n="cas/a__n"/></e>
+    <e lm="porcellana"><i>porcellan</i><par n="cas/a__n"/></e>
+    <e lm="cicala"><i>cical</i><par n="cas/a__n"/></e>
+    <e lm="cittadella"><i>cittadell</i><par n="cas/a__n"/></e>
+    <e lm="vongola"><i>vongol</i><par n="cas/a__n"/></e>
+    <e lm="chiarezza"><i>chiarezz</i><par n="cas/a__n"/></e>
+    <e lm="clavicola"><i>clavicol</i><par n="cas/a__n"/></e>
+    <e lm="climogramma"><i>climogramm</i><par n="cas/a__n"/></e>
+    <e lm="zolla"><i>zoll</i><par n="cas/a__n"/></e>
+    <e lm="coda"><i>cod</i><par n="cas/a__n"/></e>
+    <e lm="composta"><i>compost</i><par n="cas/a__n"/></e>
+    <e lm="conduttanza"><i>conduttanz</i><par n="cas/a__n"/></e>
+    <e lm="congruenza"><i>congruenz</i><par n="cas/a__n"/></e>
+    <e lm="contesa"><i>contes</i><par n="cas/a__n"/></e>
+    <e lm="coordinata"><i>coordinat</i><par n="cas/a__n"/></e>
+    <e lm="copula"><i>copul</i><par n="cas/a__n"/></e>
+    <e lm="cornea"><i>corne</i><par n="cas/a__n"/></e>
+    <e lm="corolla"><i>coroll</i><par n="cas/a__n"/></e>
+    <e lm="corvetta"><i>corvett</i><par n="cas/a__n"/></e>
+    <e lm="controffensiva"><i>controffensiv</i><par n="cas/a__n"/></e>
+    <e lm="coxa"><i>cox</i><par n="cas/a__n"/></e>
+    <e lm="culla"><i>cull</i><par n="cas/a__n"/></e>
   </section>
   <section id="apostrophes" type="postblank">
 

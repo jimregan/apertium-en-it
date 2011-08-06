@@ -19229,7 +19229,8 @@
     <e r="RL"><p><l>priority<s n="n"/><s n="ND"/></l><r>priorità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>priority<s n="n"/><s n="sg"/></l><r>priorità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>priority<s n="n"/><s n="pl"/></l><r>priorità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>prison<s n="n"/></l><r>prigione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>jail<n></l><r>prigione<n><f></r></e>).-->
+    <e r="LR"><p><l>prison<s n="n"/></l><r>prigione<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>captive<s n="n"/></l><r>prigioniero<s n="n"/><s n="GD"/></r></p></e>
     <e r="LR"><p><l>prisoner<s n="n"/></l><r>prigioniero<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>prisoner<s n="n"/></l><r>prigioniero<s n="n"/></r></p></e>
     <e r="RL"><p><l>prisoner<s n="n"/></l><r>recluso<s n="n"/></r></p></e>
@@ -20343,9 +20344,22 @@
     <e r="LR"><p><l>constructor<s n="n"/></l><r>costruttore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>baboon<s n="n"/></l><r>babbuino<s n="n"/></r></p></e>
     <e r="LR"><p><l>baboon<s n="n"/></l><r>babbuino<s n="n"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>creator<s n="n"/></l><r>creatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>creator<s n="n"/></l><r>creatore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>creditor<s n="n"/></l><r>creditore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>creditor<s n="n"/></l><r>creditore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>coordinator<s n="n"/></l><r>coordinatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>coordinator<s n="n"/></l><r>coordinatore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>conveyor<s n="n"/></l><r>trasportatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>transporter<s n="n"/></l><r>trasportatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>transporter<s n="n"/></l><r>trasportatore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>converter<s n="n"/></l><r>convertitore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>converter<s n="n"/></l><r>convertitore<s n="n"/></r></p></e>
     <e r="RL"><p><l>carrier<s n="n"/></l><r>portatore<s n="n"/></r></p></e>
     <e r="LR"><p><l>carrier<s n="n"/></l><r>portatore<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>castling<s n="n"/></l><r>arrocco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>coconut<s n="n"/></l><r>noce<g><b/>di<b/>cocco</g><s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>checkmate<s n="n"/></l><r>scacco<b/>matto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>carbohydrate<s n="n"/></l><r>carboidrato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>capsomer<s n="n"/></l><r>capsomero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>carboy<s n="n"/></l><r>damigiana<s n="n"/><s n="f"/></r></p></e>
@@ -26376,6 +26390,82 @@
     <e><p><l>legion<s n="n"/></l><r>legione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>omission<s n="n"/></l><r>omissione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>perversion<s n="n"/></l><r>perversione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>capsule<s n="n"/></l><r>capsula<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>captive<s n="n"/></l><r>prigioniero<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>carbide<s n="n"/></l><r>carburo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cardioid<s n="n"/></l><r>cardioide<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>carnation<s n="n"/></l><r>garofano<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>caste<s n="n"/></l><r>casta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>catacomb<s n="n"/></l><r>catacomba<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>catkin<s n="n"/></l><r>amento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>caviar<s n="n"/></l><r>caviale<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cellar<s n="n"/></l><r>cantina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>certainty<s n="n"/></l><r>certezza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>chaplain<s n="n"/></l><r>cappellano<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cheekbone<s n="n"/></l><r>zigomo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>chessboard<s n="n"/></l><r>scacchiera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>chick<s n="n"/></l><r>pulcino<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>china<s n="n"/></l><r>porcellana<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>chloride<s n="n"/></l><r>cloruro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>chloroform<s n="n"/></l><r>cloroformio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>chronograph<s n="n"/></l><r>cronografo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cicada<s n="n"/></l><r>cicala<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cinnabar<s n="n"/></l><r>cinabro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>circumcentre<s n="n"/></l><r>circumcerchio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>citadel<s n="n"/></l><r>cittadella<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cladism<s n="n"/></l><r>cladismo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>clam<s n="n"/></l><r>vongola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>clamour<s n="n"/></l><r>clamore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>clarity<s n="n"/></l><r>chiarezza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>clavichord<s n="n"/></l><r>clavicordo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>clavicle<s n="n"/></l><r>clavicola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>climogram<s n="n"/></l><r>climogramma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>clod<s n="n"/></l><r>zolla<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cobalt<s n="n"/></l><r>cobalto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cocoon<s n="n"/></l><r>bozzolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>coda<s n="n"/></l><r>coda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>codicil<s n="n"/></l><r>codicillo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>coefficient<s n="n"/></l><r>coefficiente<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>colic<s n="n"/></l><r>colica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>collapse<s n="n"/></l><r>crollo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>colloid<s n="n"/></l><r>colloide<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>colloquium<s n="n"/></l><r>colloquio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>colonnade<s n="n"/></l><r>colonnato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>colorimeter<s n="n"/></l><r>colorimetro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>commissariat<s n="n"/></l><r>commissariato<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>communicator<s n="n"/></l><r>comunicatore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>communicator<s n="n"/></l><r>comunicatore<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>competitor<s n="n"/></l><r>concorrente<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>compote<s n="n"/></l><r>composta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>conditioning<s n="n"/></l><r>condizionamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>conductance<s n="n"/></l><r>conduttanza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>congruence<s n="n"/></l><r>congruenza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>connector<s n="n"/></l><r>connettore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>consonantism<s n="n"/></l><r>consonantismo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>consultant<s n="n"/></l><r>consulente<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>contempt<s n="n"/></l><r>disprezzo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>contention<s n="n"/></l><r>contesa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cooling<s n="n"/></l><r>raffreddamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>coordinate<s n="n"/></l><r>coordinata<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>copal<s n="n"/></l><r>copale<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>copula<s n="n"/></l><r>copula<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>coriander<s n="n"/></l><r>coriandolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cornea<s n="n"/></l><r>cornea<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cornflower<s n="n"/></l><r>fiordaliso<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>corolla<s n="n"/></l><r>corolla<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>corollary<s n="n"/></l><r>corollario<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>correspondent<s n="n"/></l><r>corrispondente<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>corrosion<s n="n"/></l><r>corrosione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cortisone<s n="n"/></l><r>cortisone<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>corvette<s n="n"/></l><r>corvetta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>counterespionage<s n="n"/></l><r>controspionaggio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>counterexample<s n="n"/></l><r>controesempio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>counteroffensive<s n="n"/></l><r>controffensiva<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>coxa<s n="n"/></l><r>coxa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cradle<s n="n"/></l><r>culla<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>creed<s n="n"/></l><r>credo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>crematory<s n="n"/></l><r>crematorio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>crew<s n="n"/></l><r>equipaggio<s n="n"/><s n="m"/></r></p></e>
 
     <!-- ******************************
           group ij_symbol
