@@ -14653,6 +14653,8 @@
     <e><p><l>copartnership<s n="n"/></l><r>compartecipazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>copolymer<s n="n"/></l><r>copolimero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>copper<s n="n"/></l><r>rame<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>forging<s n="n"/></l><r>forgiatura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>coppersmithing<s n="n"/></l><r>forgiatura<g><b/>del<b/>rame</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>coprecipitation<s n="n"/></l><r>coprecipitazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>coprophagy<s n="n"/></l><r>coprofagia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>copulation<s n="n"/></l><r>copulazione<s n="n"/><s n="f"/></r></p></e>
@@ -16394,6 +16396,7 @@
     <e><p><l>syrup<s n="n"/></l><r>sciroppo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tadpole<s n="n"/></l><r>girino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tailor<s n="n"/></l><r>sarto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>limb<s n="n"/></l><r>arto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>talc<s n="n"/></l><r>talco<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tale<s n="n"/></l><r>racconto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tallow<s n="n"/></l><r>sego<s n="n"/><s n="m"/></r></p></e>
@@ -18515,7 +18518,10 @@
     <e><p><l>outcome<s n="n"/></l><r>risultato<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>outlay<s n="n"/></l><r>costo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>outline<s n="n"/></l><r>abbozzo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>output<s n="n"/></l><r>produzione<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>output<s n="n"/></l><r>produzione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>chelicera<s n="n"/></l><r>chelicera<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>chiropter<s n="n"/></l><r>chiroptera<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>chlorenchyma<s n="n"/></l><r>collenchima<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>outskirts<s n="n"/><s n="pl"/></l><r>periferia<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>outskirts<s n="n"/><s n="pl"/></l><r>periferia<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>ovary<s n="n"/></l><r>ovaia<s n="n"/><s n="f"/></r></p></e>
@@ -18558,11 +18564,9 @@
     <e r="LR"><p><l>pail<s n="n"/></l><r>cubo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>bin<n></l><r>cubo<n><m></r></e>).-->
     <e><p><l>pain<s n="n"/></l><r>dolore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>paint<s n="n"/></l><r>vernice<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>paint<s n="n"/></l><r>prodotto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>paint<n></l><r>vernice<n><f></r></e>).-->
     <e r="LR"><p><l>painter<s n="n"/></l><r>pittore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>painter<s n="n"/></l><r>pittore<s n="n"/></r></p></e>
-    <e r="LR"><p><l>painting<s n="n"/></l><r>vernice<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>paint<n></l><r>vernice<n><f></r></e>).-->
-    <e i="yes"><p><l>painting<s n="n"/></l><r>prodotto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>paint<n></l><r>prodotto<n><m></r></e>).-->
+    <e><p><l>painting<s n="n"/></l><r>pittura<s n="n"/><s n="f"/></r></p></e>
     <e c="un par de"><p><l>pair<s n="n"/><s n="sg"/></l><r>paio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e c="un par de"><p><l>pair<s n="n"/><s n="pl"/></l><r>paio<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>pakistani<s n="n"/></l><r>pakistano<s n="n"/></r></p></e>
@@ -19233,11 +19237,11 @@
     <e><p><l>proclamation<s n="n"/></l><r>proclamazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>procrastination<s n="n"/></l><r>procrastinazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>procreation<s n="n"/></l><r>riproduzione<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>produce<s n="n"/></l><r>prodotto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>paint<n></l><r>prodotto<n><m></r></e>).-->
+    <e r="LR"><p><l>produce<s n="n"/></l><r>prodotto<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>producer<s n="n"/></l><r>produttore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>producer<s n="n"/></l><r>produttore<s n="n"/></r></p></e>
-    <e r="LR"><p><l>product<s n="n"/></l><r>prodotto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>paint<n></l><r>prodotto<n><m></r></e>).-->
-    <e r="LR"><p><l>production<s n="n"/></l><r>produzione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>output<n></l><r>produzione<n><f></r></e>).-->
+    <e><p><l>product<s n="n"/></l><r>prodotto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>production<s n="n"/></l><r>produzione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>productivity<s n="n"/><s n="sg"/></l><r>produttività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>productivity<s n="n"/><s n="pl"/></l><r>produttività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>productivity<s n="n"/><s n="ND"/></l><r>produttività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -20250,6 +20254,7 @@
     <e><p><l>sling<s n="n"/></l><r>imbracatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>slip<s n="n"/></l><r>scivolata<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>slogan<s n="n"/></l><r>slogan<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>catchword<s n="n"/></l><r>slogan<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>slope<s n="n"/></l><r>pendenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>slug<s n="n"/></l><r>lumaca<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>slump<s n="n"/></l><r>recessione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>recession<n></l><r>recessione<n><f></r></e>).-->
@@ -20330,6 +20335,10 @@
     <e><p><l>capsomer<s n="n"/></l><r>capsomero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>carboy<s n="n"/></l><r>damigiana<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>caravan<s n="n"/></l><r>carovana<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>coxa<s n="n"/></l><r>coxa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>crankshaft<s n="n"/></l><r>albero<g><b/>a<b/>gomiti</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>congressman<s n="n"/></l><r>membro<g><b/>del<b/>Congresso</g><s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>congresswoman<s n="n"/></l><r>membro<g><b/>del<b/>Congresso</g><s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>caravan<s n="n"/></l><r>carrozzone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>burner<s n="n"/></l><r>bruciatore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>solstice<s n="n"/></l><r>solstizio<s n="n"/><s n="m"/></r></p></e>
@@ -23103,6 +23112,7 @@
     <e><p><l>quantitatively<s n="adv"/></l><r>quantitativamente<s n="adv"/></r></p></e>
     <e r="LR"><p><l>quick<s n="adv"/></l><r>rapidamente<s n="adv"/></r></p></e>
     <e><p><l>quickly<s n="adv"/></l><r>rapidamente<s n="adv"/></r></p></e>
+    <e><p><l>distally<s n="adv"/></l><r>distalmente<s n="adv"/></r></p></e>
     <e r="RL"><p><l>quickly<s n="adv"/></l><r>velocemente<s n="adv"/></r></p></e>
     <e><p><l>quietly<s n="adv"/></l><r>tranquillamente<s n="adv"/></r></p></e>
     <e r="LR" c="no preadverbi"><p><l>quite<b/>a<b/>lot<s n="adv"/></l><r>abbastanza<s n="adv"/></r></p></e><!--  autorestricted (<e><l>enough<adv></l><r>abbastanza<adv></r></e>).-->

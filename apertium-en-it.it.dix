@@ -89075,12 +89075,16 @@
     <e lm="melanzana"><i>melanzan</i><par n="cas/a__n"/></e>
     <e lm="melassa"><i>melass</i><par n="cas/a__n"/></e>
     <e lm="melodia"><i>melodi</i><par n="cas/a__n"/></e>
+    <e lm="forgiatura"><i>forgiatur</i><par n="cas/a__n"/></e>
+    <e lm="forgiatura del rame"><i>forgiatur</i><par n="cas/a__n"/><p><l><b/>del<b/>rame</l><r><g><b/>del<b/>rame</g></r></p></e>
     <e lm="melodramma"><i>melodramm</i><par n="autom/a__n"/></e>
     <e lm="melograno"><i>melogran</i><par n="abbain/o__n"/></e>
     <e lm="membro"><i>membr</i><par n="abbain/o__n"/></e>
     <e lm="membro del parlamento"><i>membr</i><par n="abbain/o__n"/><p><l><b/>del<b/>parlamento</l><r><g><b/>del<b/>parlamento</g></r></p></e>
+    <e lm="membro del Congresso"><i>membr</i><par n="abbain/o__n"/><p><l><b/>del<b/>Congresso</l><r><g><b/>del<b/>Congresso</g></r></p></e>
     <e lm="membro di equipaggio"><i>membr</i><par n="abbain/o__n"/><p><l><b/>di<b/>equipaggio</l><r><g><b/>di<b/>equipaggio</g></r></p></e>
     <e lm="membro del Parlamento Europeo"><i>membr</i><par n="abbain/o__n"/><p><l><b/>del<b/>Parlamento<b/>Europeo</l><r><g><b/>del<b/>Parlamento<b/>Europeo</g></r></p></e>
+    <e lm="albero a gomiti"><i>alber</i><par n="abbain/o__n"/><p><l><b/>a<b/>gomiti</l><r><g><b/>a<b/>gomiti</g></r></p></e>
     <e lm="membrana"><i>membran</i><par n="cas/a__n"/></e>
     <e lm="memoria"><i>memori</i><par n="cas/a__n"/></e>
     <e lm="mente"><i>ment</i><par n="abbreviazion/e__n"/></e>
@@ -90732,6 +90736,7 @@
     <e lm="società"><i>società</i><par n="abilità__n"/></e>
     <e lm="sociologo"><i>sociolog</i><par n="cosmetic/o__n"/></e>
     <e lm="sociologia"><i>sociologi</i><par n="cas/a__n"/></e>
+    <e lm="pittura"><i>pittur</i><par n="cas/a__n"/></e>
     <e lm="sodio"><i>sodi</i><par n="abbain/o__n"/></e>
     <e lm="sodomia"><i>sodomi</i><par n="cas/a__n"/></e>
     <e lm="software"><i>software</i><par n="albatros__n"/></e>
@@ -91057,6 +91062,9 @@
     <e lm="trattore"><i>trattor</i><par n="abat/e__n"/></e>
     <e lm="trauma"><i>traum</i><par n="autom/a__n"/></e>
     <e lm="fantasma"><i>fantasm</i><par n="autom/a__n"/></e>
+    <e lm="chelicera"><i>chelicer</i><par n="autom/a__n"/></e>
+    <e lm="chiroptera"><i>chiropter</i><par n="autom/a__n"/></e>
+    <e lm="collenchima"><i>collenchim</i><par n="autom/a__n"/></e>
     <e lm="traumatologia"><i>traumatologi</i><par n="cas/a__n"/></e>
     <e lm="trave"><i>trav</i><par n="abbreviazion/e__n"/></e>
     <e lm="traverso"><i>travers</i><par n="abbain/o__n"/></e>
@@ -95261,6 +95269,7 @@
     <e lm="in qualsiasi momento"><i>in<b/>qualsiasi<b/>momento</i><par n="ieri__adv"/></e>
     <e lm="in un sol colpo"><i>in<b/>un<b/>sol<b/>colpo</i><par n="ieri__adv"/></e>
     <e lm="goffamente"><i>goffamente</i><par n="ieri__adv"/></e>
+    <e lm="distalmente"><i>distalmente</i><par n="ieri__adv"/></e>
     <e lm="a breve termine"><i>a<b/>breve<b/>termine</i><par n="ieri__adv"/></e>
     <e lm="a caso"><i>a<b/>caso</i><par n="ieri__adv"/></e>
     <e lm="a cielo aperto"><i>a<b/>cielo<b/>aperto</i><par n="ieri__adv"/></e>
@@ -96149,6 +96158,8 @@
     <e lm="ballerino esotico"><p><l>ballerine<b/>esotiche</l><r>ballerino<b/>esotico<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="fuso orario"><p><l>fuso<b/>orario</l><r>fuso<b/>orario<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="fuso orario"><p><l>fusi<b/>orari</l><r>fuso<b/>orario<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="scacco matto"><p><l>scacco<b/>matto</l><r>scacco<b/>matto<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="scacco matto"><p><l>scacchi<b/>matti</l><r>scacco<b/>matto<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="libero arbitrio"><p><l>libero<b/>arbitrio</l><r>libero<b/>arbitrio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="libero arbitrio"><p><l>liberi<b/>arbitri</l><r>libero<b/>arbitrio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="punto indietro"><p><l>punto<b/>indietro</l><r>punto<b/>indietro<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -96233,6 +96244,8 @@
     <e lm="frequenza cardiaca"><p><l>frequenze<b/>cardiache</l><r>frequenza<b/>cardiaca<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="falsa testimonianza"><p><l>falsa<b/>testimonianza</l><r>falsa<b/>testimonianza<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="falsa testimonianza"><p><l>false<b/>testimonianze</l><r>falsa<b/>testimonianza<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="ulcera venerea" r="RL"><p><l>ulcera<b/>venerea</l><r>ulcera<b/>venerea<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="ulcera venerea" r="RL"><p><l>ulcere<b/>veneree</l><r>ulcera<b/>venerea<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="sorella mezza"><p><l>sorella<b/>mezza</l><r>sorella<b/>mezza<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="sorella mezza"><p><l>sorelle<b/>mezze</l><r>sorella<b/>mezza<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="patata fritta"><p><l>patata<b/>fritta</l><r>patata<b/>fritta<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -100573,6 +100586,7 @@
     <e lm="eterozigote"><i>eterozigot</i><par n="abbreviazion/e__n"/></e>
     <e lm="curculione"><i>curculion</i><par n="abat/e__n"/></e>
     <e lm="carrozzone"><i>carrozzon</i><par n="abat/e__n"/></e>
+    <e lm="copale"><i>copal</i><par n="abat/e__n"/></e>
     <e lm="astensionista"><i>astensionist</i><par n="suicid/a__adj"/></e>
     <e lm="altruista"><i>altruist</i><par n="suicid/a__adj"/></e>
     <e lm="annessionista"><i>annessionist</i><par n="suicid/a__adj"/></e>
@@ -100861,6 +100875,7 @@
     <e lm="sciroppo"><i>sciropp</i><par n="abbain/o__n"/></e>
     <e lm="girino"><i>girin</i><par n="abbain/o__n"/></e>
     <e lm="sarto"><i>sart</i><par n="abbain/o__n"/></e>
+    <e lm="arto"><i>art</i><par n="abbain/o__n"/></e>
     <e lm="racconto"><i>raccont</i><par n="abbain/o__n"/></e>
     <e lm="tartaro"><i>tartar</i><par n="abbain/o__n"/></e>
     <e lm="telegrafo"><i>telegraf</i><par n="abbain/o__n"/></e>
@@ -100918,6 +100933,7 @@
     <e lm="boia"><i>boi</i><par n="cas/a__n"/></e>
     <e lm="damigiana"><i>damigian</i><par n="cas/a__n"/></e>
     <e lm="carovana"><i>carovan</i><par n="cas/a__n"/></e>
+    <e lm="coxa"><i>cox</i><par n="cas/a__n"/></e>
     <e lm="brughiera"><i>brughier</i><par n="cas/a__n"/></e>
     <e lm="cameriera"><i>camerier</i><par n="cas/a__n"/></e>
     <e lm="cannoniera"><i>cannonier</i><par n="cas/a__n"/></e>
