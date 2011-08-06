@@ -16971,8 +16971,7 @@
     <e r="RL"><p><l>hydrolysis<s n="n"/><s n="ND"/></l><r>idrolisi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>hydrolysis<s n="n"/><s n="sg"/></l><r>idrolisi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>hydrolysis<s n="n"/><s n="pl"/></l><r>idrolisi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>hydrophobia<s n="n"/></l><r>rabbia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>anger<n></l><r>rabbia<n><f></r></e>).-->
-    <e r="RL"><p><l>hydrophobia<s n="n"/></l><r>idrofobia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>hydrophobia<n></l><r>rabbia<n><f></r></e>).-->
+    <e><p><l>hydrophobia<s n="n"/></l><r>idrofobia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hydroplane<s n="n"/></l><r>idrovolante<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hydroxyde<s n="n"/></l><r>idrossido<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hyena<s n="n"/></l><r>iena<s n="n"/><s n="f"/></r></p></e>
@@ -20330,8 +20329,8 @@
     <e><p><l>carbohydrate<s n="n"/></l><r>carboidrato<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>capsomer<s n="n"/></l><r>capsomero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>carboy<s n="n"/></l><r>damigiana<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>carovan<s n="n"/></l><r>carovana<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>carovan<s n="n"/></l><r>carrozzone<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>caravan<s n="n"/></l><r>carovana<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>caravan<s n="n"/></l><r>carrozzone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>burner<s n="n"/></l><r>bruciatore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>solstice<s n="n"/></l><r>solstizio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>solution<s n="n"/></l><r>soluzione<s n="n"/><s n="f"/></r></p></e>
@@ -20417,6 +20416,8 @@
     <e><p><l>subjugation<s n="n"/></l><r>soggiogamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bicep<s n="n"/></l><r>bicipite<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>revisor<s n="n"/></l><r>revisore<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>collyrium<s n="n"/></l><r>collirio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>eye<b/>drop<s n="n"/></l><r>collirio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>auditor<s n="n"/></l><r>revisore<g><b/>dei<b/>conti</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>byte<s n="n"/></l><r>byte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>catalepsy<s n="n"/></l><r>catalessi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
@@ -24187,16 +24188,16 @@
     <e r="RL"><p><l>drink<g><b/>like<b/>a<b/>fish</g><s n="vblex"/></l><r>bere<g><b/>come<b/>una<b/>spugna</g><s n="vblex"/></r></p></e>
     <e r="LR"><p><l>drip<s n="vblex"/></l><r>colare<s n="vblex"/></r></p></e>
     <e srl="drive"><p><l>drive<s n="vblex"/></l><r>guidare<s n="vblex"/></r></p></e>
-    <e><p><l>drop<s n="vblex"/></l><r>cadere<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>drop<s n="vblex"/></l><r>scendere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>drop<vblex></l><r>cadere<vblex></r></e>).-->
+    <e><p><l>drop<s n="vblex"/></l><r>calare<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>drop<s n="vblex"/></l><r>scendere<s n="vblex"/></r></p></e>
     <e><p><l>drown<s n="vblex"/></l><r>inondare<s n="vblex"/></r></p></e>
     <e><p><l>drug<s n="vblex"/></l><r>drogare<s n="vblex"/></r></p></e>
     <e><p><l>dry<s n="vblex"/></l><r>asciugare<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>dry<s n="vblex"/></l><r>seccare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>dry<vblex></l><r>asciugare<vblex></r></e>).-->
+    <e r="RL"><p><l>dry<s n="vblex"/></l><r>seccare<s n="vblex"/></r></p></e>
     <e><p><l>dub<s n="vblex"/></l><r>doppiare<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>dull<s n="vblex"/></l><r>ottundere<s n="vblex"/></r></p></e>
     <e><p><l>dump<s n="vblex"/></l><r>buttare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>dupe<s n="vblex"/></l><r>ingannare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>cheat<vblex></l><r>ingannare<vblex></r></e>).-->
+    <e r="LR"><p><l>dupe<s n="vblex"/></l><r>ingannare<s n="vblex"/></r></p></e>
     <e><p><l>duplicate<s n="vblex"/></l><r>duplicare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>dye<s n="vblex"/></l><r>colorare<s n="vblex"/></r></p></e>
     <e><p><l>earn<s n="vblex"/></l><r>guadagnare<s n="vblex"/></r></p></e>
@@ -24311,8 +24312,7 @@
     <e><p><l>facilitate<s n="vblex"/></l><r>facilitare<s n="vblex"/></r></p></e>
     <e><p><l>fail<s n="vblex"/></l><r>fallire<s n="vblex"/></r></p></e>
     <e><p><l>fake<s n="vblex"/></l><r>falsificare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>fall<s n="vblex"/></l><r>cadere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>drop<vblex></l><r>cadere<vblex></r></e>).-->
-    <e r="RL"><p><l>fall<s n="vblex"/></l><r>calare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>fall<vblex></l><r>cadere<vblex></r></e>).-->
+    <e><p><l>fall<s n="vblex"/></l><r>cadere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>fall<g><b/>down</g><s n="vblex"/></l><r>cadere<s n="vblex"/></r></p></e>
     <e><p><l>give<g><b/>back</g><s n="vblex"/><s n="sep"/></l><r>ridare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>send<g><b/>back</g><s n="vblex"/><s n="sep"/></l><r>ridare<s n="vblex"/></r></p></e>
