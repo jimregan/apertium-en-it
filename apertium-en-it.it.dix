@@ -68545,25 +68545,33 @@
 
 
     </pardef>
-    <pardef n="vari/o__det">
+    <pardef n="divers/o__det">
     <e>
       <p>
         <l>i</l>
         <r>o<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r>
       </p>
     </e>
-
-
-
     <e>
       <p>
         <l>e</l>
         <r>o<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r>
       </p>
     </e>
-
-
-
+    </pardef>
+    <pardef n="vari/o__det">
+    <e>
+      <p>
+        <l></l>
+        <r>o<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>e</l>
+        <r>o<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r>
+      </p>
+    </e>
     </pardef>
 
 
@@ -92192,7 +92200,7 @@
     <e lm="abbronzato"><i>abbronzat</i><par n="abbandonat/o__adj"/></e>
     <e lm="recintato"><i>recintat</i><par n="abbandonat/o__adj"/></e>
     <e lm="tebano"><i>teban</i><par n="abbandonat/o__adj"/></e>
-    <e lm="diverso"><i>divers</i><par n="vari/o__det"/></e>
+    <e lm="diverso"><i>divers</i><par n="divers/o__det"/></e>
     <e lm="diverso" r="RL"><i>divers</i><par n="abbandonat/o__adj"/></e>
     <e lm="atto"><i>att</i><par n="abbandonat/o__adj"/></e>
     <e lm="lucrativo"><i>lucrativ</i><par n="abbandonat/o__adj"/></e>
@@ -92405,7 +92413,7 @@
     <e lm="biologico"><i>biologic</i><par n="tecnic/o__adj"/></e>
     <e lm="biondo"><i>biond</i><par n="abbandonat/o__adj"/></e>
     <e lm="blando"><i>bland</i><par n="abbandonat/o__adj"/></e>
-    <e lm="rinforzamento"><i>rinforzament</i><par n="abbandonat/o__adj"/></e>
+    <e lm="rinforzamento"><i>rinforzament</i><par n="abbain/o__n"/></e>
     <e lm="blindato"><i>blindat</i><par n="abbandonat/o__adj"/></e>
     <e lm="blu"><i>blu</i><par n="extra__adj"/></e>
     <e lm="di successo"><i>di<b/>successo</i><par n="extra__adj"/></e>
