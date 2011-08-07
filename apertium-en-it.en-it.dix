@@ -13521,6 +13521,7 @@
     <e><p><l>beetle<s n="n"/></l><r>scarabeo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>beetroot<s n="n"/></l><r>barbabietola<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>beginning<s n="n"/></l><r>inizio<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>kickoff<s n="n"/></l><r>inizio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>behaviour<s n="n"/></l><r>comportamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>behaviourism<s n="n"/></l><r>comportamentismo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>beheading<s n="n"/></l><r>decapitazione<s n="n"/><s n="f"/></r></p></e>
@@ -13533,6 +13534,8 @@
     <e><p><l>belonging<s n="n"/></l><r>appartenenza<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>beloved<s n="n"/></l><r>amato<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>beloved<s n="n"/></l><r>amato<s n="n"/></r></p></e>
+    <e r="LR"><p><l>initiator<s n="n"/></l><r>iniziatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>initiator<s n="n"/></l><r>iniziatore<s n="n"/></r></p></e>
     <e><p><l>belt<s n="n"/></l><r>cintura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bend<s n="n"/></l><r>curva<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>benediction<s n="n"/></l><r>benedizione<s n="n"/><s n="f"/></r></p></e>
@@ -14637,7 +14640,11 @@
     <e><p><l>weekly<b/>newspaper<s n="n"/></l><r>settimanale<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rapeseed<s n="n"/></l><r>colza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rapeseed<b/>oil<s n="n"/></l><r>olio<g><b/>di<b/>colza</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>reinforcement<s n="n"/></l><r>rinforzamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>golden<s n="adj"/></l><r>aureo<s n="adj"/></r></p></e>
+    <e><p><l>successful<s n="adj"/></l><r>di<b/>successo<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>marketable<s n="adj"/></l><r>vendibile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>successfully<s n="adj"/></l><r>con<b/>successo<s n="adv"/></r></p></e>
     <e><p><l>tired<s n="adj"/></l><r>stanco<s n="adj"/></r></p></e>
     <e><p><l>gold<b/>standard<s n="n"/></l><r>sistema<b/>aureo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>gold<b/>standard<s n="n"/></l><r>gold<b/>standard<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -20462,6 +20469,7 @@
     <e><p><l>eye<b/>drop<s n="n"/></l><r>collirio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>auditor<s n="n"/></l><r>revisore<g><b/>dei<b/>conti</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>byte<s n="n"/></l><r>byte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>sidecar<s n="n"/></l><r>sidecar<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>coulomb<s n="n"/></l><r>coulomb<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>colophon<s n="n"/></l><r>colophon<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>chorion<s n="n"/></l><r>corion<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -21955,6 +21963,7 @@
     <e><p><l>similarity<s n="n"/></l><r>similarità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>universality<s n="n"/></l><r>universalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>volatile<s n="adj"/></l><r>volatile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>unicoloured<s n="adj"/></l><r>unicolore<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>walled<s n="adj"/></l><r>recintato<s n="adj"/></r></p></e>
     <e><p><l>theban<s n="adj"/></l><r>tebano<s n="adj"/></r></p></e>
     <e><p><l>volatility<s n="n"/></l><r>volatilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
@@ -26300,6 +26309,7 @@
     <e><p><l>jaunty<s n="adj"/></l><r>sbarazzino<s n="adj"/></r></p></e>
     <e><p><l>pleasant<s n="adj"/></l><r>gradevole<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>pleasantly<s n="adv"/></l><r>gradevolmente<s n="adv"/></r></p></e>
+    <e><p><l>in<b/>the<b/>twinkling<b/>of<b/>an<b/>eye<s n="adv"/></l><r>in<b/>un<b/>batter<b/>d'occhio<s n="adv"/></r></p></e>
     <e><p><l>generously<s n="adv"/></l><r>generosamente<s n="adv"/></r></p></e>
     <e><p><l>incompletely<s n="adv"/></l><r>incompletamente<s n="adv"/></r></p></e>
     <e><p><l>incorrectly<s n="adv"/></l><r>scorrettamente<s n="adv"/></r></p></e>

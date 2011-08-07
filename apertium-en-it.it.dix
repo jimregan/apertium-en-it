@@ -89711,6 +89711,7 @@
     <e lm="pazzia"><i>pazzi</i><par n="cas/a__n"/></e>
     <e lm="pc"><i>pc</i><par n="albatros__n"/></e>
     <e lm="byte"><i>byte</i><par n="albatros__n"/></e>
+    <e lm="sidecar"><i>sidecar</i><par n="albatros__n"/></e>
     <e lm="coulomb"><i>coulomb</i><par n="albatros__n"/></e>
     <e lm="colophon"><i>colophon</i><par n="albatros__n"/></e>
     <e lm="corion"><i>corion</i><par n="albatros__n"/></e>
@@ -90153,6 +90154,7 @@
     <e lm="cellulare"><i>cellular</i><par n="abat/e__n"/></e>
     <e lm="precedente"><i>precedent</i><par n="abat/e__n"/></e>
     <e lm="precedente"><i>precedent</i><par n="albanes/e__adj"/></e>
+    <e lm="unicolore"><i>unicolor</i><par n="albanes/e__adj"/></e>
     <e lm="cotile"><i>cotil</i><par n="abat/e__n"/></e>
     <e lm="carnevale"><i>carneval</i><par n="abat/e__n"/></e>
     <e lm="interruzione"><i>interruzion</i><par n="abbreviazion/e__n"/></e>
@@ -90183,6 +90185,7 @@
     <e lm="porto"><i>port</i><par n="abbain/o__n"/></e>
     <e lm="portafoglio"><i>portafogli</i><par n="abbagli/o__n"/></e>
     <e lm="portata"><i>portat</i><par n="cas/a__n"/></e>
+    <e lm="iniziatore"><i>iniziat</i><par n="agricolt/ore__n"/></e>
     <e lm="portatore"><i>portat</i><par n="agricolt/ore__n"/></e>
     <e lm="portatore di handicap"><i>portat</i><par n="agricolt/ore__n"/><p><l><b/>di<b/>handicap</l><r><g><b/>di<b/>handicap</g></r></p></e>
     <e lm="portavoce"><i>portavoce</i><par n="blogger__n"/></e>
@@ -92394,11 +92397,16 @@
     <e lm="bianco"><i>bianc</i><par n="caric/o__adj"/></e>
     <e lm="biancazzurro"><i>biancazzurr</i><par n="caric/o__adj"/></e>
     <e lm="bilaterale"><i>bilateral</i><par n="albanes/e__adj"/></e>
+    <e lm="vendibile"><i>vendibil</i><par n="albanes/e__adj"/></e>
     <e lm="biologico"><i>biologic</i><par n="tecnic/o__adj"/></e>
     <e lm="biondo"><i>biond</i><par n="abbandonat/o__adj"/></e>
     <e lm="blando"><i>bland</i><par n="abbandonat/o__adj"/></e>
+    <e lm="rinforzamento"><i>rinforzament</i><par n="abbandonat/o__adj"/></e>
     <e lm="blindato"><i>blindat</i><par n="abbandonat/o__adj"/></e>
     <e lm="blu"><i>blu</i><par n="extra__adj"/></e>
+    <e lm="di successo"><i>di<b/>successo</i><par n="extra__adj"/></e>
+    <e lm="con successo"><i>con<b/>successo</i><par n="ieri__adv"/></e>
+    <e lm="in un batter d'occhio"><i>in<b/>un<b/>batter<b/>d'occhio</i><par n="ieri__adv"/></e>
     <e lm="senior"><i>senior</i><par n="senior__adj"/></e>
     <e lm="planimetrico"><i>planimetric</i><par n="tecnic/o__adj"/></e>
     <e lm="podsolico"><i>podsolic</i><par n="tecnic/o__adj"/></e>
