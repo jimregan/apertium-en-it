@@ -3314,6 +3314,8 @@
     <e><p><l>reigning<s n="adj"/></l><r>regnante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>relativistic<s n="adj"/></l><r>relativista<s n="adj"/></r></p></e>
     <e><p><l>reliable<s n="adj"/></l><r>affidabile<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>trustworthy<s n="adj"/></l><r>affidabile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>dilapidated<s n="adj"/></l><r>pericolante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>relocatable<s n="adj"/></l><r>rilocabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>repairable<s n="adj"/></l><r>riparabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>repetitive<s n="adj"/></l><r>ripetitivo<s n="adj"/></r></p></e>
@@ -20111,7 +20113,6 @@
     <e><p><l>servomechanism<s n="n"/></l><r>servomeccanismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>set<s n="n"/></l><r>insieme<s n="n"/><s n="m"/></r></p></e>
     <e r="LR" c="mare meua"><p><l>setscrew<s n="n"/></l><r>prigioniero<s n="n"/><s n="GD"/></r></p></e>
-    <e c="mare meua" i="yes"><p><l>setscrew<s n="n"/></l><r>prigioniero<s n="n"/></r></p></e><!--  autorestricted (<e r="RL"><l>prisoner<n></l><r>prigioniero<n></r></e>).-->
     <e><p><l>setting<s n="n"/></l><r>ambientazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>setting<s n="n"/></l><r>impostazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>setting<n></l><r>ambientazione<n><f></r></e>).-->
     <e><p><l>settlement<s n="n"/></l><r>assestamento<s n="n"/><s n="m"/></r></p></e>
@@ -21951,6 +21952,8 @@
     <e><p><l>similarity<s n="n"/></l><r>similarità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>universality<s n="n"/></l><r>universalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>volatile<s n="adj"/></l><r>volatile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>walled<s n="adj"/></l><r>recintato<s n="adj"/></r></p></e>
+    <e><p><l>theban<s n="adj"/></l><r>tebano<s n="adj"/></r></p></e>
     <e><p><l>volatility<s n="n"/></l><r>volatilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>confidentiality<s n="n"/></l><r>confidenzialità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>territoriality<s n="n"/></l><r>territorialità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
@@ -26296,6 +26299,21 @@
     <e><p><l>symbolist<s n="adj"/></l><r>simbolista<s n="adj"/></r></p></e>
     <e><p><l>traditionalistic<s n="adj"/></l><r>tradizionalista<s n="adj"/></r></p></e>
     <e><p><l>tsarist<s n="adj"/></l><r>zarista<s n="adj"/></r></p></e>
+    <e><p><l>proud<s n="adj"/></l><r>orgoglioso<s n="adj"/></r></p></e>
+    <e><p><l>jaunty<s n="adj"/></l><r>sbarazzino<s n="adj"/></r></p></e>
+    <e><p><l>pleasant<s n="adj"/></l><r>gradevole<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>pleasantly<s n="adv"/></l><r>gradevolmente<s n="adv"/></r></p></e>
+    <e><p><l>generously<s n="adv"/></l><r>generosamente<s n="adv"/></r></p></e>
+    <e><p><l>incompletely<s n="adv"/></l><r>incompletamente<s n="adv"/></r></p></e>
+    <e><p><l>incorrectly<s n="adv"/></l><r>scorrettamente<s n="adv"/></r></p></e>
+    <e><p><l>handsomely<s n="adv"/></l><r>profumatamente<s n="adv"/></r></p></e>
+    <e><p><l>silently<s n="adv"/></l><r>silenziosamente<s n="adv"/></r></p></e>
+    <e><p><l>stubbornly<s n="adv"/></l><r>ostinatamente<s n="adv"/></r></p></e>
+    <e><p><l>unevenly<s n="adv"/></l><r>disugualmente<s n="adv"/></r></p></e>
+    <e><p><l>disrespectfully<s n="adv"/></l><r>irrispettosamente<s n="adv"/></r></p></e>
+    <e><p><l>jauntily<s n="adv"/></l><r>vivacemente<s n="adv"/></r></p></e>
+    <e><p><l>vigorously<s n="adv"/></l><r>vigorosamente<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>the<b/>sly<s n="adv"/></l><r>scaltramente<s n="adv"/></r></p></e>
     <e r="LR"><p><l>abstentionist<s n="n"/></l><r>astensionista<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>abstentionist<s n="n"/></l><r>astensionista<s n="n"/></r></p></e>
     <e r="LR"><p><l>altruist<s n="n"/></l><r>altruista<s n="n"/><s n="GD"/></r></p></e>
@@ -26391,7 +26409,6 @@
     <e><p><l>omission<s n="n"/></l><r>omissione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>perversion<s n="n"/></l><r>perversione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>capsule<s n="n"/></l><r>capsula<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>captive<s n="n"/></l><r>prigioniero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>carbide<s n="n"/></l><r>carburo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cardioid<s n="n"/></l><r>cardioide<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>carnation<s n="n"/></l><r>garofano<s n="n"/><s n="m"/></r></p></e>
@@ -26466,6 +26483,16 @@
     <e><p><l>creed<s n="n"/></l><r>credo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>crematory<s n="n"/></l><r>crematorio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>crew<s n="n"/></l><r>equipaggio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>carelessly<s n="adv"/></l><r>inavvertitamente<s n="adv"/></r></p></e>
+    <e><p><l>indefinitely<s n="adv"/></l><r>indefinitamente<s n="adv"/></r></p></e>
+    <e><p><l>largely<s n="adv"/></l><r>grandemente<s n="adv"/></r></p></e>
+    <e><p><l>nationally<s n="adv"/></l><r>nazionalmente<s n="adv"/></r></p></e>
+    <e><p><l>privately<s n="adv"/></l><r>privatamente<s n="adv"/></r></p></e>
+    <e><p><l>softly<s n="adv"/></l><r>blandamente<s n="adv"/></r></p></e>
+    <e><p><l>unexpectedly<s n="adv"/></l><r>inaspettatamente<s n="adv"/></r></p></e>
+    <e><p><l>narrowly<s n="adv"/></l><r>strettamente<s n="adv"/></r></p></e>
+    <e><p><l>destructively<s n="adv"/></l><r>distruttivamente<s n="adv"/></r></p></e>
+    <e><p><l>consequently<s n="adv"/></l><r>conseguentemente<s n="adv"/></r></p></e>
 
     <!-- ******************************
           group ij_symbol

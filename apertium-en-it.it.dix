@@ -92183,6 +92183,8 @@
 
     <e lm="entrambi"><i>entramb</i><par n="entramb/i_i__det"/></e>
     <e lm="abbronzato"><i>abbronzat</i><par n="abbandonat/o__adj"/></e>
+    <e lm="recintato"><i>recintat</i><par n="abbandonat/o__adj"/></e>
+    <e lm="tebano"><i>teban</i><par n="abbandonat/o__adj"/></e>
     <e lm="diverso"><i>divers</i><par n="vari/o__det"/></e>
     <e lm="diverso" r="RL"><i>divers</i><par n="abbandonat/o__adj"/></e>
     <e lm="atto"><i>att</i><par n="abbandonat/o__adj"/></e>
@@ -92196,6 +92198,7 @@
     <e lm="abbonato"><i>abbonat</i><par n="abbandonat/o__adj"/></e>
     <e lm="abbondante"><i>abbonda</i><par n="abbacchia/nte__adj"/></e>
     <e lm="abbondante"><i>abbondant</i><par n="albanes/e__adj"/></e>
+    <e lm="pericolante"><i>pericolant</i><par n="albanes/e__adj"/></e>
     <e lm="abile"><i>abil</i><par n="albanes/e__adj"/></e>
     <e lm="abituale"><i>abitual</i><par n="albanes/e__adj"/></e>
     <e lm="abituato"><i>abituat</i><par n="abbandonat/o__adj"/></e>
@@ -93603,6 +93606,7 @@
     <e lm="leopardato"><i>leopardat</i><par n="abbandonat/o__adj"/></e>
     <e lm="proprietario"><i>proprietari</i><par n="abbandonat/o__adj"/></e>
     <e lm="ventesimo"><i>ventesim</i><par n="abbandonat/o__adj"/></e>
+    <e lm="sbarazzino"><i>sbarazzin</i><par n="abbandonat/o__adj"/></e>
     <e lm="vincitore"><i>vincit</i><par n="accentrat/ore__adj"/></e>
     <e lm="seduttore"><i>sedutt</i><par n="agricolt/ore__n"/></e>
     <e lm="ricattatore"><i>ricattat</i><par n="agricolt/ore__n"/></e>
@@ -95277,6 +95281,17 @@
 <!--       ******************************      (adv) group      ******************************    -->
 
     <e lm="a breve"><i>a<b/>breve</i><par n="ieri__adv"/></e>
+    <e lm="inavvertitamente"><i>inavvertitamente</i><par n="ieri__adv"/></e>
+    <e lm="indefinitamente"><i>indefinitamente</i><par n="ieri__adv"/></e>
+    <e lm="grandemente"><i>grandemente</i><par n="ieri__adv"/></e>
+    <e lm="nazionalmente"><i>nazionalmente</i><par n="ieri__adv"/></e>
+    <e lm="privatamente"><i>privatamente</i><par n="ieri__adv"/></e>
+    <e lm="blandamente"><i>blandamente</i><par n="ieri__adv"/></e>
+    <e lm="gradevolmente"><i>gradevolmente</i><par n="ieri__adv"/></e>
+    <e lm="inaspettatamente"><i>inaspettatamente</i><par n="ieri__adv"/></e>
+    <e lm="strettamente"><i>strettamente</i><par n="ieri__adv"/></e>
+    <e lm="distruttivamente"><i>distruttivamente</i><par n="ieri__adv"/></e>
+    <e lm="conseguentemente"><i>conseguentemente</i><par n="ieri__adv"/></e>
     <e lm="sull'orlo del precipizio"><i>sull'orlo<b/>del<b/>precipizio</i><par n="ieri__adv"/></e>
     <e lm="sull'orlo dell'abisso"><i>sull'orlo<b/>dell'abisso</i><par n="ieri__adv"/></e>
     <e lm="all'indietro"><i>all'indietro</i><par n="ieri__adv"/></e>
@@ -98579,6 +98594,7 @@
     <e lm="separabile"><i>separabil</i><par n="albanes/e__adj"/></e>
     <e lm="settoriale"><i>settorial</i><par n="albanes/e__adj"/></e>
     <e lm="sgradevole"><i>sgradevol</i><par n="albanes/e__adj"/></e>
+    <e lm="gradevole"><i>gradevol</i><par n="albanes/e__adj"/></e>
     <e lm="sinusoidale"><i>sinusoidal</i><par n="albanes/e__adj"/></e>
     <e lm="smontabile"><i>smontabil</i><par n="albanes/e__adj"/></e>
     <e lm="sopportabile"><i>sopportabil</i><par n="albanes/e__adj"/></e>
@@ -98965,6 +98981,7 @@
     <e lm="seduttore"><i>sedutt</i><par n="accentrat/ore__adj"/></e>
     <e lm="somministratore"><i>somministrat</i><par n="accentrat/ore__adj"/></e>
     <e lm="acefalo"><i>acefal</i><par n="abbandonat/o__adj"/></e>
+    <e lm="orgoglioso"><i>orgoglios</i><par n="abbandonat/o__adj"/></e>
     <e lm="acerbo"><i>acerb</i><par n="abbandonat/o__adj"/></e>
     <e lm="adattativo"><i>adattativ</i><par n="abbandonat/o__adj"/></e>
     <e lm="adottivo"><i>adottiv</i><par n="abbandonat/o__adj"/></e>
