@@ -2234,7 +2234,6 @@
     <e><p><l>nondenominational<s n="adj"/></l><r>aconfessionale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>normal<s n="adj"/></l><r>normale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>normative<s n="adj"/></l><r>normativo<s n="adj"/></r></p></e>
-    <e><p><l>northern<s n="adj"/></l><r>del<b/>nord<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>norwegian<s n="adj"/></l><r>norvegese<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>notable<s n="adj"/></l><r>notevole<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>notarial<s n="adj"/></l><r>notarile<s n="adj"/><s n="mf"/></r></p></e>
@@ -15362,7 +15361,7 @@
     <e><p><l>dutchess<s n="n"/></l><r>duca<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>archduke<s n="n"/></l><r>arciduca<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>archdutchess<s n="n"/></l><r>arciduca<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>arthropod<s n="n"/></l><r>artropodo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>arthropod<s n="n"/></l><r>artropode<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>arachnoid<s n="n"/></l><r>aracnoide<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antrum<s n="n"/></l><r>antro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>apex<s n="n"/></l><r>apice<s n="n"/><s n="m"/></r></p></e>
@@ -16594,7 +16593,7 @@
     <e r="RL"><p><l>goal<s n="n"/><s n="ND"/></l><r>goal<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR" slr="obiettivo"><p><l>goal<s n="n"/></l><r>obiettivo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>goat<s n="n"/></l><r>capra<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>gobernante<s n="n"/></l><r>governante<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>governess<s n="n"/></l><r>governante<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>god<s n="n"/></l><r>dio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>goddess<s n="n"/></l><r>dea<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>godfather<s n="n"/></l><r>padrino<s n="n"/><s n="m"/></r></p></e>
@@ -17575,13 +17574,13 @@
     <e><p><l>lesbian<s n="n"/></l><r>lesbica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lesbianism<s n="n"/></l><r>lesbismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lesson<s n="n"/></l><r>lezione<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>lethargy<s n="n"/></l><r>letargo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>hibernation<n></l><r>letargo<n><m></r></e>).-->
-    <e r="LR"><p><l>letter<s n="n"/></l><r>carta<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>card<n></l><r>carta<n><f></r></e>).-->
-    <e i="yes"><p><l>letter<s n="n"/></l><r>lettera<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>handwriting<n></l><r>lettera<n><f></r></e>).-->
+    <e r="LR"><p><l>lethargy<s n="n"/></l><r>letargo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>letter<s n="n"/></l><r>lettera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lettuce<s n="n"/></l><r>lattuga<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>leukaemia<s n="n"/></l><r>leucemia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>leukopenia<s n="n"/></l><r>leucopenia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>levant<s n="n"/></l><r>levante<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>east<s n="n"/><s n="sg"/></l><r>levante<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>east<s n="n"/><s n="sg"/></l><r>levante<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e><p><l>level<s n="n"/></l><r>livello<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>level<s n="n"/></l><r>livella<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lever<s n="n"/></l><r>leva<s n="n"/><s n="f"/></r></p></e>
