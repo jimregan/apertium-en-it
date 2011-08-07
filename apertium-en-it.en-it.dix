@@ -449,6 +449,7 @@
     <e><p><l>abdominal<s n="adj"/></l><r>addominale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>aberrant<s n="adj"/></l><r>aberrante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>able<s n="adj"/><s n="sint"/></l><r>capace<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>greasy<s n="adj"/><s n="sint"/></l><r>grasso<s n="adj"/></r></p></e>
     <e><p><l>oily<s n="adj"/><s n="sint"/></l><r>unto<s n="adj"/></r></p></e>
     <e><p><l>tidy<s n="adj"/><s n="sint"/></l><r>ordinato<s n="adj"/></r></p></e>
     <e><p><l>abnormal<s n="adj"/></l><r>anormale<s n="adj"/><s n="mf"/></r></p></e>
@@ -14637,6 +14638,7 @@
     <e><p><l>rapeseed<s n="n"/></l><r>colza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rapeseed<b/>oil<s n="n"/></l><r>olio<g><b/>di<b/>colza</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>golden<s n="adj"/></l><r>aureo<s n="adj"/></r></p></e>
+    <e><p><l>tired<s n="adj"/></l><r>stanco<s n="adj"/></r></p></e>
     <e><p><l>gold<b/>standard<s n="n"/></l><r>sistema<b/>aureo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>gold<b/>standard<s n="n"/></l><r>gold<b/>standard<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>gold<b/>exchange<b/>standard<s n="n"/></l><r>sistema<g><b/>a<b/>cambio<b/>aureo</g><s n="n"/><s n="m"/></r></p></e>
@@ -16634,11 +16636,12 @@
     <e><p><l>gravestone<s n="n"/></l><r>lapide<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gravimetry<s n="n"/></l><r>gravimetria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gravitation<s n="n"/></l><r>gravitazione<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>interrelationship<s n="n"/></l><r>interrelazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gravitational<b/>constant<s n="n"/></l><r>costante<g><b/>di<b/>gravitazione</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gravity<s n="n"/></l><r>gravità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e r="LR"><p><l>grazier<s n="n"/></l><r>allevamento<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>grazier<s n="n"/></l><r>allevamento<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>grease<s n="n"/></l><r>grasso<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>fat<n></l><r>grasso<n><m></r></e>).-->
+    <e r="LR"><p><l>grease<s n="n"/></l><r>grasso<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>greed<s n="n"/><s n="ND"/></l><r>avidità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>greed<s n="n"/><s n="sg"/></l><r>avidità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>greed<s n="n"/><s n="pl"/></l><r>avidità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
