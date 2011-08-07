@@ -23068,7 +23068,7 @@
     <e r="LR"><p><l>over<s n="adv"/></l><r>addirittura<s n="adv"/></r></p></e>
     <e r="LR"><p><l>over<b/>here<s n="adv"/></l><r>qui<s n="adv"/></r></p></e>
     <e r="LR"><p><l>over<b/>there<s n="adv"/></l><r>lì<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>overall<s n="adv"/></l><r>in<b/>generale<s n="adv"/></r></p></e><
+    <e r="LR"><p><l>overall<s n="adv"/></l><r>in<b/>generale<s n="adv"/></r></p></e>
     <e r="LR"><p><l>overnight<s n="adv"/></l><r>di<b/>notte<s n="adv"/></r></p></e>
     <e><p><l>p.m.<s n="adv"/></l><r>p.m.<s n="adv"/></r></p></e>
     <e><p><l>painfully<s n="adv"/></l><r>dolorosamente<s n="adv"/></r></p></e>
@@ -23406,7 +23406,8 @@
     <e><p><l>when<s n="adv"/><s n="itg"/></l><r>quando<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>where<s n="adv"/><s n="itg"/></l><r>dove<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>while<s n="adv"/></l><r>mentre<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>wholly<s n="adv"/></l><r>completamente<s n="adv"/></r></p></e><!--  autorestricted (<e><l>all<b/>the<b/>way<adv></l><r>completamente<adv></r></e>).-->
+    <e r="LR"><p><l>whereas<s n="cnjadv"/></l><r>mentre<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>wholly<s n="adv"/></l><r>completamente<s n="adv"/></r></p></e>
     <e><p><l>why<s n="adv"/></l><r>perché<s n="adv"/></r></p></e>
     <e><p><l>widely<s n="adv"/></l><r>ampiamente<s n="adv"/></r></p></e>
     <e><p><l>with<b/>a<b/>bit<b/>of<b/>help<s n="adv"/></l><r>con<b/>un<b/>poco<b/>di<b/>aiuto<s n="adv"/></r></p></e>
@@ -26525,6 +26526,7 @@
     <e><p><l>before<s n="cnjadv"/></l><r>prima<b/>che<s n="cnjadv"/></r></p></e>
     <e><p><l>even<b/>so<s n="cnjadv"/></l><r>ciò<b/>nonostante<s n="cnjadv"/></r></p></e>
     <e><p><l>if<s n="cnjadv"/></l><r>se<s n="cnjadv"/></r></p></e>
+    <e r="RL"><p><l>whereas<s n="cnjadv"/></l><r>laddove<s n="cnjadv"/></r></p></e>
     <e><p><l>on<b/>condition<b/>that<s n="cnjadv"/></l><r>a<b/>condizione<b/>che<s n="cnjadv"/></r></p></e>
     <e r="LR"><p><l>provided<s n="cnjadv"/></l><r>se<s n="cnjadv"/></r></p></e>
     <e r="RL" c="per ara RL perquè s'equivoca molt amb la 'pr'"><p><l>since<s n="cnjadv"/></l><r>giacché<s n="cnjadv"/></r></p></e>
@@ -26533,7 +26535,9 @@
     <e r="RL"><p><l>for<b/>that<s n="cnjadv"/></l><r>per<b/>tutto<b/>ciò<s n="cnjadv"/></r></p></e>
     <e><p><l>out<b/>of<b/>the<b/>question<b/>that<s n="cnjadv"/></l><r>escluso<b/>che<s n="cnjadv"/></r></p></e>
     <e><p><l>on<b/>the<b/>basis<b/>that<s n="cnjadv"/></l><r>ipotizzando<b/>che<s n="cnjadv"/></r></p></e>
+    <e><p><l>on<b/>the<b/>assumption<b/>that<s n="cnjadv"/></l><r>dando<b/>per<b/>scontato<b/>che<s n="cnjadv"/></r></p></e>
     <e><p><l>so<b/>that<s n="cnjadv"/></l><r>in<b/>modo<b/>che<s n="cnjadv"/></r></p></e>
+    <e r="LR"><p><l>in<b/>order<b/>that<s n="cnjadv"/></l><r>in<b/>modo<b/>che<s n="cnjadv"/></r></p></e>
     <e><p><l>then<s n="cnjadv"/></l><r>allora<s n="cnjadv"/></r></p></e>
     <e><p><l>therefore<s n="cnjadv"/></l><r>conseguentemente<s n="cnjadv"/></r></p></e>
     <e r="RL"><p><l>therefore<s n="cnjadv"/></l><r>pertanto<s n="cnjadv"/></r></p></e>
