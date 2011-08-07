@@ -309,6 +309,8 @@
     <e r="LR" c="en sg: little bread, little hope"><p><l>little<s n="det"/><s n="qnt"/><s n="sg"/></l><r>poco<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="LR"><p><l>lots<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>molto<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="LR"><p><l>many<s n="det"/><s n="qnt"/></l><r>molto<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>various<s n="det"/><s n="ind"/></l><r>vario<s n="det"/><s n="ind"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>various<s n="det"/><s n="ind"/></l><r>vario<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>millionth<s n="det"/><s n="ord"/><s n="sp"/></l><r>milionesimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>millionth<s n="det"/></l><r>milionesimo<s n="det"/></r></p></e>
     <e><p><l>more<s n="det"/><s n="qnt"/><s n="pl"/></l><r>più<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -14644,7 +14646,7 @@
     <e><p><l>golden<s n="adj"/></l><r>aureo<s n="adj"/></r></p></e>
     <e><p><l>successful<s n="adj"/></l><r>di<b/>successo<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>marketable<s n="adj"/></l><r>vendibile<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>succesfully<s n="adj"/></l><r>con<b/>successo<s n="adv"/></r></p></e>
+    <e><p><l>successfully<s n="adv"/></l><r>con<b/>successo<s n="adv"/></r></p></e>
     <e><p><l>tired<s n="adj"/></l><r>stanco<s n="adj"/></r></p></e>
     <e><p><l>gold<b/>standard<s n="n"/></l><r>sistema<b/>aureo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>gold<b/>standard<s n="n"/></l><r>gold<b/>standard<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -22417,7 +22419,7 @@
     <e><p><l>all<b/>the<b/>way<s n="adv"/></l><r>completamente<s n="adv"/></r></p></e>
     <e><p><l>allegedly<s n="adv"/></l><r>presuntamente<s n="adv"/></r></p></e>
     <e><p><l>almost<s n="adv"/></l><r>quasi<s n="adv"/></r></p></e>
-    <e><p><l>aloft<s n="adv"/></l><r>sopra<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>aloft<s n="adv"/></l><r>sopra<s n="adv"/></r></p></e>
     <e><p><l>alone<s n="adv"/></l><r>soltanto<s n="adv"/></r></p></e>
     <e><p><l>already<s n="adv"/></l><r>già<s n="adv"/></r></p></e>
     <e r="LR"><p><l>alright<s n="adv"/></l><r>bene<s n="adv"/></r></p></e>
@@ -22735,7 +22737,7 @@
     <e><p><l>geometrically<s n="adv"/></l><r>geometricamente<s n="adv"/></r></p></e>
     <e><p><l>gloriously<s n="adv"/></l><r>gloriosamente<s n="adv"/></r></p></e>
     <e r="RL"><p><l>good<s n="adj"/><s n="sint"/><s n="comp"/></l><r>migliore<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>good<s n="adv"/></l><r>bene<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>good<s n="adv"/></l><r>bene<s n="adv"/></r></p></e>
     <e><p><l>good-naturedly<s n="adv"/></l><r>bonariamente<s n="adv"/></r></p></e>
     <e r="LR"><p><l>gradually<s n="adv"/></l><r>gradualmente<s n="adv"/></r></p></e>
     <e><p><l>gratefully<s n="adv"/></l><r>gratamente<s n="adv"/></r></p></e>
@@ -23187,12 +23189,12 @@
     <e><p><l>respectively<s n="adv"/></l><r>rispettivamente<s n="adv"/></r></p></e>
     <e><p><l>responsibly<s n="adv"/></l><r>responsabilmente<s n="adv"/></r></p></e>
     <e><p><l>richly<s n="adv"/></l><r>riccamente<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>right<s n="adv"/></l><r>bene<s n="adv"/></r></p></e><!--  autorestricted (<e><l>all<b/>right<adv></l><r>bene<adv></r></e>).-->
-    <e r="LR"><p><l>right<b/>away<s n="adv"/></l><r>immediatamente<s n="adv"/></r></p></e><!--  autorestricted (<e><l>at<b/>a<b/>moment's<b/>notice<adv></l><r>immediatamente<adv></r></e>).-->
+    <e r="LR"><p><l>right<s n="adv"/></l><r>bene<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>right<b/>away<s n="adv"/></l><r>immediatamente<s n="adv"/></r></p></e>
     <e r="RL"><p><l>right<b/>now<s n="adv"/></l><r>proprio<b/>adesso<s n="adv"/></r></p></e>
     <e><p><l>right<b/>now<s n="adv"/></l><r>proprio<b/>ora<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>right<b/>off<s n="adv"/></l><r>immediatamente<s n="adv"/></r></p></e><!--  autorestricted (<e><l>at<b/>a<b/>moment's<b/>notice<adv></l><r>immediatamente<adv></r></e>).-->
-    <e r="LR"><p><l>right<b/>through<s n="adv"/></l><r>completamente<s n="adv"/></r></p></e><!--  autorestricted (<e><l>all<b/>the<b/>way<adv></l><r>completamente<adv></r></e>).-->
+    <e r="LR"><p><l>right<b/>off<s n="adv"/></l><r>immediatamente<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>right<b/>through<s n="adv"/></l><r>completamente<s n="adv"/></r></p></e>
     <e r="LR"><p><l>rightly<s n="adv"/></l><r>correttamente<s n="adv"/></r></p></e><!--  autorestricted (<e><l>correctly<adv></l><r>correttamente<adv></r></e>).-->
     <e><p><l>rigidly<s n="adv"/></l><r>rigidamente<s n="adv"/></r></p></e>
     <e r="LR"><p><l>roughly<s n="adv"/></l><r>approssimativamente<s n="adv"/></r></p></e>
@@ -23385,27 +23387,27 @@
     <e><p><l>until<b/>further<b/>notice<s n="adv"/></l><r>fino<b/>a<b/>nuovo<b/>avviso<s n="adv"/></r></p></e>
     <e><p><l>until<b/>further<b/>orders<s n="adv"/></l><r>fino<b/>a<b/>nuovo<b/>ordine<s n="adv"/></r></p></e>
     <e><p><l>until<b/>then<s n="adv"/></l><r>fino<b/>ad<b/>allora<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>up<s n="adv"/></l><r>sopra<s n="adv"/></r></p></e><!--  autorestricted (<e><l>aloft<adv></l><r>sopra<adv></r></e>).-->
-    <e r="LR"><p><l>up<b/>for<b/>grabs<s n="adv"/></l><r>a<b/>mano<s n="adv"/></r></p></e><!--  autorestricted (<e><l>at<b/>hand<adv></l><r>a<b/>mano<adv></r></e>).-->
-    <e r="LR"><p><l>up<b/>till<b/>now<s n="adv"/></l><r>finora<s n="adv"/></r></p></e><!--  autorestricted (<e><l>as<b/>yet<adv></l><r>finora<adv></r></e>).-->
-    <e r="LR"><p><l>up<b/>to<b/>here<s n="adv"/></l><r>qui<s n="adv"/></r></p></e><!--  autorestricted (<e><l>here<adv></l><r>qui<adv></r></e>).-->
-    <e r="LR"><p><l>up<b/>to<b/>now<s n="adv"/></l><r>finora<s n="adv"/></r></p></e><!--  autorestricted (<e><l>as<b/>yet<adv></l><r>finora<adv></r></e>).-->
-    <e r="LR"><p><l>up<b/>until<b/>now<s n="adv"/></l><r>finora<s n="adv"/></r></p></e><!--  autorestricted (<e><l>as<b/>yet<adv></l><r>finora<adv></r></e>).-->
-    <e r="LR"><p><l>uppermost<s n="adv"/></l><r>addirittura<s n="adv"/></r></p></e><!--  autorestricted (<e><l>above<adv></l><r>addirittura<adv></r></e>).-->
-    <e r="LR"><p><l>upward<s n="adv"/></l><r>sopra<s n="adv"/></r></p></e><!--  autorestricted (<e><l>aloft<adv></l><r>sopra<adv></r></e>).-->
+    <e><p><l>up<s n="adv"/></l><r>sopra<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>up<b/>for<b/>grabs<s n="adv"/></l><r>a<b/>mano<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>up<b/>till<b/>now<s n="adv"/></l><r>finora<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>up<b/>to<b/>here<s n="adv"/></l><r>qui<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>up<b/>to<b/>now<s n="adv"/></l><r>finora<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>up<b/>until<b/>now<s n="adv"/></l><r>finora<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>uppermost<s n="adv"/></l><r>addirittura<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>upward<s n="adv"/></l><r>sopra<s n="adv"/></r></p></e>
     <e><p><l>urbanistically<s n="adv"/></l><r>urbanisticamente<s n="adv"/></r></p></e>
     <e><p><l>urgently<s n="adv"/></l><r>urgentemente<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>uselessly<s n="adv"/></l><r>inutilmente<s n="adv"/></r></p></e><!--  autorestricted (<e><l>pointlessly<adv></l><r>inutilmente<adv></r></e>).-->
+    <e r="LR"><p><l>uselessly<s n="adv"/></l><r>inutilmente<s n="adv"/></r></p></e>
     <e r="RL"><p><l>usually<s n="adv"/></l><r>solitamente<s n="adv"/></r></p></e>
     <e><p><l>usually<s n="adv"/></l><r>usualmente<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>utterly<s n="adv"/></l><r>assolutamente<s n="adv"/></r></p></e><!--  autorestricted (<e><l>absolutely<adv></l><r>assolutamente<adv></r></e>).-->
+    <e r="LR"><p><l>utterly<s n="adv"/></l><r>assolutamente<s n="adv"/></r></p></e>
     <e><p><l>vaguely<s n="adv"/></l><r>vagamente<s n="adv"/></r></p></e>
     <e><p><l>variedly<s n="adv"/></l><r>variamente<s n="adv"/></r></p></e>
     <e><p><l>verbally<s n="adv"/></l><r>verbalmente<s n="adv"/></r></p></e>
     <e><p><l>vertically<s n="adv"/></l><r>verticalmente<s n="adv"/></r></p></e>
     <e r="RL"><p><l>very<b/>carefully<s n="adv"/></l><r>con<b/>molta<b/>attenzione<s n="adv"/></r></p></e>
     <e><p><l>very<b/>carefully<s n="adv"/></l><r>con<b/>molta<b/>cura<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>very<b/>much<s n="adv"/></l><r>molto<s n="adv"/></r></p></e><!--  autorestricted (<e><l>a<b/>lot<adv></l><r>molto<adv></r></e>).-->
+    <e r="LR"><p><l>very<b/>much<s n="adv"/></l><r>molto<s n="adv"/></r></p></e>
     <e><p><l>vice<b/>versa<s n="adv"/></l><r>viceversa<s n="adv"/></r></p></e>
     <e><p><l>violently<s n="adv"/></l><r>violentemente<s n="adv"/></r></p></e>
     <e><p><l>virtually<s n="adv"/></l><r>virtualmente<s n="adv"/></r></p></e>
@@ -23415,7 +23417,7 @@
     <e><p><l>weakly<s n="adv"/></l><r>debolmente<s n="adv"/></r></p></e>
     <e r="LR"><p><l>week<b/>in<b/>week<b/>out<s n="adv"/></l><r>continuamente<s n="adv"/></r></p></e>
     <e><p><l>weekly<s n="adv"/></l><r>settimanalmente<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>well<s n="adv"/></l><r>bene<s n="adv"/></r></p></e><!--  autorestricted (<e><l>all<b/>right<adv></l><r>bene<adv></r></e>).-->
+    <e><p><l>well<s n="adv"/></l><r>bene<s n="adv"/></r></p></e>
     <e><p><l>when<s n="adv"/><s n="itg"/></l><r>quando<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>where<s n="adv"/><s n="itg"/></l><r>dove<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>while<s n="adv"/></l><r>mentre<s n="adv"/></r></p></e>
@@ -25668,7 +25670,7 @@
     <e r="RL"><p><l>this<s n="prn"/><s n="tn"/><s n="mf"/></l><r>costui<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>this<prn><tn><mf></l><r>esso<prn></r></e>).-->
     <e r="RL"><p><l>this<s n="prn"/><s n="tn"/><s n="mf"/></l><r>costui<s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>this<prn><tn><mf></l><r>esso<prn></r></e>).-->
     <e><p><l>what<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></l><r>che<s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>what<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></l><r>cosa<s n="prn"/></r></p></e><!--  autorestricted (<e><l>what<prn><itg><m><sp></l><r>che<prn><itg><mf><sg></r></e>).-->
+    <e r="RL"><p><l>what<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></l><r>cosa<s n="prn"/></r></p></e>
     <e><p><l>which<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></l><r>quale<s n="prn"/><s n="itg"/></r></p></e>
     <e r="LR"><p><l>which<b/>one<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/></l><r>quale<s n="prn"/><s n="itg"/></r></p></e><!--  autorestricted (<e><l>which<prn><itg><m><sp></l><r>quale<prn><itg></r></e>).-->
     <e><p><l>who<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></l><r>chi<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -25678,9 +25680,10 @@
 
     <e><p><l>whoever<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></l><r>quienquiera<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
     <e i="yes"><p><l>whoever<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></l><r>qualunque<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e><!--  autorestricted (<e r="RL"><l>either<prn><tn><mf><sp></l><r>qualunque<prn><tn><mf><sp></r></e>).-->
-    <e r="RL" c="per ara de en-ca es genera només 'el vostre'"><p><l>yours<s n="prn"/></l><r>il<b/>tuo<s n="prn"/><s n="tn"/><s n="pos"/></r></p></e>
+    <e r="RL" c="per ara de en-ca es genera només 'el vostre'"><p><l>yours<s n="prn"/><s n="pos"/></l><r>il<b/>tuo<s n="prn"/><s n="tn"/><s n="pos"/></r></p></e>
     <e r="LR"><p><l>yours<s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></l><r>il<b/>vostro<s n="prn"/><s n="tn"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>yours<s n="prn"/><s n="pos"/></l><r>il<b/>vostro<s n="prn"/><s n="tn"/><s n="pos"/></r></p></e>
+    <e r="RL"><p><l>theirs<s n="prn"/><s n="pos"/></l><r>il<b/>loro<s n="prn"/><s n="tn"/><s n="pos"/></r></p></e>
     <e c="per ara de en-ca es genera només 'el vostre'"><p><l>yours<s n="prn"/></l><r>il<b/>tuo<s n="prn"/></r></p></e>
     <e i="yes"><p><l>yours<s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></l><r>il<b/>vostro<s n="prn"/><s n="tn"/><s n="pos"/></r></p></e><!--  autorestricted (<e r="RL"><l>yours<prn><pos></l><r>il<b/>vostro<prn><tn><pos></r></e>).-->
     <e r="LR" a="doriua"><p><l>yourself<s n="prn"/><s n="ref"/><s n="p2"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p2"/></r></p></e>
@@ -26567,14 +26570,17 @@
       ****************************** -->
     <e><p><l>that<s n="rel"/></l><r>che<s n="rel"/></r></p></e>
     <e><p><l>the<b/>one<b/>which<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>quello<b/>che<s n="rel"/></r></p></e>
+    <e r="LR"><p><l>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></l><r>quelle<s n="rel"/><s n="an"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></l><r>quale<s n="rel"/><s n="an"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></l><r>quale<s n="rel"/><s n="an"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>the<b/>one<b/>who<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>quello<b/>che<s n="rel"/><s n="an"/></r></p></e>
-    <e r="LR"><p><l>the<b/>ones<b/>that<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l><r>quello<b/>che<s n="rel"/></r></p></e><!--  autorestricted (<e><l>the<b/>one<b/>which<rel><nn><mf><sg></l><r>quello<b/>che<rel></r></e>).-->
-    <e r="LR"><p><l>the<b/>ones<b/>who<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l><r>quello<b/>che<s n="rel"/></r></p></e><!--  autorestricted (<e><l>the<b/>one<b/>which<rel><nn><mf><sg></l><r>quello<b/>che<rel></r></e>).-->
+    <e r="LR"><p><l>the<b/>ones<b/>that<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l><r>quello<b/>che<s n="rel"/></r></p></e>
+    <e r="LR"><p><l>the<b/>ones<b/>who<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l><r>quello<b/>che<s n="rel"/></r></p></e>
     <e r="RL"><p><l>those<b/>that<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l><r>quello<b/>che<s n="rel"/><s n="nn"/><s n="GD"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>those<b/>that<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l><r>quello<b/>che<s n="rel"/><s n="nn"/><s n="m"/><s n="pl"/></r></p></e>
-    <e i="yes"><p><l>those<b/>that<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l><r>quello<b/>che<s n="rel"/><s n="nn"/><s n="f"/><s n="pl"/></r></p></e><!--  autorestricted (<e r="LR"><l>those<b/>that<rel><nn><mf><pl></l><r>quello<b/>che<rel><nn><m><pl></r></e>).-->
-    <e i="yes"><p><l>those<b/>that<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l><r>quanto<s n="rel"/><s n="nn"/><s n="GD"/><s n="pl"/></r></p></e><!--  autorestricted (<e r="LR"><l>those<b/>that<rel><nn><mf><pl></l><r>quello<b/>che<rel><nn><m><pl></r></e>).-->
-    <e><p><l>what<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>quanto<s n="rel"/></r></p></e>
+    <e r="LR"><p><l>what<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>quanto<s n="rel"/><s n="nn"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>what<s n="rel"/><s n="nn"/><s n="mf"/></l><r>quanto<s n="rel"/><s n="nn"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>what<s n="rel"/><s n="nn"/><s n="mf"/></l><r>quanto<s n="rel"/><s n="nn"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>what<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>quello<b/>che<s n="rel"/><s n="an"/><s n="nt"/></r></p></e><!--  autorestricted (<e><l>what<rel><nn><mf><sg></l><r>quanto<rel></r></e>).-->
     <e><p><l>when<s n="cnjadv"/></l><r>quando<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>where<s n="rel"/><s n="adv"/></l><r>dove<s n="rel"/><s n="adv"/></r></p></e>
