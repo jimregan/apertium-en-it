@@ -87941,7 +87941,6 @@
     <e lm="arciduca"><i>arciduc</i><par n="duc/a__n"/></e>
     <e lm="duello"><i>duell</i><par n="abbain/o__n"/></e>
     <e lm="duetto"><i>duett</i><par n="abbain/o__n"/></e>
-    <e lm="artropodo"><i>artropod</i><par n="abbain/o__n"/></e>
     <e lm="duna"><i>dun</i><par n="cas/a__n"/></e>
     <e lm="durata"><i>durat</i><par n="cas/a__n"/></e>
     <e lm="durezza"><i>durezz</i><par n="cas/a__n"/></e>
@@ -88491,7 +88490,8 @@
     <e lm="gomma da masticare"><i>gomm</i><par n="cas/a__n"/><p><l><b/>da<b/>masticare</l><r><g><b/>da<b/>masticare</g></r></p></e>
     <e lm="gonna"><i>gonn</i><par n="cas/a__n"/></e>
     <e lm="governo"><i>govern</i><par n="abbain/o__n"/></e>
-    <e lm="governante"><i>governant</i><par n="abbreviazion/e__n"/></e>
+    <e lm="governante" r="RL"><i>governant</i><par n="abbreviazion/e__n"/></e>
+    <e lm="governante"><i>governant</i><par n="albanes/e__n"/></e>
     <e lm="governatore"><i>governat</i><par n="agricolt/ore__n"/></e>
     <e lm="gprs"><i>gprs</i><par n="albatros__n"/></e>
     <e lm="gps"><i>gps</i><par n="albatros__n"/></e>
@@ -93106,7 +93106,7 @@
     <e lm="monotono"><i>monoton</i><par n="abbandonat/o__adj"/></e>
     <e lm="monumentale"><i>monumental</i><par n="albanes/e__adj"/></e>
     <e lm="morente"><i>morent</i><par n="albanes/e__adj"/></e>
-    <e lm="moro"><i>mor</i><par n="tropp/o__det"/></e>
+    <e lm="moro"><i>mor</i><par n="abbandonat/o__adj"/></e>
     <e lm="morale"><i>moral</i><par n="albanes/e__adj"/></e>
     <e lm="morto"><i>mort</i><par n="abbandonat/o__adj"/></e>
     <e lm="mortale"><i>mortal</i><par n="albanes/e__adj"/></e>
@@ -94804,6 +94804,7 @@
     <e lm="sostenere"><i>sost</i><par n="appart/enere__vblex"/></e>
     <e lm="sottovalutare"><i>sottovalut</i><par n="abbacin/are__vblex"/></e>
     <e lm="fognatura"><i>fognatur</i><par n="cas/a__n"/></e>
+    <e lm="impertinenza"><i>impertinenz</i><par n="cas/a__n"/></e>
     <e lm="valuta"><i>valut</i><par n="cas/a__n"/></e>
     <e lm="valuta di reserva"><i>valut</i><par n="cas/a__n"/><p><l><b/>di<b/>reserva</l><r><g><b/>di<b/>reserva</g></r></p></e>
     <e lm="spilla di sicurezza"><i>spill</i><par n="cas/a__n"/><p><l><b/>di<b/>sicurezza</l><r><g><b/>di<b/>sicurezza</g></r></p></e>
@@ -97132,7 +97133,8 @@
     <e lm="dattilografo"><i>dattilograf</i><par n="bambin/o__n"/></e>
     <e lm="adulto"><i>adult</i><par n="bambin/o__n"/></e>
     <e lm="albino"><i>albin</i><par n="bambin/o__n"/></e>
-    <e lm="arresto"><i>arrest</i><par n="bambin/o__n"/></e>
+    <e lm="arresto"><i>arrest</i><par n="abbain/o__n"/></e>
+    <e lm="arrestato"><i>arrestat</i><par n="bambin/o__n"/></e>
     <e lm="egittologo"><i>egittolog</i><par n="cosmetic/o__n"/></e>
     <e lm="criminologo"><i>criminolog</i><par n="cosmetic/o__n"/></e>
     <e lm="poligamo"><i>poligam</i><par n="bambin/o__n"/></e>
