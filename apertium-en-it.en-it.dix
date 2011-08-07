@@ -26837,7 +26837,7 @@
     <!-- ******************************
           group pr_symbol
       ****************************** -->
-    <e c="possible polisèmia sobre - on/about"><p><l>about<s n="pr"/></l><r>sopra<s n="pr"/></r></p></e>
+    <e r="LR" c="possible polisèmia sobre - on/about"><p><l>about<s n="pr"/></l><r>sopra<s n="pr"/></r></p></e>
     <e r="LR"><p><l>above<s n="pr"/></l><r>sopra<s n="pr"/></r></p></e><!--  autorestricted (<e><l>about<pr></l><r>sopra<pr></r></e>).-->
     <e r="LR"><p><l>according<s n="pr"/></l><r>secondo<s n="pr"/></r></p></e>
     <e><p><l>according<b/>to<s n="pr"/></l><r>secondo<s n="pr"/></r></p></e>
