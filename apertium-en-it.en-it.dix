@@ -2234,7 +2234,7 @@
     <e><p><l>nondenominational<s n="adj"/></l><r>aconfessionale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>normal<s n="adj"/></l><r>normale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>normative<s n="adj"/></l><r>normativo<s n="adj"/></r></p></e>
-    <e><p><l>north<s n="adj"/></l><r>del<b/>nord<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>northern<s n="adj"/></l><r>del<b/>nord<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>norwegian<s n="adj"/></l><r>norvegese<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>notable<s n="adj"/></l><r>notevole<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>notarial<s n="adj"/></l><r>notarile<s n="adj"/><s n="mf"/></r></p></e>
@@ -2736,11 +2736,11 @@
     <e r="LR"><p><l>sole<s n="adj"/></l><r>unico<s n="adj"/></r></p></e><!--  autorestricted (<e><l>only<adj></l><r>unico<adj></r></e>).-->
     <e><p><l>solemn<s n="adj"/></l><r>solenne<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>solid<s n="adj"/><s n="sint"/></l><r>solido<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>solitary<s n="adj"/></l><r>solitario<s n="adj"/></r></p></e><!--  autorestricted (<e><l>lonely<adj></l><r>solitario<adj></r></e>).-->
+    <e r="LR"><p><l>solitary<s n="adj"/></l><r>solitario<s n="adj"/></r></p></e>
     <e><p><l>soluble<s n="adj"/></l><r>solubile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>solvent<s n="adj"/></l><r>solvente<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>sour<s n="adj"/><s n="sint"/></l><r>acido<s n="adj"/></r></p></e><!--  autorestricted (<e><l>acidic<adj></l><r>acido<adj></r></e>).-->
-    <e><p><l>south<s n="adj"/></l><r>del<b/>sud<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>sour<s n="adj"/><s n="sint"/></l><r>acido<s n="adj"/></r></p></e>
+    <e><p><l>southern<s n="adj"/></l><r>del<b/>sud<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
     <e c="check"><p><l>sovereign<s n="adj"/></l><r>sovrano<s n="adj"/></r></p></e>
     <e><p><l>space<s n="adj"/></l><r>spaziale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>Castilian<s n="adj"/></l><r>castigliano<s n="adj"/></r></p></e>
@@ -3185,7 +3185,8 @@
     <e><p><l>nihilistic<s n="adj"/></l><r>nichilista<s n="adj"/></r></p></e>
     <e><p><l>nilpotent<s n="adj"/></l><r>nilpotente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>northeastern<s n="adj"/></l><r>nordorientale<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>northern<s n="adj"/></l><r>del<b/>nord<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>north<s n="adj"/></l><r>del<b/>nord<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>northern<s n="adj"/></l><r>del<b/>nord<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>senior<s n="adj"/></l><r>senior<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>papillary<s n="adj"/></l><r>papillare<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>patrilineal<s n="adj"/></l><r>patrilineare<s n="adj"/><s n="mf"/></r></p></e>
@@ -3395,7 +3396,8 @@
     <e><p><l>somali<s n="adj"/></l><r>somalo<s n="adj"/></r></p></e>
     <e r="LR"><p><l>sorry<s n="adj"/></l><r>triste<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>sought-after<s n="adj"/></l><r>richiesto<s n="adj"/></r></p></e>
-    <e><p><l>southern<s n="adj"/></l><r>meridionale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>south<s n="adj"/></l><r>meridionale<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>southern<s n="adj"/></l><r>meridionale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>soviet<s n="adj"/></l><r>sovietico<s n="adj"/></r></p></e>
     <e><p><l>speculative<s n="adj"/></l><r>speculativo<s n="adj"/></r></p></e>
     <e><p><l>spheroidal<s n="adj"/></l><r>sferoidale<s n="adj"/><s n="mf"/></r></p></e>
