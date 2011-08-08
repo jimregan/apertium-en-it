@@ -23142,6 +23142,7 @@
     <e lm="manual"><i>manual</i><par n="house__n"/>    </e>
     <e lm="Moroccan"><i>Moroccan</i><par n="house__n"/>    </e>
     <e lm="Mexican"><p><l>Mexican</l><r>mexican</r></p><par n="house__n"/>    </e>
+    <e lm="Levite"><p><l>Levite</l><r>levite</r></p><par n="house__n"/>    </e>
     <e lm="moral"><i>moral</i><par n="house__n"/>    </e>
     <e lm="Muslim"><i>Muslim</i><par n="house__n"/>    </e>
     <e lm="Nepalese"><i>Nepalese</i><par n="house__n"/>    </e>
@@ -24570,6 +24571,14 @@
     <e lm="optional"><i>optional</i><par n="expensive__adj"/>    </e>
     <e lm="oral"><i>oral</i><par n="expensive__adj"/>    </e>
     <e lm="orange"><i>orange</i><par n="expensive__adj"/>    </e>
+    <e lm="diagnostic"><i>diagnostic</i><par n="expensive__adj"/>    </e>
+    <e lm="diabetic"><i>diabetic</i><par n="expensive__adj"/>    </e>
+    <e lm="derivative"><i>derivative</i><par n="expensive__adj"/>    </e>
+    <e lm="relaxed"><i>relaxed</i><par n="expensive__adj"/>    </e>
+    <e lm="elected"><i>elected</i><par n="expensive__adj"/>    </e>
+    <e lm="tiresome"><i>tiresome</i><par n="expensive__adj"/>    </e>
+    <e lm="exiled"><i>exiled</i><par n="expensive__adj"/>    </e>
+    <e lm="figurative"><i>figurative</i><par n="expensive__adj"/>    </e>
     <e lm="ordinary"><i>ordinary</i><par n="expensive__adj"/>    </e>
     <e lm="organic"><i>organic</i><par n="expensive__adj"/>    </e>
     <e lm="oriental"><i>oriental</i><par n="expensive__adj"/>    </e>
