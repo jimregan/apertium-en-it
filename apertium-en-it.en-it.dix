@@ -12916,7 +12916,7 @@
     <e r="RL"><p><l>allocation<s n="n"/></l><r>allocazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>allocation<n></l><r>assegnazione<n><f></r></e>).-->
     <e><p><l>allophone<s n="n"/></l><r>allofono<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>allowance<s n="n"/></l><r>pensione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>alloy<s n="n"/></l><r>lega<s n="n"/><s n="f"/></r></p></e>
+    <e srl="alloy"><p><l>alloy<s n="n"/></l><r>lega<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>allusion<s n="n"/></l><r>allusione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>alluvium<s n="n"/></l><r>alluvione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>ally<s n="n"/></l><r>alleato<s n="n"/><s n="GD"/></r></p></e>
@@ -17542,12 +17542,14 @@
     <e><p><l>lead<s n="n"/></l><r>piombo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>lead<b/>dancer<s n="n"/></l><r>primo<b/>ballerino<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>lead<b/>dancer<s n="n"/></l><r>primo<b/>ballerino<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>coup<b/>leader<s n="n"/></l><r>golpista<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>coup<b/>leader<s n="n"/></l><r>golpista<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>leader<s n="n"/></l><r>dirigente<s n="n"/><s n="mf"/></r></p></e>
-    <e r="RL"><p><l>leader<s n="n"/></l><r>leader<s n="n"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>leader<n></l><r>dirigente<n><mf></r></e>).-->
-    <e r="LR"><p><l>leaf<s n="n"/></l><r>foglia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>blade<n></l><r>foglia<n><f></r></e>).-->
-    <e r="LR"><p><l>league<s n="n"/></l><r>lega<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>alloy<n></l><r>lega<n><f></r></e>).-->
+    <e r="RL"><p><l>leader<s n="n"/></l><r>leader<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>leaf<s n="n"/></l><r>foglia<s n="n"/><s n="f"/></r></p></e>
+    <e srl="league D"><p><l>league<s n="n"/></l><r>lega<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>leak<s n="n"/></l><r>filtrazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>leap<s n="n"/></l><r>salto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>jump<n></l><r>salto<n><m></r></e>).-->
+    <e r="LR"><p><l>leap<s n="n"/></l><r>salto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>learning<s n="n"/></l><r>apprendimento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lease<s n="n"/></l><r>locazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>leash<s n="n"/></l><r>guinzaglio<s n="n"/><s n="m"/></r></p></e>
