@@ -12881,7 +12881,8 @@
     <e r="LR"><p><l>album<s n="n"/><s n="pl"/></l><r>album<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>album<s n="n"/><s n="ND"/></l><r>album<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>albumin<s n="n"/></l><r>albumina<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>alchemist<s n="n"/></l><r>alchimista<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>alchemist<s n="n"/></l><r>alchimista<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>alchemist<s n="n"/></l><r>alchimista<s n="n"/></r></p></e>
     <e><p><l>alchemy<s n="n"/></l><r>alchimia<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>alcohol<s n="n"/><s n="sg"/></l><r>alcool<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>alcohol<s n="n"/><s n="pl"/></l><r>alcool<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -15881,12 +15882,12 @@
     <e r="LR"><p><l>farming<s n="n"/></l><r>agricoltura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fart<s n="n"/></l><r>peto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fascism<s n="n"/></l><r>fascismo<s n="n"/><s n="m"/></r></p></e>
-    <e c="check"><p><l>fascist<s n="n"/></l><r>fascista<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>fascist<s n="n"/></l><r>fascista<s n="n"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>fascist<s n="n"/></l><r>fascista<s n="n"/></r></p></e>
     <e><p><l>fashion<s n="n"/></l><r>moda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fat<s n="n"/></l><r>grasso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fatalism<s n="n"/></l><r>fatalismo<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>fate<s n="n"/></l><r>destino<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>destination<n></l><r>destino<n><m></r></e>).-->
-    <e i="yes"><p><l>fate<s n="n"/></l><r>destinazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>destination<n></l><r>destinazione<n><f></r></e>).-->
+    <e r="LR"><p><l>fate<s n="n"/></l><r>destino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>father<s n="n"/></l><r>padre<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>fault<s n="n"/></l><r>mancanza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fault<s n="n"/></l><r>colpa<s n="n"/><s n="f"/></r></p></e>
@@ -15954,13 +15955,12 @@
     <e r="LR"><p><l>ficus<s n="n"/><s n="sg"/></l><r>ficus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>ficus<s n="n"/><s n="pl"/></l><r>ficus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>fiefdom<s n="n"/></l><r>infeudazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>field<s n="n"/></l><r>campo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>countryside<n></l><r>campo<n><m></r></e>).-->
-    <e i="yes"><p><l>field<s n="n"/></l><r>ambito<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>domain<n></l><r>ambito<n><m></r></e>).-->
+    <e r="LR"><p><l>field<s n="n"/></l><r>campo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fig<s n="n"/></l><r>fico<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fight<s n="n"/></l><r>combattimento<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>fight<s n="n"/></l><r>lotta<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>fight<n></l><r>combattimento<n><m></r></e>).-->
+    <e r="RL"><p><l>fight<s n="n"/></l><r>lotta<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>fighter<s n="n"/><s n="ND"/></l><r>caccia<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>fighter<s n="n"/></l><r>combattente<s n="n"/><s n="mf"/></r></p></e><!--  autorestricted (<e r="RL"><l>activist<n></l><r>combattente<n><mf></r></e>).-->
+    <e r="LR"><p><l>fighter<s n="n"/></l><r>combattente<s n="n"/><s n="mf"/></r></p></e>
     <e slr="archivio D"><p><l>file<s n="n"/></l><r>archivio<s n="n"/><s n="m"/></r></p></e>
     <e slr="lima"><p><l>file<s n="n"/></l><r>lima<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>file<s n="n"/><s n="ND"/></l><r>file<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -16180,7 +16180,10 @@
     <e r="LR"><p><l>functioning<s n="n"/></l><r>funzionamento<s n="n"/><s n="m"/></r></p></e>
     <e srl="fund"><p><l>fund<s n="n"/></l><r>fondo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fundamentalism<s n="n"/></l><r>fondamentalismo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>fundamentalist<s n="n"/></l><r>fondamentalista<s n="n"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>fundamentalist<s n="n"/></l><r>fondamentalista<s n="n"/></r></p></e>
+    <e r="LR"><p><l>fundamentalist<s n="n"/></l><r>fondamentalista<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>hermit<s n="n"/></l><r>eremista<s n="n"/></r></p></e>
+    <e r="LR"><p><l>hermit<s n="n"/></l><r>eremista<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>funding<s n="n"/></l><r>finanziamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>funding<s n="n"/></l><r>finanziamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>funeral<s n="n"/></l><r>funerale<s n="n"/><s n="m"/></r></p></e>
@@ -16696,7 +16699,8 @@
     <e><p><l>guild<s n="n"/></l><r>corporazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>guinea<b/>pig<s n="n"/></l><r>cavia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>guitar<s n="n"/></l><r>chitarra<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>guitarist<s n="n"/></l><r>chitarrista<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>guitarist<s n="n"/></l><r>chitarrista<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>guitarist<s n="n"/></l><r>chitarrista<s n="n"/></r></p></e>
     <e><p><l>gulf<s n="n"/></l><r>golfo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>gum<s n="n"/></l><r>gengiva<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gun<s n="n"/></l><r>pistola<s n="n"/><s n="f"/></r></p></e>
@@ -17589,6 +17593,7 @@
     <e><p><l>level<s n="n"/></l><r>livello<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>level<s n="n"/></l><r>livella<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lever<s n="n"/></l><r>leva<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>levite<s n="n"/></l><r>levita<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>levitation<s n="n"/></l><r>levitazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lexicalisation<s n="n"/></l><r>lessicalizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lexicography<s n="n"/></l><r>lessicografia<s n="n"/><s n="f"/></r></p></e>
@@ -17757,6 +17762,8 @@
     <e><p><l>madness<s n="n"/></l><r>pazzia<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>madridian<s n="n"/></l><r>madrileno<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>madridian<s n="n"/></l><r>madrileno<s n="n"/></r></p></e>
+    <e r="LR"><p><l>neo-Nazi<s n="n"/></l><r>neonazista<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>neo-Nazi<s n="n"/></l><r>neonazista<s n="n"/></r></p></e>
     <e r="LR"><p><l>shop<b/>assistant<s n="n"/></l><r>commesso<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>shop<b/>assistant<s n="n"/></l><r>commesso<s n="n"/></r></p></e>
     <e><p><l>maduration<s n="n"/></l><r>maturazione<s n="n"/><s n="f"/></r></p></e>
@@ -18581,7 +18588,8 @@
     <e><p><l>pace<s n="n"/></l><r>passo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pacification<s n="n"/></l><r>pacificazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pacifism<s n="n"/></l><r>pacifismo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>pacifist<s n="n"/></l><r>pacifista<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>pacifist<s n="n"/></l><r>pacifista<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>pacifist<s n="n"/></l><r>pacifista<s n="n"/></r></p></e>
     <e><p><l>pack<s n="n"/></l><r>pacchetto<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>package<s n="n"/></l><r>pacchetto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>pack<n></l><r>pacchetto<n><m></r></e>).-->
     <e r="RL"><p><l>package<s n="n"/></l><r>confezione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>package<n></l><r>pacchetto<n><m></r></e>).-->
@@ -20477,10 +20485,14 @@
     <e><p><l>automotion<s n="n"/></l><r>automozione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>awareness<s n="n"/></l><r>consapevolezza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>revisor<s n="n"/></l><r>revisore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>half-wit<s n="n"/></l><r>deficiente<s n="n"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>entity<s n="n"/></l><r>ente<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>heir<s n="n"/></l><r>erede<s n="n"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>collyrium<s n="n"/></l><r>collirio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>eye<b/>drop<s n="n"/></l><r>collirio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>auditor<s n="n"/></l><r>revisore<g><b/>dei<b/>conti</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>byte<s n="n"/></l><r>byte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>con<s n="n"/></l><r>contro<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>ashtray<s n="n"/></l><r>portacenere<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>sidecar<s n="n"/></l><r>sidecar<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>coulomb<s n="n"/></l><r>coulomb<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
