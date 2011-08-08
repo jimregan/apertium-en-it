@@ -13765,7 +13765,7 @@
     <e><p><l>sting<s n="n"/></l><r>pungiglione<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>subdivision<s n="n"/></l><r>suddivisione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>supervision<s n="n"/></l><r>supervisione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>sweater<s n="n"/></l><r>maglione<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>sweater<s n="n"/></l><r>maglione<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tampon<s n="n"/></l><r>tampone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>transgression<s n="n"/></l><r>trasgressione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>translocation<s n="n"/></l><r>traslocazione<s n="n"/><s n="f"/></r></p></e>
@@ -15729,6 +15729,8 @@
     <e><p><l>execution<s n="n"/></l><r>esecuzione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>executive<s n="n"/></l><r>esecutivo<s n="n"/></r></p></e>
     <e r="LR"><p><l>executive<s n="n"/></l><r>esecutivo<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>consumerist<s n="n"/></l><r>consumista<s n="n"/></r></p></e>
+    <e r="LR"><p><l>consumerist<s n="n"/></l><r>consumista<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>exemplification<s n="n"/></l><r>esemplificazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>exemption<s n="n"/></l><r>esenzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>exercise<s n="n"/></l><r>esercizio<s n="n"/><s n="m"/></r></p></e>
@@ -15747,10 +15749,12 @@
     <e><p><l>contracture<s n="n"/></l><r>contrattura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>curing<s n="n"/></l><r>stagionatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dye<s n="n"/></l><r>tintura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>carambola<s n="n"/></l><r>carambola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>shutter<s n="n"/></l><r>battente<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>facet<s n="n"/></l><r>sfaccettatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>flowering<s n="n"/></l><r>fioritura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>investiture<s n="n"/></l><r>investitura<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>labeling<s n="n"/></l><r>etichettatura<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>labeling<s n="n"/></l><r>etichettatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>musculature<s n="n"/></l><r>muscolatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>consulting<s n="n"/></l><r>consulenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>convalescence<s n="n"/></l><r>convalescenza<s n="n"/><s n="f"/></r></p></e>
@@ -17727,9 +17731,9 @@
     <e r="RL"><p><l>luminosity<s n="n"/><s n="ND"/></l><r>luminosità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>luminosity<s n="n"/><s n="sg"/></l><r>luminosità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>luminosity<s n="n"/><s n="pl"/></l><r>luminosità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>luminosity<s n="n"/></l><r>chiaro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lump<s n="n"/></l><r>gonfiore<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>lunch<s n="n"/></l><r>cibo<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>lunch<s n="n"/></l><r>pranzo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>lunch<n></l><r>cibo<n><m></r></e>).-->
+    <e><p><l>lunch<s n="n"/></l><r>pranzo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lung<s n="n"/></l><r>polmone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lust<s n="n"/></l><r>lussuria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lustrum<s n="n"/></l><r>lustro<s n="n"/><s n="m"/></r></p></e>
@@ -17753,9 +17757,11 @@
     <e><p><l>madness<s n="n"/></l><r>pazzia<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>madridian<s n="n"/></l><r>madrileno<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>madridian<s n="n"/></l><r>madrileno<s n="n"/></r></p></e>
+    <e r="LR"><p><l>shop<b/>assistant<s n="n"/></l><r>commesso<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>shop<b/>assistant<s n="n"/></l><r>commesso<s n="n"/></r></p></e>
     <e><p><l>maduration<s n="n"/></l><r>maturazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mafia<s n="n"/></l><r>mafia<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>magazine<s n="n"/></l><r>rivista<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>journal<n></l><r>rivista<n><f></r></e>).-->
+    <e r="LR"><p><l>magazine<s n="n"/></l><r>rivista<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>maghrebian<s n="n"/></l><r>magrebino<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>maghrebian<s n="n"/></l><r>magrebino<s n="n"/></r></p></e>
     <e><p><l>magic<s n="n"/></l><r>magia<s n="n"/><s n="f"/></r></p></e>
@@ -17882,8 +17888,8 @@
     <e><p><l>maximisation<s n="n"/></l><r>massimizzazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>mayor<s n="n"/></l><r>sindaco<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>mayor<s n="n"/></l><r>sindaco<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>meadow<s n="n"/></l><r>prato<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>lawn<n></l><r>prato<n><m></r></e>).-->
-    <e r="LR"><p><l>meal<s n="n"/></l><r>cibo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>lunch<n></l><r>cibo<n><m></r></e>).-->
+    <e r="LR"><p><l>meadow<s n="n"/></l><r>prato<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>meal<s n="n"/></l><r>cibo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>meander<s n="n"/></l><r>meandro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>meaning<s n="n"/></l><r>accezione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>means<s n="n"/></l><r>mezzo<s n="n"/><s n="m"/></r></p></e>
@@ -19527,7 +19533,7 @@
     <e><p><l>bitterness<s n="n"/></l><r>amarezza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>blastula<s n="n"/></l><r>blastula<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>breeze<s n="n"/></l><r>brezza<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>brooch<s n="n"/></l><r>spilla<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>brooch<s n="n"/></l><r>spilla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>safety<b/>pin<s n="n"/></l><r>spilla<g><b/>di<b/>sicurezza</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>camphor<s n="n"/></l><r>canfora<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>canteen<s n="n"/></l><r>mensa<s n="n"/><s n="f"/></r></p></e>
@@ -20026,7 +20032,7 @@
     <e r="RL"><p><l>seal<s n="n"/></l><r>francobollo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>seal<n></l><r>foca<n><f></r></e>).-->
     <e r="LR"><p><l>search<s n="n"/></l><r>ricerca<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>enquiry<n></l><r>ricerca<n><f></r></e>).-->
     <e><p><l>search<b/>engine<s n="n"/></l><r>motore<g><b/>di<b/>ricerca</g><s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>seashell<s n="n"/></l><r>conchiglia<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>seashell<s n="n"/></l><r>conchiglia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>season<s n="n"/></l><r>stagione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>seat<s n="n"/><s n="ND"/></l><r>località<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>seaweed<s n="n"/></l><r>alga<s n="n"/><s n="f"/></r></p></e>
@@ -20188,7 +20194,6 @@
     <e><p><l>short<b/>film<s n="n"/></l><r>cortometraggio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>shortage<s n="n"/><s n="sg"/></l><r>scarsità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>shortage<s n="n"/><s n="pl"/></l><r>scarsità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e><p><l>shortage<s n="n"/></l><r>carenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>shortcrust<b/>pastry<s n="n"/></l><r>pasta<b/>frolla<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>shortcrust<b/>pastry<s n="n"/></l><r>pastafrolla<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>shortening<s n="n"/></l><r>abbreviazione<s n="n"/><s n="f"/></r></p></e>
@@ -21146,7 +21151,7 @@
     <e><p><l>teenager<s n="n"/></l><r>adolescente<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>telecommunication<s n="n"/></l><r>telecomunicazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>teleconferencing<s n="n"/></l><r>teleconferenza<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>telegram<s n="n"/></l><r>telegrafo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>telegram<s n="n"/></l><r>telegrafo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>telegraphy<s n="n"/></l><r>telegrafia<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>telephone<s n="n"/></l><r>telefono<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>phone<n></l><r>telefono<n><m></r></e>).-->
     <e><p><l>telephone<b/>exchange<s n="n"/></l><r>centralina<s n="n"/><s n="f"/></r></p></e>
