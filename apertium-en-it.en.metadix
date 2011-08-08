@@ -24574,6 +24574,8 @@
     <e lm="diagnostic"><i>diagnostic</i><par n="expensive__adj"/>    </e>
     <e lm="diabetic"><i>diabetic</i><par n="expensive__adj"/>    </e>
     <e lm="derivative"><i>derivative</i><par n="expensive__adj"/>    </e>
+    <e lm="non-smoker"><i>non-smoker</i><par n="expensive__adj"/>    </e>
+    <e lm="non-smoker"><i>non-smoker</i><par n="house__n"/>    </e>
     <e lm="relaxed"><i>relaxed</i><par n="expensive__adj"/>    </e>
     <e lm="elected"><i>elected</i><par n="expensive__adj"/>    </e>
     <e lm="tiresome"><i>tiresome</i><par n="expensive__adj"/>    </e>
@@ -33807,6 +33809,7 @@
     <e lm="coil" a="greenbreen"><i>coil</i><par n="house__n"/></e>
     <e lm="friction" a="greenbreen"><i>friction</i><par n="house__n"/></e>
     <e lm="cactus" a="greenbreen"><i>cact</i><par n="cact/us__n"/></e>
+    <e lm="uterus"><i>uter</i><par n="cact/us__n"/></e>
     <e lm="arithmetic" a="greenbreen"><i>arithmetic</i><par n="house__n"/></e>
     <e lm="haircut" a="greenbreen"><i>haircut</i><par n="house__n"/></e>
     <e lm="lumber" a="greenbreen"><i>lumber</i><par n="house__n"/></e>

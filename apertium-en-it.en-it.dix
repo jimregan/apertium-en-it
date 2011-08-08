@@ -15883,7 +15883,7 @@
     <e><p><l>fart<s n="n"/></l><r>peto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fascism<s n="n"/></l><r>fascismo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>fascist<s n="n"/></l><r>fascista<s n="n"/><s n="GD"/></r></p></e>
-    <e r="LR"><p><l>fascist<s n="n"/></l><r>fascista<s n="n"/></r></p></e>
+    <e r="RL"><p><l>fascist<s n="n"/></l><r>fascista<s n="n"/></r></p></e>
     <e><p><l>fashion<s n="n"/></l><r>moda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fat<s n="n"/></l><r>grasso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fatalism<s n="n"/></l><r>fatalismo<s n="n"/><s n="m"/></r></p></e>
@@ -16076,11 +16076,13 @@
     <e><p><l>folklore<s n="n"/></l><r>folclore<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>folly<s n="n"/></l><r>pazzia<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>font<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>food<s n="n"/></l><r>cibo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>food<s n="n"/></l><r>cibo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>food<s n="n"/></l><r>alimento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>foot<s n="n"/></l><r>piede<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>foolishness<s n="n"/></l><r>sciocchezza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>foot-and-mouth<b/>disease<s n="n"/></l><r>afta<b/>epizootica<s n="n"/><s n="f"/></r></p></e>
     <e srl="football"><p><l>football<s n="n"/><s n="sg"/></l><r>calcio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>football<s n="n"/><s n="pl"/></l><r>calcio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>football<b/>pool<s n="n"/><s n="ND"/></l><r>totocalcio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>football<b/>pool<s n="n"/><s n="sg"/></l><r>totocalcio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>football<b/>pool<s n="n"/><s n="pl"/></l><r>totocalcio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -17058,9 +17060,10 @@
     <e r="RL"><p><l>ideologist<s n="n"/></l><r>ideologo<s n="n"/></r></p></e>
     <e r="LR"><p><l>ideologist<s n="n"/></l><r>ideologo<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>ideology<s n="n"/></l><r>ideologia<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>idiom<s n="n"/></l><r>idiotismo<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>idiom<s n="n"/></l><r>idiotismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>idiosyncrasy<s n="n"/></l><r>idiosincrasia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>idiot<s n="n"/></l><r>idiota<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>idiot<s n="n"/></l><r>idiota<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>idiot<s n="n"/></l><r>idiota<s n="n"/></r></p></e>
     <e r="RL"><p><l>idiot<s n="n"/></l><r>somaro<s n="n"/></r></p></e>
     <e><p><l>idol<s n="n"/></l><r>idolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ignominy<s n="n"/></l><r>ignominia<s n="n"/><s n="f"/></r></p></e>
@@ -19184,6 +19187,9 @@
     <e><p><l>precedence<s n="n"/></l><r>precedenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>precedent<s n="n"/></l><r>precedente<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>precedent<s n="adj"/></l><r>precedente<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>non-smoker<s n="adj"/></l><r>non<b/>fumatore<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>non-smoker<s n="n"/></l><r>non<b/>fumatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>non-smoker<s n="n"/></l><r>non<b/>fumatore<s n="n"/></r></p></e>
     <e><p><l>reunion<s n="n"/></l><r>ricongiungimento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>recourse<s n="n"/></l><r>ricorso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>precipice<s n="n"/></l><r>precipizio<s n="n"/><s n="m"/></r></p></e>
@@ -21070,7 +21076,8 @@
     <e r="LR"><p><l>syntax<s n="n"/><s n="pl"/></l><r>sintassi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>syringe<s n="n"/></l><r>siringa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>system<s n="n"/></l><r>sistema<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>gymnast<s n="n"/></l><r>ginnasta<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>gymnast<s n="n"/></l><r>ginnasta<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>gymnast<s n="n"/></l><r>ginnasta<s n="n"/></r></p></e>
     <e><p><l>ineptitude<s n="n"/></l><r>inettitudine<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>impossible<s n="n"/></l><r>impossibile<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>task<s n="n"/></l><r>incarico<s n="n"/><s n="m"/></r></p></e>
@@ -26538,6 +26545,7 @@
     <e r="RL"><p><l>all<b/>that<b/>glitters<b/>is<b/>not<b/>gold<s n="ij"/></l><r>non<b/>è<b/>tutto<b/>oro<b/>quel<b/>che<b/>luccica<s n="ij"/></r></p></e>
     <e><p><l>better<b/>late<b/>than<b/>never<s n="ij"/></l><r>meglio<b/>tardi<b/>che<b/>mai<s n="ij"/></r></p></e>
     <e><p><l>bye<s n="ij"/></l><r>arrivederci<s n="ij"/></r></p></e>
+    <e><p><l>bingo<s n="ij"/></l><r>bingo<s n="ij"/></r></p></e>
     <e><p><l>ciao<s n="ij"/></l><r>ciao<s n="ij"/></r></p></e>
     <e><p><l>curiosity<b/>killed<b/>the<b/>cat<s n="ij"/></l><r>la<b/>curiosità<b/>uccise<b/>il<b/>gatto<s n="ij"/></r></p></e>
     <e><p><l>good<b/>morning<s n="ij"/></l><r>buon<b/>giorno<s n="ij"/></r></p></e>
