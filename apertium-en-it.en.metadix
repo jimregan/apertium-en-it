@@ -23468,6 +23468,7 @@
     <e lm="Czechoslovak"><p><l>Czechoslovak</l><r>czechoslovak</r></p><par n="expensive__adj"/></e>
     <e lm="Doric"><p><l>Doric</l><r>doric</r></p><par n="expensive__adj"/></e>
     <e lm="Ethiopian"><p><l>Ethiopian</l><r>ethiopian</r></p><par n="expensive__adj"/></e>
+    <e lm="Ethiopian"><p><l>Ethiopian</l><r>ethiopian</r></p><par n="house__n"/></e>
     <e lm="Gaelic"><p><l>Gaelic</l><r>gaelic</r></p><par n="expensive__adj"/></e>
     <e lm="Galician"><p><l>Galician</l><r>galician</r></p><par n="expensive__adj"/></e>
     <e lm="Germanic"><p><l>Germanic</l><r>germanic</r></p><par n="expensive__adj"/></e>
@@ -23506,6 +23507,8 @@
     <e lm="absorbent"><i>absorbent</i><par n="expensive__adj"/></e>
     <e lm="cardiovascular"><i>cardiovascular</i><par n="expensive__adj"/></e>
     <e lm="hydrophobia"><i>hydrophobia</i><par n="house__n"/></e>
+    <e lm="containment"><i>containment</i><par n="house__n"/></e>
+    <e lm="complement"><i>complement</i><par n="house__n"/></e>
     <e lm="alcove"><i>alcove</i><par n="house__n"/></e>
     <e lm="influx"><i>influx</i><par n="access__n"/></e>
     <e lm="North American"><i>North<b/>American</i><par n="expensive__adj"/></e>
@@ -34303,6 +34306,7 @@
     <e lm="criminal" a="greenbreen"><i>criminal</i><par n="expensive__adj"/></e>
     <e lm="warrior"><i>warrior</i><par n="expensive__adj"/></e>
     <e lm="insipid"><i>insipid</i><par n="expensive__adj"/></e>
+    <e lm="insidious"><i>insidious</i><par n="expensive__adj"/></e>
     <e lm="preferred"><i>preferred</i><par n="expensive__adj"/></e>
     <e lm="resulting"><i>resulting</i><par n="expensive__adj"/></e>
     <e lm="park"><i>park</i><par n="expensive__adj"/></e>
@@ -34368,6 +34372,7 @@
     <e lm="dirty clothes" a="greenbreen"><i>dirty<b/>clothes</i><par n="alms__n"/></e>
     <e lm="bowl" a="greenbreen"><i>bowl</i><par n="house__n"/></e>
     <e lm="trash bag" a="greenbreen"><i>trash<b/>bag</i><par n="house__n"/></e>
+    <e lm="rubbish bag"><i>rubbish<b/>bag</i><par n="house__n"/></e>
     <e lm="paper plate" a="greenbreen"><i>paper<b/>plate</i><par n="house__n"/></e>
     <e lm="ramen" a="greenbreen"><i>ramen</i><par n="staff__n"/></e>
     <e lm="cornflour" r="LR" a="greenbreen"><i>cornflour</i><par n="house__n"/></e>
@@ -35267,6 +35272,8 @@
     <e lm="legislature"><i>legislature</i><par n="house__n"/></e>
     <e lm="Martian"><p><l>Martian</l><r>martian</r></p><par n="house__n"/></e>
     <e lm="Martian"><p><l>Martian</l><r>martian</r></p><par n="expensive__adj"/></e>
+    <e lm="Kuwaiti"><p><l>Kuwaiti</l><r>kuwaiti</r></p><par n="house__n"/></e>
+    <e lm="Kuwaiti"><p><l>Kuwaiti</l><r>kuwaiti</r></p><par n="expensive__adj"/></e>
     <e lm="mathematics"><i>mathematics</i><par n="politics__n"/></e>
     <e lm="mediation"><i>mediation</i><par n="house__n"/></e>
     <e lm="mesotherapy"><i>mesotherap</i><par n="bab/y__n"/></e>

@@ -432,6 +432,8 @@
     <e><p><l>asturian<s n="adj"/></l><r>asturiano<s n="adj"/></r></p></e>
     <e r="RL"><p><l>Castilian<s n="adj"/></l><r>castiglionese<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>ethiopian<s n="adj"/></l><r>etiope<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>ethiopian<s n="n"/></l><r>etiope<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>containment<s n="n"/></l><r>contenimento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>flemish<s n="adj"/></l><r>fiammingo<s n="adj"/></r></p></e>
     <e r="RL"><p><l>flemish<s n="n"/></l><r>fiammingo<s n="n"/></r></p></e>
     <e r="LR"><p><l>flemish<s n="n"/></l><r>fiammingo<s n="n"/><s n="GD"/></r></p></e>
@@ -443,7 +445,9 @@
     <e><p><l>gallic<s n="adj"/></l><r>gallico<s n="adj"/></r></p></e>
     <e><p><l>islamist<s n="adj"/></l><r>islamista<s n="adj"/></r></p></e>
     <e><p><l>kurdish<s n="adj"/></l><r>curdo<s n="adj"/></r></p></e>
-    <e><p><l>Kuwaiti<s n="adj"/></l><r>kuwaitiano<s n="adj"/></r></p></e>
+    <e><p><l>kuwaiti<s n="adj"/></l><r>kuwaitiano<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>kuwaiti<s n="n"/></l><r>kuwaitiano<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>kuwaiti<s n="n"/></l><r>kuwaitiano<s n="n"/></r></p></e>
     <e><p><l>Latin<b/>American<s n="adj"/></l><r>latinoamericano<s n="adj"/></r></p></e>
     <e><p><l>London<s n="adj"/></l><r>londinese<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>maghrebian<s n="adj"/></l><r>magrebino<s n="adj"/></r></p></e>
@@ -13824,7 +13828,7 @@
     <e><p><l>bull<s n="n"/></l><r>toro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bulldozer<s n="n"/></l><r>ruspa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bullet<s n="n"/></l><r>pallottola<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>bullying<s n="n"/></l><r>prepotenze<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>bullying<s n="n"/></l><r>prepotenze<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>prize-giving<s n="n"/></l><r>premiazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bumblebee<s n="n"/></l><r>bombo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>bump<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e>
@@ -17938,6 +17942,7 @@
     <e><p><l>melodrama<s n="n"/></l><r>melodramma<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>melody<s n="n"/></l><r>melodia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>member<s n="n"/></l><r>membro<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>member<s n="n"/></l><r>appartenente<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>member<g><b/>of<b/>parliament</g><s n="n"/></l><r>membro<g><b/>del<b/>parlamento</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>member<g><b/>of<b/>the<b/>European<b/>Parliament</g><s n="n"/></l><r>membro<g><b/>del<b/>Parlamento<b/>Europeo</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>membership<s n="n"/></l><r>affiliazione<s n="n"/><s n="f"/></r></p></e>
@@ -19786,6 +19791,7 @@
     <e r="LR"><p><l>requiem<s n="n"/><s n="pl"/></l><r>requiem<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>requiem<s n="n"/><s n="ND"/></l><r>requiem<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>requirement<s n="n"/></l><r>requisito<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>requirement<s n="n"/></l><r>esigenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>requisition<s n="n"/></l><r>requisizione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>rescheduling<s n="n"/></l><r>riprogrammazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rescue<s n="n"/></l><r>salvataggio<s n="n"/><s n="m"/></r></p></e>
@@ -19919,11 +19925,11 @@
     <e r="LR"><p><l>rpm<s n="n"/><s n="sg"/></l><r>rpm<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>rpm<s n="n"/><s n="pl"/></l><r>rpm<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>rubber<s n="n"/></l><r>pneumatico<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>rubber<s n="n"/></l><r>gomma<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>rubber<n></l><r>pneumatico<n><m></r></e>).-->
+    <e r="RL"><p><l>rubber<s n="n"/></l><r>gomma<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rubbish<s n="n"/><s n="sg"/></l><r>rifiuti<s n="n"/></r></p></e>
-    <e i="yes"><p><l>rubbish<s n="n"/><s n="sg"/></l><r>immondizia<s n="n"/></r></p></e><!--  autorestricted (<e><l>garbage<n><sg></l><r>immondizia<n></r></e>).-->
-    <e r="RL"><p><l>rubbish<s n="n"/><s n="sg"/></l><r>spazzatura<s n="n"/></r></p></e><!--  autorestricted (<e><l>rubbish<n><sg></l><r>rifiuti<n></r></e>).-->
+    <e r="RL"><p><l>rubbish<s n="n"/><s n="sg"/></l><r>spazzatura<s n="n"/></r></p></e>
     <e c="en_GB"><p><l>rubbish<b/>bag<s n="n"/></l><r>busta<g><b/>dell&apos;immondizia</g><s n="n"/><s n="f"/></r></p></e>
+    <e c="en_US" r="LR"><p><l>trash<b/>bag<s n="n"/></l><r>busta<g><b/>dell&apos;immondizia</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rubella<s n="n"/></l><r>rosolia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ruby<s n="n"/></l><r>rubino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rucksack<s n="n"/></l><r>zaino<s n="n"/><s n="m"/></r></p></e>
@@ -24877,7 +24883,7 @@
     <e><p><l>make<g><b/>possible</g><s n="vblex"/><s n="sep"/></l><r>fare<g><b/>possibile</g><s n="vblex"/></r></p></e>
     <e slr="fare"><p><l>make<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>fare<s n="vblex"/></r></p></e>
     <e><p><l>be<g><b/>possible</g><s n="vblex"/></l><r>essere<g><b/>possibile</g><s n="vblex"/></r></p></e>
-    <e slr="inventare D"><p><l>make<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>inventare<s n="vblex"/></r></p></e>
+    <e slr="inventare D" r="LR"><p><l>make<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>inventare<s n="vblex"/></r></p></e>
     <e><p><l>manacle<s n="vblex"/></l><r>ammanettare<s n="vblex"/></r></p></e>
     <e r="LR" c="(manage to do sth)"><p><l>manage<s n="vblex"/></l><r>raggiungere<s n="vblex"/></r></p></e>
     <e r="RL" c="(manage to do sth)"><p><l>manage<s n="vblex"/></l><r>conseguire<s n="vblex"/></r></p></e>
