@@ -86658,6 +86658,9 @@
     <e lm="arcangelo"><i>arcangel</i><par n="abbain/o__n"/></e>
     <e lm="arcaico"><i>arcaic</i><par n="abbain/o__n"/></e>
     <e lm="inchino"><i>inchin</i><par n="abbain/o__n"/></e>
+    <e lm="equipaggiamento"><i>equipaggiament</i><par n="abbain/o__n"/></e>
+    <e lm="coguaro"><i>coguar</i><par n="abbain/o__n"/></e>
+    <e lm="chelato"><i>chelat</i><par n="abbain/o__n"/></e>
     <e lm="arco"><i>arc</i><par n="fung/o__n"/></e>
     <e lm="fiocco"><i>fiocc</i><par n="fung/o__n"/></e>
     <e lm="archeologo"><i>archeolog</i><par n="cosmetic/o__n"/></e>
@@ -86727,6 +86730,7 @@
     <e lm="aspiratore"><i>aspirator</i><par n="abat/e__n"/></e>
     <e lm="aspirina"><i>aspirin</i><par n="cas/a__n"/></e>
     <e lm="asse"><i>ass</i><par n="albanes/e__n"/></e>
+    <e lm="indigente"><i>indigent</i><par n="albanes/e__n"/></e>
     <e lm="assassino"><i>assassin</i><par n="bambin/o__n"/></e>
     <e lm="assassinio"><i>assassini</i><par n="abbain/o__n"/></e>
     <e lm="assedio"><i>assedi</i><par n="abbagli/o__n"/></e>
@@ -87871,7 +87875,7 @@
     <e lm="distintivo di identificazione"><i>distintiv</i><par n="abbain/o__n"/><p><l><b/>di<b/>identificazione</l><r><g><b/>di<b/>identificazione</g></r></p></e>
     <e lm="distorsione"><i>distorsion</i><par n="abbreviazion/e__n"/></e>
     <e lm="distretto"><i>distrett</i><par n="abbain/o__n"/></e>
-    <e lm="distributore"><i>distributor</i><par n="abat/e__n"/></e>
+    <e lm="distributore"><i>distribut</i><par n="agricolt/ore__n"/></e>
     <e lm="distribuzione"><i>distribuzion</i><par n="abbreviazion/e__n"/></e>
     <e lm="distruzione"><i>distruzion</i><par n="abbreviazion/e__n"/></e>
     <e lm="disturbo"><i>disturb</i><par n="abbain/o__n"/></e>
@@ -87879,6 +87883,7 @@
     <e lm="dito del piede"><i>dit</i><par n="budell/o__n"/><p><l><b/>del<b/>piede</l><r><g><b/>del<b/>piede</g></r></p></e>
     <e lm="dittatore"><i>dittat</i><par n="agricolt/ore__n"/></e>
     <e lm="dittatura"><i>dittatur</i><par n="cas/a__n"/></e>
+    <e lm="tifa"><i>tif</i><par n="cas/a__n"/></e>
     <e lm="divergenza"><i>divergenz</i><par n="cas/a__n"/></e>
     <e lm="diversità"><i>diversità</i><par n="abilità__n"/></e>
     <e lm="divertimento"><i>divertiment</i><par n="abbain/o__n"/></e>
@@ -87898,6 +87903,7 @@
     <e lm="dogma"><i>dogm</i><par n="autom/a__n"/></e>
     <e lm="dollaro"><i>dollar</i><par n="abbain/o__n"/></e>
     <e lm="dolore"><i>dolor</i><par n="abat/e__n"/></e>
+    <e lm="cromatide"><i>cromatid</i><par n="abat/e__n"/></e>
     <e lm="domanda"><i>domand</i><par n="cas/a__n"/></e>
     <e lm="domani"><i>domani</i><par n="albatros__n"/></e>
     <e lm="domenica"><i>domenic</i><par n="tasc/a__n"/></e>
@@ -87906,6 +87912,7 @@
     <e lm="domotica"><i>domotica</i><par n="abilità__n"/></e>
     <e lm="bouillabaisse"><i>bouillabaisse</i><par n="abilità__n"/></e>
     <e lm="dono"><i>don</i><par n="abbain/o__n"/></e>
+    <e lm="ciliato"><i>ciliat</i><par n="abbain/o__n"/></e>
     <e lm="aragonesismo"><i>aragonesism</i><par n="abbain/o__n"/></e>
     <e lm="alienismo"><i>alienism</i><par n="abbain/o__n"/></e>
     <e lm="donatore"><i>donat</i><par n="agricolt/ore__n"/></e>
@@ -89496,16 +89503,19 @@
     <e lm="oscurità"><i>oscurità</i><par n="abilità__n"/></e>
     <e lm="osmosi"><i>osmosi</i><par n="abilità__n"/></e>
     <e lm="ospedale"><i>ospedal</i><par n="abat/e__n"/></e>
+    <e lm="cefalopode"><i>cefalopod</i><par n="abat/e__n"/></e>
     <e lm="ospite"><i>ospit</i><par n="albanes/e__n"/></e>
     <e lm="osso"><i>oss</i><par n="calcagn/o__n"/></e>
     <e lm="osservatore"><i>osservat</i><par n="agricolt/ore__n"/></e>
     <e lm="osservazione"><i>osservazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="ossidazione"><i>ossidazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="ossido"><i>ossid</i><par n="abbain/o__n"/></e>
+    <e lm="diossido"><i>diossid</i><par n="abbain/o__n"/></e>
     <e lm="ossido di alluminio"><i>ossid</i><par n="abbain/o__n"/><p><l><b/>di<b/>alluminio</l><r><g><b/>di<b/>alluminio</g></r></p></e>
     <e lm="ossigeno"><i>ossigen</i><par n="abbain/o__n"/></e>
     <e lm="ostacolo"><i>ostacol</i><par n="abbain/o__n"/></e>
     <e lm="ostetricia"><i>ostetricia</i><par n="abilità__n"/></e>
+    <e lm="convoglio"><i>convogli</i><par n="abbagli/o__n"/></e>
     <e lm="ottaedro"><i>ottaedr</i><par n="abbain/o__n"/></e>
     <e lm="ottagono"><i>ottagon</i><par n="abbain/o__n"/></e>
     <e lm="ottenimento"><i>otteniment</i><par n="abbain/o__n"/></e>
@@ -89725,6 +89735,7 @@
     <e lm="pazzia"><i>pazzi</i><par n="cas/a__n"/></e>
     <e lm="pc"><i>pc</i><par n="albatros__n"/></e>
     <e lm="byte"><i>byte</i><par n="albatros__n"/></e>
+    <e lm="testacroce"><i>testacroce</i><par n="albatros__n"/></e>
     <e lm="dandy"><i>dandy</i><par n="albatros__n"/></e>
     <e lm="broccoli"><i>broccoli</i><par n="albatros__n"/></e>
     <e lm="totem"><i>totem</i><par n="albatros__n"/></e>

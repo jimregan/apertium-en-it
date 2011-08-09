@@ -15277,7 +15277,11 @@
     <e srl="distortion D"><p><l>distortion<s n="n"/></l><r>distorsione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>distraction<s n="n"/></l><r>distrazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>distress<s n="n"/></l><r>angoscia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>distributor<s n="n"/></l><r>distributore<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>distributor<s n="n"/></l><r>distributore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>distributor<s n="n"/></l><r>distributore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>dispenser<s n="n"/></l><r>distributore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cattail<s n="n"/></l><r>tifa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>chromatid<s n="n"/></l><r>cromatide<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>district<s n="n"/></l><r>distretto<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>district<s n="n"/></l><r>circoscrizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>distrust<s n="n"/></l><r>diffidenza<s n="n"/><s n="f"/></r></p></e>
@@ -16345,6 +16349,9 @@
     <e><p><l>monomial<s n="n"/></l><r>monomio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>monopole<s n="n"/></l><r>monopolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>monoxide<s n="n"/></l><r>monossido<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>dioxide<s n="n"/></l><r>diossido<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cephalopod<s n="n"/></l><r>cefalopode<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>convoy<s n="n"/></l><r>convoglio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>multiple<s n="n"/></l><r>multiplo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>narcotic<s n="n"/></l><r>narcotico<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nourishment<s n="n"/></l><r>nutrimento<s n="n"/><s n="m"/></r></p></e>
@@ -17236,6 +17243,7 @@
     <e><p><l>inhabitant<s n="n"/></l><r>abitante<s n="n"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>inhabitant<s n="n"/></l><r>abitatore<s n="n"/></r></p></e>
     <e><p><l>inhalation<s n="n"/></l><r>inalazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ciliate<s n="n"/></l><r>ciliato<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>inheritance<s n="n"/><s n="sg"/></l><r>eredità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>inheritance<s n="n"/><s n="pl"/></l><r>eredità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>inheritance<s n="n"/><s n="ND"/></l><r>eredità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -20543,6 +20551,7 @@
     <e><p><l>vinaigrette<s n="n"/></l><r>vinaigrette<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>auditor<s n="n"/></l><r>revisore<g><b/>dei<b/>conti</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>byte<s n="n"/></l><r>byte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>crosshead<s n="n"/></l><r>testacroce<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>dandy<s n="n"/></l><r>dandy<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>broccoli<s n="n"/></l><r>broccoli<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>totem<s n="n"/></l><r>totem<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -21367,8 +21376,11 @@
     <e slr="consiglio"><p><l>tip<s n="n"/></l><r>consiglio<s n="n"/><s n="m"/></r></p></e>
     <e slr="punta D"><p><l>tip<s n="n"/></l><r>punta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tirade<s n="n"/></l><r>invettiva<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>tissue<s n="n"/></l><r>fazzoletto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>handkerchief<n></l><r>fazzoletto<n><m></r></e>).-->
-    <e i="yes"><p><l>tissue<s n="n"/></l><r>tessuto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>fabric<n></l><r>tessuto<n><m></r></e>).-->
+    <e><p><l>cougar<s n="n"/></l><r>coguaro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>chelate<s n="n"/></l><r>chelato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>destitute<s n="n"/></l><r>indigente<s n="n"/><s n="mf"/></r></p></e>
+    <e slr="fazzoletto D"><p><l>tissue<s n="n"/></l><r>fazzoletto<s n="n"/><s n="m"/></r></p></e>
+    <e slr="tessuto"><p><l>tissue<s n="n"/></l><r>tessuto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>titin<s n="n"/></l><r>titina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>title<s n="n"/></l><r>titolo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>titled<s n="n"/></l><r>titolato<s n="n"/><s n="GD"/></r></p></e>
