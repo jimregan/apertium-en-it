@@ -437,6 +437,7 @@
     <e r="RL"><p><l>flemish<s n="n"/></l><r>fiammingo<s n="n"/></r></p></e>
     <e r="LR"><p><l>flemish<s n="n"/></l><r>fiammingo<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>flamingo<s n="n"/></l><r>fenicottero<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>grievance<s n="n"/></l><r>lamentela<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>francoist<s n="adj"/></l><r>franchista<s n="adj"/></r></p></e>
     <e r="LR"><p><l>francoist<s n="n"/></l><r>franchista<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>francoist<s n="n"/></l><r>franchista<s n="n"/></r></p></e>
@@ -449,7 +450,7 @@
     <e><p><l>Maghrebian<s n="adj"/></l><r>magrebino<s n="adj"/></r></p></e>
     <e><p><l>Martian<s n="adj"/></l><r>marziano<s n="adj"/></r></p></e>
     <e><p><l>North<b/>American<s n="adj"/></l><r>nordamericano<s n="adj"/></r></p></e>
-    <e><p><l>Pakistani<s n="adj"/></l><r>pachistano<s n="adj"/></r></p></e>
+    <e><p><l>pakistani<s n="adj"/></l><r>pachistano<s n="adj"/></r></p></e>
     <e><p><l>abdominal<s n="adj"/></l><r>addominale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>aberrant<s n="adj"/></l><r>aberrante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>able<s n="adj"/><s n="sint"/></l><r>capace<s n="adj"/><s n="mf"/></r></p></e>
@@ -1565,10 +1566,13 @@
     <e><p><l>global<s n="adj"/></l><r>globale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>glorious<s n="adj"/></l><r>magnifico<s n="adj"/></r></p></e>
     <e><p><l>good<s n="adj"/><s n="sint"/></l><r>buono<s n="adj"/></r></p></e>
-    <e><p><l>good<s n="adj"/><s n="sint"/><s n="comp"/></l><r>migliore<s n="adj"/></r></p></e>
-    <e r="LR" c="MG: cal fer regla ca-en per al superlatiu"><p><l>good<s n="adj"/><s n="sint"/><s n="sup"/></l><r>migliore<s n="adj"/></r></p></e>
+    <e><p><l>good<s n="adj"/><s n="sint"/><s n="comp"/></l><r>migliore<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR" c="MG: cal fer regla ca-en per al superlatiu"><p><l>good<s n="adj"/><s n="sint"/><s n="sup"/></l><r>migliore<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>gothic<s n="adj"/></l><r>gotico<s n="adj"/></r></p></e>
     <e><p><l>governmental<s n="adj"/></l><r>governativo<s n="adj"/></r></p></e>
+    <e><p><l>jacobite<s n="adj"/></l><r>giacobita<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>jacobite<s n="n"/></l><r>giacobita<s n="n"/></r></p></e>
+    <e r="LR"><p><l>jacobite<s n="n"/></l><r>giacobita<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>gradual<s n="adj"/></l><r>graduale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>graduate<s n="adj"/></l><r>laureato<s n="adj"/></r></p></e>
     <e><p><l>grammatical<s n="adj"/></l><r>grammaticale<s n="adj"/><s n="mf"/></r></p></e>
@@ -12154,7 +12158,11 @@
     <e><p><l>lurch<s n="n"/></l><r>scarto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yoke<s n="n"/></l><r>giogo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>agnosia<s n="n"/></l><r>agnosia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>accomplice<s n="n"/></l><r>complice<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>composition<s n="n"/></l><r>composizione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>spouse<s n="n"/></l><r>coniuge<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>agora<s n="n"/></l><r>agorà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>notepad<s n="n"/></l><r>bloc<b/>notes<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>scarcity<s n="n"/></l><r>scarsità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>durability<s n="n"/></l><r>durabilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e r="RL"><p><l>pâté<s n="n"/></l><r>pâté<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -20678,6 +20686,8 @@
     <e r="RL"><p><l>uruguayan<s n="n"/></l><r>uruguaiano<s n="n"/></r></p></e>
     <e><p><l>uruguayan<s n="adj"/></l><r>uruguaiano<s n="adj"/></r></p></e>
     <e><p><l>victorian<s n="adj"/></l><r>vittoriano<s n="adj"/></r></p></e>
+    <e><p><l>arthurian<s n="adj"/></l><r>arturiano<s n="adj"/></r></p></e>
+    <e><p><l>anglican<s n="adj"/></l><r>anglicano<s n="adj"/></r></p></e>
     <e r="LR"><p><l>reformer<s n="n"/></l><r>riformatore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>reformer<s n="n"/></l><r>riformatore<s n="n"/></r></p></e>
     <e r="LR"><p><l>educator<s n="n"/></l><r>educatore<s n="n"/><s n="GD"/></r></p></e>
@@ -26558,6 +26568,7 @@
           group ij_symbol
       ****************************** -->
     <e><p><l>Merry<b/>Christmas<s n="ij"/></l><r>Buon<b/>Natale<s n="ij"/></r></p></e>
+    <e><p><l>mind<b/>your<b/>own<b/>business<s n="ij"/></l><r>impicciati<b/>degli<b/>affari<b/>tuoi<s n="ij"/></r></p></e>
     <e><p><l>a<b/>bird<b/>in<b/>the<b/>hand<b/>is<b/>worth<b/>two<b/>in<b/>the<b/>bush<s n="ij"/></l><r>meglio<b/>un<b/>uovo<b/>oggi<b/>che<b/>una<b/>gallina<b/>domani<s n="ij"/></r></p></e>
     <e><p><l>all<b/>that<b/>glitters<b/>is<b/>not<b/>gold<s n="ij"/></l><r>non<b/>è<b/>tutto<b/>oro<b/>quello<b/>che<b/>luccica<s n="ij"/></r></p></e>
     <e><p><l>a<b/>chip<b/>off<b/>the<b/>old<b/>block<s n="ij"/></l><r>tale<b/>e<b/>quale<b/>al<b/>genitore<s n="ij"/></r></p></e>
