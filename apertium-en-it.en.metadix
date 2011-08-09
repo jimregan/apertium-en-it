@@ -20001,6 +20001,7 @@
     <e lm="herd"><i>herd</i><par n="house__n"/>    </e>
     <e lm="heritage" a="carmentano"><i>heritage</i><par n="house__n"/>    </e>
     <e lm="hermitage"><i>hermitage</i><par n="house__n"/>    </e>
+    <e lm="hermit"><i>hermit</i><par n="house__n"/>    </e>
     <e lm="hero"><i>hero</i><par n="access__n"/>    </e>
     <e lm="heroine"><i>heroine</i><par n="house__n"/>    </e>
     <e lm="heroism"><i>heroism</i><par n="house__n"/>    </e>
@@ -28469,7 +28470,6 @@
     <e lm="El Correo"><i>El<b/>Correo</i><par n="Linux__np"/>    </e>
     <e lm="E.H. Sukarra"><i>E.H.<b/>Sukarra</i><par n="Linux__np"/>    </e>
     <e lm="breadwinner">	<i>breadwinner</i> 	<par n="house__n"/>      </e>
-    <e lm="Jacobite">	  <i>Jacobite</i> 	  <par n="house__n"/> 	</e>
     <e lm="appetiser">	  <i>appeti</i><par n="z_s"/><i>er</i> 	  <par n="house__n"/> 	</e>
     <e lm="solar cooker">	  <i>solar<b/>cooker</i> 	  <par n="house__n"/> 	</e>
     <e lm="stability">	  <i>stabilit</i> 	  <par n="bab/y__n"/> 	</e>
@@ -34302,6 +34302,14 @@
     <e lm="warrior" a="greenbreen"><i>warrior</i><par n="house__n"/></e>
     <e lm="criminal" a="greenbreen"><i>criminal</i><par n="expensive__adj"/></e>
     <e lm="warrior"><i>warrior</i><par n="expensive__adj"/></e>
+    <e lm="insipid"><i>insipid</i><par n="expensive__adj"/></e>
+    <e lm="preferred"><i>preferred</i><par n="expensive__adj"/></e>
+    <e lm="resulting"><i>resulting</i><par n="expensive__adj"/></e>
+    <e lm="park"><i>park</i><par n="expensive__adj"/></e>
+    <e lm="passenger"><i>passenger</i><par n="expensive__adj"/></e>
+    <e lm="graduate"><i>graduate</i><par n="expensive__adj"/></e>
+    <e lm="obliged"><i>obliged</i><par n="expensive__adj"/></e>
+    <e lm="pernicious"><i>pernicious</i><par n="expensive__adj"/></e>
     <e lm="subscriber"><i>subscriber</i><par n="expensive__adj"/></e>
     <e lm="gelatinous"><i>gelatinous</i><par n="expensive__adj"/></e>
     <e lm="forbidden"><i>forbidden</i><par n="expensive__adj"/></e>
@@ -35258,6 +35266,7 @@
     <e lm="Iranian"><p><l>Iranian</l><r>iranian</r></p><par n="house__n"/></e>
     <e lm="legislature"><i>legislature</i><par n="house__n"/></e>
     <e lm="Martian"><p><l>Martian</l><r>martian</r></p><par n="house__n"/></e>
+    <e lm="Martian"><p><l>Martian</l><r>martian</r></p><par n="expensive__adj"/></e>
     <e lm="mathematics"><i>mathematics</i><par n="politics__n"/></e>
     <e lm="mediation"><i>mediation</i><par n="house__n"/></e>
     <e lm="mesotherapy"><i>mesotherap</i><par n="bab/y__n"/></e>
@@ -35269,6 +35278,7 @@
     <e lm="homophobia"><i>homophobia</i><par n="house__n"/></e>
     <e lm="pagan"><i>pagan</i><par n="house__n"/></e>
     <e lm="notepad"><i>notepad</i><par n="house__n"/></e>
+    <e lm="accomplice"><i>accomplice</i><par n="house__n"/></e>
     <e lm="pakistani"><p><l>Pakistani</l><r>pakistani</r></p><par n="house__n"/></e>
     <e lm="pakistani"><p><l>Pakistani</l><r>pakistani</r></p><par n="expensive__adj"/></e>
     <e lm="rabies"><i>rabies</i><par n="politics__n"/></e>
@@ -35377,6 +35387,7 @@
     <e lm="Alicantean"><p><l>Alicantean</l><r>alicantean</r></p><par n="house__n"/></e>
     <e lm="Madridian"><p><l>Madridian</l><r>madridian</r></p><par n="house__n"/></e>
     <e lm="Maghrebian"><p><l>Maghrebian</l><r>maghrebian</r></p><par n="house__n"/></e>
+    <e lm="Maghrebian"><p><l>Maghrebian</l><r>maghrebian</r></p><par n="expensive__adj"/></e>
     <e lm="Venezuelan"><p><l>Venezuelan</l><r>venezuelan</r></p><par n="house__n"/></e>
     <e lm="Leninist"><p><l>Leninist</l><r>leninist</r></p><par n="house__n"/></e>
     <e lm="agrochemist"><i>agrochemist</i><par n="house__n"/></e>

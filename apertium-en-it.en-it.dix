@@ -420,7 +420,6 @@
           group adj_symbol
       ****************************** -->
     <e r="RL"><p><l>American<s n="adj"/></l><r>statunitense<s n="adj"/></r></p></e>
-    <e><p><l>Anglican<s n="adj"/></l><r>anglicano<s n="adj"/></r></p></e>
     <e><p><l>lucrative<s n="adj"/></l><r>lucrativo<s n="adj"/></r></p></e>
     <e r="LR"><p><l>yielding<s n="adj"/></l><r>lucrativo<s n="adj"/></r></p></e>
     <e><p><l>circular<s n="adj"/></l><r>circolare<s n="adj"/><s n="mf"/></r></p></e>
@@ -447,8 +446,8 @@
     <e><p><l>Kuwaiti<s n="adj"/></l><r>kuwaitiano<s n="adj"/></r></p></e>
     <e><p><l>Latin<b/>American<s n="adj"/></l><r>latinoamericano<s n="adj"/></r></p></e>
     <e><p><l>London<s n="adj"/></l><r>londinese<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>Maghrebian<s n="adj"/></l><r>magrebino<s n="adj"/></r></p></e>
-    <e><p><l>Martian<s n="adj"/></l><r>marziano<s n="adj"/></r></p></e>
+    <e><p><l>maghrebian<s n="adj"/></l><r>magrebino<s n="adj"/></r></p></e>
+    <e><p><l>martian<s n="adj"/></l><r>marziano<s n="adj"/></r></p></e>
     <e><p><l>North<b/>American<s n="adj"/></l><r>nordamericano<s n="adj"/></r></p></e>
     <e><p><l>pakistani<s n="adj"/></l><r>pachistano<s n="adj"/></r></p></e>
     <e><p><l>abdominal<s n="adj"/></l><r>addominale<s n="adj"/><s n="mf"/></r></p></e>
@@ -537,9 +536,9 @@
     <e><p><l>agile<s n="adj"/></l><r>agile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>agnostic<s n="adj"/></l><r>agnostico<s n="adj"/></r></p></e>
     <e><p><l>agrarian<s n="adj"/></l><r>agrario<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>agri-food<s n="adj"/></l><r>agroalimentare<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>agri-food<s n="adj"/></l><r>agroalimentare<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>agricultural<s n="adj"/></l><r>agricolo<s n="adj"/></r></p></e>
-    <e><p><l>agrifood<s n="adj"/></l><r>agroalimentare<s n="adj"/></r></p></e>
+    <e><p><l>agrifood<s n="adj"/></l><r>agroalimentare<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>agro-industrial<s n="adj"/></l><r>agroindustriale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>akin<s n="adj"/></l><r>somigliante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>alarming<s n="adj"/></l><r>allarmante<s n="adj"/><s n="mf"/></r></p></e>
@@ -1570,6 +1569,8 @@
     <e r="LR" c="MG: cal fer regla ca-en per al superlatiu"><p><l>good<s n="adj"/><s n="sint"/><s n="sup"/></l><r>migliore<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>gothic<s n="adj"/></l><r>gotico<s n="adj"/></r></p></e>
     <e><p><l>governmental<s n="adj"/></l><r>governativo<s n="adj"/></r></p></e>
+    <e><p><l>preferred<s n="adj"/></l><r>preposto<s n="adj"/></r></p></e>
+    <e><p><l>resulting<s n="adj"/></l><r>proveniente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>jacobite<s n="adj"/></l><r>giacobita<s n="adj"/></r></p></e>
     <e r="RL"><p><l>jacobite<s n="n"/></l><r>giacobita<s n="n"/></r></p></e>
     <e r="LR"><p><l>jacobite<s n="n"/></l><r>giacobita<s n="n"/><s n="GD"/></r></p></e>
@@ -12160,7 +12161,7 @@
     <e><p><l>agnosia<s n="n"/></l><r>agnosia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>accomplice<s n="n"/></l><r>complice<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>composition<s n="n"/></l><r>composizione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>spouse<s n="n"/></l><r>coniuge<s n="n"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>spouse<s n="n"/></l><r>coniuge<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>agora<s n="n"/></l><r>agorà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>notepad<s n="n"/></l><r>bloc<b/>notes<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>scarcity<s n="n"/></l><r>scarsità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
@@ -13196,7 +13197,7 @@
     <e slr="ragionamento" r="LR"><p><l>argument<s n="n"/></l><r>ragionamento<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>argument<s n="n"/></l><r>argomentazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>argumentation<s n="n"/></l><r>argomentazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>arietta<s n="n"/></l><r>aria<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>air<n></l><r>aria<n><f></r></e>).-->
+    <e><p><l>arietta<s n="n"/></l><r>arietta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aristocracy<s n="n"/></l><r>aristocrazia<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>aristocrat<s n="n"/></l><r>aristocratico<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>aristocrat<s n="n"/></l><r>aristocratico<s n="n"/></r></p></e>
@@ -17902,7 +17903,7 @@
     <e><p><l>matriarchy<s n="n"/></l><r>matriarcato<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>matrimony<s n="n"/></l><r>matrimonio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>matrix<s n="n"/></l><r>matrice<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>matter<s n="n"/></l><r>materia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>material<n></l><r>materia<n><f></r></e>).-->
+    <e><p><l>matter<s n="n"/></l><r>materia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mattress<s n="n"/></l><r>materasso<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>maturity<s n="n"/><s n="sg"/></l><r>maturità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>maturity<s n="n"/><s n="pl"/></l><r>maturità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -20951,8 +20952,7 @@
     <e r="RL"><p><l>student<s n="n"/></l><r>allievo<s n="n"/></r></p></e>
     <e srl="studio"><p><l>studio<s n="n"/></l><r>studio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR" srl="study D"><p><l>study<s n="n"/></l><r>studio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>studio<n></l><r>studio<n><m></r></e>).-->
-    <e i="yes"><p><l>stuff<s n="n"/></l><r>materiale<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>material<n></l><r>materiale<n><m></r></e>).-->
-    <e r="LR"><p><l>stuff<s n="n"/></l><r>materia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>material<n></l><r>materia<n><f></r></e>).-->
+    <e r="LR"><p><l>stuff<s n="n"/></l><r>materia<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>stump<s n="n"/></l><r>moncherino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>stump<s n="n"/></l><r>moncone<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>sty<s n="n"/></l><r>gufo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>owl<n></l><r>gufo<n><m></r></e>).-->
@@ -20963,7 +20963,7 @@
     <e><p><l>subduction<s n="n"/></l><r>subduzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>subfamily<s n="n"/></l><r>sottofamiglia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>subgroup<s n="n"/></l><r>sottogruppo<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>subject<s n="n"/></l><r>materia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>material<n></l><r>materia<n><f></r></e>).-->
+    <e r="LR"><p><l>subject<s n="n"/></l><r>argomento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>subjectivism<s n="n"/></l><r>soggettivismo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>subjectivity<s n="n"/><s n="ND"/></l><r>soggettività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>subjectivity<s n="n"/><s n="sg"/></l><r>soggettività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -26142,8 +26142,6 @@
     <e r="LR"><p><l>cypriot<s n="n"/></l><r>cipriota<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>cypriot<s n="n"/></l><r>cipriota<s n="n"/></r></p></e>
     <e><p><l>cypriot<s n="adj"/></l><r>cipriota<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>jacobite<s n="n"/></l><r>jacobita<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>jacobite<s n="n"/></l><r>jacobita<s n="n"/></r></p></e>
     <e><p><l>latvian<s n="n"/></l><r>lettone<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>lebanese<s n="n"/></l><r>libanese<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>maltese<s n="n"/></l><r>maltese<s n="n"/><s n="mf"/></r></p></e>
