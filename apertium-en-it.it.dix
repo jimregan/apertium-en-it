@@ -86133,6 +86133,7 @@
     <e lm="ottante"><i>ottant</i><par n="abat/e__n"/></e>
     <e lm="comparatore"><i>comparator</i><par n="abat/e__n"/></e>
     <e lm="console"><i>consol</i><par n="abat/e__n"/></e>
+    <e lm="proconsole"><i>proconsol</i><par n="abat/e__n"/></e>
     <e lm="disertore"><i>disertor</i><par n="abat/e__n"/></e>
     <e lm="abilitazione"><i>abilitazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="abilità"><i>abilità</i><par n="abilità__n"/></e>
@@ -86143,6 +86144,11 @@
     <e lm="albite"><i>albit</i><par n="abbreviazion/e__n"/></e>
     <e lm="agnosia"><i>agnosi</i><par n="cas/a__n"/></e>
     <e lm="apriorismo"><i>apriorism</i><par n="abbain/o__n"/></e>
+    <e lm="portico"><i>portic</i><par n="abbain/o__n"/></e>
+    <e lm="portico" r="LR"><i>portic</i><par n="fung/o__n"/></e>
+    <e lm="dittongo"><i>dittong</i><par n="fung/o__n"/></e>
+    <e lm="binomio"><i>binomi</i><par n="abbagli/o__n"/></e>
+    <e lm="vizio"><i>vizi</i><par n="abbagli/o__n"/></e>
     <e lm="dittico"><i>dittic</i><par n="abbain/o__n"/></e>
     <e lm="crêpe"><i>crêpe</i><par n="abilità__n"/></e>
     <e lm="jeep"><i>jeep</i><par n="abilità__n"/></e>
@@ -89924,6 +89930,7 @@
     <e lm="riformatore"><i>riformat</i><par n="agricolt/ore__n"/></e>
     <e lm="suggeritore"><i>suggerit</i><par n="agricolt/ore__n"/></e>
     <e lm="peseta"><i>peseta</i><par n="bagarre__n"/></e>
+    <e lm="pampa"><i>pampa</i><par n="bagarre__n"/></e>
     <e lm="pessimismo"><i>pessimism</i><par n="abbain/o__n"/></e>
     <e lm="pessimista"><i>pessimist</i><par n="suicid/a__n"/></e>
     <e lm="peste"><i>pest</i><par n="abbreviazion/e__n"/></e>
@@ -89966,6 +89973,7 @@
     <e lm="pietà"><i>pietà</i><par n="abilità__n"/></e>
     <e lm="pieno"><i>pien</i><par n="abbain/o__n"/></e>
     <e lm="pigro"><i>pigr</i><par n="bambin/o__n"/></e>
+    <e lm="rifugiato"><i>rifugiat</i><par n="bambin/o__n"/></e>
     <e lm="pila"><i>pil</i><par n="cas/a__n"/></e>
     <e lm="pilastro"><i>pilastr</i><par n="abbain/o__n"/></e>
     <e lm="pilone"><i>pilon</i><par n="abat/e__n"/></e>
@@ -90914,6 +90922,7 @@
     <e lm="stagnazione"><i>stagnazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="stalla"><i>stall</i><par n="cas/a__n"/></e>
     <e lm="stampa"><i>stamp</i><par n="cas/a__n"/></e>
+    <e lm="ristampa"><i>ristamp</i><par n="cas/a__n"/></e>
     <e lm="stampo"><i>stamp</i><par n="abbain/o__n"/></e>
     <e lm="stampante"><i>stampant</i><par n="abbreviazion/e__n"/></e>
     <e lm="standard"><i>standard</i><par n="affaire__n"/></e>
@@ -96460,10 +96469,14 @@
     <e lm="cane pastore"><p><l>cagne<b/>pastori</l><r>cane<b/>pastore<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="forza maggiora"><p><l>forza<b/>maggiore</l><r>forza<b/>maggiore<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="forza maggiora"><p><l>forze<b/>maggiori</l><r>forza<b/>maggiore<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="uva passa"><p><l>uva<b/>passe</l><r>uva<b/>passe<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="uva passa"><p><l>uve<b/>passi</l><r>uva<b/>passe<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="calcolo strutturale"><p><l>calcolo<b/>strutturale</l><r>calcolo<b/>strutturale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="calcolo strutturale"><p><l>calcoli<b/>strutturali</l><r>calcolo<b/>strutturale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="cartolina postale"><p><l>cartolina<b/>postale</l><r>cartolina<b/>postale<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="cartolina postale"><p><l>cartoline<b/>postali</l><r>cartolina<b/>postale<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="pietra miliare"><p><l>pietra<b/>miliare</l><r>pietra<b/>miliare<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="pietra miliare"><p><l>pietre<b/>miliari</l><r>pietra<b/>miliare<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="acqua corrente"><p><l>acqua<b/>corrente</l><r>acqua<b/>corrente<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="acqua corrente"><p><l>acque<b/>correnti</l><r>acqua<b/>corrente<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="triangolo rettangolo"><p><l>triangolo<b/>rettangolo</l><r>triangolo<b/>rettangolo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -101082,6 +101095,23 @@
     <e lm="paga"><i>pag</i><par n="tasc/a__n"/></e>
     <e lm="piega"><i>pieg</i><par n="tasc/a__n"/></e>
     <e lm="stecca"><i>stecc</i><par n="tasc/a__n"/></e>
+    <e lm="deroga"><i>derog</i><par n="tasc/a__n"/></e>
+    <e lm="cuspide"><i>cuspid</i><par n="abbreviazion/e__n"/></e>
+    <e lm="diagonale"><i>diagonal</i><par n="abbreviazion/e__n"/></e>
+    <e lm="formaldeide"><i>formaldeid</i><par n="abbreviazion/e__n"/></e>
+    <e lm="maionese"><i>maiones</i><par n="abbreviazion/e__n"/></e>
+    <e lm="metope"><i>metop</i><par n="abbreviazion/e__n"/></e>
+    <e lm="mucillagine"><i>mucillagin</i><par n="abbreviazion/e__n"/></e>
+    <e lm="ode"><i>od</i><par n="abbreviazion/e__n"/></e>
+    <e lm="fotocopiatrice"><i>fotocopiatric</i><par n="abbreviazion/e__n"/></e>
+    <e lm="proboscide"><i>proboscid</i><par n="abbreviazion/e__n"/></e>
+    <e lm="forbice"><i>forbic</i><par n="abbreviazion/e__n"/></e>
+    <e lm="nave"><i>nav</i><par n="abbreviazion/e__n"/></e>
+    <e lm="silice"><i>silic</i><par n="abbreviazion/e__n"/></e>
+    <e lm="sulfanilamide"><i>sulfanilamid</i><par n="abbreviazion/e__n"/></e>
+    <e lm="telescrivente"><i>telescrivent</i><par n="abbreviazion/e__n"/></e>
+    <e lm="elica"><i>elic</i><par n="tasc/a__n"/></e>
+    <e lm="pirotecnica"><i>pirotecnic</i><par n="tasc/a__n"/></e>
     <e lm="stratega"><i>strateg</i><par n="strateg/a__n"/></e>
     <e lm="collega"><i>colleg</i><par n="strateg/a__n"/></e>
     <e lm="acciaieria"><i>acciaieri</i><par n="cas/a__n"/></e>
@@ -101394,6 +101424,153 @@
     <e lm="controffensiva"><i>controffensiv</i><par n="cas/a__n"/></e>
     <e lm="coxa"><i>cox</i><par n="cas/a__n"/></e>
     <e lm="culla"><i>cull</i><par n="cas/a__n"/></e>
+    <e lm="emulatore"><i>emulat</i><par n="agricolt/ore__n"/></e>
+    <e lm="generatore"><i>generat</i><par n="agricolt/ore__n"/></e>
+    <e lm="identificatore"><i>identificat</i><par n="agricolt/ore__n"/></e>
+    <e lm="ispettore"><i>ispett</i><par n="agricolt/ore__n"/></e>
+    <e lm="legislatore"><i>legislat</i><par n="agricolt/ore__n"/></e>
+    <e lm="programmatore"><i>programmat</i><par n="agricolt/ore__n"/></e>
+    <e lm="armatore"><i>armat</i><par n="agricolt/ore__n"/></e>
+    <e lm="fornitore"><i>fornit</i><par n="agricolt/ore__n"/></e>
+    <e lm="cricket"><i>cricket</i><par n="albatros__n"/></e>
+    <e lm="farad"><i>farad</i><par n="albatros__n"/></e>
+    <e lm="firn"><i>firn</i><par n="albatros__n"/></e>
+    <e lm="geyser"><i>geyser</i><par n="albatros__n"/></e>
+    <e lm="gorilla"><i>gorilla</i><par n="albatros__n"/></e>
+    <e lm="hamburger"><i>hamburger</i><par n="albatros__n"/></e>
+    <e lm="harem"><i>harem</i><par n="albatros__n"/></e>
+    <e lm="armonium"><i>armonium</i><par n="albatros__n"/></e>
+    <e lm="autostop"><i>autostop</i><par n="albatros__n"/></e>
+    <e lm="jazz"><i>jazz</i><par n="albatros__n"/></e>
+    <e lm="joule"><i>joule</i><par n="albatros__n"/></e>
+    <e lm="kaiser"><i>kaiser</i><par n="albatros__n"/></e>
+    <e lm="kamikaze"><i>kamikaze</i><par n="albatros__n"/></e>
+    <e lm="kayak"><i>kayak</i><par n="albatros__n"/></e>
+    <e lm="machete"><i>machete</i><par n="albatros__n"/></e>
+    <e lm="maser"><i>maser</i><par n="albatros__n"/></e>
+    <e lm="maxwell"><i>maxwell</i><par n="albatros__n"/></e>
+    <e lm="megabit"><i>megabit</i><par n="albatros__n"/></e>
+    <e lm="menhir"><i>menhir</i><par n="albatros__n"/></e>
+    <e lm="microfilm"><i>microfilm</i><par n="albatros__n"/></e>
+    <e lm="multiplexer"><i>multiplexer</i><par n="albatros__n"/></e>
+    <e lm="neon"><i>neon</i><par n="albatros__n"/></e>
+    <e lm="newton"><i>newton</i><par n="albatros__n"/></e>
+    <e lm="nichel"><i>nichel</i><par n="albatros__n"/></e>
+    <e lm="oboe"><i>oboe</i><par n="albatros__n"/></e>
+    <e lm="odeon"><i>odeon</i><par n="albatros__n"/></e>
+    <e lm="parquet"><i>parquet</i><par n="albatros__n"/></e>
+    <e lm="pascal"><i>pascal</i><par n="albatros__n"/></e>
+    <e lm="pathos"><i>pathos</i><par n="albatros__n"/></e>
+    <e lm="permafrost"><i>permafrost</i><par n="albatros__n"/></e>
+    <e lm="picnic"><i>picnic</i><par n="albatros__n"/></e>
+    <e lm="piercing"><i>piercing</i><par n="albatros__n"/></e>
+    <e lm="pixel"><i>pixel</i><par n="albatros__n"/></e>
+    <e lm="playboy"><i>playboy</i><par n="albatros__n"/></e>
+    <e lm="pony"><i>pony</i><par n="albatros__n"/></e>
+    <e lm="oblò"><i>oblò</i><par n="albatros__n"/></e>
+    <e lm="pub"><i>pub</i><par n="albatros__n"/></e>
+    <e lm="radon"><i>radon</i><par n="albatros__n"/></e>
+    <e lm="rococò"><i>rococò</i><par n="albatros__n"/></e>
+    <e lm="rondò"><i>rondò</i><par n="albatros__n"/></e>
+    <e lm="scooter"><i>scooter</i><par n="albatros__n"/></e>
+    <e lm="setter"><i>setter</i><par n="albatros__n"/></e>
+    <e lm="springer"><i>springer</i><par n="albatros__n"/></e>
+    <e lm="frac"><i>frac</i><par n="albatros__n"/></e>
+    <e lm="telson"><i>telson</i><par n="albatros__n"/></e>
+    <e lm="thriller"><i>thriller</i><par n="albatros__n"/></e>
+    <e lm="toner"><i>toner</i><par n="albatros__n"/></e>
+    <e lm="tornado"><i>tornado</i><par n="albatros__n"/></e>
+    <e lm="diagnosi"><i>diagnosi</i><par n="abilità__n"/></e>
+    <e lm="ipotesi"><i>ipotesi</i><par n="abilità__n"/></e>
+    <e lm="limousine"><i>limousine</i><par n="abilità__n"/></e>
+    <e lm="oasi"><i>oasi</i><par n="abilità__n"/></e>
+    <e lm="sepsi"><i>sepsi</i><par n="abilità__n"/></e>
+    <e lm="balbuzie"><i>balbuzie</i><par n="abilità__n"/></e>
+    <e lm="sintesi"><i>sintesi</i><par n="abilità__n"/></e>
+    <e lm="trombosi"><i>trombosi</i><par n="abilità__n"/></e>
+    <e lm="ideale"><i>ideal</i><par n="albanes/e__n"/></e>
+    <e lm="intellettuale"><i>intellettual</i><par n="albanes/e__n"/></e>
+    <e lm="intendente"><i>intendent</i><par n="albanes/e__n"/></e>
+    <e lm="mutante"><i>mutant</i><par n="albanes/e__n"/></e>
+    <e lm="radicale"><i>radical</i><par n="albanes/e__n"/></e>
+    <e lm="deltoide"><i>deltoid</i><par n="abat/e__n"/></e>
+    <e lm="elettromagnete"><i>elettromagnet</i><par n="abat/e__n"/></e>
+    <e lm="femore"><i>femor</i><par n="abat/e__n"/></e>
+    <e lm="gamete"><i>gamet</i><par n="abat/e__n"/></e>
+    <e lm="granatiere"><i>granatier</i><par n="abat/e__n"/></e>
+    <e lm="ingrediente"><i>ingredient</i><par n="abat/e__n"/></e>
+    <e lm="canile"><i>canil</i><par n="abat/e__n"/></e>
+    <e lm="magnete"><i>magnet</i><par n="abat/e__n"/></e>
+    <e lm="idromele"><i>idromel</i><par n="abat/e__n"/></e>
+    <e lm="microcontrollore"><i>microcontrollor</i><par n="abat/e__n"/></e>
+    <e lm="microprocessore"><i>microprocessor</i><par n="abat/e__n"/></e>
+    <e lm="minerale"><i>mineral</i><par n="abat/e__n"/></e>
+    <e lm="ciclomotore"><i>ciclomotor</i><par n="abat/e__n"/></e>
+    <e lm="nucleotide"><i>nucleotid</i><par n="abat/e__n"/></e>
+    <e lm="opale"><i>opal</i><par n="abat/e__n"/></e>
+    <e lm="ovale"><i>oval</i><par n="abat/e__n"/></e>
+    <e lm="pedale"><i>pedal</i><par n="abat/e__n"/></e>
+    <e lm="prednisone"><i>prednison</i><par n="abat/e__n"/></e>
+    <e lm="premolare"><i>premolar</i><par n="abat/e__n"/></e>
+    <e lm="reagente"><i>reagent</i><par n="abat/e__n"/></e>
+    <e lm="semiconduttore"><i>semiconduttor</i><par n="abat/e__n"/></e>
+    <e lm="sergente"><i>sergent</i><par n="abat/e__n"/></e>
+    <e lm="sestante"><i>sestant</i><par n="abat/e__n"/></e>
+    <e lm="solenoide"><i>solenoid</i><par n="abat/e__n"/></e>
+    <e lm="sferoide"><i>sferoid</i><par n="abat/e__n"/></e>
+    <e lm="stame"><i>stam</i><par n="abat/e__n"/></e>
+    <e lm="statore"><i>stator</i><par n="abat/e__n"/></e>
+    <e lm="steroide"><i>steroid</i><par n="abat/e__n"/></e>
+    <e lm="sottoinsieme"><i>sottoinsiem</i><par n="abat/e__n"/></e>
+    <e lm="turbante"><i>turbant</i><par n="abat/e__n"/></e>
+    <e lm="diadema"><i>diadem</i><par n="autom/a__n"/></e>
+    <e lm="dilemma"><i>dilemm</i><par n="autom/a__n"/></e>
+    <e lm="elettrolita"><i>elettrolit</i><par n="autom/a__n"/></e>
+    <e lm="fibroma"><i>fibrom</i><par n="autom/a__n"/></e>
+    <e lm="glaucoma"><i>glaucom</i><par n="autom/a__n"/></e>
+    <e lm="granuloma"><i>granulom</i><par n="autom/a__n"/></e>
+    <e lm="lipoma"><i>lipom</i><par n="autom/a__n"/></e>
+    <e lm="magma"><i>magm</i><par n="autom/a__n"/></e>
+    <e lm="melanoma"><i>melanom</i><par n="autom/a__n"/></e>
+    <e lm="melisma"><i>melism</i><par n="autom/a__n"/></e>
+    <e lm="osteosarcoma"><i>osteosarcom</i><par n="autom/a__n"/></e>
+    <e lm="papilloma"><i>papillom</i><par n="autom/a__n"/></e>
+    <e lm="protoplasma"><i>protoplasm</i><par n="autom/a__n"/></e>
+    <e lm="pigiama"><i>pigiam</i><par n="autom/a__n"/></e>
+    <e lm="retinoblastoma"><i>retinoblastom</i><par n="autom/a__n"/></e>
+    <e lm="stigma"><i>stigm</i><par n="autom/a__n"/></e>
+    <e lm="stoma"><i>stom</i><par n="autom/a__n"/></e>
+    <e lm="carpo"><i>carp</i><par n="abbain/o__n"/></e>
+    <e lm="pannolino"><i>pannolin</i><par n="abbain/o__n"/></e>
+    <e lm="avvelenamento"><i>avvelenament</i><par n="abbain/o__n"/></e>
+    <e lm="presentimento"><i>presentiment</i><par n="abbain/o__n"/></e>
+    <e lm="direttiva"><i>direttiv</i><par n="cas/a__n"/></e>
+    <e lm="dispnea"><i>dispne</i><par n="cas/a__n"/></e>
+    <e lm="fovea"><i>fove</i><par n="cas/a__n"/></e>
+    <e lm="glabella"><i>glabell</i><par n="cas/a__n"/></e>
+    <e lm="gondola"><i>gondol</i><par n="cas/a__n"/></e>
+    <e lm="media"><i>medi</i><par n="cas/a__n"/></e>
+    <e lm="morula"><i>morul</i><par n="cas/a__n"/></e>
+    <e lm="nausea"><i>nause</i><par n="cas/a__n"/></e>
+    <e lm="neutropenia"><i>neutropeni</i><par n="cas/a__n"/></e>
+    <e lm="ocarina"><i>ocarin</i><par n="cas/a__n"/></e>
+    <e lm="oliguria"><i>oliguri</i><par n="cas/a__n"/></e>
+    <e lm="operetta"><i>operett</i><par n="cas/a__n"/></e>
+    <e lm="otalgia"><i>otalgi</i><par n="cas/a__n"/></e>
+    <e lm="panacea"><i>panace</i><par n="cas/a__n"/></e>
+    <e lm="paraplegia"><i>paraplegi</i><par n="cas/a__n"/></e>
+    <e lm="patina"><i>patin</i><par n="cas/a__n"/></e>
+    <e lm="pellagra"><i>pellagr</i><par n="cas/a__n"/></e>
+    <e lm="pleura"><i>pleur</i><par n="cas/a__n"/></e>
+    <e lm="prostata"><i>prostat</i><par n="cas/a__n"/></e>
+    <e lm="proteinuria"><i>proteinuri</i><par n="cas/a__n"/></e>
+    <e lm="pupa"><i>pup</i><par n="cas/a__n"/></e>
+    <e lm="quaglia"><i>quagli</i><par n="cas/a__n"/></e>
+    <e lm="radula"><i>radul</i><par n="cas/a__n"/></e>
+    <e lm="salmonella"><i>salmonell</i><par n="cas/a__n"/></e>
+    <e lm="samara"><i>samar</i><par n="cas/a__n"/></e>
+    <e lm="seguidilla"><i>seguidill</i><par n="cas/a__n"/></e>
+    <e lm="sonata"><i>sonat</i><par n="cas/a__n"/></e>
   </section>
   <section id="apostrophes" type="postblank">
 

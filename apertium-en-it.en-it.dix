@@ -12210,6 +12210,7 @@
     <e><p><l>fanfare<s n="n"/></l><r>fanfara<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>backstitch<s n="n"/></l><r>punto<b/>indietro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>beautician<s n="n"/></l><r>estetista<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>milestone<s n="n"/></l><r>pietra<b/>miliare<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dehumanisation<s n="n"/></l><r>disumanizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>faeces<s n="n"/></l><r>feci<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>malleability<s n="n"/></l><r>malleabilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
@@ -19287,6 +19288,8 @@
     <e r="RL"><p><l>vice-president<s n="n"/></l><r>vicepresidente<s n="n"/></r></p></e>
     <e r="LR"><p><l>vice<b/>president<s n="n"/></l><r>vicepresidente<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>press<s n="n"/></l><r>stampa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reprint<s n="n"/></l><r>ristampa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>raisin<s n="n"/></l><r>uva<b/>passa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pressure<s n="n"/></l><r>pressione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>prestige<s n="n"/></l><r>prestigio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>presumption<s n="n"/></l><r>presunzione<s n="n"/><s n="f"/></r></p></e>
@@ -20560,6 +20563,8 @@
     <e><p><l>timer<s n="n"/></l><r>temporizzatore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>whiting<s n="n"/></l><r>merlano<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pathogen<s n="n"/></l><r>patogeno<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>porch<s n="n"/></l><r>portico<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pampa<s n="n"/></l><r>pampa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>condominium<s n="n"/></l><r>condominio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vinaigrette<s n="n"/></l><r>vinaigrette<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>auditor<s n="n"/></l><r>revisore<g><b/>dei<b/>conti</g><s n="n"/><s n="m"/></r></p></e>
@@ -20660,6 +20665,8 @@
     <e><p><l>hallucinogen<s n="n"/></l><r>allucinogeno<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hemicycle<s n="n"/></l><r>emiciclo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hemistich<s n="n"/></l><r>emistichio<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>refugee<s n="n"/></l><r>rifugiato<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>refugee<s n="n"/></l><r>rifugiato<s n="n"/></r></p></e>
     <e r="LR"><p><l>examiner<s n="n"/></l><r>esaminatore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>examiner<s n="n"/></l><r>esaminatore<s n="n"/></r></p></e>
     <e r="LR"><p><l>compensator<s n="n"/></l><r>compensatore<s n="n"/><s n="GD"/></r></p></e>
@@ -26374,6 +26381,7 @@
     <e><p><l>solid<b/>rock<s n="n"/></l><r>roccia<b/>viva<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>carpel<s n="n"/></l><r>carpello<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>consul<s n="n"/></l><r>console<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>proconsul<s n="n"/></l><r>proconsole<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>diptych<s n="n"/></l><r>dittico<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>dividend<s n="n"/></l><r>dividendo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fiasco<s n="n"/></l><r>fiasco<s n="n"/><s n="m"/></r></p></e>
@@ -26641,6 +26649,184 @@
     <e><p><l>narrowly<s n="adv"/></l><r>strettamente<s n="adv"/></r></p></e>
     <e><p><l>destructively<s n="adv"/></l><r>distruttivamente<s n="adv"/></r></p></e>
     <e><p><l>consequently<s n="adv"/></l><r>conseguentemente<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>emulator<s n="n"/></l><r>emulatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>emulator<s n="n"/></l><r>emulatore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>generator<s n="n"/></l><r>generatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>generator<s n="n"/></l><r>generatore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>identifier<s n="n"/></l><r>identificatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>identifier<s n="n"/></l><r>identificatore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>inspector<s n="n"/></l><r>ispettore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>inspector<s n="n"/></l><r>ispettore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>legislator<s n="n"/></l><r>legislatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>legislator<s n="n"/></l><r>legislatore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>programmer<s n="n"/></l><r>programmatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>programmer<s n="n"/></l><r>programmatore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>shipowner<s n="n"/></l><r>armatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>shipowner<s n="n"/></l><r>armatore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>supplier<s n="n"/></l><r>fornitore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>supplier<s n="n"/></l><r>fornitore<s n="n"/></r></p></e>
+    <e><p><l>cricket<s n="n"/></l><r>cricket<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>farad<s n="n"/></l><r>farad<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>firn<s n="n"/></l><r>firn<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>geyser<s n="n"/></l><r>geyser<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>gorilla<s n="n"/></l><r>gorilla<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>hamburger<s n="n"/></l><r>hamburger<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>harem<s n="n"/></l><r>harem<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>harmonium<s n="n"/></l><r>armonium<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>hitchhiking<s n="n"/></l><r>autostop<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>jazz<s n="n"/></l><r>jazz<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>joule<s n="n"/></l><r>joule<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>kaiser<s n="n"/></l><r>kaiser<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>kamikaze<s n="n"/></l><r>kamikaze<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>kayak<s n="n"/></l><r>kayak<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>machete<s n="n"/></l><r>machete<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>maser<s n="n"/></l><r>maser<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>maxwell<s n="n"/></l><r>maxwell<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>megabit<s n="n"/></l><r>megabit<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>menhir<s n="n"/></l><r>menhir<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>microfilm<s n="n"/></l><r>microfilm<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>multiplexer<s n="n"/></l><r>multiplexer<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>neon<s n="n"/></l><r>neon<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>newton<s n="n"/></l><r>newton<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>nickel<s n="n"/></l><r>nichel<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>oboe<s n="n"/></l><r>oboe<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>odeon<s n="n"/></l><r>odeon<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>parquet<s n="n"/></l><r>parquet<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>pascal<s n="n"/></l><r>pascal<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>pathos<s n="n"/></l><r>pathos<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>permafrost<s n="n"/></l><r>permafrost<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>picnic<s n="n"/></l><r>picnic<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>piercing<s n="n"/></l><r>piercing<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>pixel<s n="n"/></l><r>pixel<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>playboy<s n="n"/></l><r>playboy<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>pony<s n="n"/></l><r>pony<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>porthole<s n="n"/></l><r>oblò<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>pub<s n="n"/></l><r>pub<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>radon<s n="n"/></l><r>radon<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>rococo<s n="n"/></l><r>rococò<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>rondo<s n="n"/></l><r>rondò<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>scooter<s n="n"/></l><r>scooter<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>setter<s n="n"/></l><r>setter<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>springer<s n="n"/></l><r>springer<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>tailcoat<s n="n"/></l><r>frac<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>telson<s n="n"/></l><r>telson<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>thriller<s n="n"/></l><r>thriller<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>toner<s n="n"/></l><r>toner<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>tornado<s n="n"/></l><r>tornado<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>diagnosis<s n="n"/></l><r>diagnosi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>hypothesis<s n="n"/></l><r>ipotesi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>limousine<s n="n"/></l><r>limousine<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>oasis<s n="n"/></l><r>oasi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>sepsis<s n="n"/></l><r>sepsi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>stutter<s n="n"/></l><r>balbuzie<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e r="LR"><p><l>stuttering<s n="n"/></l><r>balbuzie<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>synthesis<s n="n"/></l><r>sintesi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>thrombosis<s n="n"/></l><r>trombosi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>ideal<s n="n"/></l><r>ideale<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>intellectual<s n="n"/></l><r>intellettuale<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>intendant<s n="n"/></l><r>intendente<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>mutant<s n="n"/></l><r>mutante<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>radical<s n="n"/></l><r>radicale<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>binomial<s n="n"/></l><r>binomio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>carpus<s n="n"/></l><r>carpo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>deltoid<s n="n"/></l><r>deltoide<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>diadem<s n="n"/></l><r>diadema<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>diaper<s n="n"/></l><r>pannolino<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>dilemma<s n="n"/></l><r>dilemma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>diphthong<s n="n"/></l><r>dittongo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>electrolyte<s n="n"/></l><r>elettrolita<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>electromagnet<s n="n"/></l><r>elettromagnete<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>femur<s n="n"/></l><r>femore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>fibroma<s n="n"/></l><r>fibroma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>gamete<s n="n"/></l><r>gamete<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>glaucoma<s n="n"/></l><r>glaucoma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>granuloma<s n="n"/></l><r>granuloma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>grenadier<s n="n"/></l><r>granatiere<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ingredient<s n="n"/></l><r>ingrediente<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kennel<s n="n"/></l><r>canile<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lipoma<s n="n"/></l><r>lipoma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>magma<s n="n"/></l><r>magma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>magnet<s n="n"/></l><r>magnete<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mead<s n="n"/></l><r>idromele<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>melanoma<s n="n"/></l><r>melanoma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>melisma<s n="n"/></l><r>melisma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>microcontroller<s n="n"/></l><r>microcontrollore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>microprocessor<s n="n"/></l><r>microprocessore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mineral<s n="n"/></l><r>minerale<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>moped<s n="n"/></l><r>ciclomotore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>nucleotide<s n="n"/></l><r>nucleotide<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>opal<s n="n"/></l><r>opale<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>osteosarcoma<s n="n"/></l><r>osteosarcoma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>oval<s n="n"/></l><r>ovale<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>papilloma<s n="n"/></l><r>papilloma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pedal<s n="n"/></l><r>pedale<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>poisoning<s n="n"/></l><r>avvelenamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>portico<s n="n"/></l><r>portico<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>prednisone<s n="n"/></l><r>prednisone<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>premolar<s n="n"/></l><r>premolare<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>presentiment<s n="n"/></l><r>presentimento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>protoplasm<s n="n"/></l><r>protoplasma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pyjamas<s n="n"/></l><r>pigiama<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>reagent<s n="n"/></l><r>reagente<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>retinoblastoma<s n="n"/></l><r>retinoblastoma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>semiconductor<s n="n"/></l><r>semiconduttore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sergeant<s n="n"/></l><r>sergente<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sextant<s n="n"/></l><r>sestante<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>solenoid<s n="n"/></l><r>solenoide<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>spheroid<s n="n"/></l><r>sferoide<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>stamen<s n="n"/></l><r>stame<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>stator<s n="n"/></l><r>statore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>statvolt<s n="n"/></l><r>statvolt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>steroid<s n="n"/></l><r>steroide<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>stigma<s n="n"/></l><r>stigma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>stoma<s n="n"/></l><r>stoma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>subset<s n="n"/></l><r>sottoinsieme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>turban<s n="n"/></l><r>turbante<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vice<s n="n"/></l><r>vizio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cusp<s n="n"/></l><r>cuspide<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>derogation<s n="n"/></l><r>deroga<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>diagonal<s n="n"/></l><r>diagonale<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>directive<s n="n"/></l><r>direttiva<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dyspnea<s n="n"/></l><r>dispnea<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>formaldehyde<s n="n"/></l><r>formaldeide<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fovea<s n="n"/></l><r>fovea<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>glabella<s n="n"/></l><r>glabella<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gondola<s n="n"/></l><r>gondola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mayonnaise<s n="n"/></l><r>maionese<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>media<s n="n"/></l><r>media<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>metope<s n="n"/></l><r>metope<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>morula<s n="n"/></l><r>morula<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mucilage<s n="n"/></l><r>mucillagine<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nausea<s n="n"/></l><r>nausea<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>neutropenia<s n="n"/></l><r>neutropenia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ocarina<s n="n"/></l><r>ocarina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ode<s n="n"/></l><r>ode<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>oliguria<s n="n"/></l><r>oliguria<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>operetta<s n="n"/></l><r>operetta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>otalgia<s n="n"/></l><r>otalgia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>panacea<s n="n"/></l><r>panacea<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>paraplegia<s n="n"/></l><r>paraplegia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>patina<s n="n"/></l><r>patina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pellagra<s n="n"/></l><r>pellagra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>photocopier<s n="n"/></l><r>fotocopiatrice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pleura<s n="n"/></l><r>pleura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>proboscis<s n="n"/></l><r>proboscide<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>propeller<s n="n"/></l><r>elica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prostate<s n="n"/></l><r>prostata<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>proteinuria<s n="n"/></l><r>proteinuria<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pupa<s n="n"/></l><r>pupa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pyrotechnics<s n="n"/></l><r>pirotecnica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>quail<s n="n"/></l><r>quaglia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>radula<s n="n"/></l><r>radula<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>salmonella<s n="n"/></l><r>salmonella<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>samara<s n="n"/></l><r>samara<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>scissors<s n="n"/></l><r>forbice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>seguidilla<s n="n"/></l><r>seguidilla<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ship<s n="n"/></l><r>nave<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>silica<s n="n"/></l><r>silice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sonata<s n="n"/></l><r>sonata<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sulfanilamide<s n="n"/></l><r>sulfanilamide<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>teletype<s n="n"/></l><r>telescrivente<s n="n"/><s n="f"/></r></p></e>
 
     <!-- ******************************
           group ij_symbol
