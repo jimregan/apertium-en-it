@@ -12692,6 +12692,7 @@
     <e r="RL"><p><l>accommodation<s n="n"/></l><r>accomodazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>accommodation<n></l><r>alloggio<n><m></r></e>).-->
     <e><p><l>accompaniment<s n="n"/></l><r>accompagnamento<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>accord<s n="n"/></l><r>accordo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>chord<s n="n"/></l><r>accordo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>accordion<s n="n"/></l><r>fisarmonica<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>accordionist<s n="n"/></l><r>fisarmonicista<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>accordionist<s n="n"/></l><r>fisarmonicista<s n="n"/></r></p></e>
@@ -15052,6 +15053,10 @@
     <e><p><l>deposition<s n="n"/></l><r>deposizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>depravation<s n="n"/></l><r>depravazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>depreciation<s n="n"/></l><r>deprezzamento<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>cheapening<s n="n"/></l><r>deprezzamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>click<s n="n"/></l><r>schiocco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>clip<s n="n"/></l><r>pinza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>clot<s n="n"/></l><r>grumo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>depression<s n="n"/></l><r>depressione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>deprivation<s n="n"/></l><r>privazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>depth<s n="n"/><s n="ND"/></l><r>profondità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -20516,10 +20521,15 @@
     <e><p><l>half-wit<s n="n"/></l><r>deficiente<s n="n"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>entity<s n="n"/></l><r>ente<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>heir<s n="n"/></l><r>erede<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>bruise<s n="n"/></l><r>livido<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>canoeing<s n="n"/></l><r>canoismo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>chequebook<s n="n"/></l><r>libretto<g><b/>degli<b/>assegni</g><s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>collyrium<s n="n"/></l><r>collirio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>eye<b/>drop<s n="n"/></l><r>collirio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>auditor<s n="n"/></l><r>revisore<g><b/>dei<b/>conti</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>byte<s n="n"/></l><r>byte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>camping<s n="n"/></l><r>camping<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e r="RL"><p><l>AIDS<s n="n"/><s n="acr"/><s n="sg"/></l><r>aids<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>con<s n="n"/></l><r>contro<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>ashtray<s n="n"/></l><r>portacenere<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>sidecar<s n="n"/></l><r>sidecar<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -20645,7 +20655,9 @@
     <e><p><l>blastocoel<s n="n"/></l><r>blastocele<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>blastema<s n="n"/></l><r>blastema<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>blackhead<s n="n"/></l><r>comedone<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>boot<s n="n"/></l><r>stivale<s n="n"/><s n="m"/></r></p></e>
+    <e slr="stivale D"><p><l>boot<s n="n"/></l><r>stivale<s n="n"/><s n="m"/></r></p></e>
+    <e slr="bagagliaio"><p><l>boot<s n="n"/></l><r>bagagliaio<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>expansion<s n="n"/></l><r>ampliamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>berlin<s n="n"/></l><r>berlino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>actin<s n="n"/></l><r>actina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>branchia<s n="n"/></l><r>branchia<s n="n"/><s n="f"/></r></p></e>
