@@ -17705,6 +17705,7 @@
     <e lm="collective"><i>collective</i><par n="house__n"/>    </e>
     <e lm="addendum"><i>addendum</i><par n="house__n"/>    </e>
     <e lm="addict"><i>addict</i><par n="house__n"/>    </e>
+    <e lm="drug addict"><i>drug<b/>addict</i><par n="house__n"/>    </e>
     <e lm="addition"><i>addition</i><par n="house__n"/>    </e>
     <e lm="additive"><i>additive</i><par n="house__n"/>    </e>
     <e lm="chaise"><i>chaise</i><par n="house__n"/>    </e>
@@ -22438,6 +22439,7 @@
     <e lm="sugar"><i>sugar</i><par n="house__n"/>    </e>
     <e lm="suggestion"><i>suggestion</i><par n="house__n"/>    </e>
     <e lm="suicide"><i>suicide</i><par n="house__n"/>    </e>
+    <e lm="suicide victim"><i>suicide<b/>victim</i><par n="house__n"/>    </e>
     <e lm="suit"><i>suit</i><par n="house__n"/>    </e>
     <e lm="suitability"><i>suitabilit</i><par n="bab/y__n"/>    </e>
     <e lm="suitcase"><i>suitcase</i><par n="house__n"/>    </e>
@@ -24132,6 +24134,10 @@
     <e lm="grey" r="LR"><p><l>gray</l><r>grey</r></p><par n="sly/__adj"/>    </e>
     <e lm="grey" r="RL" alt="en_GB"><i>grey</i><par n="sly/__adj"/>    </e>
     <e lm="grey" r="RL" alt="en_US"><p><l>gray</l><r>grey</r></p><par n="sly/__adj"/>    </e>
+    <e lm="grey" r="LR"><i>grey</i><par n="house__n"/>    </e>
+    <e lm="grey" r="LR"><p><l>gray</l><r>grey</r></p><par n="house__n"/>    </e>
+    <e lm="grey" r="RL" alt="en_GB"><i>grey</i><par n="house__n"/>    </e>
+    <e lm="grey" r="RL" alt="en_US"><p><l>gray</l><r>grey</r></p><par n="house__n"/>    </e>
     <e lm="grim"><i>grim</i><par n="dim/__adj"/>    </e>
     <e lm="gross"><i>gross</i><par n="long/__adj"/>    </e>
     <e lm="groundless"><i>groundless</i><par n="expensive__adj"/>    </e>
@@ -33604,6 +33610,7 @@
 <e lm="wedding day"><i>wedding<b/>day</i><par n="house__n"/></e>
 <e lm="payday"><i>payday</i><par n="house__n"/></e>
 <e lm="recording studio"><i>recording<b/>studio</i><par n="house__n"/></e>
+<e lm="reissue"><i>reissue</i><par n="house__n"/></e>
 
     <e lm="enrich"><i>enrich</i><par n="approach__vblex"/>    </e>
     <e lm="absolve"><i>absolv</i><par n="liv/e__vblex"/>    </e>

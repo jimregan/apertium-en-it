@@ -20983,8 +20983,10 @@
     <e><p><l>suffrage<s n="n"/></l><r>suffragio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sugar<s n="n"/></l><r>zucchero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>suggestion<s n="n"/></l><r>suggerimento<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>suicide<s n="n"/></l><r>suicida<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>suicide<s n="n"/></l><r>suicida<s n="n"/></r></p></e>
+    <e><p><l>suicide<s n="n"/></l><r>suicidio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>grey<s n="n"/></l><r>grigio<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>suicide<b/>victim<s n="n"/></l><r>suicida<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>suicide<b/>victim<s n="n"/></l><r>suicida<s n="n"/></r></p></e>
     <e r="LR" slr="contenzioso" c="Jur."><p><l>suit<s n="n"/></l><r>contenzioso<s n="n"/><s n="m"/></r></p></e>
     <e slr="vestito D"><p><l>suit<s n="n"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>suitability<s n="n"/></l><r>convenienza<s n="n"/><s n="f"/></r></p></e>
@@ -22158,8 +22160,11 @@
     <e r="LR"><p><l>woodchuck<s n="n"/></l><r>marmotta<b/>americana<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wool<s n="n"/></l><r>lana<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>word<s n="n"/></l><r>parola<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR" slr="opera"><p><l>work<s n="n"/></l><r>opera<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>opera<n></l><r>opera<n><f></r></e>).-->
-    <e slr="lavoro D" i="yes"><p><l>work<s n="n"/></l><r>lavoro<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>work<n></l><r>opera<n><f></r></e>).-->
+    <e><p><l>decoding<s n="n"/></l><r>decifrazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reissue<s n="n"/></l><r>riedizione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>drug<b/>addict<s n="n"/></l><r>tossicomane<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR" slr="opera"><p><l>work<s n="n"/></l><r>opera<s n="n"/><s n="f"/></r></p></e>
+    <e slr="lavoro D"><p><l>work<s n="n"/></l><r>lavoro<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>work<b/>bench<s n="n"/></l><r>banco<g><b/>di<b/>lavoro</g><s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>work<b/>day<s n="n"/></l><r>giorno<g><b/>di<b/>lavoro</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>workbench<s n="n"/></l><r>banco<g><b/>di<b/>lavoro</g><s n="n"/><s n="m"/></r></p></e>
@@ -22169,7 +22174,7 @@
     <e><p><l>working<b/>day<s n="n"/></l><r>giorno<b/>lavorativo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>business<b/>day<s n="n"/></l><r>giorno<b/>lavorativo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>working<b/>time<s n="n"/></l><r>giornata<g><b/>di<b/>lavoro</g><s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>working<b/>time<s n="n"/></l><r>giorno<b/>lavorativo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>working<b/>day<n></l><r>giorno<b/>lavorativo<n><m></r></e>).-->
+    <e r="LR"><p><l>working<b/>time<s n="n"/></l><r>giorno<b/>lavorativo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>world<s n="n"/></l><r>mondo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>worldliness<s n="n"/><s n="ND"/></l><r>mondanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>worldliness<s n="n"/><s n="sg"/></l><r>mondanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
