@@ -12238,6 +12238,7 @@
     <e><p><l>synchroniser<s n="n"/></l><r>sincronizzatore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>magnesite<s n="n"/></l><r>magnesite<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>silhouette<s n="n"/></l><r>silhouette<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lookout<s n="n"/></l><r>vedetta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>collage<s n="n"/></l><r>collage<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>archon<s n="n"/></l><r>arconte<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>codex<s n="n"/></l><r>codice<s n="n"/><s n="m"/></r></p></e>
@@ -14181,6 +14182,7 @@
     <e><p><l>cherry<s n="n"/></l><r>ciliegia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cherub<s n="n"/></l><r>cherubino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chess<s n="n"/><s n="sg"/></l><r>scacchi<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>chess<s n="n"/><s n="pl"/></l><r>scacchi<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>chest<s n="n"/></l><r>petto<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>chevron<s n="n"/></l><r>gallone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chewing<b/>gum<s n="n"/></l><r>gomma<g><b/>da<b/>masticare</g><s n="n"/><s n="f"/></r></p></e>
@@ -14672,6 +14674,7 @@
     <e><p><l>successful<s n="adj"/></l><r>di<b/>successo<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>marketable<s n="adj"/></l><r>vendibile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>successfully<s n="adv"/></l><r>con<b/>successo<s n="adv"/></r></p></e>
+    <e><p><l>conditionally<s n="adv"/></l><r>condizionatamente<s n="adv"/></r></p></e>
     <e><p><l>tired<s n="adj"/></l><r>stanco<s n="adj"/></r></p></e>
     <e><p><l>gold<b/>standard<s n="n"/></l><r>sistema<b/>aureo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>gold<b/>standard<s n="n"/></l><r>gold<b/>standard<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -14788,6 +14791,8 @@
     <e><p><l>cremation<s n="n"/></l><r>cremazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>cretin<s n="n"/></l><r>cretino<s n="n"/></r></p></e>
     <e r="LR"><p><l>cretin<s n="n"/></l><r>cretino<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>diver<s n="n"/></l><r>tuffatore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>diver<s n="n"/></l><r>tuffatore<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>crib<s n="n"/></l><r>presepe<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>crime<s n="n"/></l><r>crimine<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>crime<s n="n"/></l><r>delitto<s n="n"/><s n="m"/></r></p></e>
@@ -20528,6 +20533,13 @@
     <e><p><l>eye<b/>drop<s n="n"/></l><r>collirio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>auditor<s n="n"/></l><r>revisore<g><b/>dei<b/>conti</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>byte<s n="n"/></l><r>byte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>laptop<s n="n"/></l><r>laptop<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>ramen<s n="n"/></l><r>ramen<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>database<s n="n"/></l><r>database<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>impasse<s n="n"/></l><r>impasse<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>jalapeño<s n="n"/></l><r>jalapeño<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>napalm<s n="n"/></l><r>napalm<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>ohm<s n="n"/></l><r>ohm<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>camping<s n="n"/></l><r>camping<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e r="RL"><p><l>AIDS<s n="n"/><s n="acr"/><s n="sg"/></l><r>aids<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>con<s n="n"/></l><r>contro<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -23568,6 +23580,7 @@
     <e><p><l>get<g><b/>dark</g><s n="vblex"/></l><r>oscurare<s n="vblex"/></r></p></e>
     <e><p><l>house<s n="vblex"/></l><r>albergare<s n="vblex"/></r></p></e>
     <e><p><l>quit<s n="vblex"/></l><r>smettere<s n="vblex"/></r></p></e>
+    <e><p><l>soak<s n="vblex"/></l><r>infradiciare<s n="vblex"/></r></p></e>
     <e r="LR">  <p><l>give<g><b/>up<b/>smoking</g><s n="vblex"/></l><r>smettere<g><b/>di<b/>fumare</g><s n="vblex"/></r></p></e>
     <e>  <p><l>quit<g><b/>smoking</g><s n="vblex"/></l><r>smettere<g><b/>di<b/>fumare</g><s n="vblex"/></r></p></e>
     <e><p><l>breach<s n="vblex"/></l><r>infrangere<s n="vblex"/></r></p></e>
@@ -26591,13 +26604,19 @@
     <e r="RL"><p><l>all<b/>that<b/>glitters<b/>is<b/>not<b/>gold<s n="ij"/></l><r>non<b/>è<b/>tutto<b/>oro<b/>quel<b/>che<b/>luccica<s n="ij"/></r></p></e>
     <e><p><l>better<b/>late<b/>than<b/>never<s n="ij"/></l><r>meglio<b/>tardi<b/>che<b/>mai<s n="ij"/></r></p></e>
     <e><p><l>bye<s n="ij"/></l><r>arrivederci<s n="ij"/></r></p></e>
+    <e><p><l>waste<b/>not,<b/>want<b/>not<s n="ij"/></l><r>non<b/>sprecare,<b/>non<b/>sarai<b/>bisognoso<s n="ij"/></r></p></e>
+    <e><p><l>many<b/>hands<b/>make<b/>light<b/>work<s n="ij"/></l><r>l'unione<b/>fa<b/>la<b/>forza<s n="ij"/></r></p></e>
+    <e><p><l>it's<b/>no<b/>use<b/>crying<b/>over<b/>spilt<b/>milk<s n="ij"/></l><r>è<b/>inutile<b/>piangere<b/>sul<b/>latte<b/>versato<s n="ij"/></r></p></e>
+    <e r="LR"><p><l>there's<b/>no<b/>point<b/>crying<b/>over<b/>spilt<b/>milk<s n="ij"/></l><r>è<b/>inutile<b/>piangere<b/>sul<b/>latte<b/>versato<s n="ij"/></r></p></e>
     <e><p><l>bingo<s n="ij"/></l><r>bingo<s n="ij"/></r></p></e>
     <e><p><l>ciao<s n="ij"/></l><r>ciao<s n="ij"/></r></p></e>
     <e><p><l>curiosity<b/>killed<b/>the<b/>cat<s n="ij"/></l><r>la<b/>curiosità<b/>uccise<b/>il<b/>gatto<s n="ij"/></r></p></e>
     <e><p><l>good<b/>morning<s n="ij"/></l><r>buon<b/>giorno<s n="ij"/></r></p></e>
     <e r="LR"><p><l>goodbye<s n="ij"/></l><r>arrivederci<s n="ij"/></r></p></e>
     <e r="LR"><p><l>hi<s n="ij"/></l><r>ciao<s n="ij"/></r></p></e>
-    <e r="LR"><p><l>hello<s n="ij"/></l><r>salve<s n="ij"/></r></p></e>
+    <e><p><l>hello<s n="ij"/></l><r>salve<s n="ij"/></r></p></e>
+    <e><p><l>wow<s n="ij"/></l><r>wow<s n="ij"/></r></p></e>
+    <e><p><l>when<b/>the<b/>cat's<b/>away<b/>the<b/>mice<b/>will<b/>play<s n="ij"/></l><r>quando<b/>il<b/>gatto<b/>non<b/>c'è,<b/>i<b/>topi<b/>ballano<s n="ij"/></r></p></e>
     <e r="LR"><p><l>long<b/>live<s n="ij"/></l><r>viva<s n="ij"/></r></p></e>
     <e><p><l>my<b/>God<s n="ij"/></l><r>Dio<b/>mio<s n="ij"/></r></p></e>
     <e><p><l>necessity<b/>is<b/>the<b/>mother<b/>of<b/>invention<s n="ij"/></l><r>il<b/>bisogno<b/>aguzza<b/>l&apos;ingegno<s n="ij"/></r></p></e>
