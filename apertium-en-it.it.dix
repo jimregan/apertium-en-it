@@ -89750,6 +89750,7 @@
     <e lm="pazzia"><i>pazzi</i><par n="cas/a__n"/></e>
     <e lm="pc"><i>pc</i><par n="albatros__n"/></e>
     <e lm="byte"><i>byte</i><par n="albatros__n"/></e>
+    <e lm="statvolt"><i>statvolt</i><par n="albatros__n"/></e>
     <e lm="night club"><i>night<b/>club</i><par n="albatros__n"/></e>
     <e lm="testacroce"><i>testacroce</i><par n="albatros__n"/></e>
     <e lm="dandy"><i>dandy</i><par n="albatros__n"/></e>
@@ -93716,6 +93717,7 @@
     <e lm="sbarazzino"><i>sbarazzin</i><par n="abbandonat/o__adj"/></e>
     <e lm="vincitore"><i>vincit</i><par n="accentrat/ore__adj"/></e>
     <e lm="seduttore"><i>sedutt</i><par n="agricolt/ore__n"/></e>
+    <e lm="tuffatore"><i>tuffat</i><par n="agricolt/ore__n"/></e>
     <e lm="non fumatore"><i>non<b/>fumat</i><par n="agricolt/ore__n"/></e>
     <e lm="ricattatore"><i>ricattat</i><par n="agricolt/ore__n"/></e>
     
@@ -93907,6 +93909,8 @@
     <e lm="iniettare"><i>iniett</i><par n="abbacin/are__vblex"/></e>
     <e lm="inabilitare"><i>inabilit</i><par n="abbacin/are__vblex"/></e>
     <e lm="scavare"><i>scav</i><par n="abbacin/are__vblex"/></e>
+    <e lm="cavare"><i>cav</i><par n="abbacin/are__vblex"/></e>
+    <e lm="badare"><i>bad</i><par n="abbacin/are__vblex"/></e>
     <e lm="esclamare"><i>esclam</i><par n="abbacin/are__vblex"/></e>
     <e lm="emulare"><i>emul</i><par n="abbacin/are__vblex"/></e>
     <e lm="impressionare"><i>impression</i><par n="abbacin/are__vblex"/></e>
@@ -96469,8 +96473,8 @@
     <e lm="cane pastore"><p><l>cagne<b/>pastori</l><r>cane<b/>pastore<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="forza maggiora"><p><l>forza<b/>maggiore</l><r>forza<b/>maggiore<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="forza maggiora"><p><l>forze<b/>maggiori</l><r>forza<b/>maggiore<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-    <e lm="uva passa"><p><l>uva<b/>passe</l><r>uva<b/>passe<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="uva passa"><p><l>uve<b/>passi</l><r>uva<b/>passe<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="uva passa"><p><l>uva<b/>passa</l><r>uva<b/>passa<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="uva passa"><p><l>uve<b/>passi</l><r>uva<b/>passa<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="calcolo strutturale"><p><l>calcolo<b/>strutturale</l><r>calcolo<b/>strutturale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="calcolo strutturale"><p><l>calcoli<b/>strutturali</l><r>calcolo<b/>strutturale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="cartolina postale"><p><l>cartolina<b/>postale</l><r>cartolina<b/>postale<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -97835,6 +97839,7 @@
     <e lm="immortalità"><i>immortalità</i><par n="abilità__n"/></e>
     <e lm="intenzionalità"><i>intenzionalità</i><par n="abilità__n"/></e>
     <e lm="prognosi"><i>prognosi</i><par n="abilità__n"/></e>
+    <e lm="narcosi"><i>narcosi</i><par n="abilità__n"/></e>
     <e lm="interoperabilità"><i>interoperabilità</i><par n="abilità__n"/></e>
     <e lm="liquidità"><i>liquidità</i><par n="abilità__n"/></e>
     <e lm="razionalità"><i>razionalità</i><par n="abilità__n"/></e>

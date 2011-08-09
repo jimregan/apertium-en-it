@@ -20187,8 +20187,6 @@
     <e><p><l>septum<s n="n"/></l><r>setto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sequela<s n="n"/></l><r>sequela<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sequence<s n="n"/></l><r>sequenza<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>sergeant<s n="n"/></l><r>sergente<s n="n"/><s n="mf"/></r></p></e>
-    <e r="RL"><p><l>sergeant<s n="n"/></l><r>sergente<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>sergeant<n></l><r>sergente<n><mf></r></e>).-->
     <e r="LR"><p><l>series<s n="n"/><s n="sg"/></l><r>serie<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>series<s n="n"/><s n="pl"/></l><r>serie<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>series<s n="n"/><s n="ND"/></l><r>serie<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -20246,8 +20244,6 @@
     <e><p><l>shine<s n="n"/></l><r>lucentezza<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>shine<s n="n"/></l><r>brillio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>shine<n></l><r>lucentezza<n><f></r></e>).-->
     <e r="RL"><p><l>shine<s n="n"/></l><r>luccichio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>shine<n></l><r>lucentezza<n><f></r></e>).-->
-    <e><p><l>ship<s n="n"/></l><r>barca<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>ship<s n="n"/></l><r>nave<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>ship<n></l><r>barca<n><m></r></e>).-->
     <e r="LR"><p><l>shipment<s n="n"/></l><r>spedizione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>shipping<s n="n"/></l><r>spedizione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>dispatch<n></l><r>spedizione<n><f></r></e>).-->
     <e><p><l>shipwreck<s n="n"/></l><r>naufragio<s n="n"/><s n="m"/></r></p></e>
@@ -24294,7 +24290,8 @@
     <e><p><l>detail<s n="vblex"/></l><r>dettagliare<s n="vblex"/></r></p></e>
     <e><p><l>detain<s n="vblex"/></l><r>detenere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>detect<s n="vblex"/></l><r>scoprire<s n="vblex"/></r></p></e>
-    <e><p><l>deter<s n="vblex"/></l><r>distogliere<s n="vblex"/></r></p></e>
+    <e srl="deter" r="RL"><p><l>deter<s n="vblex"/></l><r>distogliere<s n="vblex"/></r></p></e>
+    <e srl="take away D"><p><l>take<g><b/>away</g><s n="vblex"/><s n="sep"/></l><r>distogliere<s n="vblex"/></r></p></e>
     <e><p><l>determine<s n="vblex"/></l><r>determinare<s n="vblex"/></r></p></e>
     <e><p><l>detest<s n="vblex"/></l><r>detestare<s n="vblex"/></r></p></e>
     <e><p><l>detonate<s n="vblex"/></l><r>detonare<s n="vblex"/></r></p></e>
@@ -24414,7 +24411,7 @@
     <e><p><l>embark<s n="vblex"/></l><r>imbarcare<s n="vblex"/></r></p></e>
     <e><p><l>embarrass<s n="vblex"/></l><r>imbarazzare<s n="vblex"/></r></p></e>
     <e><p><l>embezzle<s n="vblex"/></l><r>malversare<s n="vblex"/></r></p></e>
-    <e srl="embezzle"><p><l>embezzle<s n="vblex"/></l><r>sottrarre<s n="vblex"/></r></p></e>
+    <e srl="embezzle" r="RL"><p><l>embezzle<s n="vblex"/></l><r>sottrarre<s n="vblex"/></r></p></e>
     <e><p><l>embody<s n="vblex"/></l><r>incarnare<s n="vblex"/></r></p></e>
     <e><p><l>embrace<s n="vblex"/></l><r>abbracciare<s n="vblex"/></r></p></e>
     <e><p><l>embroider<s n="vblex"/></l><r>bordare<s n="vblex"/></r></p></e>
@@ -24472,7 +24469,9 @@
     <e><p><l>exaggerate<s n="vblex"/></l><r>esagerare<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>examine<s n="vblex"/></l><r>visionare<s n="vblex"/></r></p></e>
     <e><p><l>examine<s n="vblex"/></l><r>esaminare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>excavate<s n="vblex"/></l><r>scavare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>dig<vblex></l><r>scavare<vblex></r></e>).-->
+    <e r="LR"><p><l>excavate<s n="vblex"/></l><r>scavare<s n="vblex"/></r></p></e>
+    <e><p><l>take<g><b/>out</g><s n="vblex"/></l><r>cavare<s n="vblex"/></r></p></e>
+    <e><p><l>take<g><b/>care</g><s n="vblex"/></l><r>badare<s n="vblex"/></r></p></e>
     <e><p><l>exceed<s n="vblex"/></l><r>superare<s n="vblex"/></r></p></e>
     <e><p><l>except<s n="vblex"/></l><r>eccettuare<s n="vblex"/></r></p></e>
     <e><p><l>exchange<s n="vblex"/></l><r>scambiare<s n="vblex"/></r></p></e>
@@ -25984,6 +25983,7 @@
     <e><p><l>praseodymium<s n="n"/></l><r>praseodimio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>precocity<s n="n"/></l><r>precocità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>prognosis<s n="n"/></l><r>prognosi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>narcosis<s n="n"/></l><r>nacrosi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>puberty<s n="n"/></l><r>pubertà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>quorum<s n="n"/></l><r>quorum<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e r="LR"><p><l>rapidity<s n="n"/></l><r>rapidità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
@@ -26776,7 +26776,7 @@
     <e><p><l>spheroid<s n="n"/></l><r>sferoide<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>stamen<s n="n"/></l><r>stame<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>stator<s n="n"/></l><r>statore<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>statvolt<s n="n"/></l><r>statvolt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>statvolt<s n="n"/></l><r>statvolt<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>steroid<s n="n"/></l><r>steroide<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>stigma<s n="n"/></l><r>stigma<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>stoma<s n="n"/></l><r>stoma<s n="n"/><s n="m"/></r></p></e>
