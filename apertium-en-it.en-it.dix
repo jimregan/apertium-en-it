@@ -1638,7 +1638,7 @@
     <e><p><l>holy<s n="adj"/><s n="sint"/></l><r>sacro<s n="adj"/></r></p></e>
     <e r="LR" c="check"><p><l>holy<s n="adj"/></l><r>santo<s n="adj"/></r></p></e>
     <e c="check"><p><l>home-made<s n="adj"/></l><r>casereccio<s n="adj"/></r></p></e>
-    <e><p><l>homoeopathic<s n="adj"/></l><r>omeopatico<s n="adj"/></r></p></e>
+    <e><p><l>homeopathic<s n="adj"/></l><r>omeopatico<s n="adj"/></r></p></e>
     <e><p><l>homologous<s n="adj"/></l><r>omologo<s n="adj"/></r></p></e>
     <e><p><l>homonym<s n="adj"/></l><r>omonimo<s n="adj"/></r></p></e>
     <e><p><l>homopolar<s n="adj"/></l><r>omopolare<s n="adj"/><s n="mf"/></r></p></e>
@@ -2450,7 +2450,7 @@
     <e><p><l>polar<s n="adj"/></l><r>polare<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>police<s n="adj"/></l><r>poliziesco<s n="adj"/></r></p></e>
     <e><p><l>political<s n="adj"/></l><r>politico<s n="adj"/></r></p></e>
-    <e><p><l>pondered<s n="adj"/></l><r>ponderato<s n="adj"/></r></p></e>
+    <e><p><l>cool-headed<s n="adj"/></l><r>ponderato<s n="adj"/></r></p></e>
     <e><p><l>popular<s n="adj"/></l><r>popolare<s n="adj"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>popular<s n="adj"/></l><r>divulgativo<s n="adj"/></r></p></e>
     <e r="LR"><p><l>populational<s n="adj"/></l><r>popolare<s n="adj"/><s n="mf"/></r></p></e>
@@ -2700,7 +2700,7 @@
     <e><p><l>servile<s n="adj"/></l><r>servile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>sexual<s n="adj"/></l><r>sessuale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>sexy<s n="adj"/><s n="sint"/></l><r>sexy<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><p><l>shallow<s n="adj"/></l><r>superficiale<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>shallow<s n="adj"/><s n="sint"/></l><r>superficiale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>sharp<s n="adj"/><s n="sint"/></l><r>affilato<s n="adj"/></r></p></e>
     <e r="LR"><p><l>short<s n="adj"/><s n="sint"/></l><r>basso<s n="adj"/></r></p></e><!--  autorestricted (<e><l>low<adj><sint></l><r>basso<adj></r></e>).-->
     <e><p><l>showy<s n="adj"/><s n="sint"/></l><r>vistoso<s n="adj"/></r></p></e>
@@ -2810,14 +2810,14 @@
     <e><p><l>sudden<s n="adj"/></l><r>repentino<s n="adj"/></r></p></e>
     <e><p><l>suffering<s n="adj"/></l><r>sofferente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>sufficient<s n="adj"/></l><r>sufficiente<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>suitable<s n="adj"/></l><r>adeguato<s n="adj"/></r></p></e><!--  autorestricted (<e><l>adequate<adj></l><r>adeguato<adj></r></e>).-->
+    <e r="LR"><p><l>suitable<s n="adj"/></l><r>adeguato<s n="adj"/></r></p></e>
     <e><p><l>sumerian<s n="adj"/></l><r>sumero<s n="adj"/></r></p></e>
     <e c="check"><p><l>summary<s n="adj"/></l><r>sommario<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>superb<s n="adj"/></l><r>magnifico<s n="adj"/></r></p></e><!--  autorestricted (<e><l>glorious<adj></l><r>magnifico<adj></r></e>).-->
-    <e r="LR"><p><l>superficial<s n="adj"/></l><r>superficiale<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>shallow<adj></l><r>superficiale<adj><mf></r></e>).-->
+    <e r="LR"><p><l>superb<s n="adj"/></l><r>magnifico<s n="adj"/></r></p></e>
+    <e><p><l>superficial<s n="adj"/></l><r>superficiale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>superfluid<s n="adj"/></l><r>superfluido<s n="adj"/></r></p></e>
     <e><p><l>superior<s n="adj"/></l><r>superiore<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>superlative<s n="adj"/></l><r>eccezionale<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>exceptional<adj></l><r>eccezionale<adj><mf></r></e>).-->
+    <e><p><l>superlative<s n="adj"/></l><r>superlativo<s n="adj"/></r></p></e>
     <e><p><l>supernatural<s n="adj"/></l><r>soprannaturale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>supersonic<s n="adj"/></l><r>supersonico<s n="adj"/></r></p></e>
     <e><p><l>supplementary<s n="adj"/></l><r>supplementare<s n="adj"/><s n="mf"/></r></p></e>
@@ -16011,9 +16011,8 @@
     <e><p><l>flageolet<s n="n"/></l><r>flagioletto<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>flake<s n="n"/></l><r>squama<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>flame<s n="n"/></l><r>fiamma<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>flamenco<s n="n"/><s n="ND"/></l><r>flamenco<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>flamenco<s n="n"/><s n="sg"/></l><r>flamenco<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>flamenco<s n="n"/><s n="pl"/></l><r>flamenco<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>flamenco<s n="n"/></l><r>flamenco<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>flamenco<s n="adj"/></l><r>flamenco<s n="adj"/></r></p></e>
     <e><p><l>flange<s n="n"/></l><r>flangia<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>flat<s n="n"/></l><r>pavimento<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>flatterer<s n="n"/></l><r>adulatore<s n="n"/><s n="GD"/></r></p></e>
@@ -16184,8 +16183,8 @@
     <e><p><l>fundamentalism<s n="n"/></l><r>fondamentalismo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>fundamentalist<s n="n"/></l><r>fondamentalista<s n="n"/></r></p></e>
     <e r="LR"><p><l>fundamentalist<s n="n"/></l><r>fondamentalista<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>hermit<s n="n"/></l><r>eremista<s n="n"/></r></p></e>
-    <e r="LR"><p><l>hermit<s n="n"/></l><r>eremista<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>hermit<s n="n"/></l><r>eremita<s n="n"/></r></p></e>
+    <e r="LR"><p><l>hermit<s n="n"/></l><r>eremita<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>funding<s n="n"/></l><r>finanziamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>funding<s n="n"/></l><r>finanziamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>funeral<s n="n"/></l><r>funerale<s n="n"/><s n="m"/></r></p></e>
@@ -16902,7 +16901,7 @@
     <e><p><l>homework<s n="n"/><s n="sg"/></l><r>dovere<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>homework<s n="n"/><s n="pl"/></l><r>dovere<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e><p><l>homicide<s n="n"/></l><r>omicidio<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>homoeopathy<s n="n"/></l><r>omeopatia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>homeopathy<s n="n"/></l><r>omeopatia<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>homogeneity<s n="n"/><s n="ND"/></l><r>omogeneità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>homogeneity<s n="n"/><s n="sg"/></l><r>omogeneità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>homogeneity<s n="n"/><s n="pl"/></l><r>omogeneità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -22226,7 +22225,8 @@
     <e><p><l>contagion<s n="n"/></l><r>contagio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>contrast<s n="n"/></l><r>contrasto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>corpuscle<s n="n"/></l><r>corpuscolo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>cosmos<s n="n"/></l><r>cosmo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cosmos<s n="n"/><s n="sg"/></l><r>cosmo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>cosmos<s n="n"/><s n="sg"/></l><r>cosmo<s n="n"/><s n="m"/></r><s n="pl"/></p></e>
     <e><p><l>counterattack<s n="n"/></l><r>contrattacco<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>counterpoint<s n="n"/></l><r>contrappunto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>counterweight<s n="n"/></l><r>contrappeso<s n="n"/><s n="m"/></r></p></e>

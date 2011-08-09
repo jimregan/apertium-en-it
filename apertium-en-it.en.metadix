@@ -30792,7 +30792,8 @@
     <e lm="holography"><i>holograph</i><par n="bab/y__n"/>     </e>
     <e lm="holotype"><i>holotype</i><par n="house__n"/>     </e>
     <e lm="homeomorphism"><i>homeomorphism</i><par n="house__n"/>     </e>
-    <e lm="homoeopathy"><i>homoeopath</i><par n="bab/y__n"/>     </e>
+    <e lm="homoeopathy"><i>hom</i><par n="e_oe"/><i>opath</i><par n="bab/y__n"/>     </e>
+    <e lm="homoeopathic"><i>hom</i><par n="e_oe"/><i>opathic</i><par n="expensive__adj"/>     </e>
     <e lm="homography"><i>homograph</i><par n="bab/y__n"/>     </e>
     <e lm="homology"><i>homolog</i><par n="bab/y__n"/>     </e>
     <e lm="homomorphism"><i>homomorphism</i><par n="house__n"/>     </e>
@@ -34294,6 +34295,13 @@
     <e lm="loose" a="greenbreen"><i>loose</i><par n="nice/__adj"/></e>
     <e lm="warrior" a="greenbreen"><i>warrior</i><par n="house__n"/></e>
     <e lm="criminal" a="greenbreen"><i>criminal</i><par n="expensive__adj"/></e>
+    <e lm="warrior"><i>warrior</i><par n="expensive__adj"/></e>
+    <e lm="gelatinous"><i>gelatinous</i><par n="expensive__adj"/></e>
+    <e lm="forbidden"><i>forbidden</i><par n="expensive__adj"/></e>
+    <e lm="cool-headed"><i>cool-headed</i><par n="expensive__adj"/></e>
+    <e lm="promoter"><i>promoter</i><par n="expensive__adj"/></e>
+    <e lm="combed"><i>combed</i><par n="expensive__adj"/></e>
+    <e lm="homonym"><i>homonym</i><par n="expensive__adj"/></e>
     <e lm="monkey" a="greenbreen"><i>monk</i><par n="mon/ey__n"/></e>
     <e lm="corridor" a="greenbreen"><i>corridor</i><par n="house__n"/></e>
     <e lm="infrared" a="greenbreen"><i>infrared</i><par n="expensive__adj"/></e>
