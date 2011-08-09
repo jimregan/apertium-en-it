@@ -23145,6 +23145,8 @@
     <e lm="manual"><i>manual</i><par n="house__n"/>    </e>
     <e lm="Moroccan"><i>Moroccan</i><par n="house__n"/>    </e>
     <e lm="Mexican"><p><l>Mexican</l><r>mexican</r></p><par n="house__n"/>    </e>
+    <e lm="Francoist"><p><l>Francoist</l><r>francoist</r></p><par n="house__n"/>    </e>
+    <e lm="Francoist"><p><l>Francoist</l><r>francoist</r></p><par n="expensive__adj"/>    </e>
     <e lm="Levite"><p><l>Levite</l><r>levite</r></p><par n="house__n"/>    </e>
     <e lm="moral"><i>moral</i><par n="house__n"/>    </e>
     <e lm="Muslim"><i>Muslim</i><par n="house__n"/>    </e>
@@ -23173,7 +23175,6 @@
     <e lm="Thai"><i>Thai</i><par n="house__n"/>    </e>
     <e lm="Taiwanese"><i>Taiwanese</i><par n="house__n"/>    </e>
     <e lm="Ukrainian"><i>Ukrainian</i><par n="house__n"/>    </e>
-    <e lm="Uruguayan"><i>Uruguayan</i><par n="house__n"/>    </e>
     <e lm="Venetian"><i>Venetian</i><par n="house__n"/>    </e>
     <e lm="Vietnamese"><i>Vietnamese</i><par n="house__n"/>    </e>
     <e lm="Yugoslav"><i>Yugoslav</i><par n="house__n"/>    </e>
@@ -23415,6 +23416,9 @@
     <e lm="Marxist"><p><l>Marxist</l><r>marxist</r></p><par n="expensive__adj"/></e>
     <e lm="Mediterranean"><p><l>Mediterranean</l><r>mediterranean</r></p><par n="expensive__adj"/></e>
     <e lm="Mexican"><p><l>Mexican</l><r>mexican</r></p><par n="expensive__adj"/></e>
+    <e lm="Kurdish"><p><l>Kurdish</l><r>kurdish</r></p><par n="expensive__adj"/></e>
+    <e lm="Anglican"><p><l>Anglican</l><r>anglican</r></p><par n="expensive__adj"/></e>
+    <e lm="Gallic"><p><l>Gallic</l><r>gallic</r></p><par n="expensive__adj"/></e>
     <e lm="Moroccan"><p><l>Moroccan</l><r>moroccan</r></p><par n="expensive__adj"/></e>
     <e lm="Muslim"><p><l>Muslim</l><r>muslim</r></p><par n="expensive__adj"/></e>
     <e lm="Nepalese"><p><l>Nepalese</l><r>nepalese</r></p><par n="expensive__adj"/></e>
@@ -23445,6 +23449,7 @@
     <e lm="Turkish"><p><l>Turkish</l><r>turkish</r></p><par n="expensive__adj"/></e>
     <e lm="Ukrainian"><p><l>Ukrainian</l><r>ukrainian</r></p><par n="expensive__adj"/></e>
     <e lm="Uruguayan"><p><l>Uruguayan</l><r>uruguayan</r></p><par n="expensive__adj"/></e>
+    <e lm="Uruguayan"><p><l>Uruguayan</l><r>uruguayan</r></p><par n="house__n"/></e>
     <e lm="Valencian"><p><l>Valencian</l><r>valencian</r></p><par n="expensive__adj"/></e>
     <e lm="Venetian"><p><l>Venetian</l><r>venetian</r></p><par n="expensive__adj"/></e>
     <e lm="Victorian"><p><l>Victorian</l><r>victorian</r></p><par n="expensive__adj"/></e>
@@ -34296,12 +34301,29 @@
     <e lm="warrior" a="greenbreen"><i>warrior</i><par n="house__n"/></e>
     <e lm="criminal" a="greenbreen"><i>criminal</i><par n="expensive__adj"/></e>
     <e lm="warrior"><i>warrior</i><par n="expensive__adj"/></e>
+    <e lm="subscriber"><i>subscriber</i><par n="expensive__adj"/></e>
     <e lm="gelatinous"><i>gelatinous</i><par n="expensive__adj"/></e>
     <e lm="forbidden"><i>forbidden</i><par n="expensive__adj"/></e>
     <e lm="cool-headed"><i>cool-headed</i><par n="expensive__adj"/></e>
     <e lm="promoter"><i>promoter</i><par n="expensive__adj"/></e>
     <e lm="combed"><i>combed</i><par n="expensive__adj"/></e>
     <e lm="homonym"><i>homonym</i><par n="expensive__adj"/></e>
+    <e lm="separable"><i>separable</i><par n="expensive__adj"/></e>
+    <e lm="pilgrim"><i>pilgrim</i><par n="expensive__adj"/></e>
+    <e lm="honorific"><i>honorific</i><par n="expensive__adj"/></e>
+    <e lm="hateful"><i>hateful</i><par n="expensive__adj"/></e>
+    <e lm="morning"><i>morning</i><par n="expensive__adj"/></e>
+    <e lm="reader"><i>reader</i><par n="expensive__adj"/></e>
+    <e lm="islamist"><i>islamist</i><par n="expensive__adj"/></e>
+    <e lm="intergovernmental"><i>intergovernmental</i><par n="expensive__adj"/></e>
+    <e lm="hypocritical"><i>hypocritical</i><par n="expensive__adj"/></e>
+    <e lm="indicative"><i>indicative</i><par n="expensive__adj"/></e>
+    <e lm="unconditioned"><i>unconditioned</i><par n="expensive__adj"/></e>
+    <e lm="inclined"><i>inclined</i><par n="expensive__adj"/></e>
+    <e lm="unforeseen"><i>unforeseen</i><par n="expensive__adj"/></e>
+    <e lm="indicator"><i>indicator</i><par n="expensive__adj"/></e>
+    <e lm="injurious"><i>injurious</i><par n="expensive__adj"/></e>
+    <e lm="indigenous"><i>indigenous</i><par n="expensive__adj"/></e>
     <e lm="monkey" a="greenbreen"><i>monk</i><par n="mon/ey__n"/></e>
     <e lm="corridor" a="greenbreen"><i>corridor</i><par n="house__n"/></e>
     <e lm="infrared" a="greenbreen"><i>infrared</i><par n="expensive__adj"/></e>
@@ -34495,6 +34517,7 @@
     <e lm="co-op" a="greenbreen"><i>co-op</i><par n="house__n"/></e>
     <e lm="grievance" a="greenbreen"><i>grievance</i><par n="house__n"/></e>
     <e lm="manacles" a="greenbreen"><i>manacles</i><par n="alms__n"/></e>
+    <e lm="handcuffs"><i>handcuffs</i><par n="alms__n"/></e>
     <e lm="congressman" a="greenbreen"><i>congressm</i><par n="m/an__n"/></e>
     <e lm="congresswoman" a="greenbreen"><i>congresswom</i><par n="m/an__n"/></e>
     <e lm="sunflower" a="greenbreen"><i>sunflower</i><par n="house__n"/></e>
@@ -35245,6 +35268,7 @@
     <e lm="homophobia"><i>homophobia</i><par n="house__n"/></e>
     <e lm="pagan"><i>pagan</i><par n="house__n"/></e>
     <e lm="pakistani"><p><l>Pakistani</l><r>pakistani</r></p><par n="house__n"/></e>
+    <e lm="pakistani"><p><l>Pakistani</l><r>pakistani</r></p><par n="expensive__adj"/></e>
     <e lm="rabies"><i>rabies</i><par n="politics__n"/></e>
     <e lm="opulence"><i>opulence</i><par n="house__n"/></e>
     <e lm="repugnance"><i>repugnance</i><par n="house__n"/></e>

@@ -437,10 +437,12 @@
     <e r="RL"><p><l>flemish<s n="n"/></l><r>fiammingo<s n="n"/></r></p></e>
     <e r="LR"><p><l>flemish<s n="n"/></l><r>fiammingo<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>flamingo<s n="n"/></l><r>fenicottero<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>Francoist<s n="adj"/></l><r>franchista<s n="adj"/></r></p></e>
-    <e><p><l>Gallic<s n="adj"/></l><r>gallico<s n="adj"/></r></p></e>
-    <e><p><l>Islamist<s n="adj"/></l><r>islamista<s n="adj"/></r></p></e>
-    <e><p><l>Kurdish<s n="adj"/></l><r>curdo<s n="adj"/></r></p></e>
+    <e><p><l>francoist<s n="adj"/></l><r>franchista<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>francoist<s n="n"/></l><r>franchista<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>francoist<s n="n"/></l><r>franchista<s n="n"/></r></p></e>
+    <e><p><l>gallic<s n="adj"/></l><r>gallico<s n="adj"/></r></p></e>
+    <e><p><l>islamist<s n="adj"/></l><r>islamista<s n="adj"/></r></p></e>
+    <e><p><l>kurdish<s n="adj"/></l><r>curdo<s n="adj"/></r></p></e>
     <e><p><l>Kuwaiti<s n="adj"/></l><r>kuwaitiano<s n="adj"/></r></p></e>
     <e><p><l>Latin<b/>American<s n="adj"/></l><r>latinoamericano<s n="adj"/></r></p></e>
     <e><p><l>London<s n="adj"/></l><r>londinese<s n="adj"/><s n="mf"/></r></p></e>
@@ -796,6 +798,7 @@
     <e><p><l>brazilian<s n="adj"/></l><r>brasiliano<s n="adj"/></r></p></e>
     <e><p><l>brief<s n="adj"/></l><r>breve<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>bright<s n="adj"/><s n="sint"/></l><r>brillante<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>shiny<s n="adj"/><s n="sint"/></l><r>brillante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>brilliant<s n="adj"/></l><r>brillante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>british<s n="adj"/></l><r>britannico<s n="adj"/></r></p></e>
     <e><p><l>bronchial<s n="adj"/></l><r>bronchiale<s n="adj"/><s n="mf"/></r></p></e>
@@ -1464,6 +1467,7 @@
     <e r="LR"><p><l>venetian<s n="n"/></l><r>veneziano<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>vietnamese<s n="n"/></l><r>vietnamita<s n="n"/></r></p></e>
     <e r="LR"><p><l>vietnamese<s n="n"/></l><r>vietnamita<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>vietnamese<s n="adj"/></l><r>vietnamita<s n="adj"/></r></p></e>
     <e><p><l>millionaire<s n="adj"/></l><r>milionario<s n="adj"/></r></p></e>
     <e r="RL"><p><l>millionaire<s n="n"/></l><r>milionario<s n="n"/></r></p></e>
     <e r="LR"><p><l>millionaire<s n="n"/></l><r>milionario<s n="n"/><s n="GD"/></r></p></e>
@@ -1638,7 +1642,7 @@
     <e><p><l>holy<s n="adj"/><s n="sint"/></l><r>sacro<s n="adj"/></r></p></e>
     <e r="LR" c="check"><p><l>holy<s n="adj"/></l><r>santo<s n="adj"/></r></p></e>
     <e c="check"><p><l>home-made<s n="adj"/></l><r>casereccio<s n="adj"/></r></p></e>
-    <e><p><l>homeopathic<s n="adj"/></l><r>omeopatico<s n="adj"/></r></p></e>
+    <e><p><l>homoeopathic<s n="adj"/></l><r>omeopatico<s n="adj"/></r></p></e>
     <e><p><l>homologous<s n="adj"/></l><r>omologo<s n="adj"/></r></p></e>
     <e><p><l>homonym<s n="adj"/></l><r>omonimo<s n="adj"/></r></p></e>
     <e><p><l>homopolar<s n="adj"/></l><r>omopolare<s n="adj"/><s n="mf"/></r></p></e>
@@ -1857,7 +1861,7 @@
     <e><p><l>insufficient<s n="adj"/></l><r>insufficiente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>insular<s n="adj"/></l><r>insulare<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>insulating<s n="adj"/></l><r>isolante<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>insulting<s n="adj"/></l><r>ingiurioso<s n="adj"/></r></p></e>
+    <e><p><l>injurious<s n="adj"/></l><r>ingiurioso<s n="adj"/></r></p></e>
     <e><p><l>insuperable<s n="adj"/></l><r>insuperabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>intact<s n="adj"/></l><r>intatto<s n="adj"/></r></p></e>
     <e><p><l>intangible<s n="adj"/></l><r>intangibile<s n="adj"/><s n="mf"/></r></p></e>
@@ -2700,7 +2704,9 @@
     <e><p><l>servile<s n="adj"/></l><r>servile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>sexual<s n="adj"/></l><r>sessuale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>sexy<s n="adj"/><s n="sint"/></l><r>sexy<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>shallow<s n="adj"/><s n="sint"/></l><r>superficiale<s n="adj"/><s n="mf"/></r></p></e>
+    <e slr="ombreggiato D"><p><l>shady<s n="adj"/><s n="sint"/></l><r>ombreggiato<s n="adj"/></r></p></e>
+    <e slr="losco"><p><l>shady<s n="adj"/><s n="sint"/></l><r>losco<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>shallow<s n="adj"/><s n="sint"/></l><r>superficiale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>sharp<s n="adj"/><s n="sint"/></l><r>affilato<s n="adj"/></r></p></e>
     <e r="LR"><p><l>short<s n="adj"/><s n="sint"/></l><r>basso<s n="adj"/></r></p></e><!--  autorestricted (<e><l>low<adj><sint></l><r>basso<adj></r></e>).-->
     <e><p><l>showy<s n="adj"/><s n="sint"/></l><r>vistoso<s n="adj"/></r></p></e>
@@ -16901,7 +16907,7 @@
     <e><p><l>homework<s n="n"/><s n="sg"/></l><r>dovere<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>homework<s n="n"/><s n="pl"/></l><r>dovere<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e><p><l>homicide<s n="n"/></l><r>omicidio<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>homeopathy<s n="n"/></l><r>omeopatia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>homoeopathy<s n="n"/></l><r>omeopatia<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>homogeneity<s n="n"/><s n="ND"/></l><r>omogeneità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>homogeneity<s n="n"/><s n="sg"/></l><r>omogeneità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>homogeneity<s n="n"/><s n="pl"/></l><r>omogeneità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -20670,6 +20676,8 @@
     <e r="RL"><p><l>cacique<s n="n"/></l><r>cacicco<s n="n"/></r></p></e>
     <e r="LR"><p><l>uruguayan<s n="n"/></l><r>uruguaiano<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>uruguayan<s n="n"/></l><r>uruguaiano<s n="n"/></r></p></e>
+    <e><p><l>uruguayan<s n="adj"/></l><r>uruguaiano<s n="adj"/></r></p></e>
+    <e><p><l>victorian<s n="adj"/></l><r>vittoriano<s n="adj"/></r></p></e>
     <e r="LR"><p><l>reformer<s n="n"/></l><r>riformatore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>reformer<s n="n"/></l><r>riformatore<s n="n"/></r></p></e>
     <e r="LR"><p><l>educator<s n="n"/></l><r>educatore<s n="n"/><s n="GD"/></r></p></e>
@@ -22226,7 +22234,7 @@
     <e><p><l>contrast<s n="n"/></l><r>contrasto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>corpuscle<s n="n"/></l><r>corpuscolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cosmos<s n="n"/><s n="sg"/></l><r>cosmo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>cosmos<s n="n"/><s n="sg"/></l><r>cosmo<s n="n"/><s n="m"/></r><s n="pl"/></p></e>
+    <e r="RL"><p><l>cosmos<s n="n"/><s n="sg"/></l><r>cosmo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e><p><l>counterattack<s n="n"/></l><r>contrattacco<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>counterpoint<s n="n"/></l><r>contrappunto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>counterweight<s n="n"/></l><r>contrappeso<s n="n"/><s n="m"/></r></p></e>
@@ -24857,15 +24865,14 @@
     <e><p><l>make<g><b/>a<b/>mistake</g><s n="vblex"/></l><r>fare<g><b/>un<b/>errore</g><s n="vblex"/></r></p></e>
     <e><p><l>make<g><b/>money</g><s n="vblex"/></l><r>fare<g><b/>soldi</g><s n="vblex"/></r></p></e>
     <e><p><l>make<g><b/>possible</g><s n="vblex"/><s n="sep"/></l><r>fare<g><b/>possibile</g><s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>make<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>fare<s n="vblex"/></r></p></e>
+    <e slr="fare"><p><l>make<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>fare<s n="vblex"/></r></p></e>
     <e><p><l>be<g><b/>possible</g><s n="vblex"/></l><r>essere<g><b/>possibile</g><s n="vblex"/></r></p></e>
-    <e i="yes"><p><l>make<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>inventare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>make<g><b/>up</g><vblex><sep></l><r>fare<vblex></r></e>).-->
+    <e slr="inventare D"><p><l>make<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>inventare<s n="vblex"/></r></p></e>
     <e><p><l>manacle<s n="vblex"/></l><r>ammanettare<s n="vblex"/></r></p></e>
-    <e r="LR" c="(manage to do sth)"><p><l>manage<s n="vblex"/></l><r>raggiungere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>achieve<vblex></l><r>raggiungere<vblex></r></e>).-->
-    <e r="RL" c="(manage to do sth)"><p><l>manage<s n="vblex"/></l><r>conseguire<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>manage<vblex></l><r>raggiungere<vblex></r></e>).-->
-    <e i="yes"><p><l>manage<s n="vblex"/></l><r>dirigere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>address<vblex></l><r>dirigere<vblex></r></e>).-->
+    <e r="LR" c="(manage to do sth)"><p><l>manage<s n="vblex"/></l><r>raggiungere<s n="vblex"/></r></p></e>
+    <e r="RL" c="(manage to do sth)"><p><l>manage<s n="vblex"/></l><r>conseguire<s n="vblex"/></r></p></e>
     <e><p><l>manifest<s n="vblex"/></l><r>manifestare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>manipulate<s n="vblex"/></l><r>manipolare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>handle<vblex></l><r>manipolare<vblex></r></e>).-->
+    <e r="LR"><p><l>manipulate<s n="vblex"/></l><r>manipolare<s n="vblex"/></r></p></e>
     <e><p><l>manoeuvre<s n="vblex"/></l><r>manovrare<s n="vblex"/></r></p></e>
     <e><p><l>manufacture<s n="vblex"/></l><r>fabbricare<s n="vblex"/></r></p></e>
     <e><p><l>mark<s n="vblex"/></l><r>marcare<s n="vblex"/></r></p></e>
@@ -25773,7 +25780,7 @@
     <e><p><l>bisexuality<s n="n"/></l><r>bisessualità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e r="RL"><p><l>breadwinner<s n="n"/></l><r>capofamiglia<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>caducity<s n="n"/></l><r>caducità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
-    <e srl="calcium"><p><l>calcium<s n="n"/></l><r>calcio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e c="srl='calcium'"><p><l>calcium<s n="n"/></l><r>calcio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>capacity<s n="n"/></l><r>capacità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>captivity<s n="n"/></l><r>cattività<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>cerium<s n="n"/></l><r>cerio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
@@ -25993,6 +26000,9 @@
     <e><p><l>caliph<s n="n"/></l><r>califfo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>binoculars<s n="n"/><s n="pl"/></l><r>binocolo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e><p><l>binoculars<s n="n"/><s n="pl"/></l><r>binocolo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>manacles<s n="n"/><s n="pl"/></l><r>manetta<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>lever<s n="n"/><s n="sg"/></l><r>manetta<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>handcuffs<s n="n"/><s n="pl"/></l><r>manetta<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>razor<s n="n"/></l><r>rasoio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>recipe<s n="n"/></l><r>ricetta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>visa<s n="n"/></l><r>visto<s n="n"/><s n="m"/></r></p></e>
@@ -26121,6 +26131,7 @@
     <e><p><l>taiwanese<s n="adj"/></l><r>taiwanese<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>cypriot<s n="n"/></l><r>cipriota<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>cypriot<s n="n"/></l><r>cipriota<s n="n"/></r></p></e>
+    <e><p><l>cypriot<s n="adj"/></l><r>cipriota<s n="adj"/></r></p></e>
     <e r="LR"><p><l>jacobite<s n="n"/></l><r>jacobita<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>jacobite<s n="n"/></l><r>jacobita<s n="n"/></r></p></e>
     <e><p><l>latvian<s n="n"/></l><r>lettone<s n="n"/><s n="mf"/></r></p></e>
@@ -26161,6 +26172,7 @@
     <e r="RL"><p><l>israeli<s n="n"/></l><r>israeliano<s n="n"/></r></p></e>
     <e r="LR"><p><l>gibraltarian<s n="n"/></l><r>gibilterrino<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>gibraltarian<s n="n"/></l><r>gibilterrino<s n="n"/></r></p></e>
+    <e><p><l>gibraltarian<s n="adj"/></l><r>gibilterrino<s n="adj"/></r></p></e>
     <e r="LR"><p><l>goth<s n="n"/></l><r>goto<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>goth<s n="n"/></l><r>goto<s n="n"/></r></p></e>
     <e r="LR"><p><l>visigoth<s n="n"/></l><r>visigoto<s n="n"/><s n="GD"/></r></p></e>
@@ -26337,7 +26349,7 @@
     <e><p><l>inflationary<s n="adj"/></l><r>inflazionista<s n="adj"/></r></p></e>
     <e><p><l>irrationalist<s n="adj"/></l><r>irrazionalista<s n="adj"/></r></p></e>
     <e><p><l>isolationist<s n="adj"/></l><r>isolazionista<s n="adj"/></r></p></e>
-    <e><p><l>Marxist<s n="adj"/></l><r>marxista<s n="adj"/></r></p></e>
+    <e><p><l>marxist<s n="adj"/></l><r>marxista<s n="adj"/></r></p></e>
     <e><p><l>masochistic<s n="adj"/></l><r>masochista<s n="adj"/></r></p></e>
     <e><p><l>materialist<s n="adj"/></l><r>materialista<s n="adj"/></r></p></e>
     <e><p><l>maximalist<s n="adj"/></l><r>massimalista<s n="adj"/></r></p></e>
