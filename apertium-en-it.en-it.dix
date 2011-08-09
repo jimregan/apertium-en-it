@@ -2287,7 +2287,7 @@
     <e><p><l>oceanic<s n="adj"/></l><r>oceanico<s n="adj"/></r></p></e>
     <e><p><l>ocular<s n="adj"/></l><r>oculare<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR" slr="strano D"><p><l>odd<s n="adj"/><s n="sint"/></l><r>strano<s n="adj"/></r></p></e>
-    <e r="RL" slr="dispari"><p><l>odd<s n="adj"/><s n="sint"/></l><r>dispari<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e><!--  autorestricted (<e r="LR"><l>odd<adj><sint></l><r>strano<adj></r></e>).-->
+    <e slr="dispari"><p><l>odd<s n="adj"/><s n="sint"/></l><r>dispari<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>of<b/>note<s n="adj"/></l><r>importante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>off-line<s n="adj"/></l><r>off-line<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>offensive<s n="adj"/></l><r>offensivo<s n="adj"/></r></p></e>
@@ -16034,7 +16034,7 @@
     <e r="LR"><p><l>angler<s n="n"/></l><r>pescatore<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>fisherman<s n="n"/></l><r>pescatore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fisherwoman<s n="n"/></l><r>pescatore<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>fishing<s n="n"/></l><r>pesca<s n="n"/><s n="f"/></r></p></e>
+    <e srl="fishing D"><p><l>fishing<s n="n"/></l><r>pesca<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fishmonger<s n="n"/></l><r>pescivendolo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>fishtank<s n="n"/></l><r>acquario<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fist<s n="n"/></l><r>pugno<s n="n"/><s n="m"/></r></p></e>
@@ -18813,9 +18813,8 @@
     <e r="LR"><p><l>pc<s n="n"/><s n="sg"/></l><r>pc<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>pc<s n="n"/><s n="pl"/></l><r>pc<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>peace<s n="n"/></l><r>pace<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>peach<s n="n"/></l><r>pesca<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>fishing<n></l><r>pesca<n><f></r></e>).-->
-    <e><p><l>peak<s n="n"/></l><r>vertice<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>peak<s n="n"/></l><r>vertice<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>peak<n></l><r>vertice<n><f></r></e>).-->
+    <e srl="peach"><p><l>peach<s n="n"/></l><r>pesca<s n="n"/><s n="f"/></r></p></e>
+    <e srl="peak D"><p><l>peak<s n="n"/></l><r>vertice<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>peanut<s n="n"/></l><r>arachide<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pearl<s n="n"/></l><r>perla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>peat<s n="n"/></l><r>torba<s n="n"/><s n="f"/></r></p></e>
@@ -19648,13 +19647,11 @@
     <e><p><l>reconsideration<s n="n"/></l><r>riconsiderazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reconstruction<s n="n"/></l><r>ricostruzione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>record<s n="n"/></l><r>registro<s n="n"/><s n="m"/></r></p></e>
-    <e i="yes"><p><l>record<s n="n"/></l><r>atto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>act<n></l><r>atto<n><m></r></e>).-->
-    <e r="RL"><p><l>record<s n="n"/></l><r>record<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>record<n></l><r>registro<n><m></r></e>).-->
+    <e r="RL"><p><l>record<s n="n"/></l><r>record<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>recording<s n="n"/></l><r>registrazione<s n="n"/><s n="f"/></r></p></e>
-    <e i="yes"><p><l>recording<s n="n"/></l><r>registro<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>record<n></l><r>registro<n><m></r></e>).-->
     <e><p><l>recording<b/>studio<s n="n"/></l><r>studio<g><b/>di<b/>registrazione</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>recovery<s n="n"/></l><r>recupero<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>recovery<s n="n"/></l><r>ripristino<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>recovery<n></l><r>recupero<n><m></r></e>).-->
+    <e r="RL"><p><l>recovery<s n="n"/></l><r>ripristino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>recreation<s n="n"/></l><r>ricreazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>recrimination<s n="n"/></l><r>recriminazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>recruitment<s n="n"/></l><r>coscrizione<s n="n"/><s n="f"/></r></p></e>
@@ -21005,7 +21002,7 @@
     <e r="LR"><p><l>student<s n="n"/></l><r>studente<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>student<s n="n"/></l><r>allievo<s n="n"/></r></p></e>
     <e srl="studio"><p><l>studio<s n="n"/></l><r>studio<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR" srl="study D"><p><l>study<s n="n"/></l><r>studio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>studio<n></l><r>studio<n><m></r></e>).-->
+    <e r="LR" srl="study D"><p><l>study<s n="n"/></l><r>studio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>stuff<s n="n"/></l><r>materia<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>stump<s n="n"/></l><r>moncherino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>stump<s n="n"/></l><r>moncone<s n="n"/><s n="m"/></r></p></e>
@@ -21066,12 +21063,12 @@
     <e><p><l>summation<s n="n"/></l><r>sommazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>summation<s n="n"/></l><r>sommatoria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>summer<s n="n"/></l><r>estate<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR" srl="summit D"><p><l>summit<s n="n"/></l><r>vertice<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>peak<n></l><r>vertice<n><m></r></e>).-->
+    <e srl="summit D" slr="vertice D"><p><l>summit<s n="n"/></l><r>vertice<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>summit<s n="n"/><s n="ND"/></l><r>sommità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>summit<s n="n"/><s n="sg"/></l><r>sommità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>summit<s n="n"/><s n="pl"/></l><r>sommità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+    <e r="LR" slr="sommità"><p><l>summit<s n="n"/><s n="sg"/></l><r>sommità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+    <e r="LR" slr="sommità"><p><l>summit<s n="n"/><s n="pl"/></l><r>sommità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>sun<s n="n"/></l><r>sole<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>sunstroke<s n="n"/></l><r>insolazione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>insolation<n></l><r>insolazione<n><f></r></e>).-->
+    <e r="LR"><p><l>sunstroke<s n="n"/></l><r>insolazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>supercharging<s n="n"/></l><r>sovralimentazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>superelevation<s n="n"/></l><r>sopraelevazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>superimposition<s n="n"/></l><r>sovrapposizione<s n="n"/><s n="f"/></r></p></e>
@@ -21361,14 +21358,14 @@
     <e slr="pareggio"><p><l>tie<s n="n"/></l><r>pareggio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tiger<s n="n"/></l><r>tigre<s n="n"/><s n="f"/></r></p></e>
     <e r="LR" slr="ora"><p><l>time<s n="n"/></l><r>ora<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL" slr="tempo D"><p><l>time<s n="n"/></l><r>tempo<s n="n"/><s n="m"/></r></p></e><
+    <e r="RL" slr="tempo D"><p><l>time<s n="n"/></l><r>tempo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL" slr="volta" srl="time D"><p><l>time<s n="n"/></l><r>volta<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>timetable<s n="n"/></l><r>orario<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>timidity<s n="n"/></l><r>timidezza<s n="n"/><s n="f"/></r></p></e>
     <e slr="stagno D" srl="tin"><p><l>tin<s n="n"/></l><r>stagno<s n="n"/><s n="m"/></r></p></e>
     <e slr="latta"><p><l>tin<s n="n"/></l><r>latta<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>tip<s n="n"/></l><r>consiglio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>advice<n></l><r>consiglio<n><m></r></e>).-->
-    <e r="RL"><p><l>tip<s n="n"/></l><r>punta<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>tip<n></l><r>consiglio<n><m></r></e>).-->
+    <e slr="consiglio"><p><l>tip<s n="n"/></l><r>consiglio<s n="n"/><s n="m"/></r></p></e>
+    <e slr="punta D"><p><l>tip<s n="n"/></l><r>punta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tirade<s n="n"/></l><r>invettiva<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>tissue<s n="n"/></l><r>fazzoletto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>handkerchief<n></l><r>fazzoletto<n><m></r></e>).-->
     <e i="yes"><p><l>tissue<s n="n"/></l><r>tessuto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>fabric<n></l><r>tessuto<n><m></r></e>).-->
