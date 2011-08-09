@@ -13443,6 +13443,7 @@
     <e r="LR"><p><l>balm<s n="n"/></l><r>balsamo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>balneotherapy<s n="n"/></l><r>balneoterapia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>balsam<s n="n"/></l><r>balsamo<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="make-up"><p><l>make-up<s n="n"/></l><r>trucco<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lip<b/>balm<s n="n"/></l><r>balsamo<b/>labiale<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>balustrade<s n="n"/></l><r>balaustra<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>bamboo<s n="n"/><s n="sg"/></l><r>bambù<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -14729,8 +14730,8 @@
     <e><p><l>correspondence<s n="n"/></l><r>corrispondenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>corruption<s n="n"/></l><r>corruzione<s n="n"/><s n="f"/></r></p></e>
     <e srl="cortex"><p><l>cortex<s n="n"/></l><r>corteccia<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>cosmetic<s n="n"/></l><r>cosmetico<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>cosmetic<s n="n"/></l><r>cosmetico<s n="n"/></r></p></e>
+    <e r="LR"><p><l>cosmetic<s n="n"/></l><r>cosmetico<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>make-up<s n="n"/></l><r>cosmetico<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cosmogony<s n="n"/></l><r>cosmogonia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cosmology<s n="n"/></l><r>cosmologia<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>cosmonaut<s n="n"/></l><r>cosmonauta<s n="n"/></r></p></e>
@@ -16481,7 +16482,7 @@
     <e><p><l>transhipment<s n="n"/></l><r>trasbordo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>treasure<s n="n"/></l><r>tesoro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>treaty<s n="n"/></l><r>trattato<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>trick<s n="n"/></l><r>trucco<s n="n"/><s n="m"/></r></p></e>
+    <e srl="trick D"><p><l>trick<s n="n"/></l><r>trucco<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tricycle<s n="n"/></l><r>triciclo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>trigger<s n="n"/></l><r>grilletto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>trill<s n="n"/></l><r>trillo<s n="n"/><s n="m"/></r></p></e>
@@ -20561,6 +20562,8 @@
     <e><p><l>vinaigrette<s n="n"/></l><r>vinaigrette<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>auditor<s n="n"/></l><r>revisore<g><b/>dei<b/>conti</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>byte<s n="n"/></l><r>byte<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e r="RL"><p><l>make-up<s n="n"/></l><r>makeup<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>nightclub<s n="n"/></l><r>night<b/>club<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>crosshead<s n="n"/></l><r>testacroce<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>dandy<s n="n"/></l><r>dandy<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>broccoli<s n="n"/></l><r>broccoli<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
