@@ -1419,7 +1419,7 @@
     <e r="LR"><p><l>felicitous<s n="adj"/></l><r>adeguato<s n="adj"/></r></p></e>
     <e><p><l>fellow<s n="adj"/></l><r>amico<s n="adj"/></r></p></e>
     <e><p><l>female<s n="adj"/></l><r>femminile<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>feminine<s n="adj"/></l><r>femminile<s n="adj"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>feminine<s n="adj"/></l><r>femminile<s n="adj"/><s n="mf"/></r></p></e>
     <e c="check"><p><l>feminist<s n="adj"/></l><r>femminista<s n="adj"/></r></p></e>
     <e><p><l>ferric<s n="adj"/></l><r>ferrico<s n="adj"/></r></p></e>
     <e><p><l>fertile<s n="adj"/></l><r>fertile<s n="adj"/><s n="mf"/></r></p></e>
@@ -2220,13 +2220,13 @@
     <e><p><l>natural<s n="adj"/></l><r>naturale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>naval<s n="adj"/></l><r>navale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>naïve<s n="adj"/><s n="sint"/></l><r>ingenuo<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>near<s n="adj"/><s n="sint"/></l><r>vicino<s n="adj"/></r></p></e><!--  autorestricted (<e><l>close<adj><sint></l><r>vicino<adj></r></e>).-->
-    <e r="LR"><p><l>nearby<s n="adj"/></l><r>vicino<s n="adj"/></r></p></e><!--  autorestricted (<e><l>close<adj><sint></l><r>vicino<adj></r></e>).-->
+    <e r="LR"><p><l>near<s n="adj"/><s n="sint"/></l><r>vicino<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>nearby<s n="adj"/></l><r>vicino<s n="adj"/></r></p></e>
     <e><p><l>necessary<s n="adj"/></l><r>necessario<s n="adj"/></r></p></e>
     <e><p><l>negative<s n="adj"/></l><r>negativo<s n="adj"/></r></p></e>
     <e><p><l>negligent<s n="adj"/></l><r>negligente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>negotiable<s n="adj"/></l><r>negoziabile<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>neighbouring<s n="adj"/></l><r>vicino<s n="adj"/></r></p></e><!--  autorestricted (<e><l>close<adj><sint></l><r>vicino<adj></r></e>).-->
+    <e r="LR"><p><l>neighbouring<s n="adj"/></l><r>vicino<s n="adj"/></r></p></e>
     <e r="RL"><p><l>neighbouring<s n="adj"/></l><r>confinante<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>neighbourly<s n="adj"/></l><r>cordiale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>neoliberal<s n="adj"/></l><r>neoliberale<s n="adj"/><s n="mf"/></r></p></e>
@@ -2924,16 +2924,16 @@
     <e><p><l>tiny<s n="adj"/><s n="sint"/></l><r>minuscolo<s n="adj"/></r></p></e>
     <e><p><l>tiresome<s n="adj"/></l><r>fastidioso<s n="adj"/></r></p></e>
     <e><p><l>titanic<s n="adj"/></l><r>titanico<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>together<s n="adj"/></l><r>vicino<s n="adj"/></r></p></e><!--  autorestricted (<e><l>close<adj><sint></l><r>vicino<adj></r></e>).-->
+    <e r="LR"><p><l>together<s n="adj"/></l><r>vicino<s n="adj"/></r></p></e>
     <e><p><l>tonal<s n="adj"/></l><r>tonale<s n="adj"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>top<s n="adj"/></l><r>superiore<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>superior<adj></l><r>superiore<adj><mf></r></e>).-->
+    <e r="LR"><p><l>top<s n="adj"/></l><r>superiore<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>topical<s n="adj"/></l><r>topico<s n="adj"/></r></p></e>
     <e><p><l>topographical<s n="adj"/></l><r>topografico<s n="adj"/></r></p></e>
     <e><p><l>topological<s n="adj"/></l><r>topologico<s n="adj"/></r></p></e>
     <e><p><l>torrential<s n="adj"/></l><r>torrenziale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>total<s n="adj"/></l><r>totale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>totalitarian<s n="adj"/></l><r>totalitario<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>tough<s n="adj"/><s n="sint"/></l><r>duro<s n="adj"/></r></p></e><!--  autorestricted (<e><l>hard<adj><sint></l><r>duro<adj></r></e>).-->
+    <e r="LR"><p><l>tough<s n="adj"/><s n="sint"/></l><r>duro<s n="adj"/></r></p></e>
     <e><p><l>tourist<s n="adj"/></l><r>turistico<s n="adj"/></r></p></e>
     <e><p><l>toxic<s n="adj"/></l><r>tossico<s n="adj"/></r></p></e>
     <e><p><l>traceable<s n="adj"/></l><r>tracciabile<s n="adj"/><s n="mf"/></r></p></e>
@@ -14327,7 +14327,7 @@
     <e><p><l>cloning<s n="n"/></l><r>clonazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>closet<s n="n"/></l><r>armadio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>closure<s n="n"/></l><r>chiusura<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>cloth<s n="n"/><s n="pl"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cloth<s n="n"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cloth<b/>pulp<s n="n"/></l><r>pasta<g><b/>di<b/>stracci</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>clothes<s n="n"/><s n="pl"/></l><r>vestito<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>clothes<s n="n"/><s n="pl"/></l><r>vestito<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -14895,7 +14895,7 @@
     <e><p><l>cyclone<s n="n"/></l><r>ciclone<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cyclothymia<s n="n"/></l><r>ciclotimia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cylinder<s n="n"/></l><r>cilindro<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>cymbal<s n="n"/></l><r>piatto<s n="n"/><s n="m"/></r></p></e>
+    <e srl="cymbal"><p><l>cymbal<s n="n"/></l><r>piatto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cynicism<s n="n"/></l><r>cinismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cypress<s n="n"/></l><r>cipresso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cyst<s n="n"/></l><r>cisti<s n="n"/><s n="m"/></r></p></e>
@@ -15244,7 +15244,7 @@
     <e><p><l>discussion<s n="n"/></l><r>discussione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>disease<s n="n"/></l><r>malattia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>disgust<s n="n"/></l><r>schifo<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>dish<s n="n"/></l><r>piatto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>cymbal<n></l><r>piatto<n><m></r></e>).-->
+    <e r="LR"><p><l>dish<s n="n"/></l><r>piatto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>disharmony<s n="n"/></l><r>disarmonia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>disinfectant<s n="n"/></l><r>disinfettante<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>disinfection<s n="n"/></l><r>disinfezione<s n="n"/><s n="f"/></r></p></e>
@@ -16547,8 +16547,7 @@
     <e r="LR"><p><l>garage<s n="n"/><s n="sg"/></l><r>garage<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>garage<s n="n"/><s n="pl"/></l><r>garage<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>garage<s n="n"/><s n="ND"/></l><r>garage<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e><p><l>garbage<s n="n"/><s n="sg"/></l><r>immondizia<s n="n"/></r></p></e>
-    <e><p><l>garbage<s n="n"/><s n="pl"/></l><r>immondizia<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>garbage<s n="n"/></l><r>immondizia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>garden<s n="n"/></l><r>giardino<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>gardener<s n="n"/></l><r>giardiniere<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>gardener<s n="n"/></l><r>giardiniere<s n="n"/></r></p></e>
@@ -17815,7 +17814,7 @@
     <e><p><l>luxury<s n="n"/></l><r>lusso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lymph<s n="n"/></l><r>linfa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lyophilisation<s n="n"/></l><r>liofilizzazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>lyric<s n="n"/><s n="pl"/></l><r>lettera<s n="n"/></r></p></e>
+    <e r="LR"><p><l>lyric<s n="n"/><s n="pl"/></l><r>testo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>lyricism<s n="n"/></l><r>lirismo<s n="n"/><s n="m"/></r></p></e>
     <e srl="rainbow D"><p><l>rainbow<s n="n"/></l><r>iride<s n="n"/><s n="f"/></r></p></e>
     <e srl="iris"><p><l>iris<s n="n"/></l><r>iride<s n="n"/><s n="f"/></r></p></e>
@@ -19080,20 +19079,20 @@
     <e><p><l>plant<s n="n"/></l><r>pianta<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>plantation<s n="n"/></l><r>impianto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>facility<n><pl></l><r>impianto<n><m></r></e>).-->
     <e><p><l>plasma<s n="n"/></l><r>plasma<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>plastic<s n="n"/></l><r>plastica<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>plastic<s n="n"/></l><r>plastica<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>plastic<n></l><r>plastica<n><m></r></e>).-->
+    <e><p><l>plastic<s n="n"/></l><r>plastica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>plastification<s n="n"/></l><r>plastificazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>plate<s n="n"/></l><r>placca<s n="n"/><s n="f"/></r></p></e>
-    <e i="yes"><p><l>plate<s n="n"/></l><r>piatto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>cymbal<n></l><r>piatto<n><m></r></e>).-->
+    <e slr="placca" r="LR"><p><l>plate<s n="n"/></l><r>placca<s n="n"/><s n="f"/></r></p></e>
+    <e slr="piatto D" srl="plate D"><p><l>plate<s n="n"/></l><r>piatto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>plateau<s n="n"/></l><r>altopiano<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>platform<s n="n"/></l><r>piattaforma<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>platinum<s n="n"/></l><r>platino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>platonism<s n="n"/></l><r>platonismo<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>play<s n="n"/></l><r>gioco<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>gambling<n></l><r>gioco<n><m></r></e>).-->
-    <e r="LR"><p><l>player<s n="n"/></l><r>interprete<s n="n"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>interpreter<n></l><r>interprete<n><mf></r></e>).-->
-    <e r="RL"><p><l>player<s n="n"/></l><r>giocatore<s n="n"/></r></p></e><!--  autorestricted (<e r="LR"><l>player<n></l><r>interprete<n><mf></r></e>).-->
+    <e><p><l>pontifex<s n="n"/></l><r>pontefice<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>play<s n="n"/></l><r>gioco<s n="n"/><s n="m"/></r></p></e>
+    <e slr="interprete"><p><l>player<s n="n"/></l><r>interprete<s n="n"/><s n="mf"/></r></p></e>
+    <e alr="giocatore D"><p><l>player<s n="n"/></l><r>giocatore<s n="n"/></r></p></e>
     <e><p><l>playground<s n="n"/></l><r>cortile<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>pleasure<s n="n"/></l><r>piacere<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>placer<n></l><r>piacere<n><m></r></e>).-->
+    <e r="LR"><p><l>pleasure<s n="n"/></l><r>piacere<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>plebeian<s n="n"/></l><r>plebeo<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>plebeian<s n="n"/></l><r>plebeo<s n="n"/></r></p></e>
     <e><p><l>plebian<s n="n"/></l><r>plebe<s n="n"/><s n="f"/></r></p></e>
@@ -25381,11 +25380,11 @@
     <e r="LR"><p><l>scream<s n="vblex"/></l><r>gridare<s n="vblex"/></r></p></e>
     <e><p><l>slacken<s n="vblex"/></l><r>allentare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>show<s n="vblex"/></l><r>dimostrare<s n="vblex"/></r></p></e>
-    <e i="yes"><p><l>show<s n="vblex"/></l><r>mostrare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>display<vblex></l><r>mostrare<vblex></r></e>).-->
+    <e i="yes"><p><l>show<s n="vblex"/></l><r>mostrare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>show<g><b/>up</g><s n="vblex"/></l><r>apparire<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>shower<s n="vblex"/></l><r>piovere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>rain<vblex></l><r>piovere<vblex></r></e>).-->
+    <e r="LR"><p><l>shower<s n="vblex"/></l><r>piovere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>shut<s n="vblex"/></l><r>chiudere<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>shut<g><b/>down</g><s n="vblex"/></l><r>chiudere<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>shut<g><b/>down</g><s n="vblex"/><s n="sep"/></l><r>chiudere<s n="vblex"/></r></p></e>
     <e><p><l>sigh<s n="vblex"/></l><r>sospirare<s n="vblex"/></r></p></e>
     <e><p><l>sign<s n="vblex"/></l><r>firmare<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>sign<s n="vblex"/></l><r>siglare<s n="vblex"/></r></p></e>
@@ -25394,7 +25393,7 @@
     <e><p><l>hold<g><b/>responsible</g><s n="vblex"/><s n="sep"/></l><r>ritenere<g><b/>responsabile</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>bake<s n="vblex"/></l><r>infornare<s n="vblex"/></r></p></e>
     <e><p><l>box<s n="vblex"/></l><r>boxare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>signal<s n="vblex"/></l><r>segnalare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>point<vblex></l><r>segnalare<vblex></r></e>).-->
+    <e r="LR"><p><l>signal<s n="vblex"/></l><r>segnalare<s n="vblex"/></r></p></e>
     <e><p><l>simplify<s n="vblex"/></l><r>semplificare<s n="vblex"/></r></p></e>
     <e><p><l>simulate<s n="vblex"/></l><r>simulare<s n="vblex"/></r></p></e>
     <e><p><l>sing<s n="vblex"/></l><r>cantare<s n="vblex"/></r></p></e>
