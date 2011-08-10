@@ -1385,6 +1385,7 @@
     <e><p><l>extraordinary<s n="adj"/></l><r>straordinario<s n="adj"/></r></p></e>
     <e><p><l>extraterrestrial<s n="adj"/></l><r>extraterrestre<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>extravagant<s n="adj"/></l><r>estravagante<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>fancy<s n="adj"/><s n="sint"/></l><r>estravagante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>extreme<s n="adj"/></l><r>estremo<s n="adj"/></r></p></e>
     <e><p><l>extroverted<s n="adj"/></l><r>estroverso<s n="adj"/></r></p></e>
     <e><p><l>facial<s n="adj"/></l><r>facciale<s n="adj"/><s n="mf"/></r></p></e>
@@ -1613,6 +1614,8 @@
     <e><p><l>haploid<s n="adj"/></l><r>aploide<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>happy<s n="adj"/><s n="sint"/></l><r>felice<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>hard<s n="adj"/><s n="sint"/></l><r>duro<s n="adj"/></r></p></e>
+    <e><p><l>firm<s n="adj"/><s n="sint"/></l><r>fermo<s n="adj"/></r></p></e>
+    <e><p><l>friendly<s n="adj"/><s n="sint"/></l><r>amichevole<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>harmful<s n="adj"/></l><r>nocivo<s n="adj"/></r></p></e>
     <e><p><l>harmonic<s n="adj"/></l><r>armonico<s n="adj"/></r></p></e>
     <e r="LR"><p><l>harsh<s n="adj"/><s n="sint"/></l><r>duro<s n="adj"/></r></p></e>
@@ -1729,6 +1732,8 @@
     <e><p><l>immigrant<s n="adj"/></l><r>immigrante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>imminent<s n="adj"/></l><r>imminente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>immoderate<s n="adj"/></l><r>smisurato<s n="adj"/></r></p></e>
+    <e><p><l>moderate<s n="adj"/></l><r>moderato<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>mild<s n="adj"/><s n="sint"/></l><r>moderato<s n="adj"/></r></p></e>
     <e><p><l>immoral<s n="adj"/></l><r>immorale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>immortal<s n="adj"/></l><r>immortale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>immovable<s n="adj"/></l><r>immobiliare<s n="adj"/><s n="mf"/></r></p></e>
@@ -25010,17 +25015,17 @@
     <e r="LR"><p><l>migrate<s n="vblex"/></l><r>emigrare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>emigrate<vblex></l><r>emigrare<vblex></r></e>).-->
     <e><p><l>milk<s n="vblex"/></l><r>mungere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>mind<s n="vblex"/></l><r>importare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>miss<s n="vblex"/></l><r>perdere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>lose<vblex></l><r>perdere<vblex></r></e>).-->
-    <e i="yes"><p><l>miss<s n="vblex"/></l><r>mancare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>miss<vblex></l><r>perdere<vblex></r></e>).-->
+    <e slr="perdere D"><p><l>miss<s n="vblex"/></l><r>perdere<s n="vblex"/></r></p></e>
+    <e slr="mancare"><p><l>miss<s n="vblex"/></l><r>mancare<s n="vblex"/></r></p></e>
     <e><p><l>misunderstand<s n="vblex"/></l><r>equivocare<s n="vblex"/></r></p></e>
     <e><p><l>mitigate<s n="vblex"/></l><r>mitigare<s n="vblex"/></r></p></e>
     <e><p><l>mix<s n="vblex"/></l><r>miscelare<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>mix<s n="vblex"/></l><r>mischiare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>mix<vblex></l><r>miscelare<vblex></r></e>).-->
+    <e r="RL"><p><l>mix<s n="vblex"/></l><r>mischiare<s n="vblex"/></r></p></e>
     <e><p><l>moderate<s n="vblex"/></l><r>moderare<s n="vblex"/></r></p></e>
     <e><p><l>modernise<s n="vblex"/></l><r>modernizzare<s n="vblex"/></r></p></e>
     <e><p><l>modify<s n="vblex"/></l><r>modificare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>modulate<s n="vblex"/></l><r>adattare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>monitor<s n="vblex"/></l><r>controllare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>control<vblex></l><r>controllare<vblex></r></e>).-->
+    <e r="LR"><p><l>monitor<s n="vblex"/></l><r>controllare<s n="vblex"/></r></p></e>
     <e><p><l>monopolise<s n="vblex"/></l><r>monopolizzare<s n="vblex"/></r></p></e>
     <e><p><l>mortgage<s n="vblex"/></l><r>ipotecare<s n="vblex"/></r></p></e>
     <e><p><l>mortify<s n="vblex"/></l><r>mortificare<s n="vblex"/></r></p></e>
