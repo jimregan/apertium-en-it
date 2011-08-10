@@ -13739,8 +13739,8 @@
     <e r="RL"><p><l>brain<s n="n"/><s n="pl"/></l><r>cervello<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>brake<s n="n"/></l><r>freno<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bran<s n="n"/></l><r>crusca<s n="n"/><s n="f"/></r></p></e>
-    <e srl="brand"><p><l>brand<s n="n"/></l><r>marca<s n="n"/><s n="f"/></r></p></e>
-    <e srl="brand D" r="RL"><p><l>brand<s n="n"/></l><r>marchio<s n="n"/><s n="m"/></r></p></e>
+    <e srl="brand" r="RL"><p><l>brand<s n="n"/></l><r>marca<s n="n"/><s n="f"/></r></p></e>
+    <e srl="brand D"><p><l>brand<s n="n"/></l><r>marchio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>brandy<s n="n"/></l><r>acquavite<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>breach<s n="n"/></l><r>violazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bread<s n="n"/></l><r>pane<s n="n"/><s n="m"/></r></p></e>
@@ -17912,7 +17912,7 @@
     <e><p><l>marmot<s n="n"/></l><r>marmotta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>marquess<s n="n"/></l><r>marchese<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>marquis<s n="n"/></l><r>marchese<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>marquise<s n="n"/></l><r>marchese<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="RL"><l>marchioness<n></l><r>marchese<n><f></r></e>).-->
+    <e r="LR"><p><l>marquise<s n="n"/></l><r>marchese<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>marriage<s n="n"/></l><r>matrimonio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>marsh<s n="n"/></l><r>palude<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>martian<s n="n"/></l><r>marziano<s n="n"/></r></p></e>
@@ -19259,7 +19259,7 @@
     <e><p><l>preface<s n="n"/></l><r>prefazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>preference<s n="n"/></l><r>preferenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>prefix<s n="n"/></l><r>prefisso<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>stump<s n="n"/></l><r>ceppo<s n="n"/><s n="m"/></r></p></e>
+    <e slr="ceppo D"><p><l>stump<s n="n"/></l><r>ceppo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>prefixation<s n="n"/></l><r>prefissazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pregnancy<s n="n"/></l><r>gravidanza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pregnant<b/>woman<s n="n"/></l><r>incinta<s n="n"/><s n="f"/></r></p></e>
@@ -21032,7 +21032,7 @@
     <e r="LR" srl="study D"><p><l>study<s n="n"/></l><r>studio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>stuff<s n="n"/></l><r>materia<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>stump<s n="n"/></l><r>moncherino<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>stump<s n="n"/></l><r>moncone<s n="n"/><s n="m"/></r></p></e>
+    <e slr="moncone"><p><l>stump<s n="n"/></l><r>moncone<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>sty<s n="n"/></l><r>gufo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>owl<n></l><r>gufo<n><m></r></e>).-->
     <e><p><l>style<s n="n"/></l><r>stile<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>stylist<s n="n"/></l><r>stilista<s n="n"/></r></p></e>
@@ -21421,8 +21421,8 @@
     <e r="LR"><p><l>tonality<s n="n"/><s n="sg"/></l><r>tonalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>tonality<s n="n"/><s n="pl"/></l><r>tonalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>tone<s n="n"/></l><r>tono<s n="n"/><s n="m"/></r></p></e>
-    <e srl="tongue D"><p><l>tongue<s n="n"/></l><r>lingua<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>tongue<s n="n"/></l><r>linguetta<s n="n"/><s n="f"/></r></p></e>
+    <e srl="tongue D" slr="lingua D"><p><l>tongue<s n="n"/></l><r>lingua<s n="n"/><s n="f"/></r></p></e>
+    <e slr="linguetta"><p><l>tongue<s n="n"/></l><r>linguetta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tonnage<s n="n"/></l><r>stazza<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>tonne<s n="n"/></l><r>tonnellata<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tonsil<s n="n"/></l><r>tonsilla<s n="n"/><s n="f"/></r></p></e>
@@ -23641,7 +23641,7 @@
     <e><p><l>bronze<s n="vblex"/></l><r>bronzare<s n="vblex"/></r></p></e>
     <e><p><l>price<s n="vblex"/></l><r>prezzare<s n="vblex"/></r></p></e>
     <e><p><l>match<s n="vblex"/></l><r>uguagliare<s n="vblex"/></r></p></e>
-    <e><p><l>nominate<s n="vblex"/></l><r>candidare<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>nominate<s n="vblex"/></l><r>candidare<s n="vblex"/></r></p></e>
     <e><p><l>object<s n="vblex"/></l><r>obiettare<s n="vblex"/></r></p></e>
     <e><p><l>remit<s n="vblex"/></l><r>rimettere<s n="vblex"/></r></p></e>
     <e><p><l>risk<s n="vblex"/></l><r>rischiare<s n="vblex"/></r></p></e>
@@ -24470,7 +24470,7 @@
     <e r="RL"><p><l>examine<s n="vblex"/></l><r>visionare<s n="vblex"/></r></p></e>
     <e><p><l>examine<s n="vblex"/></l><r>esaminare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>excavate<s n="vblex"/></l><r>scavare<s n="vblex"/></r></p></e>
-    <e><p><l>take<g><b/>out</g><s n="vblex"/></l><r>cavare<s n="vblex"/></r></p></e>
+    <e><p><l>take<g><b/>out</g><s n="vblex"/><s n="sep"/></l><r>cavare<s n="vblex"/></r></p></e>
     <e><p><l>take<g><b/>care</g><s n="vblex"/></l><r>badare<s n="vblex"/></r></p></e>
     <e><p><l>exceed<s n="vblex"/></l><r>superare<s n="vblex"/></r></p></e>
     <e><p><l>except<s n="vblex"/></l><r>eccettuare<s n="vblex"/></r></p></e>
@@ -25007,20 +25007,20 @@
     <e><p><l>motivate<s n="vblex"/></l><r>motivare<s n="vblex"/></r></p></e>
     <e><p><l>motorise<s n="vblex"/></l><r>motorizzare<s n="vblex"/></r></p></e>
     <e><p><l>mount<s n="vblex"/></l><r>montare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>move<s n="vblex"/></l><r>spostare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>displace<vblex></l><r>spostare<vblex></r></e>).-->
+    <e r="LR"><p><l>move<s n="vblex"/></l><r>spostare<s n="vblex"/></r></p></e>
     <e><p><l>multiply<s n="vblex"/></l><r>moltiplicare<s n="vblex"/></r></p></e>
     <e><p><l>murder<s n="vblex"/></l><r>assassinare<s n="vblex"/></r></p></e>
     <e><p><l>mutate<s n="vblex"/></l><r>mutare<s n="vblex"/></r></p></e>
     <e><p><l>mutter<s n="vblex"/></l><r>mormorare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>name<s n="vblex"/></l><r>nominare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>appoint<vblex></l><r>nominare<vblex></r></e>).-->
+    <e r="LR"><p><l>name<s n="vblex"/></l><r>nominare<s n="vblex"/></r></p></e>
     <e><p><l>narrate<s n="vblex"/></l><r>narrare<s n="vblex"/></r></p></e>
     <e><p><l>nationalise<s n="vblex"/></l><r>nazionalizzare<s n="vblex"/></r></p></e>
     <e><p><l>need<s n="vblex"/></l><r>necessitare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>neglect<s n="vblex"/></l><r>disattendere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>disregard<vblex></l><r>disattendere<vblex></r></e>).-->
-    <e r="RL"><p><l>neglect<s n="vblex"/></l><r>trascurare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>neglect<vblex></l><r>disattendere<vblex></r></e>).-->
+    <e r="LR"><p><l>neglect<s n="vblex"/></l><r>disattendere<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>neglect<s n="vblex"/></l><r>trascurare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>negotiate<s n="vblex"/></l><r>trattare<s n="vblex"/></r></p></e>
     <e><p><l>neutralise<s n="vblex"/></l><r>neutralizzare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>nominate<s n="vblex"/></l><r>nominare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>appoint<vblex></l><r>nominare<vblex></r></e>).-->
+    <e r="LR"><p><l>nominate<s n="vblex"/></l><r>nominare<s n="vblex"/></r></p></e>
     <e><p><l>normalise<s n="vblex"/></l><r>normalizzare<s n="vblex"/></r></p></e>
     <e><p><l>notarise<s n="vblex"/></l><r>autenticare<s n="vblex"/></r></p></e>
     <e><p><l>notch<s n="vblex"/></l><r>intaccare<s n="vblex"/></r></p></e>
@@ -25415,10 +25415,8 @@
     <e c="(intransitiu)"><p><l>stand<s n="vblex"/></l><r>stare<s n="vblex"/></r></p></e>
     <e><p><l>standardise<s n="vblex"/></l><r>standardizzare<s n="vblex"/></r></p></e>
     <e><p><l>start<s n="vblex"/></l><r>iniziare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>state<s n="vblex"/></l><r>dichiarare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>allege<vblex></l><r>dichiarare<vblex></r></e>).-->
-    <e i="yes"><p><l>state<s n="vblex"/></l><r>sollevare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>pose<vblex></l><r>sollevare<vblex></r></e>).-->
-    <e r="LR"><p><l>stay<s n="vblex"/></l><r>restare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>be<g><b/>left</g><vblex></l><r>restare<vblex></r></e>).-->
-    <e i="yes"><p><l>stay<s n="vblex"/></l><r>rimanere<s n="vblex"/></r></p></e><!--  autorestricted (<e r="LR"><l>stay<vblex></l><r>restare<vblex></r></e>).-->
+    <e r="LR"><p><l>state<s n="vblex"/></l><r>dichiarare<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>stay<s n="vblex"/></l><r>restare<s n="vblex"/></r></p></e>
     <e><p><l>steal<s n="vblex"/></l><r>rubare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>step<g><b/>into</g><s n="vblex"/></l><r>entrare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>come<g><b/>in</g><vblex></l><r>entrare<vblex></r></e>).-->
     <e><p><l>sterilise<s n="vblex"/></l><r>sterilizzare<s n="vblex"/></r></p></e>
@@ -25983,7 +25981,7 @@
     <e><p><l>praseodymium<s n="n"/></l><r>praseodimio<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>precocity<s n="n"/></l><r>precocità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>prognosis<s n="n"/></l><r>prognosi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
-    <e><p><l>narcosis<s n="n"/></l><r>nacrosi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>narcosis<s n="n"/></l><r>narcosi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>puberty<s n="n"/></l><r>pubertà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>quorum<s n="n"/></l><r>quorum<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e r="LR"><p><l>rapidity<s n="n"/></l><r>rapidità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
