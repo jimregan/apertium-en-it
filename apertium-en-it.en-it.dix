@@ -1503,6 +1503,7 @@
     <e><p><l>fortnightly<s n="adj"/></l><r>bimensile<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>foster<s n="adj"/></l><r>adottivo<s n="adj"/></r></p></e>
     <e><p><l>fragile<s n="adj"/></l><r>fragile<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>brittle<s n="adj"/><s n="sint"/></l><r>fragile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>frank<s n="adj"/></l><r>franco<s n="adj"/></r></p></e>
     <e><p><l>frantic<s n="adj"/></l><r>frenetico<s n="adj"/></r></p></e>
     <e><p><l>fraternal<s n="adj"/></l><r>fraterno<s n="adj"/></r></p></e>
@@ -1879,6 +1880,7 @@
     <e r="LR" c="check"><p><l>integral<s n="adj"/></l><r>integrale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>intellectual<s n="adj"/></l><r>intellettuale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>intelligent<s n="adj"/></l><r>intelligente<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>clever<s n="adj"/><s n="sint"/></l><r>intelligente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>intelligible<s n="adj"/></l><r>intelligibile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>intense<s n="adj"/></l><r>intenso<s n="adj"/></r></p></e>
     <e><p><l>intensive<s n="adj"/></l><r>intensivo<s n="adj"/></r></p></e>
@@ -2641,6 +2643,7 @@
     <e><p><l>reusable<s n="adj"/></l><r>riutilizzabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>reverend<s n="adj"/></l><r>reverendo<s n="adj"/></r></p></e>
     <e><p><l>reverend<s n="n"/></l><r>reverendo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>crude<b/>oil<s n="n"/></l><r>petrolio<b/>greggio<s n="n"/><s n="m"/></r></p></e>
     <e slr="sorso"><p><l>swallow<s n="n"/></l><r>sorso<s n="n"/><s n="m"/></r></p></e>
     <e slr="rondine D"><p><l>swallow<s n="n"/></l><r>rondine<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>castilianisation<s n="n"/></l><r>castiglianizzazione<s n="n"/><s n="f"/></r></p></e>
@@ -2675,8 +2678,9 @@
     <e c="check"><p><l>ruling<s n="adj"/></l><r>governante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>rural<s n="adj"/></l><r>rurale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>russian<s n="adj"/></l><r>russo<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>ruthless<s n="adj"/></l><r>crudele<s n="adj"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>cruel<adj></l><r>crudele<adj><mf></r></e>).-->
-    <e r="LR"><p><l>sacred<s n="adj"/></l><r>sacro<s n="adj"/></r></p></e><!--  autorestricted (<e><l>holy<adj><sint></l><r>sacro<adj></r></e>).-->
+    <e r="LR"><p><l>ruthless<s n="adj"/></l><r>crudele<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>sacred<s n="adj"/></l><r>sacro<s n="adj"/></r></p></e>
+    <e><p><l>crude<s n="adj"/><s n="sint"/></l><r>rude<s n="adj"/><s n="mf"/></r></p></e>
     <e c="check"><p><l>sailor<s n="adj"/></l><r>marinaio<s n="adj"/><s n="m"/></r></p></e>
     <e c="crec que no hauria de ser adj sinó tractament, com Sr (nom?)"><p><l>saint<s n="adj"/></l><r>santo<s n="adj"/></r></p></e>
     <e><p><l>saline<s n="adj"/></l><r>salino<s n="adj"/></r></p></e>
@@ -14683,6 +14687,9 @@
     <e><p><l>successfully<s n="adv"/></l><r>con<b/>successo<s n="adv"/></r></p></e>
     <e><p><l>conditionally<s n="adv"/></l><r>condizionatamente<s n="adv"/></r></p></e>
     <e><p><l>tired<s n="adj"/></l><r>stanco<s n="adj"/></r></p></e>
+    <e><p><l>violet<s n="adj"/></l><r>violetto<s n="adj"/></r></p></e>
+    <e><p><l>ultraviolet<s n="adj"/></l><r>ultravioletto<s n="adj"/></r></p></e>
+    <e><p><l>loose<s n="adj"/><s n="sint"/></l><r>allentato<s n="adj"/></r></p></e>
     <e><p><l>gold<b/>standard<s n="n"/></l><r>sistema<b/>aureo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>gold<b/>standard<s n="n"/></l><r>gold<b/>standard<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>gold<b/>exchange<b/>standard<s n="n"/></l><r>sistema<g><b/>a<b/>cambio<b/>aureo</g><s n="n"/><s n="m"/></r></p></e>

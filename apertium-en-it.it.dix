@@ -87686,6 +87686,7 @@
     <e lm="curva"><i>curv</i><par n="cas/a__n"/></e>
     <e lm="cuscinetto"><i>cuscinett</i><par n="abbain/o__n"/></e>
     <e lm="custode"><i>custod</i><par n="albanes/e__n"/></e>
+    <e lm="rude"><i>rud</i><par n="albanes/e__n"/></e>
     <e lm="custodia"><i>custodi</i><par n="cas/a__n"/></e>
     <e lm="dio"><i>d</i><par n="d/io__n"/></e>
     <e lm="dado"><i>dad</i><par n="abbain/o__n"/></e>
@@ -91045,6 +91046,9 @@
     <e lm="vegetariano"><i>vegetarian</i><par n="bambin/o__n"/></e>
     <e lm="veterano"><i>veteran</i><par n="abbandonat/o__adj"/></e>
     <e lm="veterano"><i>veteran</i><par n="bambin/o__n"/></e>
+    <e lm="violetto"><i>violett</i><par n="abbandonat/o__adj"/></e>
+    <e lm="ultravioletto"><i>ultraviolett</i><par n="abbandonat/o__adj"/></e>
+    <e lm="allentato"><i>allentat</i><par n="abbandonat/o__adj"/></e>
     <e lm="cadmio"><i>cadmio</i><par n="ace__n"/></e>
     <e lm="taverna"><i>tavern</i><par n="cas/a__n"/></e>
     <e lm="taxi"><i>taxi</i><par n="albatros__n"/></e>
@@ -96493,6 +96497,8 @@
     <e lm="segretario generale"><p><l>segretari<b/>generali</l><r>segretario<b/>generale<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="segretario generale"><p><l>segretaria<b/>generale</l><r>segretario<b/>generale<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="segretario generale"><p><l>segretarie<b/>generali</l><r>segretario<b/>generale<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="petrolio greggio"><p><l>petrolio<b/>greggio</l><r>petrolio<b/>greggio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="petrolio greggio"><p><l>petroli<b/>greggi</l><r>petrolio<b/>greggio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="cane guida"><p><l>cane<b/>guida</l><r>cane<b/>guida<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="cane guida"><p><l>cani<b/>guide</l><r>cane<b/>guida<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="cane guida"><p><l>cagna<b/>guida</l><r>cane<b/>guida<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
