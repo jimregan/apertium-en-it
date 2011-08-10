@@ -89660,17 +89660,17 @@
     <e lm="epigrafia"><i>epigrafi</i><par n="cas/a__n"/></e>
     <e lm="ateroma"><i>aterom</i><par n="cas/a__n"/></e>
     <e lm="autosoma"><i>autosom</i><par n="cas/a__n"/></e>
-    <e lm="assioma"><i>assiom</i><par n="cas/a__n"/></e>
-    <e lm="bioma"><i>biom</i><par n="cas/a__n"/></e>
-    <e lm="carcinoma"><i>carcinom</i><par n="cas/a__n"/></e>
-    <e lm="celoma"><i>celom</i><par n="cas/a__n"/></e>
-    <e lm="centrosoma"><i>centrosom</i><par n="cas/a__n"/></e>
+    <e lm="assioma"><i>assiom</i><par n="autom/a__n"/></e>
+    <e lm="bioma"><i>biom</i><par n="autom/a__n"/></e>
+    <e lm="carcinoma"><i>carcinom</i><par n="autom/a__n"/></e>
+    <e lm="celoma"><i>celom</i><par n="autom/a__n"/></e>
+    <e lm="centrosoma"><i>centrosom</i><par n="autom/a__n"/></e>
     <e lm="coma"><i>com</i><par n="cas/a__n"/></e>
-    <e lm="citostoma"><i>citostom</i><par n="cas/a__n"/></e>
+    <e lm="citostoma"><i>citostom</i><par n="autom/a__n"/></e>
     <e lm="biscroma"><i>biscrom</i><par n="cas/a__n"/></e>
     <e lm="ciclotimia"><i>ciclotimi</i><par n="cas/a__n"/></e>
-    <e lm="citoplasma"><i>citoplasm</i><par n="cas/a__n"/></e>
-    <e lm="ectoplasma"><i>ectoplasm</i><par n="cas/a__n"/></e>
+    <e lm="citoplasma"><i>citoplasm</i><par n="autom/a__n"/></e>
+    <e lm="ectoplasma"><i>ectoplasm</i><par n="autom/a__n"/></e>
     <e lm="ametropia"><i>ametropi</i><par n="cas/a__n"/></e>
     <e lm="anisotropia"><i>anisotropi</i><par n="cas/a__n"/></e>
     <e lm="artroscopia"><i>artroscopi</i><par n="cas/a__n"/></e>
@@ -90080,7 +90080,7 @@
     <e lm="antifona"><i>antifon</i><par n="cas/a__n"/></e>
     <e lm="aorta"><i>aort</i><par n="cas/a__n"/></e>
     <e lm="aplasia"><i>aplasi</i><par n="cas/a__n"/></e>
-    <e lm="apotema"><i>apotem</i><par n="cas/a__n"/></e>
+    <e lm="apotema"><i>apotem</i><par n="autom/a__n"/></e>
     <e lm="biosfera"><i>biosfer</i><par n="cas/a__n"/></e>
     <e lm="brachistocrona"><i>brachistocron</i><par n="cas/a__n"/></e>
     <e lm="brattea"><i>bratte</i><par n="cas/a__n"/></e>
@@ -90155,7 +90155,7 @@
     <e lm="frusta"><i>frust</i><par n="cas/a__n"/></e>
     <e lm="xerografia"><i>xerografi</i><par n="cas/a__n"/></e>
     <e lm="xerofita"><i>xerofit</i><par n="cas/a__n"/></e>
-    <e lm="xilema"><i>xilem</i><par n="cas/a__n"/></e>
+    <e lm="xilema"><i>xilem</i><par n="autom/a__n"/></e>
     <e lm="xilografia"><i>xilografi</i><par n="cas/a__n"/></e>
     <e lm="cetra"><i>cetr</i><par n="cas/a__n"/></e>
     <e lm="zonula"><i>zonul</i><par n="cas/a__n"/></e>
@@ -98342,7 +98342,7 @@
     <e lm="Togo"><i>Togo</i><par n="Afghanistan__np"/></e>
     <e lm="Cartagine"><i>Cartagine</i><par n="Afghanistan__np"/></e>
     <e lm="adenina"><i>adenin</i><par n="cas/a__n"/></e>
-    <e lm="adenoma"><i>adenom</i><par n="cas/a__n"/></e>
+    <e lm="adenoma"><i>adenom</i><par n="autom/a__n"/></e>
     <e lm="adenosina"><i>adenosin</i><par n="cas/a__n"/></e>
     <e lm="adipocita"><i>adipocit</i><par n="cas/a__n"/></e>
     <e lm="aerofagia"><i>aerofagi</i><par n="cas/a__n"/></e>
@@ -101188,7 +101188,7 @@
     <e lm="franchezza"><i>franchezz</i><par n="cas/a__n"/></e>
     <e lm="fretta"><i>frett</i><par n="cas/a__n"/></e>
     <e lm="garza"><i>garz</i><par n="cas/a__n"/></e>
-    <e lm="genoma"><i>genom</i><par n="cas/a__n"/></e>
+    <e lm="genoma"><i>genom</i><par n="autom/a__n"/></e>
     <e lm="gentilezza"><i>gentilezz</i><par n="cas/a__n"/></e>
     <e lm="genziana"><i>genzian</i><par n="cas/a__n"/></e>
     <e lm="ghiandaia"><i>ghiandai</i><par n="cas/a__n"/></e>
