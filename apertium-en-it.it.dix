@@ -100796,6 +100796,7 @@
     <e lm="curculione"><i>curculion</i><par n="abat/e__n"/></e>
     <e lm="carrozzone"><i>carrozzon</i><par n="abat/e__n"/></e>
     <e lm="copale"><i>copal</i><par n="abat/e__n"/></e>
+    <e lm="augure"><i>augur</i><par n="abat/e__n"/></e>
     <e lm="astensionista"><i>astensionist</i><par n="suicid/a__adj"/></e>
     <e lm="altruista"><i>altruist</i><par n="suicid/a__adj"/></e>
     <e lm="annessionista"><i>annessionist</i><par n="suicid/a__adj"/></e>
@@ -101309,11 +101310,12 @@
     <e lm="gammaglobuline"><i>gammaglobulin</i><par n="abbreviazion/e__n"/></e>
     <e lm="immunosoppressione"><i>immunosoppression</i><par n="abbreviazion/e__n"/></e>
     <e lm="elitra"><i>elitr</i><par n="cas/a__n"/></e>
-    <e lm="emangioma"><i>emangiom</i><par n="cas/a__n"/></e>
+    <e lm="emangioma"><i>emangiom</i><par n="autom/a__n"/></e>
     <e lm="emolinfa"><i>emolinf</i><par n="cas/a__n"/></e>
-    <e lm="empiema"><i>empiem</i><par n="cas/a__n"/></e>
-    <e lm="endoderma"><i>endoderm</i><par n="cas/a__n"/></e>
-    <e lm="endosperma"><i>endosperm</i><par n="cas/a__n"/></e>
+    <e lm="empiema"><i>empiem</i><par n="autom/a__n"/></e>
+    <e lm="endoderma"><i>endoderm</i><par n="autom/a__n"/></e>
+    <e lm="ectoderma"><i>ectoderm</i><par n="autom/a__n"/></e>
+    <e lm="endosperma"><i>endosperm</i><par n="autom/a__n"/></e>
     <e lm="eparina"><i>eparin</i><par n="cas/a__n"/></e>
     <e lm="equidistanza"><i>equidistanz</i><par n="cas/a__n"/></e>
     <e lm="esofagoscopia"><i>esofagoscopi</i><par n="cas/a__n"/></e>

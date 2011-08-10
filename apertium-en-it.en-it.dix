@@ -12289,6 +12289,7 @@
     <e><p><l>microstructure<s n="n"/></l><r>microstruttura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mucin<s n="n"/></l><r>mucina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mtorolite<s n="n"/></l><r>mtorolite<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>augur<s n="n"/></l><r>augure<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tassel<s n="n"/></l><r>nappa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tercet<s n="n"/></l><r>terzina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>atlas<s n="n"/></l><r>atlante<s n="n"/><s n="m"/></r></p></e>
@@ -20628,9 +20629,10 @@
     <e><p><l>ethyl<s n="n"/></l><r>etile<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>estimator<s n="n"/></l><r>stimatore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>elytron<s n="n"/></l><r>elitra<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>empyema<s n="n"/></l><r>empiema<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>endoderm<s n="n"/></l><r>endoderma<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>endosperm<s n="n"/></l><r>endosperma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>empyema<s n="n"/></l><r>empiema<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>endoderm<s n="n"/></l><r>endoderma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ectoderm<s n="n"/></l><r>ectoderma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>endosperm<s n="n"/></l><r>endosperma<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>equidistance<s n="n"/></l><r>equidistanza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>escarole<s n="n"/></l><r>scarola<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>esophagoscopy<s n="n"/></l><r>esofagoscopia<s n="n"/><s n="f"/></r></p></e>
@@ -20643,7 +20645,7 @@
     <e><p><l>glutamine<s n="n"/></l><r>glutammina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>glycine<s n="n"/></l><r>glicina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>glycoprotein<s n="n"/></l><r>glicoproteina<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>hemangioma<s n="n"/></l><r>emangioma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hemangioma<s n="n"/></l><r>emangioma<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hemolymph<s n="n"/></l><r>emolinfa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>heparin<s n="n"/></l><r>eparina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>eversion<s n="n"/></l><r>eversione<s n="n"/><s n="f"/></r></p></e>
@@ -20982,8 +20984,8 @@
     <e><p><l>stoichiometry<s n="n"/></l><r>stechiometria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>stoicism<s n="n"/></l><r>stoicismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>stomach<s n="n"/></l><r>stomaco<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>stone<s n="n"/></l><r>osso<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>bone<n></l><r>osso<n><m></r></e>).-->
-    <e r="RL"><p><l>stone<s n="n"/></l><r>pietra<s n="n"/><s n="f"/></r></p></e>
+    <e slr="osso"><p><l>stone<s n="n"/></l><r>osso<s n="n"/><s n="m"/></r></p></e>
+    <e slr="pietra D"><p><l>stone<s n="n"/></l><r>pietra<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>stop<s n="n"/><s n="ND"/></l><r>stop<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>stop<s n="n"/><s n="sg"/></l><r>stop<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>stop<s n="n"/><s n="pl"/></l><r>stop<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
