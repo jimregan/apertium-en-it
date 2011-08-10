@@ -89996,6 +89996,7 @@
     <e lm="piramide"><i>piramid</i><par n="abbreviazion/e__n"/></e>
     <e lm="pirata"><i>pirat</i><par n="suicid/a__n"/></e>
     <e lm="pirata"><i>pirat</i><par n="suicid/a__adj"/></e>
+    <e lm="porpora"><i>porpor</i><par n="suicid/a__adj"/></e>
     <e lm="pirateria"><i>pirateri</i><par n="cas/a__n"/></e>
     <e lm="piroga"><i>pirog</i><par n="tasc/a__n"/></e>
     <e lm="piscina"><i>piscin</i><par n="cas/a__n"/></e>
@@ -100485,6 +100486,9 @@
     <e lm="fenicio"><i>fenici</i><par n="ampi/o__adj"/></e>
     <e lm="migratorio"><i>migratori</i><par n="ampi/o__adj"/></e>
     <e lm="minerario"><i>minerari</i><par n="ampi/o__adj"/></e>
+    <e lm="largo"><i>larg</i><par n="tecnic/o__adj"/></e>
+    <e lm="sporco"><i>sporc</i><par n="tecnic/o__adj"/></e>
+    <e lm="secco"><i>secc</i><par n="tecnic/o__adj"/></e>
     <e lm="minoritario"><i>minoritari</i><par n="ampi/o__adj"/></e>
     <e lm="missionario"><i>missionari</i><par n="ampi/o__adj"/></e>
     <e lm="planetario"><i>planetari</i><par n="ampi/o__adj"/></e>
@@ -100495,6 +100499,9 @@
     <e lm="sanitario"><i>sanitari</i><par n="ampi/o__adj"/></e>
     <e lm="serio"><i>seri</i><par n="ampi/o__adj"/></e>
     <e lm="statutario"><i>statutari</i><par n="ampi/o__adj"/></e>
+    <e lm="liscio"><i>lisci</i><par n="ampi/o__adj"/></e>
+    <e lm="saggio"><i>saggi</i><par n="ampi/o__adj"/></e>
+    <e lm="utilitario"><i>utilitari</i><par n="ampi/o__adj"/></e>
     <e lm="commemorativo"><i>commemorativ</i><par n="abbandonat/o__adj"/></e>
     <e lm="veneziano"><i>venezian</i><par n="abbandonat/o__adj"/></e>
     <e lm="veneziano"><i>venezian</i><par n="bambin/o__n"/></e>
@@ -101628,6 +101635,54 @@
     <e lm="samara"><i>samar</i><par n="cas/a__n"/></e>
     <e lm="seguidilla"><i>seguidill</i><par n="cas/a__n"/></e>
     <e lm="sonata"><i>sonat</i><par n="cas/a__n"/></e>
+    <e lm="gentile"><i>gentil</i><par n="albanes/e__adj"/></e>
+    <e lm="disobbediente"><i>disobbedient</i><par n="albanes/e__adj"/></e>
+    <e lm="nobile"><i>nobil</i><par n="albanes/e__adj"/></e>
+    <e lm="dolorante"><i>dolorant</i><par n="albanes/e__adj"/></e>
+    <e lm="mortale"><i>mortal</i><par n="albanes/e__adj"/></e>
+    <e lm="scortese"><i>scortes</i><par n="albanes/e__adj"/></e>
+    <e lm="roccioso"><i>roccios</i><par n="abbandonat/o__adj"/></e>
+    <e lm="coraggioso"><i>coraggios</i><par n="abbandonat/o__adj"/></e>
+    <e lm="calmo"><i>calm</i><par n="abbandonat/o__adj"/></e>
+    <e lm="calmo"><i>calm</i><par n="abbandonat/o__adj"/></e>
+    <e lm="lindo"><i>lind</i><par n="abbandonat/o__adj"/></e>
+    <e lm="pazzo"><i>pazz</i><par n="abbandonat/o__adj"/></e>
+    <e lm="denso"><i>dens</i><par n="abbandonat/o__adj"/></e>
+    <e lm="muto"><i>mut</i><par n="abbandonat/o__adj"/></e>
+    <e lm="grossolano"><i>grossolan</i><par n="abbandonat/o__adj"/></e>
+    <e lm="lontano"><i>lontan</i><par n="abbandonat/o__adj"/></e>
+    <e lm="piatto"><i>piatt</i><par n="abbandonat/o__adj"/></e>
+    <e lm="buffo"><i>buff</i><par n="abbandonat/o__adj"/></e>
+    <e lm="lordo"><i>lord</i><par n="abbandonat/o__adj"/></e>
+    <e lm="fortunato"><i>fortunat</i><par n="abbandonat/o__adj"/></e>
+    <e lm="allegro"><i>allegr</i><par n="abbandonat/o__adj"/></e>
+    <e lm="torbido"><i>torbid</i><par n="abbandonat/o__adj"/></e>
+    <e lm="povero"><i>pover</i><par n="abbandonat/o__adj"/></e>
+    <e lm="tranquillo"><i>tranquill</i><par n="abbandonat/o__adj"/></e>
+    <e lm="ruvido"><i>ruvid</i><par n="abbandonat/o__adj"/></e>
+    <e lm="arenoso"><i>arenos</i><par n="abbandonat/o__adj"/></e>
+    <e lm="irto"><i>irt</i><par n="abbandonat/o__adj"/></e>
+    <e lm="tenero"><i>tener</i><par n="abbandonat/o__adj"/></e>
+    <e lm="sfortunato"><i>sfortunat</i><par n="abbandonat/o__adj"/></e>
+    <e lm="vasto"><i>vast</i><par n="abbandonat/o__adj"/></e>
+    <e lm="caldo"><i>cald</i><par n="abbandonat/o__adj"/></e>
+    <e lm="bagnato"><i>bagnat</i><par n="abbandonat/o__adj"/></e>
+    <e lm="giallo"><i>giall</i><par n="abbandonat/o__adj"/></e>
+    <e lm="caro"><i>car</i><par n="abbandonat/o__adj"/></e>
+    <e lm="spinoso"><i>spinos</i><par n="abbandonat/o__adj"/></e>
+    <e lm="scosceso"><i>scosces</i><par n="abbandonat/o__adj"/></e>
+    <e lm="soleggiato"><i>soleggiat</i><par n="abbandonat/o__adj"/></e>
+    <e lm="indegno"><i>indegn</i><par n="abbandonat/o__adj"/></e>
+    <e lm="sciolto"><i>sciolt</i><par n="abbandonat/o__adj"/></e>
+    <e lm="amaro"><i>amar</i><par n="abbandonat/o__adj"/></e>
+    <e lm="avaro"><i>avar</i><par n="abbandonat/o__adj"/></e>
+    <e lm="pigro"><i>pigr</i><par n="abbandonat/o__adj"/></e>
+    <e lm="arrabbiato"><i>arrabbiat</i><par n="abbandonat/o__adj"/></e>
+    <e lm="goffo"><i>goff</i><par n="abbandonat/o__adj"/></e>
+    <e lm="saponoso"><i>saponos</i><par n="abbandonat/o__adj"/></e>
+    <e lm="ordinato"><i>ordinat</i><par n="abbandonat/o__adj"/></e>
+    <e lm="umido"><i>umid</i><par n="abbandonat/o__adj"/></e>
+    <e lm="cattivo"><i>cattiv</i><par n="abbandonat/o__adj"/></e>
   </section>
   <section id="apostrophes" type="postblank">
 

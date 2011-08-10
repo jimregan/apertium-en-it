@@ -2929,6 +2929,7 @@
     <e><p><l>thin<s n="adj"/><s n="sint"/></l><r>magro<s n="adj"/></r></p></e>
     <e r="LR"><p><l>lean<s n="adj"/><s n="sint"/></l><r>magro<s n="adj"/></r></p></e>
     <e r="LR"><p><l>slim<s n="adj"/><s n="sint"/></l><r>magro<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>skinny<s n="adj"/><s n="sint"/></l><r>magro<s n="adj"/></r></p></e>
     <e><p><l>third<s n="adj"/></l><r>terzo<s n="adj"/></r></p></e>
     <e><p><l>thoracic<s n="adj"/></l><r>toracico<s n="adj"/></r></p></e>
     <e><p><l>thorough<s n="adj"/></l><r>minuzioso<s n="adj"/></r></p></e>
@@ -26863,6 +26864,61 @@
     <e><p><l>sonata<s n="n"/></l><r>sonata<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sulfanilamide<s n="n"/></l><r>sulfanilamide<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>teletype<s n="n"/></l><r>telescrivente<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rocky<s n="adj"/><s n="sint"/></l><r>roccioso<s n="adj"/></r></p></e>
+    <e><p><l>brave<s n="adj"/><s n="sint"/></l><r>coraggioso<s n="adj"/></r></p></e>
+    <e><p><l>broad<s n="adj"/><s n="sint"/></l><r>largo<s n="adj"/></r></p></e>
+    <e><p><l>calm<s n="adj"/><s n="sint"/></l><r>calmo<s n="adj"/></r></p></e>
+    <e><p><l>still<s n="adj"/><s n="sint"/></l><r>calmo<s n="adj"/></r></p></e>
+    <e><p><l>clean<s n="adj"/><s n="sint"/></l><r>lindo<s n="adj"/></r></p></e>
+    <e><p><l>crazy<s n="adj"/><s n="sint"/></l><r>pazzo<s n="adj"/></r></p></e>
+    <e><p><l>dense<s n="adj"/><s n="sint"/></l><r>denso<s n="adj"/></r></p></e>
+    <e><p><l>dirty<s n="adj"/><s n="sint"/></l><r>sporco<s n="adj"/></r></p></e>
+    <e><p><l>dry<s n="adj"/><s n="sint"/></l><r>secco<s n="adj"/></r></p></e>
+    <e><p><l>dumb<s n="adj"/><s n="sint"/></l><r>muto<s n="adj"/></r></p></e>
+    <e><p><l>earthy<s n="adj"/><s n="sint"/></l><r>grossolano<s n="adj"/></r></p></e>
+    <e><p><l>far<s n="adj"/><s n="sint"/></l><r>lontano<s n="adj"/></r></p></e>
+    <e><p><l>flat<s n="adj"/><s n="sint"/></l><r>piatto<s n="adj"/></r></p></e>
+    <e><p><l>funny<s n="adj"/><s n="sint"/></l><r>buffo<s n="adj"/></r></p></e>
+    <e><p><l>gross<s n="adj"/><s n="sint"/></l><r>lordo<s n="adj"/></r></p></e>
+    <e><p><l>kind<s n="adj"/><s n="sint"/></l><r>gentile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>lucky<s n="adj"/><s n="sint"/></l><r>fortunato<s n="adj"/></r></p></e>
+    <e><p><l>merry<s n="adj"/><s n="sint"/></l><r>allegro<s n="adj"/></r></p></e>
+    <e><p><l>muddy<s n="adj"/><s n="sint"/></l><r>torbido<s n="adj"/></r></p></e>
+    <e><p><l>naughty<s n="adj"/><s n="sint"/></l><r>disobbediente<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>noble<s n="adj"/><s n="sint"/></l><r>nobile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>poor<s n="adj"/><s n="sint"/></l><r>povero<s n="adj"/></r></p></e>
+    <e><p><l>quiet<s n="adj"/><s n="sint"/></l><r>tranquillo<s n="adj"/></r></p></e>
+    <e><p><l>rough<s n="adj"/><s n="sint"/></l><r>ruvido<s n="adj"/></r></p></e>
+    <e><p><l>sandy<s n="adj"/><s n="sint"/></l><r>arenoso<s n="adj"/></r></p></e>
+    <e><p><l>smooth<s n="adj"/><s n="sint"/></l><r>liscio<s n="adj"/></r></p></e>
+    <e><p><l>sore<s n="adj"/><s n="sint"/></l><r>dolorante<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>spiky<s n="adj"/><s n="sint"/></l><r>irto<s n="adj"/></r></p></e>
+    <e><p><l>tender<s n="adj"/><s n="sint"/></l><r>tenero<s n="adj"/></r></p></e>
+    <e><p><l>unlucky<s n="adj"/><s n="sint"/></l><r>sfortunato<s n="adj"/></r></p></e>
+    <e><p><l>vast<s n="adj"/><s n="sint"/></l><r>vasto<s n="adj"/></r></p></e>
+    <e><p><l>warm<s n="adj"/><s n="sint"/></l><r>caldo<s n="adj"/></r></p></e>
+    <e><p><l>wet<s n="adj"/><s n="sint"/></l><r>bagnato<s n="adj"/></r></p></e>
+    <e><p><l>wise<s n="adj"/><s n="sint"/></l><r>saggio<s n="adj"/></r></p></e>
+    <e><p><l>yello<s n="adj"/><s n="sint"/></l><r>giallo<s n="adj"/></r></p></e>
+    <e><p><l>dear<s n="adj"/><s n="sint"/></l><r>caro<s n="adj"/></r></p></e>
+    <e><p><l>handy<s n="adj"/><s n="sint"/></l><r>utilitario<s n="adj"/></r></p></e>
+    <e><p><l>prickly<s n="adj"/><s n="sint"/></l><r>spinoso<s n="adj"/></r></p></e>
+    <e><p><l>purple<s n="adj"/><s n="sint"/></l><r>porpora<s n="adj"/></r></p></e>
+    <e><p><l>steep<s n="adj"/><s n="sint"/></l><r>scosceso<s n="adj"/></r></p></e>
+    <e><p><l>sunny<s n="adj"/><s n="sint"/></l><r>soleggiato<s n="adj"/></r></p></e>
+    <e><p><l>unworthy<s n="adj"/><s n="sint"/></l><r>indegno<s n="adj"/></r></p></e>
+    <e><p><l>loose<s n="adj"/><s n="sint"/></l><r>sciolto<s n="adj"/></r></p></e>
+    <e><p><l>wry<s n="adj"/><s n="sint"/></l><r>amaro<s n="adj"/></r></p></e>
+    <e><p><l>stingy<s n="adj"/><s n="sint"/></l><r>avaro<s n="adj"/></r></p></e>
+    <e><p><l>lazy<s n="adj"/><s n="sint"/></l><r>pigro<s n="adj"/></r></p></e>
+    <e><p><l>angry<s n="adj"/><s n="sint"/></l><r>arrabbiato<s n="adj"/></r></p></e>
+    <e><p><l>clumsy<s n="adj"/><s n="sint"/></l><r>goffo<s n="adj"/></r></p></e>
+    <e><p><l>soapy<s n="adj"/><s n="sint"/></l><r>saponoso<s n="adj"/></r></p></e>
+    <e><p><l>neat<s n="adj"/><s n="sint"/></l><r>ordinato<s n="adj"/></r></p></e>
+    <e><p><l>deadly<s n="adj"/><s n="sint"/></l><r>mortale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>rude<s n="adj"/><s n="sint"/></l><r>scortese<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>damp<s n="adj"/><s n="sint"/></l><r>umido<s n="adj"/></r></p></e>
+    <e><p><l>wicked<s n="adj"/><s n="sint"/></l><r>cattivo<s n="adj"/></r></p></e>
 
     <!-- ******************************
           group ij_symbol
