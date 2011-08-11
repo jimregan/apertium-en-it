@@ -92499,6 +92499,7 @@
     <e lm="basco"><i>basc</i><par n="caric/o__adj"/></e>
     <e lm="basico"><i>basic</i><par n="tecnic/o__adj"/></e>
     <e lm="basso"><i>bass</i><par n="abbandonat/o__adj"/></e>
+    <e lm="vernacolo"><i>vernacol</i><par n="abbandonat/o__adj"/></e>
     <e lm="superlativo"><i>superlativ</i><par n="abbandonat/o__adj"/></e>
     <e lm="ombreggiato"><i>ombreggiat</i><par n="abbandonat/o__adj"/></e>
     <e lm="belga"><i>belg</i><par n="belg/a__adj"/></e>
@@ -92509,6 +92510,7 @@
     <e lm="beneficiario"><i>beneficiari</i><par n="abbandonat/o__adj"/></e>
     <e lm="benvenuto"><i>benvenut</i><par n="abbandonat/o__adj"/></e>
     <e lm="bestiale"><i>bestial</i><par n="albanes/e__adj"/></e>
+    <e lm="variabile"><i>variabil</i><par n="albanes/e__adj"/></e>
     <e lm="bilabiale"><i>bilabial</i><par n="albanes/e__adj"/></e>
     <e lm="bimensile"><i>bimensil</i><par n="albanes/e__adj"/></e>
     <e lm="bidimensionale"><i>bidimensional</i><par n="albanes/e__adj"/></e>
@@ -92645,13 +92647,16 @@
     <e lm="complesso"><i>compless</i><par n="abbandonat/o__adj"/></e>
     <e lm="compositore"><i>composit</i><par n="accentrat/ore__adj"/></e>
     <e lm="composto"><i>compost</i><par n="abbandonat/o__adj"/></e>
+    <e lm="vertiginoso"><i>vertiginos</i><par n="abbandonat/o__adj"/></e>
     <e lm="comune"><i>comun</i><par n="albanes/e__adj"/></e>
     <e lm="comunale"><i>comunal</i><par n="albanes/e__adj"/></e>
     <e lm="comunista"><i>comunist</i><par n="suicid/a__adj"/></e>
+    <e lm="insetticida"><i>insetticid</i><par n="suicid/a__adj"/></e>
     <e lm="entusiasta"><i>entusiast</i><par n="suicid/a__adj"/></e>
     <e lm="concettualista"><i>concettualist</i><par n="suicid/a__adj"/></e>
     <e lm="construttivista"><i>construttivist</i><par n="suicid/a__adj"/></e>
     <e lm="concettuale"><i>concettual</i><par n="albanes/e__adj"/></e>
+    <e lm="triplice"><i>triplic</i><par n="albanes/e__adj"/></e>
     <e lm="conciliatore"><i>conciliat</i><par n="accentrat/ore__adj"/></e>
     <e lm="tuffatore"><i>tuffat</i><par n="accentrat/ore__adj"/></e>
     <e lm="ricattatore"><i>ricattat</i><par n="accentrat/ore__adj"/></e>
@@ -92664,7 +92669,21 @@
     <e lm="congenito"><i>congenit</i><par n="abbandonat/o__adj"/></e>
     <e lm="congiunto"><i>congiunt</i><par n="abbandonat/o__adj"/></e>
     <e lm="congolese"><i>congoles</i><par n="albanes/e__adj"/></e>
+    <e lm="vicariante"><i>vicariant</i><par n="albanes/e__adj"/></e>
+    <e lm="vascolare"><i>vascolar</i><par n="albanes/e__adj"/></e>
+    <e lm="zonale"><i>zonal</i><par n="albanes/e__adj"/></e>
+    <e lm="globulare"><i>globular</i><par n="albanes/e__adj"/></e>
+    <e lm="granulare"><i>granular</i><par n="albanes/e__adj"/></e>
+    <e lm="testicolare"><i>testicolar</i><par n="albanes/e__adj"/></e>
+    <e lm="vernacolare"><i>vernacolar</i><par n="albanes/e__adj"/></e>
+    <e lm="vestibolare"><i>vestibolar</i><par n="albanes/e__adj"/></e>
+    <e lm="unicellulare"><i>unicellular</i><par n="albanes/e__adj"/></e>
     <e lm="conico"><i>conic</i><par n="tecnic/o__adj"/></e>
+    <e lm="ciclotomico"><i>ciclotomic</i><par n="tecnic/o__adj"/></e>
+    <e lm="diadico"><i>diadic</i><par n="tecnic/o__adj"/></e>
+    <e lm="termoionico"><i>termoionic</i><par n="tecnic/o__adj"/></e>
+    <e lm="termometrico"><i>termometric</i><par n="tecnic/o__adj"/></e>
+    <e lm="zigomatico"><i>zigomatic</i><par n="tecnic/o__adj"/></e>
     <e lm="coniugale"><i>coniugal</i><par n="albanes/e__adj"/></e>
     <e lm="consapevole"><i>consapevol</i><par n="albanes/e__adj"/></e>
     <e lm="conseguente"><i>conseguent</i><par n="albanes/e__adj"/></e>
@@ -101668,6 +101687,8 @@
     <e lm="caldo"><i>cald</i><par n="abbandonat/o__adj"/></e>
     <e lm="bagnato"><i>bagnat</i><par n="abbandonat/o__adj"/></e>
     <e lm="giallo"><i>giall</i><par n="abbandonat/o__adj"/></e>
+    <e lm="giallastro"><i>giallastr</i><par n="abbandonat/o__adj"/></e>
+    <e lm="giallo"><i>giall</i><par n="abbain/o__n"/></e>
     <e lm="caro"><i>car</i><par n="abbandonat/o__adj"/></e>
     <e lm="spinoso"><i>spinos</i><par n="abbandonat/o__adj"/></e>
     <e lm="scosceso"><i>scosces</i><par n="abbandonat/o__adj"/></e>

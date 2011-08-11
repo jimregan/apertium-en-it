@@ -1591,7 +1591,23 @@
     <e r="LR"><p><l>jacobite<s n="n"/></l><r>giacobita<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>gradual<s n="adj"/></l><r>graduale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>graduate<s n="adj"/></l><r>laureato<s n="adj"/></r></p></e>
+    <e><p><l>vertiginous<s n="adj"/></l><r>vertiginoso<s n="adj"/></r></p></e>
+    <e><p><l>cyclotomic<s n="adj"/></l><r>ciclotomico<s n="adj"/></r></p></e>
+    <e><p><l>dyadic<s n="adj"/></l><r>diadico<s n="adj"/></r></p></e>
+    <e><p><l>thermionic<s n="adj"/></l><r>termoionico<s n="adj"/></r></p></e>
+    <e><p><l>thermometric<s n="adj"/></l><r>termometrico<s n="adj"/></r></p></e>
     <e><p><l>grammatical<s n="adj"/></l><r>grammaticale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>zonal<s n="adj"/></l><r>zonale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>globular<s n="adj"/></l><r>globulare<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>granular<s n="adj"/></l><r>granulare<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>testicular<s n="adj"/></l><r>testicolare<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>vernacular<s n="adj"/></l><r>vernacolare<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>vestibular<s n="adj"/></l><r>vestibolare<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>unicellular<s n="adj"/></l><r>unicellulare<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>vicariant<s n="adj"/></l><r>vicariante<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>vascular<s n="adj"/></l><r>vascolare<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>triple<s n="adj"/></l><r>triplice<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>zygomatic<s n="adj"/></l><r>zigomatico<s n="adj"/></r></p></e>
     <e><p><l>graphic<s n="adj"/></l><r>grafico<s n="adj"/></r></p></e>
     <e><p><l>grated<s n="adj"/></l><r>grattugiato<s n="adj"/></r></p></e>
     <e><p><l>grave<s n="adj"/><s n="sint"/></l><r>grave<s n="adj"/><s n="mf"/></r></p></e>
@@ -2658,6 +2674,7 @@
     <e><p><l>reusable<s n="adj"/></l><r>riutilizzabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>reverend<s n="adj"/></l><r>reverendo<s n="adj"/></r></p></e>
     <e><p><l>reverend<s n="n"/></l><r>reverendo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>clergyman<s n="n"/></l><r>reverendo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>crude<b/>oil<s n="n"/></l><r>petrolio<b/>greggio<s n="n"/><s n="m"/></r></p></e>
     <e slr="sorso"><p><l>swallow<s n="n"/></l><r>sorso<s n="n"/><s n="m"/></r></p></e>
     <e slr="rondine D"><p><l>swallow<s n="n"/></l><r>rondine<s n="n"/><s n="f"/></r></p></e>
@@ -14346,7 +14363,6 @@
     <e><p><l>cloning<s n="n"/></l><r>clonazione<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>closet<s n="n"/></l><r>armadio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>closure<s n="n"/></l><r>chiusura<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>cloth<s n="n"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cloth<b/>pulp<s n="n"/></l><r>pasta<g><b/>di<b/>stracci</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>clothes<s n="n"/><s n="pl"/></l><r>vestito<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>clothes<s n="n"/><s n="pl"/></l><r>vestito<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -14708,7 +14724,7 @@
     <e><p><l>tired<s n="adj"/></l><r>stanco<s n="adj"/></r></p></e>
     <e><p><l>violet<s n="adj"/></l><r>violetto<s n="adj"/></r></p></e>
     <e><p><l>ultraviolet<s n="adj"/></l><r>ultravioletto<s n="adj"/></r></p></e>
-    <e><p><l>loose<s n="adj"/><s n="sint"/></l><r>allentato<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>loose<s n="adj"/><s n="sint"/></l><r>allentato<s n="adj"/></r></p></e>
     <e><p><l>gold<b/>standard<s n="n"/></l><r>sistema<b/>aureo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>gold<b/>standard<s n="n"/></l><r>gold<b/>standard<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>gold<b/>exchange<b/>standard<s n="n"/></l><r>sistema<g><b/>a<b/>cambio<b/>aureo</g><s n="n"/><s n="m"/></r></p></e>
@@ -20071,11 +20087,11 @@
     <e r="RL"><p><l>saxophonist<s n="n"/></l><r>sassofonista<s n="n"/></r></p></e>
     <e r="LR"><p><l>saxophonist<s n="n"/></l><r>sassofonista<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>scabies<s n="n"/></l><r>scabbia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>scale<s n="n"/></l><r>squama<s n="n"/><s n="f"/></r></p></e>
+    <e slr="squama"><p><l>scale<s n="n"/></l><r>squama<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>scale<s n="n"/><s n="pl"/></l><r>bilancia<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>scale<s n="n"/><s n="pl"/></l><r>bilancia<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>scale<s n="n"/><s n="pl"/></l><r>scala<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-    <e><p><l>scale<s n="n"/><s n="sg"/></l><r>scala<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e slr="scala D"><p><l>scale<s n="n"/><s n="sg"/></l><r>scala<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>scalp<s n="n"/></l><r>cuoio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>scan<s n="n"/><s n="sg"/></l><r>scanner<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>scan<s n="n"/><s n="pl"/></l><r>scanner<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -22343,6 +22359,11 @@
     <e><p><l>yearbook<s n="n"/></l><r>annuario<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yeast<s n="n"/></l><r>lievito<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yellow<s n="n"/></l><r>giallo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>yellow<s n="adj"/><s n="sint"/></l><r>giallo<s n="adj"/></r></p></e>
+    <e><p><l>yellowish<s n="adj"/></l><r>giallastro<s n="adj"/></r></p></e>
+    <e><p><l>vernacular<s n="adj"/></l><r>vernacolo<s n="adj"/></r></p></e>
+    <e><p><l>variable<s n="adj"/></l><r>variabile<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>insecticide<s n="adj"/></l><r>insetticida<s n="adj"/></r></p></e>
     <e r="LR"><p><l>yield<s n="n"/></l><r>raccolto<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>youngster<s n="n"/></l><r>giovane<s n="n"/><s n="mf"/></r></p></e><!--  autorestricted (<e><l>junior<n></l><r>giovane<n><mf></r></e>).-->
     <e><p><l>youth<s n="n"/></l><r>giovinezza<s n="n"/><s n="f"/></r></p></e>
@@ -22673,8 +22694,8 @@
     <e><p><l>basically<s n="adv"/></l><r>basicamente<s n="adv"/></r></p></e>
     <e><p><l>before<s n="adv"/></l><r>prima<s n="adv"/></r></p></e>
     <e><p><l>beforehand<s n="adv"/></l><r>preventivamente<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>behind<s n="adv"/></l><r>dietro<s n="adv"/></r></p></e><!--  autorestricted (<e><l>back<adv></l><r>dietro<adv></r></e>).-->
-    <e><p><l>below<s n="adv"/></l><r>giù<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>behind<s n="adv"/></l><r>dietro<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>below<s n="adv"/></l><r>giù<s n="adv"/></r></p></e>
     <e r="LR"><p><l>below<s n="adv"/></l><r>sotto<s n="adv"/></r></p></e>
     <e r="LR"><p><l>beneath<s n="adv"/></l><r>sotto<s n="adv"/></r></p></e>
     <e r="RL"><p><l>besides<s n="adv"/></l><r>in<b/>più<s n="adv"/></r></p></e>
@@ -25457,7 +25478,7 @@
     <e r="LR"><p><l>state<s n="vblex"/></l><r>dichiarare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>stay<s n="vblex"/></l><r>restare<s n="vblex"/></r></p></e>
     <e><p><l>steal<s n="vblex"/></l><r>rubare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>step<g><b/>into</g><s n="vblex"/></l><r>entrare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>come<g><b/>in</g><vblex></l><r>entrare<vblex></r></e>).-->
+    <e r="LR"><p><l>step<g><b/>into</g><s n="vblex"/></l><r>entrare<s n="vblex"/></r></p></e>
     <e><p><l>sterilise<s n="vblex"/></l><r>sterilizzare<s n="vblex"/></r></p></e>
     <e><p><l>stigmatise<s n="vblex"/></l><r>stigmatizzare<s n="vblex"/></r></p></e>
     <e><p><l>stimulate<s n="vblex"/></l><r>incentivare<s n="vblex"/></r></p></e>
@@ -25471,7 +25492,6 @@
     <e><p><l>sublimate<s n="vblex"/></l><r>sublimare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>submit<s n="vblex"/></l><r>consegnare<s n="vblex"/></r></p></e>
     <e><p><l>subsidise<s n="vblex"/></l><r>sovvenzionare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>subtract<s n="vblex"/></l><r>restare<s n="vblex"/></r></p></e>
     <e srl="subtract D"><p><l>subtract<s n="vblex"/></l><r>sottrarre<s n="vblex"/></r></p></e>
     <e><p><l>succeed<s n="vblex"/></l><r>succedere<s n="vblex"/></r></p></e>
     <e><p><l>sue<s n="vblex"/></l><r>querelare<s n="vblex"/></r></p></e>
