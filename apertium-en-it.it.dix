@@ -96397,6 +96397,8 @@
     <e lm="libero arbitrio"><p><l>liberi<b/>arbitri</l><r>libero<b/>arbitrio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="punto indietro"><p><l>punto<b/>indietro</l><r>punto<b/>indietro<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="punto indietro"><p><l>punti<b/>indietri</l><r>punto<b/>indietro<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="osso sacro"><p><l>osso<b/>sacro</l><r>osso<b/>sacro<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="osso sacro"><p><l>ossi<b/>sacri</l><r>osso<b/>sacro<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="filo spinato"><p><l>filo<b/>spinato</l><r>filo<b/>spinato<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="filo spinato"><p><l>fili<b/>spinati</l><r>filo<b/>spinato<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="grano saraceno"><p><l>grano<b/>saraceno</l><r>grano<b/>saraceno<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -97746,6 +97748,8 @@
     <e lm="manetta"><i>manett</i><par n="cas/a__n"/></e>
     <e lm="allume"><i>allum</i><par n="abat/e__n"/></e>
     <e lm="allume di rocca"><i>allum</i><par n="abat/e__n"/><p><l><b/>di<b/>rocca</l><r><g><b/>di<b/>rocca</g></r></p></e>
+    <e lm="etere"><i>eter</i><par n="abat/e__n"/></e>
+    <e lm="etere di petrolio"><i>eter</i><par n="abat/e__n"/><p><l><b/>di<b/>petrolio</l><r><g><b/>di<b/>petrolio</g></r></p></e>
     <e lm="cassiere"><i>cassier</i><par n="infermier/e__n"/></e>
     <e lm="plutonio"><i>plutonio</i><par n="albatros__n"/></e>
     <e lm="praseodimio"><i>praseodimio</i><par n="albatros__n"/></e>
@@ -99184,6 +99188,8 @@
     <e lm="disertore"><i>disert</i><par n="accentrat/ore__adj"/></e>
     <e lm="educatore"><i>educat</i><par n="accentrat/ore__adj"/></e>
     <e lm="educatore"><i>educat</i><par n="agricolt/ore__n"/></e>
+    <e lm="fornitore"><i>fornit</i><par n="agricolt/ore__n"/></e>
+    <e lm="quantificatore"><i>quantificat</i><par n="agricolt/ore__n"/></e>
     <e lm="importatore"><i>importat</i><par n="accentrat/ore__adj"/></e>
     <e lm="innovatore"><i>innovat</i><par n="accentrat/ore__adj"/></e>
     <e lm="introduttore"><i>introdutt</i><par n="accentrat/ore__adj"/></e>
@@ -101715,6 +101721,194 @@
     <e lm="ordinato"><i>ordinat</i><par n="abbandonat/o__adj"/></e>
     <e lm="umido"><i>umid</i><par n="abbandonat/o__adj"/></e>
     <e lm="cattivo"><i>cattiv</i><par n="abbandonat/o__adj"/></e>
+    <e lm="debugger"><i>debugger</i><par n="albatros__n"/></e>
+    <e lm="decanter"><i>decanter</i><par n="albatros__n"/></e>
+    <e lm="deficit"><i>deficit</i><par n="albatros__n"/></e>
+    <e lm="facsimile"><i>facsimile</i><par n="albatros__n"/></e>
+    <e lm="franklin"><i>franklin</i><par n="albatros__n"/></e>
+    <e lm="jet"><i>jet</i><par n="albatros__n"/></e>
+    <e lm="microcomputer"><i>microcomputer</i><par n="albatros__n"/></e>
+    <e lm="minicomputer"><i>minicomputer</i><par n="albatros__n"/></e>
+    <e lm="mistral"><i>mistral</i><par n="albatros__n"/></e>
+    <e lm="morse"><i>morse</i><par n="albatros__n"/></e>
+    <e lm="pedigree"><i>pedigree</i><par n="albatros__n"/></e>
+    <e lm="fitoplancton"><i>fitoplancton</i><par n="albatros__n"/></e>
+    <e lm="reset"><i>reset</i><par n="albatros__n"/></e>
+    <e lm="sputtering"><i>sputtering</i><par n="albatros__n"/></e>
+    <e lm="contagiri"><i>contagiri</i><par n="albatros__n"/></e>
+    <e lm="catalasi"><i>catalasi</i><par n="abilità__n"/></e>
+    <e lm="grisaille"><i>grisaille</i><par n="abilità__n"/></e>
+    <e lm="emiparesi"><i>emiparesi</i><par n="abilità__n"/></e>
+    <e lm="lipasi"><i>lipasi</i><par n="abilità__n"/></e>
+    <e lm="ontogenesi"><i>ontogenesi</i><par n="abilità__n"/></e>
+    <e lm="orogenesi"><i>orogenesi</i><par n="abilità__n"/></e>
+    <e lm="ossidoreduttasi"><i>ossidoreduttasi</i><par n="abilità__n"/></e>
+    <e lm="pediculosi"><i>pediculosi</i><par n="abilità__n"/></e>
+    <e lm="petanque"><i>petanque</i><par n="abilità__n"/></e>
+    <e lm="polimerasi"><i>polimerasi</i><par n="abilità__n"/></e>
+    <e lm="privacy"><i>privacy</i><par n="abilità__n"/></e>
+    <e lm="scoliosi"><i>scoliosi</i><par n="abilità__n"/></e>
+    <e lm="dinamica"><i>dinamic</i><par n="tasc/a__n"/></e>
+    <e lm="elettrotecnica"><i>elettrotecnic</i><par n="tasc/a__n"/></e>
+    <e lm="tanica"><i>tanic</i><par n="tasc/a__n"/></e>
+    <e lm="periferica"><i>periferic</i><par n="tasc/a__n"/></e>
+    <e lm="rinoplastica"><i>rinoplastic</i><par n="tasc/a__n"/></e>
+    <e lm="sociolinguistica"><i>sociolinguistic</i><par n="tasc/a__n"/></e>
+    <e lm="sottostringa"><i>sottostring</i><par n="tasc/a__n"/></e>
+    <e lm="barcarola"><i>barcarol</i><par n="cas/a__n"/></e>
+    <e lm="caserma"><i>caserm</i><par n="cas/a__n"/></e>
+    <e lm="carogna"><i>carogn</i><par n="cas/a__n"/></e>
+    <e lm="clorofilla"><i>clorofill</i><par n="cas/a__n"/></e>
+    <e lm="corniola"><i>corniol</i><par n="cas/a__n"/></e>
+    <e lm="cagliata"><i>cagliat</i><par n="cas/a__n"/></e>
+    <e lm="taccola"><i>taccol</i><par n="cas/a__n"/></e>
+    <e lm="drupa"><i>drup</i><par n="cas/a__n"/></e>
+    <e lm="feritoia"><i>feritoi</i><par n="cas/a__n"/></e>
+    <e lm="fibrina"><i>fibrin</i><par n="cas/a__n"/></e>
+    <e lm="fistola"><i>fistol</i><par n="cas/a__n"/></e>
+    <e lm="cassaforma"><i>cassaform</i><par n="cas/a__n"/></e>
+    <e lm="gargolla"><i>gargoll</i><par n="cas/a__n"/></e>
+    <e lm="garrota"><i>garrot</i><par n="cas/a__n"/></e>
+    <e lm="globina"><i>globin</i><par n="cas/a__n"/></e>
+    <e lm="grammatura"><i>grammatur</i><par n="cas/a__n"/></e>
+    <e lm="guanina"><i>guanin</i><par n="cas/a__n"/></e>
+    <e lm="risata"><i>risat</i><par n="cas/a__n"/></e>
+    <e lm="orneblenda"><i>orneblend</i><par n="cas/a__n"/></e>
+    <e lm="idrazina"><i>idrazin</i><par n="cas/a__n"/></e>
+    <e lm="inulina"><i>inulin</i><par n="cas/a__n"/></e>
+    <e lm="cheratina"><i>cheratin</i><par n="cas/a__n"/></e>
+    <e lm="ginocchiera"><i>ginocchier</i><par n="cas/a__n"/></e>
+    <e lm="lignina"><i>lignin</i><par n="cas/a__n"/></e>
+    <e lm="litosfera"><i>litosfer</i><par n="cas/a__n"/></e>
+    <e lm="luteina"><i>lutein</i><par n="cas/a__n"/></e>
+    <e lm="magnetosfera"><i>magnetosfer</i><par n="cas/a__n"/></e>
+    <e lm="mangrovia"><i>mangrovi</i><par n="cas/a__n"/></e>
+    <e lm="mappatura"><i>mappatur</i><par n="cas/a__n"/></e>
+    <e lm="polpetta"><i>polpett</i><par n="cas/a__n"/></e>
+    <e lm="melammina"><i>melammin</i><par n="cas/a__n"/></e>
+    <e lm="melanina"><i>melanin</i><par n="cas/a__n"/></e>
+    <e lm="metionina"><i>metionin</i><par n="cas/a__n"/></e>
+    <e lm="mioglobina"><i>mioglobin</i><par n="cas/a__n"/></e>
+    <e lm="nitrocellulosa"><i>nitrocellulos</i><par n="cas/a__n"/></e>
+    <e lm="notocorda"><i>notocord</i><par n="cas/a__n"/></e>
+    <e lm="ossidiana"><i>ossidian</i><par n="cas/a__n"/></e>
+    <e lm="orzata"><i>orzat</i><par n="cas/a__n"/></e>
+    <e lm="ossitocina"><i>ossitocin</i><par n="cas/a__n"/></e>
+    <e lm="paronichia"><i>paronichi</i><par n="cas/a__n"/></e>
+    <e lm="pepsina"><i>pepsin</i><par n="cas/a__n"/></e>
+    <e lm="fosfina"><i>fosfin</i><par n="cas/a__n"/></e>
+    <e lm="piastrina"><i>piastrin</i><par n="cas/a__n"/></e>
+    <e lm="porpora"><i>porpor</i><par n="cas/a__n"/></e>
+    <e lm="croma"><i>crom</i><par n="cas/a__n"/></e>
+    <e lm="paura"><i>paur</i><par n="cas/a__n"/></e>
+    <e lm="serotonina"><i>serotonin</i><par n="cas/a__n"/></e>
+    <e lm="spora"><i>spor</i><par n="cas/a__n"/></e>
+    <e lm="stola"><i>stol</i><par n="cas/a__n"/></e>
+    <e lm="stratopausa"><i>stratopaus</i><par n="cas/a__n"/></e>
+    <e lm="barella"><i>barell</i><par n="cas/a__n"/></e>
+    <e lm="tessitura"><i>tessitur</i><par n="cas/a__n"/></e>
+    <e lm="trombina"><i>trombin</i><par n="cas/a__n"/></e>
+    <e lm="linfocita"><i>linfocit</i><par n="autom/a__n"/></e>
+    <e lm="linfoma"><i>linfom</i><par n="autom/a__n"/></e>
+    <e lm="meristema"><i>meristem</i><par n="autom/a__n"/></e>
+    <e lm="mesenchima"><i>mesenchim</i><par n="autom/a__n"/></e>
+    <e lm="mesoderma"><i>mesoderm</i><par n="autom/a__n"/></e>
+    <e lm="metabolita"><i>metabolit</i><par n="autom/a__n"/></e>
+    <e lm="mixedema"><i>mixedem</i><par n="autom/a__n"/></e>
+    <e lm="mixoma"><i>mixom</i><par n="autom/a__n"/></e>
+    <e lm="nucleoplasma"><i>nucleoplasm</i><par n="autom/a__n"/></e>
+    <e lm="onomatopea"><i>onomatope</i><par n="cas/a__n"/></e>
+    <e lm="parenchima"><i>parenchim</i><par n="autom/a__n"/></e>
+    <e lm="fagocita"><i>fagocit</i><par n="autom/a__n"/></e>
+    <e lm="floema"><i>floem</i><par n="autom/a__n"/></e>
+    <e lm="saprofita"><i>saprofit</i><par n="autom/a__n"/></e>
+    <e lm="sperma"><i>sperm</i><par n="autom/a__n"/></e>
+    <e lm="busto"><i>bust</i><par n="abbain/o__n"/></e>
+    <e lm="catasto"><i>catast</i><par n="abbain/o__n"/></e>
+    <e lm="centriolo"><i>centriol</i><par n="abbain/o__n"/></e>
+    <e lm="clorito"><i>clorit</i><par n="abbain/o__n"/></e>
+    <e lm="fumetto"><i>fumett</i><par n="abbain/o__n"/></e>
+    <e lm="cormo"><i>corm</i><par n="abbain/o__n"/></e>
+    <e lm="decotto"><i>decott</i><par n="abbain/o__n"/></e>
+    <e lm="fluoruro"><i>fluorur</i><par n="abbain/o__n"/></e>
+    <e lm="imbuto"><i>imbut</i><par n="abbain/o__n"/></e>
+    <e lm="alogenuro"><i>alogenur</i><par n="abbain/o__n"/></e>
+    <e lm="artigianato"><i>artigianat</i><par n="abbain/o__n"/></e>
+    <e lm="emocromo"><i>emocrom</i><par n="abbain/o__n"/></e>
+    <e lm="ettagono"><i>ettagon</i><par n="abbain/o__n"/></e>
+    <e lm="idioletto"><i>idiolett</i><par n="abbain/o__n"/></e>
+    <e lm="interdetto"><i>interdett</i><par n="abbain/o__n"/></e>
+    <e lm="ittero"><i>itter</i><par n="abbain/o__n"/></e>
+    <e lm="soldo"><i>sold</i><par n="abbain/o__n"/></e>
+    <e lm="baccello"><i>baccell</i><par n="abbain/o__n"/></e>
+    <e lm="rescritto"><i>rescritt</i><par n="abbain/o__n"/></e>
+    <e lm="riverbero"><i>riverber</i><par n="abbain/o__n"/></e>
+    <e lm="instradamento"><i>instradament</i><par n="abbain/o__n"/></e>
+    <e lm="sporofito"><i>sporofit</i><par n="abbain/o__n"/></e>
+    <e lm="tatto"><i>tatt</i><par n="abbain/o__n"/></e>
+    <e lm="panciotto"><i>panciott</i><par n="abbain/o__n"/></e>
+    <e lm="coprocessore"><i>coprocessor</i><par n="abat/e__n"/></e>
+    <e lm="deumidificatore"><i>deumidificator</i><par n="abat/e__n"/></e>
+    <e lm="dissimilazione"><i>dissimilazion</i><par n="abat/e__n"/></e>
+    <e lm="ellissoide"><i>ellissoid</i><par n="abat/e__n"/></e>
+    <e lm="perone"><i>peron</i><par n="abat/e__n"/></e>
+    <e lm="geoide"><i>geoid</i><par n="abat/e__n"/></e>
+    <e lm="gnomone"><i>gnomon</i><par n="abat/e__n"/></e>
+    <e lm="gradiente"><i>gradient</i><par n="abat/e__n"/></e>
+    <e lm="istone"><i>iston</i><par n="abat/e__n"/></e>
+    <e lm="iperboloide"><i>iperboloid</i><par n="abat/e__n"/></e>
+    <e lm="ibuprofene"><i>ibuprofen</i><par n="abat/e__n"/></e>
+    <e lm="cheloide"><i>cheloid</i><par n="abat/e__n"/></e>
+    <e lm="fulmine"><i>fulmin</i><par n="abat/e__n"/></e>
+    <e lm="lipide"><i>lipid</i><par n="abat/e__n"/></e>
+    <e lm="multiprocessore"><i>multiprocessor</i><par n="abat/e__n"/></e>
+    <e lm="nartece"><i>nartec</i><par n="abat/e__n"/></e>
+    <e lm="neurotrasmettitore"><i>neurotrasmettitor</i><par n="abat/e__n"/></e>
+    <e lm="telegiornale"><i>telegiornal</i><par n="abat/e__n"/></e>
+    <e lm="nucleoside"><i>nucleosid</i><par n="abat/e__n"/></e>
+    <e lm="optoisolatore"><i>optoisolator</i><par n="abat/e__n"/></e>
+    <e lm="ossidante"><i>ossidant</i><par n="abat/e__n"/></e>
+    <e lm="paraboloide"><i>paraboloid</i><par n="abat/e__n"/></e>
+    <e lm="fasore"><i>fasor</i><par n="abat/e__n"/></e>
+    <e lm="fenilbutazone"><i>fenilbutazon</i><par n="abat/e__n"/></e>
+    <e lm="feromone"><i>feromon</i><par n="abat/e__n"/></e>
+    <e lm="plasmide"><i>plasmid</i><par n="abat/e__n"/></e>
+    <e lm="polisaccaride"><i>polisaccarid</i><par n="abat/e__n"/></e>
+    <e lm="resistore"><i>resistor</i><par n="abat/e__n"/></e>
+    <e lm="tendine"><i>tendin</i><par n="abat/e__n"/></e>
+    <e lm="sfintere"><i>sfinter</i><par n="abat/e__n"/></e>
+    <e lm="steradiante"><i>steradiant</i><par n="abat/e__n"/></e>
+    <e lm="dolce"><i>dolc</i><par n="abat/e__n"/></e>
+    <e lm="tritone"><i>triton</i><par n="abat/e__n"/></e>
+    <e lm="velocipede"><i>velociped</i><par n="abat/e__n"/></e>
+    <e lm="reagente"><i>reagent</i><par n="albanes/e__n"/></e>
+    <e lm="attaccante"><i>attaccant</i><par n="albanes/e__n"/></e>
+    <e lm="cicloide"><i>cicloid</i><par n="abbreviazion/e__n"/></e>
+    <e lm="dimetilformammide"><i>dimetilformammid</i><par n="abbreviazion/e__n"/></e>
+    <e lm="galvanizzazione"><i>galvanizzazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="inquisizione"><i>inquisizion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="direzione"><i>direzion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="paratiroide"><i>paratiroid</i><par n="abbreviazion/e__n"/></e>
+    <e lm="poliammide"><i>poliammid</i><par n="abbreviazion/e__n"/></e>
+    <e lm="progressione"><i>progression</i><par n="abbreviazion/e__n"/></e>
+    <e lm="automotrice"><i>automotric</i><par n="abbreviazion/e__n"/></e>
+    <e lm="recensione"><i>recension</i><par n="abbreviazion/e__n"/></e>
+    <e lm="sinusoide"><i>sinusoid</i><par n="abbreviazion/e__n"/></e>
+    <e lm="sottoclasse"><i>sottoclass</i><par n="abbreviazion/e__n"/></e>
+    <e lm="ventriglio"><i>ventrigli</i><par n="abbagli/o__n"/></e>
+    <e lm="maltosio"><i>maltosi</i><par n="abbagli/o__n"/></e>
+    <e lm="mitocondrio"><i>mitocondri</i><par n="abbagli/o__n"/></e>
+    <e lm="miocardio"><i>miocardi</i><par n="abbagli/o__n"/></e>
+    <e lm="parricidio"><i>parricidi</i><par n="abbagli/o__n"/></e>
+    <e lm="pericondrio"><i>pericondri</i><par n="abbagli/o__n"/></e>
+    <e lm="regicidio"><i>regicidi</i><par n="abbagli/o__n"/></e>
+    <e lm="responsorio"><i>responsori</i><par n="abbagli/o__n"/></e>
+    <e lm="saccarosio"><i>saccarosi</i><par n="abbagli/o__n"/></e>
+    <e lm="buco"><i>buc</i><par n="fung/o__n"/></e>
+    <e lm="farmaco"><i>farmac</i><par n="fung/o__n"/></e>
+    <e lm="farmaco" r="LR"><i>farmac</i><par n="abbain/o__n"/></e>
+    <e lm="intonaco"><i>intonac</i><par n="fung/o__n"/></e>
+    <e lm="siniscalco"><i>siniscalc</i><par n="fung/o__n"/></e>
   </section>
   <section id="apostrophes" type="postblank">
 

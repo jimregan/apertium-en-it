@@ -12207,6 +12207,10 @@
     <e><p><l>accomplice<s n="n"/></l><r>complice<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>composition<s n="n"/></l><r>composizione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>spouse<s n="n"/></l><r>coniuge<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>provider<s n="n"/></l><r>fornitore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>provider<s n="n"/></l><r>fornitore<s n="n"/></r></p></e>
+    <e r="LR"><p><l>quantifier<s n="n"/></l><r>quantificatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>quantifier<s n="n"/></l><r>quantificatore<s n="n"/></r></p></e>
     <e><p><l>agora<s n="n"/></l><r>agorà<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>notepad<s n="n"/></l><r>bloc<b/>notes<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e><p><l>scarcity<s n="n"/></l><r>scarsità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
@@ -18829,6 +18833,8 @@
     <e><p><l>passage<s n="n"/></l><r>passaggio<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>stowaway<s n="n"/></l><r>passeggero<b/>clandestino<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>stowaway<s n="n"/></l><r>passeggero<b/>clandestino<s n="n"/></r></p></e>
+    <e><p><l>ligroin<s n="n"/></l><r>etere<g><b/>di<b/>petrolio</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ether<s n="n"/></l><r>etere<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>arcade<s n="n"/></l><r>passaggio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>passenger<b/>compartment<s n="n"/></l><r>abitacolo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>passing<s n="n"/></l><r>morte<s n="n"/><s n="f"/></r></p></e>
@@ -20604,6 +20610,196 @@
     <e r="LR"><p><l>collyrium<s n="n"/></l><r>collirio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>eye<b/>drop<s n="n"/></l><r>collirio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ureter<s n="n"/></l><r>uretere<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>barcarole<s n="n"/></l><r>barcarola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>barracks<s n="n"/></l><r>caserma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bust<s n="n"/></l><r>busto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cadastre<s n="n"/></l><r>catasto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>carrion<s n="n"/></l><r>carogna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>catalase<s n="n"/></l><r>catalasi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>centriole<s n="n"/></l><r>centriolo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>chlorite<s n="n"/></l><r>clorito<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>chlorophyl<s n="n"/></l><r>clorofilla<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>comic<b/>strip<s n="n"/></l><r>fumetto<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>controller<s n="n"/></l><r>controller<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>controller<s n="n"/></l><r>controller<s n="n"/></r></p></e>
+    <e><p><l>coprocessor<s n="n"/></l><r>coprocessore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>corm<s n="n"/></l><r>cormo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cornelian<s n="n"/></l><r>corniola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>curd<s n="n"/></l><r>cagliata<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cycloid<s n="n"/></l><r>cicloide<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>daw<s n="n"/></l><r>taccola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>debugger<s n="n"/></l><r>debugger<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>decanter<s n="n"/></l><r>decanter<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>decoction<s n="n"/></l><r>decotto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>deficit<s n="n"/></l><r>deficit<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>dehumidifier<s n="n"/></l><r>deumidificatore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>dimethylformamide<s n="n"/></l><r>dimetilformammide<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dissimilation<s n="n"/></l><r>dissimilazione<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>drupe<s n="n"/></l><r>drupa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dynamics<s n="n"/></l><r>dinamica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>electrotechnics<s n="n"/></l><r>elettrotecnica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ellipsoid<s n="n"/></l><r>ellissoide<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>embrasure<s n="n"/></l><r>feritoia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>facsimile<s n="n"/></l><r>facsimile<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>fibrin<s n="n"/></l><r>fibrina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fibula<s n="n"/></l><r>perone<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>fistula<s n="n"/></l><r>fistola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fluoride<s n="n"/></l><r>fluoruro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>formwork<s n="n"/></l><r>cassaforma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>franklin<s n="n"/></l><r>franklin<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>funnel<s n="n"/></l><r>imbuto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>galvanizing<s n="n"/></l><r>galvanizzazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gargoyle<s n="n"/></l><r>gargolla<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>garrotte<s n="n"/></l><r>garrota<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>geoid<s n="n"/></l><r>geoide<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>gizzard<s n="n"/></l><r>ventriglio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>globin<s n="n"/></l><r>globina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gnomon<s n="n"/></l><r>gnomone<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>gradient<s n="n"/></l><r>gradiente<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>grammage<s n="n"/></l><r>grammatura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>grisaille<s n="n"/></l><r>grisaille<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>guanine<s n="n"/></l><r>guanina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>guffaw<s n="n"/></l><r>risata<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>halide<s n="n"/></l><r>alogenuro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>handicrafts<s n="n"/></l><r>artigianato<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hemiparesis<s n="n"/></l><r>emiparesi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>hemogram<s n="n"/></l><r>emocromo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>heptagon<s n="n"/></l><r>ettagono<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>histone<s n="n"/></l><r>istone<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hole<s n="n"/></l><r>buco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hornblende<s n="n"/></l><r>orneblenda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hydrazine<s n="n"/></l><r>idrazina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hyperboloid<s n="n"/></l><r>iperboloide<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ibuprofen<s n="n"/></l><r>ibuprofene<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>idiolect<s n="n"/></l><r>idioletto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>inquisition<s n="n"/></l><r>inquisizione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>interdict<s n="n"/></l><r>interdetto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>inulin<s n="n"/></l><r>inulina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>jaundice<s n="n"/></l><r>ittero<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>jerrycan<s n="n"/></l><r>tanica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>jet<s n="n"/></l><r>jet<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>keloid<s n="n"/></l><r>cheloide<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>keratin<s n="n"/></l><r>cheratina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kneepad<s n="n"/></l><r>ginocchiera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>leadership<s n="n"/></l><r>direzione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lightning<s n="n"/></l><r>fulmine<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lignin<s n="n"/></l><r>lignina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lipase<s n="n"/></l><r>lipasi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>lipid<s n="n"/></l><r>lipide<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lithosphere<s n="n"/></l><r>litosfera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lutein<s n="n"/></l><r>luteina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lymphocyte<s n="n"/></l><r>linfocita<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lymphoma<s n="n"/></l><r>linfoma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>magnetosphere<s n="n"/></l><r>magnetosfera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>maltose<s n="n"/></l><r>maltosio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mangrove<s n="n"/></l><r>mangrovia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mapping<s n="n"/></l><r>mappatura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>meatball<s n="n"/></l><r>polpetta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>medication<s n="n"/></l><r>farmaco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>melamine<s n="n"/></l><r>melammina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>melanin<s n="n"/></l><r>melanina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>meristem<s n="n"/></l><r>meristema<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mesenchyme<s n="n"/></l><r>mesenchima<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mesoderm<s n="n"/></l><r>mesoderma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>metabolite<s n="n"/></l><r>metabolita<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>methionine<s n="n"/></l><r>metionina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>microcomputer<s n="n"/></l><r>microcomputer<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>minicomputer<s n="n"/></l><r>minicomputer<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>mistral<s n="n"/></l><r>mistral<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>mitochondrion<s n="n"/></l><r>mitocondrio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>morse<s n="n"/></l><r>morse<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>multiprocessor<s n="n"/></l><r>multiprocessore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>myocardium<s n="n"/></l><r>miocardio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>myoglobin<s n="n"/></l><r>mioglobina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>myxedema<s n="n"/></l><r>mixedema<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>myxoma<s n="n"/></l><r>mixoma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>narthex<s n="n"/></l><r>nartece<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>neurotransmitter<s n="n"/></l><r>neurotrasmettitore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>newscast<s n="n"/></l><r>telegiornale<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>nitrocellulose<s n="n"/></l><r>nitrocellulosa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>notochord<s n="n"/></l><r>notocorda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nucleoplasm<s n="n"/></l><r>nucleoplasma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>nucleoside<s n="n"/></l><r>nucleoside<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>obsidian<s n="n"/></l><r>ossidiana<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>onomatopoeia<s n="n"/></l><r>onomatopea<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ontogeny<s n="n"/></l><r>ontogenesi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>optocoupler<s n="n"/></l><r>optoisolatore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>orgeat<s n="n"/></l><r>orzata<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>orogeny<s n="n"/></l><r>orogenesi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>oxidant<s n="n"/></l><r>ossidante<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>oxidoreductase<s n="n"/></l><r>ossidoreduttasi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>oxytocin<s n="n"/></l><r>ossitocina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>paraboloid<s n="n"/></l><r>paraboloide<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>parathyroid<s n="n"/></l><r>paratiroide<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>parenchyma<s n="n"/></l><r>parenchima<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>paronychia<s n="n"/></l><r>paronichia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>parricide<s n="n"/></l><r>parricidio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pediculosis<s n="n"/></l><r>pediculosi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>pedigree<s n="n"/></l><r>pedigree<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>penny<s n="n"/></l><r>soldo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pepsin<s n="n"/></l><r>pepsina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>perichondrium<s n="n"/></l><r>pericondrio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>peripheral<s n="n"/></l><r>periferica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>petanque<s n="n"/></l><r>petanque<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>phagocyte<s n="n"/></l><r>fagocita<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>phasor<s n="n"/></l><r>fasore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>phenylbutazone<s n="n"/></l><r>fenilbutazone<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pheromone<s n="n"/></l><r>feromone<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>phloem<s n="n"/></l><r>floema<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>phosphine<s n="n"/></l><r>fosfina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>phytoplankton<s n="n"/></l><r>fitoplancton<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>plasmid<s n="n"/></l><r>plasmide<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>plaster<s n="n"/></l><r>intonaco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>platelet<s n="n"/></l><r>piastrina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pod<s n="n"/></l><r>baccello<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>polyamide<s n="n"/></l><r>poliammide<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>polymerase<s n="n"/></l><r>polimerasi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>polysaccharide<s n="n"/></l><r>polisaccaride<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>privacy<s n="n"/></l><r>privacy<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>progression<s n="n"/></l><r>progressione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>purple<s n="n"/></l><r>porpora<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>quaver<s n="n"/></l><r>croma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>railcar<s n="n"/></l><r>automotrice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reactant<s n="n"/></l><r>reagente<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>regicide<s n="n"/></l><r>regicidio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rescript<s n="n"/></l><r>rescritto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>reset<s n="n"/></l><r>reset<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>resistor<s n="n"/></l><r>resistore<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>responsory<s n="n"/></l><r>responsorio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>reverberation<s n="n"/></l><r>riverbero<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>reviewing<s n="n"/></l><r>recensione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rhinoplasty<s n="n"/></l><r>rinoplastica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>routing<s n="n"/></l><r>instradamento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>saccharose<s n="n"/></l><r>saccarosio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sacrum<s n="n"/></l><r>osso sacro<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>saprophyte<s n="n"/></l><r>saprofita<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>scare<s n="n"/></l><r>paura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>scoliosis<s n="n"/></l><r>scoliosi<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>semen<s n="n"/></l><r>sperma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>seneschal<s n="n"/></l><r>siniscalco<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>serotonin<s n="n"/></l><r>serotonina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sinew<s n="n"/></l><r>tendine<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sinusoid<s n="n"/></l><r>sinusoide<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sociolinguistics<s n="n"/></l><r>sociolinguistica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sphincter<s n="n"/></l><r>sfintere<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>spore<s n="n"/></l><r>spora<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sporophyte<s n="n"/></l><r>sporofito<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sputtering<s n="n"/></l><r>sputtering<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>steradian<s n="n"/></l><r>steradiante<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>stole<s n="n"/></l><r>stola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>stratopause<s n="n"/></l><r>stratopausa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>stretcher<s n="n"/></l><r>barella<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>striker<s n="n"/></l><r>attaccante<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>subclass<s n="n"/></l><r>sottoclasse<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>substring<s n="n"/></l><r>sottostringa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sweet<s n="n"/></l><r>dolce<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tachometer<s n="n"/></l><r>contagiri<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>texture<s n="n"/></l><r>tessitura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>thrombin<s n="n"/></l><r>trombina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>touch<s n="n"/></l><r>tatto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>triton<s n="n"/></l><r>tritone<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>velocipede<s n="n"/></l><r>velocipede<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>waistcoat<s n="n"/></l><r>panciotto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>touch<s n="n"/></l><r>tatto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>spectrophotometer<s n="n"/></l><r>spettrofotometro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sophism<s n="n"/></l><r>sofisma<s n="n"/><s n="m"/></r></p></e>
