@@ -89882,11 +89882,15 @@
     <e lm="terracotta"><i>terracott</i><par n="cas/a__n"/></e>
     <e lm="pena"><i>pen</i><par n="cas/a__n"/></e>
     <e lm="pena di morte"><i>pen</i><par n="cas/a__n"/><p><l><b/>di<b/>morte</l><r><g><b/>di<b/>morte</g></r></p></e>
+    <e lm="borsa di studio"><i>bors</i><par n="cas/a__n"/><p><l><b/>di<b/>studio</l><r><g><b/>di<b/>studio</g></r></p></e>
     <e lm="larghezza"><i>larghezz</i><par n="cas/a__n"/></e>
     <e lm="larghezza di banda"><i>larghezz</i><par n="cas/a__n"/><p><l><b/>di<b/>banda</l><r><g><b/>di<b/>banda</g></r></p></e>
+    <e lm="smussatura"><i>smussatur</i><par n="cas/a__n"/></e>
     <e lm="pene"><i>pen</i><par n="abat/e__n"/></e>
+    <e lm="effluente"><i>effluent</i><par n="abat/e__n"/></e>
     <e lm="digitigrade"><i>digitigrad</i><par n="abat/e__n"/></e>
     <e lm="pendolo"><i>pendol</i><par n="abbain/o__n"/></e>
+    <e lm="razzo"><i>razz</i><par n="abbain/o__n"/></e>
     <e lm="penetrazione"><i>penetrazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="penicillina"><i>penicillin</i><par n="cas/a__n"/></e>
     <e lm="penisola"><i>penisol</i><par n="cas/a__n"/></e>
@@ -96419,6 +96423,8 @@
     <e lm="capo del governo"><p><l>capi<b/>di<b/>governo</l><r>capo<b/>del<b/>governo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="carne bovina"><p><l>carne<b/>bovina</l><r>carne<b/>bovina<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="carne bovina"><p><l>carni<b/>bovine</l><r>carne<b/>bovina<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="prigione sotterranea"><p><l>prigione<b/>sotterranea</l><r>prigione<b/>sotterranea<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="prigione sotterranea"><p><l>prigioni<b/>sotterranee</l><r>prigione<b/>sotterranea<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="stazione secondaria"><p><l>stazione<b/>secondaria</l><r>stazione<b/>secondaria<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="stazione secondaria"><p><l>stazioni<b/>secondarie</l><r>stazione<b/>secondaria<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="immersione subacquea"><p><l>immersione<b/>subacquea</l><r>immersione<b/>subacquea<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -96457,6 +96463,10 @@
     <e lm="primo ballerino"><p><l>primi<b/>ballerini</l><r>primo<b/>ballerino<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="primo ballerino"><p><l>prima<b/>ballerina</l><r>primo<b/>ballerino<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="primo ballerino"><p><l>prime<b/>ballerine</l><r>primo<b/>ballerino<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="passeggero clandestino"><p><l>passeggero<b/>clandestino</l><r>passeggero<b/>clandestino<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="passeggero clandestino"><p><l>passeggeri<b/>clandestini</l><r>passeggero<b/>clandestino<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="passeggero clandestino"><p><l>passeggera<b/>clandestina</l><r>passeggero<b/>clandestino<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="passeggero clandestino"><p><l>passeggere<b/>clandestine</l><r>passeggero<b/>clandestino<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="principe elettore"><p><l>principe<b/>elettore</l><r>principe<b/>elettore<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="principe elettore"><p><l>principi<b/>elettori</l><r>principe<b/>elettore<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="principe elettore"><p><l>principessa<b/>elettrica</l><r>principe<b/>elettore<s n="n"/><s n="f"/><s n="sg"/></r></p></e>

@@ -18827,6 +18827,8 @@
     <e slr="festa"><p><l>party<s n="n"/></l><r>festa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Wikipedia<s n="n"/></l><r>Wikipedia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>passage<s n="n"/></l><r>passaggio<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>stowaway<s n="n"/></l><r>passeggero<b/>clandestino<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>stowaway<s n="n"/></l><r>passeggero<b/>clandestino<s n="n"/></r></p></e>
     <e r="LR"><p><l>arcade<s n="n"/></l><r>passaggio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>passenger<b/>compartment<s n="n"/></l><r>abitacolo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>passing<s n="n"/></l><r>morte<s n="n"/><s n="f"/></r></p></e>
@@ -20673,6 +20675,7 @@
     <e><p><l>empyema<s n="n"/></l><r>empiema<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>endoderm<s n="n"/></l><r>endoderma<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ectoderm<s n="n"/></l><r>ectoderma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>scholarship<s n="n"/></l><r>borsa<g><b/>di<b/>studio</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>endosperm<s n="n"/></l><r>endosperma<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>equidistance<s n="n"/></l><r>equidistanza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>escarole<s n="n"/></l><r>scarola<s n="n"/><s n="f"/></r></p></e>
@@ -22261,6 +22264,10 @@
     <e><p><l>widower<s n="n"/></l><r>vedovo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>width<s n="n"/></l><r>larghezza<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>width<s n="n"/></l><r>traverso<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bevel<s n="n"/></l><r>smussatura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>flare<s n="n"/></l><r>razzo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>effluent<s n="n"/></l><r>effluente<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>dungeon<s n="n"/></l><r>prigione<b/>sotterranea<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>wife<s n="n"/></l><r>donna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wig<s n="n"/></l><r>parrucca<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wild<b/>boar<s n="n"/></l><r>cinghiale<s n="n"/><s n="m"/></r></p></e>
