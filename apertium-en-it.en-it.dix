@@ -3263,7 +3263,7 @@
     <e><p><l>observational<s n="adj"/></l><r>osservazionale<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>obstruent<s n="adj"/></l><r>ostruente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>oceanographic<s n="adj"/></l><r>oceanografico<s n="adj"/></r></p></e>
-    <e><p><l>ochre<s n="adj"/></l><r>ocre<s n="adj"/></r></p></e>
+    <e><p><l>ochre<s n="adj"/></l><r>di<b/>ocra<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>octahedral<s n="adj"/></l><r>ottaedrico<s n="adj"/></r></p></e>
     <e><p><l>operatic<s n="adj"/></l><r>operistico<s n="adj"/></r></p></e>
     <e><p><l>opportunist<s n="adj"/></l><r>opportunista<s n="adj"/></r></p></e>
@@ -12280,7 +12280,6 @@
     <e><p><l>turquoise<s n="n"/></l><r>turchese<s n="n"/><s n="mf"/></r></p></e>
     <e srl="hyperbola"><p><l>hyperbola<s n="n"/></l><r>iperbole<s n="n"/><s n="f"/></r></p></e>
     <e srl="hyperbole D"><p><l>hyperbole<s n="n"/></l><r>iperbole<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>rock<s n="n"/></l><r>roccia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rector<s n="n"/></l><r>rettore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>official<s n="n"/></l><r>ufficiale<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>octant<s n="n"/></l><r>ottante<s n="n"/><s n="m"/></r></p></e>
@@ -13595,7 +13594,7 @@
     <e><p><l>beauty<s n="n"/></l><r>bellezza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>beaver<s n="n"/></l><r>castoro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bed<s n="n"/></l><r>letto<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>bedroom<s n="n"/></l><r>camera<s n="n"/><s n="f"/></r></p></e>
+    <e srl="bedroom D"><p><l>bedroom<s n="n"/></l><r>camera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bedspread<s n="n"/></l><r>copriletto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bee<s n="n"/></l><r>ape<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>beehive<s n="n"/></l><r>alveare<s n="n"/><s n="m"/></r></p></e>
@@ -14117,7 +14116,7 @@
     <e r="LR"><p><l>cavity<s n="n"/><s n="sg"/></l><r>cavità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>cavity<s n="n"/><s n="pl"/></l><r>cavità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>cedar<s n="n"/></l><r>cedro<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>ceiling<s n="n"/></l><r>tetto<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>ceiling<s n="n"/></l><r>tetto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>celebration<s n="n"/></l><r>celebrazione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>celebrity<s n="n"/><s n="ND"/></l><r>celebrità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>celebrity<s n="n"/><s n="sg"/></l><r>celebrità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -14173,7 +14172,7 @@
     <e><p><l>chalk<s n="n"/></l><r>gesso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>challenge<s n="n"/></l><r>sfida<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>challenge<s n="n"/></l><r>contestazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>chamber<s n="n"/></l><r>stanza<s n="n"/><s n="f"/></r></p></e>
+    <e srl="chamber"><p><l>chamber<s n="n"/></l><r>camera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chameleon<s n="n"/></l><r>camaleonte<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>champagne<s n="n"/><s n="sg"/></l><r>champagne<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>champagne<s n="n"/><s n="pl"/></l><r>champagne<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -19989,17 +19988,13 @@
     <e r="LR"><p><l>robot<s n="n"/><s n="sg"/></l><r>robot<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>robot<s n="n"/><s n="pl"/></l><r>robot<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>robot<s n="n"/><s n="ND"/></l><r>robot<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e><p><l>rock<s n="n"/><s n="pl"/></l><r>roccia<s n="n"/></r></p></e>
-    <e><p><l>rock<s n="n"/><s n="sg"/></l><r>rock<s n="n"/></r></p></e>
-    <e i="yes"><p><l>rock<s n="n"/><s n="sg"/></l><r>roccia<s n="n"/></r></p></e><!--  autorestricted (<e><l>rock<n><pl></l><r>roccia<n></r></e>).-->
     <e><p><l>rocket<s n="n"/></l><r>razzo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>role<s n="n"/></l><r>funzione<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>function<n></l><r>funzione<n><f></r></e>).-->
     <e r="RL"><p><l>role<s n="n"/></l><r>ruolo<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>role<n></l><r>funzione<n><f></r></e>).-->
     <e><p><l>romanticism<s n="n"/></l><r>romanticismo<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>roof<s n="n"/></l><r>tetto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>ceiling<n></l><r>tetto<n><m></r></e>).-->
+    <e><p><l>roof<s n="n"/></l><r>tetto<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>rook<s n="n"/></l><r>torre<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>room<s n="n"/></l><r>stanza<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>chamber<n></l><r>stanza<n><f></r></e>).-->
-    <e i="yes"><p><l>room<s n="n"/></l><r>sala<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>hall<n></l><r>sala<n><f></r></e>).-->
+    <e><p><l>room<s n="n"/></l><r>stanza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>root<s n="n"/></l><r>radice<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>rooting<s n="n"/></l><r>base<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>base<n></l><r>base<n><f></r></e>).-->
     <e><p><l>rope<s n="n"/></l><r>corda<s n="n"/><s n="f"/></r></p></e>
@@ -24670,7 +24665,7 @@
     <e r="LR"><p><l>ease<s n="vblex"/></l><r>alleviare<s n="vblex"/></r></p></e>
     <e><p><l>eat<s n="vblex"/></l><r>mangiare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>echo<s n="vblex"/></l><r>ripetere<s n="vblex"/></r></p></e>
-    <e><p><l>edit<s n="vblex"/></l><r>redigere<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>edit<s n="vblex"/></l><r>redigere<s n="vblex"/></r></p></e>
     <e><p><l>educate<s n="vblex"/></l><r>educare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>effect<s n="vblex"/></l><r>effettuare<s n="vblex"/></r></p></e>
     <e><p><l>elaborate<s n="vblex"/></l><r>elaborare<s n="vblex"/></r></p></e>
@@ -24891,7 +24886,6 @@
     <e r="LR"><p><l>go<g><b/>on</g><s n="vblex"/></l><r>continuare<s n="vblex"/></r></p></e>
     <e><p><l>go<g><b/>out</g><s n="vblex"/></l><r>uscire<s n="vblex"/></r></p></e>
     <e><p><l>go<g><b/>through</g><s n="vblex"/></l><r>passare<g><b/>per</g><s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>go<g><b/>up</g><s n="vblex"/></l><r>subire<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>get<g><b/>on</g><vblex></l><r>subire<vblex></r></e>).-->
     <e><p><l>govern<s n="vblex"/></l><r>governare<s n="vblex"/></r></p></e>
     <e><p><l>graduate<s n="vblex"/></l><r>laureare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>grant<s n="vblex"/></l><r>concedere<s n="vblex"/></r></p></e>
@@ -25808,9 +25802,9 @@
     <e r="RL"><p><l>twist<s n="vblex"/></l><r>storcere<s n="vblex"/></r></p></e>
     <e><p><l>type<s n="vblex"/></l><r>scrivere<s n="vblex"/></r></p></e>
     <e><p><l>unblock<s n="vblex"/></l><r>sbloccare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>unchain<s n="vblex"/></l><r>liberare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>discharge<vblex></l><r>liberare<vblex></r></e>).-->
+    <e r="LR"><p><l>unchain<s n="vblex"/></l><r>liberare<s n="vblex"/></r></p></e>
     <e><p><l>underestimate<s n="vblex"/></l><r>sottovalutare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>undergo<s n="vblex"/></l><r>subire<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>get<g><b/>on</g><vblex></l><r>subire<vblex></r></e>).-->
+    <e r="LR"><p><l>undergo<s n="vblex"/></l><r>subire<s n="vblex"/></r></p></e>
     <e><p><l>underline<s n="vblex"/></l><r>sottolineare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>undermine<s n="vblex"/></l><r>scavare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>dig<vblex></l><r>scavare<vblex></r></e>).-->
     <e><p><l>understand<s n="vblex"/></l><r>capire<s n="vblex"/></r></p></e>
@@ -25818,7 +25812,7 @@
     <e><p><l>undo<s n="vblex"/></l><r>disfare<s n="vblex"/></r></p></e>
     <e><p><l>undress<s n="vblex"/></l><r>svestire<s n="vblex"/></r></p></e>
     <e><p><l>unify<s n="vblex"/></l><r>unificare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>unite<s n="vblex"/></l><r>unire<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>join<vblex></l><r>unire<vblex></r></e>).-->
+    <e r="LR"><p><l>unite<s n="vblex"/></l><r>unire<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>unload<s n="vblex"/></l><r>scaricare<s n="vblex"/></r></p></e>
     <e><p><l>unmask<s n="vblex"/></l><r>smascherare<s n="vblex"/></r></p></e>
     <e><p><l>unscrew<s n="vblex"/></l><r>svitare<s n="vblex"/></r></p></e>
