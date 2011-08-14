@@ -603,7 +603,7 @@
     <e><p><l>antarctic<s n="adj"/></l><r>antartico<s n="adj"/></r></p></e>
     <e><p><l>antecedent<s n="adj"/></l><r>antecedente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>antecedent<s n="n"/></l><r>antecedente<s n="n"/><s n="mf"/></r></p></e>
-    <e><p><l>ape<s n="n"/></l><r>scimmia<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>ape<s n="n"/></l><r>scimmia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aquifer<s n="n"/></l><r>acquifera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>alternative<s n="n"/></l><r>alternativa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antepenultimate<s n="adj"/></l><r>ante-penultimo<s n="adj"/></r></p></e>
@@ -12311,7 +12311,7 @@
     <e><p><l>stalemate<s n="n"/></l><r>stallo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tropic<s n="n"/></l><r>tropico<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>frigate<s n="n"/></l><r>fregata<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>gang<s n="n"/></l><r>banda<s n="n"/><s n="f"/></r></p></e>
+    <e srl="gang"><p><l>gang<s n="n"/></l><r>banda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>jellyfish<s n="n"/></l><r>medusa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lyre<s n="n"/></l><r>lira<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>macula<s n="n"/></l><r>macula<s n="n"/><s n="f"/></r></p></e>
@@ -12342,7 +12342,7 @@
     <e><p><l>tercet<s n="n"/></l><r>terzina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>atlas<s n="n"/></l><r>atlante<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>believer<s n="n"/></l><r>credente<s n="n"/><s n="mf"/></r></p></e>
-    <e><p><l>badge<s n="n"/></l><r>placca<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>badge<s n="n"/></l><r>badge<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
     <e r="LR"><p><l>blame<s n="n"/></l><r>colpa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>brilliant<s n="n"/></l><r>brillante<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>candidature<s n="n"/></l><r>candidatura<s n="n"/><s n="f"/></r></p></e>
@@ -13503,7 +13503,7 @@
     <e r="RL"><p><l>bamboo<s n="n"/><s n="ND"/></l><r>bambù<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>ban<s n="n"/></l><r>divieto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>banana<s n="n"/></l><r>banana<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>band<s n="n"/></l><r>banda<s n="n"/><s n="f"/></r></p></e>
+    <e srl="band D"><p><l>band<s n="n"/></l><r>banda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bandage<s n="n"/></l><r>fasciatura<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>bandit<s n="n"/></l><r>bandito<s n="n"/></r></p></e>
     <e r="LR"><p><l>bandit<s n="n"/></l><r>bandito<s n="n"/><s n="GD"/></r></p></e>
@@ -16369,7 +16369,7 @@
     <e><p><l>interrogation<s n="n"/></l><r>interrogatorio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>intrigue<s n="n"/></l><r>intrigo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jackal<s n="n"/></l><r>sciacallo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>jar<s n="n"/></l><r>vaso<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>jar<s n="n"/></l><r>vaso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jasper<s n="n"/></l><r>diaspro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ladle<s n="n"/></l><r>mestolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lathe<s n="n"/></l><r>tornio<s n="n"/><s n="m"/></r></p></e>
@@ -18025,7 +18025,7 @@
     <e><p><l>meeting<s n="n"/></l><r>riunione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>megalith<s n="n"/></l><r>megalito<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>megaphone<s n="n"/></l><r>megafono<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>melange<s n="n"/></l><r>miscuglio<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>melange<s n="n"/></l><r>miscuglio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>melodrama<s n="n"/></l><r>melodramma<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>melody<s n="n"/></l><r>melodia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>member<s n="n"/></l><r>membro<s n="n"/><s n="m"/></r></p></e>
@@ -18169,11 +18169,11 @@
     <e><p><l>mission<s n="n"/></l><r>missione<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>missionary<s n="n"/></l><r>missionario<s n="n"/></r></p></e>
     <e r="LR"><p><l>missionary<s n="n"/></l><r>missionario<s n="n"/><s n="GD"/></r></p></e>
-    <e r="LR"><p><l>mist<s n="n"/></l><r>nebbia<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e><l>fog<n></l><r>nebbia<n><f></r></e>).-->
+    <e r="LR"><p><l>mist<s n="n"/></l><r>nebbia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>misunderstanding<s n="n"/></l><r>equivoco<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>misuse<s n="n"/></l><r>abuso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mitigation<s n="n"/></l><r>mitigazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>mix<s n="n"/></l><r>miscuglio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>melange<n></l><r>miscuglio<n><m></r></e>).-->
+    <e><p><l>mix<s n="n"/></l><r>miscuglio<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>mix<s n="n"/></l><r>miscela<s n="n"/><s n="f"/></r></p></e><!--  autorestricted (<e r="LR"><l>mix<n></l><r>miscuglio<n><m></r></e>).-->
     <e><p><l>mobile<b/>phone<s n="n"/></l><r>telefono<b/>cellulare<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mobilisation<s n="n"/></l><r>mobilitazione<s n="n"/><s n="f"/></r></p></e>
@@ -19694,8 +19694,7 @@
     <e r="LR"><p><l>reader<s n="n"/></l><r>lettore<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>reading<s n="n"/></l><r>lettura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reafforestation<s n="n"/></l><r>riforestazione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>real<b/>estate<s n="n"/></l><r>immobiliare<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>real<b/>property<s n="n"/></l><r>immobile<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>real<b/>estate<s n="n"/></l><r>immobile<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>realisation<s n="n"/></l><r>realizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>realism<s n="n"/></l><r>realismo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>reality<s n="n"/><s n="ND"/></l><r>realtà<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -22099,7 +22098,7 @@
     <e><p><l>syllable<s n="n"/></l><r>sillaba<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>telepathy<s n="n"/></l><r>telepatia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>truce<s n="n"/></l><r>tregua<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>tune<s n="n"/></l><r>melodia<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>tune<s n="n"/></l><r>melodia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tureen<s n="n"/></l><r>zuppiera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>umbel<s n="n"/></l><r>ombrella<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>unexpected<s n="n"/></l><r>imprevisto<s n="n"/><s n="m"/></r></p></e>
