@@ -424,8 +424,8 @@
     <e r="LR"><p><l>yielding<s n="adj"/></l><r>lucrativo<s n="adj"/></r></p></e>
     <e><p><l>circular<s n="adj"/></l><r>circolare<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>piriform<s n="adj"/></l><r>piriforme<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>conceptualist<s n="adj"/></l><r>concettualista<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>constructivist<s n="adj"/></l><r>construttivista<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>conceptualist<s n="adj"/></l><r>concettualista<s n="adj"/></r></p></e>
+    <e><p><l>constructivist<s n="adj"/></l><r>construttivista<s n="adj"/></r></p></e>
     <e><p><l>blackmailer<s n="adj"/></l><r>ricattatore<s n="adj"/></r></p></e>
     <e r="LR"><p><l>blackmailer<s n="n"/></l><r>ricattatore<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>blackmailer<s n="n"/></l><r>ricattatore<s n="n"/></r></p></e>
@@ -13886,7 +13886,7 @@
     <e><p><l>bull<s n="n"/></l><r>toro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bulldozer<s n="n"/></l><r>ruspa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bullet<s n="n"/></l><r>pallottola<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>bullying<s n="n"/></l><r>prepotenze<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bullying<s n="n"/></l><r>prepotenza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>prize-giving<s n="n"/></l><r>premiazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bumblebee<s n="n"/></l><r>bombo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>bump<s n="n"/></l><r>colpo<s n="n"/><s n="m"/></r></p></e>
@@ -19140,7 +19140,8 @@
     <e><p><l>pontifex<s n="n"/></l><r>pontefice<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>play<s n="n"/></l><r>gioco<s n="n"/><s n="m"/></r></p></e>
     <e slr="interprete"><p><l>player<s n="n"/></l><r>interprete<s n="n"/><s n="mf"/></r></p></e>
-    <e slr="giocatore D"><p><l>player<s n="n"/></l><r>giocatore<s n="n"/></r></p></e>
+    <e slr="giocatore D" r="LR"><p><l>player<s n="n"/></l><r>giocatore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>player<s n="n"/></l><r>giocatore<s n="n"/></r></p></e>
     <e><p><l>playground<s n="n"/></l><r>cortile<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>pleasure<s n="n"/></l><r>piacere<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>plebeian<s n="n"/></l><r>plebeo<s n="n"/><s n="GD"/></r></p></e>
@@ -19456,7 +19457,7 @@
     <e r="LR"><p><l>proportionality<s n="n"/><s n="pl"/></l><r>proporzionalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>proposal<s n="n"/></l><r>proposta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>proposition<s n="n"/></l><r>proposizione<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>propylaeum<s n="n"/></l><r>propilei<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>propylaeum<s n="n"/></l><r>propileo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>prorate<s n="n"/></l><r>ripartizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>proscription<s n="n"/></l><r>proscrizione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>prose<s n="n"/></l><r>prosa<s n="n"/><s n="f"/></r></p></e>
@@ -24511,7 +24512,6 @@
     <e><p><l>deduce<s n="vblex"/></l><r>dedurre<s n="vblex"/></r></p></e>
     <e><p><l>deepen<s n="vblex"/></l><r>approfondire<s n="vblex"/></r></p></e>
     <e><p><l>defeat<s n="vblex"/></l><r>sconfiggere<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>defeat<s n="vblex"/></l><r>vincere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>defend<s n="vblex"/></l><r>difendere<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>advocate<vblex></l><r>difendere<vblex></r></e>).-->
     <e><p><l>define<s n="vblex"/></l><r>definire<s n="vblex"/></r></p></e>
     <e><p><l>defraud<s n="vblex"/></l><r>defraudare<s n="vblex"/></r></p></e>
@@ -25320,7 +25320,7 @@
     <e><p><l>organise<s n="vblex"/></l><r>organizzare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>oscillate<s n="vblex"/></l><r>oscillare<s n="vblex"/></r></p></e>
     <e><p><l>outline<s n="vblex"/></l><r>delineare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>overcome<s n="vblex"/></l><r>vincere<s n="vblex"/></r></p></e><!--  autorestricted (<e r="RL"><l>earn<vblex></l><r>vincere<vblex></r></e>).-->
+    <e r="LR"><p><l>overcome<s n="vblex"/></l><r>vincere<s n="vblex"/></r></p></e>
     <e><p><l>overwhelm<s n="vblex"/></l><r>sopraffare<s n="vblex"/></r></p></e>
     <e><p><l>owe<s n="vblex"/></l><r>dovere<s n="vblex"/></r></p></e>
     <e><p><l>own<s n="vblex"/></l><r>possedere<s n="vblex"/></r></p></e>
@@ -25875,12 +25875,11 @@
     <e><p><l>whisper<s n="vblex"/></l><r>bisbigliare<s n="vblex"/></r></p></e>
     <e><p><l>whistle<s n="vblex"/></l><r>fischiare<s n="vblex"/></r></p></e>
     <e><p><l>widen<s n="vblex"/></l><r>allargare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>win<s n="vblex"/></l><r>vincere<s n="vblex"/></r></p></e><!--  autorestricted (<e r="RL"><l>earn<vblex></l><r>vincere<vblex></r></e>).-->
-    <e i="yes"><p><l>win<s n="vblex"/></l><r>guadagnare<s n="vblex"/></r></p></e><!--  autorestricted (<e r="RL"><l>earn<vblex></l><r>guadagnare<vblex></r></e>).-->
+    <e><p><l>win<s n="vblex"/></l><r>vincere<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>wish<s n="vblex"/></l><r>desiderare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>withdraw<s n="vblex"/></l><r>ritirare<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>witness<s n="vblex"/></l><r>testimoniare<s n="vblex"/></r></p></e><!--  autorestricted (<e><l>attest<vblex></l><r>testimoniare<vblex></r></e>).-->
-    <e><p><l>wonder<s n="vblex"/></l><r>domandarsi<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>witness<s n="vblex"/></l><r>testimoniare<s n="vblex"/></r></p></e>
+    <e><p><l>wonder<s n="vblex"/></l><r>domandarsi<s n="vblex"/><s n="pron"/></r></p></e>
     <e><p><l>work<s n="vblex"/></l><r>lavorare<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>work<g><b/>out</g><s n="vblex"/></l><r>uscire<s n="vblex"/></r></p></e>
     <e><p><l>worry<s n="vblex"/></l><r>infastidire<s n="vblex"/></r></p></e>

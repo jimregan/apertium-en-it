@@ -94101,6 +94101,7 @@
     <e lm="candidare"><i>candid</i><par n="abbacin/are__vblex"/></e>
     <e lm="cantare"><i>cant</i><par n="abbacin/are__vblex"/></e>
     <e lm="capire"><i>cap</i><par n="abbell/ire__vblex"/></e>
+    <e lm="rapire"><i>rap</i><par n="abbell/ire__vblex"/></e>
     <e lm="captare"><i>capt</i><par n="abbacin/are__vblex"/></e>
     <e lm="caratterizzare"><i>caratterizz</i><par n="abbacin/are__vblex"/></e>
     <e lm="cascare"><i>casc</i><par n="abbarbic/are__vblex"/></e>
@@ -95018,6 +95019,7 @@
     <e lm="telefonare"><i>telefon</i><par n="abbacin/are__vblex"/></e>
     <e lm="temere"><i>tem</i><par n="abbatt/ere__vblex"/></e>
     <e lm="gemere"><i>gem</i><par n="abbatt/ere__vblex"/></e>
+    <e lm="fremere"><i>frem</i><par n="abbatt/ere__vblex"/></e>
     <e lm="spremere"><i>sprem</i><par n="abbatt/ere__vblex"/></e>
     <e lm="temperare"><i>temper</i><par n="abbacin/are__vblex"/></e>
     <e lm="tenere"><i>t</i><par n="appart/enere__vblex"/></e>
@@ -95077,6 +95079,7 @@
     <e lm="validare"><i>valid</i><par n="abbacin/are__vblex"/></e>
     <e lm="vaporizzare"><i>vaporizz</i><par n="abbacin/are__vblex"/></e>
     <e lm="variare"><i>vari</i><par n="abbacchi/are__vblex"/></e>
+    <e lm="inventariare"><i>inventari</i><par n="abbacchi/are__vblex"/></e>
     <e lm="vendere"><i>vend</i><par n="acced/ere__vblex"/></e>
     <e lm="vendere all&apos;asta"><i>vend</i><par n="acced/ere__vblex"/><p><l><b/>all&apos;asta</l><r><g><b/>all&apos;asta</g></r></p></e>
     <e lm="venerare"><i>vener</i><par n="abbacin/are__vblex"/></e>
@@ -95085,6 +95088,7 @@
     <e lm="versare"><i>vers</i><par n="abbacin/are__vblex"/></e>
     <e lm="vestire"><i>vest</i><par n="abbrut/ire__vblex"/></e>
     <e lm="viaggiare"><i>viagg</i><par n="abbiosc/iare__vblex"/></e>
+    <e lm="serpeggiare"><i>serpegg</i><par n="abbiosc/iare__vblex"/></e>
     <e lm="vivere"><i>vi</i><par n="rivi/vere__vblex"/></e>
     <e lm="rivivere"><i>rivi</i><par n="rivi/vere__vblex"/></e>
     <e lm="sopravvivere"><i>sopravvi</i><par n="rivi/vere__vblex"/></e>
@@ -96577,6 +96581,7 @@
     <e lm="pasta di vetro"><i>past</i><par n="cas/a__n"/><p><l><b/>di<b/>vetro</l><r><g><b/>di<b/>vetro</g></r></p></e>
     <e lm="pasta brisée"><i>past</i><par n="cas/a__n"/><p><l><b/>brisée</l><r><g><b/>brisée</g></r></p></e>
     <e lm="dentifricio"><i>dentifrici</i><par n="abbagli/o__n"/></e>
+    <e lm="austorio"><i>austori</i><par n="abbagli/o__n"/></e>
     <e lm="puffo"><i>puff</i><par n="abbagli/o__n"/></e>
     <e lm="pastasciutta"><i>pastasciutt</i><par n="cas/a__n"/></e>
     <e lm="gara di sci"><i>gar</i><par n="cas/a__n"/><p><l><b/>di<b/>sci</l><r><g><b/>di<b/>sci</g></r></p></e>
@@ -97689,6 +97694,7 @@
     <e lm="biforcarsi"><i>biforc</i><par n="biforc/arsi__vblex"/></e>
     <e lm="sporcarsi"><i>sporc</i><par n="biforc/arsi__vblex"/></e>
     <e lm="sposarsi"><i>spos</i><par n="congratul/arsi__vblex"/></e>
+    <e lm="domandarsi"><i>domand</i><par n="congratul/arsi__vblex"/></e>
     <e lm="sgretolarsi"><i>sgretol</i><par n="congratul/arsi__vblex"/></e>
     <e lm="rilassarsi"><i>rilass</i><par n="congratul/arsi__vblex"/></e>
     <e lm="ribellarsi"><i>ribell</i><par n="congratul/arsi__vblex"/></e>
@@ -100152,8 +100158,10 @@
     <e lm="sussidiaria"><i>sussidiari</i><par n="cas/a__n"/></e>
     <e lm="taenia"><i>taeni</i><par n="cas/a__n"/></e>
     <e lm="coppa"><i>copp</i><par n="cas/a__n"/></e>
+    <e lm="prepotenza"><i>prepotenz</i><par n="cas/a__n"/></e>
     <e lm="allarmismo"><i>allarmism</i><par n="abbain/o__n"/></e>
     <e lm="incontro"><i>incontr</i><par n="abbain/o__n"/></e>
+    <e lm="propileo"><i>propile</i><par n="abbain/o__n"/></e>
     <e lm="entusiasmo"><i>entusiasm</i><par n="abbain/o__n"/></e>
     <e lm="azzurro"><i>azzurr</i><par n="abbain/o__n"/></e>
     <e lm="netto"><i>nett</i><par n="abbain/o__n"/></e>
