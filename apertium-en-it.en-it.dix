@@ -1607,6 +1607,7 @@
     <e><p><l>vicariant<s n="adj"/></l><r>vicariante<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>vascular<s n="adj"/></l><r>vascolare<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>triple<s n="adj"/></l><r>triplice<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>treble<s n="adj"/></l><r>triplice<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>zygomatic<s n="adj"/></l><r>zigomatico<s n="adj"/></r></p></e>
     <e><p><l>graphic<s n="adj"/></l><r>grafico<s n="adj"/></r></p></e>
     <e><p><l>grated<s n="adj"/></l><r>grattugiato<s n="adj"/></r></p></e>
@@ -6020,6 +6021,10 @@
     <e><p><l>Earth<s n="np"/><s n="loc"/></l><r>Terra<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>Easter<b/>Island<s n="np"/><s n="loc"/></l><r>Isola<b/>di<b/>Pasqua<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><p><l>Marchena<b/>Island<s n="np"/><s n="loc"/></l><r>Isola<b/>Marchena<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Bear<b/>Island<s n="np"/><s n="loc"/></l><r>Isola<b/>dell'Orso<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Bretton<b/>Woods<s n="np"/><s n="loc"/></l><r>Bretton<b/>Woods<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+    <e><p><l>Complejo<b/>Ática<s n="np"/><s n="loc"/></l><r>Complejo<b/>Ática<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+    <e><p><l>Vía<b/>de<b/>las<b/>dos<b/>Castillas<s n="np"/><s n="loc"/></l><r>Vía<b/>de<b/>las<b/>dos<b/>Castillas<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Isla<b/>Marchena<s n="np"/><s n="loc"/></l><r>Isola<b/>Marchena<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><i>Easton<s n="np"/><s n="ant"/></i></e>
     <e><p><l>Eastwood<s n="np"/><s n="cog"/><s n="sg"/></l><r>Eastwood<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -11585,7 +11590,7 @@
     <e><p><l>U.S.<s n="np"/><s n="loc"/><s n="sg"/></l><r>USA<s n="np"/><s n="loc"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>US<s n="np"/><s n="loc"/><s n="sg"/></l><r>USA<s n="np"/><s n="loc"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>USA<s n="np"/><s n="loc"/><s n="sg"/></l><r>USA<s n="np"/><s n="loc"/><s n="m"/><s n="pl"/></r></p></e>
-    <e r="LR"><p><l>UK<s n="np"/><s n="loc"/></l><r>Regno<b/>Unito<s n="np"/><s n="loc"/></r></p></e>
+    <e r="LR"><p><l>UK<s n="np"/><s n="loc"/></l><r>Regno<b/>Unito<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>US<b/>Virgin<b/>Islands<s n="np"/><s n="loc"/></l><r>Isole<b/>Vergini<b/>americane<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
     <e><i>Ubalda<s n="np"/><s n="ant"/></i></e>
     <e><i>Ubaldina<s n="np"/><s n="ant"/></i></e>
@@ -14194,7 +14199,7 @@
     <e><p><l>characterisation<s n="n"/></l><r>caratterizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>characteristic<s n="n"/></l><r>caratteristica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chard<s n="n"/></l><r>bietola<s n="n"/><s n="f"/></r></p></e>
-    <e srl="charge"><p><l>charge<s n="n"/></l><r>carica<s n="n"/><s n="f"/></r></p></e>
+    <e srl="charge" r="RL"><p><l>charge<s n="n"/></l><r>carica<s n="n"/><s n="f"/></r></p></e>
     <e srl="position D" r="RL"><p><l>position<s n="n"/></l><r>carica<s n="n"/><s n="f"/></r></p></e>
     <e srl="charge" slr="carico"><p><l>charge<s n="n"/></l><r>carico<s n="n"/><s n="m"/></r></p></e>
     <e srl="load D"><p><l>load<s n="n"/></l><r>carico<s n="n"/><s n="m"/></r></p></e>
@@ -18140,6 +18145,7 @@
     <e><p><l>mineralogy<s n="n"/></l><r>mineralogia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>miniature<s n="n"/></l><r>miniatura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>miniaturisation<s n="n"/></l><r>miniaturizzazione<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>microminiaturisation<s n="n"/></l><r>microminiaturizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>minimisation<s n="n"/></l><r>minimizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>minimum<s n="n"/></l><r>minimo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>minimum<s n="n"/></l><r>minimo<s n="n"/><s n="f"/></r></p></e>
@@ -19122,6 +19128,7 @@
     <e><p><l>plant<s n="n"/></l><r>pianta<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>plantation<s n="n"/></l><r>impianto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="RL"><l>facility<n><pl></l><r>impianto<n><m></r></e>).-->
     <e><p><l>plasma<s n="n"/></l><r>plasma<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sarcoplasm<s n="n"/></l><r>sarcoplasma<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>plastic<s n="n"/></l><r>plastica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>plastification<s n="n"/></l><r>plastificazione<s n="n"/><s n="f"/></r></p></e>
     <e slr="placca" r="LR"><p><l>plate<s n="n"/></l><r>placca<s n="n"/><s n="f"/></r></p></e>
@@ -19828,10 +19835,10 @@
     <e r="RL"><p><l>religious<s n="n"/></l><r>religioso<s n="n"/></r></p></e>
     <e><p><l>relocation<s n="n"/></l><r>delocalizzazione<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>remainder<s n="n"/></l><r>resto<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>remains<s n="n"/></l><r>resto<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>remainder<n></l><r>resto<n><m></r></e>).-->
+    <e r="LR"><p><l>remains<s n="n"/></l><r>resto<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>remark<s n="n"/></l><r>osservazione<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>remedy<s n="n"/></l><r>farmaco<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e><l>medicine<n></l><r>farmaco<n><m></r></e>).-->
-    <e r="RL"><p><l>remedy<s n="n"/></l><r>rimedio<s n="n"/><s n="m"/></r></p></e><!--  autorestricted (<e r="LR"><l>remedy<n></l><r>farmaco<n><m></r></e>).-->
+    <e r="LR"><p><l>remedy<s n="n"/></l><r>farmaco<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>remedy<s n="n"/></l><r>rimedio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>reminder<s n="n"/></l><r>promemoria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>remorse<s n="n"/></l><r>rimorso<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>removal<s n="n"/></l><r>rimozione<s n="n"/><s n="f"/></r></p></e>
@@ -20620,8 +20627,8 @@
     <e><p><l>chlorite<s n="n"/></l><r>clorito<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chlorophyl<s n="n"/></l><r>clorofilla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>comic<b/>strip<s n="n"/></l><r>fumetto<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>controller<s n="n"/></l><r>controller<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>controller<s n="n"/></l><r>controller<s n="n"/></r></p></e>
+    <e r="LR"><p><l>controller<s n="n"/></l><r>controllore<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>controller<s n="n"/></l><r>controllore<s n="n"/></r></p></e>
     <e><p><l>coprocessor<s n="n"/></l><r>coprocessore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>corm<s n="n"/></l><r>cormo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cornelian<s n="n"/></l><r>corniola<s n="n"/><s n="f"/></r></p></e>
@@ -21473,7 +21480,7 @@
     <e slr="bersaglio D"><p><l>target<s n="n"/></l><r>bersaglio<s n="n"/><s n="m"/></r></p></e>
     <e slr="obiettivo" r="LR"><p><l>target<s n="n"/></l><r>obiettivo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>insomnia<s n="n"/></l><r>insonnia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>integral<s n="n"/></l><r>integrante<s n="n"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>integral<s n="n"/></l><r>integrante<s n="n"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>tariff<s n="n"/></l><r>tariffa<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>task<s n="n"/></l><r>lavoro<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>task<s n="n"/></l><r>mansione<s n="n"/><s n="f"/></r></p></e>
@@ -22565,7 +22572,7 @@
     <e><p><l>yellow<s n="n"/></l><r>giallo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yellow<s n="adj"/><s n="sint"/></l><r>giallo<s n="adj"/></r></p></e>
     <e><p><l>yellowish<s n="adj"/></l><r>giallastro<s n="adj"/></r></p></e>
-    <e><p><l>vernacular<s n="adj"/></l><r>vernacolo<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>vernacular<s n="adj"/></l><r>vernacolo<s n="adj"/></r></p></e>
     <e><p><l>variable<s n="adj"/></l><r>variabile<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>insecticide<s n="adj"/></l><r>insetticida<s n="adj"/></r></p></e>
     <e r="LR"><p><l>yield<s n="n"/></l><r>raccolto<s n="n"/><s n="m"/></r></p></e>

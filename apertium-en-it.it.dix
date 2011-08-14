@@ -97381,6 +97381,7 @@
     <e lm="levitazione"><i>levitazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="lussazione"><i>lussazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="miniaturizzazione"><i>miniaturizzazion</i><par n="abbreviazion/e__n"/></e>
+    <e lm="microminiaturizzazione"><i>microminiaturizzazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="sovrappopolazione"><i>sovrappopolazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="ovulazione"><i>ovulazion</i><par n="abbreviazion/e__n"/></e>
     <e lm="palpazione"><i>palpazion</i><par n="abbreviazion/e__n"/></e>
@@ -98256,6 +98257,7 @@
     <e lm="America settentrionale"><i>America<b/>settentrionale</i><par n="Europa__np"/></e>
     <e lm="Isola del Sud"><i>Isola<b/>del<b/>Sud</i><par n="Europa__np"/></e>
     <e lm="Isola Marchena"><i>Isola<b/>Marchena</i><par n="Europa__np"/></e>
+    <e lm="Isola dell'Orso"><i>Isola<b/>dell'Orso</i><par n="Europa__np"/></e>
     <e lm="Vitoria"><i>Vitoria</i><par n="Europa__np"/></e>
     <e lm="Alaska"><i>Alaska</i><par n="Europa__np"/></e>
     <e lm="Andalusia"><i>Andalusia</i><par n="Europa__np"/></e>
@@ -98306,6 +98308,9 @@
     <e lm="Somalia"><i>Somalia</i><par n="Europa__np"/></e>
     <e lm="Tonga"><i>Tonga</i><par n="Europa__np"/></e>
     <e lm="Liegi"><i>Liegi</i><par n="Afghanistan__np"/></e>
+    <e lm="Bretton Woods"><i>Bretton<b/>Woods</i><par n="Afghanistan__np"/></e>
+    <e lm="Complejo Ática"><i>Complejo<b/>Ática</i><par n="Afghanistan__np"/></e>
+    <e lm="Vía de las dos Castillas"><i>Vía<b/>de<b/>las<b/>dos<b/>Castillas</i><par n="Europa__np"/></e>
     <e lm="Basauri"><i>Basauri</i><par n="Afghanistan__np"/></e>
     <e lm="Belgrado"><i>Belgrado</i><par n="Afghanistan__np"/></e>
     <e lm="Budapest"><i>Budapest</i><par n="Afghanistan__np"/></e>
@@ -101532,6 +101537,7 @@
     <e lm="programmatore"><i>programmat</i><par n="agricolt/ore__n"/></e>
     <e lm="armatore"><i>armat</i><par n="agricolt/ore__n"/></e>
     <e lm="fornitore"><i>fornit</i><par n="agricolt/ore__n"/></e>
+    <e lm="controllore"><i>controll</i><par n="agricolt/ore__n"/></e>
     <e lm="cricket"><i>cricket</i><par n="albatros__n"/></e>
     <e lm="farad"><i>farad</i><par n="albatros__n"/></e>
     <e lm="firn"><i>firn</i><par n="albatros__n"/></e>
@@ -101636,6 +101642,7 @@
     <e lm="osteosarcoma"><i>osteosarcom</i><par n="autom/a__n"/></e>
     <e lm="papilloma"><i>papillom</i><par n="autom/a__n"/></e>
     <e lm="protoplasma"><i>protoplasm</i><par n="autom/a__n"/></e>
+    <e lm="sarcoplasma"><i>sarcoplasm</i><par n="autom/a__n"/></e>
     <e lm="pigiama"><i>pigiam</i><par n="autom/a__n"/></e>
     <e lm="retinoblastoma"><i>retinoblastom</i><par n="autom/a__n"/></e>
     <e lm="stigma"><i>stigm</i><par n="autom/a__n"/></e>
@@ -101905,8 +101912,7 @@
     <e lm="responsorio"><i>responsori</i><par n="abbagli/o__n"/></e>
     <e lm="saccarosio"><i>saccarosi</i><par n="abbagli/o__n"/></e>
     <e lm="buco"><i>buc</i><par n="fung/o__n"/></e>
-    <e lm="farmaco"><i>farmac</i><par n="fung/o__n"/></e>
-    <e lm="farmaco" r="LR"><i>farmac</i><par n="abbain/o__n"/></e>
+    <e lm="farmaco" r="LR"><i>farmac</i><par n="fung/o__n"/></e>
     <e lm="intonaco"><i>intonac</i><par n="fung/o__n"/></e>
     <e lm="siniscalco"><i>siniscalc</i><par n="fung/o__n"/></e>
   </section>
